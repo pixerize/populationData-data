@@ -1,8 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-0 ,0 ,0 ,0 ,0 ,3,1
- 0, 0, 0, 0, 0,1,1
-'1','1','1','1','1',3,1
-'2','2','2','2','2',3,1
+<0,<0,<0,<0,<0,3,1
+<1,<1,<1,<1,<1,3,1
+<2,<2,<2,<2,<2,3,1
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,17,3
 _U,Unknown,Nepoznato,Непознато,Nepoznato,5,1
 _X,Not available,Nije dostupno,Није доступно,Nije dostupno,2,1
