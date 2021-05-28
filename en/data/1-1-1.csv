@@ -1,13 +1,13 @@
 Year,UNIT_MEASURE,Sex,Age,Value
-1971,Number,Both sexes or no breakdown by sex,under 1 year old,78188
-1971,Number,Male,under 1 year old,39855
-1971,Number,Female,under 1 year old,38333
-1981,Number,Both sexes or no breakdown by sex,under 1 year old,71881
-1981,Number,Male,under 1 year old,36601
-1981,Number,Female,under 1 year old,35280
-1991,Number,Both sexes or no breakdown by sex,under 1 year old,62844
-1991,Number,Male,under 1 year old,32274
-1991,Number,Female,under 1 year old,30570
-2013,Number,Both sexes or no breakdown by sex,under 1 year old,32986
-2013,Number,Male,under 1 year old,16903
-2013,Number,Female,under 1 year old,16083
+1971,Number,Both sexes or no breakdown by sex,'0',78188
+1971,Number,Male,'0',39855
+1971,Number,Female,'0',38333
+1981,Number,Both sexes or no breakdown by sex,'0',71881
+1981,Number,Male,'0',36601
+1981,Number,Female,'0',35280
+1991,Number,Both sexes or no breakdown by sex,'0',62844
+1991,Number,Male,'0',32274
+1991,Number,Female,'0',30570
+2013,Number,Both sexes or no breakdown by sex,'0',32986
+2013,Number,Male,'0',16903
+2013,Number,Female,'0',16083
