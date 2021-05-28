@@ -1,13 +1,13 @@
 Year,UNIT_MEASURE,Spol,Godine,Value
-1971,Broj,Oba spola ili bez podjele po spolu,"""0""",78188
-1971,Broj,Muškarci,"""0""",39855
-1971,Broj,Žene,"""0""",38333
-1981,Broj,Oba spola ili bez podjele po spolu,"""0""",71881
-1981,Broj,Muškarci,"""0""",36601
-1981,Broj,Žene,"""0""",35280
-1991,Broj,Oba spola ili bez podjele po spolu,"""0""",62844
-1991,Broj,Muškarci,"""0""",32274
-1991,Broj,Žene,"""0""",30570
-2013,Broj,Oba spola ili bez podjele po spolu,"""0""",32986
-2013,Broj,Muškarci,"""0""",16903
-2013,Broj,Žene,"""0""",16083
+1971,Broj,Oba spola ili bez podjele po spolu,Mlađi od 1 godine,78188
+1971,Broj,Muškarci,Mlađi od 1 godine,39855
+1971,Broj,Žene,Mlađi od 1 godine,38333
+1981,Broj,Oba spola ili bez podjele po spolu,Mlađi od 1 godine,71881
+1981,Broj,Muškarci,Mlađi od 1 godine,36601
+1981,Broj,Žene,Mlađi od 1 godine,35280
+1991,Broj,Oba spola ili bez podjele po spolu,Mlađi od 1 godine,62844
+1991,Broj,Muškarci,Mlađi od 1 godine,32274
+1991,Broj,Žene,Mlađi od 1 godine,30570
+2013,Broj,Oba spola ili bez podjele po spolu,Mlađi od 1 godine,32986
+2013,Broj,Muškarci,Mlađi od 1 godine,16903
+2013,Broj,Žene,Mlađi od 1 godine,16083
