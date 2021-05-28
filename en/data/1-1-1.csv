@@ -1,13 +1,13 @@
 Year,UNIT_MEASURE,Sex,Value
-1971,Number,Total,78188
-1981,Number,Total,78436
-1991,Number,Total,79185
-2013,Number,Total,83244
-1971,Number,male,12000
-1981,Number,male,13000
-1991,Number,male,14000
-2013,Number,male,15000
-1971,Number,female,50000
-1981,Number,female,50000
-1991,Number,female,50000
-2013,Number,female,50000
+1971,Number,Both sexes or no breakdown by sex,78188
+1981,Number,Both sexes or no breakdown by sex,78436
+1991,Number,Both sexes or no breakdown by sex,79185
+2013,Number,Both sexes or no breakdown by sex,83244
+1971,Number,Male,12000
+1981,Number,Male,13000
+1991,Number,Male,14000
+2013,Number,Male,15000
+1971,Number,Female,50000
+1981,Number,Female,50000
+1991,Number,Female,50000
+2013,Number,Female,50000
