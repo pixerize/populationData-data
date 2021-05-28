@@ -1,13 +1,13 @@
-Year,UNIT_MEASURE,Sex,Value
-1971,Number,Both sexes or no breakdown by sex,78188
-1971,Number,Male,39855
-1971,Number,Female,38333
-1981,Number,Both sexes or no breakdown by sex,71881
-1981,Number,Male,36601
-1981,Number,Female,35280
-1991,Number,Both sexes or no breakdown by sex,62844
-1991,Number,Male,32274
-1991,Number,Female,30570
-2013,Number,Both sexes or no breakdown by sex,32986
-2013,Number,Male,16903
-2013,Number,Female,16083
+Year,UNIT_MEASURE,Sex,Age,Value
+1971,Number,Both sexes or no breakdown by sex,"""0""",78188
+1971,Number,Male,"""0""",39855
+1971,Number,Female,"""0""",38333
+1981,Number,Both sexes or no breakdown by sex,"""0""",71881
+1981,Number,Male,"""0""",36601
+1981,Number,Female,"""0""",35280
+1991,Number,Both sexes or no breakdown by sex,"""0""",62844
+1991,Number,Male,"""0""",32274
+1991,Number,Female,"""0""",30570
+2013,Number,Both sexes or no breakdown by sex,"""0""",32986
+2013,Number,Male,"""0""",16903
+2013,Number,Female,"""0""",16083
