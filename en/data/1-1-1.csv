@@ -24,14 +24,14 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2013,Number,Male, 1,17554
 2013,Number,Female,. 1,16740
 1971,Number,Both sexes or no breakdown by sex, 2,79185
-1971,Number,Male,. 2,40345
-1971,Number,Female,. 2,38840
-1981,Number,Both sexes or no breakdown by sex,. 2,67249
-1981,Number,Male,. 2,34457
-1981,Number,Female,. 2,32792
-1991,Number,Both sexes or no breakdown by sex,. 2,64263
-1991,Number,Male,. 2,32868
-1991,Number,Female,. 2,31395
-2013,Number,Both sexes or no breakdown by sex,. 2,34389
-2013,Number,Male,. 2,17702
-2013,Number,Female,. 2,16687
+1971,Number,Male, 2,40345
+1971,Number,Female, 2,38840
+1981,Number,Both sexes or no breakdown by sex, 2,67249
+1981,Number,Male, 2,34457
+1981,Number,Female, 2,32792
+1991,Number,Both sexes or no breakdown by sex, 2,64263
+1991,Number,Male, 2,32868
+1991,Number,Female, 2,31395
+2013,Number,Both sexes or no breakdown by sex, 2,34389
+2013,Number,Male, 2,17702
+2013,Number,Female, 2,16687
