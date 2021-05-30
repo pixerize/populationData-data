@@ -1,1 +1,1 @@
-{"data":{"Year":[1971,1971,1971,1981,1981,1981],"UNIT_MEASURE":["NUMBER","NUMBER","NUMBER","NUMBER","NUMBER","NUMBER"],"SEX":["_T","M","F","_T","M","F"],"AGE":[" 0"," 0"," 0"," 0"," 0"," '0'"],"Value":[78188,39855,38333,71881,36601,35280]},"edges":{"From":["SEX"],"To":["AGE"]}}
+{"data":{"Year":[1971,1971,1971,1981],"UNIT_MEASURE":["NUMBER","NUMBER","NUMBER","NUMBER"],"SEX":["_T","M","F","_T"],"AGE":["0","0","0","0"],"Value":[78188,39855,38333,71881]},"edges":{"From":["SEX"],"To":["AGE"]}}

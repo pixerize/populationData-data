@@ -6,11 +6,11 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>SDG data build documentation - Disaggregation: PRODUCT</title>
+            <title>Disaggregation: PRODUCT - SDG data build documentation</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
             <style>
                 .btn-primary {
                     background-color: #1D70B8;
@@ -19,6 +19,9 @@
                 a {
                     color: #1D70B8;
                     text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
                 }
             </style>
         </head>
@@ -33,22 +36,26 @@
                     <h1 style="margin:20px 0">Disaggregation: PRODUCT</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#values-used">Values used in disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#indicators-using">Indicators using disaggregation</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="values-used">Values used in disaggregation</h2>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--product.csv" class="btn btn-primary">Download CSV</a>
+            <a href="values--disaggregation--product.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--product">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--product" class="download-info">Size: 2.2 kB</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">23</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
     <tr style="text-align: right;">
       <th>Value</th>
@@ -270,19 +277,26 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--_t_.html\">_T<\/a>","en":"No breakdown","bs":"Bez podjele","sr":"\u0411\u0435\u0437 \u043f\u043e\u0434\u0458\u0435\u043b\u0435","hr":"Bez podjele","Disaggregation combinations using this value":9,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--agg_agr.html\">AGG_AGR<\/a>","en":"Agriculture products","bs":"Poljoprivredni proizvodi","sr":"\u041f\u043e\u0459\u043e\u043f\u0440\u0438\u0432\u0440\u0435\u0434\u043d\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438","hr":"Poljoprivredni proizvodi","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--agg_arms.html\">AGG_ARMS<\/a>","en":"Arms","bs":"Oru\u017eje","sr":"\u041e\u0440\u0443\u0436\u0458\u0435","hr":"Oru\u017eje","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--agg_clth.html\">AGG_CLTH<\/a>","en":"Clothing","bs":"Odje\u0107a","sr":"\u041e\u0434\u0458\u0435\u045b\u0430","hr":"Odje\u0107a","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--agg_ind.html\">AGG_IND<\/a>","en":"Industrial products","bs":"Industrijski proizvodi","sr":"\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0458\u0441\u043a\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438","hr":"Industrijski proizvodi","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--agg_oil.html\">AGG_OIL<\/a>","en":"Oil","bs":"Nafta ili ulje","sr":"\u041d\u0430\u0444\u0442\u0430 \u0438\u043b\u0438 \u0443\u0459\u0435","hr":"Nafta ili ulje","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--agg_txt.html\">AGG_TXT<\/a>","en":"Textiles","bs":"Tekstil","sr":"\u0422\u0435\u043a\u0441\u0442\u0438\u043b","hr":"Tekstil","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf1.html\">MF1<\/a>","en":"Biomass","bs":"Biomasa","sr":"\u0411\u0438\u043e\u043c\u0430\u0441\u0430","hr":"Biomasa","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf11.html\">MF11<\/a>","en":"Crops","bs":"Usjevi","sr":"\u0423\u0441\u0458\u0435\u0432\u0438","hr":"Usjevi","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf121.html\">MF121<\/a>","en":"Crop residues","bs":"Ostaci usjeva","sr":"\u041e\u0441\u0442\u0430\u0446\u0438 \u0443\u0441\u0458\u0435\u0432\u0430","hr":"Ostaci usjeva","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf122.html\">MF122<\/a>","en":"Grazed biomass and fodder crops","bs":"Sto\u010dna hrana i krmno bilje","sr":"\u0421\u0442\u043e\u0447\u043d\u0430 \u0445\u0440\u0430\u043d\u0430 \u0438 \u043a\u0440\u043c\u043d\u043e \u0431\u0438\u0459\u0435","hr":"Sto\u010dna hrana i krmno bilje","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf13.html\">MF13<\/a>","en":"Wood","bs":"Drvo","sr":"\u0414\u0440\u0432\u043e","hr":"Drvo","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf14.html\">MF14<\/a>","en":"Wild catch and harvest","bs":"Divlji ulov i \u017eetva","sr":"\u0414\u0438\u0432\u0459\u0438 \u0443\u043b\u043e\u0432 \u0438 \u0436\u0435\u0442\u0432\u0430","hr":"Divlji ulov i \u017eetva","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf2.html\">MF2<\/a>","en":"Metal ores","bs":"Metalne rude","sr":"\u041c\u0435\u0442\u0430\u043b\u043d\u0435 \u0440\u0443\u0434\u0435","hr":"Metalne rude","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf21.html\">MF21<\/a>","en":"Ferrous ores","bs":"Rude \u017eeljeza","sr":"\u0420\u0443\u0434\u0435 \u0436\u0435\u0459\u0435\u0437\u0430","hr":"Rude \u017eeljeza","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf22.html\">MF22<\/a>","en":"Non-ferrous ores","bs":"Rude obojenih metala","sr":"\u0420\u0443\u0434\u0435 \u043e\u0431\u043e\u0458\u0435\u043d\u0438\u0445 \u043c\u0435\u0442\u0430\u043b\u0430","hr":"Rude obojenih metala","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf3.html\">MF3<\/a>","en":"Non-metallic minerals","bs":"Nemetalni minerali","sr":"\u041d\u0435\u043c\u0435\u0442\u0430\u043b\u043d\u0438 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0438","hr":"Nemetalni minerali","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf4.html\">MF4<\/a>","en":"Fossil fuels","bs":"Fosilna goriva","sr":"\u0424\u043e\u0441\u0438\u043b\u043d\u0430 \u0433\u043e\u0440\u0438\u0432\u0430","hr":"Fosilna goriva","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf41.html\">MF41<\/a>","en":"Coal","bs":"Ugalj","sr":"\u0423\u0433\u0430\u0459","hr":"Ugljen","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf421.html\">MF421<\/a>","en":"Petroleum","bs":"Nafta","sr":"\u041d\u0430\u0444\u0442\u0430","hr":"Nafta","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf422.html\">MF422<\/a>","en":"Natural gas","bs":"Prirodni gas","sr":"\u041f\u0440\u0438\u0440\u043e\u0434\u043d\u0438 \u0433\u0430\u0441","hr":"Prirodni plin","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf_agg3a.html\">MF_AGG3A<\/a>","en":"Non-metallic minerals - construction dominant","bs":"Nemetalni minerali - dominantna gradnja","sr":"\u041d\u0435\u043c\u0435\u0442\u0430\u043b\u043d\u0438 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0438 - \u0434\u043e\u043c\u0438\u043d\u0430\u043d\u0442\u043d\u0430 \u0433\u0440\u0430\u0434\u045a\u0430","hr":"Nemetalni minerali - dominantna gradnja","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mf_agg3b.html\">MF_AGG3B<\/a>","en":"Non-metallic minerals - industrial or agricultural dominant","bs":"Nemetalni minerali - dominantni u industriji ili poljoprivredi","sr":"\u041d\u0435\u043c\u0435\u0442\u0430\u043b\u043d\u0438 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0438 - \u0434\u043e\u043c\u0438\u043d\u0430\u043d\u0442\u043d\u0438 \u0443 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0458\u0438 \u0438\u043b\u0438 \u043f\u043e\u0459\u043e\u043f\u0440\u0438\u0432\u0440\u0435\u0434\u0438","hr":"Nemetalni minerali - dominantni u industriji ili poljoprivredi","Disaggregation combinations using this value":6,"Number of indicators":2}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="indicators-using">Indicators using disaggregation</h2>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
             
         <div class="my-3">
-            <a href="indicators--disaggregation--product.csv" class="btn btn-primary">Download CSV</a>
+            <a href="indicators--disaggregation--product.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--product">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--product" class="download-info">Size: 42 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">4</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -303,17 +317,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/sdgbosnia.co.uk\/10-a-1\">#10-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdgbosnia.co.uk\/12-2-2\">#12-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdgbosnia.co.uk\/17-10-1\">#17-10-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdgbosnia.co.uk\/8-4-2\">#8-4-2<\/a>"}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         

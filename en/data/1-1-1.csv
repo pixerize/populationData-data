@@ -1,7 +1,5 @@
 Year,UNIT_MEASURE,Sex,Age,Value
-1971,Number,Both sexes or no breakdown by sex, 0,78188
-1971,Number,Male, 0,39855
-1971,Number,Female, 0,38333
-1981,Number,Both sexes or no breakdown by sex, 0,71881
-1981,Number,Male, 0,36601
-1981,Number,Female, '0',35280
+1971,Number,Both sexes or no breakdown by sex,0,78188
+1971,Number,Male,0,39855
+1971,Number,Female,0,38333
+1981,Number,Both sexes or no breakdown by sex,0,71881
