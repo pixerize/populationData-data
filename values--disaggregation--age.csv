@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-0,0,0,0,0,2,2
-1,1,1,1,1,2,2
+0,0,0,0,0,1,1
+1,1,1,1,1,1,1
 10,10,10,10,10,1,1
 100,100,100,100,100,1,1
 101,101,101,101,101,1,1
@@ -32,7 +32,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 17,17,17,17,17,1,1
 18,18,18,18,18,1,1
 19,19,19,19,19,1,1
-2,2,2,2,2,2,2
+2,2,2,2,2,1,1
 20,20,20,20,20,1,1
 21,21,21,21,21,1,1
 22,22,22,22,22,1,1
@@ -123,6 +123,9 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,17,3
 _U,Unknown,Nepoznato,Непознато,Nepoznato,5,1
 _X,Not available,Nije dostupno,Није доступно,Nije dostupno,2,1
+a,a,a,a,a,1,1
+b,b,b,b,b,1,1
+c,c,c,c,c,1,1
 M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,Mlađi od 1 mjeseca,2,1
 Total,Total,Total,Total,Total,1,1
 Unknown,Unknown,Unknown,Unknown,Unknown,1,1
