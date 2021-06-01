@@ -1,13 +1,275 @@
-Year,SERIES,UNIT_MEASURE,Spol,Value
-2009,Udio stanovništva iznad zakonske dobne granice za mirovinu koji primaju mirovinu,Postotak,Oba spola ili bez podjele po spolu,29.6
-2001,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.2
-2005,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.6
-2007,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.6
-2009,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.4
-2010,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.6
-2011,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.0
-2007,Udio stanovništva obuhvaćenog programima tržišta rada,Postotak,,2.03118
-2007,Udio stanovništva obuhvaćenog programima socijalne skrbi,Postotak,,20.50947
-2015,Udio stanovništva obuhvaćenog programima socijalne skrbi,Postotak,,17.4175
-2007,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Postotak,,41.52379
-2015,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Postotak,,40.16296
+Year,UNIT_MEASURE,Spol,Godine,Value
+1971,Broj,Oba spola ili bez podjele po spolu,0-4,"405,505 "
+1971,Broj,Oba spola ili bez podjele po spolu,5-9,"442,665 "
+1971,Broj,Oba spola ili bez podjele po spolu,10-14,"442,199 "
+1971,Broj,Oba spola ili bez podjele po spolu,15-19,"411,387 "
+1971,Broj,Oba spola ili bez podjele po spolu,20-24,"319,317 "
+1971,Broj,Oba spola ili bez podjele po spolu,25-29,"225,727 "
+1971,Broj,Oba spola ili bez podjele po spolu,30-34,"289,810 "
+1971,Broj,Oba spola ili bez podjele po spolu,35-39,"280,482 "
+1971,Broj,Oba spola ili bez podjele po spolu,40-44,"243,016 "
+1971,Broj,Oba spola ili bez podjele po spolu,45-49,"166,241 "
+1971,Broj,Oba spola ili bez podjele po spolu,50-54,"101,840 "
+1971,Broj,Oba spola ili bez podjele po spolu,55-59,"114,629 "
+1971,Broj,Oba spola ili bez podjele po spolu,60-64,"112,727 "
+1971,Broj,Oba spola ili bez podjele po spolu,65-69,"79,808 "
+1971,Broj,Oba spola ili bez podjele po spolu,70-74,"53,549 "
+1971,Broj,Oba spola ili bez podjele po spolu,75-79,"23,050 "
+1971,Broj,Oba spola ili bez podjele po spolu,80-84,"12,152 "
+1971,Broj,Oba spola ili bez podjele po spolu,85-89,"5,112 "
+1971,Broj,Oba spola ili bez podjele po spolu,90-94,"1,938 "
+1971,Broj,Oba spola ili bez podjele po spolu,95-99,672 
+1971,Broj,Oba spola ili bez podjele po spolu,100-104,62 
+1971,Broj,Oba spola ili bez podjele po spolu,105-109,0 
+1971,Broj,Oba spola ili bez podjele po spolu,110-114,0 
+1971,Broj,Oba spola ili bez podjele po spolu,115-120,0 
+1971,Broj,Oba spola ili bez podjele po spolu,Unknown,"14,223 "
+1971,Broj,Oba spola ili bez podjele po spolu,Total,"3,746,111 "
+1971,Broj,Oba spola ili bez podjele po spolu,0-14,"1,290,369 "
+1971,Broj,Oba spola ili bez podjele po spolu,15-29,"956,431 "
+1971,Broj,Oba spola ili bez podjele po spolu,15-49,"1,935,980 "
+1971,Broj,Oba spola ili bez podjele po spolu,15-64,"2,265,176 "
+1971,Broj,Oba spola ili bez podjele po spolu,65+,"190,566 "
+1971,Broj,Oba spola ili bez podjele po spolu,75+,"57,209 "
+1971,Broj,Oba spola ili bez podjele po spolu,85+,"7,784 "
+1971,Broj,Oba spola ili bez podjele po spolu,100+,62 
+1971,Broj,Oba spola ili bez podjele po spolu,Total,3746111
+1981,Broj,Oba spola ili bez podjele po spolu,0-4,"348,720 "
+1981,Broj,Oba spola ili bez podjele po spolu,5-9,"362,855 "
+1981,Broj,Oba spola ili bez podjele po spolu,10-14,"387,869 "
+1981,Broj,Oba spola ili bez podjele po spolu,15-19,"428,671 "
+1981,Broj,Oba spola ili bez podjele po spolu,20-24,"392,276 "
+1981,Broj,Oba spola ili bez podjele po spolu,25-29,"330,104 "
+1981,Broj,Oba spola ili bez podjele po spolu,30-34,"259,178 "
+1981,Broj,Oba spola ili bez podjele po spolu,35-39,"195,788 "
+1981,Broj,Oba spola ili bez podjele po spolu,40-44,"260,540 "
+1981,Broj,Oba spola ili bez podjele po spolu,45-49,"254,943 "
+1981,Broj,Oba spola ili bez podjele po spolu,50-54,"224,174 "
+1981,Broj,Oba spola ili bez podjele po spolu,55-59,"152,576 "
+1981,Broj,Oba spola ili bez podjele po spolu,60-64,"89,657 "
+1981,Broj,Oba spola ili bez podjele po spolu,65-69,"92,097 "
+1981,Broj,Oba spola ili bez podjele po spolu,70-74,"77,492 "
+1981,Broj,Oba spola ili bez podjele po spolu,75-79,"44,546 "
+1981,Broj,Oba spola ili bez podjele po spolu,80-84,"23,569 "
+1981,Broj,Oba spola ili bez podjele po spolu,85-89,"6,881 "
+1981,Broj,Oba spola ili bez podjele po spolu,90-94,"2,608 "
+1981,Broj,Oba spola ili bez podjele po spolu,95-99,"1,000 "
+1981,Broj,Oba spola ili bez podjele po spolu,100-104,106 
+1981,Broj,Oba spola ili bez podjele po spolu,105-109,0 
+1981,Broj,Oba spola ili bez podjele po spolu,110-114,0 
+1981,Broj,Oba spola ili bez podjele po spolu,115-120,0 
+1981,Broj,Oba spola ili bez podjele po spolu,Unknown,"5,666 "
+1981,Broj,Oba spola ili bez podjele po spolu,Total,"3,941,316 "
+1981,Broj,Oba spola ili bez podjele po spolu,0-14,"1,099,444 "
+1981,Broj,Oba spola ili bez podjele po spolu,15-29,"1,151,051 "
+1981,Broj,Oba spola ili bez podjele po spolu,15-49,"2,121,500 "
+1981,Broj,Oba spola ili bez podjele po spolu,15-64,"2,587,907 "
+1981,Broj,Oba spola ili bez podjele po spolu,65+,"253,965 "
+1981,Broj,Oba spola ili bez podjele po spolu,75+,"84,376 "
+1981,Broj,Oba spola ili bez podjele po spolu,85+,"10,595 "
+1981,Broj,Oba spola ili bez podjele po spolu,100+,106 
+1991,Broj,Oba spola ili bez podjele po spolu,0-4,"322,488 "
+1991,Broj,Oba spola ili bez podjele po spolu,5-9,"337,110 "
+1991,Broj,Oba spola ili bez podjele po spolu,10-14,"334,737 "
+1991,Broj,Oba spola ili bez podjele po spolu,15-19,"342,529 "
+1991,Broj,Oba spola ili bez podjele po spolu,20-24,"339,058 "
+1991,Broj,Oba spola ili bez podjele po spolu,25-29,"351,369 "
+1991,Broj,Oba spola ili bez podjele po spolu,30-34,"343,262 "
+1991,Broj,Oba spola ili bez podjele po spolu,35-39,"310,908 "
+1991,Broj,Oba spola ili bez podjele po spolu,40-44,"248,999 "
+1991,Broj,Oba spola ili bez podjele po spolu,45-49,"184,321 "
+1991,Broj,Oba spola ili bez podjele po spolu,50-54,"242,783 "
+1991,Broj,Oba spola ili bez podjele po spolu,55-59,"233,048 "
+1991,Broj,Oba spola ili bez podjele po spolu,60-64,"196,519 "
+1991,Broj,Oba spola ili bez podjele po spolu,65-69,"124,174 "
+1991,Broj,Oba spola ili bez podjele po spolu,70-74,"62,699 "
+1991,Broj,Oba spola ili bez podjele po spolu,75-79,"50,669 "
+1991,Broj,Oba spola ili bez podjele po spolu,80-84,"30,759 "
+1991,Broj,Oba spola ili bez podjele po spolu,85-89,"11,524 "
+1991,Broj,Oba spola ili bez podjele po spolu,90-94,"2,886 "
+1991,Broj,Oba spola ili bez podjele po spolu,95-99,435 
+1991,Broj,Oba spola ili bez podjele po spolu,100-104,99 
+1991,Broj,Oba spola ili bez podjele po spolu,105-109,19 
+1991,Broj,Oba spola ili bez podjele po spolu,110-114,13 
+1991,Broj,Oba spola ili bez podjele po spolu,115-120,4 
+1991,Broj,Oba spola ili bez podjele po spolu,Unknown,"70,227 "
+1991,Broj,Oba spola ili bez podjele po spolu,Total,"4,140,639 "
+1991,Broj,Oba spola ili bez podjele po spolu,0-14,"994,335 "
+1991,Broj,Oba spola ili bez podjele po spolu,15-29,"1,032,956 "
+1991,Broj,Oba spola ili bez podjele po spolu,15-49,"2,120,446 "
+1991,Broj,Oba spola ili bez podjele po spolu,15-64,"2,792,796 "
+1991,Broj,Oba spola ili bez podjele po spolu,65+,"353,508 "
+1991,Broj,Oba spola ili bez podjele po spolu,75+,"166,635 "
+1991,Broj,Oba spola ili bez podjele po spolu,85+,"14,980 "
+1991,Broj,Oba spola ili bez podjele po spolu,100+,135 
+2013,Broj,Oba spola ili bez podjele po spolu,0-4,"174,064 "
+2013,Broj,Oba spola ili bez podjele po spolu,5-9,"176,980 "
+2013,Broj,Oba spola ili bez podjele po spolu,10-14,"192,675 "
+2013,Broj,Oba spola ili bez podjele po spolu,15-19,"242,742 "
+2013,Broj,Oba spola ili bez podjele po spolu,20-24,"228,056 "
+2013,Broj,Oba spola ili bez podjele po spolu,25-29,"252,318 "
+2013,Broj,Oba spola ili bez podjele po spolu,30-34,"252,633 "
+2013,Broj,Oba spola ili bez podjele po spolu,35-39,"249,266 "
+2013,Broj,Oba spola ili bez podjele po spolu,40-44,"241,138 "
+2013,Broj,Oba spola ili bez podjele po spolu,45-49,"260,928 "
+2013,Broj,Oba spola ili bez podjele po spolu,50-54,"276,575 "
+2013,Broj,Oba spola ili bez podjele po spolu,55-59,"258,537 "
+2013,Broj,Oba spola ili bez podjele po spolu,60-64,"223,251 "
+2013,Broj,Oba spola ili bez podjele po spolu,65-69,"153,569 "
+2013,Broj,Oba spola ili bez podjele po spolu,70-74,"140,455 "
+2013,Broj,Oba spola ili bez podjele po spolu,75-79,"117,267 "
+2013,Broj,Oba spola ili bez podjele po spolu,80-84,"62,636 "
+2013,Broj,Oba spola ili bez podjele po spolu,85-89,"22,522 "
+2013,Broj,Oba spola ili bez podjele po spolu,90-94,"4,862 "
+2013,Broj,Oba spola ili bez podjele po spolu,95-99,484 
+2013,Broj,Oba spola ili bez podjele po spolu,100-104,108 
+2013,Broj,Oba spola ili bez podjele po spolu,105-109,34 
+2013,Broj,Oba spola ili bez podjele po spolu,110-114,59 
+2013,Broj,Oba spola ili bez podjele po spolu,115-120,0 
+2013,Broj,Oba spola ili bez podjele po spolu,Unknown,0 
+2013,Broj,Oba spola ili bez podjele po spolu,Total,"3,531,159 "
+2013,Broj,Oba spola ili bez podjele po spolu,0-14,"543,719 "
+2013,Broj,Oba spola ili bez podjele po spolu,15-29,"723,116 "
+2013,Broj,Oba spola ili bez podjele po spolu,15-49,"1,727,081 "
+2013,Broj,Oba spola ili bez podjele po spolu,15-64,"2,485,444 "
+2013,Broj,Oba spola ili bez podjele po spolu,65+,"501,996 "
+2013,Broj,Oba spola ili bez podjele po spolu,75+,"207,972 "
+2013,Broj,Oba spola ili bez podjele po spolu,85+,"28,069 "
+2013,Broj,Oba spola ili bez podjele po spolu,100+,201 
+1971,Broj,Muškarci,0-4,"207,129 "
+1971,Broj,Muškarci,5-9,"225,726 "
+1971,Broj,Muškarci,10-14,"225,066 "
+1971,Broj,Muškarci,15-19,"209,215 "
+1971,Broj,Muškarci,20-24,"162,073 "
+1971,Broj,Muškarci,25-29,"109,724 "
+1971,Broj,Muškarci,30-34,"140,952 "
+1971,Broj,Muškarci,35-39,"139,035 "
+1971,Broj,Muškarci,40-44,"118,781 "
+1971,Broj,Muškarci,45-49,"70,017 "
+1971,Broj,Muškarci,50-54,"41,069 "
+1971,Broj,Muškarci,55-59,"48,828 "
+1971,Broj,Muškarci,60-64,"53,087 "
+1971,Broj,Muškarci,65-69,"37,590 "
+1971,Broj,Muškarci,70-74,"23,136 "
+1971,Broj,Muškarci,75-79,"9,502 "
+1971,Broj,Muškarci,80-84,"4,300 "
+1971,Broj,Muškarci,85-89,"1,636 "
+1971,Broj,Muškarci,90-94,555 
+1971,Broj,Muškarci,95-99,158 
+1971,Broj,Muškarci,100-104,15 
+1971,Broj,Muškarci,105-109,0 
+1971,Broj,Muškarci,110-114,0 
+1971,Broj,Muškarci,115-120,0 
+1971,Broj,Muškarci,Unknown,"7,006 "
+1971,Broj,Muškarci,Total,"1,834,600 "
+1971,Broj,Muškarci,0-14,"657,921 "
+1971,Broj,Muškarci,15-29,"481,012 "
+1971,Broj,Muškarci,15-49,"949,797 "
+1971,Broj,Muškarci,15-64,"1,092,781 "
+1971,Broj,Muškarci,65+,"83,898 "
+1971,Broj,Muškarci,75+,"23,172 "
+1971,Broj,Muškarci,85+,"2,364 "
+1971,Broj,Muškarci,100+,15 
+1971,Broj,Muškarci,Total,"178,030 "
+1981,Broj,Muškarci,0-4,"185,725 "
+1981,Broj,Muškarci,5-9,"198,722 "
+1981,Broj,Muškarci,10-14,"220,775 "
+1981,Broj,Muškarci,15-19,"205,585 "
+1981,Broj,Muškarci,20-24,"170,406 "
+1981,Broj,Muškarci,25-29,"125,706 "
+1981,Broj,Muškarci,30-34,"91,391 "
+1981,Broj,Muškarci,35-39,"123,183 "
+1981,Broj,Muškarci,40-44,"123,327 "
+1981,Broj,Muškarci,45-49,"107,239 "
+1981,Broj,Muškarci,50-54,"62,482 "
+1981,Broj,Muškarci,55-59,"35,034 "
+1981,Broj,Muškarci,60-64,"37,830 "
+1981,Broj,Muškarci,65-69,"34,700 "
+1981,Broj,Muškarci,70-74,"19,399 "
+1981,Broj,Muškarci,75-79,"9,446 "
+1981,Broj,Muškarci,80-84,"2,435 "
+1981,Broj,Muškarci,85-89,810 
+1981,Broj,Muškarci,90-94,320 
+1981,Broj,Muškarci,95-99,25 
+1981,Broj,Muškarci,100-104,0 
+1981,Broj,Muškarci,105-109,0 
+1981,Broj,Muškarci,110-114,0 
+1981,Broj,Muškarci,115-120,"2,923 "
+1981,Broj,Muškarci,Unknown,"1,935,493 "
+1981,Broj,Muškarci,Total,"3,941,316 "
+1981,Broj,Muškarci,0-14,"562,477 "
+1981,Broj,Muškarci,15-29,"596,766 "
+1981,Broj,Muškarci,15-49,"1,060,373 "
+1981,Broj,Muškarci,15-64,"1,265,128 "
+1981,Broj,Muškarci,65+,"107,888 "
+1981,Broj,Muškarci,75+,"35,358 "
+1981,Broj,Muškarci,85+,"3,590 "
+1981,Broj,Muškarci,100+,25 
+1991,Broj,Muškarci,0-4,"165,380 "
+1991,Broj,Muškarci,5-9,"172,585 "
+1991,Broj,Muškarci,10-14,"171,325 "
+1991,Broj,Muškarci,15-19,"176,899 "
+1991,Broj,Muškarci,20-24,"176,964 "
+1991,Broj,Muškarci,25-29,"180,750 "
+1991,Broj,Muškarci,30-34,"174,952 "
+1991,Broj,Muškarci,35-39,"158,175 "
+1991,Broj,Muškarci,40-44,"120,184 "
+1991,Broj,Muškarci,45-49,"86,297 "
+1991,Broj,Muškarci,50-54,"114,074 "
+1991,Broj,Muškarci,55-59,"110,798 "
+1991,Broj,Muškarci,60-64,"91,391 "
+1991,Broj,Muškarci,65-69,"47,796 "
+1991,Broj,Muškarci,70-74,"22,785 "
+1991,Broj,Muškarci,75-79,"19,076 "
+1991,Broj,Muškarci,80-84,"12,614 "
+1991,Broj,Muškarci,85-89,"4,367 "
+1991,Broj,Muškarci,90-94,927 
+1991,Broj,Muškarci,95-99,106 
+1991,Broj,Muškarci,100-104,14 
+1991,Broj,Muškarci,105-109,7 
+1991,Broj,Muškarci,110-114,4 
+1991,Broj,Muškarci,115-120,2 
+1991,Broj,Muškarci,Unknown,"33,305 "
+1991,Broj,Muškarci,Total,"2,040,777 "
+1991,Broj,Muškarci,0-14,"509,290 "
+1991,Broj,Muškarci,15-29,"534,613 "
+1991,Broj,Muškarci,15-49,"1,074,221 "
+1991,Broj,Muškarci,15-64,"1,390,484 "
+1991,Broj,Muškarci,65+,"141,003 "
+1991,Broj,Muškarci,75+,"70,422 "
+1991,Broj,Muškarci,85+,"5,427 "
+1991,Broj,Muškarci,100+,27 
+2013,Broj,Muškarci,0-4,"89,442 "
+2013,Broj,Muškarci,5-9,"90,881 "
+2013,Broj,Muškarci,10-14,"98,653 "
+2013,Broj,Muškarci,15-19,"124,900 "
+2013,Broj,Muškarci,20-24,"116,883 "
+2013,Broj,Muškarci,25-29,"129,248 "
+2013,Broj,Muškarci,30-34,"128,593 "
+2013,Broj,Muškarci,35-39,"126,145 "
+2013,Broj,Muškarci,40-44,"121,595 "
+2013,Broj,Muškarci,45-49,"130,087 "
+2013,Broj,Muškarci,50-54,"136,153 "
+2013,Broj,Muškarci,55-59,"125,576 "
+2013,Broj,Muškarci,60-64,"104,970 "
+2013,Broj,Muškarci,65-69,"69,066 "
+2013,Broj,Muškarci,70-74,"59,854 "
+2013,Broj,Muškarci,75-79,"47,403 "
+2013,Broj,Muškarci,80-84,"23,769 "
+2013,Broj,Muškarci,85-89,"7,555 "
+2013,Broj,Muškarci,90-94,"1,311 "
+2013,Broj,Muškarci,95-99,108 
+2013,Broj,Muškarci,100-104,29 
+2013,Broj,Muškarci,105-109,17 
+2013,Broj,Muškarci,110-114,32 
+2013,Broj,Muškarci,115-120,0 
+2013,Broj,Muškarci,Unknown,0 
+2013,Broj,Muškarci,Total,"1,732,270 "
+2013,Broj,Muškarci,0-14,"278,976 "
+2013,Broj,Muškarci,15-29,"371,031 "
+2013,Broj,Muškarci,15-49,"877,451 "
+2013,Broj,Muškarci,15-64,"1,244,150 "
+2013,Broj,Muškarci,65+,"209,144 "
+2013,Broj,Muškarci,75+,"80,224 "
+2013,Broj,Muškarci,85+,"9,052 "
+2013,Broj,Muškarci,100+,78 
