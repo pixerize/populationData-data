@@ -1,4 +1,265 @@
-Year,UNIT_MEASURE,Spol,Godine,ENTITY,Value
-2013,Broj,Oba spola ili bez podjele po spolu,a,Federacija BiH,21718
-2013,Broj,Oba spola ili bez podjele po spolu,b,Federacija BiH,22690
-2013,Broj,Oba spola ili bez podjele po spolu,c,Federacija BiH,22691
+Year,UNIT_MEASURE,Spol,Godine,Entitet,Value
+2013,Broj,Oba spola ili bez podjele po spolu,0,Federacija BiH,21718
+2013,Broj,Oba spola ili bez podjele po spolu,1,Federacija BiH,22690
+2013,Broj,Oba spola ili bez podjele po spolu,2,Federacija BiH,22691
+2013,Broj,Oba spola ili bez podjele po spolu,3,Federacija BiH,23664
+2013,Broj,Oba spola ili bez podjele po spolu,4,Federacija BiH,24080
+2013,Broj,Oba spola ili bez podjele po spolu,5,Federacija BiH,23892
+2013,Broj,Oba spola ili bez podjele po spolu,6,Federacija BiH,22901
+2013,Broj,Oba spola ili bez podjele po spolu,7,Federacija BiH,22965
+2013,Broj,Oba spola ili bez podjele po spolu,8,Federacija BiH,23147
+2013,Broj,Oba spola ili bez podjele po spolu,9,Federacija BiH,23147
+2013,Broj,Oba spola ili bez podjele po spolu,10,Federacija BiH,23884
+2013,Broj,Oba spola ili bez podjele po spolu,11,Federacija BiH,24043
+2013,Broj,Oba spola ili bez podjele po spolu,12,Federacija BiH,24989
+2013,Broj,Oba spola ili bez podjele po spolu,13,Federacija BiH,25785
+2013,Broj,Oba spola ili bez podjele po spolu,14,Federacija BiH,27352
+2013,Broj,Oba spola ili bez podjele po spolu,15,Federacija BiH,30464
+2013,Broj,Oba spola ili bez podjele po spolu,16,Federacija BiH,35091
+2013,Broj,Oba spola ili bez podjele po spolu,17,Federacija BiH,35286
+2013,Broj,Oba spola ili bez podjele po spolu,18,Federacija BiH,33903
+2013,Broj,Oba spola ili bez podjele po spolu,19,Federacija BiH,27137
+2013,Broj,Oba spola ili bez podjele po spolu,20,Federacija BiH,25325
+2013,Broj,Oba spola ili bez podjele po spolu,21,Federacija BiH,29600
+2013,Broj,Oba spola ili bez podjele po spolu,22,Federacija BiH,32119
+2013,Broj,Oba spola ili bez podjele po spolu,23,Federacija BiH,31990
+2013,Broj,Oba spola ili bez podjele po spolu,24,Federacija BiH,31868
+2013,Broj,Oba spola ili bez podjele po spolu,25,Federacija BiH,32919
+2013,Broj,Oba spola ili bez podjele po spolu,26,Federacija BiH,32539
+2013,Broj,Oba spola ili bez podjele po spolu,27,Federacija BiH,32484
+2013,Broj,Oba spola ili bez podjele po spolu,28,Federacija BiH,32610
+2013,Broj,Oba spola ili bez podjele po spolu,29,Federacija BiH,33651
+2013,Broj,Oba spola ili bez podjele po spolu,30,Federacija BiH,32390
+2013,Broj,Oba spola ili bez podjele po spolu,31,Federacija BiH,32319
+2013,Broj,Oba spola ili bez podjele po spolu,32,Federacija BiH,32749
+2013,Broj,Oba spola ili bez podjele po spolu,33,Federacija BiH,31974
+2013,Broj,Oba spola ili bez podjele po spolu,34,Federacija BiH,31556
+2013,Broj,Oba spola ili bez podjele po spolu,35,Federacija BiH,31528
+2013,Broj,Oba spola ili bez podjele po spolu,36,Federacija BiH,31538
+2013,Broj,Oba spola ili bez podjele po spolu,37,Federacija BiH,32341
+2013,Broj,Oba spola ili bez podjele po spolu,38,Federacija BiH,31321
+2013,Broj,Oba spola ili bez podjele po spolu,39,Federacija BiH,30987
+2013,Broj,Oba spola ili bez podjele po spolu,40,Federacija BiH,30584
+2013,Broj,Oba spola ili bez podjele po spolu,41,Federacija BiH,31771
+2013,Broj,Oba spola ili bez podjele po spolu,42,Federacija BiH,31017
+2013,Broj,Oba spola ili bez podjele po spolu,43,Federacija BiH,29652
+2013,Broj,Oba spola ili bez podjele po spolu,44,Federacija BiH,31806
+2013,Broj,Oba spola ili bez podjele po spolu,45,Federacija BiH,32017
+2013,Broj,Oba spola ili bez podjele po spolu,46,Federacija BiH,33018
+2013,Broj,Oba spola ili bez podjele po spolu,47,Federacija BiH,33813
+2013,Broj,Oba spola ili bez podjele po spolu,48,Federacija BiH,34178
+2013,Broj,Oba spola ili bez podjele po spolu,49,Federacija BiH,34083
+2013,Broj,Oba spola ili bez podjele po spolu,50,Federacija BiH,34340
+2013,Broj,Oba spola ili bez podjele po spolu,51,Federacija BiH,35525
+2013,Broj,Oba spola ili bez podjele po spolu,52,Federacija BiH,35006
+2013,Broj,Oba spola ili bez podjele po spolu,53,Federacija BiH,34518
+2013,Broj,Oba spola ili bez podjele po spolu,54,Federacija BiH,34607
+2013,Broj,Oba spola ili bez podjele po spolu,55,Federacija BiH,32581
+2013,Broj,Oba spola ili bez podjele po spolu,56,Federacija BiH,30906
+2013,Broj,Oba spola ili bez podjele po spolu,57,Federacija BiH,31264
+2013,Broj,Oba spola ili bez podjele po spolu,58,Federacija BiH,31461
+2013,Broj,Oba spola ili bez podjele po spolu,59,Federacija BiH,29877
+2013,Broj,Oba spola ili bez podjele po spolu,60,Federacija BiH,29631
+2013,Broj,Oba spola ili bez podjele po spolu,61,Federacija BiH,26762
+2013,Broj,Oba spola ili bez podjele po spolu,62,Federacija BiH,24438
+2013,Broj,Oba spola ili bez podjele po spolu,63,Federacija BiH,24535
+2013,Broj,Oba spola ili bez podjele po spolu,64,Federacija BiH,23247
+2013,Broj,Oba spola ili bez podjele po spolu,65,Federacija BiH,20490
+2013,Broj,Oba spola ili bez podjele po spolu,66,Federacija BiH,21656
+2013,Broj,Oba spola ili bez podjele po spolu,67,Federacija BiH,16531
+2013,Broj,Oba spola ili bez podjele po spolu,68,Federacija BiH,15234
+2013,Broj,Oba spola ili bez podjele po spolu,69,Federacija BiH,14480
+2013,Broj,Oba spola ili bez podjele po spolu,70,Federacija BiH,14562
+2013,Broj,Oba spola ili bez podjele po spolu,71,Federacija BiH,16128
+2013,Broj,Oba spola ili bez podjele po spolu,72,Federacija BiH,16725
+2013,Broj,Oba spola ili bez podjele po spolu,73,Federacija BiH,17668
+2013,Broj,Oba spola ili bez podjele po spolu,74,Federacija BiH,15940
+2013,Broj,Oba spola ili bez podjele po spolu,75,Federacija BiH,15320
+2013,Broj,Oba spola ili bez podjele po spolu,76,Federacija BiH,14194
+2013,Broj,Oba spola ili bez podjele po spolu,77,Federacija BiH,13342
+2013,Broj,Oba spola ili bez podjele po spolu,78,Federacija BiH,11991
+2013,Broj,Oba spola ili bez podjele po spolu,79,Federacija BiH,10766
+2013,Broj,Oba spola ili bez podjele po spolu,80,Federacija BiH,9117
+2013,Broj,Oba spola ili bez podjele po spolu,81,Federacija BiH,8359
+2013,Broj,Oba spola ili bez podjele po spolu,82,Federacija BiH,6844
+2013,Broj,Oba spola ili bez podjele po spolu,83,Federacija BiH,6095
+2013,Broj,Oba spola ili bez podjele po spolu,84,Federacija BiH,4812
+2013,Broj,Oba spola ili bez podjele po spolu,85+,Federacija BiH,15692
+2013,Broj,Oba spola ili bez podjele po spolu,Unknown,Federacija BiH,0
+2013,Broj,Oba spola ili bez podjele po spolu,Total,Federacija BiH,2219220
+2013,Broj,Muškarci,0,Federacija BiH,11137
+2013,Broj,Muškarci,1,Federacija BiH,11702
+2013,Broj,Muškarci,2,Federacija BiH,11635
+2013,Broj,Muškarci,3,Federacija BiH,12190
+2013,Broj,Muškarci,4,Federacija BiH,12353
+2013,Broj,Muškarci,5,Federacija BiH,12274
+2013,Broj,Muškarci,6,Federacija BiH,11829
+2013,Broj,Muškarci,7,Federacija BiH,11750
+2013,Broj,Muškarci,8,Federacija BiH,11870
+2013,Broj,Muškarci,9,Federacija BiH,11910
+2013,Broj,Muškarci,10,Federacija BiH,12366
+2013,Broj,Muškarci,11,Federacija BiH,12362
+2013,Broj,Muškarci,12,Federacija BiH,12787
+2013,Broj,Muškarci,13,Federacija BiH,13148
+2013,Broj,Muškarci,14,Federacija BiH,13830
+2013,Broj,Muškarci,15,Federacija BiH,15585
+2013,Broj,Muškarci,16,Federacija BiH,18159
+2013,Broj,Muškarci,17,Federacija BiH,18218
+2013,Broj,Muškarci,18,Federacija BiH,17312
+2013,Broj,Muškarci,19,Federacija BiH,14024
+2013,Broj,Muškarci,20,Federacija BiH,13053
+2013,Broj,Muškarci,21,Federacija BiH,14849
+2013,Broj,Muškarci,22,Federacija BiH,16459
+2013,Broj,Muškarci,23,Federacija BiH,16474
+2013,Broj,Muškarci,24,Federacija BiH,16268
+2013,Broj,Muškarci,25,Federacija BiH,16801
+2013,Broj,Muškarci,26,Federacija BiH,16894
+2013,Broj,Muškarci,27,Federacija BiH,16638
+2013,Broj,Muškarci,28,Federacija BiH,16721
+2013,Broj,Muškarci,29,Federacija BiH,17065
+2013,Broj,Muškarci,30,Federacija BiH,16504
+2013,Broj,Muškarci,31,Federacija BiH,16570
+2013,Broj,Muškarci,32,Federacija BiH,16694
+2013,Broj,Muškarci,33,Federacija BiH,16163
+2013,Broj,Muškarci,34,Federacija BiH,16001
+2013,Broj,Muškarci,35,Federacija BiH,15902
+2013,Broj,Muškarci,36,Federacija BiH,15826
+2013,Broj,Muškarci,37,Federacija BiH,16187
+2013,Broj,Muškarci,38,Federacija BiH,15675
+2013,Broj,Muškarci,39,Federacija BiH,15349
+2013,Broj,Muškarci,40,Federacija BiH,15127
+2013,Broj,Muškarci,41,Federacija BiH,15825
+2013,Broj,Muškarci,42,Federacija BiH,15475
+2013,Broj,Muškarci,43,Federacija BiH,14747
+2013,Broj,Muškarci,44,Federacija BiH,15948
+2013,Broj,Muškarci,45,Federacija BiH,15855
+2013,Broj,Muškarci,46,Federacija BiH,16405
+2013,Broj,Muškarci,47,Federacija BiH,16673
+2013,Broj,Muškarci,48,Federacija BiH,16805
+2013,Broj,Muškarci,49,Federacija BiH,16856
+2013,Broj,Muškarci,50,Federacija BiH,16932
+2013,Broj,Muškarci,51,Federacija BiH,17349
+2013,Broj,Muškarci,52,Federacija BiH,17203
+2013,Broj,Muškarci,53,Federacija BiH,16748
+2013,Broj,Muškarci,54,Federacija BiH,17071
+2013,Broj,Muškarci,55,Federacija BiH,15630
+2013,Broj,Muškarci,56,Federacija BiH,15129
+2013,Broj,Muškarci,57,Federacija BiH,15231
+2013,Broj,Muškarci,58,Federacija BiH,15090
+2013,Broj,Muškarci,59,Federacija BiH,14488
+2013,Broj,Muškarci,60,Federacija BiH,14056
+2013,Broj,Muškarci,61,Federacija BiH,12507
+2013,Broj,Muškarci,62,Federacija BiH,11394
+2013,Broj,Muškarci,63,Federacija BiH,11285
+2013,Broj,Muškarci,64,Federacija BiH,10657
+2013,Broj,Muškarci,65,Federacija BiH,9092
+2013,Broj,Muškarci,66,Federacija BiH,9797
+2013,Broj,Muškarci,67,Federacija BiH,7429
+2013,Broj,Muškarci,68,Federacija BiH,6681
+2013,Broj,Muškarci,69,Federacija BiH,6439
+2013,Broj,Muškarci,70,Federacija BiH,6237
+2013,Broj,Muškarci,71,Federacija BiH,6969
+2013,Broj,Muškarci,72,Federacija BiH,7080
+2013,Broj,Muškarci,73,Federacija BiH,7467
+2013,Broj,Muškarci,74,Federacija BiH,6692
+2013,Broj,Muškarci,75,Federacija BiH,6253
+2013,Broj,Muškarci,76,Federacija BiH,5904
+2013,Broj,Muškarci,77,Federacija BiH,5463
+2013,Broj,Muškarci,78,Federacija BiH,4769
+2013,Broj,Muškarci,79,Federacija BiH,4306
+2013,Broj,Muškarci,80,Federacija BiH,3486
+2013,Broj,Muškarci,81,Federacija BiH,3255
+2013,Broj,Muškarci,82,Federacija BiH,2677
+2013,Broj,Muškarci,83,Federacija BiH,2263
+2013,Broj,Muškarci,84,Federacija BiH,1812
+2013,Broj,Muškarci,85+,Federacija BiH,4902
+2013,Broj,Muškarci,Unknown,Federacija BiH,0
+2013,Broj,Muškarci,Total,Federacija BiH,1087993
+2013,Broj,Žene,0,Federacija BiH,10581
+2013,Broj,Žene,1,Federacija BiH,10988
+2013,Broj,Žene,2,Federacija BiH,11056
+2013,Broj,Žene,3,Federacija BiH,11474
+2013,Broj,Žene,4,Federacija BiH,11727
+2013,Broj,Žene,5,Federacija BiH,11618
+2013,Broj,Žene,6,Federacija BiH,11072
+2013,Broj,Žene,7,Federacija BiH,11215
+2013,Broj,Žene,8,Federacija BiH,11277
+2013,Broj,Žene,9,Federacija BiH,11237
+2013,Broj,Žene,10,Federacija BiH,11518
+2013,Broj,Žene,11,Federacija BiH,11681
+2013,Broj,Žene,12,Federacija BiH,12202
+2013,Broj,Žene,13,Federacija BiH,12637
+2013,Broj,Žene,14,Federacija BiH,13522
+2013,Broj,Žene,15,Federacija BiH,14879
+2013,Broj,Žene,16,Federacija BiH,16932
+2013,Broj,Žene,17,Federacija BiH,17068
+2013,Broj,Žene,18,Federacija BiH,16591
+2013,Broj,Žene,19,Federacija BiH,13113
+2013,Broj,Žene,20,Federacija BiH,12272
+2013,Broj,Žene,21,Federacija BiH,14751
+2013,Broj,Žene,22,Federacija BiH,15660
+2013,Broj,Žene,23,Federacija BiH,15516
+2013,Broj,Žene,24,Federacija BiH,15600
+2013,Broj,Žene,25,Federacija BiH,16118
+2013,Broj,Žene,26,Federacija BiH,15645
+2013,Broj,Žene,27,Federacija BiH,15846
+2013,Broj,Žene,28,Federacija BiH,15889
+2013,Broj,Žene,29,Federacija BiH,16586
+2013,Broj,Žene,30,Federacija BiH,15886
+2013,Broj,Žene,31,Federacija BiH,15749
+2013,Broj,Žene,32,Federacija BiH,16055
+2013,Broj,Žene,33,Federacija BiH,15811
+2013,Broj,Žene,34,Federacija BiH,15555
+2013,Broj,Žene,35,Federacija BiH,15626
+2013,Broj,Žene,36,Federacija BiH,15712
+2013,Broj,Žene,37,Federacija BiH,16154
+2013,Broj,Žene,38,Federacija BiH,15646
+2013,Broj,Žene,39,Federacija BiH,15638
+2013,Broj,Žene,40,Federacija BiH,15457
+2013,Broj,Žene,41,Federacija BiH,15946
+2013,Broj,Žene,42,Federacija BiH,15542
+2013,Broj,Žene,43,Federacija BiH,14905
+2013,Broj,Žene,44,Federacija BiH,15858
+2013,Broj,Žene,45,Federacija BiH,16162
+2013,Broj,Žene,46,Federacija BiH,16613
+2013,Broj,Žene,47,Federacija BiH,17140
+2013,Broj,Žene,48,Federacija BiH,17373
+2013,Broj,Žene,49,Federacija BiH,17227
+2013,Broj,Žene,50,Federacija BiH,17408
+2013,Broj,Žene,51,Federacija BiH,18176
+2013,Broj,Žene,52,Federacija BiH,17803
+2013,Broj,Žene,53,Federacija BiH,17770
+2013,Broj,Žene,54,Federacija BiH,17536
+2013,Broj,Žene,55,Federacija BiH,16951
+2013,Broj,Žene,56,Federacija BiH,15777
+2013,Broj,Žene,57,Federacija BiH,16033
+2013,Broj,Žene,58,Federacija BiH,16371
+2013,Broj,Žene,59,Federacija BiH,15389
+2013,Broj,Žene,60,Federacija BiH,15575
+2013,Broj,Žene,61,Federacija BiH,14255
+2013,Broj,Žene,62,Federacija BiH,13044
+2013,Broj,Žene,63,Federacija BiH,13250
+2013,Broj,Žene,64,Federacija BiH,12590
+2013,Broj,Žene,65,Federacija BiH,11398
+2013,Broj,Žene,66,Federacija BiH,11859
+2013,Broj,Žene,67,Federacija BiH,9102
+2013,Broj,Žene,68,Federacija BiH,8553
+2013,Broj,Žene,69,Federacija BiH,8041
+2013,Broj,Žene,70,Federacija BiH,8325
+2013,Broj,Žene,71,Federacija BiH,9159
+2013,Broj,Žene,72,Federacija BiH,9645
+2013,Broj,Žene,73,Federacija BiH,10201
+2013,Broj,Žene,74,Federacija BiH,9248
+2013,Broj,Žene,75,Federacija BiH,9067
+2013,Broj,Žene,76,Federacija BiH,8290
+2013,Broj,Žene,77,Federacija BiH,7879
+2013,Broj,Žene,78,Federacija BiH,7222
+2013,Broj,Žene,79,Federacija BiH,6460
+2013,Broj,Žene,80,Federacija BiH,5631
+2013,Broj,Žene,81,Federacija BiH,5104
+2013,Broj,Žene,82,Federacija BiH,4167
+2013,Broj,Žene,83,Federacija BiH,3832
+2013,Broj,Žene,84,Federacija BiH,3000
+2013,Broj,Žene,85+,Federacija BiH,10790
+2013,Broj,Žene,Unknown,Federacija BiH,0
+2013,Broj,Žene,Total,Federacija BiH,1131227

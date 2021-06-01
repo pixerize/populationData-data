@@ -1,4 +1,265 @@
-Year,UNIT_MEASURE,Sex,Age,ENTITY,Value
-2013,Number,Both sexes or no breakdown by sex,a,Federation of BiH,21718
-2013,Number,Both sexes or no breakdown by sex,b,Federation of BiH,22690
-2013,Number,Both sexes or no breakdown by sex,c,Federation of BiH,22691
+Year,UNIT_MEASURE,Sex,Age,Entity,Value
+2013,Number,Both sexes or no breakdown by sex,0,Federation of BiH,21718
+2013,Number,Both sexes or no breakdown by sex,1,Federation of BiH,22690
+2013,Number,Both sexes or no breakdown by sex,2,Federation of BiH,22691
+2013,Number,Both sexes or no breakdown by sex,3,Federation of BiH,23664
+2013,Number,Both sexes or no breakdown by sex,4,Federation of BiH,24080
+2013,Number,Both sexes or no breakdown by sex,5,Federation of BiH,23892
+2013,Number,Both sexes or no breakdown by sex,6,Federation of BiH,22901
+2013,Number,Both sexes or no breakdown by sex,7,Federation of BiH,22965
+2013,Number,Both sexes or no breakdown by sex,8,Federation of BiH,23147
+2013,Number,Both sexes or no breakdown by sex,9,Federation of BiH,23147
+2013,Number,Both sexes or no breakdown by sex,10,Federation of BiH,23884
+2013,Number,Both sexes or no breakdown by sex,11,Federation of BiH,24043
+2013,Number,Both sexes or no breakdown by sex,12,Federation of BiH,24989
+2013,Number,Both sexes or no breakdown by sex,13,Federation of BiH,25785
+2013,Number,Both sexes or no breakdown by sex,14,Federation of BiH,27352
+2013,Number,Both sexes or no breakdown by sex,15,Federation of BiH,30464
+2013,Number,Both sexes or no breakdown by sex,16,Federation of BiH,35091
+2013,Number,Both sexes or no breakdown by sex,17,Federation of BiH,35286
+2013,Number,Both sexes or no breakdown by sex,18,Federation of BiH,33903
+2013,Number,Both sexes or no breakdown by sex,19,Federation of BiH,27137
+2013,Number,Both sexes or no breakdown by sex,20,Federation of BiH,25325
+2013,Number,Both sexes or no breakdown by sex,21,Federation of BiH,29600
+2013,Number,Both sexes or no breakdown by sex,22,Federation of BiH,32119
+2013,Number,Both sexes or no breakdown by sex,23,Federation of BiH,31990
+2013,Number,Both sexes or no breakdown by sex,24,Federation of BiH,31868
+2013,Number,Both sexes or no breakdown by sex,25,Federation of BiH,32919
+2013,Number,Both sexes or no breakdown by sex,26,Federation of BiH,32539
+2013,Number,Both sexes or no breakdown by sex,27,Federation of BiH,32484
+2013,Number,Both sexes or no breakdown by sex,28,Federation of BiH,32610
+2013,Number,Both sexes or no breakdown by sex,29,Federation of BiH,33651
+2013,Number,Both sexes or no breakdown by sex,30,Federation of BiH,32390
+2013,Number,Both sexes or no breakdown by sex,31,Federation of BiH,32319
+2013,Number,Both sexes or no breakdown by sex,32,Federation of BiH,32749
+2013,Number,Both sexes or no breakdown by sex,33,Federation of BiH,31974
+2013,Number,Both sexes or no breakdown by sex,34,Federation of BiH,31556
+2013,Number,Both sexes or no breakdown by sex,35,Federation of BiH,31528
+2013,Number,Both sexes or no breakdown by sex,36,Federation of BiH,31538
+2013,Number,Both sexes or no breakdown by sex,37,Federation of BiH,32341
+2013,Number,Both sexes or no breakdown by sex,38,Federation of BiH,31321
+2013,Number,Both sexes or no breakdown by sex,39,Federation of BiH,30987
+2013,Number,Both sexes or no breakdown by sex,40,Federation of BiH,30584
+2013,Number,Both sexes or no breakdown by sex,41,Federation of BiH,31771
+2013,Number,Both sexes or no breakdown by sex,42,Federation of BiH,31017
+2013,Number,Both sexes or no breakdown by sex,43,Federation of BiH,29652
+2013,Number,Both sexes or no breakdown by sex,44,Federation of BiH,31806
+2013,Number,Both sexes or no breakdown by sex,45,Federation of BiH,32017
+2013,Number,Both sexes or no breakdown by sex,46,Federation of BiH,33018
+2013,Number,Both sexes or no breakdown by sex,47,Federation of BiH,33813
+2013,Number,Both sexes or no breakdown by sex,48,Federation of BiH,34178
+2013,Number,Both sexes or no breakdown by sex,49,Federation of BiH,34083
+2013,Number,Both sexes or no breakdown by sex,50,Federation of BiH,34340
+2013,Number,Both sexes or no breakdown by sex,51,Federation of BiH,35525
+2013,Number,Both sexes or no breakdown by sex,52,Federation of BiH,35006
+2013,Number,Both sexes or no breakdown by sex,53,Federation of BiH,34518
+2013,Number,Both sexes or no breakdown by sex,54,Federation of BiH,34607
+2013,Number,Both sexes or no breakdown by sex,55,Federation of BiH,32581
+2013,Number,Both sexes or no breakdown by sex,56,Federation of BiH,30906
+2013,Number,Both sexes or no breakdown by sex,57,Federation of BiH,31264
+2013,Number,Both sexes or no breakdown by sex,58,Federation of BiH,31461
+2013,Number,Both sexes or no breakdown by sex,59,Federation of BiH,29877
+2013,Number,Both sexes or no breakdown by sex,60,Federation of BiH,29631
+2013,Number,Both sexes or no breakdown by sex,61,Federation of BiH,26762
+2013,Number,Both sexes or no breakdown by sex,62,Federation of BiH,24438
+2013,Number,Both sexes or no breakdown by sex,63,Federation of BiH,24535
+2013,Number,Both sexes or no breakdown by sex,64,Federation of BiH,23247
+2013,Number,Both sexes or no breakdown by sex,65,Federation of BiH,20490
+2013,Number,Both sexes or no breakdown by sex,66,Federation of BiH,21656
+2013,Number,Both sexes or no breakdown by sex,67,Federation of BiH,16531
+2013,Number,Both sexes or no breakdown by sex,68,Federation of BiH,15234
+2013,Number,Both sexes or no breakdown by sex,69,Federation of BiH,14480
+2013,Number,Both sexes or no breakdown by sex,70,Federation of BiH,14562
+2013,Number,Both sexes or no breakdown by sex,71,Federation of BiH,16128
+2013,Number,Both sexes or no breakdown by sex,72,Federation of BiH,16725
+2013,Number,Both sexes or no breakdown by sex,73,Federation of BiH,17668
+2013,Number,Both sexes or no breakdown by sex,74,Federation of BiH,15940
+2013,Number,Both sexes or no breakdown by sex,75,Federation of BiH,15320
+2013,Number,Both sexes or no breakdown by sex,76,Federation of BiH,14194
+2013,Number,Both sexes or no breakdown by sex,77,Federation of BiH,13342
+2013,Number,Both sexes or no breakdown by sex,78,Federation of BiH,11991
+2013,Number,Both sexes or no breakdown by sex,79,Federation of BiH,10766
+2013,Number,Both sexes or no breakdown by sex,80,Federation of BiH,9117
+2013,Number,Both sexes or no breakdown by sex,81,Federation of BiH,8359
+2013,Number,Both sexes or no breakdown by sex,82,Federation of BiH,6844
+2013,Number,Both sexes or no breakdown by sex,83,Federation of BiH,6095
+2013,Number,Both sexes or no breakdown by sex,84,Federation of BiH,4812
+2013,Number,Both sexes or no breakdown by sex,85+,Federation of BiH,15692
+2013,Number,Both sexes or no breakdown by sex,Unknown,Federation of BiH,0
+2013,Number,Both sexes or no breakdown by sex,Total,Federation of BiH,2219220
+2013,Number,Male,0,Federation of BiH,11137
+2013,Number,Male,1,Federation of BiH,11702
+2013,Number,Male,2,Federation of BiH,11635
+2013,Number,Male,3,Federation of BiH,12190
+2013,Number,Male,4,Federation of BiH,12353
+2013,Number,Male,5,Federation of BiH,12274
+2013,Number,Male,6,Federation of BiH,11829
+2013,Number,Male,7,Federation of BiH,11750
+2013,Number,Male,8,Federation of BiH,11870
+2013,Number,Male,9,Federation of BiH,11910
+2013,Number,Male,10,Federation of BiH,12366
+2013,Number,Male,11,Federation of BiH,12362
+2013,Number,Male,12,Federation of BiH,12787
+2013,Number,Male,13,Federation of BiH,13148
+2013,Number,Male,14,Federation of BiH,13830
+2013,Number,Male,15,Federation of BiH,15585
+2013,Number,Male,16,Federation of BiH,18159
+2013,Number,Male,17,Federation of BiH,18218
+2013,Number,Male,18,Federation of BiH,17312
+2013,Number,Male,19,Federation of BiH,14024
+2013,Number,Male,20,Federation of BiH,13053
+2013,Number,Male,21,Federation of BiH,14849
+2013,Number,Male,22,Federation of BiH,16459
+2013,Number,Male,23,Federation of BiH,16474
+2013,Number,Male,24,Federation of BiH,16268
+2013,Number,Male,25,Federation of BiH,16801
+2013,Number,Male,26,Federation of BiH,16894
+2013,Number,Male,27,Federation of BiH,16638
+2013,Number,Male,28,Federation of BiH,16721
+2013,Number,Male,29,Federation of BiH,17065
+2013,Number,Male,30,Federation of BiH,16504
+2013,Number,Male,31,Federation of BiH,16570
+2013,Number,Male,32,Federation of BiH,16694
+2013,Number,Male,33,Federation of BiH,16163
+2013,Number,Male,34,Federation of BiH,16001
+2013,Number,Male,35,Federation of BiH,15902
+2013,Number,Male,36,Federation of BiH,15826
+2013,Number,Male,37,Federation of BiH,16187
+2013,Number,Male,38,Federation of BiH,15675
+2013,Number,Male,39,Federation of BiH,15349
+2013,Number,Male,40,Federation of BiH,15127
+2013,Number,Male,41,Federation of BiH,15825
+2013,Number,Male,42,Federation of BiH,15475
+2013,Number,Male,43,Federation of BiH,14747
+2013,Number,Male,44,Federation of BiH,15948
+2013,Number,Male,45,Federation of BiH,15855
+2013,Number,Male,46,Federation of BiH,16405
+2013,Number,Male,47,Federation of BiH,16673
+2013,Number,Male,48,Federation of BiH,16805
+2013,Number,Male,49,Federation of BiH,16856
+2013,Number,Male,50,Federation of BiH,16932
+2013,Number,Male,51,Federation of BiH,17349
+2013,Number,Male,52,Federation of BiH,17203
+2013,Number,Male,53,Federation of BiH,16748
+2013,Number,Male,54,Federation of BiH,17071
+2013,Number,Male,55,Federation of BiH,15630
+2013,Number,Male,56,Federation of BiH,15129
+2013,Number,Male,57,Federation of BiH,15231
+2013,Number,Male,58,Federation of BiH,15090
+2013,Number,Male,59,Federation of BiH,14488
+2013,Number,Male,60,Federation of BiH,14056
+2013,Number,Male,61,Federation of BiH,12507
+2013,Number,Male,62,Federation of BiH,11394
+2013,Number,Male,63,Federation of BiH,11285
+2013,Number,Male,64,Federation of BiH,10657
+2013,Number,Male,65,Federation of BiH,9092
+2013,Number,Male,66,Federation of BiH,9797
+2013,Number,Male,67,Federation of BiH,7429
+2013,Number,Male,68,Federation of BiH,6681
+2013,Number,Male,69,Federation of BiH,6439
+2013,Number,Male,70,Federation of BiH,6237
+2013,Number,Male,71,Federation of BiH,6969
+2013,Number,Male,72,Federation of BiH,7080
+2013,Number,Male,73,Federation of BiH,7467
+2013,Number,Male,74,Federation of BiH,6692
+2013,Number,Male,75,Federation of BiH,6253
+2013,Number,Male,76,Federation of BiH,5904
+2013,Number,Male,77,Federation of BiH,5463
+2013,Number,Male,78,Federation of BiH,4769
+2013,Number,Male,79,Federation of BiH,4306
+2013,Number,Male,80,Federation of BiH,3486
+2013,Number,Male,81,Federation of BiH,3255
+2013,Number,Male,82,Federation of BiH,2677
+2013,Number,Male,83,Federation of BiH,2263
+2013,Number,Male,84,Federation of BiH,1812
+2013,Number,Male,85+,Federation of BiH,4902
+2013,Number,Male,Unknown,Federation of BiH,0
+2013,Number,Male,Total,Federation of BiH,1087993
+2013,Number,Female,0,Federation of BiH,10581
+2013,Number,Female,1,Federation of BiH,10988
+2013,Number,Female,2,Federation of BiH,11056
+2013,Number,Female,3,Federation of BiH,11474
+2013,Number,Female,4,Federation of BiH,11727
+2013,Number,Female,5,Federation of BiH,11618
+2013,Number,Female,6,Federation of BiH,11072
+2013,Number,Female,7,Federation of BiH,11215
+2013,Number,Female,8,Federation of BiH,11277
+2013,Number,Female,9,Federation of BiH,11237
+2013,Number,Female,10,Federation of BiH,11518
+2013,Number,Female,11,Federation of BiH,11681
+2013,Number,Female,12,Federation of BiH,12202
+2013,Number,Female,13,Federation of BiH,12637
+2013,Number,Female,14,Federation of BiH,13522
+2013,Number,Female,15,Federation of BiH,14879
+2013,Number,Female,16,Federation of BiH,16932
+2013,Number,Female,17,Federation of BiH,17068
+2013,Number,Female,18,Federation of BiH,16591
+2013,Number,Female,19,Federation of BiH,13113
+2013,Number,Female,20,Federation of BiH,12272
+2013,Number,Female,21,Federation of BiH,14751
+2013,Number,Female,22,Federation of BiH,15660
+2013,Number,Female,23,Federation of BiH,15516
+2013,Number,Female,24,Federation of BiH,15600
+2013,Number,Female,25,Federation of BiH,16118
+2013,Number,Female,26,Federation of BiH,15645
+2013,Number,Female,27,Federation of BiH,15846
+2013,Number,Female,28,Federation of BiH,15889
+2013,Number,Female,29,Federation of BiH,16586
+2013,Number,Female,30,Federation of BiH,15886
+2013,Number,Female,31,Federation of BiH,15749
+2013,Number,Female,32,Federation of BiH,16055
+2013,Number,Female,33,Federation of BiH,15811
+2013,Number,Female,34,Federation of BiH,15555
+2013,Number,Female,35,Federation of BiH,15626
+2013,Number,Female,36,Federation of BiH,15712
+2013,Number,Female,37,Federation of BiH,16154
+2013,Number,Female,38,Federation of BiH,15646
+2013,Number,Female,39,Federation of BiH,15638
+2013,Number,Female,40,Federation of BiH,15457
+2013,Number,Female,41,Federation of BiH,15946
+2013,Number,Female,42,Federation of BiH,15542
+2013,Number,Female,43,Federation of BiH,14905
+2013,Number,Female,44,Federation of BiH,15858
+2013,Number,Female,45,Federation of BiH,16162
+2013,Number,Female,46,Federation of BiH,16613
+2013,Number,Female,47,Federation of BiH,17140
+2013,Number,Female,48,Federation of BiH,17373
+2013,Number,Female,49,Federation of BiH,17227
+2013,Number,Female,50,Federation of BiH,17408
+2013,Number,Female,51,Federation of BiH,18176
+2013,Number,Female,52,Federation of BiH,17803
+2013,Number,Female,53,Federation of BiH,17770
+2013,Number,Female,54,Federation of BiH,17536
+2013,Number,Female,55,Federation of BiH,16951
+2013,Number,Female,56,Federation of BiH,15777
+2013,Number,Female,57,Federation of BiH,16033
+2013,Number,Female,58,Federation of BiH,16371
+2013,Number,Female,59,Federation of BiH,15389
+2013,Number,Female,60,Federation of BiH,15575
+2013,Number,Female,61,Federation of BiH,14255
+2013,Number,Female,62,Federation of BiH,13044
+2013,Number,Female,63,Federation of BiH,13250
+2013,Number,Female,64,Federation of BiH,12590
+2013,Number,Female,65,Federation of BiH,11398
+2013,Number,Female,66,Federation of BiH,11859
+2013,Number,Female,67,Federation of BiH,9102
+2013,Number,Female,68,Federation of BiH,8553
+2013,Number,Female,69,Federation of BiH,8041
+2013,Number,Female,70,Federation of BiH,8325
+2013,Number,Female,71,Federation of BiH,9159
+2013,Number,Female,72,Federation of BiH,9645
+2013,Number,Female,73,Federation of BiH,10201
+2013,Number,Female,74,Federation of BiH,9248
+2013,Number,Female,75,Federation of BiH,9067
+2013,Number,Female,76,Federation of BiH,8290
+2013,Number,Female,77,Federation of BiH,7879
+2013,Number,Female,78,Federation of BiH,7222
+2013,Number,Female,79,Federation of BiH,6460
+2013,Number,Female,80,Federation of BiH,5631
+2013,Number,Female,81,Federation of BiH,5104
+2013,Number,Female,82,Federation of BiH,4167
+2013,Number,Female,83,Federation of BiH,3832
+2013,Number,Female,84,Federation of BiH,3000
+2013,Number,Female,85+,Federation of BiH,10790
+2013,Number,Female,Unknown,Federation of BiH,0
+2013,Number,Female,Total,Federation of BiH,1131227
