@@ -2,7 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"UNIT_MEASURE, SEX, AGE",3
 #1-2-1,"UNIT_MEASURE, SEX, AGE, Entity",4
 #1-3-1,"UNIT_MEASURE, SEX, AGE",3
-#1-4-1,"UNIT_MEASURE, SEX, AGE, Entity",4
+#1-4-1,"UNIT_MEASURE, SEX, AGE, Municipality",4
 #1-5-4,"SERIES, UNIT_MEASURE",2
 #1-a-1,"SERIES, UNIT_MEASURE",2
 #10-2-1,"SERIES, UNIT_MEASURE",2
