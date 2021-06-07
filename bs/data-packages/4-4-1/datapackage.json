@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola ili bez podjele po spolu",
+                "Žene",
+                "Muškarci",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Korištenje osnovne aritmetičke formule u proračunskoj tabeli",
+                "Kopiranje ili premještanje datoteke ili mape",
+                "Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta",
+                "Slanje e-pošte s priloženim datotekama",
+                "Izrada elektronskih prezentacija pomoću softvera za prezentacije",
+                "Pisanje računarskog programa pomoću specijalizovanog programskog jezika",
+                "Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",
+                "Prijenos datoteka između računara i drugih uređaja",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Udio mladih i odraslih sa vještinama informacionih i komunikacionih tehnologija (IKT), prema vrsti vještine"
+}

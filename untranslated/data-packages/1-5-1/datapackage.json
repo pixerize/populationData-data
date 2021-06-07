@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Banja Luka",
+                "Bihać",
+                "Bijeljina",
+                "Brčko",
+                "Bugojno",
+                "Cazin",
+                "Centar Sarajevo",
+                "Doboj",
+                "Gračanica",
+                "Gradačac",
+                "Gradiška",
+                "Ilidža",
+                "Kakanj",
+                "Kalesija",
+                "Laktaši",
+                "Livno",
+                "Lukavac",
+                "Mostar",
+                "Novi Grad Sarajevo",
+                "Novo Sarajevo",
+                "Prijedor",
+                "Prnjavor",
+                "Sanski Most",
+                "Srebrenik",
+                "Stari Grad Sarajevo",
+                "Teslić",
+                "Tešanj",
+                "Tomislavgrad",
+                "Travnik",
+                "Tuzla",
+                "Velika Kladuša",
+                "Visoko",
+                "Zavidovići",
+                "Zenica",
+                "Zvornik",
+                "Žepče",
+                "Živinice",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-5-1",
+  "title": "global_indicators.1-5-1-title"
+}

@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-c-1",
+  "title": "Broj zemalja koje ostvaruju napredak u ratifikaciji, prihvatanju i provođenju, kroz zakonske, političke, i institucionalne okvire, instrumenata koji se odnose na okeane a služe provođenju međunarodnog prava, onako kako to predviđa Konvencija Ujedinjenih nacija o pomorskom pravu, za očuvanje i održivu upotrebu okeana i njihovih resursa"
+}

@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "type of revenue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Порез на додану вриједност",
+                "Царинске дажбине, накнаде за царинско евидентирање и посебне дажбине",
+                "Акциза на увозне производе",
+                ""
+              ]
+            },
+            "title": "Type of revenue"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "revenue-from-indirect-taxes",
+  "title": "Приходи од индиректних пореза"
+}

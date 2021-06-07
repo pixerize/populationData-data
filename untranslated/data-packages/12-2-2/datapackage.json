@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "MF1",
+                "MF41",
+                "MF121",
+                "MF11",
+                "MF21",
+                "MF4",
+                "MF422",
+                "MF122",
+                "MF2",
+                "MF22",
+                "MF_AGG3B",
+                "MF_AGG3A",
+                "MF3",
+                "MF421",
+                "MF14",
+                "MF13",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-2-2",
+  "title": "global_indicators.12-2-2-title"
+}

@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Godina"
+          },
+          {
+            "name": "type of revenue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porez na dodanu vrijednost",
+                "Carinske dažbine, pristojbe za carinsku registraciju i posebne dažbine",
+                "Trošarina na uvozne proizvode",
+                ""
+              ]
+            },
+            "title": "Naziv prihoda"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "revenue-from-indirect-taxes",
+  "title": "Prihodi od neizravnih poreza"
+}

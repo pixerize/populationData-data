@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacionalno zakonodavstvo, politika i financiranje",
+                "Koordinacija i nacionalna kontakt točka za komunikaciju",
+                "Nadzor",
+                "Odgovor",
+                "Spremnost",
+                "Komunikacija o riziku",
+                "Ljudski resursi",
+                "Laboratorija",
+                "Točke ulaska",
+                "Zoonotski događaji",
+                "Sigurnost hrane",
+                "Kemijski događaji",
+                "Izvanredne situacije u vezi sa zračenjem",
+                "Zakonodavstvo i financiranje",
+                "Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR",
+                "Zoonotski događaji i sučelje čovjeka i životinje",
+                "Sigurnost hrane",
+                "Laboratorija",
+                "Nadzor",
+                "Ljudski resursi",
+                "Nacionalni okvir za hitnu medicinsku pomoć",
+                "Pružanje zdravstvene usluge",
+                "Komunikacija o riziku",
+                "Točke ulaska",
+                "Kemijski događaji",
+                "Izvanredne situacije u vezi sa zračenjem",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-d-1",
+  "title": "Kapacitet međunarodnih zdravstvenih propisa (IHR) i spremnost za hitne slučajeve u zdravstvu"
+}

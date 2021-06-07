@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ниже средње образовање",
+                "Основно образовање",
+                "Више средње образовање",
+                ""
+              ]
+            },
+            "title": "Ниво образовања"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно (национални просјек) или без подјеле",
+                "Квантил 1 (најсиромашнији)",
+                "Квантил 2",
+                "Квантил 3",
+                "Квантил 4",
+                "Квантил 5 (најбогатији)",
+                ""
+              ]
+            },
+            "title": "Квантил дохотка или богатства"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола или без подјеле по полу",
+                "Жене",
+                "Мушкарци",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Математика",
+                "Читање",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "Рурално",
+                "Урбано",
+                ""
+              ]
+            },
+            "title": "Степен урбанизације"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Индекси паритета (женске/мушкарци, рурална/урбана, најнижи/највиши квинтил богатства и други као што су статус инвалидности, аутохтони народи и погођени сукобима, када подаци постану доступни) за све индикаторе образовања на овој листи који могу бити разврстани"
+}
