@@ -125,4 +125,4 @@ indicator_options:
     - GeoCode
 
 datapackage:
-    sorting: alphabetical
+  sorting: default
