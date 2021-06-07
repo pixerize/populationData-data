@@ -69,7 +69,7 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
+    source: https://github.com/pixerize/sdg-translations.git
     tag: master
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
@@ -108,7 +108,7 @@ docs_intro: This is a list of examples of endpoints and output that are
   on the available output.
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-docs_indicator_url: https://sdgbosnia.co.uk/[id]
+docs_indicator_url: https://popdata/work/[id]
 # This shows the translations in the disaggregation report.
 docs_translate_disaggregations: true
 # This includes additional columns in the disaggregation report.
@@ -123,3 +123,6 @@ indicator_options:
     - SERIES
     - Value
     - GeoCode
+
+datapackage:
+    sorting: default
