@@ -172,7 +172,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -282,7 +282,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -713,7 +713,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Muškarci",
                 "Žene",
                 ""
@@ -1091,7 +1091,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -1506,7 +1506,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Muškarci",
                 "Žene",
                 ""
@@ -1953,7 +1953,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -2590,7 +2590,7 @@
             "constraints": {
               "enum": [
                 "Žene",
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },
@@ -2637,7 +2637,7 @@
               "enum": [
                 "Žene",
                 "Muškarci",
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },
@@ -2695,7 +2695,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -3456,7 +3456,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -3738,7 +3738,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -3907,7 +3907,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -4119,7 +4119,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -4830,7 +4830,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -5220,7 +5220,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -5555,7 +5555,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -6289,7 +6289,7 @@
               "enum": [
                 "Žene",
                 "Muškarci",
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },
@@ -6438,7 +6438,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -7561,7 +7561,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Muškarci",
                 "Žene",
                 ""
@@ -7817,7 +7817,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },
@@ -8069,7 +8069,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -8419,7 +8419,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -8594,7 +8594,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },
@@ -9106,7 +9106,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Muškarci",
                 "Žene",
                 ""
@@ -9208,7 +9208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -9267,7 +9267,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""
@@ -9679,7 +9679,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 "Žene",
                 "Muškarci",
                 ""

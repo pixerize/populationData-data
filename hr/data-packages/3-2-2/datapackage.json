@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },

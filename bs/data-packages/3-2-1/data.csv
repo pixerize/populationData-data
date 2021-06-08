@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2000,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,364.0
-2001,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,334.0
-2002,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,310.0
-2003,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,293.0
-2004,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,280.0
-2005,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,269.0
-2006,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,259.0
-2007,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,249.0
-2008,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,237.0
-2009,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,225.0
-2010,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,213.0
-2011,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,200.0
-2012,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,189.0
-2013,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,179.0
-2014,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,170.0
-2015,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,161.0
-2016,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,153.0
-2017,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,146.0
-2018,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,138.0
+2000,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,364.0
+2001,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,334.0
+2002,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,310.0
+2003,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,293.0
+2004,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,280.0
+2005,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,269.0
+2006,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,259.0
+2007,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,249.0
+2008,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,237.0
+2009,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,225.0
+2010,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,213.0
+2011,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,200.0
+2012,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,189.0
+2013,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,179.0
+2014,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,170.0
+2015,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,161.0
+2016,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,153.0
+2017,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,146.0
+2018,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Oba spola,138.0
 2000,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Žene,157.0
 2001,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Žene,144.0
 2002,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Žene,134.0
@@ -56,25 +56,25 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2016,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,86.0
 2017,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,82.0
 2018,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,78.0
-2000,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,8.6
-2001,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,8.3
-2002,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,8.1
-2003,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,8.0
-2004,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,7.9
-2005,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,7.7
-2006,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,7.5
-2007,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,7.2
-2008,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.9
-2009,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.5
-2010,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.2
-2011,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.0
-2012,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.7
-2013,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.6
-2014,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.4
-2015,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.3
-2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.2
-2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.1
-2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.0
+2000,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,8.6
+2001,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,8.3
+2002,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,8.1
+2003,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,8.0
+2004,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,7.9
+2005,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,7.7
+2006,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,7.5
+2007,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,7.2
+2008,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,6.9
+2009,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,6.5
+2010,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,6.2
+2011,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,6.0
+2012,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.7
+2013,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.6
+2014,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.4
+2015,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.3
+2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.2
+2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.1
+2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola,5.0
 2000,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,7.7
 2001,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,7.4
 2002,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,7.2
@@ -113,25 +113,25 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,5.7
 2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,5.6
 2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,5.5
-2000,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,422.0
-2001,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,387.0
-2002,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,360.0
-2003,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,340.0
-2004,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,324.0
-2005,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,311.0
-2006,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,299.0
-2007,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,286.0
-2008,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,273.0
-2009,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,259.0
-2010,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,245.0
-2011,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,232.0
-2012,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,219.0
-2013,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,208.0
-2014,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,198.0
-2015,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,188.0
-2016,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,179.0
-2017,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,171.0
-2018,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,162.0
+2000,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,422.0
+2001,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,387.0
+2002,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,360.0
+2003,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,340.0
+2004,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,324.0
+2005,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,311.0
+2006,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,299.0
+2007,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,286.0
+2008,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,273.0
+2009,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,259.0
+2010,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,245.0
+2011,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,232.0
+2012,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,219.0
+2013,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,208.0
+2014,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,198.0
+2015,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,188.0
+2016,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,179.0
+2017,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,171.0
+2018,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Oba spola,162.0
 2000,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Žene,181.0
 2001,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Žene,166.0
 2002,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Žene,154.0
@@ -170,25 +170,25 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2016,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Muškarci,101.0
 2017,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Muškarci,97.0
 2018,Smrtnost ispod pet ogdina (broj),Broj,Ispod 5 godina,Muškarci,91.0
-2000,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,9.8
-2001,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,9.5
-2002,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,9.3
-2003,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,9.1
-2004,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,9.0
-2005,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,8.8
-2006,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,8.6
-2007,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,8.3
-2008,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,7.9
-2009,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,7.5
-2010,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,7.2
-2011,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.9
-2012,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.6
-2013,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.4
-2014,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.3
-2015,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.1
-2016,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.0
-2017,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,5.9
-2018,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,5.8
+2000,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,9.8
+2001,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,9.5
+2002,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,9.3
+2003,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,9.1
+2004,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,9.0
+2005,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,8.8
+2006,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,8.6
+2007,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,8.3
+2008,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,7.9
+2009,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,7.5
+2010,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,7.2
+2011,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.9
+2012,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.6
+2013,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.4
+2014,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.3
+2015,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.1
+2016,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,6.0
+2017,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,5.9
+2018,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola,5.8
 2000,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,8.7
 2001,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,8.4
 2002,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,8.2

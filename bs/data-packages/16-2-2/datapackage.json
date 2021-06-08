@@ -32,7 +32,7 @@
               "enum": [
                 "Žene",
                 "Muškarci",
-                "Oba spola ili bez podjele po spolu",
+                "Oba spola",
                 ""
               ]
             },

@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "Both sexes",
                 ""
               ]
             },

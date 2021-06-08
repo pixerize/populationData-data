@@ -1,30 +1,30 @@
 Year,UNIT_MEASURE,Sex,Age,Entity,Value
-2013,Number,Both sexes or no breakdown by sex,0-4,Federation of BiH,114843
-2013,Number,Both sexes or no breakdown by sex,5-9,Federation of BiH,116052
-2013,Number,Both sexes or no breakdown by sex,10-14,Federation of BiH,126053
-2013,Number,Both sexes or no breakdown by sex,15-19,Federation of BiH,161881
-2013,Number,Both sexes or no breakdown by sex,20-24,Federation of BiH,150902
-2013,Number,Both sexes or no breakdown by sex,25-29,Federation of BiH,164203
-2013,Number,Both sexes or no breakdown by sex,30-34,Federation of BiH,160988
-2013,Number,Both sexes or no breakdown by sex,35-39,Federation of BiH,157715
-2013,Number,Both sexes or no breakdown by sex,40-44,Federation of BiH,154830
-2013,Number,Both sexes or no breakdown by sex,45-49,Federation of BiH,167109
-2013,Number,Both sexes or no breakdown by sex,50-54,Federation of BiH,173996
-2013,Number,Both sexes or no breakdown by sex,55-59,Federation of BiH,156089
-2013,Number,Both sexes or no breakdown by sex,60-64,Federation of BiH,128613
-2013,Number,Both sexes or no breakdown by sex,65-69,Federation of BiH,88391
-2013,Number,Both sexes or no breakdown by sex,70-74,Federation of BiH,81023
-2013,Number,Both sexes or no breakdown by sex,75-79,Federation of BiH,65613
-2013,Number,Both sexes or no breakdown by sex,80-84,Federation of BiH,35227
-2013,Number,Both sexes or no breakdown by sex,85+,Federation of BiH,15692
-2013,Number,Both sexes or no breakdown by sex,Unknown,Federation of BiH,0
-2013,Number,Both sexes or no breakdown by sex,Total,Federation of BiH,2219220
-2013,Number,Both sexes or no breakdown by sex,0-14,Federation of BiH,356948
-2013,Number,Both sexes or no breakdown by sex,15-29,Federation of BiH,476986
-2013,Number,Both sexes or no breakdown by sex,15-49,Federation of BiH,1117628
-2013,Number,Both sexes or no breakdown by sex,15-64,Federation of BiH,1576326
-2013,Number,Both sexes or no breakdown by sex,65+,Federation of BiH,285946
-2013,Number,Both sexes or no breakdown by sex,75+,Federation of BiH,116532
+2013,Number,Both sexes,0-4,Federation of BiH,114843
+2013,Number,Both sexes,5-9,Federation of BiH,116052
+2013,Number,Both sexes,10-14,Federation of BiH,126053
+2013,Number,Both sexes,15-19,Federation of BiH,161881
+2013,Number,Both sexes,20-24,Federation of BiH,150902
+2013,Number,Both sexes,25-29,Federation of BiH,164203
+2013,Number,Both sexes,30-34,Federation of BiH,160988
+2013,Number,Both sexes,35-39,Federation of BiH,157715
+2013,Number,Both sexes,40-44,Federation of BiH,154830
+2013,Number,Both sexes,45-49,Federation of BiH,167109
+2013,Number,Both sexes,50-54,Federation of BiH,173996
+2013,Number,Both sexes,55-59,Federation of BiH,156089
+2013,Number,Both sexes,60-64,Federation of BiH,128613
+2013,Number,Both sexes,65-69,Federation of BiH,88391
+2013,Number,Both sexes,70-74,Federation of BiH,81023
+2013,Number,Both sexes,75-79,Federation of BiH,65613
+2013,Number,Both sexes,80-84,Federation of BiH,35227
+2013,Number,Both sexes,85+,Federation of BiH,15692
+2013,Number,Both sexes,Unknown,Federation of BiH,0
+2013,Number,Both sexes,Total,Federation of BiH,2219220
+2013,Number,Both sexes,0-14,Federation of BiH,356948
+2013,Number,Both sexes,15-29,Federation of BiH,476986
+2013,Number,Both sexes,15-49,Federation of BiH,1117628
+2013,Number,Both sexes,15-64,Federation of BiH,1576326
+2013,Number,Both sexes,65+,Federation of BiH,285946
+2013,Number,Both sexes,75+,Federation of BiH,116532
 2013,Number,Male,0-4,Federation of BiH,59017
 2013,Number,Male,5-9,Federation of BiH,59633
 2013,Number,Male,10-14,Federation of BiH,64493
@@ -77,32 +77,32 @@ Year,UNIT_MEASURE,Sex,Age,Entity,Value
 2013,Number,Female,15-64,Federation of BiH,790449
 2013,Number,Female,65+,Federation of BiH,166973
 2013,Number,Female,75+,Federation of BiH,71442
-2013,Number,Both sexes or no breakdown by sex,0-4,Republika Srpska,55056
-2013,Number,Both sexes or no breakdown by sex,5-9,Republika Srpska,56616
-2013,Number,Both sexes or no breakdown by sex,10-14,Republika Srpska,62018
-2013,Number,Both sexes or no breakdown by sex,15-19,Republika Srpska,75538
-2013,Number,Both sexes or no breakdown by sex,20-24,Republika Srpska,72218
-2013,Number,Both sexes or no breakdown by sex,25-29,Republika Srpska,82386
-2013,Number,Both sexes or no breakdown by sex,30-34,Republika Srpska,85654
-2013,Number,Both sexes or no breakdown by sex,35-39,Republika Srpska,85445
-2013,Number,Both sexes or no breakdown by sex,40-44,Republika Srpska,80163
-2013,Number,Both sexes or no breakdown by sex,45-49,Republika Srpska,87246
-2013,Number,Both sexes or no breakdown by sex,50-54,Republika Srpska,96006
-2013,Number,Both sexes or no breakdown by sex,55-59,Republika Srpska,96673
-2013,Number,Both sexes or no breakdown by sex,60-64,Republika Srpska,89490
-2013,Number,Both sexes or no breakdown by sex,65-69,Republika Srpska,61270
-2013,Number,Both sexes or no breakdown by sex,70-74,Republika Srpska,56073
-2013,Number,Both sexes or no breakdown by sex,75-79,Republika Srpska,48791
-2013,Number,Both sexes or no breakdown by sex,80-84,Republika Srpska,26009
-2013,Number,Both sexes or no breakdown by sex,85+,Republika Srpska,11771
-2013,Number,Both sexes or no breakdown by sex,Unknown,Republika Srpska,0
-2013,Number,Both sexes or no breakdown by sex,Total,Republika Srpska,1228423
-2013,Number,Both sexes or no breakdown by sex,0-14,Republika Srpska,173690
-2013,Number,Both sexes or no breakdown by sex,15-29,Republika Srpska,230142
-2013,Number,Both sexes or no breakdown by sex,15-49,Republika Srpska,568650
-2013,Number,Both sexes or no breakdown by sex,15-64,Republika Srpska,850819
-2013,Number,Both sexes or no breakdown by sex,65+,Republika Srpska,203914
-2013,Number,Both sexes or no breakdown by sex,75+,Republika Srpska,86571
+2013,Number,Both sexes,0-4,Republika Srpska,55056
+2013,Number,Both sexes,5-9,Republika Srpska,56616
+2013,Number,Both sexes,10-14,Republika Srpska,62018
+2013,Number,Both sexes,15-19,Republika Srpska,75538
+2013,Number,Both sexes,20-24,Republika Srpska,72218
+2013,Number,Both sexes,25-29,Republika Srpska,82386
+2013,Number,Both sexes,30-34,Republika Srpska,85654
+2013,Number,Both sexes,35-39,Republika Srpska,85445
+2013,Number,Both sexes,40-44,Republika Srpska,80163
+2013,Number,Both sexes,45-49,Republika Srpska,87246
+2013,Number,Both sexes,50-54,Republika Srpska,96006
+2013,Number,Both sexes,55-59,Republika Srpska,96673
+2013,Number,Both sexes,60-64,Republika Srpska,89490
+2013,Number,Both sexes,65-69,Republika Srpska,61270
+2013,Number,Both sexes,70-74,Republika Srpska,56073
+2013,Number,Both sexes,75-79,Republika Srpska,48791
+2013,Number,Both sexes,80-84,Republika Srpska,26009
+2013,Number,Both sexes,85+,Republika Srpska,11771
+2013,Number,Both sexes,Unknown,Republika Srpska,0
+2013,Number,Both sexes,Total,Republika Srpska,1228423
+2013,Number,Both sexes,0-14,Republika Srpska,173690
+2013,Number,Both sexes,15-29,Republika Srpska,230142
+2013,Number,Both sexes,15-49,Republika Srpska,568650
+2013,Number,Both sexes,15-64,Republika Srpska,850819
+2013,Number,Both sexes,65+,Republika Srpska,203914
+2013,Number,Both sexes,75+,Republika Srpska,86571
 2013,Number,Male,0-4,Republika Srpska,28247
 2013,Number,Male,5-9,Republika Srpska,29013
 2013,Number,Male,10-14,Republika Srpska,31749
@@ -155,32 +155,32 @@ Year,UNIT_MEASURE,Sex,Age,Entity,Value
 2013,Number,Female,15-64,Republika Srpska,421888
 2013,Number,Female,65+,Republika Srpska,118827
 2013,Number,Female,75+,Republika Srpska,53316
-2013,Number,Both sexes or no breakdown by sex,0-4,Brčko District of BiH,4165
-2013,Number,Both sexes or no breakdown by sex,5-9,Brčko District of BiH,4312
-2013,Number,Both sexes or no breakdown by sex,10-14,Brčko District of BiH,4604
-2013,Number,Both sexes or no breakdown by sex,15-19,Brčko District of BiH,5323
-2013,Number,Both sexes or no breakdown by sex,20-24,Brčko District of BiH,4936
-2013,Number,Both sexes or no breakdown by sex,25-29,Brčko District of BiH,5729
-2013,Number,Both sexes or no breakdown by sex,30-34,Brčko District of BiH,5991
-2013,Number,Both sexes or no breakdown by sex,35-39,Brčko District of BiH,6106
-2013,Number,Both sexes or no breakdown by sex,40-44,Brčko District of BiH,6145
-2013,Number,Both sexes or no breakdown by sex,45-49,Brčko District of BiH,6573
-2013,Number,Both sexes or no breakdown by sex,50-54,Brčko District of BiH,6573
-2013,Number,Both sexes or no breakdown by sex,55-59,Brčko District of BiH,5775
-2013,Number,Both sexes or no breakdown by sex,60-64,Brčko District of BiH,5148
-2013,Number,Both sexes or no breakdown by sex,65-69,Brčko District of BiH,3908
-2013,Number,Both sexes or no breakdown by sex,70-74,Brčko District of BiH,3359
-2013,Number,Both sexes or no breakdown by sex,75-79,Brčko District of BiH,2863
-2013,Number,Both sexes or no breakdown by sex,80-84,Brčko District of BiH,1400
-2013,Number,Both sexes or no breakdown by sex,85+,Brčko District of BiH,606
-2013,Number,Both sexes or no breakdown by sex,Unknown,Brčko District of BiH,0
-2013,Number,Both sexes or no breakdown by sex,Total,Brčko District of BiH,83516
-2013,Number,Both sexes or no breakdown by sex,0-14,Brčko District of BiH,13081
-2013,Number,Both sexes or no breakdown by sex,15-29,Brčko District of BiH,15988
-2013,Number,Both sexes or no breakdown by sex,15-49,Brčko District of BiH,40803
-2013,Number,Both sexes or no breakdown by sex,15-64,Brčko District of BiH,58299
-2013,Number,Both sexes or no breakdown by sex,65+,Brčko District of BiH,12136
-2013,Number,Both sexes or no breakdown by sex,75+,Brčko District of BiH,4869
+2013,Number,Both sexes,0-4,Brčko District of BiH,4165
+2013,Number,Both sexes,5-9,Brčko District of BiH,4312
+2013,Number,Both sexes,10-14,Brčko District of BiH,4604
+2013,Number,Both sexes,15-19,Brčko District of BiH,5323
+2013,Number,Both sexes,20-24,Brčko District of BiH,4936
+2013,Number,Both sexes,25-29,Brčko District of BiH,5729
+2013,Number,Both sexes,30-34,Brčko District of BiH,5991
+2013,Number,Both sexes,35-39,Brčko District of BiH,6106
+2013,Number,Both sexes,40-44,Brčko District of BiH,6145
+2013,Number,Both sexes,45-49,Brčko District of BiH,6573
+2013,Number,Both sexes,50-54,Brčko District of BiH,6573
+2013,Number,Both sexes,55-59,Brčko District of BiH,5775
+2013,Number,Both sexes,60-64,Brčko District of BiH,5148
+2013,Number,Both sexes,65-69,Brčko District of BiH,3908
+2013,Number,Both sexes,70-74,Brčko District of BiH,3359
+2013,Number,Both sexes,75-79,Brčko District of BiH,2863
+2013,Number,Both sexes,80-84,Brčko District of BiH,1400
+2013,Number,Both sexes,85+,Brčko District of BiH,606
+2013,Number,Both sexes,Unknown,Brčko District of BiH,0
+2013,Number,Both sexes,Total,Brčko District of BiH,83516
+2013,Number,Both sexes,0-14,Brčko District of BiH,13081
+2013,Number,Both sexes,15-29,Brčko District of BiH,15988
+2013,Number,Both sexes,15-49,Brčko District of BiH,40803
+2013,Number,Both sexes,15-64,Brčko District of BiH,58299
+2013,Number,Both sexes,65+,Brčko District of BiH,12136
+2013,Number,Both sexes,75+,Brčko District of BiH,4869
 2013,Number,Male,0-4,Brčko District of BiH,2178
 2013,Number,Male,5-9,Brčko District of BiH,2235
 2013,Number,Male,10-14,Brčko District of BiH,2411
