@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Year"
@@ -20,18 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VAT",
+                "",
                 "Customs",
                 "Excise duties on import goods",
-                ""
+                "VAT"
               ]
             },
             "title": "Type of revenue"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

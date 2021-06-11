@@ -11,29 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper secondary education",
-                "Lower secondary education",
+                "",
                 "Primary education",
-                ""
+                "Lower secondary education",
+                "Upper secondary education"
               ]
             },
             "title": "Education level"
@@ -43,39 +28,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total (national average) or no breakdown",
+                "",
                 "Quintile 1 (poorest)",
                 "Quintile 2",
                 "Quintile 3",
                 "Quintile 4",
                 "Quintile 5 (richest)",
-                ""
+                "Total (national average) or no breakdown"
               ]
             },
             "title": "Income or wealth quantile"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Both sexes",
+                "",
                 "Female",
                 "Male",
-                ""
+                "Both sexes"
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "",
                 "Rural",
                 "Urban",
-                ""
+                "Total"
               ]
             },
             "title": "Degree of urbanisation"
@@ -84,6 +79,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       }

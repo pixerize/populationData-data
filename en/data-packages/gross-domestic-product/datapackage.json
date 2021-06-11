@@ -11,9 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "Type",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Final trend Q/Q-1",
+                "Non-Seasonally adjusted Q/Q-4",
+                "Seasonally adjusted Q/Q-1"
+              ]
+            },
+            "title": "Type"
           },
           {
             "name": "UNIT_MEASURE",
@@ -21,22 +29,14 @@
             "title": "Unit of measure"
           },
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-Seasonally adjusted Q/Q-4",
-                "Seasonally adjusted Q/Q-1",
-                "Final trend Q/Q-1",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
