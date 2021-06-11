@@ -124,5 +124,5 @@ indicator_options:
     - Value
     - GeoCode
 
-datapackage:
-    sorting: default
+#datapackage:
+#    sorting: default
