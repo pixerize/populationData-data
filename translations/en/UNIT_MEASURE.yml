@@ -29,3 +29,4 @@ TONNES_M: TONNES_M
 T_KM: Tonne kilometres
 UNIT_MEASURE: Unit of measure
 USD: USD
+_%: '% of total'
