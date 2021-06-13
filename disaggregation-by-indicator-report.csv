@@ -5,6 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-1,"UNIT_MEASURE, SEX, AGE, Entity",4
 #1-5-1,"UNIT_MEASURE, SEX, AGE, Municipality",4
 #1-6-1,"UNIT_MEASURE, SEX, AGE",3
+#1-7-1,"UNIT_MEASURE, SEX, AGE",3
 #10-2-1,"SERIES, UNIT_MEASURE",2
 #10-4-1,"SERIES, UNIT_MEASURE",2
 #10-5-1,"SERIES, UNIT_MEASURE",2
