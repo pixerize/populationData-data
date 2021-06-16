@@ -3,5 +3,5 @@ AG_PRD_FIESMS,Prevalence of moderate or severe food insecurity in the population
 AG_PRD_FIESMSN,Population in moderate or severe food insecurity (number),Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Укупна популација у умјереној или озбиљној несигурности хране (број),Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),3,1
 AG_PRD_FIESS,Prevalence of severe food insecurity in the population,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Распрострањеност озбиљне несигурности храном код популације,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,3,1
 AG_PRD_FIESSN,Population in severe food insecurity (number),Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Укупна популација у озбиљној несигурности хране (број),Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),3,1
-SN_ITK_DEFC,Prevalence of undernourishment,Rasprostranjenost pothranjenosti,Распрострањеност потхрањености,Rasprostranjenost pothranjenosti,1,1
-SN_ITK_DEFCN,Number of undernourish people,Broj pothranjenih ljudi,Број потхрањених људи,Broj pothranjenih ljudi,1,1
+SN_ITK_DEFC,Prevalence of undernourishment,Rasprostranjenost pothranjenosti,Распрострањеност потхрањености,Rasprostranjenost pothranjenosti,5,5
+SN_ITK_DEFCN,Number of undernourish people,Broj pothranjenih ljudi,Број потхрањених људи,Broj pothranjenih ljudi,5,5
