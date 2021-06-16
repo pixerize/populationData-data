@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "Muškarci",
                 "Žene",
-                "Oba spola",
                 ""
               ]
             },
@@ -38,7 +38,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "BIH",
                 "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },

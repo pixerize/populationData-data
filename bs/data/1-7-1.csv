@@ -1,4 +1,195 @@
 Year,UNIT_MEASURE,Spol,Entitet,Births,Value
+1996,Broj,Oba spola,BIH,Live birth,12263
+1997,Broj,Oba spola,BIH,Live birth,13757
+1998,Broj,Oba spola,BIH,Live birth,13527
+1999,Broj,Oba spola,BIH,Live birth,14500
+2000,Broj,Oba spola,BIH,Live birth,14191
+2001,Broj,Oba spola,BIH,Live birth,13699
+2002,Broj,Oba spola,BIH,Live birth,12336
+2003,Broj,Oba spola,BIH,Live birth,10537
+2004,Broj,Oba spola,BIH,Live birth,10628
+2005,Broj,Oba spola,BIH,Live birth,10322
+2006,Broj,Oba spola,BIH,Live birth,10524
+2007,Broj,Oba spola,BIH,Live birth,10110
+2008,Broj,Oba spola,BIH,Live birth,10198
+2009,Broj,Oba spola,BIH,Live birth,10603
+2010,Broj,Oba spola,BIH,Live birth,10147
+2011,Broj,Oba spola,BIH,Live birth,9561
+2012,Broj,Oba spola,BIH,Live birth,9978
+2013,Broj,Oba spola,BIH,Live birth,9510
+2014,Broj,Oba spola,BIH,Live birth,9335
+2015,Broj,Oba spola,BIH,Live birth,9357
+2016,Broj,Oba spola,BIH,Live birth,9452
+2017,Broj,Oba spola,BIH,Live birth,9339
+2018,Broj,Oba spola,BIH,Live birth,9568
+2019,Broj,Oba spola,BIH,Live birth,9274
+1996,Broj,Muškarci,BIH,Live birth,6368
+1997,Broj,Muškarci,BIH,Live birth,7176
+1998,Broj,Muškarci,BIH,Live birth,7081
+1999,Broj,Muškarci,BIH,Live birth,7394
+2000,Broj,Muškarci,BIH,Live birth,7319
+2001,Broj,Muškarci,BIH,Live birth,7053
+2002,Broj,Muškarci,BIH,Live birth,6365
+2003,Broj,Muškarci,BIH,Live birth,5450
+2004,Broj,Muškarci,BIH,Live birth,5515
+2005,Broj,Muškarci,BIH,Live birth,5302
+2006,Broj,Muškarci,BIH,Live birth,5351
+2007,Broj,Muškarci,BIH,Live birth,5203
+2008,Broj,Muškarci,BIH,Live birth,5262
+2009,Broj,Muškarci,BIH,Live birth,5577
+2010,Broj,Muškarci,BIH,Live birth,5184
+2011,Broj,Muškarci,BIH,Live birth,5008
+2012,Broj,Muškarci,BIH,Live birth,5089
+2013,Broj,Muškarci,BIH,Live birth,4907
+2014,Broj,Muškarci,BIH,Live birth,4846
+2015,Broj,Muškarci,BIH,Live birth,4842
+2016,Broj,Muškarci,BIH,Live birth,4931
+2017,Broj,Muškarci,BIH,Live birth,4886
+2018,Broj,Muškarci,BIH,Live birth,5001
+2019,Broj,Muškarci,BIH,Live birth,4907
+1996,Broj,Žene,BIH,Live birth,5895
+1997,Broj,Žene,BIH,Live birth,6581
+1998,Broj,Žene,BIH,Live birth,6446
+1999,Broj,Žene,BIH,Live birth,7106
+2000,Broj,Žene,BIH,Live birth,6872
+2001,Broj,Žene,BIH,Live birth,6646
+2002,Broj,Žene,BIH,Live birth,5971
+2003,Broj,Žene,BIH,Live birth,5087
+2004,Broj,Žene,BIH,Live birth,5113
+2005,Broj,Žene,BIH,Live birth,5020
+2006,Broj,Žene,BIH,Live birth,5173
+2007,Broj,Žene,BIH,Live birth,4907
+2008,Broj,Žene,BIH,Live birth,4936
+2009,Broj,Žene,BIH,Live birth,5026
+2010,Broj,Žene,BIH,Live birth,4963
+2011,Broj,Žene,BIH,Live birth,4553
+2012,Broj,Žene,BIH,Live birth,4889
+2013,Broj,Žene,BIH,Live birth,4603
+2014,Broj,Žene,BIH,Live birth,4489
+2015,Broj,Žene,BIH,Live birth,4515
+2016,Broj,Žene,BIH,Live birth,4521
+2017,Broj,Žene,BIH,Live birth,4453
+2018,Broj,Žene,BIH,Live birth,4567
+2019,Broj,Žene,BIH,Live birth,4367
+1996,Broj,Oba spola,BIH,Deaths,10931
+1997,Broj,Oba spola,BIH,Deaths,11755
+1998,Broj,Oba spola,BIH,Deaths,12123
+1999,Broj,Oba spola,BIH,Deaths,12152
+2000,Broj,Oba spola,BIH,Deaths,12960
+2001,Broj,Oba spola,BIH,Deaths,12932
+2002,Broj,Oba spola,BIH,Deaths,12980
+2003,Broj,Oba spola,BIH,Deaths,12988
+2004,Broj,Oba spola,BIH,Deaths,13082
+2005,Broj,Oba spola,BIH,Deaths,13802
+2006,Broj,Oba spola,BIH,Deaths,13232
+2007,Broj,Oba spola,BIH,Deaths,14146
+2008,Broj,Oba spola,BIH,Deaths,13501
+2009,Broj,Oba spola,BIH,Deaths,13775
+2010,Broj,Oba spola,BIH,Deaths,13517
+2011,Broj,Oba spola,BIH,Deaths,13658
+2012,Broj,Oba spola,BIH,Deaths,13796
+2013,Broj,Oba spola,BIH,Deaths,13978
+2014,Broj,Oba spola,BIH,Deaths,14409
+2015,Broj,Oba spola,BIH,Deaths,15059
+2016,Broj,Oba spola,BIH,Deaths,13970
+2017,Broj,Oba spola,BIH,Deaths,14663
+2018,Broj,Oba spola,BIH,Deaths,14763
+2019,Broj,Oba spola,BIH,Deaths,15081
+1996,Broj,Muškarci,BIH,Natural change,6056
+1997,Broj,Muškarci,BIH,Natural change,6495
+1998,Broj,Muškarci,BIH,Natural change,6418
+1999,Broj,Muškarci,BIH,Natural change,6462
+2000,Broj,Muškarci,BIH,Natural change,6861
+2001,Broj,Muškarci,BIH,Natural change,7026
+2002,Broj,Muškarci,BIH,Natural change,6791
+2003,Broj,Muškarci,BIH,Natural change,6804
+2004,Broj,Muškarci,BIH,Natural change,6735
+2005,Broj,Muškarci,BIH,Natural change,7239
+2006,Broj,Muškarci,BIH,Natural change,6904
+2007,Broj,Muškarci,BIH,Natural change,7302
+2008,Broj,Muškarci,BIH,Natural change,7058
+2009,Broj,Muškarci,BIH,Natural change,7099
+2010,Broj,Muškarci,BIH,Natural change,6935
+2011,Broj,Muškarci,BIH,Natural change,7001
+2012,Broj,Muškarci,BIH,Natural change,7064
+2013,Broj,Muškarci,BIH,Natural change,7237
+2014,Broj,Muškarci,BIH,Natural change,7386
+2015,Broj,Muškarci,BIH,Natural change,7640
+2016,Broj,Muškarci,BIH,Natural change,7198
+2017,Broj,Muškarci,BIH,Natural change,7363
+2018,Broj,Muškarci,BIH,Natural change,7449
+2019,Broj,Muškarci,BIH,Natural change,7753
+1996,Broj,Žene,BIH,Natural change,4875
+1997,Broj,Žene,BIH,Natural change,5260
+1998,Broj,Žene,BIH,Natural change,5705
+1999,Broj,Žene,BIH,Natural change,5690
+2000,Broj,Žene,BIH,Natural change,6099
+2001,Broj,Žene,BIH,Natural change,5906
+2002,Broj,Žene,BIH,Natural change,6189
+2003,Broj,Žene,BIH,Natural change,6184
+2004,Broj,Žene,BIH,Natural change,6347
+2005,Broj,Žene,BIH,Natural change,6563
+2006,Broj,Žene,BIH,Natural change,6328
+2007,Broj,Žene,BIH,Natural change,6844
+2008,Broj,Žene,BIH,Natural change,6443
+2009,Broj,Žene,BIH,Natural change,6676
+2010,Broj,Žene,BIH,Natural change,6582
+2011,Broj,Žene,BIH,Natural change,6657
+2012,Broj,Žene,BIH,Natural change,6732
+2013,Broj,Žene,BIH,Natural change,6741
+2014,Broj,Žene,BIH,Natural change,7023
+2015,Broj,Žene,BIH,Natural change,7419
+2016,Broj,Žene,BIH,Natural change,6772
+2017,Broj,Žene,BIH,Natural change,7300
+2018,Broj,Žene,BIH,Natural change,7314
+2019,Broj,Žene,BIH,Natural change,7328
+1996,Broj,Oba spola,BIH,Natural change,1332
+1997,Broj,Oba spola,BIH,Natural change,2002
+1998,Broj,Oba spola,BIH,Natural change,1404
+1999,Broj,Oba spola,BIH,Natural change,2348
+2000,Broj,Oba spola,BIH,Natural change,1231
+2001,Broj,Oba spola,BIH,Natural change,767
+2002,Broj,Oba spola,BIH,Natural change,-644
+2003,Broj,Oba spola,BIH,Natural change,-2451
+2004,Broj,Oba spola,BIH,Natural change,-2454
+2005,Broj,Oba spola,BIH,Natural change,-3480
+2006,Broj,Oba spola,BIH,Natural change,-2708
+2007,Broj,Oba spola,BIH,Natural change,-4036
+2008,Broj,Oba spola,BIH,Natural change,-3303
+2009,Broj,Oba spola,BIH,Natural change,-3172
+2010,Broj,Oba spola,BIH,Natural change,-3370
+2011,Broj,Oba spola,BIH,Natural change,-4097
+2012,Broj,Oba spola,BIH,Natural change,-3818
+2013,Broj,Oba spola,BIH,Natural change,-4468
+2014,Broj,Oba spola,BIH,Natural change,-5074
+2015,Broj,Oba spola,BIH,Natural change,-5702
+2016,Broj,Oba spola,BIH,Natural change,-4518
+2017,Broj,Oba spola,BIH,Natural change,-5324
+2018,Broj,Oba spola,BIH,Natural change,-5195
+2019,Broj,Oba spola,BIH,Natural change,-5807
+1997,Broj,Oba spola,Federacija BiH,Live birth,34304
+1998,Broj,Oba spola,Federacija BiH,Live birth,31480
+1999,Broj,Oba spola,Federacija BiH,Live birth,27964
+2000,Broj,Oba spola,Federacija BiH,Live birth,25372
+2001,Broj,Oba spola,Federacija BiH,Live birth,24018
+2002,Broj,Oba spola,Federacija BiH,Live birth,23251
+2003,Broj,Oba spola,Federacija BiH,Live birth,23168
+2004,Broj,Oba spola,Federacija BiH,Live birth,22250
+2005,Broj,Oba spola,Federacija BiH,Live birth,21934
+2006,Broj,Oba spola,Federacija BiH,Live birth,21602
+2007,Broj,Oba spola,Federacija BiH,Live birth,21715
+2008,Broj,Oba spola,Federacija BiH,Live birth,22920
+2009,Broj,Oba spola,Federacija BiH,Live birth,22913
+2010,Broj,Oba spola,Federacija BiH,Live birth,22382
+2011,Broj,Oba spola,Federacija BiH,Live birth,21228
+2012,Broj,Oba spola,Federacija BiH,Live birth,21472
+2013,Broj,Oba spola,Federacija BiH,Live birth,20145
+2014,Broj,Oba spola,Federacija BiH,Live birth,19880
+2015,Broj,Oba spola,Federacija BiH,Live birth,19358
+2016,Broj,Oba spola,Federacija BiH,Live birth,19655
+2017,Broj,Oba spola,Federacija BiH,Live birth,19824
+2018,Broj,Oba spola,Federacija BiH,Live birth,18899
+2019,Broj,Oba spola,Federacija BiH,Live birth,18019
 1997,Broj,Muškarci,Federacija BiH,Live birth,17961
 1998,Broj,Muškarci,Federacija BiH,Live birth,16344
 1999,Broj,Muškarci,Federacija BiH,Live birth,14242
@@ -137,3 +328,171 @@ Year,UNIT_MEASURE,Spol,Entitet,Births,Value
 2017,Broj,Oba spola,Federacija BiH,Natural change,-1865
 2018,Broj,Oba spola,Federacija BiH,Natural change,-2543
 2019,Broj,Oba spola,Federacija BiH,Natural change,-4005
+1996,Broj,Oba spola,Republika Srpska,Live birth,12263
+1997,Broj,Oba spola,Republika Srpska,Live birth,13757
+1998,Broj,Oba spola,Republika Srpska,Live birth,13527
+1999,Broj,Oba spola,Republika Srpska,Live birth,14500
+2000,Broj,Oba spola,Republika Srpska,Live birth,14191
+2001,Broj,Oba spola,Republika Srpska,Live birth,13699
+2002,Broj,Oba spola,Republika Srpska,Live birth,12336
+2003,Broj,Oba spola,Republika Srpska,Live birth,10537
+2004,Broj,Oba spola,Republika Srpska,Live birth,10628
+2005,Broj,Oba spola,Republika Srpska,Live birth,10322
+2006,Broj,Oba spola,Republika Srpska,Live birth,10524
+2007,Broj,Oba spola,Republika Srpska,Live birth,10110
+2008,Broj,Oba spola,Republika Srpska,Live birth,10198
+2009,Broj,Oba spola,Republika Srpska,Live birth,10603
+2010,Broj,Oba spola,Republika Srpska,Live birth,10147
+2011,Broj,Oba spola,Republika Srpska,Live birth,9561
+2012,Broj,Oba spola,Republika Srpska,Live birth,9978
+2013,Broj,Oba spola,Republika Srpska,Live birth,9510
+2014,Broj,Oba spola,Republika Srpska,Live birth,9335
+2015,Broj,Oba spola,Republika Srpska,Live birth,9357
+2016,Broj,Oba spola,Republika Srpska,Live birth,9452
+2017,Broj,Oba spola,Republika Srpska,Live birth,9339
+2018,Broj,Oba spola,Republika Srpska,Live birth,9568
+2019,Broj,Oba spola,Republika Srpska,Live birth,9274
+1996,Broj,Muškarci,Republika Srpska,Live birth,6368
+1997,Broj,Muškarci,Republika Srpska,Live birth,7176
+1998,Broj,Muškarci,Republika Srpska,Live birth,7081
+1999,Broj,Muškarci,Republika Srpska,Live birth,7394
+2000,Broj,Muškarci,Republika Srpska,Live birth,7319
+2001,Broj,Muškarci,Republika Srpska,Live birth,7053
+2002,Broj,Muškarci,Republika Srpska,Live birth,6365
+2003,Broj,Muškarci,Republika Srpska,Live birth,5450
+2004,Broj,Muškarci,Republika Srpska,Live birth,5515
+2005,Broj,Muškarci,Republika Srpska,Live birth,5302
+2006,Broj,Muškarci,Republika Srpska,Live birth,5351
+2007,Broj,Muškarci,Republika Srpska,Live birth,5203
+2008,Broj,Muškarci,Republika Srpska,Live birth,5262
+2009,Broj,Muškarci,Republika Srpska,Live birth,5577
+2010,Broj,Muškarci,Republika Srpska,Live birth,5184
+2011,Broj,Muškarci,Republika Srpska,Live birth,5008
+2012,Broj,Muškarci,Republika Srpska,Live birth,5089
+2013,Broj,Muškarci,Republika Srpska,Live birth,4907
+2014,Broj,Muškarci,Republika Srpska,Live birth,4846
+2015,Broj,Muškarci,Republika Srpska,Live birth,4842
+2016,Broj,Muškarci,Republika Srpska,Live birth,4931
+2017,Broj,Muškarci,Republika Srpska,Live birth,4886
+2018,Broj,Muškarci,Republika Srpska,Live birth,5001
+2019,Broj,Muškarci,Republika Srpska,Live birth,4907
+1996,Broj,Žene,Republika Srpska,Live birth,5895
+1997,Broj,Žene,Republika Srpska,Live birth,6581
+1998,Broj,Žene,Republika Srpska,Live birth,6446
+1999,Broj,Žene,Republika Srpska,Live birth,7106
+2000,Broj,Žene,Republika Srpska,Live birth,6872
+2001,Broj,Žene,Republika Srpska,Live birth,6646
+2002,Broj,Žene,Republika Srpska,Live birth,5971
+2003,Broj,Žene,Republika Srpska,Live birth,5087
+2004,Broj,Žene,Republika Srpska,Live birth,5113
+2005,Broj,Žene,Republika Srpska,Live birth,5020
+2006,Broj,Žene,Republika Srpska,Live birth,5173
+2007,Broj,Žene,Republika Srpska,Live birth,4907
+2008,Broj,Žene,Republika Srpska,Live birth,4936
+2009,Broj,Žene,Republika Srpska,Live birth,5026
+2010,Broj,Žene,Republika Srpska,Live birth,4963
+2011,Broj,Žene,Republika Srpska,Live birth,4553
+2012,Broj,Žene,Republika Srpska,Live birth,4889
+2013,Broj,Žene,Republika Srpska,Live birth,4603
+2014,Broj,Žene,Republika Srpska,Live birth,4489
+2015,Broj,Žene,Republika Srpska,Live birth,4515
+2016,Broj,Žene,Republika Srpska,Live birth,4521
+2017,Broj,Žene,Republika Srpska,Live birth,4453
+2018,Broj,Žene,Republika Srpska,Live birth,4567
+2019,Broj,Žene,Republika Srpska,Live birth,4367
+1996,Broj,Oba spola,Republika Srpska,Deaths,10931
+1997,Broj,Oba spola,Republika Srpska,Deaths,11755
+1998,Broj,Oba spola,Republika Srpska,Deaths,12123
+1999,Broj,Oba spola,Republika Srpska,Deaths,12152
+2000,Broj,Oba spola,Republika Srpska,Deaths,12960
+2001,Broj,Oba spola,Republika Srpska,Deaths,12932
+2002,Broj,Oba spola,Republika Srpska,Deaths,12980
+2003,Broj,Oba spola,Republika Srpska,Deaths,12988
+2004,Broj,Oba spola,Republika Srpska,Deaths,13082
+2005,Broj,Oba spola,Republika Srpska,Deaths,13802
+2006,Broj,Oba spola,Republika Srpska,Deaths,13232
+2007,Broj,Oba spola,Republika Srpska,Deaths,14146
+2008,Broj,Oba spola,Republika Srpska,Deaths,13501
+2009,Broj,Oba spola,Republika Srpska,Deaths,13775
+2010,Broj,Oba spola,Republika Srpska,Deaths,13517
+2011,Broj,Oba spola,Republika Srpska,Deaths,13658
+2012,Broj,Oba spola,Republika Srpska,Deaths,13796
+2013,Broj,Oba spola,Republika Srpska,Deaths,13978
+2014,Broj,Oba spola,Republika Srpska,Deaths,14409
+2015,Broj,Oba spola,Republika Srpska,Deaths,15059
+2016,Broj,Oba spola,Republika Srpska,Deaths,13970
+2017,Broj,Oba spola,Republika Srpska,Deaths,14663
+2018,Broj,Oba spola,Republika Srpska,Deaths,14763
+2019,Broj,Oba spola,Republika Srpska,Deaths,15081
+1996,Broj,Muškarci,Republika Srpska,Natural change,6056
+1997,Broj,Muškarci,Republika Srpska,Natural change,6495
+1998,Broj,Muškarci,Republika Srpska,Natural change,6418
+1999,Broj,Muškarci,Republika Srpska,Natural change,6462
+2000,Broj,Muškarci,Republika Srpska,Natural change,6861
+2001,Broj,Muškarci,Republika Srpska,Natural change,7026
+2002,Broj,Muškarci,Republika Srpska,Natural change,6791
+2003,Broj,Muškarci,Republika Srpska,Natural change,6804
+2004,Broj,Muškarci,Republika Srpska,Natural change,6735
+2005,Broj,Muškarci,Republika Srpska,Natural change,7239
+2006,Broj,Muškarci,Republika Srpska,Natural change,6904
+2007,Broj,Muškarci,Republika Srpska,Natural change,7302
+2008,Broj,Muškarci,Republika Srpska,Natural change,7058
+2009,Broj,Muškarci,Republika Srpska,Natural change,7099
+2010,Broj,Muškarci,Republika Srpska,Natural change,6935
+2011,Broj,Muškarci,Republika Srpska,Natural change,7001
+2012,Broj,Muškarci,Republika Srpska,Natural change,7064
+2013,Broj,Muškarci,Republika Srpska,Natural change,7237
+2014,Broj,Muškarci,Republika Srpska,Natural change,7386
+2015,Broj,Muškarci,Republika Srpska,Natural change,7640
+2016,Broj,Muškarci,Republika Srpska,Natural change,7198
+2017,Broj,Muškarci,Republika Srpska,Natural change,7363
+2018,Broj,Muškarci,Republika Srpska,Natural change,7449
+2019,Broj,Muškarci,Republika Srpska,Natural change,7753
+1996,Broj,Žene,Republika Srpska,Natural change,4875
+1997,Broj,Žene,Republika Srpska,Natural change,5260
+1998,Broj,Žene,Republika Srpska,Natural change,5705
+1999,Broj,Žene,Republika Srpska,Natural change,5690
+2000,Broj,Žene,Republika Srpska,Natural change,6099
+2001,Broj,Žene,Republika Srpska,Natural change,5906
+2002,Broj,Žene,Republika Srpska,Natural change,6189
+2003,Broj,Žene,Republika Srpska,Natural change,6184
+2004,Broj,Žene,Republika Srpska,Natural change,6347
+2005,Broj,Žene,Republika Srpska,Natural change,6563
+2006,Broj,Žene,Republika Srpska,Natural change,6328
+2007,Broj,Žene,Republika Srpska,Natural change,6844
+2008,Broj,Žene,Republika Srpska,Natural change,6443
+2009,Broj,Žene,Republika Srpska,Natural change,6676
+2010,Broj,Žene,Republika Srpska,Natural change,6582
+2011,Broj,Žene,Republika Srpska,Natural change,6657
+2012,Broj,Žene,Republika Srpska,Natural change,6732
+2013,Broj,Žene,Republika Srpska,Natural change,6741
+2014,Broj,Žene,Republika Srpska,Natural change,7023
+2015,Broj,Žene,Republika Srpska,Natural change,7419
+2016,Broj,Žene,Republika Srpska,Natural change,6772
+2017,Broj,Žene,Republika Srpska,Natural change,7300
+2018,Broj,Žene,Republika Srpska,Natural change,7314
+2019,Broj,Žene,Republika Srpska,Natural change,7328
+1996,Broj,Oba spola,Republika Srpska,Natural change,1332
+1997,Broj,Oba spola,Republika Srpska,Natural change,2002
+1998,Broj,Oba spola,Republika Srpska,Natural change,1404
+1999,Broj,Oba spola,Republika Srpska,Natural change,2348
+2000,Broj,Oba spola,Republika Srpska,Natural change,1231
+2001,Broj,Oba spola,Republika Srpska,Natural change,767
+2002,Broj,Oba spola,Republika Srpska,Natural change,-644
+2003,Broj,Oba spola,Republika Srpska,Natural change,-2451
+2004,Broj,Oba spola,Republika Srpska,Natural change,-2454
+2005,Broj,Oba spola,Republika Srpska,Natural change,-3480
+2006,Broj,Oba spola,Republika Srpska,Natural change,-2708
+2007,Broj,Oba spola,Republika Srpska,Natural change,-4036
+2008,Broj,Oba spola,Republika Srpska,Natural change,-3303
+2009,Broj,Oba spola,Republika Srpska,Natural change,-3172
+2010,Broj,Oba spola,Republika Srpska,Natural change,-3370
+2011,Broj,Oba spola,Republika Srpska,Natural change,-4097
+2012,Broj,Oba spola,Republika Srpska,Natural change,-3818
+2013,Broj,Oba spola,Republika Srpska,Natural change,-4468
+2014,Broj,Oba spola,Republika Srpska,Natural change,-5074
+2015,Broj,Oba spola,Republika Srpska,Natural change,-5702
+2016,Broj,Oba spola,Republika Srpska,Natural change,-4518
+2017,Broj,Oba spola,Republika Srpska,Natural change,-5324
+2018,Broj,Oba spola,Republika Srpska,Natural change,-5195
+2019,Broj,Oba spola,Republika Srpska,Natural change,-5807

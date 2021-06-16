@@ -23,9 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
-                "_T",
                 ""
               ]
             }
@@ -35,7 +35,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "BIH",
                 "FBIH",
+                "RS",
                 ""
               ]
             }
