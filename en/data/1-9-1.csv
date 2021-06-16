@@ -1,16 +1,16 @@
 Year,UNIT_MEASURE,Sex,Entity,Value
-1971,Total Support Ratio,Both sexes,BIH,65.4
-1971,Total Support Ratio,Male,BIH,67.9
-1971,Total Support Ratio,Female,BIH,63.0
-1981,Total Support Ratio,Both sexes,BIH,52.3
-1981,Total Support Ratio,Male,BIH,53.0
-1981,Total Support Ratio,Female,BIH,51.6
-1991,Total Support Ratio,Both sexes,BIH,48.3
-1991,Total Support Ratio,Male,BIH,46.8
-1991,Total Support Ratio,Female,BIH,49.7
-2013,Total Support Ratio,Both sexes,BIH,42.1
-2013,Total Support Ratio,Male,BIH,39.2
-2013,Total Support Ratio,Female,BIH,44.9
+1971,Total support ratio,Both sexes,BIH,65.4
+1971,Total support ratio,Male,BIH,67.9
+1971,Total support ratio,Female,BIH,63.0
+1981,Total support ratio,Both sexes,BIH,52.3
+1981,Total support ratio,Male,BIH,53.0
+1981,Total support ratio,Female,BIH,51.6
+1991,Total support ratio,Both sexes,BIH,48.3
+1991,Total support ratio,Male,BIH,46.8
+1991,Total support ratio,Female,BIH,49.7
+2013,Total support ratio,Both sexes,BIH,42.1
+2013,Total support ratio,Male,BIH,39.2
+2013,Total support ratio,Female,BIH,44.9
 1971,Young-age support ratio,Both sexes,BIH,57.0
 1971,Young-age support ratio,Male,BIH,60.2
 1971,Young-age support ratio,Female,BIH,53.9
@@ -47,9 +47,9 @@ Year,UNIT_MEASURE,Sex,Entity,Value
 2013,Older persons to youth ratio,Both sexes,BIH,92.3
 2013,Older persons to youth ratio,Male,BIH,75.0
 2013,Older persons to youth ratio,Female,BIH,110.6
-2013,Total Support Ratio,Both sexes,Federation of BiH,40.8
-2013,Total Support Ratio,Male,Federation of BiH,38.4
-2013,Total Support Ratio,Female,Federation of BiH,43.1
+2013,Total support ratio,Both sexes,Federation of BiH,40.8
+2013,Total support ratio,Male,Federation of BiH,38.4
+2013,Total support ratio,Female,Federation of BiH,43.1
 2013,Young-age support ratio,Both sexes,Federation of BiH,22.6
 2013,Young-age support ratio,Male,Federation of BiH,23.3
 2013,Young-age support ratio,Female,Federation of BiH,22.0
@@ -59,9 +59,9 @@ Year,UNIT_MEASURE,Sex,Entity,Value
 2013,Older persons to youth ratio,Both sexes,Federation of BiH,80.1
 2013,Older persons to youth ratio,Male,Federation of BiH,65.0
 2013,Older persons to youth ratio,Female,Federation of BiH,96.1
-2013,Total Support Ratio,Both sexes,Republika Srpska,44.4
-2013,Total Support Ratio,Male,Republika Srpska,40.6
-2013,Total Support Ratio,Female,Republika Srpska,48.2
+2013,Total support ratio,Both sexes,Republika Srpska,44.4
+2013,Total support ratio,Male,Republika Srpska,40.6
+2013,Total support ratio,Female,Republika Srpska,48.2
 2013,Young-age support ratio,Both sexes,Republika Srpska,20.4
 2013,Young-age support ratio,Male,Republika Srpska,20.8
 2013,Young-age support ratio,Female,Republika Srpska,20.1
@@ -71,9 +71,9 @@ Year,UNIT_MEASURE,Sex,Entity,Value
 2013,Older persons to youth ratio,Both sexes,Republika Srpska,117.4
 2013,Older persons to youth ratio,Male,Republika Srpska,95.6
 2013,Older persons to youth ratio,Female,Republika Srpska,140.3
-2013,Total Support Ratio,Both sexes,Brčko District of BiH,43.3
-2013,Total Support Ratio,Male,Brčko District of BiH,40.6
-2013,Total Support Ratio,Female,Brčko District of BiH,46.0
+2013,Total support ratio,Both sexes,Brčko District of BiH,43.3
+2013,Total support ratio,Male,Brčko District of BiH,40.6
+2013,Total support ratio,Female,Brčko District of BiH,46.0
 2013,Young-age support ratio,Both sexes,Brčko District of BiH,22.4
 2013,Young-age support ratio,Male,Brčko District of BiH,23.3
 2013,Young-age support ratio,Female,Brčko District of BiH,21.6
