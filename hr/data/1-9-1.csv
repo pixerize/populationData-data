@@ -1,35 +1,85 @@
-Year,UNIT_MEASURE,Spol,Godine,Value
-1971,Broj,Oba spola,0 - 4,405505
-1971,Broj,Oba spola,0 - 14,1290369
-1971,Broj,Oba spola,5 - 9,442665
-1971,Broj,Oba spola,10 - 14,442199
-1971,Broj,Oba spola,15 - 19,411387
-1971,Broj,Oba spola,15 - 29,956431
-1971,Broj,Oba spola,15 - 49,1935980
-1971,Broj,Oba spola,15 - 64,2265176
-1971,Broj,Oba spola,20 - 24,319317
-1971,Broj,Oba spola,25 - 29,225727
-1971,Broj,Oba spola,30 - 34,289810
-1971,Broj,Oba spola,35 - 39,280482
-1971,Broj,Oba spola,40 - 44,243016
-1971,Broj,Oba spola,45 - 49,166241
-1971,Broj,Oba spola,50 - 54,101840
-1971,Broj,Oba spola,55 - 59,114629
-1971,Broj,Oba spola,60 - 64,112727
-1971,Broj,Oba spola,65 - 69,79808
-1971,Broj,Oba spola,65+,190566
-1971,Broj,Oba spola,75+,57209
-1971,Broj,Oba spola,85+,7784
-1971,Broj,Oba spola,70 - 74,53549
-1971,Broj,Oba spola,75 - 79,23050
-1971,Broj,Oba spola,80 - 84,12152
-1971,Broj,Oba spola,85 - 89,5112
-1971,Broj,Oba spola,90 - 94,1938
-1971,Broj,Oba spola,95 - 99,672
-1971,Broj,Oba spola,100 - 104,62
-1971,Broj,Oba spola,100+,62
-1971,Broj,Oba spola,105 - 109,0
-1971,Broj,Oba spola,110 - 114,0
-1971,Broj,Oba spola,115 - 120,0
-1971,Broj,Oba spola,Unknown,14223
-1971,Broj,Oba spola,Total,3746111
+Year,UNIT_MEASURE,Spol,Entitet,Value
+1971,total_support_ratio,Oba spola,BIH,65.4
+1971,total_support_ratio,Muškarci,BIH,67.9
+1971,total_support_ratio,Žene,BIH,63.0
+1981,total_support_ratio,Oba spola,BIH,52.3
+1981,total_support_ratio,Muškarci,BIH,53.0
+1981,total_support_ratio,Žene,BIH,51.6
+1991,total_support_ratio,Oba spola,BIH,48.3
+1991,total_support_ratio,Muškarci,BIH,46.8
+1991,total_support_ratio,Žene,BIH,49.7
+2013,total_support_ratio,Oba spola,BIH,42.1
+2013,total_support_ratio,Muškarci,BIH,39.2
+2013,total_support_ratio,Žene,BIH,44.9
+1971,young_age_support_ratio,Oba spola,BIH,57.0
+1971,young_age_support_ratio,Muškarci,BIH,60.2
+1971,young_age_support_ratio,Žene,BIH,53.9
+1981,young_age_support_ratio,Oba spola,BIH,42.5
+1981,young_age_support_ratio,Muškarci,BIH,44.5
+1981,young_age_support_ratio,Žene,BIH,40.6
+1991,young_age_support_ratio,Oba spola,BIH,35.6
+1991,young_age_support_ratio,Muškarci,BIH,36.6
+1991,young_age_support_ratio,Žene,BIH,34.6
+2013,young_age_support_ratio,Oba spola,BIH,21.9
+2013,young_age_support_ratio,Muškarci,BIH,22.4
+2013,young_age_support_ratio,Žene,BIH,21.3
+1971,old_age_support_ratio,Oba spola,BIH,8.4
+1971,old_age_support_ratio,Muškarci,BIH,7.7
+1971,old_age_support_ratio,Žene,BIH,9.1
+1981,old_age_support_ratio,Oba spola,BIH,9.8
+1981,old_age_support_ratio,Muškarci,BIH,8.5
+1981,old_age_support_ratio,Žene,BIH,11.0
+1991,old_age_support_ratio,Oba spola,BIH,12.7
+1991,old_age_support_ratio,Muškarci,BIH,10.1
+1991,old_age_support_ratio,Žene,BIH,15.2
+2013,old_age_support_ratio,Oba spola,BIH,20.2
+2013,old_age_support_ratio,Muškarci,BIH,16.8
+2013,old_age_support_ratio,Žene,BIH,23.6
+1971,older_persons_to_youth_ratio,Oba spola,BIH,14.8
+1971,older_persons_to_youth_ratio,Muškarci,BIH,12.8
+1971,older_persons_to_youth_ratio,Žene,BIH,16.9
+1981,older_persons_to_youth_ratio,Oba spola,BIH,23.1
+1981,older_persons_to_youth_ratio,Muškarci,BIH,19.2
+1981,older_persons_to_youth_ratio,Žene,BIH,27.2
+1991,older_persons_to_youth_ratio,Oba spola,BIH,35.6
+1991,older_persons_to_youth_ratio,Muškarci,BIH,27.7
+1991,older_persons_to_youth_ratio,Žene,BIH,43.8
+2013,older_persons_to_youth_ratio,Oba spola,BIH,92.3
+2013,older_persons_to_youth_ratio,Muškarci,BIH,75.0
+2013,older_persons_to_youth_ratio,Žene,BIH,110.6
+2013,total_support_ratio,Oba spola,Federacija BiH,40.8
+2013,total_support_ratio,Muškarci,Federacija BiH,38.4
+2013,total_support_ratio,Žene,Federacija BiH,43.1
+2013,young_age_support_ratio,Oba spola,Federacija BiH,22.6
+2013,young_age_support_ratio,Muškarci,Federacija BiH,23.3
+2013,young_age_support_ratio,Žene,Federacija BiH,22.0
+2013,old_age_support_ratio,Oba spola,Federacija BiH,18.1
+2013,old_age_support_ratio,Muškarci,Federacija BiH,15.1
+2013,old_age_support_ratio,Žene,Federacija BiH,21.1
+2013,older_persons_to_youth_ratio,Oba spola,Federacija BiH,80.1
+2013,older_persons_to_youth_ratio,Muškarci,Federacija BiH,65.0
+2013,older_persons_to_youth_ratio,Žene,Federacija BiH,96.1
+2013,total_support_ratio,Oba spola,Republika Srpska,44.4
+2013,total_support_ratio,Muškarci,Republika Srpska,40.6
+2013,total_support_ratio,Žene,Republika Srpska,48.2
+2013,young_age_support_ratio,Oba spola,Republika Srpska,20.4
+2013,young_age_support_ratio,Muškarci,Republika Srpska,20.8
+2013,young_age_support_ratio,Žene,Republika Srpska,20.1
+2013,old_age_support_ratio,Oba spola,Republika Srpska,24.0
+2013,old_age_support_ratio,Muškarci,Republika Srpska,19.8
+2013,old_age_support_ratio,Žene,Republika Srpska,28.2
+2013,older_persons_to_youth_ratio,Oba spola,Republika Srpska,117.4
+2013,older_persons_to_youth_ratio,Muškarci,Republika Srpska,95.6
+2013,older_persons_to_youth_ratio,Žene,Republika Srpska,140.3
+2013,total_support_ratio,Oba spola,Brčko Distrikt BiH,43.3
+2013,total_support_ratio,Muškarci,Brčko Distrikt BiH,40.6
+2013,total_support_ratio,Žene,Brčko Distrikt BiH,46.0
+2013,young_age_support_ratio,Oba spola,Brčko Distrikt BiH,22.4
+2013,young_age_support_ratio,Muškarci,Brčko Distrikt BiH,23.3
+2013,young_age_support_ratio,Žene,Brčko Distrikt BiH,21.6
+2013,old_age_support_ratio,Oba spola,Brčko Distrikt BiH,20.8
+2013,old_age_support_ratio,Muškarci,Brčko Distrikt BiH,17.3
+2013,old_age_support_ratio,Žene,Brčko Distrikt BiH,24.4
+2013,older_persons_to_youth_ratio,Oba spola,Brčko Distrikt BiH,92.8
+2013,older_persons_to_youth_ratio,Muškarci,Brčko Distrikt BiH,74.5
+2013,older_persons_to_youth_ratio,Žene,Brčko Distrikt BiH,112.7
