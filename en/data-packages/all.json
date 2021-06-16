@@ -1542,48 +1542,28 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
+                "DEATHS",
+                "LIVE_BIRTH",
+                "NATURAL_CHANGE"
               ]
             },
-            "title": "Age"
+            "title": "BIRTHS"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Federation of BiH"
+              ]
+            },
+            "title": "Entity"
           },
           {
             "name": "SEX",
@@ -1591,6 +1571,8 @@
             "constraints": {
               "enum": [
                 "",
+                "Female",
+                "Male",
                 "Both sexes"
               ]
             },
@@ -1603,7 +1585,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           },
           {
