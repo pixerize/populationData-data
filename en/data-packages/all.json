@@ -56,7 +56,7 @@
           }
         ]
       },
-      "title": "Population pyramid by age groups and sex"
+      "title": "Dependency ratios at state and entity level by sex"
     },
     {
       "path": "1-4-1/data.csv",
@@ -1092,7 +1092,7 @@
           }
         ]
       },
-      "title": "Population pyramid by age groups and sex"
+      "title": "Crude birth rate in Bosnia and Herzegovina by entity"
     },
     {
       "path": "1-6-1/data.csv",
