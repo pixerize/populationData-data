@@ -37,7 +37,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "FBIH",
                 "RS",
                 "BD",
@@ -240,7 +240,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "FBIH",
                 "RS",
                 "BD",
@@ -723,7 +723,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "FBIH",
                 "RS",
                 "BD",
@@ -1062,7 +1062,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "FBIH",
                 "RS",
                 "BD",

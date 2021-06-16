@@ -1,52 +1,52 @@
 Year,UNIT_MEASURE,Пол,Ентитет,Value
-1971,total_support_ratio,Оба пола,BIH,65.4
-1971,total_support_ratio,Мушкарци,BIH,67.9
-1971,total_support_ratio,Жене,BIH,63.0
-1981,total_support_ratio,Оба пола,BIH,52.3
-1981,total_support_ratio,Мушкарци,BIH,53.0
-1981,total_support_ratio,Жене,BIH,51.6
-1991,total_support_ratio,Оба пола,BIH,48.3
-1991,total_support_ratio,Мушкарци,BIH,46.8
-1991,total_support_ratio,Жене,BIH,49.7
-2013,total_support_ratio,Оба пола,BIH,42.1
-2013,total_support_ratio,Мушкарци,BIH,39.2
-2013,total_support_ratio,Жене,BIH,44.9
-1971,young_age_support_ratio,Оба пола,BIH,57.0
-1971,young_age_support_ratio,Мушкарци,BIH,60.2
-1971,young_age_support_ratio,Жене,BIH,53.9
-1981,young_age_support_ratio,Оба пола,BIH,42.5
-1981,young_age_support_ratio,Мушкарци,BIH,44.5
-1981,young_age_support_ratio,Жене,BIH,40.6
-1991,young_age_support_ratio,Оба пола,BIH,35.6
-1991,young_age_support_ratio,Мушкарци,BIH,36.6
-1991,young_age_support_ratio,Жене,BIH,34.6
-2013,young_age_support_ratio,Оба пола,BIH,21.9
-2013,young_age_support_ratio,Мушкарци,BIH,22.4
-2013,young_age_support_ratio,Жене,BIH,21.3
-1971,old_age_support_ratio,Оба пола,BIH,8.4
-1971,old_age_support_ratio,Мушкарци,BIH,7.7
-1971,old_age_support_ratio,Жене,BIH,9.1
-1981,old_age_support_ratio,Оба пола,BIH,9.8
-1981,old_age_support_ratio,Мушкарци,BIH,8.5
-1981,old_age_support_ratio,Жене,BIH,11.0
-1991,old_age_support_ratio,Оба пола,BIH,12.7
-1991,old_age_support_ratio,Мушкарци,BIH,10.1
-1991,old_age_support_ratio,Жене,BIH,15.2
-2013,old_age_support_ratio,Оба пола,BIH,20.2
-2013,old_age_support_ratio,Мушкарци,BIH,16.8
-2013,old_age_support_ratio,Жене,BIH,23.6
-1971,older_persons_to_youth_ratio,Оба пола,BIH,14.8
-1971,older_persons_to_youth_ratio,Мушкарци,BIH,12.8
-1971,older_persons_to_youth_ratio,Жене,BIH,16.9
-1981,older_persons_to_youth_ratio,Оба пола,BIH,23.1
-1981,older_persons_to_youth_ratio,Мушкарци,BIH,19.2
-1981,older_persons_to_youth_ratio,Жене,BIH,27.2
-1991,older_persons_to_youth_ratio,Оба пола,BIH,35.6
-1991,older_persons_to_youth_ratio,Мушкарци,BIH,27.7
-1991,older_persons_to_youth_ratio,Жене,BIH,43.8
-2013,older_persons_to_youth_ratio,Оба пола,BIH,92.3
-2013,older_persons_to_youth_ratio,Мушкарци,BIH,75.0
-2013,older_persons_to_youth_ratio,Жене,BIH,110.6
+1971,total_support_ratio,Оба пола,BiH,65.4
+1971,total_support_ratio,Мушкарци,BiH,67.9
+1971,total_support_ratio,Жене,BiH,63.0
+1981,total_support_ratio,Оба пола,BiH,52.3
+1981,total_support_ratio,Мушкарци,BiH,53.0
+1981,total_support_ratio,Жене,BiH,51.6
+1991,total_support_ratio,Оба пола,BiH,48.3
+1991,total_support_ratio,Мушкарци,BiH,46.8
+1991,total_support_ratio,Жене,BiH,49.7
+2013,total_support_ratio,Оба пола,BiH,42.1
+2013,total_support_ratio,Мушкарци,BiH,39.2
+2013,total_support_ratio,Жене,BiH,44.9
+1971,young_age_support_ratio,Оба пола,BiH,57.0
+1971,young_age_support_ratio,Мушкарци,BiH,60.2
+1971,young_age_support_ratio,Жене,BiH,53.9
+1981,young_age_support_ratio,Оба пола,BiH,42.5
+1981,young_age_support_ratio,Мушкарци,BiH,44.5
+1981,young_age_support_ratio,Жене,BiH,40.6
+1991,young_age_support_ratio,Оба пола,BiH,35.6
+1991,young_age_support_ratio,Мушкарци,BiH,36.6
+1991,young_age_support_ratio,Жене,BiH,34.6
+2013,young_age_support_ratio,Оба пола,BiH,21.9
+2013,young_age_support_ratio,Мушкарци,BiH,22.4
+2013,young_age_support_ratio,Жене,BiH,21.3
+1971,old_age_support_ratio,Оба пола,BiH,8.4
+1971,old_age_support_ratio,Мушкарци,BiH,7.7
+1971,old_age_support_ratio,Жене,BiH,9.1
+1981,old_age_support_ratio,Оба пола,BiH,9.8
+1981,old_age_support_ratio,Мушкарци,BiH,8.5
+1981,old_age_support_ratio,Жене,BiH,11.0
+1991,old_age_support_ratio,Оба пола,BiH,12.7
+1991,old_age_support_ratio,Мушкарци,BiH,10.1
+1991,old_age_support_ratio,Жене,BiH,15.2
+2013,old_age_support_ratio,Оба пола,BiH,20.2
+2013,old_age_support_ratio,Мушкарци,BiH,16.8
+2013,old_age_support_ratio,Жене,BiH,23.6
+1971,older_persons_to_youth_ratio,Оба пола,BiH,14.8
+1971,older_persons_to_youth_ratio,Мушкарци,BiH,12.8
+1971,older_persons_to_youth_ratio,Жене,BiH,16.9
+1981,older_persons_to_youth_ratio,Оба пола,BiH,23.1
+1981,older_persons_to_youth_ratio,Мушкарци,BiH,19.2
+1981,older_persons_to_youth_ratio,Жене,BiH,27.2
+1991,older_persons_to_youth_ratio,Оба пола,BiH,35.6
+1991,older_persons_to_youth_ratio,Мушкарци,BiH,27.7
+1991,older_persons_to_youth_ratio,Жене,BiH,43.8
+2013,older_persons_to_youth_ratio,Оба пола,BiH,92.3
+2013,older_persons_to_youth_ratio,Мушкарци,BiH,75.0
+2013,older_persons_to_youth_ratio,Жене,BiH,110.6
 2013,total_support_ratio,Оба пола,Федерација БиХ,40.8
 2013,total_support_ratio,Мушкарци,Федерација БиХ,38.4
 2013,total_support_ratio,Жене,Федерација БиХ,43.1

@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "FBIH",
                 "RS",
                 "BD",

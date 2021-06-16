@@ -40,7 +40,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
                 "Brčko Distrikt BiH",
@@ -258,7 +258,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
                 "Brčko Distrikt BiH",
@@ -774,7 +774,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
                 "Brčko Distrikt BiH",
@@ -1141,7 +1141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BIH",
+                "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
                 "Brčko Distrikt BiH",
