@@ -68,3 +68,7 @@ BIRTHS: Births
 LIVE_BIRTH: Live birth
 DEATHS: Deaths
 NATURAL_CHANGE: Natural change
+total_support_ratio: Total Support Ratio
+young_age_support_ratio: Young-age support ratio
+old_age_support_ratio: Old-age support ratio
+older_persons_to_youth_ratio: Older persons to youth ratio
