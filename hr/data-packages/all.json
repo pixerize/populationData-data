@@ -689,6 +689,90 @@
       "title": "Udio stanovništva sa pristupom električnoj energiji"
     },
     {
+      "path": "1-9-1/data.csv",
+      "name": "1-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -888,6 +972,90 @@
       "title": "Udio žrtava nasilja u zadnjih 12 mjeseci koji su nasilje prijavili nadležnim organima ili drugim zvanično priznatim mehanizmima za rješavanje sukoba"
     },
     {
+      "path": "1-18-1/data.csv",
+      "name": "1-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
@@ -956,6 +1124,90 @@
         ]
       },
       "title": "Prosječna zarada po satu zaposlenih, prema polu, starosti, zanimanju i osobama sa invaliditetom"
+    },
+    {
+      "path": "1-8-1/data.csv",
+      "name": "1-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "17-14-1/data.csv",
@@ -1879,6 +2131,174 @@
       "title": "Prosječan udio otvorenih javnih površina u izgrađenim površinama gradova, prema spolu, starosti i invaliditetu"
     },
     {
+      "path": "1-23-1/data.csv",
+      "name": "1-23-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
+      "path": "1-26-1/data.csv",
+      "name": "1-26-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "3-b-1/data.csv",
       "name": "3-b-1",
       "profile": "tabular-data-resource",
@@ -1911,6 +2331,90 @@
         ]
       },
       "title": "Udio ciljane populacije obuhvaćene svim vakcinama uključenih u nacionalnim programa"
+    },
+    {
+      "path": "1-34-1/data.csv",
+      "name": "1-34-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1983,6 +2487,174 @@
       "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
     },
     {
+      "path": "1-21-1/data.csv",
+      "name": "1-21-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
+      "path": "1-32-1/data.csv",
+      "name": "1-32-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
@@ -2049,6 +2721,90 @@
         ]
       },
       "title": "Rasprostranjenot podhranjenosti"
+    },
+    {
+      "path": "1-17-1/data.csv",
+      "name": "1-17-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "11-b-1/data.csv",
@@ -2497,6 +3253,90 @@
       "title": "Glavni makroekonomski pokazatelji"
     },
     {
+      "path": "1-29-1/data.csv",
+      "name": "1-29-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -2758,6 +3598,90 @@
         ]
       },
       "title": "Udio zemalja koje usvajaju u nacionalno zakonodavstvo i adekvatno obezbeđuju sredstva za prevenciju ili kontrolu invazivnih vrsta"
+    },
+    {
+      "path": "1-10-1/data.csv",
+      "name": "1-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "15-5-1/data.csv",
@@ -4365,6 +5289,90 @@
       "title": "Udio djece mlađe od 5 godina čija su rođenja registrovana u civilnim organima, prema starosnoj dobi"
     },
     {
+      "path": "1-12-1/data.csv",
+      "name": "1-12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "16-7-1/data.csv",
       "name": "16-7-1",
       "profile": "tabular-data-resource",
@@ -4475,6 +5483,90 @@
         ]
       },
       "title": "Udio divljih vrsta kojima se trguje, a koje potiču iz krivolova ili nezakonite trgovine"
+    },
+    {
+      "path": "1-1-14 /data.csv",
+      "name": "1-1-14 ",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-1-14 "
     },
     {
       "path": "road-transport/data.csv",
@@ -4799,6 +5891,90 @@
         ]
       },
       "title": "Učestalost malarije na 1.000 stanovnika"
+    },
+    {
+      "path": "1-28-1/data.csv",
+      "name": "1-28-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "3-9-3/data.csv",
@@ -5839,6 +7015,90 @@
       "title": "Opskrba električnom energijom"
     },
     {
+      "path": "1-19-1/data.csv",
+      "name": "1-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "11-6-2/data.csv",
       "name": "11-6-2",
       "profile": "tabular-data-resource",
@@ -6175,6 +7435,90 @@
         ]
       },
       "title": "Broj zemalja koje imaju nacionalne urbane politike ili planove regionalnog razvoja koji (a) odgovaraju na dinamiku stanovništva; (b) osiguravaju uravnotežen teritorijalni razvoj; i (c) povećava lokalni fiskalni prostor"
+    },
+    {
+      "path": "1-13-1/data.csv",
+      "name": "1-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "9-1-1/data.csv",
@@ -6711,6 +8055,90 @@
       "title": "Udio zdravstvenih ustanova koje imaju osnovni paket relevantnih esencijalnih lijekova koji su priuštivi i dostupni na održivoj osnovi"
     },
     {
+      "path": "1-31-1/data.csv",
+      "name": "1-31-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-31-1"
+    },
+    {
       "path": "15-9-1/data.csv",
       "name": "15-9-1",
       "profile": "tabular-data-resource",
@@ -6855,6 +8283,90 @@
         ]
       },
       "title": "Udio stanovništva koji vjeruje da je donošenje odluka inkluzivno i odgovara na potrebe, po polu, starosti, invaliditetu ili populacionim grupama"
+    },
+    {
+      "path": "1-22-1/data.csv",
+      "name": "1-22-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "7-1-2/data.csv",
@@ -7123,6 +8635,90 @@
       "title": "Udio država sa sistemima praćenja i javnog izdvajanja za ravnopravnost polova i osnaživanje žena"
     },
     {
+      "path": "1-20-1/data.csv",
+      "name": "1-20-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "9-2-1/data.csv",
       "name": "9-2-1",
       "profile": "tabular-data-resource",
@@ -7189,6 +8785,90 @@
         ]
       },
       "title": "Udio domaćeg budžeta koji se finansira iz domaćih poreza"
+    },
+    {
+      "path": "1-35-1/data.csv",
+      "name": "1-35-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "4-7-1/data.csv",
@@ -7367,6 +9047,90 @@
         ]
       },
       "title": "Udio lokalnih sorti klasificiranih kao u opasnosti od izumiranja"
+    },
+    {
+      "path": "1-27-1/data.csv",
+      "name": "1-27-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "8-4-1/data.csv",
@@ -7583,6 +9347,174 @@
         ]
       },
       "title": "Promet industrije – godišnje stope promjena izračunane iz kalendarski prilagođenih indeks"
+    },
+    {
+      "path": "1-24-1/data.csv",
+      "name": "1-24-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
+      "path": "1-30-1/data.csv",
+      "name": "1-30-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "17-18-1/data.csv",
@@ -8403,6 +10335,90 @@
       "title": "Postojanje nezavisnih nacionalnih institucija za ljudska prava u skladu sa Pariškim principima"
     },
     {
+      "path": "1-16-1/data.csv",
+      "name": "1-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "6-5-2/data.csv",
       "name": "6-5-2",
       "profile": "tabular-data-resource",
@@ -8852,6 +10868,90 @@
         ]
       },
       "title": "Udio žena reproduktivnog uzrasta (u dobi od 15 do 49 godina) koji su svoju potrebu za planiranje porodice zadovoljile sa modernim metodama"
+    },
+    {
+      "path": "1-11-1/data.csv",
+      "name": "1-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "8-4-2/data.csv",
@@ -10201,6 +12301,258 @@
       "title": "Udio stanovništva zadovoljnog svojim posljednjim iskustvom u pružanju javnih usluga"
     },
     {
+      "path": "1-33-1/data.csv",
+      "name": "1-33-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
+      "path": "1-25-1/data.csv",
+      "name": "1-25-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
+      "path": "1-15-1/data.csv",
+      "name": "1-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 - 4",
+                "0 - 14",
+                "5 - 9",
+                "10 - 14",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "75+",
+                "85+",
+                "70 - 74",
+                "75 - 79",
+                "80 - 84",
+                "85 - 89",
+                "90 - 94",
+                "95 - 99",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
+    },
+    {
       "path": "13-2-1/data.csv",
       "name": "13-2-1",
       "profile": "tabular-data-resource",
@@ -10271,6 +12623,30 @@
         ]
       },
       "title": "Troškovi zapošljavanja koje snose zaposleni u odnosu na godišnji prihod ostvaren u zemlji odredišta"
+    },
+    {
+      "path": "1-14-1/data.csv",
+      "name": "1-14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     }
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0 - 14",
+                "0 - 4",
+                "10 - 14",
+                "100 - 104",
+                "100+",
+                "105 - 109",
+                "110 - 114",
+                "115 - 120",
+                "15 - 19",
+                "15 - 29",
+                "15 - 49",
+                "15 - 64",
+                "20 - 24",
+                "25 - 29",
+                "30 - 34",
+                "35 - 39",
+                "40 - 44",
+                "45 - 49",
+                "5 - 9",
+                "50 - 54",
+                "55 - 59",
+                "60 - 64",
+                "65 - 69",
+                "65+",
+                "70 - 74",
+                "75 - 79",
+                "75+",
+                "80 - 84",
+                "85 - 89",
+                "85+",
+                "90 - 94",
+                "95 - 99",
+                "Total",
+                "Unknown"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-25-1",
+  "title": "Population pyramid in Bosnia and Herzegovina by age groups and sex"
+}
