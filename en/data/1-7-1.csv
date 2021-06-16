@@ -1,93 +1,139 @@
 Year,UNIT_MEASURE,Sex,Entity,BIRTHS,Value
-1997,Number,Male,Federation of BiH,LIVE_BIRTH,"14,703"
-1998,Number,Male,Federation of BiH,LIVE_BIRTH,"15,311"
-1999,Number,Male,Federation of BiH,LIVE_BIRTH,"15,516"
-2000,Number,Male,Federation of BiH,LIVE_BIRTH,"16,985"
-2001,Number,Male,Federation of BiH,LIVE_BIRTH,"16,756"
-2002,Number,Male,Federation of BiH,LIVE_BIRTH,"16,988"
-2003,Number,Male,Federation of BiH,LIVE_BIRTH,"18,049"
-2004,Number,Male,Federation of BiH,LIVE_BIRTH,"18,122"
-2005,Number,Male,Federation of BiH,LIVE_BIRTH,"19,099"
-2006,Number,Male,Federation of BiH,LIVE_BIRTH,"18,497"
-2007,Number,Male,Federation of BiH,LIVE_BIRTH,"19,280"
-2008,Number,Male,Federation of BiH,LIVE_BIRTH,"19,306"
-2009,Number,Male,Federation of BiH,LIVE_BIRTH,"19,829"
-2010,Number,Male,Federation of BiH,LIVE_BIRTH,"20,256"
-2011,Number,Male,Federation of BiH,LIVE_BIRTH,"19,979"
-2012,Number,Male,Federation of BiH,LIVE_BIRTH,"20,621"
-2013,Number,Male,Federation of BiH,LIVE_BIRTH,"20,269"
-2014,Number,Male,Federation of BiH,LIVE_BIRTH,"20,030"
-2015,Number,Male,Federation of BiH,LIVE_BIRTH,"21,474"
-2016,Number,Male,Federation of BiH,LIVE_BIRTH,"21,105"
-2017,Number,Male,Federation of BiH,LIVE_BIRTH,"21,689"
-2018,Number,Male,Federation of BiH,LIVE_BIRTH,"21,442"
-2019,Number,Male,Federation of BiH,LIVE_BIRTH,"22,024"
-1997,Number,Female,Federation of BiH,LIVE_BIRTH,"14,703"
-1998,Number,Female,Federation of BiH,LIVE_BIRTH,"15,311"
-1999,Number,Female,Federation of BiH,LIVE_BIRTH,"15,516"
-2000,Number,Female,Federation of BiH,LIVE_BIRTH,"16,985"
-2001,Number,Female,Federation of BiH,LIVE_BIRTH,"16,756"
-2002,Number,Female,Federation of BiH,LIVE_BIRTH,"16,988"
-2003,Number,Female,Federation of BiH,LIVE_BIRTH,"18,049"
-2004,Number,Female,Federation of BiH,LIVE_BIRTH,"18,122"
-2005,Number,Female,Federation of BiH,LIVE_BIRTH,"19,099"
-2006,Number,Female,Federation of BiH,LIVE_BIRTH,"18,497"
-2007,Number,Female,Federation of BiH,LIVE_BIRTH,"19,280"
-2008,Number,Female,Federation of BiH,LIVE_BIRTH,"19,306"
-2009,Number,Female,Federation of BiH,LIVE_BIRTH,"19,829"
-2010,Number,Female,Federation of BiH,LIVE_BIRTH,"20,256"
-2011,Number,Female,Federation of BiH,LIVE_BIRTH,"19,979"
-2012,Number,Female,Federation of BiH,LIVE_BIRTH,"20,621"
-2013,Number,Female,Federation of BiH,LIVE_BIRTH,"20,269"
-2014,Number,Female,Federation of BiH,LIVE_BIRTH,"20,030"
-2015,Number,Female,Federation of BiH,LIVE_BIRTH,"21,474"
-2016,Number,Female,Federation of BiH,LIVE_BIRTH,"21,105"
-2017,Number,Female,Federation of BiH,LIVE_BIRTH,"21,689"
-2018,Number,Female,Federation of BiH,LIVE_BIRTH,"21,442"
-2019,Number,Female,Federation of BiH,LIVE_BIRTH,"22,024"
-1997,Number,Both sexes,Federation of BiH,DEATHS,"14,703"
-1998,Number,Both sexes,Federation of BiH,DEATHS,"15,311"
-1999,Number,Both sexes,Federation of BiH,DEATHS,"15,516"
-2000,Number,Both sexes,Federation of BiH,DEATHS,"16,985"
-2001,Number,Both sexes,Federation of BiH,DEATHS,"16,756"
-2002,Number,Both sexes,Federation of BiH,DEATHS,"16,988"
-2003,Number,Both sexes,Federation of BiH,DEATHS,"18,049"
-2004,Number,Both sexes,Federation of BiH,DEATHS,"18,122"
-2005,Number,Both sexes,Federation of BiH,DEATHS,"19,099"
-2006,Number,Both sexes,Federation of BiH,DEATHS,"18,497"
-2007,Number,Both sexes,Federation of BiH,DEATHS,"19,280"
-2008,Number,Both sexes,Federation of BiH,DEATHS,"19,306"
-2009,Number,Both sexes,Federation of BiH,DEATHS,"19,829"
-2010,Number,Both sexes,Federation of BiH,DEATHS,"20,256"
-2011,Number,Both sexes,Federation of BiH,DEATHS,"19,979"
-2012,Number,Both sexes,Federation of BiH,DEATHS,"20,621"
-2013,Number,Both sexes,Federation of BiH,DEATHS,"20,269"
-2014,Number,Both sexes,Federation of BiH,DEATHS,"20,030"
-2015,Number,Both sexes,Federation of BiH,DEATHS,"21,474"
-2016,Number,Both sexes,Federation of BiH,DEATHS,"21,105"
-2017,Number,Both sexes,Federation of BiH,DEATHS,"21,689"
-2018,Number,Both sexes,Federation of BiH,DEATHS,"21,442"
-2019,Number,Both sexes,Federation of BiH,DEATHS,"22,024"
-1997,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"14,703"
-1998,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"15,311"
-1999,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"15,516"
-2000,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"16,985"
-2001,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"16,756"
-2002,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"16,988"
-2003,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"18,049"
-2004,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"18,122"
-2005,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"19,099"
-2006,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"18,497"
-2007,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"19,280"
-2008,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"19,306"
-2009,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"19,829"
-2010,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"20,256"
-2011,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"19,979"
-2012,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"20,621"
-2013,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"20,269"
-2014,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"20,030"
-2015,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"21,474"
-2016,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"21,105"
-2017,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"21,689"
-2018,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"21,442"
-2019,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,"22,024"
+1997,Number,Male,Federation of BiH,LIVE_BIRTH,17961
+1998,Number,Male,Federation of BiH,LIVE_BIRTH,16344
+1999,Number,Male,Federation of BiH,LIVE_BIRTH,14242
+2000,Number,Male,Federation of BiH,LIVE_BIRTH,13088
+2001,Number,Male,Federation of BiH,LIVE_BIRTH,12347
+2002,Number,Male,Federation of BiH,LIVE_BIRTH,11932
+2003,Number,Male,Federation of BiH,LIVE_BIRTH,12083
+2004,Number,Male,Federation of BiH,LIVE_BIRTH,11476
+2005,Number,Male,Federation of BiH,LIVE_BIRTH,11287
+2006,Number,Male,Federation of BiH,LIVE_BIRTH,11207
+2007,Number,Male,Federation of BiH,LIVE_BIRTH,11293
+2008,Number,Male,Federation of BiH,LIVE_BIRTH,11730
+2009,Number,Male,Federation of BiH,LIVE_BIRTH,11876
+2010,Number,Male,Federation of BiH,LIVE_BIRTH,11561
+2011,Number,Male,Federation of BiH,LIVE_BIRTH,11014
+2012,Number,Male,Federation of BiH,LIVE_BIRTH,11154
+2013,Number,Male,Federation of BiH,LIVE_BIRTH,10391
+2014,Number,Male,Federation of BiH,LIVE_BIRTH,10185
+2015,Number,Male,Federation of BiH,LIVE_BIRTH,9884
+2016,Number,Male,Federation of BiH,LIVE_BIRTH,10214
+2017,Number,Male,Federation of BiH,LIVE_BIRTH,10247
+2018,Number,Male,Federation of BiH,LIVE_BIRTH,9742
+2019,Number,Male,Federation of BiH,LIVE_BIRTH,9342
+1997,Number,Female,Federation of BiH,LIVE_BIRTH,16343
+1998,Number,Female,Federation of BiH,LIVE_BIRTH,15136
+1999,Number,Female,Federation of BiH,LIVE_BIRTH,13722
+2000,Number,Female,Federation of BiH,LIVE_BIRTH,12284
+2001,Number,Female,Federation of BiH,LIVE_BIRTH,11671
+2002,Number,Female,Federation of BiH,LIVE_BIRTH,11319
+2003,Number,Female,Federation of BiH,LIVE_BIRTH,11085
+2004,Number,Female,Federation of BiH,LIVE_BIRTH,10774
+2005,Number,Female,Federation of BiH,LIVE_BIRTH,10647
+2006,Number,Female,Federation of BiH,LIVE_BIRTH,10395
+2007,Number,Female,Federation of BiH,LIVE_BIRTH,10422
+2008,Number,Female,Federation of BiH,LIVE_BIRTH,11190
+2009,Number,Female,Federation of BiH,LIVE_BIRTH,11037
+2010,Number,Female,Federation of BiH,LIVE_BIRTH,10821
+2011,Number,Female,Federation of BiH,LIVE_BIRTH,10214
+2012,Number,Female,Federation of BiH,LIVE_BIRTH,10318
+2013,Number,Female,Federation of BiH,LIVE_BIRTH,9754
+2014,Number,Female,Federation of BiH,LIVE_BIRTH,9695
+2015,Number,Female,Federation of BiH,LIVE_BIRTH,9474
+2016,Number,Female,Federation of BiH,LIVE_BIRTH,9441
+2017,Number,Female,Federation of BiH,LIVE_BIRTH,9577
+2018,Number,Female,Federation of BiH,LIVE_BIRTH,9157
+2019,Number,Female,Federation of BiH,LIVE_BIRTH,8677
+1997,Number,Both sexes,Federation of BiH,DEATHS,14703
+1998,Number,Both sexes,Federation of BiH,DEATHS,15311
+1999,Number,Both sexes,Federation of BiH,DEATHS,15516
+2000,Number,Both sexes,Federation of BiH,DEATHS,16985
+2001,Number,Both sexes,Federation of BiH,DEATHS,16756
+2002,Number,Both sexes,Federation of BiH,DEATHS,16988
+2003,Number,Both sexes,Federation of BiH,DEATHS,18049
+2004,Number,Both sexes,Federation of BiH,DEATHS,18122
+2005,Number,Both sexes,Federation of BiH,DEATHS,19099
+2006,Number,Both sexes,Federation of BiH,DEATHS,18497
+2007,Number,Both sexes,Federation of BiH,DEATHS,19280
+2008,Number,Both sexes,Federation of BiH,DEATHS,19306
+2009,Number,Both sexes,Federation of BiH,DEATHS,19829
+2010,Number,Both sexes,Federation of BiH,DEATHS,20256
+2011,Number,Both sexes,Federation of BiH,DEATHS,19979
+2012,Number,Both sexes,Federation of BiH,DEATHS,20621
+2013,Number,Both sexes,Federation of BiH,DEATHS,20269
+2014,Number,Both sexes,Federation of BiH,DEATHS,20030
+2015,Number,Both sexes,Federation of BiH,DEATHS,21474
+2016,Number,Both sexes,Federation of BiH,DEATHS,21105
+2017,Number,Both sexes,Federation of BiH,DEATHS,21689
+2018,Number,Both sexes,Federation of BiH,DEATHS,21442
+2019,Number,Both sexes,Federation of BiH,DEATHS,22024
+1997,Number,Male,Federation of BiH,NATURAL_CHANGE,7908
+1998,Number,Male,Federation of BiH,NATURAL_CHANGE,8216
+1999,Number,Male,Federation of BiH,NATURAL_CHANGE,8194
+2000,Number,Male,Federation of BiH,NATURAL_CHANGE,8917
+2001,Number,Male,Federation of BiH,NATURAL_CHANGE,8830
+2002,Number,Male,Federation of BiH,NATURAL_CHANGE,8757
+2003,Number,Male,Federation of BiH,NATURAL_CHANGE,9344
+2004,Number,Male,Federation of BiH,NATURAL_CHANGE,9258
+2005,Number,Male,Federation of BiH,NATURAL_CHANGE,9934
+2006,Number,Male,Federation of BiH,NATURAL_CHANGE,9538
+2007,Number,Male,Federation of BiH,NATURAL_CHANGE,9921
+2008,Number,Male,Federation of BiH,NATURAL_CHANGE,9982
+2009,Number,Male,Federation of BiH,NATURAL_CHANGE,10077
+2010,Number,Male,Federation of BiH,NATURAL_CHANGE,10220
+2011,Number,Male,Federation of BiH,NATURAL_CHANGE,10234
+2012,Number,Male,Federation of BiH,NATURAL_CHANGE,10599
+2013,Number,Male,Federation of BiH,NATURAL_CHANGE,10250
+2014,Number,Male,Federation of BiH,NATURAL_CHANGE,10184
+2015,Number,Male,Federation of BiH,NATURAL_CHANGE,10722
+2016,Number,Male,Federation of BiH,NATURAL_CHANGE,10538
+2017,Number,Male,Federation of BiH,NATURAL_CHANGE,10979
+2018,Number,Male,Federation of BiH,NATURAL_CHANGE,10756
+2019,Number,Male,Federation of BiH,NATURAL_CHANGE,11140
+1997,Number,Female,Federation of BiH,NATURAL_CHANGE,6795
+1998,Number,Female,Federation of BiH,NATURAL_CHANGE,7095
+1999,Number,Female,Federation of BiH,NATURAL_CHANGE,7322
+2000,Number,Female,Federation of BiH,NATURAL_CHANGE,8068
+2001,Number,Female,Federation of BiH,NATURAL_CHANGE,7926
+2002,Number,Female,Federation of BiH,NATURAL_CHANGE,8231
+2003,Number,Female,Federation of BiH,NATURAL_CHANGE,8705
+2004,Number,Female,Federation of BiH,NATURAL_CHANGE,8864
+2005,Number,Female,Federation of BiH,NATURAL_CHANGE,9165
+2006,Number,Female,Federation of BiH,NATURAL_CHANGE,8959
+2007,Number,Female,Federation of BiH,NATURAL_CHANGE,9359
+2008,Number,Female,Federation of BiH,NATURAL_CHANGE,9324
+2009,Number,Female,Federation of BiH,NATURAL_CHANGE,9752
+2010,Number,Female,Federation of BiH,NATURAL_CHANGE,10036
+2011,Number,Female,Federation of BiH,NATURAL_CHANGE,9745
+2012,Number,Female,Federation of BiH,NATURAL_CHANGE,10022
+2013,Number,Female,Federation of BiH,NATURAL_CHANGE,10019
+2014,Number,Female,Federation of BiH,NATURAL_CHANGE,9846
+2015,Number,Female,Federation of BiH,NATURAL_CHANGE,10752
+2016,Number,Female,Federation of BiH,NATURAL_CHANGE,10567
+2017,Number,Female,Federation of BiH,NATURAL_CHANGE,10710
+2018,Number,Female,Federation of BiH,NATURAL_CHANGE,10686
+2019,Number,Female,Federation of BiH,NATURAL_CHANGE,10884
+1997,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,19601
+1998,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,16169
+1999,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,12448
+2000,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,8387
+2001,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,7262
+2002,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,6263
+2003,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,5119
+2004,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,4128
+2005,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,2835
+2006,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,3105
+2007,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,2435
+2008,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,3614
+2009,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,3084
+2010,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,2126
+2011,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,1249
+2012,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,851
+2013,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-124
+2014,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-150
+2015,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-2116
+2016,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-1450
+2017,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-1865
+2018,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-2543
+2019,Number,Both sexes,Federation of BiH,NATURAL_CHANGE,-4005
