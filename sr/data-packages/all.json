@@ -1580,13 +1580,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Live birth",
+                "Deaths",
+                "Natural change",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Births"
           },
           {
             "name": "Value",

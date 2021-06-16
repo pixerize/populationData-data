@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-DEATHS,DEATHS,DEATHS,DEATHS,DEATHS,1,1
-LIVE_BIRTH,LIVE_BIRTH,LIVE_BIRTH,LIVE_BIRTH,LIVE_BIRTH,2,1
-NATURAL_CHANGE,NATURAL_CHANGE,NATURAL_CHANGE,NATURAL_CHANGE,NATURAL_CHANGE,3,1
+DEATHS,Deaths,Deaths,Deaths,Deaths,1,1
+LIVE_BIRTH,Live birth,Live birth,Live birth,Live birth,2,1
+NATURAL_CHANGE,Natural change,Natural change,Natural change,Natural change,3,1

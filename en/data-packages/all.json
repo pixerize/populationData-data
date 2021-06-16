@@ -1547,12 +1547,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live birth",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Births"
           },
           {
             "name": "Entity",
