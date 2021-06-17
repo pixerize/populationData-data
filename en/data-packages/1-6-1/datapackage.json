@@ -50,8 +50,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male"
+                "F",
+                "M"
               ]
             },
             "title": "Sex"
