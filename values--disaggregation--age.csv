@@ -182,7 +182,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 97,97,97,97,97,10,2
 98,98,98,98,98,10,2
 99,99,99,99,99,10,2
-_ALL,_ALL,_ALL,_ALL,_ALL,1,1
+_ALL,All,_ALL,_ALL,_ALL,1,1
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,4,1
 Total,Total,Total,Total,Total,85,20
 Unknown,Unknown,Unknown,Unknown,Unknown,48,19
