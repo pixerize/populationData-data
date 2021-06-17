@@ -64,3 +64,11 @@ number: Number
 per 100000 population: Per 100000 population
 number of victims of intentional homicide per 100,000 population, by sex: Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population) 
 number of victims of intentional homicide, by sex: Number of victims of intentional homicide, by sex (number)
+BIRTHS: Births
+LIVE_BIRTH: Live birth
+DEATHS: Deaths
+NATURAL_CHANGE: Natural change
+total_support_ratio: Total support ratio
+young_age_support_ratio: Young-age support ratio
+old_age_support_ratio: Old-age support ratio
+older_persons_to_youth_ratio: Older persons to youth ratio
