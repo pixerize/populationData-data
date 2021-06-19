@@ -11,66 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-14",
-                "0-4",
-                "10-14",
-                "15-19",
-                "15-29",
-                "15-49",
-                "15-64",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65+",
-                "65-69",
-                "70-74",
-                "75+",
-                "75-79",
-                "80-84",
-                "85+",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Brčko District of BiH",
+                "BiH",
                 "Federation of BiH",
                 "Republika Srpska"
               ]
             },
             "title": "Entity"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -79,7 +31,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -93,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-1",
-  "title": "Population by entity, age groups and sex"
+  "title": "1-4-1"
 }

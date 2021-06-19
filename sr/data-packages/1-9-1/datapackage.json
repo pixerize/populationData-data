@@ -12,40 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко Дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Ентитет"
           },
           {
             "name": "Value",

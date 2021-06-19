@@ -12,52 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

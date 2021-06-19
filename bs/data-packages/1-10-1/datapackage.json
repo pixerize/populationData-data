@@ -12,27 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
           },
           {
             "name": "Value",
