@@ -87,13 +87,13 @@ per_capita: Per capita
 real_gdp_growth: Real GDP growth
 total_millions: Total (millions)
 QUANTITY: Quantity
-households_in_poverty: Households in poverty (%)
-population_in_poverty: Population in poverty (%)
-males_in_poverty: Males in poverty (%)
-females_in_poverty: Females in poverty (%)
+households_in_poverty: "Households in poverty (%)"
+population_in_poverty: "Population in poverty (%)"
+males_in_poverty: "Males in poverty (%)"
+females_in_poverty: "Females in poverty (%)"
 POVERTY_RATE: Poverty Rate
-active_labour_force: Active (Labour Force) as % of working age population
-employed_as_of_working: Employed as % of working age population
-unemployed_as_of_working: Unemployed as % of working age population
-unemployed_as_of_labour: Unemployed as % of labour force
-inactive_as_of_working: Inactive as % of working age population
+active_labour_force: "Active (Labour Force) as % of working age population"
+employed_as_of_working: "Employed as % of working age population"
+unemployed_as_of_working: "Unemployed as % of working age population"
+unemployed_as_of_labour: "Unemployed as % of labour force"
+inactive_as_of_working: "Inactive as % of working age population"
