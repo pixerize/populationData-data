@@ -2,7 +2,7 @@ Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACTIVITY_RATES,ACTIVITY_RATES,ACTIVITY_RATES,ACTIVITY_RATES,ACTIVITY_RATES,1,5
 AGE,Age,Godine,Године,Godine,23,192
 BIRTHS,Births,Births,Births,Births,1,3
-Entity,Admnistrative area,Entitet,Ентитет,Entitet,10,4
+Entity,Administrative area,Entitet,Ентитет,Entitet,10,4
 FERTILITY_RATE,Fertility rate,FERTILITY_RATE,FERTILITY_RATE,FERTILITY_RATE,1,2
 Municipality,Municipality,Municipality,Municipality,Municipality,1,37
 POVERTY_RATE,Poverty Rate,POVERTY_RATE,POVERTY_RATE,POVERTY_RATE,1,4
