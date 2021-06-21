@@ -1,22 +1,79 @@
-Year,SERIES,UNIT_MEASURE,Value
-2001,Number of undernourish people,MILLIONS,0.1
-2002,Number of undernourish people,MILLIONS,0.1
-2003,Number of undernourish people,MILLIONS,0.1
-2001,Prevalence of undernourishment,Percent,3.2
-2002,Prevalence of undernourishment,Percent,3.1
-2003,Prevalence of undernourishment,Percent,2.7
-2004,Prevalence of undernourishment,Percent,2.5
-2005,Prevalence of undernourishment,Percent,2.5
-2006,Prevalence of undernourishment,Percent,2.5
-2007,Prevalence of undernourishment,Percent,2.5
-2008,Prevalence of undernourishment,Percent,2.5
-2009,Prevalence of undernourishment,Percent,2.5
-2010,Prevalence of undernourishment,Percent,2.5
-2011,Prevalence of undernourishment,Percent,2.5
-2012,Prevalence of undernourishment,Percent,2.5
-2013,Prevalence of undernourishment,Percent,2.5
-2014,Prevalence of undernourishment,Percent,2.5
-2015,Prevalence of undernourishment,Percent,2.5
-2016,Prevalence of undernourishment,Percent,2.5
-2017,Prevalence of undernourishment,Percent,2.5
-2018,Prevalence of undernourishment,Percent,2.5
+Year,UNIT_MEASURE,Sex,EDUCATION,Value
+1991,Number,Both sexes,total_15,471182.0
+1991,% of total,Both sexes,total_15,17.43944263
+1991,Number,M,total_15,98420.0
+1991,% of total,M,total_15,7.480138719
+1991,Number,F,total_15,372762.0
+1991,% of total,F,total_15,26.89350515
+1991,Number,Both sexes,incomplete_primary_education,658356.0
+1991,% of total,Both sexes,incomplete_primary_education,24.36714834
+1991,Number,M,incomplete_primary_education,285421.0
+1991,% of total,M,incomplete_primary_education,21.69263029
+1991,Number,F,incomplete_primary_education,372935.0
+1991,% of total,F,incomplete_primary_education,26.90598651
+1991,Number,Both sexes,primary_school,818361.0
+1991,% of total,Both sexes,primary_school,30.28927189
+1991,Number,M,primary_school,421045.0
+1991,% of total,M,primary_school,32.00035569
+1991,Number,F,primary_school,397316.0
+1991,% of total,F,primary_school,28.66499238
+1991,Number,Both sexes,secondary_school,1092372.0
+1991,% of total,Both sexes,secondary_school,40.43099868
+1991,Number,M,secondary_school,671058.0
+1991,% of total,M,secondary_school,51.0018993
+1991,Number,F,secondary_school,421314.0
+1991,% of total,F,secondary_school,30.39636612
+1991,Number,Both sexes,higher_school_and_first_grade_of_faculty,92501.0
+1991,% of total,Both sexes,higher_school_and_first_grade_of_faculty,3.4236577
+1991,Number,M,higher_school_and_first_grade_of_faculty,56759.0
+1991,% of total,M,higher_school_and_first_grade_of_faculty,4.313810136
+1991,Number,F,higher_school_and_first_grade_of_faculty,35742.0
+1991,% of total,F,higher_school_and_first_grade_of_faculty,2.578663225
+1991,Number,Both sexes,advanced_schools_faculty_academy_university,122967.0
+1991,% of total,Both sexes,advanced_schools_faculty_academy_university,4.551268812
+1991,Number,M,advanced_schools_faculty_academy_university,77240.0
+1991,% of total,M,advanced_schools_faculty_academy_university,5.870411651
+1991,Number,F,advanced_schools_faculty_academy_university,45727.0
+1991,% of total,F,advanced_schools_faculty_academy_university,3.299046871
+1991,Number,Both sexes,unknown,93903.0
+1991,% of total,Both sexes,unknown,3.475548686
+1991,Number,M,unknown,47397.0
+1991,% of total,M,unknown,3.602277331
+1991,Number,F,unknown,46506.0
+1991,% of total,F,unknown,335.5249061
+2013,Number,Both sexes,total_15,146078.0
+2013,% of total,Both sexes,total_15,5.406655815
+2013,Number,M,total_15,24021.0
+2013,% of total,M,total_15,1.825649382
+2013,Number,F,total_15,122057.0
+2013,% of total,F,total_15,8.80599567
+2013,Number,Both sexes,incomplete_primary_education,274036.0
+2013,% of total,Both sexes,incomplete_primary_education,10.1426521
+2013,Number,M,incomplete_primary_education,83216.0
+2013,% of total,M,incomplete_primary_education,6.324600931
+2013,Number,F,incomplete_primary_education,190820.0
+2013,% of total,F,incomplete_primary_education,13.76701126
+2013,Number,Both sexes,primary_school,640726.0
+2013,% of total,Both sexes,primary_school,23.71462475
+2013,Number,M,primary_school,274258.0
+2013,% of total,M,primary_school,20.84421748
+2013,Number,F,primary_school,366468.0
+2013,% of total,F,primary_school,26.43941454
+2013,Number,Both sexes,secondary_school,1525161.0
+2013,% of total,Both sexes,secondary_school,56.44943516
+2013,Number,M,secondary_school,864823.0
+2013,% of total,M,secondary_school,65.7284699
+2013,Number,F,secondary_school,660338.0
+2013,% of total,F,secondary_school,47.64113135
+2013,Number,Both sexes,higher_school_and_first_grade_of_faculty,94204.0
+2013,% of total,Both sexes,higher_school_and_first_grade_of_faculty,3.486689333
+2013,Number,M,higher_school_and_first_grade_of_faculty,51556.0
+2013,% of total,M,higher_school_and_first_grade_of_faculty,3.918370573
+2013,Number,F,higher_school_and_first_grade_of_faculty,42648.0
+2013,% of total,F,higher_school_and_first_grade_of_faculty,3.076907538
+2013,Number,Both sexes,advanced_schools_faculty_academy_university,285622.0
+2013,% of total,Both sexes,advanced_schools_faculty_academy_university,10.57147447
+2013,Number,M,advanced_schools_faculty_academy_university,137543.0
+2013,% of total,M,advanced_schools_faculty_academy_university,10.45357366
+2013,Number,F,advanced_schools_faculty_academy_university,148079.0
+2013,% of total,F,advanced_schools_faculty_academy_university,10.68339409

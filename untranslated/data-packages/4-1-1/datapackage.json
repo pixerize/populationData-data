@@ -15,12 +15,36 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
+            "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_15",
+                "incomplete_primary_education",
+                "primary_school",
+                "secondary_school",
+                "higher_school_and_first_grade_of_faculty",
+                "advanced_schools_faculty_academy_university",
+                "unknown",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

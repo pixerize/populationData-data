@@ -16,14 +16,39 @@
             "title": "Godina"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_15",
+                "incomplete_primary_education",
+                "primary_school",
+                "secondary_school",
+                "higher_school_and_first_grade_of_faculty",
+                "advanced_schools_faculty_academy_university",
+                "unknown",
+                ""
+              ]
+            },
+            "title": "EDUCATION"
           },
           {
             "name": "Value",

@@ -16,14 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Active (Labour Force) as % of working age population",
-                "Employed as % of working age population",
-                "Inactive as % of working age population",
-                "Unemployed as % of labour force",
-                "Unemployed as % of working age population"
+                "Active (Labour Force) as % of working age population"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -75,5 +71,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-1",
-  "title": "Proportion of population using safely managed drinking water services"
+  "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
 }

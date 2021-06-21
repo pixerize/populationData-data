@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ENROLMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "enrolment_in_pre_school",
+                "enrolment_in_primary_school_education",
+                "enrolment_in_high_school_education",
+                "enrolment_in_higher_education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-2",
+  "title": "global_indicators.4-1-1-title"
+}
