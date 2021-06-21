@@ -100,7 +100,7 @@ higher_school_and_first_grade_of_faculty: Higher school and first grade of facul
 advanced_schools_faculty_academy_university: Advanced schools / faculty / academy / university
 unknown: Unknown
 total_illiterate: Total illiterate
-of_total_for_age_group: % of total for age group
+of_total_for_age_group: '% of total for age group'
 CAUSE_OF_DEATH: Cause of death (as per ICD-10 codes)
 infectious_and_parasitic: (A00-B99) Infectious and parasitic diseases
 neoplasms: (C00-C97,D00-D48) Neoplasms
