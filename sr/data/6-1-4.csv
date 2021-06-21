@@ -1,0 +1,57 @@
+Year,POVERTY_RATE,UNIT_MEASURE,Ентитет,Value
+2004,households_in_poverty,_%,BiH,18.1
+2007,households_in_poverty,_%,BiH,18.4
+2011,households_in_poverty,_%,BiH,17.2
+2015,households_in_poverty,_%,BiH,16.5
+2004,population_in_poverty,_%,BiH,18.3
+2007,population_in_poverty,_%,BiH,18.2
+2011,population_in_poverty,_%,BiH,17.9
+2015,population_in_poverty,_%,BiH,16.9
+2007,males_in_poverty,_%,BiH,18.3
+2011,males_in_poverty,_%,BiH,18.0
+2015,males_in_poverty,_%,BiH,17.1
+2007,females_in_poverty,_%,BiH,18.1
+2011,females_in_poverty,_%,BiH,17.7
+2015,females_in_poverty,_%,BiH,16.7
+2004,households_in_poverty,_%,Федерација БиХ,18.3
+2007,households_in_poverty,_%,Федерација БиХ,16.3
+2011,households_in_poverty,_%,Федерација БиХ,16.0
+2015,households_in_poverty,_%,Федерација БиХ,16.0
+2004,population_in_poverty,_%,Федерација БиХ,18.8
+2007,population_in_poverty,_%,Федерација БиХ,17.0
+2011,population_in_poverty,_%,Федерација БиХ,17.1
+2015,population_in_poverty,_%,Федерација БиХ,17.1
+2007,males_in_poverty,_%,Федерација БиХ,17.1
+2011,males_in_poverty,_%,Федерација БиХ,17.5
+2015,males_in_poverty,_%,Федерација БиХ,18.8
+2007,females_in_poverty,_%,Федерација БиХ,16.9
+2011,females_in_poverty,_%,Федерација БиХ,16.7
+2015,females_in_poverty,_%,Федерација БиХ,15.9
+2004,households_in_poverty,_%,Република Српска,18.3
+2007,households_in_poverty,_%,Република Српска,21.7
+2011,households_in_poverty,_%,Република Српска,19.6
+2015,households_in_poverty,_%,Република Српска,17.4
+2004,population_in_poverty,_%,Република Српска,17.8
+2007,population_in_poverty,_%,Република Српска,20.1
+2011,population_in_poverty,_%,Република Српска,19.5
+2015,population_in_poverty,_%,Република Српска,16.4
+2007,males_in_poverty,_%,Република Српска,20.2
+2011,males_in_poverty,_%,Република Српска,19.1
+2015,males_in_poverty,_%,Република Српска,14.5
+2007,females_in_poverty,_%,Република Српска,20.1
+2011,females_in_poverty,_%,Република Српска,19.8
+2015,females_in_poverty,_%,Република Српска,17.6
+2004,households_in_poverty,_%,Брчко Дистрикт БиХ,7.8
+2007,households_in_poverty,_%,Брчко Дистрикт БиХ,23.6
+2011,households_in_poverty,_%,Брчко Дистрикт БиХ,12.2
+2015,households_in_poverty,_%,Брчко Дистрикт БиХ,15.9
+2004,population_in_poverty,_%,Брчко Дистрикт БиХ,9.5
+2007,population_in_poverty,_%,Брчко Дистрикт БиХ,25.8
+2011,population_in_poverty,_%,Брчко Дистрикт БиХ,14.7
+2015,population_in_poverty,_%,Брчко Дистрикт БиХ,17.6
+2007,males_in_poverty,_%,Брчко Дистрикт БиХ,23.4
+2011,males_in_poverty,_%,Брчко Дистрикт БиХ,14.1
+2015,males_in_poverty,_%,Брчко Дистрикт БиХ,15.3
+2007,females_in_poverty,_%,Брчко Дистрикт БиХ,28.2
+2011,females_in_poverty,_%,Брчко Дистрикт БиХ,15.3
+2015,females_in_poverty,_%,Брчко Дистрикт БиХ,19.0
