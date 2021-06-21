@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_ALL",
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "FERTILITY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_fertility_rate",
+                "age_specific_fertility_rates",
+                ""
+              ]
+            },
+            "title": "FERTILITY_RATE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-2",
+  "title": "Удио укупне популације одраслих особа које имају сигурна земљишна права, (а) са законски признатом документацијом, и (б) који сматрају да су њихова земљишна права сигурна, по сполу и врсти права на земљи"
+}
