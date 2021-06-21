@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",
@@ -24,8 +24,8 @@
             "constraints": {
               "enum": [
                 "total_millions",
-                "real_gdp_growth",
                 "per_capita",
+                "real_gdp_growth",
                 ""
               ]
             }

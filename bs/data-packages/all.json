@@ -517,7 +517,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -531,8 +531,8 @@
             "constraints": {
               "enum": [
                 "total_millions",
-                "real_gdp_growth",
                 "per_capita",
+                "real_gdp_growth",
                 ""
               ]
             },
