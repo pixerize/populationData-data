@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "employed_as_of_working"
+                "Employed as % of working age population"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",

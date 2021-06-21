@@ -105,7 +105,7 @@
                 "BiH"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "QUANTTIY",
@@ -113,8 +113,8 @@
             "constraints": {
               "enum": [
                 "",
-                "per_capita",
-                "total_millions"
+                "Per capita",
+                "Total (millions)"
               ]
             },
             "title": "QUANTTIY"
@@ -154,11 +154,11 @@
             "constraints": {
               "enum": [
                 "",
-                "inactive_as_of_working",
-                "unemployed_as_of_labour"
+                "Inactive as % of working age population",
+                "Unemployed as % of labour force"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -224,13 +224,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "POVERTY_RATE",
@@ -238,12 +238,12 @@
             "constraints": {
               "enum": [
                 "",
-                "females_in_poverty",
-                "males_in_poverty",
-                "population_in_poverty"
+                "Females in poverty (%)",
+                "Males in poverty (%)",
+                "Population in poverty (%)"
               ]
             },
-            "title": "POVERTY_RATE"
+            "title": "Poverty Rate"
           },
           {
             "name": "UNIT_MEASURE",
@@ -289,7 +289,7 @@
                 "40-44",
                 "45-49",
                 "50+",
-                "_ALL"
+                "All"
               ]
             },
             "title": "Age"
@@ -300,11 +300,11 @@
             "constraints": {
               "enum": [
                 "",
-                "age_specific_fertility_rates",
-                "total_fertility_rate"
+                "Age specific fertility rates",
+                "Total fertility rate"
               ]
             },
-            "title": "FERTILITY_RATE"
+            "title": "Fertility rate"
           },
           {
             "name": "UNIT_MEASURE",
@@ -623,7 +623,7 @@
                 "BiH"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "QUANTITY",
@@ -631,11 +631,11 @@
             "constraints": {
               "enum": [
                 "",
-                "per_capita",
-                "total_millions"
+                "Per capita",
+                "Total (millions)"
               ]
             },
-            "title": "QUANTITY"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -672,13 +672,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -728,10 +728,10 @@
             "constraints": {
               "enum": [
                 "",
-                "employed_as_of_working"
+                "Employed as % of working age population"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -881,10 +881,10 @@
             "constraints": {
               "enum": [
                 "",
-                "active_labour_force"
+                "Active (Labour Force) as % of working age population"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -986,12 +986,12 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
-                "FBIH",
-                "RS"
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -1284,7 +1284,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
@@ -1293,13 +1293,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "POVERTY_RATE",
@@ -1307,10 +1307,10 @@
             "constraints": {
               "enum": [
                 "",
-                "households_in_poverty"
+                "Households in poverty (%)"
               ]
             },
-            "title": "POVERTY_RATE"
+            "title": "Poverty Rate"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1347,13 +1347,13 @@
             "constraints": {
               "enum": [
                 "",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education"
+                "Enrolment in high school education",
+                "Enrolment in higher education",
+                "Enrolment in pre-school education",
+                "Enrolment in primary school education"
               ]
             },
-            "title": "ENROLMENT"
+            "title": "Enrolment"
           },
           {
             "name": "SEX",
@@ -1748,13 +1748,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "QUANTITY",
@@ -1762,12 +1762,12 @@
             "constraints": {
               "enum": [
                 "",
-                "per_capita",
-                "real_gdp_growth",
-                "total_millions"
+                "Per capita",
+                "Real GDP growth",
+                "Total (millions)"
               ]
             },
-            "title": "QUANTITY"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1902,12 +1902,12 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
-                "FBIH",
-                "RS"
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -2041,13 +2041,13 @@
             "constraints": {
               "enum": [
                 "",
-                "advanced_schools_faculty_academy_university",
-                "higher_school_and_first_grade_of_faculty",
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "total_15",
-                "unknown"
+                "Advanced schools / faculty / academy / university",
+                "Higher school and first grade of faculty",
+                "Incomplete primary education",
+                "Primary school",
+                "Secondary school",
+                "Total 15+",
+                "Unknown"
               ]
             },
             "title": "EDUCATION"
@@ -2359,13 +2359,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2654,13 +2654,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2854,11 +2854,11 @@
             "constraints": {
               "enum": [
                 "",
-                "of_total_for_age_group",
-                "total_illiterate"
+                "% of total for age group",
+                "Total illiterate"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -2880,7 +2880,7 @@
                 " 70-74",
                 " 75+",
                 "40-44",
-                "_ALL"
+                "All"
               ]
             },
             "title": "Age"
@@ -2933,12 +2933,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live birth",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Births"
           },
           {
             "name": "Entity",
@@ -2946,13 +2946,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",

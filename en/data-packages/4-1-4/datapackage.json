@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "of_total_for_age_group",
-                "total_illiterate"
+                "% of total for age group",
+                "Total illiterate"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -42,7 +42,7 @@
                 " 70-74",
                 " 75+",
                 "40-44",
-                "_ALL"
+                "All"
               ]
             },
             "title": "Age"

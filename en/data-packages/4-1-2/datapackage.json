@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education"
+                "Enrolment in high school education",
+                "Enrolment in higher education",
+                "Enrolment in pre-school education",
+                "Enrolment in primary school education"
               ]
             },
-            "title": "ENROLMENT"
+            "title": "Enrolment"
           },
           {
             "name": "SEX",

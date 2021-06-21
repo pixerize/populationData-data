@@ -114,12 +114,12 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
-                "FBIH",
-                "RS"
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
