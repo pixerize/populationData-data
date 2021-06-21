@@ -20,7 +20,7 @@
                 "total_illiterate"
               ]
             },
-            "title": "Activity rates"
+            "title": "ACTIVITY_RATES"
           },
           {
             "name": "AGE",
@@ -42,7 +42,7 @@
                 " 70-74",
                 " 75+",
                 "40-44",
-                "All"
+                "_ALL"
               ]
             },
             "title": "Age"

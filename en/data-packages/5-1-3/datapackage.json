@@ -19,7 +19,7 @@
                 "BiH"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "QUANTITY",
@@ -27,11 +27,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "per_capita",
+                "total_millions"
               ]
             },
-            "title": "Quantity"
+            "title": "QUANTITY"
           },
           {
             "name": "UNIT_MEASURE",

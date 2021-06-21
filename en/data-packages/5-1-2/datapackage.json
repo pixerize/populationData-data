@@ -19,7 +19,7 @@
                 "BiH"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "QUANTTIY",
@@ -27,8 +27,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "per_capita",
+                "total_millions"
               ]
             },
             "title": "QUANTTIY"

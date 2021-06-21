@@ -1,7 +1,7 @@
-Year,UNIT_MEASURE,Age,Sex,Activity rates,Value
-2013,Number,All,Both sexes,total_illiterate,89794.0
-2013,Number,All,M,total_illiterate,12237.0
-2013,Number,All,F,total_illiterate,77557.0
+Year,UNIT_MEASURE,Age,Sex,ACTIVITY_RATES,Value
+2013,Number,_ALL,Both sexes,total_illiterate,89794.0
+2013,Number,_ALL,M,total_illiterate,12237.0
+2013,Number,_ALL,F,total_illiterate,77557.0
 2013,Number, 10-14,Both sexes,of_total_for_age_group,579.0
 2013,Number, 10-14,M,of_total_for_age_group,318.0
 2013,Number, 10-14,F,of_total_for_age_group,261.0

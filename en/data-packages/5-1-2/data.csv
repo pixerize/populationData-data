@@ -1,47 +1,47 @@
-Year,UNIT_MEASURE,QUANTTIY,Administrative area,Value
-1997,Number,Total (millions),BiH,3.424
-1998,Number,Total (millions),BiH,3.879
-1999,Number,Total (millions),BiH,4.399
-2000,Number,Total (millions),BiH,4.914
-2001,Number,Total (millions),BiH,5.358
-2002,Number,Total (millions),BiH,5.957
-2003,Number,Total (millions),BiH,6.291
-2004,Number,Total (millions),BiH,6.901
-2005,Number,Total (millions),BiH,9.025
-2006,Number,Total (millions),BiH,10.255
-2007,Number,Total (millions),BiH,11.529
-2008,Number,Total (millions),BiH,13.048
-2009,Number,Total (millions),BiH,12.679
-2010,Number,Total (millions),BiH,12.969
-2011,Number,Total (millions),BiH,13.412
-2012,Number,Total (millions),BiH,13.408
-2013,Number,Total (millions),BiH,13.692
-2014,Number,Total (millions),BiH,13.989
-2015,Number,Total (millions),BiH,14.618
-2016,Number,Total (millions),BiH,15.29
-2017,Number,Total (millions),BiH,16.043
-2018,Number,Total (millions),BiH,17.1
-2019,Number,Total (millions),BiH,18.047
-1997,Number,Per capita,BiH,912.0
-1998,Number,Per capita,BiH,1062.0
-1999,Number,Per capita,BiH,1181.0
-2000,Number,Per capita,BiH,1300.0
-2001,Number,Per capita,BiH,1411.0
-2002,Number,Per capita,BiH,1556.0
-2003,Number,Per capita,BiH,1642.0
-2004,Number,Per capita,BiH,1796.0
-2005,Number,Per capita,BiH,2548.0
-2006,Number,Per capita,BiH,2895.0
-2007,Number,Per capita,BiH,3255.0
-2008,Number,Per capita,BiH,3684.0
-2009,Number,Per capita,BiH,3581.0
-2010,Number,Per capita,BiH,3664.0
-2011,Number,Per capita,BiH,3791.0
-2012,Number,Per capita,BiH,3793.0
-2013,Number,Per capita,BiH,3878.0
-2014,Number,Per capita,BiH,3967.0
-2015,Number,Per capita,BiH,4155.0
-2016,Number,Per capita,BiH,4355.0
-2017,Number,Per capita,BiH,4578.0
-2018,Number,Per capita,BiH,4891.0
-2019,Number,Per capita,BiH,5178.0
+Year,UNIT_MEASURE,QUANTTIY,Entity,Value
+1997,Number,total_millions,BiH,3.424
+1998,Number,total_millions,BiH,3.879
+1999,Number,total_millions,BiH,4.399
+2000,Number,total_millions,BiH,4.914
+2001,Number,total_millions,BiH,5.358
+2002,Number,total_millions,BiH,5.957
+2003,Number,total_millions,BiH,6.291
+2004,Number,total_millions,BiH,6.901
+2005,Number,total_millions,BiH,9.025
+2006,Number,total_millions,BiH,10.255
+2007,Number,total_millions,BiH,11.529
+2008,Number,total_millions,BiH,13.048
+2009,Number,total_millions,BiH,12.679
+2010,Number,total_millions,BiH,12.969
+2011,Number,total_millions,BiH,13.412
+2012,Number,total_millions,BiH,13.408
+2013,Number,total_millions,BiH,13.692
+2014,Number,total_millions,BiH,13.989
+2015,Number,total_millions,BiH,14.618
+2016,Number,total_millions,BiH,15.29
+2017,Number,total_millions,BiH,16.043
+2018,Number,total_millions,BiH,17.1
+2019,Number,total_millions,BiH,18.047
+1997,Number,per_capita,BiH,912.0
+1998,Number,per_capita,BiH,1062.0
+1999,Number,per_capita,BiH,1181.0
+2000,Number,per_capita,BiH,1300.0
+2001,Number,per_capita,BiH,1411.0
+2002,Number,per_capita,BiH,1556.0
+2003,Number,per_capita,BiH,1642.0
+2004,Number,per_capita,BiH,1796.0
+2005,Number,per_capita,BiH,2548.0
+2006,Number,per_capita,BiH,2895.0
+2007,Number,per_capita,BiH,3255.0
+2008,Number,per_capita,BiH,3684.0
+2009,Number,per_capita,BiH,3581.0
+2010,Number,per_capita,BiH,3664.0
+2011,Number,per_capita,BiH,3791.0
+2012,Number,per_capita,BiH,3793.0
+2013,Number,per_capita,BiH,3878.0
+2014,Number,per_capita,BiH,3967.0
+2015,Number,per_capita,BiH,4155.0
+2016,Number,per_capita,BiH,4355.0
+2017,Number,per_capita,BiH,4578.0
+2018,Number,per_capita,BiH,4891.0
+2019,Number,per_capita,BiH,5178.0
