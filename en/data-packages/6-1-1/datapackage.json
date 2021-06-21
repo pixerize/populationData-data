@@ -11,31 +11,48 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "ACTIVITY_RATES",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "Active (Labour Force) as % of working age population",
+                "Employed as % of working age population",
+                "Inactive as % of working age population",
+                "Unemployed as % of labour force",
+                "Unemployed as % of working age population"
               ]
             },
-            "title": "Administrative area"
+            "title": "ACTIVITY_RATES"
           },
           {
-            "name": "QUANTITY",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Real GDP growth",
-                "Total (millions)"
+                "15 - 24",
+                "15 - 64",
+                "15+",
+                "25 - 49",
+                "50 - 64",
+                "65+"
               ]
             },
-            "title": "Quantity"
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

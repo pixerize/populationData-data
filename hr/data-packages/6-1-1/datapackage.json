@@ -21,31 +21,48 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "QUANTITY",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
-                "real_gdp_growth",
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
                 ""
               ]
             },
-            "title": "QUANTITY"
+            "title": "Godine"
           },
           {
-            "name": "Entity",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Oba spola",
+                "Muškarci",
+                "Žene",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Spol"
+          },
+          {
+            "name": "ACTIVITY_RATES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "active_labour_force",
+                "employed_as_of_working",
+                "unemployed_as_of_working",
+                "unemployed_as_of_labour",
+                "inactive_as_of_working",
+                ""
+              ]
+            },
+            "title": "ACTIVITY_RATES"
           },
           {
             "name": "Value",

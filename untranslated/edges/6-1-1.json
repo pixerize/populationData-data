@@ -1,1 +1,1 @@
-{"From":["QUANTITY"],"To":["Entity"]}
+{"From":["AGE","SEX"],"To":["SEX","ACTIVITY_RATES"]}

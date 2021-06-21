@@ -12,37 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "POVERTY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households_in_poverty",
-                "population_in_poverty",
-                "males_in_poverty",
-                "females_in_poverty",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

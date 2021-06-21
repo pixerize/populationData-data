@@ -1,2 +1,3 @@
 From,To
-Quantity,Administrative area
+Age,Sex
+Sex,ACTIVITY_RATES

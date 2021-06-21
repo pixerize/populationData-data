@@ -12,57 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            },
-            "title": "Godine"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "active_labour_force",
-                "employed_as_of_working",
-                "unemployed_as_of_working",
-                "unemployed_as_of_labour",
-                "inactive_as_of_working",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
           },
           {
             "name": "Value",

@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "POVERTY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households_in_poverty",
-                "population_in_poverty",
-                "males_in_poverty",
-                "females_in_poverty",
-                ""
-              ]
-            },
-            "title": "POVERTY_RATE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
           },
           {
             "name": "Value",
