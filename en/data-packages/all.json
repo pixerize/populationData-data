@@ -516,9 +516,31 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Entity",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "QUANTITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "per_capita",
+                "real_gdp_growth",
+                "total_millions"
+              ]
+            },
+            "title": "QUANTITY"
           },
           {
             "name": "UNIT_MEASURE",
@@ -527,7 +549,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {

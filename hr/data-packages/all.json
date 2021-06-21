@@ -521,18 +521,40 @@
             "title": "Godina"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
+            "name": "QUANTITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_millions",
+                "real_gdp_growth",
+                "per_capita",
+                ""
+              ]
+            },
+            "title": "QUANTITY"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

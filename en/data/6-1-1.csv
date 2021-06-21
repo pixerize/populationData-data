@@ -1,22 +1,136 @@
-Year,SERIES,UNIT_MEASURE,Value
-2001,Number of undernourish people,MILLIONS,0.1
-2002,Number of undernourish people,MILLIONS,0.1
-2003,Number of undernourish people,MILLIONS,0.1
-2001,Prevalence of undernourishment,Percent,3.2
-2002,Prevalence of undernourishment,Percent,3.1
-2003,Prevalence of undernourishment,Percent,2.7
-2004,Prevalence of undernourishment,Percent,2.5
-2005,Prevalence of undernourishment,Percent,2.5
-2006,Prevalence of undernourishment,Percent,2.5
-2007,Prevalence of undernourishment,Percent,2.5
-2008,Prevalence of undernourishment,Percent,2.5
-2009,Prevalence of undernourishment,Percent,2.5
-2010,Prevalence of undernourishment,Percent,2.5
-2011,Prevalence of undernourishment,Percent,2.5
-2012,Prevalence of undernourishment,Percent,2.5
-2013,Prevalence of undernourishment,Percent,2.5
-2014,Prevalence of undernourishment,Percent,2.5
-2015,Prevalence of undernourishment,Percent,2.5
-2016,Prevalence of undernourishment,Percent,2.5
-2017,Prevalence of undernourishment,Percent,2.5
-2018,Prevalence of undernourishment,Percent,2.5
+Year,UNIT_MEASURE,QUANTITY,Entity,Value
+1997,Number,total_millions,BiH,"6,752"
+1998,Number,total_millions,BiH,"7,650"
+1999,Number,total_millions,BiH,"8,604"
+2000,Number,total_millions,BiH,"9,611"
+2001,Number,total_millions,BiH,"10,480"
+2002,Number,total_millions,BiH,"11,651"
+2003,Number,total_millions,BiH,"12,303"
+2004,Number,total_millions,BiH,"13,497"
+2005,Number,total_millions,BiH,"17,649"
+2006,Number,total_millions,BiH,"20,056"
+2007,Number,total_millions,BiH,"22,548"
+2008,Number,total_millions,BiH,"25,519"
+2009,Number,total_millions,BiH,"24,799"
+2010,Number,total_millions,BiH,"25,365"
+2011,Number,total_millions,BiH,"26,231"
+2012,Number,total_millions,BiH,"26,223"
+2013,Number,total_millions,BiH,"26,779"
+2014,Number,total_millions,BiH,"27,358"
+2015,Number,total_millions,BiH,"28,589"
+2016,Number,total_millions,BiH,"29,905"
+2017,Number,total_millions,BiH,"31,377"
+2018,Number,total_millions,BiH,"33,445"
+2019,Number,total_millions,BiH,"35,295"
+1997,Number,total_millions,Federation of BiH,4943.00
+1998,Number,total_millions,Federation of BiH,5606.00
+1999,Number,total_millions,Federation of BiH,6142.00
+2000,Number,total_millions,Federation of BiH,6723.00
+2001,Number,total_millions,Federation of BiH,7274.00
+2002,Number,total_millions,Federation of BiH,7943.00
+2003,Number,total_millions,Federation of BiH,8268.00
+2004,Number,total_millions,Federation of BiH,8897.00
+2005,Number,total_millions,Federation of BiH,11506.00
+2006,Number,total_millions,Federation of BiH,13036.00
+2007,Number,total_millions,Federation of BiH,14629.00
+2008,Number,total_millions,Federation of BiH,16426.00
+2009,Number,total_millions,Federation of BiH,15987.00
+2010,Number,total_millions,Federation of BiH,16461.00
+2011,Number,total_millions,Federation of BiH,16927.00
+2012,Number,total_millions,Federation of BiH,17013.00
+2013,Number,total_millions,Federation of BiH,17379.00
+2014,Number,total_millions,Federation of BiH,17827.00
+2015,Number,total_millions,Federation of BiH,18688.00
+2016,Number,total_millions,Federation of BiH,19540.00
+2017,Number,total_millions,Federation of BiH,20540.00
+2018,Number,total_millions,Federation of BiH,21984.00
+2019,Number,total_millions,Federation of BiH,23179.00
+1997,Number,total_millions,Republika Srpska,1809.00
+1998,Number,total_millions,Republika Srpska,2044.00
+1999,Number,total_millions,Republika Srpska,2462.00
+2000,Number,total_millions,Republika Srpska,2734.00
+2001,Number,total_millions,Republika Srpska,2993.00
+2002,Number,total_millions,Republika Srpska,3417.00
+2003,Number,total_millions,Republika Srpska,3717.00
+2004,Number,total_millions,Republika Srpska,4226.00
+2005,Number,total_millions,Republika Srpska,5695.00
+2006,Number,total_millions,Republika Srpska,6550.00
+2007,Number,total_millions,Republika Srpska,7366.00
+2008,Number,total_millions,Republika Srpska,8507.00
+2009,Number,total_millions,Republika Srpska,8257.00
+2010,Number,total_millions,Republika Srpska,8336.00
+2011,Number,total_millions,Republika Srpska,8703.00
+2012,Number,total_millions,Republika Srpska,8615.00
+2013,Number,total_millions,Republika Srpska,8793.00
+2014,Number,total_millions,Republika Srpska,8887.00
+2015,Number,total_millions,Republika Srpska,9205.00
+2016,Number,total_millions,Republika Srpska,9631.00
+2017,Number,total_millions,Republika Srpska,10077.00
+2018,Number,total_millions,Republika Srpska,10680.00
+2019,Number,total_millions,Republika Srpska,11251.00
+2000,Number,total_millions,Brčko District of BiH,154.00
+2001,Number,total_millions,Brčko District of BiH,213.00
+2002,Number,total_millions,Brčko District of BiH,291.00
+2003,Number,total_millions,Brčko District of BiH,318.00
+2004,Number,total_millions,Brčko District of BiH,374.00
+2005,Number,total_millions,Brčko District of BiH,448.00
+2006,Number,total_millions,Brčko District of BiH,470.00
+2007,Number,total_millions,Brčko District of BiH,553.00
+2008,Number,total_millions,Brčko District of BiH,586.00
+2009,Number,total_millions,Brčko District of BiH,555.00
+2010,Number,total_millions,Brčko District of BiH,568.00
+2011,Number,total_millions,Brčko District of BiH,601.00
+2012,Number,total_millions,Brčko District of BiH,595.00
+2013,Number,total_millions,Brčko District of BiH,607.00
+2014,Number,total_millions,Brčko District of BiH,644.00
+2015,Number,total_millions,Brčko District of BiH,696.00
+2016,Number,total_millions,Brčko District of BiH,734.00
+2017,Number,total_millions,Brčko District of BiH,760.00
+2018,Number,total_millions,Brčko District of BiH,781.00
+2019,Number,total_millions,Brčko District of BiH,865.00
+1997,% of total,real_gdp_growth,BiH,0.34
+1998,% of total,real_gdp_growth,BiH,0.16
+1999,% of total,real_gdp_growth,BiH,0.10
+2000,% of total,real_gdp_growth,BiH,0.06
+2001,% of total,real_gdp_growth,BiH,0.04
+2002,% of total,real_gdp_growth,BiH,0.05
+2003,% of total,real_gdp_growth,BiH,0.04
+2004,% of total,real_gdp_growth,BiH,0.06
+2005,% of total,real_gdp_growth,BiH,0.09
+2006,% of total,real_gdp_growth,BiH,0.05
+2007,% of total,real_gdp_growth,BiH,0.06
+2008,% of total,real_gdp_growth,BiH,0.05
+2009,% of total,real_gdp_growth,BiH,-0.03
+2010,% of total,real_gdp_growth,BiH,0.01
+2011,% of total,real_gdp_growth,BiH,0.01
+2012,% of total,real_gdp_growth,BiH,-0.01
+2013,% of total,real_gdp_growth,BiH,0.02
+2014,% of total,real_gdp_growth,BiH,0.01
+2015,% of total,real_gdp_growth,BiH,0.03
+2016,% of total,real_gdp_growth,BiH,0.03
+2017,% of total,real_gdp_growth,BiH,0.02
+2018,% of total,real_gdp_growth,BiH,0.04
+2019,% of total,real_gdp_growth,BiH,0.03
+1997,Number,per_capita,BiH,1798.00
+1998,Number,per_capita,BiH,2094.00
+1999,Number,per_capita,BiH,2310.00
+2000,Number,per_capita,BiH,2542.00
+2001,Number,per_capita,BiH,2759.00
+2002,Number,per_capita,BiH,3044.00
+2003,Number,per_capita,BiH,3211.00
+2004,Number,per_capita,BiH,3512.00
+2005,Number,per_capita,BiH,4983.00
+2006,Number,per_capita,BiH,5663.00
+2007,Number,per_capita,BiH,6366.00
+2008,Number,per_capita,BiH,7205.00
+2009,Number,per_capita,BiH,7003.00
+2010,Number,per_capita,BiH,7165.00
+2011,Number,per_capita,BiH,7414.00
+2012,Number,per_capita,BiH,7418.00
+2013,Number,per_capita,BiH,7584.00
+2014,Number,per_capita,BiH,7759.00
+2015,Number,per_capita,BiH,8127.00
+2016,Number,per_capita,BiH,8517.00
+2017,Number,per_capita,BiH,8954.00
+2018,Number,per_capita,BiH,9566.00
+2019,Number,per_capita,BiH,10128.00

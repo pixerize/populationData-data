@@ -1,10 +1,10 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_%,% of total,% od ukupnog broja,_%,_%,471,2
-MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,5,5
-NUMBER,Number,Broj,Број,Broj,2770,24
+_%,% of total,% od ukupnog broja,_%,_%,472,3
+MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,4,4
+NUMBER,Number,Broj,Број,Broj,2775,25
 old_age_support_ratio,Old-age support ratio,old_age_support_ratio,old_age_support_ratio,Old-age support ratio,12,1
 older_persons_to_youth_ratio,Older persons to youth ratio,older_persons_to_youth_ratio,older_persons_to_youth_ratio,Older persons to youth ratio,12,1
-PT,Percent,Procenat,Проценат,Postotak,11,6
+PT,Percent,Procenat,Проценат,Postotak,10,5
 THOUSANDS,THOUSANDS,Hiljade,Хиљаде,Tisuće,6,1
 total_support_ratio,Total support ratio,total_support_ratio,total_support_ratio,Total Support Ratio,12,1
 young_age_support_ratio,Young-age support ratio,young_age_support_ratio,young_age_support_ratio,Young-age support ratio,12,1

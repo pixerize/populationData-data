@@ -16,18 +16,40 @@
             "title": "Година"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Варијабле"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
+            "name": "QUANTITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_millions",
+                "real_gdp_growth",
+                "per_capita",
+                ""
+              ]
+            },
+            "title": "QUANTITY"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
