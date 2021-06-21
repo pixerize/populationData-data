@@ -1,10 +1,9 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-AGE,Age,Godine,Године,Godine,22,188
+AGE,Age,Godine,Године,Godine,21,185
 BIRTHS,Births,Births,Births,Births,1,3
 Entity,Entity,Entitet,Ентитет,Entitet,7,4
-FERTILITY_RATE,FERTILITY_RATE,FERTILITY_RATE,FERTILITY_RATE,FERTILITY_RATE,1,2
 Municipality,Municipality,Municipality,Municipality,Municipality,1,37
-QUANTITY,QUANTITY,QUANTITY,QUANTITY,QUANTITY,1,3
+QUANTITY,Quantity,QUANTITY,QUANTITY,QUANTITY,1,3
 SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,5,6
 SEX,Sex,Spol,Пол,Spol,23,3
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,31,9
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,30,9

@@ -608,62 +608,6 @@
       "title": "global_indicators.1-1-4-title"
     },
     {
-      "path": "1-11-1/data.csv",
-      "name": "1-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_ALL",
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_fertility_rate",
-                "age_specific_fertility_rates",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-a-1-title"
-    },
-    {
       "path": "1-12-1/data.csv",
       "name": "1-12-1",
       "profile": "tabular-data-resource",

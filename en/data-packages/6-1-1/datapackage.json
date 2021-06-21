@@ -30,12 +30,12 @@
             "constraints": {
               "enum": [
                 "",
-                "per_capita",
-                "real_gdp_growth",
-                "total_millions"
+                "Per capita",
+                "Real GDP growth",
+                "Total (millions)"
               ]
             },
-            "title": "QUANTITY"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",

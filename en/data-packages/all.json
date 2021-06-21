@@ -535,12 +535,12 @@
             "constraints": {
               "enum": [
                 "",
-                "per_capita",
-                "real_gdp_growth",
-                "total_millions"
+                "Per capita",
+                "Real GDP growth",
+                "Total (millions)"
               ]
             },
-            "title": "QUANTITY"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -651,67 +651,6 @@
         ]
       },
       "title": "Population by entity, age groups and sex"
-    },
-    {
-      "path": "1-11-1/data.csv",
-      "name": "1-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+",
-                "All"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "age_specific_fertility_rates",
-                "total_fertility_rate"
-              ]
-            },
-            "title": "FERTILITY_RATE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
       "path": "1-12-1/data.csv",
