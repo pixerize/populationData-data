@@ -45,7 +45,6 @@ Year,UNIT_MEASURE,QUANTITY,Entitet,Value
 2017,Broj,per_capita,BiH,4578.0
 2018,Broj,per_capita,BiH,4891.0
 2019,Broj,per_capita,BiH,5178.0
-=======,,,,
 1997,Broj,total_millions,BiH,6752.0
 1998,Broj,total_millions,BiH,7650.0
 1999,Broj,total_millions,BiH,8604.0
@@ -181,4 +180,3 @@ Year,UNIT_MEASURE,QUANTITY,Entitet,Value
 2017,Broj,per_capita,BiH,8954.0
 2018,Broj,per_capita,BiH,9566.0
 2019,Broj,per_capita,BiH,10128.0
->>>>>>> b8d0f5579c2122d6c96cb75e716d80da3c071bb9,,,,
