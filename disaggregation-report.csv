@@ -8,8 +8,7 @@ Entity,Administrative area,Entitet,Ентитет,Entitet,11,4
 FERTILITY_RATE,Fertility rate,FERTILITY_RATE,FERTILITY_RATE,FERTILITY_RATE,1,2
 Municipality,Municipality,Municipality,Municipality,Municipality,1,37
 POVERTY_RATE,Poverty Rate,POVERTY_RATE,POVERTY_RATE,POVERTY_RATE,2,4
-QUANTITY,Quantity,QUANTITY,QUANTITY,QUANTITY,2,3
-QUANTTIY,QUANTTIY,QUANTTIY,QUANTTIY,QUANTTIY,1,2
+QUANTITY,Quantity,QUANTITY,QUANTITY,QUANTITY,3,3
 SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,3,6
 SEX,Sex,Spol,Пол,Spol,31,3
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,41,9

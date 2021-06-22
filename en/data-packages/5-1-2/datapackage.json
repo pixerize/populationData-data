@@ -22,7 +22,7 @@
             "title": "Administrative area"
           },
           {
-            "name": "QUANTTIY",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 "Total (millions)"
               ]
             },
-            "title": "QUANTTIY"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",

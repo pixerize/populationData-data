@@ -21,7 +21,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "QUANTTIY",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "QUANTTIY"
+            "title": "QUANTITY"
           },
           {
             "name": "Entity",

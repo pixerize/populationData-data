@@ -100,7 +100,7 @@
             "type": "string"
           },
           {
-            "name": "QUANTTIY",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
