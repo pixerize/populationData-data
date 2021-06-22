@@ -68,7 +68,7 @@
                 "Women who have experienced sexual violence in broader community (not intimate partner) (past 12 months)"
               ]
             },
-            "title": "FORM_OF_VIOLENCE"
+            "title": "Form of violence"
           },
           {
             "name": "SURVEY_IMPLEMENTED_BY",
@@ -80,7 +80,7 @@
                 "UN Women & UNFPA"
               ]
             },
-            "title": "SURVEY_IMPLEMENTED_BY"
+            "title": "Survey implemented by"
           },
           {
             "name": "UNIT_MEASURE",
