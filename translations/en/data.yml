@@ -123,3 +123,4 @@ injuries_poisoning_and_consequences: (S00-T98) Injuries, poisoning and consequen
 external_causes_of_mortality: (V01-Y98) External causes of mortality
 factors_influencing_health_status: (Z00-Z99) Factors influencing health status and contract with health services
 total: Total
+EDUCATION: Education
