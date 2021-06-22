@@ -54,7 +54,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employed_as_of_working",
+                "unemployed_as_of_labour",
+                "inactive_as_of_working",
+                "unemployed_as_of_working",
                 ""
               ]
             },

@@ -1,757 +1,253 @@
 Year,UNIT_MEASURE,Године,Пол,ACTIVITY_RATES,Value
-2006,_%,15+,Оба пола,unemployed_as_of_labour,31.1
-2006,_%,15 - 24,Оба пола,unemployed_as_of_labour,62.3
-2006,_%,25 - 49,Оба пола,unemployed_as_of_labour,29.5
-2006,_%,50 - 64,Оба пола,unemployed_as_of_labour,16.4
-2006,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2006,_%,15 - 64,Оба пола,unemployed_as_of_labour,31.8
-2006,_%,15+,Мушкарци,unemployed_as_of_labour,28.9
-2006,_%,15 - 24,Мушкарци,unemployed_as_of_labour,60.2
-2006,_%,25 - 49,Мушкарци,unemployed_as_of_labour,26.7
-2006,_%,50 - 64,Мушкарци,unemployed_as_of_labour,17.1
-2006,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2006,_%,15 - 64,Мушкарци,unemployed_as_of_labour,29.5
-2006,_%,15+,Жене,unemployed_as_of_labour,34.9
-2006,_%,15 - 24,Жене,unemployed_as_of_labour,65.7
-2006,_%,25 - 49,Жене,unemployed_as_of_labour,34.0
-2006,_%,50 - 64,Жене,unemployed_as_of_labour,15.2
-2006,_%,65+,Жене,unemployed_as_of_labour,0.0
-2006,_%,15 - 64,Жене,unemployed_as_of_labour,35.7
-2006,_%,15+,Оба пола,inactive_as_of_working,56.9
-2006,_%,15 - 24,Оба пола,inactive_as_of_working,66.6
-2006,_%,25 - 49,Оба пола,inactive_as_of_working,34.0
-2006,_%,50 - 64,Оба пола,inactive_as_of_working,63.4
-2006,_%,65+,Оба пола,inactive_as_of_working,94.3
-2006,_%,15 - 64,Оба пола,inactive_as_of_working,48.7
-2006,_%,15+,Мушкарци,inactive_as_of_working,43.8
-2006,_%,15 - 24,Мушкарци,inactive_as_of_working,59.9
-2006,_%,25 - 49,Мушкарци,inactive_as_of_working,18.1
-2006,_%,50 - 64,Мушкарци,inactive_as_of_working,46.6
-2006,_%,65+,Мушкарци,inactive_as_of_working,92.0
-2006,_%,15 - 64,Мушкарци,inactive_as_of_working,34.5
-2006,_%,15+,Жене,inactive_as_of_working,69.2
-2006,_%,15 - 24,Жене,inactive_as_of_working,73.7
-2006,_%,25 - 49,Жене,inactive_as_of_working,50.0
-2006,_%,50 - 64,Жене,inactive_as_of_working,77.9
-2006,_%,65+,Жене,inactive_as_of_working,96.0
-2006,_%,15 - 64,Жене,inactive_as_of_working,62.6
-2007,_%,15+,Оба пола,unemployed_as_of_labour,29.0
-2007,_%,15 - 24,Оба пола,unemployed_as_of_labour,58.4
-2007,_%,25 - 49,Оба пола,unemployed_as_of_labour,27.1
-2007,_%,50 - 64,Оба пола,unemployed_as_of_labour,17.8
-2007,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2007,_%,15 - 64,Оба пола,unemployed_as_of_labour,29.6
-2007,_%,15+,Мушкарци,unemployed_as_of_labour,26.7
-2007,_%,15 - 24,Мушкарци,unemployed_as_of_labour,55.6
-2007,_%,25 - 49,Мушкарци,unemployed_as_of_labour,24.3
-2007,_%,50 - 64,Мушкарци,unemployed_as_of_labour,18.4
-2007,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2007,_%,15 - 64,Мушкарци,unemployed_as_of_labour,27.3
-2007,_%,15+,Жене,unemployed_as_of_labour,32.9
-2007,_%,15 - 24,Жене,unemployed_as_of_labour,63.1
-2007,_%,25 - 49,Жене,unemployed_as_of_labour,31.9
-2007,_%,50 - 64,Жене,unemployed_as_of_labour,16.6
-2007,_%,65+,Жене,unemployed_as_of_labour,0.0
-2007,_%,15 - 64,Жене,unemployed_as_of_labour,33.7
-2007,_%,15+,Оба пола,inactive_as_of_working,56.1
-2007,_%,15 - 24,Оба пола,inactive_as_of_working,66.6
-2007,_%,25 - 49,Оба пола,inactive_as_of_working,33.0
-2007,_%,50 - 64,Оба пола,inactive_as_of_working,61.1
-2007,_%,65+,Оба пола,inactive_as_of_working,94.1
-2007,_%,15 - 64,Оба пола,inactive_as_of_working,47.8
-2007,_%,15+,Мушкарци,inactive_as_of_working,42.3
-2007,_%,15 - 24,Мушкарци,inactive_as_of_working,59.2
-2007,_%,25 - 49,Мушкарци,inactive_as_of_working,16.0
-2007,_%,50 - 64,Мушкарци,inactive_as_of_working,44.6
-2007,_%,65+,Мушкарци,inactive_as_of_working,91.0
-2007,_%,15 - 64,Мушкарци,inactive_as_of_working,33.0
-2007,_%,15+,Жене,inactive_as_of_working,69.0
-2007,_%,15 - 24,Жене,inactive_as_of_working,74.3
-2007,_%,25 - 49,Жене,inactive_as_of_working,49.8
-2007,_%,50 - 64,Жене,inactive_as_of_working,76.3
-2007,_%,65+,Жене,inactive_as_of_working,96.4
-2007,_%,15 - 64,Жене,inactive_as_of_working,62.2
-2008,_%,15+,Оба пола,unemployed_as_of_labour,23.4
-2008,_%,15 - 24,Оба пола,unemployed_as_of_labour,47.5
-2008,_%,25 - 49,Оба пола,unemployed_as_of_labour,22.1
-2008,_%,50 - 64,Оба пола,unemployed_as_of_labour,15.2
-2008,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2008,_%,15 - 64,Оба пола,unemployed_as_of_labour,24.0
-2008,_%,15+,Мушкарци,unemployed_as_of_labour,21.4
-2008,_%,15 - 24,Мушкарци,unemployed_as_of_labour,44.8
-2008,_%,25 - 49,Мушкарци,unemployed_as_of_labour,19.2
-2008,_%,50 - 64,Мушкарци,unemployed_as_of_labour,16.3
-2008,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2008,_%,15 - 64,Мушкарци,unemployed_as_of_labour,21.9
-2008,_%,15+,Жене,unemployed_as_of_labour,26.8
-2008,_%,15 - 24,Жене,unemployed_as_of_labour,52.3
-2008,_%,25 - 49,Жене,unemployed_as_of_labour,26.7
-2008,_%,50 - 64,Жене,unemployed_as_of_labour,13.0
-2008,_%,65+,Жене,unemployed_as_of_labour,0.0
-2008,_%,15 - 64,Жене,unemployed_as_of_labour,27.4
-2008,_%,15+,Оба пола,inactive_as_of_working,56.1
-2008,_%,15 - 24,Оба пола,inactive_as_of_working,66.8
-2008,_%,25 - 49,Оба пола,inactive_as_of_working,31.4
-2008,_%,50 - 64,Оба пола,inactive_as_of_working,59.5
-2008,_%,65+,Оба пола,inactive_as_of_working,94.6
-2008,_%,15 - 64,Оба пола,inactive_as_of_working,46.5
-2008,_%,15+,Мушкарци,inactive_as_of_working,42.9
-2008,_%,15 - 24,Мушкарци,inactive_as_of_working,60.0
-2008,_%,25 - 49,Мушкарци,inactive_as_of_working,14.9
-2008,_%,50 - 64,Мушкарци,inactive_as_of_working,42.8
-2008,_%,65+,Мушкарци,inactive_as_of_working,91.7
-2008,_%,15 - 64,Мушкарци,inactive_as_of_working,32.3
-2008,_%,15+,Жене,inactive_as_of_working,68.4
-2008,_%,15 - 24,Жене,inactive_as_of_working,74.4
-2008,_%,25 - 49,Жене,inactive_as_of_working,47.6
-2008,_%,50 - 64,Жене,inactive_as_of_working,74.3
-2008,_%,65+,Жене,inactive_as_of_working,96.8
-2008,_%,15 - 64,Жене,inactive_as_of_working,60.5
-2009,_%,15+,Оба пола,unemployed_as_of_labour,24.1
-2009,_%,15 - 24,Оба пола,unemployed_as_of_labour,48.7
-2009,_%,25 - 49,Оба пола,unemployed_as_of_labour,22.5
-2009,_%,50 - 64,Оба пола,unemployed_as_of_labour,16.7
-2009,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2009,_%,15 - 64,Оба пола,unemployed_as_of_labour,24.5
-2009,_%,15+,Мушкарци,unemployed_as_of_labour,23.1
-2009,_%,15 - 24,Мушкарци,unemployed_as_of_labour,46.4
-2009,_%,25 - 49,Мушкарци,unemployed_as_of_labour,20.9
-2009,_%,50 - 64,Мушкарци,unemployed_as_of_labour,18.0
-2009,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2009,_%,15 - 64,Мушкарци,unemployed_as_of_labour,23.5
-2009,_%,15+,Жене,unemployed_as_of_labour,25.6
-2009,_%,15 - 24,Жене,unemployed_as_of_labour,52.7
-2009,_%,25 - 49,Жене,unemployed_as_of_labour,25.1
-2009,_%,50 - 64,Жене,unemployed_as_of_labour,14.2
-2009,_%,65+,Жене,unemployed_as_of_labour,0.0
-2009,_%,15 - 64,Жене,unemployed_as_of_labour,26.2
-2009,_%,15+,Оба пола,inactive_as_of_working,56.4
-2009,_%,15 - 24,Оба пола,inactive_as_of_working,67.4
-2009,_%,25 - 49,Оба пола,inactive_as_of_working,30.9
-2009,_%,50 - 64,Оба пола,inactive_as_of_working,59.2
-2009,_%,65+,Оба пола,inactive_as_of_working,95.8
-2009,_%,15 - 64,Оба пола,inactive_as_of_working,46.8
-2009,_%,15+,Мушкарци,inactive_as_of_working,43.8
-2009,_%,15 - 24,Мушкарци,inactive_as_of_working,59.6
-2009,_%,25 - 49,Мушкарци,inactive_as_of_working,14.8
-2009,_%,50 - 64,Мушкарци,inactive_as_of_working,44.7
-2009,_%,65+,Мушкарци,inactive_as_of_working,94.4
-2009,_%,15 - 64,Мушкарци,inactive_as_of_working,33.0
-2009,_%,15+,Жене,inactive_as_of_working,68.1
-2009,_%,15 - 24,Жене,inactive_as_of_working,75.7
-2009,_%,25 - 49,Жене,inactive_as_of_working,46.8
-2009,_%,50 - 64,Жене,inactive_as_of_working,72.4
-2009,_%,65+,Жене,inactive_as_of_working,96.9
-2009,_%,15 - 64,Жене,inactive_as_of_working,60.3
-2010,_%,15+,Оба пола,unemployed_as_of_labour,27.2
-2010,_%,15 - 24,Оба пола,unemployed_as_of_labour,57.5
-2010,_%,25 - 49,Оба пола,unemployed_as_of_labour,25.6
-2010,_%,50 - 64,Оба пола,unemployed_as_of_labour,17.8
-2010,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2010,_%,15 - 64,Оба пола,unemployed_as_of_labour,27.7
-2010,_%,15+,Мушкарци,unemployed_as_of_labour,25.6
-2010,_%,15 - 24,Мушкарци,unemployed_as_of_labour,55.1
-2010,_%,25 - 49,Мушкарци,unemployed_as_of_labour,23.1
-2010,_%,50 - 64,Мушкарци,unemployed_as_of_labour,19.0
-2010,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2010,_%,15 - 64,Мушкарци,unemployed_as_of_labour,26.1
-2010,_%,15+,Жене,unemployed_as_of_labour,29.9
-2010,_%,15 - 24,Жене,unemployed_as_of_labour,61.3
-2010,_%,25 - 49,Жене,unemployed_as_of_labour,29.5
-2010,_%,50 - 64,Жене,unemployed_as_of_labour,15.8
-2010,_%,65+,Жене,unemployed_as_of_labour,0.0
-2010,_%,15 - 64,Жене,unemployed_as_of_labour,30.4
-2010,_%,15+,Оба пола,inactive_as_of_working,55.4
-2010,_%,15 - 24,Оба пола,inactive_as_of_working,67.0
-2010,_%,25 - 49,Оба пола,inactive_as_of_working,29.4
-2010,_%,50 - 64,Оба пола,inactive_as_of_working,59.5
-2010,_%,65+,Оба пола,inactive_as_of_working,95.4
-2010,_%,15 - 64,Оба пола,inactive_as_of_working,46.0
-2010,_%,15+,Мушкарци,inactive_as_of_working,43.3
-2010,_%,15 - 24,Мушкарци,inactive_as_of_working,60.3
-2010,_%,25 - 49,Мушкарци,inactive_as_of_working,14.7
-2010,_%,50 - 64,Мушкарци,inactive_as_of_working,45.5
-2010,_%,65+,Мушкарци,inactive_as_of_working,93.7
-2010,_%,15 - 64,Мушкарци,inactive_as_of_working,32.9
-2010,_%,15+,Жене,inactive_as_of_working,66.8
-2010,_%,15 - 24,Жене,inactive_as_of_working,74.1
-2010,_%,25 - 49,Жене,inactive_as_of_working,44.4
-2010,_%,50 - 64,Жене,inactive_as_of_working,72.0
-2010,_%,65+,Жене,inactive_as_of_working,96.7
-2010,_%,15 - 64,Жене,inactive_as_of_working,58.9
-2011,_%,15+,Оба пола,unemployed_as_of_labour,27.6
-2011,_%,15 - 24,Оба пола,unemployed_as_of_labour,57.9
-2011,_%,25 - 49,Оба пола,unemployed_as_of_labour,26.2
-2011,_%,50 - 64,Оба пола,unemployed_as_of_labour,18.6
-2011,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2011,_%,15 - 64,Оба пола,unemployed_as_of_labour,28.0
-2011,_%,15+,Мушкарци,unemployed_as_of_labour,26.1
-2011,_%,15 - 24,Мушкарци,unemployed_as_of_labour,56.4
-2011,_%,25 - 49,Мушкарци,unemployed_as_of_labour,23.7
-2011,_%,50 - 64,Мушкарци,unemployed_as_of_labour,19.3
-2011,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2011,_%,15 - 64,Мушкарци,unemployed_as_of_labour,26.5
-2011,_%,15+,Жене,unemployed_as_of_labour,29.9
-2011,_%,15 - 24,Жене,unemployed_as_of_labour,60.5
-2011,_%,25 - 49,Жене,unemployed_as_of_labour,30.3
-2011,_%,50 - 64,Жене,unemployed_as_of_labour,17.5
-2011,_%,65+,Жене,unemployed_as_of_labour,0.0
-2011,_%,15 - 64,Жене,unemployed_as_of_labour,30.5
-2011,_%,15+,Оба пола,inactive_as_of_working,56.0
-2011,_%,15 - 24,Оба пола,inactive_as_of_working,68.6
-2011,_%,25 - 49,Оба пола,inactive_as_of_working,29.4
-2011,_%,50 - 64,Оба пола,inactive_as_of_working,58.8
-2011,_%,65+,Оба пола,inactive_as_of_working,96.4
-2011,_%,15 - 64,Оба пола,inactive_as_of_working,46.2
-2011,_%,15+,Мушкарци,inactive_as_of_working,44.1
-2011,_%,15 - 24,Мушкарци,inactive_as_of_working,61.2
-2011,_%,25 - 49,Мушкарци,inactive_as_of_working,15.5
-2011,_%,50 - 64,Мушкарци,inactive_as_of_working,45.9
-2011,_%,65+,Мушкарци,inactive_as_of_working,95.1
-2011,_%,15 - 64,Мушкарци,inactive_as_of_working,33.7
-2011,_%,15+,Жене,inactive_as_of_working,67.2
-2011,_%,15 - 24,Жене,inactive_as_of_working,76.7
-2011,_%,25 - 49,Жене,inactive_as_of_working,44.1
-2011,_%,50 - 64,Жене,inactive_as_of_working,70.2
-2011,_%,65+,Жене,inactive_as_of_working,97.3
-2011,_%,15 - 64,Жене,inactive_as_of_working,58.8
-2012,_%,15+,Оба пола,unemployed_as_of_labour,28.0
-2012,_%,15 - 24,Оба пола,unemployed_as_of_labour,63.1
-2012,_%,25 - 49,Оба пола,unemployed_as_of_labour,27.2
-2012,_%,50 - 64,Оба пола,unemployed_as_of_labour,16.9
-2012,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2012,_%,15 - 64,Оба пола,unemployed_as_of_labour,28.6
-2012,_%,15+,Мушкарци,unemployed_as_of_labour,26.4
-2012,_%,15 - 24,Мушкарци,unemployed_as_of_labour,62.6
-2012,_%,25 - 49,Мушкарци,unemployed_as_of_labour,24.1
-2012,_%,50 - 64,Мушкарци,unemployed_as_of_labour,17.5
-2012,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2012,_%,15 - 64,Мушкарци,unemployed_as_of_labour,26.8
-2012,_%,15+,Жене,unemployed_as_of_labour,30.7
-2012,_%,15 - 24,Жене,unemployed_as_of_labour,64.0
-2012,_%,25 - 49,Жене,unemployed_as_of_labour,31.9
-2012,_%,50 - 64,Жене,unemployed_as_of_labour,15.7
-2012,_%,65+,Жене,unemployed_as_of_labour,0.0
-2012,_%,15 - 64,Жене,unemployed_as_of_labour,31.4
-2012,_%,15+,Оба пола,inactive_as_of_working,56.0
-2012,_%,15 - 24,Оба пола,inactive_as_of_working,70.6
-2012,_%,25 - 49,Оба пола,inactive_as_of_working,28.4
-2012,_%,50 - 64,Оба пола,inactive_as_of_working,57.9
-2012,_%,65+,Оба пола,inactive_as_of_working,95.0
-2012,_%,15 - 64,Оба пола,inactive_as_of_working,46.1
-2012,_%,15+,Мушкарци,inactive_as_of_working,43.6
-2012,_%,15 - 24,Мушкарци,inactive_as_of_working,62.3
-2012,_%,25 - 49,Мушкарци,inactive_as_of_working,14.5
-2012,_%,50 - 64,Мушкарци,inactive_as_of_working,43.8
-2012,_%,65+,Мушкарци,inactive_as_of_working,93.0
-2012,_%,15 - 64,Мушкарци,inactive_as_of_working,33.0
-2012,_%,15+,Жене,inactive_as_of_working,67.4
-2012,_%,15 - 24,Жене,inactive_as_of_working,79.1
-2012,_%,25 - 49,Жене,inactive_as_of_working,42.7
-2012,_%,50 - 64,Жене,inactive_as_of_working,70.8
-2012,_%,65+,Жене,inactive_as_of_working,96.6
-2012,_%,15 - 64,Жене,inactive_as_of_working,59.0
-2013,_%,15+,Оба пола,unemployed_as_of_labour,27.5
-2013,_%,15 - 24,Оба пола,unemployed_as_of_labour,59.1
-2013,_%,25 - 49,Оба пола,unemployed_as_of_labour,26.6
-2013,_%,50 - 64,Оба пола,unemployed_as_of_labour,18.2
-2013,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2013,_%,15 - 64,Оба пола,unemployed_as_of_labour,28.0
-2013,_%,15+,Мушкарци,unemployed_as_of_labour,26.5
-2013,_%,15 - 24,Мушкарци,unemployed_as_of_labour,59.1
-2013,_%,25 - 49,Мушкарци,unemployed_as_of_labour,24.5
-2013,_%,50 - 64,Мушкарци,unemployed_as_of_labour,18.6
-2013,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2013,_%,15 - 64,Мушкарци,unemployed_as_of_labour,27.0
-2013,_%,15+,Жене,unemployed_as_of_labour,29.0
-2013,_%,15 - 24,Жене,unemployed_as_of_labour,59.2
-2013,_%,25 - 49,Жене,unemployed_as_of_labour,29.8
-2013,_%,50 - 64,Жене,unemployed_as_of_labour,17.5
-2013,_%,65+,Жене,unemployed_as_of_labour,0.0
-2013,_%,15 - 64,Жене,unemployed_as_of_labour,29.6
-2013,_%,15+,Оба пола,inactive_as_of_working,56.4
-2013,_%,15 - 24,Оба пола,inactive_as_of_working,71.7
-2013,_%,25 - 49,Оба пола,inactive_as_of_working,28.1
-2013,_%,50 - 64,Оба пола,inactive_as_of_working,57.9
-2013,_%,65+,Оба пола,inactive_as_of_working,95.8
-2013,_%,15 - 64,Оба пола,inactive_as_of_working,46.5
-2013,_%,15+,Мушкарци,inactive_as_of_working,44.7
-2013,_%,15 - 24,Мушкарци,inactive_as_of_working,63.7
-2013,_%,25 - 49,Мушкарци,inactive_as_of_working,14.7
-2013,_%,50 - 64,Мушкарци,inactive_as_of_working,44.5
-2013,_%,65+,Мушкарци,inactive_as_of_working,93.8
-2013,_%,15 - 64,Мушкарци,inactive_as_of_working,34.3
-2013,_%,15+,Жене,inactive_as_of_working,67.5
-2013,_%,15 - 24,Жене,inactive_as_of_working,80.6
-2013,_%,25 - 49,Жене,inactive_as_of_working,41.9
-2013,_%,50 - 64,Жене,inactive_as_of_working,70.4
-2013,_%,65+,Жене,inactive_as_of_working,97.3
-2013,_%,15 - 64,Жене,inactive_as_of_working,59.0
-2014,_%,15+,Оба пола,unemployed_as_of_labour,27.5
-2014,_%,15 - 24,Оба пола,unemployed_as_of_labour,62.7
-2014,_%,25 - 49,Оба пола,unemployed_as_of_labour,27.1
-2014,_%,50 - 64,Оба пола,unemployed_as_of_labour,16.3
-2014,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2014,_%,15 - 64,Оба пола,unemployed_as_of_labour,28.1
-2014,_%,15+,Мушкарци,unemployed_as_of_labour,25.2
-2014,_%,15 - 24,Мушкарци,unemployed_as_of_labour,61.0
-2014,_%,25 - 49,Мушкарци,unemployed_as_of_labour,23.9
-2014,_%,50 - 64,Мушкарци,unemployed_as_of_labour,15.8
-2014,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2014,_%,15 - 64,Мушкарци,unemployed_as_of_labour,25.7
-2014,_%,15+,Жене,unemployed_as_of_labour,31.2
-2014,_%,15 - 24,Жене,unemployed_as_of_labour,65.4
-2014,_%,25 - 49,Жене,unemployed_as_of_labour,32.0
-2014,_%,50 - 64,Жене,unemployed_as_of_labour,17.2
-2014,_%,65+,Жене,unemployed_as_of_labour,0.0
-2014,_%,15 - 64,Жене,unemployed_as_of_labour,31.8
-2014,_%,15+,Оба пола,inactive_as_of_working,56.3
-2014,_%,15 - 24,Оба пола,inactive_as_of_working,70.7
-2014,_%,25 - 49,Оба пола,inactive_as_of_working,26.8
-2014,_%,50 - 64,Оба пола,inactive_as_of_working,57.9
-2014,_%,65+,Оба пола,inactive_as_of_working,95.3
-2014,_%,15 - 64,Оба пола,inactive_as_of_working,45.8
-2014,_%,15+,Мушкарци,inactive_as_of_working,45.0
-2014,_%,15 - 24,Мушкарци,inactive_as_of_working,65.4
-2014,_%,25 - 49,Мушкарци,inactive_as_of_working,14.1
-2014,_%,50 - 64,Мушкарци,inactive_as_of_working,43.9
-2014,_%,65+,Мушкарци,inactive_as_of_working,93.2
-2014,_%,15 - 64,Мушкарци,inactive_as_of_working,34.1
-2014,_%,15+,Жене,inactive_as_of_working,67.0
-2014,_%,15 - 24,Жене,inactive_as_of_working,76.7
-2014,_%,25 - 49,Жене,inactive_as_of_working,40.0
-2014,_%,50 - 64,Жене,inactive_as_of_working,70.5
-2014,_%,65+,Жене,inactive_as_of_working,96.9
-2014,_%,15 - 64,Жене,inactive_as_of_working,57.6
-2015,_%,15+,Оба пола,unemployed_as_of_labour,27.7
-2015,_%,15 - 24,Оба пола,unemployed_as_of_labour,62.3
-2015,_%,25 - 49,Оба пола,unemployed_as_of_labour,26.8
-2015,_%,50 - 64,Оба пола,unemployed_as_of_labour,16.8
-2015,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2015,_%,15 - 64,Оба пола,unemployed_as_of_labour,28.2
-2015,_%,15+,Мушкарци,unemployed_as_of_labour,25.8
-2015,_%,15 - 24,Мушкарци,unemployed_as_of_labour,59.5
-2015,_%,25 - 49,Мушкарци,unemployed_as_of_labour,24.1
-2015,_%,50 - 64,Мушкарци,unemployed_as_of_labour,16.3
-2015,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2015,_%,15 - 64,Мушкарци,unemployed_as_of_labour,26.3
-2015,_%,15+,Жене,unemployed_as_of_labour,30.7
-2015,_%,15 - 24,Жене,unemployed_as_of_labour,67.3
-2015,_%,25 - 49,Жене,unemployed_as_of_labour,30.8
-2015,_%,50 - 64,Жене,unemployed_as_of_labour,17.8
-2015,_%,65+,Жене,unemployed_as_of_labour,0.0
-2015,_%,15 - 64,Жене,unemployed_as_of_labour,31.3
-2015,_%,15+,Оба пола,inactive_as_of_working,55.9
-2015,_%,15 - 24,Оба пола,inactive_as_of_working,67.8
-2015,_%,25 - 49,Оба пола,inactive_as_of_working,26.4
-2015,_%,50 - 64,Оба пола,inactive_as_of_working,58.3
-2015,_%,65+,Оба пола,inactive_as_of_working,95.7
-2015,_%,15 - 64,Оба пола,inactive_as_of_working,45.4
-2015,_%,15+,Мушкарци,inactive_as_of_working,44.9
-2015,_%,15 - 24,Мушкарци,inactive_as_of_working,61.1
-2015,_%,25 - 49,Мушкарци,inactive_as_of_working,12.9
-2015,_%,50 - 64,Мушкарци,inactive_as_of_working,46.3
-2015,_%,65+,Мушкарци,inactive_as_of_working,94.0
-2015,_%,15 - 64,Мушкарци,inactive_as_of_working,33.8
-2015,_%,15+,Жене,inactive_as_of_working,66.5
-2015,_%,15 - 24,Жене,inactive_as_of_working,75.5
-2015,_%,25 - 49,Жене,inactive_as_of_working,40.2
-2015,_%,50 - 64,Жене,inactive_as_of_working,69.5
-2015,_%,65+,Жене,inactive_as_of_working,97.0
-2015,_%,15 - 64,Жене,inactive_as_of_working,57.1
-2016,_%,15+,Оба пола,unemployed_as_of_labour,25.4
-2016,_%,15 - 24,Оба пола,unemployed_as_of_labour,54.3
-2016,_%,25 - 49,Оба пола,unemployed_as_of_labour,25.7
-2016,_%,50 - 64,Оба пола,unemployed_as_of_labour,15.7
-2016,_%,65+,Оба пола,unemployed_as_of_labour,8.7
-2016,_%,15 - 64,Оба пола,unemployed_as_of_labour,25.8
-2016,_%,15+,Мушкарци,unemployed_as_of_labour,22.5
-2016,_%,15 - 24,Мушкарци,unemployed_as_of_labour,52.0
-2016,_%,25 - 49,Мушкарци,unemployed_as_of_labour,21.3
-2016,_%,50 - 64,Мушкарци,unemployed_as_of_labour,14.6
-2016,_%,65+,Мушкарци,unemployed_as_of_labour,9.9
-2016,_%,15 - 64,Мушкарци,unemployed_as_of_labour,22.8
-2016,_%,15+,Жене,unemployed_as_of_labour,30.0
-2016,_%,15 - 24,Жене,unemployed_as_of_labour,58.9
-2016,_%,25 - 49,Жене,unemployed_as_of_labour,32.1
-2016,_%,50 - 64,Жене,unemployed_as_of_labour,17.7
-2016,_%,65+,Жене,unemployed_as_of_labour,0.0
-2016,_%,15 - 64,Жене,unemployed_as_of_labour,30.6
-2016,_%,15+,Оба пола,inactive_as_of_working,56.9
-2016,_%,15 - 24,Оба пола,inactive_as_of_working,69.8
-2016,_%,25 - 49,Оба пола,inactive_as_of_working,26.8
-2016,_%,50 - 64,Оба пола,inactive_as_of_working,56.3
-2016,_%,65+,Оба пола,inactive_as_of_working,95.9
-2016,_%,15 - 64,Оба пола,inactive_as_of_working,45.8
-2016,_%,15+,Мушкарци,inactive_as_of_working,45.1
-2016,_%,15 - 24,Мушкарци,inactive_as_of_working,61.9
-2016,_%,25 - 49,Мушкарци,inactive_as_of_working,14.0
-2016,_%,50 - 64,Мушкарци,inactive_as_of_working,42.6
-2016,_%,65+,Мушкарци,inactive_as_of_working,94.0
-2016,_%,15 - 64,Мушкарци,inactive_as_of_working,33.8
-2016,_%,15+,Жене,inactive_as_of_working,67.9
-2016,_%,15 - 24,Жене,inactive_as_of_working,78.7
-2016,_%,25 - 49,Жене,inactive_as_of_working,40.0
-2016,_%,50 - 64,Жене,inactive_as_of_working,69.4
-2016,_%,65+,Жене,inactive_as_of_working,97.3
-2016,_%,15 - 64,Жене,inactive_as_of_working,58.1
-2017,_%,15+,Оба пола,unemployed_as_of_labour,20.5
-2017,_%,15 - 24,Оба пола,unemployed_as_of_labour,45.8
-2017,_%,25 - 49,Оба пола,unemployed_as_of_labour,20.9
-2017,_%,50 - 64,Оба пола,unemployed_as_of_labour,12.5
-2017,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2017,_%,15 - 64,Оба пола,unemployed_as_of_labour,21.1
-2017,_%,15+,Мушкарци,unemployed_as_of_labour,18.9
-2017,_%,15 - 24,Мушкарци,unemployed_as_of_labour,43.1
-2017,_%,25 - 49,Мушкарци,unemployed_as_of_labour,18.5
-2017,_%,50 - 64,Мушкарци,unemployed_as_of_labour,11.8
-2017,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2017,_%,15 - 64,Мушкарци,unemployed_as_of_labour,19.4
-2017,_%,15+,Жене,unemployed_as_of_labour,23.1
-2017,_%,15 - 24,Жене,unemployed_as_of_labour,51.4
-2017,_%,25 - 49,Жене,unemployed_as_of_labour,24.4
-2017,_%,50 - 64,Жене,unemployed_as_of_labour,13.8
-2017,_%,65+,Жене,unemployed_as_of_labour,0.0
-2017,_%,15 - 64,Жене,unemployed_as_of_labour,23.8
-2017,_%,15+,Оба пола,inactive_as_of_working,57.4
-2017,_%,15 - 24,Оба пола,inactive_as_of_working,67.5
-2017,_%,25 - 49,Оба пола,inactive_as_of_working,26.5
-2017,_%,50 - 64,Оба пола,inactive_as_of_working,56.4
-2017,_%,65+,Оба пола,inactive_as_of_working,94.8
-2017,_%,15 - 64,Оба пола,inactive_as_of_working,45.5
-2017,_%,15+,Мушкарци,inactive_as_of_working,46.7
-2017,_%,15 - 24,Мушкарци,inactive_as_of_working,59.8
-2017,_%,25 - 49,Мушкарци,inactive_as_of_working,13.5
-2017,_%,50 - 64,Мушкарци,inactive_as_of_working,43.6
-2017,_%,65+,Мушкарци,inactive_as_of_working,93.1
-2017,_%,15 - 64,Мушкарци,inactive_as_of_working,33.9
-2017,_%,15+,Жене,inactive_as_of_working,67.6
-2017,_%,15 - 24,Жене,inactive_as_of_working,76.6
-2017,_%,25 - 49,Жене,inactive_as_of_working,39.7
-2017,_%,50 - 64,Жене,inactive_as_of_working,68.4
-2017,_%,65+,Жене,inactive_as_of_working,96.1
-2017,_%,15 - 64,Жене,inactive_as_of_working,57.3
-2018,_%,15+,Оба пола,unemployed_as_of_labour,18.4
-2018,_%,15 - 24,Оба пола,unemployed_as_of_labour,38.8
-2018,_%,25 - 49,Оба пола,unemployed_as_of_labour,19.3
-2018,_%,50 - 64,Оба пола,unemployed_as_of_labour,11.2
-2018,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2018,_%,15 - 64,Оба пола,unemployed_as_of_labour,18.9
-2018,_%,15+,Мушкарци,unemployed_as_of_labour,17.2
-2018,_%,15 - 24,Мушкарци,unemployed_as_of_labour,35.4
-2018,_%,25 - 49,Мушкарци,unemployed_as_of_labour,17.3
-2018,_%,50 - 64,Мушкарци,unemployed_as_of_labour,11.5
-2018,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2018,_%,15 - 64,Мушкарци,unemployed_as_of_labour,17.6
-2018,_%,15+,Жене,unemployed_as_of_labour,20.3
-2018,_%,15 - 24,Жене,unemployed_as_of_labour,45.5
-2018,_%,25 - 49,Жене,unemployed_as_of_labour,22.3
-2018,_%,50 - 64,Жене,unemployed_as_of_labour,10.6
-2018,_%,65+,Жене,unemployed_as_of_labour,0.0
-2018,_%,15 - 64,Жене,unemployed_as_of_labour,21.0
-2018,_%,15+,Оба пола,inactive_as_of_working,57.9
-2018,_%,15 - 24,Оба пола,inactive_as_of_working,67.7
-2018,_%,25 - 49,Оба пола,inactive_as_of_working,27.0
-2018,_%,50 - 64,Оба пола,inactive_as_of_working,55.4
-2018,_%,65+,Оба пола,inactive_as_of_working,95.3
-2018,_%,15 - 64,Оба пола,inactive_as_of_working,45.8
-2018,_%,15+,Мушкарци,inactive_as_of_working,46.8
-2018,_%,15 - 24,Мушкарци,inactive_as_of_working,59.6
-2018,_%,25 - 49,Мушкарци,inactive_as_of_working,13.2
-2018,_%,50 - 64,Мушкарци,inactive_as_of_working,42.7
-2018,_%,65+,Мушкарци,inactive_as_of_working,93.8
-2018,_%,15 - 64,Мушкарци,inactive_as_of_working,33.6
-2018,_%,15+,Жене,inactive_as_of_working,68.6
-2018,_%,15 - 24,Жене,inactive_as_of_working,76.9
-2018,_%,25 - 49,Жене,inactive_as_of_working,41.1
-2018,_%,50 - 64,Жене,inactive_as_of_working,67.7
-2018,_%,65+,Жене,inactive_as_of_working,96.4
-2018,_%,15 - 64,Жене,inactive_as_of_working,58.2
-2019,_%,15+,Оба пола,unemployed_as_of_labour,15.7
-2019,_%,15 - 24,Оба пола,unemployed_as_of_labour,33.8
-2019,_%,25 - 49,Оба пола,unemployed_as_of_labour,17.2
-2019,_%,50 - 64,Оба пола,unemployed_as_of_labour,9.7
-2019,_%,65+,Оба пола,unemployed_as_of_labour,0.0
-2019,_%,15 - 64,Оба пола,unemployed_as_of_labour,16.4
-2019,_%,15+,Мушкарци,unemployed_as_of_labour,13.6
-2019,_%,15 - 24,Мушкарци,unemployed_as_of_labour,31.3
-2019,_%,25 - 49,Мушкарци,unemployed_as_of_labour,14.7
-2019,_%,50 - 64,Мушкарци,unemployed_as_of_labour,8.1
-2019,_%,65+,Мушкарци,unemployed_as_of_labour,0.0
-2019,_%,15 - 64,Мушкарци,unemployed_as_of_labour,14.2
-2019,_%,15+,Жене,unemployed_as_of_labour,18.8
-2019,_%,15 - 24,Жене,unemployed_as_of_labour,37.9
-2019,_%,25 - 49,Жене,unemployed_as_of_labour,20.7
-2019,_%,50 - 64,Жене,unemployed_as_of_labour,12.3
-2019,_%,65+,Жене,unemployed_as_of_labour,0.0
-2019,_%,15 - 64,Жене,unemployed_as_of_labour,19.7
-2019,_%,15+,Оба пола,inactive_as_of_working,57.9
-2019,_%,15 - 24,Оба пола,inactive_as_of_working,64.6
-2019,_%,25 - 49,Оба пола,inactive_as_of_working,26.6
-2019,_%,50 - 64,Оба пола,inactive_as_of_working,53.3
-2019,_%,65+,Оба пола,inactive_as_of_working,93.1
-2019,_%,15 - 64,Оба пола,inactive_as_of_working,44.5
-2019,_%,15+,Мушкарци,inactive_as_of_working,48.3
-2019,_%,15 - 24,Мушкарци,inactive_as_of_working,60.2
-2019,_%,25 - 49,Мушкарци,inactive_as_of_working,14.4
-2019,_%,50 - 64,Мушкарци,inactive_as_of_working,39.9
-2019,_%,65+,Мушкарци,inactive_as_of_working,91.2
-2019,_%,15 - 64,Мушкарци,inactive_as_of_working,33.6
-2019,_%,15+,Жене,inactive_as_of_working,67.1
-2019,_%,15 - 24,Жене,inactive_as_of_working,70.1
-2019,_%,25 - 49,Жене,inactive_as_of_working,38.9
-2019,_%,50 - 64,Жене,inactive_as_of_working,65.9
-2019,_%,65+,Жене,inactive_as_of_working,94.7
-2019,_%,15 - 64,Жене,inactive_as_of_working,55.6
-2006,_%,15+,Оба пола,unemployed_as_of_working,13.4
-2006,_%,15 - 24,Оба пола,unemployed_as_of_working,20.8
-2006,_%,25 - 49,Оба пола,unemployed_as_of_working,19.5
-2006,_%,50 - 64,Оба пола,unemployed_as_of_working,6.0
-2006,_%,65+,Оба пола,unemployed_as_of_working,0.2
-2006,_%,15 - 64,Оба пола,unemployed_as_of_working,16.3
-2006,_%,15+,Мушкарци,unemployed_as_of_working,16.2
-2006,_%,15 - 24,Мушкарци,unemployed_as_of_working,24.1
-2006,_%,25 - 49,Мушкарци,unemployed_as_of_working,21.9
-2006,_%,50 - 64,Мушкарци,unemployed_as_of_working,9.1
-2006,_%,65+,Мушкарци,unemployed_as_of_working,0.5
-2006,_%,15 - 64,Мушкарци,unemployed_as_of_working,19.3
-2006,_%,15+,Жене,unemployed_as_of_working,10.7
-2006,_%,15 - 24,Жене,unemployed_as_of_working,17.3
-2006,_%,25 - 49,Жене,unemployed_as_of_working,17.0
-2006,_%,50 - 64,Жене,unemployed_as_of_working,3.4
-2006,_%,65+,Жене,unemployed_as_of_working,0.0
-2006,_%,15+,Оба пола,unemployed_as_of_working,13.3
-2007,_%,15+,Оба пола,unemployed_as_of_working,12.7
-2007,_%,15 - 24,Оба пола,unemployed_as_of_working,19.5
-2007,_%,25 - 49,Оба пола,unemployed_as_of_working,18.2
-2007,_%,50 - 64,Оба пола,unemployed_as_of_working,6.9
-2007,_%,65+,Оба пола,unemployed_as_of_working,0.2
-2007,_%,15 - 64,Оба пола,unemployed_as_of_working,15.5
-2007,_%,15+,Мушкарци,unemployed_as_of_working,15.4
-2007,_%,15 - 24,Мушкарци,unemployed_as_of_working,22.7
-2007,_%,25 - 49,Мушкарци,unemployed_as_of_working,20.4
-2007,_%,50 - 64,Мушкарци,unemployed_as_of_working,10.2
-2007,_%,65+,Мушкарци,unemployed_as_of_working,0.3
-2007,_%,15 - 64,Мушкарци,unemployed_as_of_working,18.3
-2007,_%,15+,Жене,unemployed_as_of_working,10.2
-2007,_%,15 - 24,Жене,unemployed_as_of_working,16.2
-2007,_%,25 - 49,Жене,unemployed_as_of_working,16.0
-2007,_%,50 - 64,Жене,unemployed_as_of_working,3.9
-2007,_%,65+,Жене,unemployed_as_of_working,0.0
-2007,_%,15+,Оба пола,unemployed_as_of_working,12.7
-2008,_%,15+,Оба пола,unemployed_as_of_working,10.3
-2008,_%,15 - 24,Оба пола,unemployed_as_of_working,15.8
-2008,_%,25 - 49,Оба пола,unemployed_as_of_working,15.1
-2008,_%,50 - 64,Оба пола,unemployed_as_of_working,6.2
-2008,_%,65+,Оба пола,unemployed_as_of_working,0.0
-2008,_%,15 - 64,Оба пола,unemployed_as_of_working,12.8
-2008,_%,15+,Мушкарци,unemployed_as_of_working,12.2
-2008,_%,15 - 24,Мушкарци,unemployed_as_of_working,17.9
-2008,_%,25 - 49,Мушкарци,unemployed_as_of_working,16.3
-2008,_%,50 - 64,Мушкарци,unemployed_as_of_working,9.3
-2008,_%,65+,Мушкарци,unemployed_as_of_working,0.1
-2008,_%,15 - 64,Мушкарци,unemployed_as_of_working,14.9
-2008,_%,15+,Жене,unemployed_as_of_working,8.5
-2008,_%,15 - 24,Жене,unemployed_as_of_working,13.4
-2008,_%,25 - 49,Жене,unemployed_as_of_working,14.0
-2008,_%,50 - 64,Жене,unemployed_as_of_working,3.3
-2008,_%,65+,Жене,unemployed_as_of_working,0.0
-2008,_%,15+,Оба пола,unemployed_as_of_working,10.8
-2009,_%,15+,Оба пола,unemployed_as_of_working,10.5
-2009,_%,15 - 24,Оба пола,unemployed_as_of_working,15.9
-2009,_%,25 - 49,Оба пола,unemployed_as_of_working,15.6
-2009,_%,50 - 64,Оба пола,unemployed_as_of_working,6.8
-2009,_%,65+,Оба пола,unemployed_as_of_working,0.0
-2009,_%,15 - 64,Оба пола,unemployed_as_of_working,13.0
-2009,_%,15+,Мушкарци,unemployed_as_of_working,13.0
-2009,_%,15 - 24,Мушкарци,unemployed_as_of_working,18.8
-2009,_%,25 - 49,Мушкарци,unemployed_as_of_working,17.8
-2009,_%,50 - 64,Мушкарци,unemployed_as_of_working,9.9
-2009,_%,65+,Мушкарци,unemployed_as_of_working,0.0
-2009,_%,15 - 64,Мушкарци,unemployed_as_of_working,15.8
-2009,_%,15+,Жене,unemployed_as_of_working,8.2
-2009,_%,15 - 24,Жене,unemployed_as_of_working,12.8
-2009,_%,25 - 49,Жене,unemployed_as_of_working,13.4
-2009,_%,50 - 64,Жене,unemployed_as_of_working,4.0
-2009,_%,65+,Жене,unemployed_as_of_working,0.0
-2009,_%,15+,Оба пола,unemployed_as_of_working,10.4
-2010,_%,15+,Оба пола,unemployed_as_of_working,12.1
-2010,_%,15 - 24,Оба пола,unemployed_as_of_working,19.0
-2010,_%,25 - 49,Оба пола,unemployed_as_of_working,18.1
-2010,_%,50 - 64,Оба пола,unemployed_as_of_working,7.2
-2010,_%,65+,Оба пола,unemployed_as_of_working,0.1
-2010,_%,15 - 64,Оба пола,unemployed_as_of_working,15.0
-2010,_%,15+,Мушкарци,unemployed_as_of_working,14.5
-2010,_%,15 - 24,Мушкарци,unemployed_as_of_working,21.9
-2010,_%,25 - 49,Мушкарци,unemployed_as_of_working,19.7
-2010,_%,50 - 64,Мушкарци,unemployed_as_of_working,10.4
-2010,_%,65+,Мушкарци,unemployed_as_of_working,0.0
-2010,_%,15 - 64,Мушкарци,unemployed_as_of_working,17.5
-2010,_%,15+,Жене,unemployed_as_of_working,9.9
-2010,_%,15 - 24,Жене,unemployed_as_of_working,15.9
-2010,_%,25 - 49,Жене,unemployed_as_of_working,16.4
-2010,_%,50 - 64,Жене,unemployed_as_of_working,4.4
-2010,_%,65+,Жене,unemployed_as_of_working,0.1
-2010,_%,15+,Оба пола,unemployed_as_of_working,12.5
-2011,_%,15+,Оба пола,unemployed_as_of_working,12.1
-2011,_%,15 - 24,Оба пола,unemployed_as_of_working,18.2
-2011,_%,25 - 49,Оба пола,unemployed_as_of_working,18.5
-2011,_%,50 - 64,Оба пола,unemployed_as_of_working,7.7
-2011,_%,65+,Оба пола,unemployed_as_of_working,0.0
-2011,_%,15 - 64,Оба пола,unemployed_as_of_working,15.1
-2011,_%,15+,Мушкарци,unemployed_as_of_working,2.7
-2011,_%,15 - 24,Мушкарци,unemployed_as_of_working,14.5
-2011,_%,25 - 49,Мушкарци,unemployed_as_of_working,6.0
-2011,_%,50 - 64,Мушкарци,unemployed_as_of_working,-2.5
-2011,_%,65+,Мушкарци,unemployed_as_of_working,-1.3
-2011,_%,15 - 64,Мушкарци,unemployed_as_of_working,5.0
-2011,_%,15+,Жене,unemployed_as_of_working,21.0
-2011,_%,15 - 24,Жене,unemployed_as_of_working,22.1
-2011,_%,25 - 49,Жене,unemployed_as_of_working,31.6
-2011,_%,50 - 64,Жене,unemployed_as_of_working,16.6
-2011,_%,65+,Жене,unemployed_as_of_working,1.0
-2011,_%,15+,Оба пола,unemployed_as_of_working,25.1
-2012,_%,15+,Оба пола,unemployed_as_of_working,12.3
-2012,_%,15 - 24,Оба пола,unemployed_as_of_working,18.5
-2012,_%,25 - 49,Оба пола,unemployed_as_of_working,19.5
-2012,_%,50 - 64,Оба пола,unemployed_as_of_working,7.1
-2012,_%,65+,Оба пола,unemployed_as_of_working,0.2
-2012,_%,15 - 64,Оба пола,unemployed_as_of_working,15.4
-2012,_%,15+,Мушкарци,unemployed_as_of_working,14.9
-2012,_%,15 - 24,Мушкарци,unemployed_as_of_working,23.6
-2012,_%,25 - 49,Мушкарци,unemployed_as_of_working,20.6
-2012,_%,50 - 64,Мушкарци,unemployed_as_of_working,9.9
-2012,_%,65+,Мушкарци,unemployed_as_of_working,0.4
-2012,_%,15 - 64,Мушкарци,unemployed_as_of_working,18.0
-2012,_%,15+,Жене,unemployed_as_of_working,10.0
-2012,_%,15 - 24,Жене,unemployed_as_of_working,13.4
-2012,_%,25 - 49,Жене,unemployed_as_of_working,18.3
-2012,_%,50 - 64,Жене,unemployed_as_of_working,4.6
-2012,_%,65+,Жене,unemployed_as_of_working,0.0
-2012,_%,15+,Оба пола,unemployed_as_of_working,12.9
-2013,_%,15+,Оба пола,unemployed_as_of_working,28.9
-2013,_%,15 - 24,Оба пола,unemployed_as_of_working,12.0
-2013,_%,25 - 49,Оба пола,unemployed_as_of_working,16.7
-2013,_%,50 - 64,Оба пола,unemployed_as_of_working,19.2
-2013,_%,65+,Оба пола,unemployed_as_of_working,7.7
-2013,_%,15 - 64,Оба пола,unemployed_as_of_working,0.1
-2013,_%,15+,Мушкарци,unemployed_as_of_working,15.0
-2013,_%,15 - 24,Мушкарци,unemployed_as_of_working,14.7
-2013,_%,25 - 49,Мушкарци,unemployed_as_of_working,21.5
-2013,_%,50 - 64,Мушкарци,unemployed_as_of_working,20.9
-2013,_%,65+,Мушкарци,unemployed_as_of_working,10.3
-2013,_%,15 - 64,Мушкарци,unemployed_as_of_working,0.1
-2013,_%,15+,Жене,unemployed_as_of_working,17.8
-2013,_%,15 - 24,Жене,unemployed_as_of_working,9.4
-2013,_%,25 - 49,Жене,unemployed_as_of_working,11.5
-2013,_%,50 - 64,Жене,unemployed_as_of_working,17.3
-2013,_%,65+,Жене,unemployed_as_of_working,5.2
-2013,_%,15+,Оба пола,unemployed_as_of_working,0.0
-2014,_%,15+,Оба пола,unemployed_as_of_working,12.0
-2014,_%,15 - 24,Оба пола,unemployed_as_of_working,18.3
-2014,_%,25 - 49,Оба пола,unemployed_as_of_working,19.9
-2014,_%,50 - 64,Оба пола,unemployed_as_of_working,6.9
-2014,_%,65+,Оба пола,unemployed_as_of_working,0.2
-2014,_%,15 - 64,Оба пола,unemployed_as_of_working,15.2
-2014,_%,15+,Мушкарци,unemployed_as_of_working,13.9
-2014,_%,15 - 24,Мушкарци,unemployed_as_of_working,21.1
-2014,_%,25 - 49,Мушкарци,unemployed_as_of_working,20.5
-2014,_%,50 - 64,Мушкарци,unemployed_as_of_working,8.9
-2014,_%,65+,Мушкарци,unemployed_as_of_working,0.2
-2014,_%,15 - 64,Мушкарци,unemployed_as_of_working,16.9
-2014,_%,15+,Жене,unemployed_as_of_working,10.3
-2014,_%,15 - 24,Жене,unemployed_as_of_working,15.3
-2014,_%,25 - 49,Жене,unemployed_as_of_working,19.2
-2014,_%,50 - 64,Жене,unemployed_as_of_working,5.1
-2014,_%,65+,Жене,unemployed_as_of_working,0.2
-2014,_%,15+,Оба пола,unemployed_as_of_working,13.5
-2015,_%,15+,Оба пола,unemployed_as_of_working,12.2
-2015,_%,15 - 24,Оба пола,unemployed_as_of_working,20.0
-2015,_%,25 - 49,Оба пола,unemployed_as_of_working,19.7
-2015,_%,50 - 64,Оба пола,unemployed_as_of_working,7.0
-2015,_%,65+,Оба пола,unemployed_as_of_working,0.1
-2015,_%,15 - 64,Оба пола,unemployed_as_of_working,15.4
-2015,_%,15+,Мушкарци,unemployed_as_of_working,14.2
-2015,_%,15 - 24,Мушкарци,unemployed_as_of_working,23.2
-2015,_%,25 - 49,Мушкарци,unemployed_as_of_working,21.0
-2015,_%,50 - 64,Мушкарци,unemployed_as_of_working,8.7
-2015,_%,65+,Мушкарци,unemployed_as_of_working,0.2
-2015,_%,15 - 64,Мушкарци,unemployed_as_of_working,17.4
-2015,_%,15+,Жене,unemployed_as_of_working,10.3
-2015,_%,15 - 24,Жене,unemployed_as_of_working,16.5
-2015,_%,25 - 49,Жене,unemployed_as_of_working,18.4
-2015,_%,50 - 64,Жене,unemployed_as_of_working,5.4
-2015,_%,65+,Жене,unemployed_as_of_working,0.0
-2015,_%,15+,Оба пола,unemployed_as_of_working,13.4
-2016,_%,15+,Оба пола,unemployed_as_of_working,11.0
-2016,_%,15 - 24,Оба пола,unemployed_as_of_working,16.4
-2016,_%,25 - 49,Оба пола,unemployed_as_of_working,18.8
-2016,_%,50 - 64,Оба пола,unemployed_as_of_working,6.9
-2016,_%,65+,Оба пола,unemployed_as_of_working,0.4
-2016,_%,15 - 64,Оба пола,unemployed_as_of_working,14.0
-2016,_%,15+,Мушкарци,unemployed_as_of_working,12.4
-2016,_%,15 - 24,Мушкарци,unemployed_as_of_working,19.9
-2016,_%,25 - 49,Мушкарци,unemployed_as_of_working,18.3
-2016,_%,50 - 64,Мушкарци,unemployed_as_of_working,8.4
-2016,_%,65+,Мушкарци,unemployed_as_of_working,0.6
-2016,_%,15 - 64,Мушкарци,unemployed_as_of_working,15.1
-2016,_%,15+,Жене,unemployed_as_of_working,9.6
-2016,_%,15 - 24,Жене,unemployed_as_of_working,12.5
-2016,_%,25 - 49,Жене,unemployed_as_of_working,19.2
-2016,_%,50 - 64,Жене,unemployed_as_of_working,5.4
-2016,_%,65+,Жене,unemployed_as_of_working,0.2
-2016,_%,15+,Оба пола,unemployed_as_of_working,12.8
-2017,_%,15+,Оба пола,unemployed_as_of_working,8.8
-2017,_%,15 - 24,Оба пола,unemployed_as_of_working,14.9
-2017,_%,25 - 49,Оба пола,unemployed_as_of_working,15.3
-2017,_%,50 - 64,Оба пола,unemployed_as_of_working,5.5
-2017,_%,65+,Оба пола,unemployed_as_of_working,0.1
-2017,_%,15 - 64,Оба пола,unemployed_as_of_working,11.5
-2017,_%,15+,Мушкарци,unemployed_as_of_working,10.1
-2017,_%,15 - 24,Мушкарци,unemployed_as_of_working,17.3
-2017,_%,25 - 49,Мушкарци,unemployed_as_of_working,16.0
-2017,_%,50 - 64,Мушкарци,unemployed_as_of_working,6.6
-2017,_%,65+,Мушкарци,unemployed_as_of_working,0.1
-2017,_%,15 - 64,Мушкарци,unemployed_as_of_working,12.8
-2017,_%,15+,Жене,unemployed_as_of_working,7.5
-2017,_%,15 - 24,Жене,unemployed_as_of_working,12.0
-2017,_%,25 - 49,Жене,unemployed_as_of_working,14.7
-2017,_%,50 - 64,Жене,unemployed_as_of_working,4.4
-2017,_%,65+,Жене,unemployed_as_of_working,0.1
-2017,_%,15+,Оба пола,unemployed_as_of_working,10.2
-2018,_%,15+,Оба пола,unemployed_as_of_working,7.8
-2018,_%,15 - 24,Оба пола,unemployed_as_of_working,12.6
-2018,_%,25 - 49,Оба пола,unemployed_as_of_working,14.1
-2018,_%,50 - 64,Оба пола,unemployed_as_of_working,5.0
-2018,_%,65+,Оба пола,unemployed_as_of_working,0.1
-2018,_%,15 - 64,Оба пола,unemployed_as_of_working,10.2
-2018,_%,15+,Мушкарци,unemployed_as_of_working,9.1
-2018,_%,15 - 24,Мушкарци,unemployed_as_of_working,14.3
-2018,_%,25 - 49,Мушкарци,unemployed_as_of_working,15.0
-2018,_%,50 - 64,Мушкарци,unemployed_as_of_working,6.6
-2018,_%,65+,Мушкарци,unemployed_as_of_working,0.2
-2018,_%,15 - 64,Мушкарци,unemployed_as_of_working,11.7
-2018,_%,15+,Жене,unemployed_as_of_working,6.4
-2018,_%,15 - 24,Жене,unemployed_as_of_working,10.5
-2018,_%,25 - 49,Жене,unemployed_as_of_working,13.1
-2018,_%,50 - 64,Жене,unemployed_as_of_working,3.4
-2018,_%,65+,Жене,unemployed_as_of_working,0.0
-2018,_%,15+,Оба пола,unemployed_as_of_working,8.8
-2019,_%,15+,Оба пола,unemployed_as_of_working,6.6
-2019,_%,15 - 24,Оба пола,unemployed_as_of_working,12.0
-2019,_%,25 - 49,Оба пола,unemployed_as_of_working,12.7
-2019,_%,50 - 64,Оба пола,unemployed_as_of_working,4.5
-2019,_%,65+,Оба пола,unemployed_as_of_working,0.1
-2019,_%,15 - 64,Оба пола,unemployed_as_of_working,9.1
-2019,_%,15+,Мушкарци,unemployed_as_of_working,7.1
-2019,_%,15 - 24,Мушкарци,unemployed_as_of_working,12.4
-2019,_%,25 - 49,Мушкарци,unemployed_as_of_working,12.6
-2019,_%,50 - 64,Мушкарци,unemployed_as_of_working,4.9
-2019,_%,65+,Мушкарци,unemployed_as_of_working,0.1
-2019,_%,15 - 64,Мушкарци,unemployed_as_of_working,9.4
-2019,_%,15+,Жене,unemployed_as_of_working,6.2
-2019,_%,15 - 24,Жене,unemployed_as_of_working,11.3
-2019,_%,25 - 49,Жене,unemployed_as_of_working,12.6
-2019,_%,50 - 64,Жене,unemployed_as_of_working,5.2
-2019,_%,65+,Жене,unemployed_as_of_working,1.7
-2019,_%,15+,Оба пола,unemployed_as_of_working,11.4
+2006,_%,15+,Оба пола,employed_as_of_working,29.7
+2006,_%,15 - 24,Оба пола,employed_as_of_working,12.6
+2006,_%,25 - 49,Оба пола,employed_as_of_working,46.5
+2006,_%,50 - 64,Оба пола,employed_as_of_working,30.6
+2006,_%,65+,Оба пола,employed_as_of_working,5.5
+2006,_%,15 - 64,Оба пола,employed_as_of_working,35.0
+2006,_%,15+,Мушкарци,employed_as_of_working,39.9
+2006,_%,15 - 24,Мушкарци,employed_as_of_working,16.0
+2006,_%,25 - 49,Мушкарци,employed_as_of_working,60.0
+2006,_%,50 - 64,Мушкарци,employed_as_of_working,44.3
+2006,_%,65+,Мушкарци,employed_as_of_working,7.5
+2006,_%,15 - 64,Мушкарци,employed_as_of_working,46.1
+2006,_%,15+,Жене,employed_as_of_working,20.0
+2006,_%,15 - 24,Жене,employed_as_of_working,9.0
+2006,_%,25 - 49,Жене,employed_as_of_working,33.0
+2006,_%,50 - 64,Жене,employed_as_of_working,18.7
+2006,_%,65+,Жене,employed_as_of_working,4.0
+2006,_%,15 - 64,Жене,employed_as_of_working,24.0
+2007,_%,15+,Оба пола,employed_as_of_working,31.2
+2007,_%,15 - 24,Оба пола,employed_as_of_working,13.9
+2007,_%,25 - 49,Оба пола,employed_as_of_working,48.8
+2007,_%,50 - 64,Оба пола,employed_as_of_working,31.9
+2007,_%,65+,Оба пола,employed_as_of_working,5.7
+2007,_%,15 - 64,Оба пола,employed_as_of_working,36.8
+2007,_%,15+,Мушкарци,employed_as_of_working,42.3
+2007,_%,15 - 24,Мушкарци,employed_as_of_working,18.1
+2007,_%,25 - 49,Мушкарци,employed_as_of_working,63.6
+2007,_%,50 - 64,Мушкарци,employed_as_of_working,45.2
+2007,_%,65+,Мушкарци,employed_as_of_working,8.6
+2007,_%,15 - 64,Мушкарци,employed_as_of_working,48.7
+2007,_%,15+,Жене,employed_as_of_working,20.8
+2007,_%,15 - 24,Жене,employed_as_of_working,9.5
+2007,_%,25 - 49,Жене,employed_as_of_working,34.2
+2007,_%,50 - 64,Жене,employed_as_of_working,19.7
+2007,_%,65+,Жене,employed_as_of_working,3.6
+2007,_%,15 - 64,Жене,employed_as_of_working,25.0
+2008,_%,15+,Оба пола,employed_as_of_working,33.6
+2008,_%,15 - 24,Оба пола,employed_as_of_working,17.4
+2008,_%,25 - 49,Оба пола,employed_as_of_working,53.4
+2008,_%,50 - 64,Оба пола,employed_as_of_working,34.4
+2008,_%,65+,Оба пола,employed_as_of_working,5.4
+2008,_%,15 - 64,Оба пола,employed_as_of_working,40.7
+2008,_%,15+,Мушкарци,employed_as_of_working,44.9
+2008,_%,15 - 24,Мушкарци,employed_as_of_working,22.1
+2008,_%,25 - 49,Мушкарци,employed_as_of_working,68.8
+2008,_%,50 - 64,Мушкарци,employed_as_of_working,47.9
+2008,_%,65+,Мушкарци,employed_as_of_working,8.2
+2008,_%,15 - 64,Мушкарци,employed_as_of_working,52.9
+2008,_%,15+,Жене,employed_as_of_working,23.1
+2008,_%,15 - 24,Жене,employed_as_of_working,12.2
+2008,_%,25 - 49,Жене,employed_as_of_working,38.4
+2008,_%,50 - 64,Жене,employed_as_of_working,22.4
+2008,_%,65+,Жене,employed_as_of_working,3.2
+2008,_%,15 - 64,Жене,employed_as_of_working,28.7
+2009,_%,15+,Оба пола,employed_as_of_working,33.1
+2009,_%,15 - 24,Оба пола,employed_as_of_working,16.7
+2009,_%,25 - 49,Оба пола,employed_as_of_working,53.5
+2009,_%,50 - 64,Оба пола,employed_as_of_working,34.0
+2009,_%,65+,Оба пола,employed_as_of_working,4.2
+2009,_%,15 - 64,Оба пола,employed_as_of_working,40.1
+2009,_%,15+,Мушкарци,employed_as_of_working,43.2
+2009,_%,15 - 24,Мушкарци,employed_as_of_working,21.7
+2009,_%,25 - 49,Мушкарци,employed_as_of_working,67.4
+2009,_%,50 - 64,Мушкарци,employed_as_of_working,45.4
+2009,_%,65+,Мушкарци,employed_as_of_working,5.6
+2009,_%,15 - 64,Мушкарци,employed_as_of_working,51.3
+2009,_%,15+,Жене,employed_as_of_working,23.7
+2009,_%,15 - 24,Жене,employed_as_of_working,11.5
+2009,_%,25 - 49,Жене,employed_as_of_working,39.9
+2009,_%,50 - 64,Жене,employed_as_of_working,23.6
+2009,_%,65+,Жене,employed_as_of_working,3.1
+2009,_%,15 - 64,Жене,employed_as_of_working,29.3
+2010,_%,15+,Оба пола,employed_as_of_working,32.5
+2010,_%,15 - 24,Оба пола,employed_as_of_working,14.0
+2010,_%,25 - 49,Оба пола,employed_as_of_working,52.5
+2010,_%,50 - 64,Оба пола,employed_as_of_working,33.3
+2010,_%,65+,Оба пола,employed_as_of_working,4.6
+2010,_%,15 - 64,Оба пола,employed_as_of_working,39.0
+2010,_%,15+,Мушкарци,employed_as_of_working,42.2
+2010,_%,15 - 24,Мушкарци,employed_as_of_working,17.8
+2010,_%,25 - 49,Мушкарци,employed_as_of_working,65.6
+2010,_%,50 - 64,Мушкарци,employed_as_of_working,44.1
+2010,_%,65+,Мушкарци,employed_as_of_working,6.3
+2010,_%,15 - 64,Мушкарци,employed_as_of_working,49.6
+2010,_%,15+,Жене,employed_as_of_working,23.3
+2010,_%,15 - 24,Жене,employed_as_of_working,10.0
+2010,_%,25 - 49,Жене,employed_as_of_working,39.2
+2010,_%,50 - 64,Жене,employed_as_of_working,23.6
+2010,_%,65+,Жене,employed_as_of_working,3.2
+2010,_%,15 - 64,Жене,employed_as_of_working,28.6
+2011,_%,15+,Оба пола,employed_as_of_working,31.9
+2011,_%,15 - 24,Оба пола,employed_as_of_working,13.2
+2011,_%,25 - 49,Оба пола,employed_as_of_working,52.1
+2011,_%,50 - 64,Оба пола,employed_as_of_working,33.6
+2011,_%,65+,Оба пола,employed_as_of_working,3.6
+2011,_%,15 - 64,Оба пола,employed_as_of_working,38.7
+2011,_%,15+,Мушкарци,employed_as_of_working,41.3
+2011,_%,15 - 24,Мушкарци,employed_as_of_working,16.9
+2011,_%,25 - 49,Мушкарци,employed_as_of_working,64.5
+2011,_%,50 - 64,Мушкарци,employed_as_of_working,43.7
+2011,_%,65+,Мушкарци,employed_as_of_working,4.9
+2011,_%,15 - 64,Мушкарци,employed_as_of_working,48.7
+2011,_%,15+,Жене,employed_as_of_working,23.0
+2011,_%,15 - 24,Жене,employed_as_of_working,9.2
+2011,_%,25 - 49,Жене,employed_as_of_working,39.0
+2011,_%,50 - 64,Жене,employed_as_of_working,24.6
+2011,_%,65+,Жене,employed_as_of_working,2.6
+2011,_%,15 - 64,Жене,employed_as_of_working,28.7
+2012,_%,15+,Оба пола,employed_as_of_working,31.7
+2012,_%,15 - 24,Оба пола,employed_as_of_working,10.8
+2012,_%,25 - 49,Оба пола,employed_as_of_working,52.2
+2012,_%,50 - 64,Оба пола,employed_as_of_working,35.0
+2012,_%,65+,Оба пола,employed_as_of_working,4.8
+2012,_%,15 - 64,Оба пола,employed_as_of_working,38.5
+2012,_%,15+,Мушкарци,employed_as_of_working,41.5
+2012,_%,15 - 24,Мушкарци,employed_as_of_working,14.1
+2012,_%,25 - 49,Мушкарци,employed_as_of_working,64.9
+2012,_%,50 - 64,Мушкарци,employed_as_of_working,46.3
+2012,_%,65+,Мушкарци,employed_as_of_working,6.7
+2012,_%,15 - 64,Мушкарци,employed_as_of_working,49.0
+2012,_%,15+,Жене,employed_as_of_working,22.6
+2012,_%,15 - 24,Жене,employed_as_of_working,7.5
+2012,_%,25 - 49,Жене,employed_as_of_working,39.1
+2012,_%,50 - 64,Жене,employed_as_of_working,24.6
+2012,_%,65+,Жене,employed_as_of_working,3.4
+2012,_%,15 - 64,Жене,employed_as_of_working,28.1
+2013,_%,15+,Оба пола,employed_as_of_working,31.6
+2013,_%,15 - 24,Оба пола,employed_as_of_working,11.6
+2013,_%,25 - 49,Оба пола,employed_as_of_working,52.7
+2013,_%,50 - 64,Оба пола,employed_as_of_working,34.4
+2013,_%,65+,Оба пола,employed_as_of_working,4.1
+2013,_%,15 - 64,Оба пола,employed_as_of_working,38.5
+2013,_%,15+,Мушкарци,employed_as_of_working,40.6
+2013,_%,15 - 24,Мушкарци,employed_as_of_working,14.9
+2013,_%,25 - 49,Мушкарци,employed_as_of_working,64.3
+2013,_%,50 - 64,Мушкарци,employed_as_of_working,45.1
+2013,_%,65+,Мушкарци,employed_as_of_working,6.0
+2013,_%,15 - 64,Мушкарци,employed_as_of_working,48.0
+2013,_%,15+,Жене,employed_as_of_working,23.0
+2013,_%,15 - 24,Жене,employed_as_of_working,7.9
+2013,_%,25 - 49,Жене,employed_as_of_working,40.8
+2013,_%,50 - 64,Жене,employed_as_of_working,24.4
+2013,_%,65+,Жене,employed_as_of_working,2.7
+2013,_%,15 - 64,Жене,employed_as_of_working,28.9
+2014,_%,15+,Оба пола,employed_as_of_working,31.7
+2014,_%,15 - 24,Оба пола,employed_as_of_working,10.9
+2014,_%,25 - 49,Оба пола,employed_as_of_working,53.3
+2014,_%,50 - 64,Оба пола,employed_as_of_working,35.3
+2014,_%,65+,Оба пола,employed_as_of_working,4.5
+2014,_%,15 - 64,Оба пола,employed_as_of_working,39.0
+2014,_%,15+,Мушкарци,employed_as_of_working,41.2
+2014,_%,15 - 24,Мушкарци,employed_as_of_working,13.5
+2014,_%,25 - 49,Мушкарци,employed_as_of_working,65.3
+2014,_%,50 - 64,Мушкарци,employed_as_of_working,47.2
+2014,_%,65+,Мушкарци,employed_as_of_working,6.7
+2014,_%,15 - 64,Мушкарци,employed_as_of_working,48.9
+2014,_%,15+,Жене,employed_as_of_working,22.7
+2014,_%,15 - 24,Жене,employed_as_of_working,8.1
+2014,_%,25 - 49,Жене,employed_as_of_working,40.8
+2014,_%,50 - 64,Жене,employed_as_of_working,24.5
+2014,_%,65+,Жене,employed_as_of_working,3.0
+2014,_%,15 - 64,Жене,employed_as_of_working,28.9
+2015,_%,15+,Оба пола,employed_as_of_working,31.9
+2015,_%,15 - 24,Оба пола,employed_as_of_working,12.1
+2015,_%,25 - 49,Оба пола,employed_as_of_working,53.9
+2015,_%,50 - 64,Оба пола,employed_as_of_working,34.7
+2015,_%,65+,Оба пола,employed_as_of_working,4.2
+2015,_%,15 - 64,Оба пола,employed_as_of_working,39.2
+2015,_%,15+,Мушкарци,employed_as_of_working,40.9
+2015,_%,15 - 24,Мушкарци,employed_as_of_working,15.8
+2015,_%,25 - 49,Мушкарци,employed_as_of_working,66.1
+2015,_%,50 - 64,Мушкарци,employed_as_of_working,45.0
+2015,_%,65+,Мушкарци,employed_as_of_working,5.9
+2015,_%,15 - 64,Мушкарци,employed_as_of_working,48.8
+2015,_%,15+,Жене,employed_as_of_working,23.2
+2015,_%,15 - 24,Жене,employed_as_of_working,8.0
+2015,_%,25 - 49,Жене,employed_as_of_working,41.4
+2015,_%,50 - 64,Жене,employed_as_of_working,25.1
+2015,_%,65+,Жене,employed_as_of_working,3.0
+2015,_%,15 - 64,Жене,employed_as_of_working,29.5
+2016,_%,15+,Оба пола,employed_as_of_working,32.2
+2016,_%,15 - 24,Оба пола,employed_as_of_working,13.8
+2016,_%,25 - 49,Оба пола,employed_as_of_working,54.4
+2016,_%,50 - 64,Оба пола,employed_as_of_working,36.8
+2016,_%,65+,Оба пола,employed_as_of_working,3.7
+2016,_%,15 - 64,Оба пола,employed_as_of_working,40.2
+2016,_%,15+,Мушкарци,employed_as_of_working,42.5
+2016,_%,15 - 24,Мушкарци,employed_as_of_working,18.3
+2016,_%,25 - 49,Мушкарци,employed_as_of_working,67.6
+2016,_%,50 - 64,Мушкарци,employed_as_of_working,49.0
+2016,_%,65+,Мушкарци,employed_as_of_working,5.4
+2016,_%,15 - 64,Мушкарци,employed_as_of_working,51.1
+2016,_%,15+,Жене,employed_as_of_working,22.4
+2016,_%,15 - 24,Жене,employed_as_of_working,8.7
+2016,_%,25 - 49,Жене,employed_as_of_working,40.7
+2016,_%,50 - 64,Жене,employed_as_of_working,25.2
+2016,_%,65+,Жене,employed_as_of_working,2.6
+2016,_%,15 - 64,Жене,employed_as_of_working,29.1
+2017,_%,15+,Оба пола,employed_as_of_working,33.9
+2017,_%,15 - 24,Оба пола,employed_as_of_working,17.6
+2017,_%,25 - 49,Оба пола,employed_as_of_working,58.1
+2017,_%,50 - 64,Оба пола,employed_as_of_working,38.2
+2017,_%,65+,Оба пола,employed_as_of_working,5.1
+2017,_%,15 - 64,Оба пола,employed_as_of_working,43.0
+2017,_%,15+,Мушкарци,employed_as_of_working,43.2
+2017,_%,15 - 24,Мушкарци,employed_as_of_working,22.8
+2017,_%,25 - 49,Мушкарци,employed_as_of_working,70.5
+2017,_%,50 - 64,Мушкарци,employed_as_of_working,49.7
+2017,_%,65+,Мушкарци,employed_as_of_working,6.8
+2017,_%,15 - 64,Мушкарци,employed_as_of_working,53.3
+2017,_%,15+,Жене,employed_as_of_working,24.9
+2017,_%,15 - 24,Жене,employed_as_of_working,11.4
+2017,_%,25 - 49,Жене,employed_as_of_working,45.6
+2017,_%,50 - 64,Жене,employed_as_of_working,27.2
+2017,_%,65+,Жене,employed_as_of_working,3.8
+2017,_%,15 - 64,Жене,employed_as_of_working,32.5
+2018,_%,15+,Оба пола,employed_as_of_working,34.3
+2018,_%,15 - 24,Оба пола,employed_as_of_working,19.7
+2018,_%,25 - 49,Оба пола,employed_as_of_working,58.9
+2018,_%,50 - 64,Оба пола,employed_as_of_working,39.6
+2018,_%,65+,Оба пола,employed_as_of_working,4.6
+2018,_%,15 - 64,Оба пола,employed_as_of_working,44.0
+2018,_%,15+,Мушкарци,employed_as_of_working,44.1
+2018,_%,15 - 24,Мушкарци,employed_as_of_working,26.1
+2018,_%,25 - 49,Мушкарци,employed_as_of_working,71.8
+2018,_%,50 - 64,Мушкарци,employed_as_of_working,50.7
+2018,_%,65+,Мушкарци,employed_as_of_working,6.0
+2018,_%,15 - 64,Мушкарци,employed_as_of_working,54.7
+2018,_%,15+,Жене,employed_as_of_working,25.0
+2018,_%,15 - 24,Жене,employed_as_of_working,12.6
+2018,_%,25 - 49,Жене,employed_as_of_working,45.8
+2018,_%,50 - 64,Жене,employed_as_of_working,28.9
+2018,_%,65+,Жене,employed_as_of_working,3.6
+2018,_%,15 - 64,Жене,employed_as_of_working,33.0
+2019,_%,15+,Оба пола,employed_as_of_working,35.5
+2019,_%,15 - 24,Оба пола,employed_as_of_working,23.4
+2019,_%,25 - 49,Оба пола,employed_as_of_working,60.7
+2019,_%,50 - 64,Оба пола,employed_as_of_working,42.2
+2019,_%,65+,Оба пола,employed_as_of_working,6.8
+2019,_%,15 - 64,Оба пола,employed_as_of_working,46.4
+2019,_%,15+,Мушкарци,employed_as_of_working,44.6
+2019,_%,15 - 24,Мушкарци,employed_as_of_working,27.4
+2019,_%,25 - 49,Мушкарци,employed_as_of_working,73.0
+2019,_%,50 - 64,Мушкарци,employed_as_of_working,55.2
+2019,_%,65+,Мушкарци,employed_as_of_working,8.7
+2019,_%,15 - 64,Мушкарци,employed_as_of_working,57.0
+2019,_%,15+,Жене,employed_as_of_working,26.7
+2019,_%,15 - 24,Жене,employed_as_of_working,18.6
+2019,_%,25 - 49,Жене,employed_as_of_working,48.5
+2019,_%,50 - 64,Жене,employed_as_of_working,28.9
+2019,_%,65+,Жене,employed_as_of_working,3.6
+2019,_%,15 - 64,Жене,employed_as_of_working,33.0

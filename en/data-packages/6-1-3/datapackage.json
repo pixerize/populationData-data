@@ -16,7 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Employed as % of working age population"
+                "Inactive as % of working age population",
+                "Unemployed as % of labour force",
+                "Unemployed as % of working age population"
               ]
             },
             "title": "Activity rates"
