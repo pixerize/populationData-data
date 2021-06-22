@@ -1,38 +1,143 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-Banja Luka,Banja Luka,Banja Luka,Banja Luka,Banja Luka,19,1
-Bihać,Bihać,Bihać,Bihać,Bihać,19,1
-Bijeljina,Bijeljina,Bijeljina,Bijeljina,Bijeljina,19,1
-Brčko,Brčko,Brčko,Brčko,Brčko,19,1
-Bugojno,Bugojno,Bugojno,Bugojno,Bugojno,19,1
-Cazin,Cazin,Cazin,Cazin,Cazin,19,1
-Centar Sarajevo,Centar Sarajevo,Centar Sarajevo,Centar Sarajevo,Centar Sarajevo,19,1
-Doboj,Doboj,Doboj,Doboj,Doboj,19,1
-Gračanica,Gračanica,Gračanica,Gračanica,Gračanica,19,1
-Gradačac,Gradačac,Gradačac,Gradačac,Gradačac,19,1
-Gradiška,Gradiška,Gradiška,Gradiška,Gradiška,19,1
-Ilidža,Ilidža,Ilidža,Ilidža,Ilidža,19,1
-Kakanj,Kakanj,Kakanj,Kakanj,Kakanj,19,1
-Kalesija,Kalesija,Kalesija,Kalesija,Kalesija,19,1
-Laktaši,Laktaši,Laktaši,Laktaši,Laktaši,19,1
-Livno,Livno,Livno,Livno,Livno,19,1
-Lukavac,Lukavac,Lukavac,Lukavac,Lukavac,19,1
-Mostar,Mostar,Mostar,Mostar,Mostar,19,1
-Novi Grad Sarajevo,Novi Grad Sarajevo,Novi Grad Sarajevo,Novi Grad Sarajevo,Novi Grad Sarajevo,19,1
-Novo Sarajevo,Novo Sarajevo,Novo Sarajevo,Novo Sarajevo,Novo Sarajevo,19,1
-Prijedor,Prijedor,Prijedor,Prijedor,Prijedor,19,1
-Prnjavor,Prnjavor,Prnjavor,Prnjavor,Prnjavor,19,1
-Sanski Most,Sanski Most,Sanski Most,Sanski Most,Sanski Most,19,1
-Srebrenik,Srebrenik,Srebrenik,Srebrenik,Srebrenik,19,1
-Stari Grad Sarajevo,Stari Grad Sarajevo,Stari Grad Sarajevo,Stari Grad Sarajevo,Stari Grad Sarajevo,19,1
-Tešanj,Tešanj,Tešanj,Tešanj,Tešanj,19,1
-Teslić,Teslić,Teslić,Teslić,Teslić,19,1
-Tomislavgrad,Tomislavgrad,Tomislavgrad,Tomislavgrad,Tomislavgrad,19,1
-Travnik,Travnik,Travnik,Travnik,Travnik,19,1
-Tuzla,Tuzla,Tuzla,Tuzla,Tuzla,19,1
-Velika Kladuša,Velika Kladuša,Velika Kladuša,Velika Kladuša,Velika Kladuša,19,1
-Visoko,Visoko,Visoko,Visoko,Visoko,19,1
-Zavidovići,Zavidovići,Zavidovići,Zavidovići,Zavidovići,19,1
-Zenica,Zenica,Zenica,Zenica,Zenica,19,1
-Žepče,Žepče,Žepče,Žepče,Žepče,19,1
-Živinice,Živinice,Živinice,Živinice,Živinice,19,1
-Zvornik,Zvornik,Zvornik,Zvornik,Zvornik,19,1
+Banja Luka,Banja Luka,Banja Luka,Banja Luka,Banja Luka,3,1
+Banovići,Banovići,Banovići,Banovići,Banovići,3,1
+Berkovići,Berkovići,Berkovići,Berkovići,Berkovići,3,1
+Bihać,Bihać,Bihać,Bihać,Bihać,3,1
+Bijeljina,Bijeljina,Bijeljina,Bijeljina,Bijeljina,3,1
+Bileća,Bileća,Bileća,Bileća,Bileća,3,1
+Bosanska Krupa,Bosanska Krupa,Bosanska Krupa,Bosanska Krupa,Bosanska Krupa,3,1
+Bosanski Petrovac,Bosanski Petrovac,Bosanski Petrovac,Bosanski Petrovac,Bosanski Petrovac,3,1
+Bosansko Grahovo,Bosansko Grahovo,Bosansko Grahovo,Bosansko Grahovo,Bosansko Grahovo,3,1
+Bratunac,Bratunac,Bratunac,Bratunac,Bratunac,3,1
+Brčko,Brčko,Brčko,Brčko,Brčko,3,1
+Breza,Breza,Breza,Breza,Breza,3,1
+Brod,Brod,Brod,Brod,Brod,3,1
+Bugojno,Bugojno,Bugojno,Bugojno,Bugojno,3,1
+Busovača,Busovača,Busovača,Busovača,Busovača,3,1
+Bužim,Bužim,Bužim,Bužim,Bužim,3,1
+Čajniče,Čajniče,Čajniče,Čajniče,Čajniče,3,1
+Čapljina,Čapljina,Čapljina,Čapljina,Čapljina,3,1
+Cazin,Cazin,Cazin,Cazin,Cazin,3,1
+Čelić,Čelić,Čelić,Čelić,Čelić,3,1
+Čelinac,Čelinac,Čelinac,Čelinac,Čelinac,3,1
+Čitluk,Čitluk,Čitluk,Čitluk,Čitluk,3,1
+Derventa,Derventa,Derventa,Derventa,Derventa,3,1
+Doboj-Istok,Doboj-Istok,Doboj-Istok,Doboj-Istok,Doboj-Istok,3,1
+Doboj-Jug,Doboj-Jug,Doboj-Jug,Doboj-Jug,Doboj-Jug,3,1
+Doboj,Doboj,Doboj,Doboj,Doboj,3,1
+Dobretići,Dobretići,Dobretići,Dobretići,Dobretići,3,1
+Domaljevac-Šamac,Domaljevac-Šamac,Domaljevac-Šamac,Domaljevac-Šamac,Domaljevac-Šamac,3,1
+Donji Vakuf,Donji Vakuf,Donji Vakuf,Donji Vakuf,Donji Vakuf,3,1
+Donji Žabar,Donji Žabar,Donji Žabar,Donji Žabar,Donji Žabar,3,1
+Drvar,Drvar,Drvar,Drvar,Drvar,3,1
+Foča - FBiH,Foča - FBiH,Foča - FBiH,Foča - FBiH,Foča - FBiH,3,1
+Foča - RS,Foča - RS,Foča - RS,Foča - RS,Foča - RS,3,1
+Fojnica,Fojnica,Fojnica,Fojnica,Fojnica,3,1
+Gacko,Gacko,Gacko,Gacko,Gacko,3,1
+Glamoč,Glamoč,Glamoč,Glamoč,Glamoč,3,1
+Goražde,Goražde,Goražde,Goražde,Goražde,3,1
+Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,3,1
+Gračanica,Gračanica,Gračanica,Gračanica,Gračanica,3,1
+Gradačac,Gradačac,Gradačac,Gradačac,Gradačac,3,1
+Gradiška,Gradiška,Gradiška,Gradiška,Gradiška,3,1
+Grude,Grude,Grude,Grude,Grude,3,1
+Han Pijesak,Han Pijesak,Han Pijesak,Han Pijesak,Han Pijesak,3,1
+Istočna Ilidža,Istočna Ilidža,Istočna Ilidža,Istočna Ilidža,Istočna Ilidža,3,1
+Istočni Drvar,Istočni Drvar,Istočni Drvar,Istočni Drvar,Istočni Drvar,3,1
+Istočni Mostar,Istočni Mostar,Istočni Mostar,Istočni Mostar,Istočni Mostar,3,1
+Istočni Stari Grad,Istočni Stari Grad,Istočni Stari Grad,Istočni Stari Grad,Istočni Stari Grad,3,1
+Istočno Novo Sarajevo,Istočno Novo Sarajevo,Istočno Novo Sarajevo,Istočno Novo Sarajevo,Istočno Novo Sarajevo,3,1
+Jablanica,Jablanica,Jablanica,Jablanica,Jablanica,3,1
+Jajce,Jajce,Jajce,Jajce,Jajce,3,1
+Jezero,Jezero,Jezero,Jezero,Jezero,3,1
+Kakanj,Kakanj,Kakanj,Kakanj,Kakanj,3,1
+Kalesija,Kalesija,Kalesija,Kalesija,Kalesija,3,1
+Kalinovik,Kalinovik,Kalinovik,Kalinovik,Kalinovik,3,1
+Kiseljak,Kiseljak,Kiseljak,Kiseljak,Kiseljak,3,1
+Kladanj,Kladanj,Kladanj,Kladanj,Kladanj,3,1
+Ključ,Ključ,Ključ,Ključ,Ključ,3,1
+Kneževo,Kneževo,Kneževo,Kneževo,Kneževo,3,1
+Konjic,Konjic,Konjic,Konjic,Konjic,3,1
+Kostajnica,Kostajnica,Kostajnica,Kostajnica,Kostajnica,3,1
+Kotor Varoš,Kotor Varoš,Kotor Varoš,Kotor Varoš,Kotor Varoš,3,1
+Kozarska Dubica,Kozarska Dubica,Kozarska Dubica,Kozarska Dubica,Kozarska Dubica,3,1
+Kreševo,Kreševo,Kreševo,Kreševo,Kreševo,3,1
+Krupa Na Uni,Krupa Na Uni,Krupa Na Uni,Krupa Na Uni,Krupa Na Uni,3,1
+Kupres - FBiH,Kupres - FBiH,Kupres - FBiH,Kupres - FBiH,Kupres - FBiH,3,1
+Kupres - RS,Kupres - RS,Kupres - RS,Kupres - RS,Kupres - RS,3,1
+Laktaši,Laktaši,Laktaši,Laktaši,Laktaši,3,1
+Livno,Livno,Livno,Livno,Livno,3,1
+Ljubinje,Ljubinje,Ljubinje,Ljubinje,Ljubinje,3,1
+Ljubuški,Ljubuški,Ljubuški,Ljubuški,Ljubuški,3,1
+Lopare,Lopare,Lopare,Lopare,Lopare,3,1
+Lukavac,Lukavac,Lukavac,Lukavac,Lukavac,3,1
+Maglaj,Maglaj,Maglaj,Maglaj,Maglaj,3,1
+Milići,Milići,Milići,Milići,Milići,3,1
+Modriča,Modriča,Modriča,Modriča,Modriča,3,1
+Mostar,Mostar,Mostar,Mostar,Mostar,3,1
+Mrkonjić Grad,Mrkonjić Grad,Mrkonjić Grad,Mrkonjić Grad,Mrkonjić Grad,3,1
+Neum,Neum,Neum,Neum,Neum,3,1
+Nevesinje,Nevesinje,Nevesinje,Nevesinje,Nevesinje,3,1
+Novi Grad,Novi Grad,Novi Grad,Novi Grad,Novi Grad,3,1
+Novi Travnik,Novi Travnik,Novi Travnik,Novi Travnik,Novi Travnik,3,1
+Novo Goražde,Novo Goražde,Novo Goražde,Novo Goražde,Novo Goražde,3,1
+Odžak,Odžak,Odžak,Odžak,Odžak,3,1
+Olovo,Olovo,Olovo,Olovo,Olovo,3,1
+Orašje,Orašje,Orašje,Orašje,Orašje,3,1
+Osmaci,Osmaci,Osmaci,Osmaci,Osmaci,3,1
+Oštra Luka,Oštra Luka,Oštra Luka,Oštra Luka,Oštra Luka,3,1
+Pale - FBiH,Pale - FBiH,Pale - FBiH,Pale - FBiH,Pale - FBiH,3,1
+Pale - RS,Pale - RS,Pale - RS,Pale - RS,Pale - RS,3,1
+Pelagićevo,Pelagićevo,Pelagićevo,Pelagićevo,Pelagićevo,3,1
+Petrovac,Petrovac,Petrovac,Petrovac,Petrovac,3,1
+Petrovo,Petrovo,Petrovo,Petrovo,Petrovo,3,1
+Posušje,Posušje,Posušje,Posušje,Posušje,3,1
+Prijedor,Prijedor,Prijedor,Prijedor,Prijedor,3,1
+Prnjavor,Prnjavor,Prnjavor,Prnjavor,Prnjavor,3,1
+Prozor,Prozor,Prozor,Prozor,Prozor,3,1
+Ravno,Ravno,Ravno,Ravno,Ravno,3,1
+Ribnik,Ribnik,Ribnik,Ribnik,Ribnik,3,1
+Rogatica,Rogatica,Rogatica,Rogatica,Rogatica,3,1
+Rudo,Rudo,Rudo,Rudo,Rudo,3,1
+Šamac,Šamac,Šamac,Šamac,Šamac,3,1
+Sanski Most,Sanski Most,Sanski Most,Sanski Most,Sanski Most,3,1
+Sapna,Sapna,Sapna,Sapna,Sapna,3,1
+Sarajevo - Centar,Sarajevo - Centar,Sarajevo - Centar,Sarajevo - Centar,Sarajevo - Centar,3,1
+Sarajevo - Hadžići,Sarajevo - Hadžići,Sarajevo - Hadžići,Sarajevo - Hadžići,Sarajevo - Hadžići,3,1
+Sarajevo - Ilidža,Sarajevo - Ilidža,Sarajevo - Ilidža,Sarajevo - Ilidža,Sarajevo - Ilidža,3,1
+Sarajevo - Ilijaš,Sarajevo - Ilijaš,Sarajevo - Ilijaš,Sarajevo - Ilijaš,Sarajevo - Ilijaš,3,1
+Sarajevo - Novi Grad,Sarajevo - Novi Grad,Sarajevo - Novi Grad,Sarajevo - Novi Grad,Sarajevo - Novi Grad,3,1
+Sarajevo - Novo Sarajevo,Sarajevo - Novo Sarajevo,Sarajevo - Novo Sarajevo,Sarajevo - Novo Sarajevo,Sarajevo - Novo Sarajevo,3,1
+Sarajevo - Stari Grad,Sarajevo - Stari Grad,Sarajevo - Stari Grad,Sarajevo - Stari Grad,Sarajevo - Stari Grad,3,1
+Sarajevo - Vogošća,Sarajevo - Vogošća,Sarajevo - Vogošća,Sarajevo - Vogošća,Sarajevo - Vogošća,3,1
+Šekovići,Šekovići,Šekovići,Šekovići,Šekovići,3,1
+Šipovo,Šipovo,Šipovo,Šipovo,Šipovo,3,1
+Široki Brijeg,Široki Brijeg,Široki Brijeg,Široki Brijeg,Široki Brijeg,3,1
+Sokolac,Sokolac,Sokolac,Sokolac,Sokolac,3,1
+Srbac,Srbac,Srbac,Srbac,Srbac,3,1
+Srebrenica,Srebrenica,Srebrenica,Srebrenica,Srebrenica,3,1
+Srebrenik,Srebrenik,Srebrenik,Srebrenik,Srebrenik,3,1
+Stolac,Stolac,Stolac,Stolac,Stolac,3,1
+Teočak,Teočak,Teočak,Teočak,Teočak,3,1
+Tešanj,Tešanj,Tešanj,Tešanj,Tešanj,3,1
+Teslić,Teslić,Teslić,Teslić,Teslić,3,1
+Tomislavgrad,Tomislavgrad,Tomislavgrad,Tomislavgrad,Tomislavgrad,3,1
+Travnik,Travnik,Travnik,Travnik,Travnik,3,1
+Trebinje,Trebinje,Trebinje,Trebinje,Trebinje,3,1
+Trnovo - FBiH,Trnovo - FBiH,Trnovo - FBiH,Trnovo - FBiH,Trnovo - FBiH,3,1
+Trnovo - RS,Trnovo - RS,Trnovo - RS,Trnovo - RS,Trnovo - RS,3,1
+Tuzla,Tuzla,Tuzla,Tuzla,Tuzla,3,1
+Ugljevik,Ugljevik,Ugljevik,Ugljevik,Ugljevik,3,1
+Usora,Usora,Usora,Usora,Usora,3,1
+Vareš,Vareš,Vareš,Vareš,Vareš,3,1
+Velika Kladuša,Velika Kladuša,Velika Kladuša,Velika Kladuša,Velika Kladuša,3,1
+Višegrad,Višegrad,Višegrad,Višegrad,Višegrad,3,1
+Visoko,Visoko,Visoko,Visoko,Visoko,3,1
+Vitez,Vitez,Vitez,Vitez,Vitez,3,1
+Vlasenica,Vlasenica,Vlasenica,Vlasenica,Vlasenica,3,1
+Vukosavlje,Vukosavlje,Vukosavlje,Vukosavlje,Vukosavlje,3,1
+Zavidovići,Zavidovići,Zavidovići,Zavidovići,Zavidovići,3,1
+Zenica,Zenica,Zenica,Zenica,Zenica,3,1
+Žepče,Žepče,Žepče,Žepče,Žepče,3,1
+Živinice,Živinice,Živinice,Živinice,Živinice,3,1
+Zvornik,Zvornik,Zvornik,Zvornik,Zvornik,3,1
