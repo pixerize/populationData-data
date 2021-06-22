@@ -23,19 +23,18 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2006,_%,50 - 64,_T,inactive_as_of_working,63.4
 2006,_%,65+,_T,inactive_as_of_working,94.3
 2006,_%,15 - 64,_T,inactive_as_of_working,48.7
-2006,_%,15+,M,inactive_as_of_working,48.7
-2006,_%,15 - 24,M,inactive_as_of_working,43.8
-2006,_%,25 - 49,M,inactive_as_of_working,59.9
-2006,_%,50 - 64,M,inactive_as_of_working,18.1
-2006,_%,65+,M,inactive_as_of_working,46.6
-2006,_%,15 - 64,M,inactive_as_of_working,92.0
-2006,_%,15+,F,inactive_as_of_working,34.5
-2006,_%,15 - 24,F,inactive_as_of_working,69.2
-2006,_%,25 - 49,F,inactive_as_of_working,73.7
-2006,_%,50 - 64,F,inactive_as_of_working,50.0
-2006,_%,65+,F,inactive_as_of_working,77.9
-2006,_%,15 - 64,F,inactive_as_of_working,96.0
-2006,_%,15+,F,inactive_as_of_working,62.6
+2006,_%,15+,M,inactive_as_of_working,43.8
+2006,_%,15 - 24,M,inactive_as_of_working,59.9
+2006,_%,25 - 49,M,inactive_as_of_working,18.1
+2006,_%,50 - 64,M,inactive_as_of_working,46.6
+2006,_%,65+,M,inactive_as_of_working,92.0
+2006,_%,15 - 64,M,inactive_as_of_working,34.5
+2006,_%,15+,F,inactive_as_of_working,69.2
+2006,_%,15 - 24,F,inactive_as_of_working,73.7
+2006,_%,25 - 49,F,inactive_as_of_working,50.0
+2006,_%,50 - 64,F,inactive_as_of_working,77.9
+2006,_%,65+,F,inactive_as_of_working,96.0
+2006,_%,15 - 64,F,inactive_as_of_working,62.6
 2007,_%,15+,_T,unemployed_as_of_labour,29.0
 2007,_%,15 - 24,_T,unemployed_as_of_labour,58.4
 2007,_%,25 - 49,_T,unemployed_as_of_labour,27.1
@@ -204,18 +203,18 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2011,_%,50 - 64,_T,inactive_as_of_working,58.8
 2011,_%,65+,_T,inactive_as_of_working,96.4
 2011,_%,15 - 64,_T,inactive_as_of_working,46.2
-2011,_%,15+,M,inactive_as_of_working,56.0
-2011,_%,15 - 24,M,inactive_as_of_working,68.6
-2011,_%,25 - 49,M,inactive_as_of_working,29.4
-2011,_%,50 - 64,M,inactive_as_of_working,58.8
-2011,_%,65+,M,inactive_as_of_working,96.4
-2011,_%,15 - 64,M,inactive_as_of_working,46.2
-2011,_%,15+,F,inactive_as_of_working,56.0
-2011,_%,15 - 24,F,inactive_as_of_working,68.6
-2011,_%,25 - 49,F,inactive_as_of_working,29.4
-2011,_%,50 - 64,F,inactive_as_of_working,58.8
-2011,_%,65+,F,inactive_as_of_working,96.4
-2011,_%,15 - 64,F,inactive_as_of_working,46.2
+2011,_%,15+,M,inactive_as_of_working,44.1
+2011,_%,15 - 24,M,inactive_as_of_working,61.2
+2011,_%,25 - 49,M,inactive_as_of_working,15.5
+2011,_%,50 - 64,M,inactive_as_of_working,45.9
+2011,_%,65+,M,inactive_as_of_working,95.1
+2011,_%,15 - 64,M,inactive_as_of_working,33.7
+2011,_%,15+,F,inactive_as_of_working,67.2
+2011,_%,15 - 24,F,inactive_as_of_working,76.7
+2011,_%,25 - 49,F,inactive_as_of_working,44.1
+2011,_%,50 - 64,F,inactive_as_of_working,70.2
+2011,_%,65+,F,inactive_as_of_working,97.3
+2011,_%,15 - 64,F,inactive_as_of_working,58.8
 2012,_%,15+,_T,unemployed_as_of_labour,28.0
 2012,_%,15 - 24,_T,unemployed_as_of_labour,63.1
 2012,_%,25 - 49,_T,unemployed_as_of_labour,27.2
