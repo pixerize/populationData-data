@@ -23,19 +23,18 @@ Year,UNIT_MEASURE,Age,Sex,Activity rates,Value
 2006,% of total,50 - 64,Both sexes,Inactive as % of working age population,63.4
 2006,% of total,65+,Both sexes,Inactive as % of working age population,94.3
 2006,% of total,15 - 64,Both sexes,Inactive as % of working age population,48.7
-2006,% of total,15+,M,Inactive as % of working age population,48.7
-2006,% of total,15 - 24,M,Inactive as % of working age population,43.8
-2006,% of total,25 - 49,M,Inactive as % of working age population,59.9
-2006,% of total,50 - 64,M,Inactive as % of working age population,18.1
-2006,% of total,65+,M,Inactive as % of working age population,46.6
-2006,% of total,15 - 64,M,Inactive as % of working age population,92.0
-2006,% of total,15+,F,Inactive as % of working age population,34.5
-2006,% of total,15 - 24,F,Inactive as % of working age population,69.2
-2006,% of total,25 - 49,F,Inactive as % of working age population,73.7
-2006,% of total,50 - 64,F,Inactive as % of working age population,50.0
-2006,% of total,65+,F,Inactive as % of working age population,77.9
-2006,% of total,15 - 64,F,Inactive as % of working age population,96.0
-2006,% of total,15+,F,Inactive as % of working age population,62.6
+2006,% of total,15+,M,Inactive as % of working age population,43.8
+2006,% of total,15 - 24,M,Inactive as % of working age population,59.9
+2006,% of total,25 - 49,M,Inactive as % of working age population,18.1
+2006,% of total,50 - 64,M,Inactive as % of working age population,46.6
+2006,% of total,65+,M,Inactive as % of working age population,92.0
+2006,% of total,15 - 64,M,Inactive as % of working age population,34.5
+2006,% of total,15+,F,Inactive as % of working age population,69.2
+2006,% of total,15 - 24,F,Inactive as % of working age population,73.7
+2006,% of total,25 - 49,F,Inactive as % of working age population,50.0
+2006,% of total,50 - 64,F,Inactive as % of working age population,77.9
+2006,% of total,65+,F,Inactive as % of working age population,96.0
+2006,% of total,15 - 64,F,Inactive as % of working age population,62.6
 2007,% of total,15+,Both sexes,Unemployed as % of labour force,29.0
 2007,% of total,15 - 24,Both sexes,Unemployed as % of labour force,58.4
 2007,% of total,25 - 49,Both sexes,Unemployed as % of labour force,27.1
@@ -204,18 +203,18 @@ Year,UNIT_MEASURE,Age,Sex,Activity rates,Value
 2011,% of total,50 - 64,Both sexes,Inactive as % of working age population,58.8
 2011,% of total,65+,Both sexes,Inactive as % of working age population,96.4
 2011,% of total,15 - 64,Both sexes,Inactive as % of working age population,46.2
-2011,% of total,15+,M,Inactive as % of working age population,56.0
-2011,% of total,15 - 24,M,Inactive as % of working age population,68.6
-2011,% of total,25 - 49,M,Inactive as % of working age population,29.4
-2011,% of total,50 - 64,M,Inactive as % of working age population,58.8
-2011,% of total,65+,M,Inactive as % of working age population,96.4
-2011,% of total,15 - 64,M,Inactive as % of working age population,46.2
-2011,% of total,15+,F,Inactive as % of working age population,56.0
-2011,% of total,15 - 24,F,Inactive as % of working age population,68.6
-2011,% of total,25 - 49,F,Inactive as % of working age population,29.4
-2011,% of total,50 - 64,F,Inactive as % of working age population,58.8
-2011,% of total,65+,F,Inactive as % of working age population,96.4
-2011,% of total,15 - 64,F,Inactive as % of working age population,46.2
+2011,% of total,15+,M,Inactive as % of working age population,44.1
+2011,% of total,15 - 24,M,Inactive as % of working age population,61.2
+2011,% of total,25 - 49,M,Inactive as % of working age population,15.5
+2011,% of total,50 - 64,M,Inactive as % of working age population,45.9
+2011,% of total,65+,M,Inactive as % of working age population,95.1
+2011,% of total,15 - 64,M,Inactive as % of working age population,33.7
+2011,% of total,15+,F,Inactive as % of working age population,67.2
+2011,% of total,15 - 24,F,Inactive as % of working age population,76.7
+2011,% of total,25 - 49,F,Inactive as % of working age population,44.1
+2011,% of total,50 - 64,F,Inactive as % of working age population,70.2
+2011,% of total,65+,F,Inactive as % of working age population,97.3
+2011,% of total,15 - 64,F,Inactive as % of working age population,58.8
 2012,% of total,15+,Both sexes,Unemployed as % of labour force,28.0
 2012,% of total,15 - 24,Both sexes,Unemployed as % of labour force,63.1
 2012,% of total,25 - 49,Both sexes,Unemployed as % of labour force,27.2
