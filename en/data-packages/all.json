@@ -1386,7 +1386,7 @@
           }
         ]
       },
-      "title": "Number of population enrolled in formal educational institutions in Bosnia and Herzegovina by sex and type of educational institution"
+      "title": "Population enrolled in formal educational institutions by sex and type of educational institution"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1479,7 +1479,7 @@
           }
         ]
       },
-      "title": "Number of population over 15 years of age in Bosnia and Herzegovina by educational attainment and sex"
+      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "1-24-1/data.csv",
@@ -2083,7 +2083,7 @@
           }
         ]
       },
-      "title": "Number of population over 15 years of age in Bosnia and Herzegovina by educational attainment and sex"
+      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "1-18-1/data.csv",
@@ -2721,7 +2721,7 @@
           }
         ]
       },
-      "title": "Number of population 15-24 years of age in Bosnia and Herzegovina not in employment, education or training (NEET) by sex"
+      "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
     },
     {
       "path": "1-1-5/data.csv",
@@ -2916,7 +2916,7 @@
           }
         ]
       },
-      "title": "Number of illiterate population over 10 years of age in Bosnia and Herzegovina by age groups and sex"
+      "title": "Number of illiterate population over 10 years of age by age groups and sex"
     },
     {
       "path": "1-2-1/data.csv",
@@ -3041,7 +3041,7 @@
           }
         ]
       },
-      "title": "Number of population 25-64 years of age enrolled in non-formal, adult education in Bosnia and Herzegovina by age groups and sex"
+      "title": "Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex"
     },
     {
       "path": "1-14-1/data.csv",
