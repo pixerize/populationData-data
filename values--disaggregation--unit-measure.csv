@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _%,% of total,% od ukupnog broja,_%,_%,779,14
 %,%,%,%,%,4,1
+_%_labour,% of labour force,_%_labour,_%_labour,_%_labour,1,1
 MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,2,2
 NUMBER,Number,Broj,Број,Broj,10244,29
 old_age_support_ratio,Old-age support ratio,old_age_support_ratio,old_age_support_ratio,Old-age support ratio,12,1
