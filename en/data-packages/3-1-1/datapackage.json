@@ -13,7 +13,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -36,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-1",
-  "title": "Population over 15 years of age by educational attainment and sex"
+  "title": "Work in progress"
 }

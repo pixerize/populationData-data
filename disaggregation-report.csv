@@ -10,7 +10,7 @@ FORM_OF_VIOLENCE,Form of violence,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,FORM_OF_VIOL
 Municipality,Municipality,Municipality,Municipality,Municipality,1,142
 POVERTY_RATE,Poverty Rate,POVERTY_RATE,POVERTY_RATE,POVERTY_RATE,2,4
 QUANTITY,Quantity,QUANTITY,QUANTITY,QUANTITY,3,3
-SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,1,2
-SEX,Sex,Spol,Пол,Spol,32,3
+SERIES,SERIES,SDG Varijable,SDG Варијабле,SDG Varijable,1,2
+SEX,SEX,Spol,Пол,Spol,32,3
 SURVEY_IMPLEMENTED_BY,Survey implemented by,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,1,2
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,42,10
+UNIT_MEASURE,UNIT_MEASURE,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,42,10

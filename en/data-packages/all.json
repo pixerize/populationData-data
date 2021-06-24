@@ -140,7 +140,7 @@
           }
         ]
       },
-      "title": "GDP per foreign currencies and type (EUR)"
+      "title": "Population enrolled in formal educational institutions by sex and type of educational institution"
     },
     {
       "path": "6-1-2/data.csv",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
+      "title": "GDP per foreign currencies and type (EUR)"
     },
     {
       "path": "6-2-1/data.csv",
@@ -246,7 +246,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water"
+      "title": "Percentage of households living in relative poverty"
     },
     {
       "path": "1-4-2/data.csv",
@@ -480,7 +480,7 @@
           }
         ]
       },
-      "title": "Prevalence of undernourishment"
+      "title": "Projected population by age and sex"
     },
     {
       "path": "1-1-6/data.csv",
@@ -804,7 +804,7 @@
           }
         ]
       },
-      "title": "Number of illiterate population over 10 years of age by age groups and sex"
+      "title": "global_indicators.4-1-4-title"
     },
     {
       "path": "5-1-3/data.csv",
@@ -860,7 +860,7 @@
           }
         ]
       },
-      "title": "GDP per foreign currencies and type (USD)"
+      "title": "Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex"
     },
     {
       "path": "6-3-2/data.csv",
@@ -929,7 +929,7 @@
           }
         ]
       },
-      "title": "Proportion of bodies of water with good ambient water quality"
+      "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1054,7 +1054,7 @@
           }
         ]
       },
-      "title": "Proportion of wastewater safely treated"
+      "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1106,7 +1106,7 @@
           }
         ]
       },
-      "title": "Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)"
+      "title": "GDP per foreign currencies and type (USD)"
     },
     {
       "path": "1-22-1/data.csv",
@@ -1246,7 +1246,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-2-title"
+      "title": "Percentage of population living in relative poverty by sex"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1302,7 +1302,7 @@
           }
         ]
       },
-      "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
+      "title": "GDP (BAM) per type"
     },
     {
       "path": "1-1-4/data.csv",
@@ -1731,7 +1731,7 @@
           }
         ]
       },
-      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+      "title": "Projected population by age groups and sex"
     },
     {
       "path": "3-1-1/data.csv",
@@ -1746,7 +1746,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1765,7 +1765,7 @@
           }
         ]
       },
-      "title": "Population over 15 years of age by educational attainment and sex"
+      "title": "Work in progress"
     },
     {
       "path": "1-24-1/data.csv",
@@ -2076,7 +2076,7 @@
           }
         ]
       },
-      "title": "GDP (BAM) per type"
+      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "1-1-2/data.csv",
@@ -2414,7 +2414,7 @@
           }
         ]
       },
-      "title": "Population over 15 years of age by educational attainment and sex"
+      "title": "Work in progress"
     },
     {
       "path": "6-3-3/data.csv",
@@ -2485,7 +2485,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-3-3-title"
+      "title": "Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)"
     },
     {
       "path": "5-1-5/data.csv",
@@ -2526,7 +2526,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-5-title"
+      "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
     },
     {
       "path": "1-18-1/data.csv",

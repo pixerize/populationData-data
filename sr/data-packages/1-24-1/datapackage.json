@@ -18,18 +18,18 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
