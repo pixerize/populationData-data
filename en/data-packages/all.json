@@ -3,90 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-14-1 /data.csv",
-      "name": "1-14-1 ",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "1-14-1 "
-    },
-    {
       "path": "5-1-2/data.csv",
       "name": "5-1-2",
       "profile": "tabular-data-resource",
@@ -247,6 +163,62 @@
         ]
       },
       "title": "Percentage of households living in relative poverty"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Average age of population by sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -644,90 +616,6 @@
       "title": "Population by age groups and sex"
     },
     {
-      "path": "1-17-1/data.csv",
-      "name": "1-17-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
       "path": "5-1-4/data.csv",
       "name": "5-1-4",
       "profile": "tabular-data-resource",
@@ -861,6 +749,49 @@
         ]
       },
       "title": "Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex"
+    },
+    {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-1-title"
     },
     {
       "path": "6-3-2/data.csv",
@@ -1109,90 +1040,6 @@
       "title": "GDP per foreign currencies and type (USD)"
     },
     {
-      "path": "1-22-1/data.csv",
-      "name": "1-22-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -1305,6 +1152,114 @@
       "title": "GDP (BAM) per type"
     },
     {
+      "path": "1-6-2/data.csv",
+      "name": "1-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "INFANT_MORTALITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "infant_(up_to_12_months_of_age)_mortality_rate",
+                "number_of_infant_deaths"
+              ]
+            },
+            "title": "INFANT_MORTALITY"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of infant deaths and mortality by sex"
+    },
+    {
+      "path": "1-7-1/data.csv",
+      "name": "1-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Life expectancy at birth by sex"
+    },
+    {
       "path": "1-1-4/data.csv",
       "name": "1-1-4",
       "profile": "tabular-data-resource",
@@ -1394,174 +1349,6 @@
         ]
       },
       "title": "Population by entity, age groups and sex"
-    },
-    {
-      "path": "1-19-1/data.csv",
-      "name": "1-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
-      "path": "1-16-1/data.csv",
-      "name": "1-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
       "path": "1-4-4/data.csv",
@@ -1736,6 +1523,149 @@
       "title": "Projected population by age groups and sex"
     },
     {
+      "path": "1-8-3/data.csv",
+      "name": "1-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "DIVORCES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "000_marriages)",
+                "Number"
+              ]
+            },
+            "title": "DIVORCES"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1025",
+                "1031",
+                "1052",
+                "1098",
+                "1106",
+                "1143",
+                "1163",
+                "1174",
+                "1176",
+                "1180",
+                "1201",
+                "1221",
+                "1286",
+                "1321",
+                "1364",
+                "1369",
+                "139",
+                "1402",
+                "1424",
+                "1445",
+                "1502",
+                "1523",
+                "154",
+                "1659",
+                "1673",
+                "1676",
+                "1725",
+                "1763",
+                "1823",
+                "1826",
+                "1835",
+                "187",
+                "191",
+                "1918",
+                "1929",
+                "1964",
+                "199",
+                "1995",
+                "2126",
+                "2272",
+                "2294",
+                "2309",
+                "236",
+                "251",
+                "2609",
+                "2686",
+                "2773",
+                "2790",
+                "289",
+                "295",
+                "2963",
+                "298",
+                "3022",
+                "3091",
+                "311",
+                "317",
+                "378",
+                "455",
+                "517",
+                "526",
+                "58",
+                "596",
+                "637",
+                "655",
+                "708",
+                "721",
+                "734",
+                "738",
+                "744",
+                "80",
+                "805",
+                "82",
+                "830",
+                "848",
+                "85",
+                "857",
+                "878",
+                "886",
+                "91",
+                "920",
+                "933",
+                "938",
+                "94",
+                "96",
+                "963",
+                "966",
+                "985",
+                "994",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of divorces and divorce rate"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -1768,90 +1698,6 @@
         ]
       },
       "title": "Work in progress"
-    },
-    {
-      "path": "1-24-1/data.csv",
-      "name": "1-24-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
       "path": "1-4-3/data.csv",
@@ -1897,8 +1743,8 @@
       "title": "1-4-3"
     },
     {
-      "path": "1-15-1/data.csv",
-      "name": "1-15-1",
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1907,48 +1753,61 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Age"
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Average age of mothers at first birth"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -1956,7 +1815,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes"
+                "F",
+                "M"
               ]
             },
             "title": "Sex"
@@ -1968,7 +1828,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -1978,7 +1838,7 @@
           }
         ]
       },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+      "title": "Average age at first marriage by sex"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2193,8 +2053,8 @@
       "title": "Population by entity, age and sex"
     },
     {
-      "path": "1-23-1/data.csv",
-      "name": "1-23-1",
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2203,48 +2063,18 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Age"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -2252,6 +2082,8 @@
             "constraints": {
               "enum": [
                 "",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -2264,7 +2096,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -2274,7 +2106,7 @@
           }
         ]
       },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+      "title": "Average age at death by sex"
     },
     {
       "path": "4-1-1/data.csv",
@@ -2376,6 +2208,54 @@
         ]
       },
       "title": "Work in progress"
+    },
+    {
+      "path": "1-9-1/data.csv",
+      "name": "1-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2_members",
+                "3_members",
+                "4_members",
+                "5_members",
+                "6_members",
+                "7_members",
+                "8+_members",
+                "single_household",
+                "Total"
+              ]
+            },
+            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of households"
     },
     {
       "path": "6-3-3/data.csv",
@@ -2490,8 +2370,8 @@
       "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
     },
     {
-      "path": "1-18-1/data.csv",
-      "name": "1-18-1",
+      "path": "1-8-1/data.csv",
+      "name": "1-8-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2500,56 +2380,37 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Age"
+            "title": "Administrative area"
+          },
+          {
+            "name": "MARRIAGES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "marriage_rate",
+                "number_of_marriages"
+              ]
+            },
+            "title": "MARRIAGES"
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Both sexes"
+                ""
               ]
             },
             "title": "Sex"
@@ -2561,7 +2422,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -2571,7 +2432,7 @@
           }
         ]
       },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+      "title": "Number of marriages marriage rate"
     },
     {
       "path": "1-1-1/data.csv",
@@ -2790,258 +2651,6 @@
         ]
       },
       "title": "Crude birth rate by entity"
-    },
-    {
-      "path": "1-20-1/data.csv",
-      "name": "1-20-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
-      "path": "1-25-1/data.csv",
-      "name": "1-25-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
-      "path": "1-21-1/data.csv",
-      "name": "1-21-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0 - 14",
-                "0 - 4",
-                "10 - 14",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "5 - 9",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "70 - 74",
-                "75 - 79",
-                "75+",
-                "80 - 84",
-                "85 - 89",
-                "85+",
-                "90 - 94",
-                "95 - 99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
       "path": "1-2-2/data.csv",
@@ -3379,30 +2988,6 @@
       "title": "Vital statistics by state/entity and sex"
     },
     {
-      "path": "1-13-1/data.csv",
-      "name": "1-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -3425,54 +3010,6 @@
         ]
       },
       "title": "Proportion of births attended by skilled health personnel"
-    },
-    {
-      "path": "1-14-1/data.csv",
-      "name": "1-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
-    },
-    {
-      "path": "1-12-1/data.csv",
-      "name": "1-12-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     }
   ]
 }
