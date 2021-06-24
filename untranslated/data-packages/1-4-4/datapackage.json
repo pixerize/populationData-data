@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 - 14",
+                "15 - 19",
+                "16 - 19",
+                "17 - 19",
+                "19 - 19",
+                "21 - 19",
+                "25 - 19",
+                "22 - 19",
+                "23 - 19",
+                "24 - 19",
+                "20 - 19",
+                "30 - 19",
+                "31 - 19",
+                "32 - 19",
+                "33 - 19",
+                "27 - 19",
+                "28 - 19",
+                "29 - 19",
+                "26 - 19",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "MARRIAGE_BIRTH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unknown_marital_status_birth",
+                "total",
+                "in_marriage_birth",
+                "out_of_marriage_birth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FBIH",
+                "BiH",
+                "RS",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-4",
+  "title": "1-4-4"
+}

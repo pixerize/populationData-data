@@ -1297,85 +1297,6 @@
       "title": "global_indicators.1-1-4-title"
     },
     {
-      "path": "1-12-1/data.csv",
-      "name": "1-12-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0 - 4",
-                "0 - 14",
-                "5 - 9",
-                "10 - 14",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "75+",
-                "85+",
-                "70 - 74",
-                "75 - 79",
-                "80 - 84",
-                "85 - 89",
-                "90 - 94",
-                "95 - 99",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "Unknown",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-a-1-title"
-    },
-    {
       "path": "1-19-1/data.csv",
       "name": "1-19-1",
       "profile": "tabular-data-resource",
@@ -1532,6 +1453,86 @@
         ]
       },
       "title": "global_indicators.1-a-1-title"
+    },
+    {
+      "path": "1-4-4/data.csv",
+      "name": "1-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 - 14",
+                "15 - 19",
+                "16 - 19",
+                "17 - 19",
+                "19 - 19",
+                "21 - 19",
+                "25 - 19",
+                "22 - 19",
+                "23 - 19",
+                "24 - 19",
+                "20 - 19",
+                "30 - 19",
+                "31 - 19",
+                "32 - 19",
+                "33 - 19",
+                "27 - 19",
+                "28 - 19",
+                "29 - 19",
+                "26 - 19",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "MARRIAGE_BIRTH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unknown_marital_status_birth",
+                "total",
+                "in_marriage_birth",
+                "out_of_marriage_birth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FBIH",
+                "BiH",
+                "RS",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-4-4"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1724,8 +1725,8 @@
       "title": "global_indicators.1-a-1-title"
     },
     {
-      "path": "1-13-1/data.csv",
-      "name": "1-13-1",
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1742,65 +1743,25 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0 - 4",
-                "0 - 14",
-                "5 - 9",
-                "10 - 14",
-                "15 - 19",
-                "15 - 29",
-                "15 - 49",
-                "15 - 64",
-                "20 - 24",
-                "25 - 29",
-                "30 - 34",
-                "35 - 39",
-                "40 - 44",
-                "45 - 49",
-                "50 - 54",
-                "55 - 59",
-                "60 - 64",
-                "65 - 69",
-                "65+",
-                "75+",
-                "85+",
-                "70 - 74",
-                "75 - 79",
-                "80 - 84",
-                "85 - 89",
-                "90 - 94",
-                "95 - 99",
-                "100 - 104",
-                "100+",
-                "105 - 109",
-                "110 - 114",
-                "115 - 120",
-                "Unknown",
-                "Total",
+                "BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.1-a-1-title"
+      "title": "1-4-3"
     },
     {
       "path": "1-15-1/data.csv",
@@ -3203,6 +3164,28 @@
       "title": "global_indicators.1-2-1-title"
     },
     {
+      "path": "1-13-1/data.csv",
+      "name": "1-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-a-1-title"
+    },
+    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -3227,6 +3210,28 @@
     {
       "path": "1-14-1/data.csv",
       "name": "1-14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-a-1-title"
+    },
+    {
+      "path": "1-12-1/data.csv",
+      "name": "1-12-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",

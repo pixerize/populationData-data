@@ -5,8 +5,6 @@ Indicator,Disaggregation combinations using this value
 #1-1-4,234
 #1-1-5,8094
 #1-1-6,48
-#1-12-1,34
-#1-13-1,34
 #1-14-1 ,34
 #1-15-1,34
 #1-16-1,34
@@ -22,6 +20,8 @@ Indicator,Disaggregation combinations using this value
 #1-25-1,34
 #1-4-1,4
 #1-4-2,10
+#1-4-3,4
+#1-4-4,31
 #2-1-1,244
 #2-1-2,52
 #5-1-1,21

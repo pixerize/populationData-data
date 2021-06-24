@@ -1,0 +1,416 @@
+Year,AGE,MARRIAGE_BIRTH,UNIT_MEASURE,Administrative area,Value
+1997,13 - 14,unknown_marital_status_birth,NUMBER,Federation of BiH,11.0
+1997,15 - 19,unknown_marital_status_birth,NUMBER,Federation of BiH,3128.0
+1997,16 - 19,Total,NUMBER,Federation of BiH,11.0
+1997,17 - 19,Total,NUMBER,Federation of BiH,3128.0
+1997,13 - 14,unknown_marital_status_birth,NUMBER,BiH,11.0
+1997,15 - 19,unknown_marital_status_birth,NUMBER,BiH,3128.0
+1997,16 - 19,Total,NUMBER,BiH,11.0
+1997,17 - 19,Total,NUMBER,BiH,3128.0
+1998,13 - 14,unknown_marital_status_birth,NUMBER,Federation of BiH,2.0
+1998,15 - 19,unknown_marital_status_birth,NUMBER,Federation of BiH,2395.0
+1998,16 - 19,Total,NUMBER,Federation of BiH,2.0
+1998,17 - 19,Total,NUMBER,Federation of BiH,2395.0
+1998,19 - 19,in_marriage_birth,NUMBER,Republika Srpska,567.0
+1998,21 - 19,out_of_marriage_birth,NUMBER,Republika Srpska,229.0
+1998,25 - 19,Total,NUMBER,Republika Srpska,796.0
+1998,19 - 19,in_marriage_birth,NUMBER,BiH,567.0
+1998,21 - 19,out_of_marriage_birth,NUMBER,BiH,229.0
+1998,22 - 19,unknown_marital_status_birth,NUMBER,BiH,2.0
+1998,23 - 19,unknown_marital_status_birth,NUMBER,BiH,2395.0
+1998,24 - 19,Total,NUMBER,BiH,2.0
+1998,25 - 19,Total,NUMBER,BiH,3191.0
+1999,23 - 19,unknown_marital_status_birth,NUMBER,Federation of BiH,2073.0
+1999,25 - 19,Total,NUMBER,Federation of BiH,2073.0
+1999,19 - 19,in_marriage_birth,NUMBER,Republika Srpska,681.0
+1999,20 - 19,out_of_marriage_birth,NUMBER,Republika Srpska,1.0
+1999,21 - 19,out_of_marriage_birth,NUMBER,Republika Srpska,226.0
+1999,24 - 19,Total,NUMBER,Republika Srpska,1.0
+1999,25 - 19,Total,NUMBER,Republika Srpska,907.0
+1999,19 - 19,in_marriage_birth,NUMBER,BiH,681.0
+1999,20 - 19,out_of_marriage_birth,NUMBER,BiH,1.0
+1999,21 - 19,out_of_marriage_birth,NUMBER,BiH,226.0
+1999,23 - 19,unknown_marital_status_birth,NUMBER,BiH,2073.0
+1999,24 - 19,Total,NUMBER,BiH,1.0
+1999,25 - 19,Total,NUMBER,BiH,2980.0
+2000,30 - 19,unknown_marital_status_birth,NUMBER,Federation of BiH,3.0
+2000,31 - 19,unknown_marital_status_birth,NUMBER,Federation of BiH,1806.0
+2000,32 - 19,Total,NUMBER,Federation of BiH,3.0
+2000,33 - 19,Total,NUMBER,Federation of BiH,1806.0
+2000,27 - 19,in_marriage_birth,NUMBER,Republika Srpska,542.0
+2000,28 - 19,out_of_marriage_birth,NUMBER,Republika Srpska,1.0
+2000,29 - 19,out_of_marriage_birth,NUMBER,Republika Srpska,180.0
+2000,32 - 19,Total,NUMBER,Republika Srpska,1.0
+2000,33 - 19,Total,NUMBER,Republika Srpska,722.0
+2000,27 - 19,in_marriage_birth,,BiH,542.0
+2000,28 - 19,out_of_marriage_birth,,BiH,1.0
+2000,29 - 19,out_of_marriage_birth,,BiH,180.0
+2000,30 - 19,unknown_marital_status_birth,,BiH,3.0
+2000,31 - 19,unknown_marital_status_birth,,BiH,1806.0
+2000,32 - 19,Total,,BiH,4.0
+2000,33 - 19,Total,,BiH,2528.0
+2001,30 - 19,unknown_marital_status_birth,,Federation of BiH,13.0
+2001,31 - 19,unknown_marital_status_birth,,Federation of BiH,1679.0
+2001,32 - 19,Total,,Federation of BiH,13.0
+2001,33 - 19,Total,,Federation of BiH,1679.0
+2001,27 - 19,in_marriage_birth,,Republika Srpska,707.0
+2001,28 - 19,out_of_marriage_birth,,Republika Srpska,2.0
+2001,29 - 19,out_of_marriage_birth,,Republika Srpska,231.0
+2001,32 - 19,Total,,Republika Srpska,2.0
+2001,33 - 19,Total,,Republika Srpska,938.0
+2001,27 - 19,in_marriage_birth,,BiH,707.0
+2001,28 - 19,out_of_marriage_birth,,BiH,2.0
+2001,29 - 19,out_of_marriage_birth,,BiH,231.0
+2001,30 - 19,unknown_marital_status_birth,,BiH,13.0
+2001,31 - 19,unknown_marital_status_birth,,BiH,1679.0
+2001,32 - 19,Total,,BiH,15.0
+2001,33 - 19,Total,,BiH,2617.0
+2002,30 - 19,unknown_marital_status_birth,,Federation of BiH,10.0
+2002,31 - 19,unknown_marital_status_birth,,Federation of BiH,1561.0
+2002,32 - 19,Total,,Federation of BiH,10.0
+2002,33 - 19,Total,,Federation of BiH,1561.0
+2002,27 - 19,in_marriage_birth,,Republika Srpska,585.0
+2002,28 - 19,out_of_marriage_birth,,Republika Srpska,4.0
+2002,29 - 19,out_of_marriage_birth,,Republika Srpska,202.0
+2002,32 - 19,Total,,Republika Srpska,4.0
+2002,33 - 19,Total,,Republika Srpska,787.0
+2002,27 - 19,in_marriage_birth,,BiH,585.0
+2002,28 - 19,out_of_marriage_birth,,BiH,4.0
+2002,29 - 19,out_of_marriage_birth,,BiH,202.0
+2002,30 - 19,unknown_marital_status_birth,,BiH,10.0
+2002,31 - 19,unknown_marital_status_birth,,BiH,1561.0
+2002,32 - 19,Total,,BiH,14.0
+2002,33 - 19,Total,,BiH,2348.0
+2003,30 - 19,unknown_marital_status_birth,,Federation of BiH,9.0
+2003,31 - 19,unknown_marital_status_birth,,Federation of BiH,1457.0
+2003,32 - 19,Total,,Federation of BiH,9.0
+2003,33 - 19,Total,,Federation of BiH,1457.0
+2003,27 - 19,in_marriage_birth,,Republika Srpska,459.0
+2003,29 - 19,out_of_marriage_birth,,Republika Srpska,229.0
+2003,33 - 19,Total,,Republika Srpska,688.0
+2003,27 - 19,in_marriage_birth,,BiH,459.0
+2003,29 - 19,out_of_marriage_birth,,BiH,229.0
+2003,30 - 19,unknown_marital_status_birth,,BiH,9.0
+2003,31 - 19,unknown_marital_status_birth,,BiH,1457.0
+2003,32 - 19,Total,,BiH,9.0
+2003,33 - 19,Total,,BiH,2145.0
+2004,30 - 19,unknown_marital_status_birth,,Federation of BiH,7.0
+2004,31 - 19,unknown_marital_status_birth,,Federation of BiH,1396.0
+2004,32 - 19,Total,,Federation of BiH,7.0
+2004,33 - 19,Total,,Federation of BiH,1396.0
+2004,26 - 19,in_marriage_birth,,Republika Srpska,1.0
+2004,27 - 19,in_marriage_birth,,Republika Srpska,477.0
+2004,28 - 19,out_of_marriage_birth,,Republika Srpska,3.0
+2004,29 - 19,out_of_marriage_birth,,Republika Srpska,220.0
+2004,32 - 19,Total,,Republika Srpska,4.0
+2004,33 - 19,Total,,Republika Srpska,697.0
+2004,32 - 19,unknown_marital_status_birth,,Brčko District of BiH,1.0
+2004,33 - 19,unknown_marital_status_birth,,Brčko District of BiH,43.0
+2004,32 - 19,Total,,Brčko District of BiH,1.0
+2004,33 - 19,Total,,Brčko District of BiH,43.0
+2004,26 - 19,in_marriage_birth,,BiH,1.0
+2004,27 - 19,in_marriage_birth,,BiH,477.0
+2004,28 - 19,out_of_marriage_birth,,BiH,3.0
+2004,29 - 19,out_of_marriage_birth,,BiH,220.0
+2004,30 - 19,unknown_marital_status_birth,,BiH,8.0
+2004,31 - 19,unknown_marital_status_birth,,BiH,1439.0
+2004,32 - 19,Total,,BiH,12.0
+2004,33 - 19,Total,,BiH,2136.0
+2005,30 - 19,unknown_marital_status_birth,,Federation of BiH,2.0
+2005,31 - 19,unknown_marital_status_birth,,Federation of BiH,1296.0
+2005,32 - 19,Total,,Federation of BiH,2.0
+2005,33 - 19,Total,,Federation of BiH,1296.0
+2005,27 - 19,in_marriage_birth,,Republika Srpska,409.0
+2005,29 - 19,out_of_marriage_birth,,Republika Srpska,250.0
+2005,32 - 19,Total,,Republika Srpska,3.0
+2005,33 - 19,Total,,Republika Srpska,659.0
+2005,30 - 19,unknown_marital_status_birth,,Brčko District of BiH,1.0
+2005,31 - 19,unknown_marital_status_birth,,Brčko District of BiH,52.0
+2005,32 - 19,Total,,Brčko District of BiH,1.0
+2005,33 - 19,Total,,Brčko District of BiH,52.0
+2005,27 - 19,in_marriage_birth,,BiH,409.0
+2005,28 - 19,out_of_marriage_birth,,BiH,3.0
+2005,29 - 19,out_of_marriage_birth,,BiH,250.0
+2005,30 - 19,unknown_marital_status_birth,,BiH,3.0
+2005,31 - 19,unknown_marital_status_birth,,BiH,1348.0
+2005,32 - 19,Total,,BiH,6.0
+2005,33 - 19,Total,,BiH,2007.0
+2006,30 - 19,unknown_marital_status_birth,,Federation of BiH,4.0
+2006,31 - 19,unknown_marital_status_birth,,Federation of BiH,1399.0
+2006,32 - 19,Total,,Federation of BiH,4.0
+2006,33 - 19,Total,,Federation of BiH,1399.0
+2006,27 - 19,in_marriage_birth,,Republika Srpska,356.0
+2006,28 - 19,out_of_marriage_birth,,Republika Srpska,3.0
+2006,29 - 19,out_of_marriage_birth,,Republika Srpska,230.0
+2006,32 - 19,Total,,Republika Srpska,3.0
+2006,33 - 19,Total,,Republika Srpska,586.0
+2006,30 - 19,unknown_marital_status_birth,,Brčko District of BiH,1.0
+2006,31 - 19,unknown_marital_status_birth,,Brčko District of BiH,57.0
+2006,32 - 19,Total,,Brčko District of BiH,1.0
+2006,33 - 19,Total,,Brčko District of BiH,57.0
+2006,27 - 19,in_marriage_birth,,BiH,356.0
+2006,28 - 19,out_of_marriage_birth,,BiH,3.0
+2006,29 - 19,out_of_marriage_birth,,BiH,230.0
+2006,30 - 19,unknown_marital_status_birth,,BiH,5.0
+2006,31 - 19,unknown_marital_status_birth,,BiH,1456.0
+2006,32 - 19,Total,,BiH,8.0
+2006,33 - 19,Total,,BiH,2042.0
+2007,30 - 19,unknown_marital_status_birth,,Federation of BiH,2.0
+2007,31 - 19,unknown_marital_status_birth,,Federation of BiH,1357.0
+2007,32 - 19,Total,,Federation of BiH,2.0
+2007,33 - 19,Total,,Federation of BiH,1357.0
+2007,27 - 19,in_marriage_birth,,Republika Srpska,362.0
+2007,28 - 19,out_of_marriage_birth,,Republika Srpska,3.0
+2007,29 - 19,out_of_marriage_birth,,Republika Srpska,195.0
+2007,32 - 19,Total,,Republika Srpska,3.0
+2007,33 - 19,Total,,Republika Srpska,557.0
+2007,30 - 19,unknown_marital_status_birth,,Brčko District of BiH,2.0
+2007,31 - 19,unknown_marital_status_birth,,Brčko District of BiH,57.0
+2007,32 - 19,Total,,Brčko District of BiH,2.0
+2007,33 - 19,Total,,Brčko District of BiH,57.0
+2007,27 - 19,in_marriage_birth,,BiH,362.0
+2007,28 - 19,out_of_marriage_birth,,BiH,3.0
+2007,29 - 19,out_of_marriage_birth,,BiH,195.0
+2007,30 - 19,unknown_marital_status_birth,,BiH,4.0
+2007,31 - 19,unknown_marital_status_birth,,BiH,1414.0
+2007,32 - 19,Total,,BiH,7.0
+2007,33 - 19,Total,,BiH,1971.0
+2008,30 - 19,unknown_marital_status_birth,,Federation of BiH,2.0
+2008,31 - 19,unknown_marital_status_birth,,Federation of BiH,1507.0
+2008,32 - 19,Total,,Federation of BiH,2.0
+2008,33 - 19,Total,,Federation of BiH,1507.0
+2008,27 - 19,in_marriage_birth,,Republika Srpska,327.0
+2008,28 - 19,out_of_marriage_birth,,Republika Srpska,4.0
+2008,29 - 19,out_of_marriage_birth,,Republika Srpska,209.0
+2008,32 - 19,Total,,Republika Srpska,4.0
+2008,33 - 19,Total,,Republika Srpska,536.0
+2008,32 - 19,Total,,Brčko District of BiH,7.0
+2008,33 - 19,Total,,Brčko District of BiH,53.0
+2008,26 - 19,in_marriage_birth,,BiH,6.0
+2008,27 - 19,in_marriage_birth,,BiH,361.0
+2008,28 - 19,out_of_marriage_birth,,BiH,5.0
+2008,29 - 19,out_of_marriage_birth,,BiH,228.0
+2008,30 - 19,unknown_marital_status_birth,,BiH,2.0
+2008,31 - 19,unknown_marital_status_birth,,BiH,1507.0
+2008,32 - 19,Total,,BiH,13.0
+2008,33 - 19,Total,,BiH,2096.0
+2009,30 - 19,unknown_marital_status_birth,,Federation of BiH,4.0
+2009,31 - 19,unknown_marital_status_birth,,Federation of BiH,1411.0
+2009,32 - 19,Total,,Federation of BiH,4.0
+2009,33 - 19,Total,,Federation of BiH,1411.0
+2009,27 - 19,in_marriage_birth,,Republika Srpska,296.0
+2009,28 - 19,out_of_marriage_birth,,Republika Srpska,3.0
+2009,29 - 19,out_of_marriage_birth,,Republika Srpska,203.0
+2009,32 - 19,Total,,Republika Srpska,3.0
+2009,33 - 19,Total,,Republika Srpska,499.0
+2009,26 - 19,in_marriage_birth,,Brčko District of BiH,5.0
+2009,27 - 19,in_marriage_birth,,Brčko District of BiH,53.0
+2009,29 - 19,out_of_marriage_birth,,Brčko District of BiH,5.0
+2009,32 - 19,Total,,Brčko District of BiH,5.0
+2009,33 - 19,Total,,Brčko District of BiH,58.0
+2009,26 - 19,in_marriage_birth,,BiH,5.0
+2009,27 - 19,in_marriage_birth,,BiH,349.0
+2009,28 - 19,out_of_marriage_birth,,BiH,3.0
+2009,29 - 19,out_of_marriage_birth,,BiH,208.0
+2009,30 - 19,unknown_marital_status_birth,,BiH,4.0
+2009,31 - 19,unknown_marital_status_birth,,BiH,1411.0
+2009,32 - 19,Total,,BiH,12.0
+2009,33 - 19,Total,,BiH,1968.0
+2010,30 - 19,unknown_marital_status_birth,,Federation of BiH,5.0
+2010,31 - 19,unknown_marital_status_birth,,Federation of BiH,1285.0
+2010,32 - 19,Total,,Federation of BiH,5.0
+2010,33 - 19,Total,,Federation of BiH,1285.0
+2010,27 - 19,in_marriage_birth,,Republika Srpska,252.0
+2010,29 - 19,out_of_marriage_birth,,Republika Srpska,179.0
+2010,31 - 19,unknown_marital_status_birth,,Republika Srpska,5.0
+2010,33 - 19,Total,,Republika Srpska,436.0
+2010,26 - 19,in_marriage_birth,,Brčko District of BiH,2.0
+2010,27 - 19,in_marriage_birth,,Brčko District of BiH,43.0
+2010,28 - 19,out_of_marriage_birth,,Brčko District of BiH,1.0
+2010,29 - 19,out_of_marriage_birth,,Brčko District of BiH,21.0
+2010,32 - 19,Total,,Brčko District of BiH,3.0
+2010,33 - 19,Total,,Brčko District of BiH,64.0
+2010,26 - 19,in_marriage_birth,,BiH,2.0
+2010,27 - 19,in_marriage_birth,,BiH,295.0
+2010,28 - 19,out_of_marriage_birth,,BiH,1.0
+2010,29 - 19,out_of_marriage_birth,,BiH,200.0
+2010,30 - 19,unknown_marital_status_birth,,BiH,5.0
+2010,31 - 19,unknown_marital_status_birth,,BiH,1290.0
+2010,32 - 19,Total,,BiH,8.0
+2010,33 - 19,Total,,BiH,1785.0
+2011,30 - 19,unknown_marital_status_birth,,Federation of BiH,5.0
+2011,31 - 19,unknown_marital_status_birth,,Federation of BiH,1136.0
+2011,32 - 19,Total,,Federation of BiH,5.0
+2011,33 - 19,Total,,Federation of BiH,1136.0
+2011,27 - 19,in_marriage_birth,,Republika Srpska,238.0
+2011,29 - 19,out_of_marriage_birth,,Republika Srpska,169.0
+2011,33 - 19,Total,,Republika Srpska,407.0
+2011,30 - 19,unknown_marital_status_birth,,Brčko District of BiH,4.0
+2011,31 - 19,unknown_marital_status_birth,,Brčko District of BiH,71.0
+2011,32 - 19,Total,,Brčko District of BiH,4.0
+2011,33 - 19,Total,,Brčko District of BiH,71.0
+2011,27 - 19,in_marriage_birth,,BiH,238.0
+2011,29 - 19,out_of_marriage_birth,,BiH,169.0
+2011,30 - 19,unknown_marital_status_birth,,BiH,9.0
+2011,31 - 19,unknown_marital_status_birth,,BiH,1207.0
+2011,32 - 19,Total,,BiH,9.0
+2011,33 - 19,Total,,BiH,1614.0
+2012,27 - 19,in_marriage_birth,,Federation of BiH,681.0
+2012,28 - 19,out_of_marriage_birth,,Federation of BiH,2.0
+2012,29 - 19,out_of_marriage_birth,,Federation of BiH,359.0
+2012,32 - 19,Total,,Federation of BiH,2.0
+2012,33 - 19,Total,,Federation of BiH,1040.0
+2012,27 - 19,in_marriage_birth,,Republika Srpska,240.0
+2012,28 - 19,out_of_marriage_birth,,Republika Srpska,1.0
+2012,29 - 19,out_of_marriage_birth,,Republika Srpska,211.0
+2012,31 - 19,unknown_marital_status_birth,,Republika Srpska,1.0
+2012,32 - 19,Total,,Republika Srpska,1.0
+2012,33 - 19,Total,,Republika Srpska,452.0
+2012,26 - 19,in_marriage_birth,,Brčko District of BiH,1.0
+2012,27 - 19,in_marriage_birth,,Brčko District of BiH,22.0
+2012,28 - 19,out_of_marriage_birth,,Brčko District of BiH,1.0
+2012,29 - 19,out_of_marriage_birth,,Brčko District of BiH,32.0
+2012,32 - 19,Total,,Brčko District of BiH,2.0
+2012,33 - 19,Total,,Brčko District of BiH,54.0
+2012,26 - 19,in_marriage_birth,,BiH,1.0
+2012,27 - 19,in_marriage_birth,,BiH,943.0
+2012,28 - 19,out_of_marriage_birth,,BiH,4.0
+2012,29 - 19,out_of_marriage_birth,,BiH,602.0
+2012,31 - 19,unknown_marital_status_birth,,BiH,1.0
+2012,32 - 19,Total,,BiH,5.0
+2012,33 - 19,Total,,BiH,1546.0
+2013,27 - 19,in_marriage_birth,,Federation of BiH,592.0
+2013,28 - 19,out_of_marriage_birth,,Federation of BiH,4.0
+2013,29 - 19,out_of_marriage_birth,,Federation of BiH,358.0
+2013,32 - 19,Total,,Federation of BiH,4.0
+2013,33 - 19,Total,,Federation of BiH,950.0
+2013,27 - 19,in_marriage_birth,,Republika Srpska,190.0
+2013,29 - 19,out_of_marriage_birth,,Republika Srpska,186.0
+2013,33 - 19,Total,,Republika Srpska,376.0
+2013,27 - 19,in_marriage_birth,,Brčko District of BiH,36.0
+2013,29 - 19,out_of_marriage_birth,,Brčko District of BiH,20.0
+2013,32 - 19,Total,,Brčko District of BiH,1.0
+2013,33 - 19,Total,,Brčko District of BiH,56.0
+2013,27 - 19,in_marriage_birth,,BiH,818.0
+2013,28 - 19,out_of_marriage_birth,,BiH,5.0
+2013,29 - 19,out_of_marriage_birth,,BiH,564.0
+2013,32 - 19,Total,,BiH,5.0
+2013,33 - 19,Total,,BiH,1382.0
+2014,27 - 19,in_marriage_birth,,Federation of BiH,596.0
+2014,28 - 19,out_of_marriage_birth,,Federation of BiH,3.0
+2014,29 - 19,out_of_marriage_birth,,Federation of BiH,336.0
+2014,32 - 19,Total,,Federation of BiH,3.0
+2014,33 - 19,Total,,Federation of BiH,932.0
+2014,27 - 19,in_marriage_birth,,Republika Srpska,207.0
+2014,29 - 19,out_of_marriage_birth,,Republika Srpska,155.0
+2014,33 - 19,Total,,Republika Srpska,362.0
+2014,27 - 19,in_marriage_birth,,Brčko District of BiH,35.0
+2014,28 - 19,out_of_marriage_birth,,Brčko District of BiH,1.0
+2014,29 - 19,out_of_marriage_birth,,Brčko District of BiH,13.0
+2014,32 - 19,Total,,Brčko District of BiH,1.0
+2014,33 - 19,Total,,Brčko District of BiH,48.0
+2014,27 - 19,in_marriage_birth,,BiH,838.0
+2014,28 - 19,out_of_marriage_birth,,BiH,4.0
+2014,29 - 19,out_of_marriage_birth,,BiH,504.0
+2014,32 - 19,Total,,BiH,4.0
+2014,33 - 19,Total,,BiH,1342.0
+2015,27 - 19,in_marriage_birth,,Federation of BiH,611.0
+2015,28 - 19,out_of_marriage_birth,,Federation of BiH,3.0
+2015,29 - 19,out_of_marriage_birth,,Federation of BiH,337.0
+2015,32 - 19,Total,,Federation of BiH,3.0
+2015,33 - 19,Total,,Federation of BiH,948.0
+2015,27 - 19,in_marriage_birth,,Republika Srpska,171.0
+2015,28 - 19,out_of_marriage_birth,,Republika Srpska,1.0
+2015,29 - 19,out_of_marriage_birth,,Republika Srpska,140.0
+2015,32 - 19,Total,,Republika Srpska,1.0
+2015,33 - 19,Total,,Republika Srpska,311.0
+2015,26 - 19,in_marriage_birth,,Brčko District of BiH,1.0
+2015,27 - 19,in_marriage_birth,,Brčko District of BiH,50.0
+2015,29 - 19,out_of_marriage_birth,,Brčko District of BiH,5.0
+2015,32 - 19,Total,,Brčko District of BiH,1.0
+2015,33 - 19,Total,,Brčko District of BiH,55.0
+2015,26 - 19,in_marriage_birth,,BiH,1.0
+2015,27 - 19,in_marriage_birth,,BiH,832.0
+2015,28 - 19,out_of_marriage_birth,,BiH,4.0
+2015,29 - 19,out_of_marriage_birth,,BiH,482.0
+2015,32 - 19,Total,,BiH,5.0
+2015,33 - 19,Total,,BiH,1314.0
+2016,27 - 19,in_marriage_birth,,Federation of BiH,563.0
+2016,28 - 19,out_of_marriage_birth,,Federation of BiH,3.0
+2016,29 - 19,out_of_marriage_birth,,Federation of BiH,343.0
+2016,32 - 19,Total,,Federation of BiH,3.0
+2016,33 - 19,Total,,Federation of BiH,906.0
+2016,27 - 19,in_marriage_birth,,Republika Srpska,189.0
+2016,28 - 19,out_of_marriage_birth,,Republika Srpska,1.0
+2016,29 - 19,out_of_marriage_birth,,Republika Srpska,148.0
+2016,32 - 19,Total,,Republika Srpska,1.0
+2016,33 - 19,Total,,Republika Srpska,337.0
+2016,27 - 19,in_marriage_birth,,Brčko District of BiH,41.0
+2016,29 - 19,out_of_marriage_birth,,Brčko District of BiH,4.0
+2016,33 - 19,Total,,Brčko District of BiH,45.0
+2016,27 - 19,in_marriage_birth,,BiH,793.0
+2016,28 - 19,out_of_marriage_birth,,BiH,4.0
+2016,29 - 19,out_of_marriage_birth,,BiH,495.0
+2016,32 - 19,Total,,BiH,4.0
+2016,33 - 19,Total,,BiH,1288.0
+2017,30 - 19,unknown_marital_status_birth,,Federation of BiH,6.0
+2017,31 - 19,unknown_marital_status_birth,,Federation of BiH,734.0
+2017,32 - 19,Total,,Federation of BiH,6.0
+2017,33 - 19,Total,,Federation of BiH,734.0
+2017,27 - 19,in_marriage_birth,,Republika Srpska,170.0
+2017,29 - 19,out_of_marriage_birth,,Republika Srpska,110.0
+2017,33 - 19,Total,,Republika Srpska,280.0
+2017,26 - 19,in_marriage_birth,,Brčko District of BiH,4.0
+2017,27 - 19,in_marriage_birth,,Brčko District of BiH,36.0
+2017,29 - 19,out_of_marriage_birth,,Brčko District of BiH,14.0
+2017,32 - 19,Total,,Brčko District of BiH,4.0
+2017,33 - 19,Total,,Brčko District of BiH,50.0
+2017,26 - 19,in_marriage_birth,,BiH,4.0
+2017,27 - 19,in_marriage_birth,,BiH,206.0
+2017,29 - 19,out_of_marriage_birth,,BiH,124.0
+2017,30 - 19,unknown_marital_status_birth,,BiH,6.0
+2017,31 - 19,unknown_marital_status_birth,,BiH,734.0
+2017,32 - 19,Total,,BiH,10.0
+2017,33 - 19,Total,,BiH,1064.0
+2018,30 - 19,unknown_marital_status_birth,,Federation of BiH,4.0
+2018,31 - 19,unknown_marital_status_birth,,Federation of BiH,643.0
+2018,32 - 19,Total,,Federation of BiH,4.0
+2018,33 - 19,Total,,Federation of BiH,643.0
+2018,27 - 19,in_marriage_birth,,Republika Srpska,118.0
+2018,28 - 19,out_of_marriage_birth,,Republika Srpska,1.0
+2018,29 - 19,out_of_marriage_birth,,Republika Srpska,101.0
+2018,32 - 19,Total,,Republika Srpska,1.0
+2018,33 - 19,Total,,Republika Srpska,219.0
+2018,27 - 19,in_marriage_birth,,Brčko District of BiH,22.0
+2018,29 - 19,out_of_marriage_birth,,Brčko District of BiH,13.0
+2018,33 - 19,Total,,Brčko District of BiH,35.0
+2018,27 - 19,in_marriage_birth,,BiH,140.0
+2018,28 - 19,out_of_marriage_birth,,BiH,1.0
+2018,29 - 19,out_of_marriage_birth,,BiH,114.0
+2018,30 - 19,unknown_marital_status_birth,,BiH,4.0
+2018,31 - 19,unknown_marital_status_birth,,BiH,643.0
+2018,32 - 19,Total,,BiH,5.0
+2018,33 - 19,Total,,BiH,897.0
+2019,30 - 19,unknown_marital_status_birth,,Federation of BiH,1.0
+2019,31 - 19,unknown_marital_status_birth,,Federation of BiH,580.0
+2019,32 - 19,Total,,Federation of BiH,1.0
+2019,33 - 19,Total,,Federation of BiH,580.0
+2019,27 - 19,in_marriage_birth,,Republika Srpska,123.0
+2019,28 - 19,out_of_marriage_birth,,Republika Srpska,1.0
+2019,29 - 19,out_of_marriage_birth,,Republika Srpska,100.0
+2019,32 - 19,Total,,Republika Srpska,1.0
+2019,33 - 19,Total,,Republika Srpska,223.0
+2019,26 - 19,in_marriage_birth,,Brčko District of BiH,1.0
+2019,27 - 19,in_marriage_birth,,Brčko District of BiH,24.0
+2019,28 - 19,out_of_marriage_birth,,Brčko District of BiH,1.0
+2019,29 - 19,out_of_marriage_birth,,Brčko District of BiH,18.0
+2019,32 - 19,Total,,Brčko District of BiH,2.0
+2019,33 - 19,Total,,Brčko District of BiH,42.0
+2019,26 - 19,in_marriage_birth,,BiH,1.0
+2019,27 - 19,in_marriage_birth,,BiH,147.0
+2019,28 - 19,out_of_marriage_birth,,BiH,2.0
+2019,29 - 19,out_of_marriage_birth,,BiH,118.0
+2019,30 - 19,unknown_marital_status_birth,,BiH,1.0
+2019,31 - 19,unknown_marital_status_birth,,BiH,580.0
+2019,32 - 19,Total,,BiH,4.0
+2019,33 - 19,Total,,BiH,845.0
