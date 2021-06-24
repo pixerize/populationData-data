@@ -1,253 +1,136 @@
-Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
-2006,_%,15+,_T,active_labour_force,43.1
-2006,_%,15 - 24,_T,active_labour_force,33.4
-2006,_%,25 - 49,_T,active_labour_force,66.0
-2006,_%,50 - 64,_T,active_labour_force,36.6
-2006,_%,65+,_T,active_labour_force,5.7
-2006,_%,15 - 64,_T,active_labour_force,51.3
-2006,_%,15+,M,active_labour_force,56.2
-2006,_%,15 - 24,M,active_labour_force,40.1
-2006,_%,25 - 49,M,active_labour_force,81.9
-2006,_%,50 - 64,M,active_labour_force,53.4
-2006,_%,65+,M,active_labour_force,8.0
-2006,_%,15 - 64,M,active_labour_force,65.5
-2006,_%,15+,F,active_labour_force,30.8
-2006,_%,15 - 24,F,active_labour_force,26.3
-2006,_%,25 - 49,F,active_labour_force,50.0
-2006,_%,50 - 64,F,active_labour_force,22.1
-2006,_%,65+,F,active_labour_force,4.0
-2006,_%,15 - 64,F,active_labour_force,37.4
-2007,_%,15+,_T,active_labour_force,43.9
-2007,_%,15 - 24,_T,active_labour_force,33.4
-2007,_%,25 - 49,_T,active_labour_force,67.0
-2007,_%,50 - 64,_T,active_labour_force,38.9
-2007,_%,65+,_T,active_labour_force,5.9
-2007,_%,15 - 64,_T,active_labour_force,52.2
-2007,_%,15+,M,active_labour_force,57.7
-2007,_%,15 - 24,M,active_labour_force,40.8
-2007,_%,25 - 49,M,active_labour_force,84.0
-2007,_%,50 - 64,M,active_labour_force,55.4
-2007,_%,65+,M,active_labour_force,9.0
-2007,_%,15 - 64,M,active_labour_force,67.0
-2007,_%,15+,F,active_labour_force,31.0
-2007,_%,15 - 24,F,active_labour_force,25.7
-2007,_%,25 - 49,F,active_labour_force,50.2
-2007,_%,50 - 64,F,active_labour_force,23.7
-2007,_%,65+,F,active_labour_force,3.6
-2007,_%,15 - 64,F,active_labour_force,37.8
-2008,_%,15+,_T,active_labour_force,43.9
-2008,_%,15 - 24,_T,active_labour_force,33.2
-2008,_%,25 - 49,_T,active_labour_force,68.6
-2008,_%,50 - 64,_T,active_labour_force,40.5
-2008,_%,65+,_T,active_labour_force,5.4
-2008,_%,15 - 64,_T,active_labour_force,53.5
-2008,_%,15+,M,active_labour_force,57.1
-2008,_%,15 - 24,M,active_labour_force,40.0
-2008,_%,25 - 49,M,active_labour_force,85.1
-2008,_%,50 - 64,M,active_labour_force,57.2
-2008,_%,65+,M,active_labour_force,8.3
-2008,_%,15 - 64,M,active_labour_force,67.7
-2008,_%,15+,F,active_labour_force,31.6
-2008,_%,15 - 24,F,active_labour_force,25.6
-2008,_%,25 - 49,F,active_labour_force,52.4
-2008,_%,50 - 64,F,active_labour_force,25.7
-2008,_%,65+,F,active_labour_force,3.2
-2008,_%,15 - 64,F,active_labour_force,39.5
-2009,_%,15+,_T,active_labour_force,43.6
-2009,_%,15 - 24,_T,active_labour_force,32.6
-2009,_%,25 - 49,_T,active_labour_force,69.1
-2009,_%,50 - 64,_T,active_labour_force,40.8
-2009,_%,65+,_T,active_labour_force,4.2
-2009,_%,15 - 64,_T,active_labour_force,53.2
-2009,_%,15+,M,active_labour_force,56.2
-2009,_%,15 - 24,M,active_labour_force,40.4
-2009,_%,25 - 49,M,active_labour_force,85.2
-2009,_%,50 - 64,M,active_labour_force,55.3
-2009,_%,65+,M,active_labour_force,5.6
-2009,_%,15 - 64,M,active_labour_force,67.0
-2009,_%,15+,F,active_labour_force,31.9
-2009,_%,15 - 24,F,active_labour_force,24.3
-2009,_%,25 - 49,F,active_labour_force,53.2
-2009,_%,50 - 64,F,active_labour_force,27.6
-2009,_%,65+,F,active_labour_force,3.1
-2009,_%,15 - 64,F,active_labour_force,39.7
-2010,_%,15+,_T,active_labour_force,44.6
-2010,_%,15 - 24,_T,active_labour_force,33.0
-2010,_%,25 - 49,_T,active_labour_force,70.6
-2010,_%,50 - 64,_T,active_labour_force,40.5
-2010,_%,65+,_T,active_labour_force,4.6
-2010,_%,15 - 64,_T,active_labour_force,54.0
-2010,_%,15+,M,active_labour_force,56.7
-2010,_%,15 - 24,M,active_labour_force,39.7
-2010,_%,25 - 49,M,active_labour_force,85.3
-2010,_%,50 - 64,M,active_labour_force,54.5
-2010,_%,65+,M,active_labour_force,6.3
-2010,_%,15 - 64,M,active_labour_force,67.1
-2010,_%,15+,F,active_labour_force,33.2
-2010,_%,15 - 24,F,active_labour_force,25.9
-2010,_%,25 - 49,F,active_labour_force,55.6
-2010,_%,50 - 64,F,active_labour_force,28.0
-2010,_%,65+,F,active_labour_force,3.3
-2010,_%,15 - 64,F,active_labour_force,41.1
-2011,_%,15+,_T,active_labour_force,44.0
-2011,_%,15 - 24,_T,active_labour_force,31.4
-2011,_%,25 - 49,_T,active_labour_force,70.6
-2011,_%,50 - 64,_T,active_labour_force,41.2
-2011,_%,65+,_T,active_labour_force,3.6
-2011,_%,15 - 64,_T,active_labour_force,53.8
-2011,_%,15+,M,active_labour_force,55.9
-2011,_%,15 - 24,M,active_labour_force,38.8
-2011,_%,25 - 49,M,active_labour_force,84.5
-2011,_%,50 - 64,M,active_labour_force,54.1
-2011,_%,65+,M,active_labour_force,4.9
-2011,_%,15 - 64,M,active_labour_force,66.3
-2011,_%,15+,F,active_labour_force,32.8
-2011,_%,15 - 24,F,active_labour_force,23.3
-2011,_%,25 - 49,F,active_labour_force,55.9
-2011,_%,50 - 64,F,active_labour_force,29.8
-2011,_%,65+,F,active_labour_force,2.7
-2011,_%,15 - 64,F,active_labour_force,41.2
-2012,_%,15+,_T,active_labour_force,44.0
-2012,_%,15 - 24,_T,active_labour_force,29.4
-2012,_%,25 - 49,_T,active_labour_force,71.6
-2012,_%,50 - 64,_T,active_labour_force,42.1
-2012,_%,65+,_T,active_labour_force,5.0
-2012,_%,15 - 64,_T,active_labour_force,53.9
-2012,_%,15+,M,active_labour_force,56.4
-2012,_%,15 - 24,M,active_labour_force,37.7
-2012,_%,25 - 49,M,active_labour_force,85.5
-2012,_%,50 - 64,M,active_labour_force,56.2
-2012,_%,65+,M,active_labour_force,7.0
-2012,_%,15 - 64,M,active_labour_force,67.0
-2012,_%,15+,F,active_labour_force,32.6
-2012,_%,15 - 24,F,active_labour_force,20.9
-2012,_%,25 - 49,F,active_labour_force,57.3
-2012,_%,50 - 64,F,active_labour_force,29.2
-2012,_%,65+,F,active_labour_force,3.4
-2012,_%,15 - 64,F,active_labour_force,41.0
-2013,_%,15+,_T,active_labour_force,43.6
-2013,_%,15 - 24,_T,active_labour_force,28.3
-2013,_%,25 - 49,_T,active_labour_force,71.9
-2013,_%,50 - 64,_T,active_labour_force,42.1
-2013,_%,65+,_T,active_labour_force,4.2
-2013,_%,15 - 64,_T,active_labour_force,53.5
-2013,_%,15+,M,active_labour_force,55.3
-2013,_%,15 - 24,M,active_labour_force,36.3
-2013,_%,25 - 49,M,active_labour_force,85.3
-2013,_%,50 - 64,M,active_labour_force,55.5
-2013,_%,65+,M,active_labour_force,6.2
-2013,_%,15 - 64,M,active_labour_force,65.7
-2013,_%,15+,F,active_labour_force,32.5
-2013,_%,15 - 24,F,active_labour_force,19.4
-2013,_%,25 - 49,F,active_labour_force,58.1
-2013,_%,50 - 64,F,active_labour_force,29.6
-2013,_%,65+,F,active_labour_force,2.7
-2013,_%,15 - 64,F,active_labour_force,41.0
-2014,_%,15+,_T,active_labour_force,43.7
-2014,_%,15 - 24,_T,active_labour_force,29.3
-2014,_%,25 - 49,_T,active_labour_force,73.2
-2014,_%,50 - 64,_T,active_labour_force,42.1
-2014,_%,65+,_T,active_labour_force,4.7
-2014,_%,15 - 64,_T,active_labour_force,54.2
-2014,_%,15+,M,active_labour_force,55.0
-2014,_%,15 - 24,M,active_labour_force,34.6
-2014,_%,25 - 49,M,active_labour_force,85.9
-2014,_%,50 - 64,M,active_labour_force,56.1
-2014,_%,65+,M,active_labour_force,6.8
-2014,_%,15 - 64,M,active_labour_force,65.9
-2014,_%,15+,F,active_labour_force,33.0
-2014,_%,15 - 24,F,active_labour_force,23.3
-2014,_%,25 - 49,F,active_labour_force,60.0
-2014,_%,50 - 64,F,active_labour_force,29.5
-2014,_%,65+,F,active_labour_force,3.1
-2014,_%,15 - 64,F,active_labour_force,42.4
-2015,_%,15+,_T,active_labour_force,44.1
-2015,_%,15 - 24,_T,active_labour_force,32.2
-2015,_%,25 - 49,_T,active_labour_force,73.6
-2015,_%,50 - 64,_T,active_labour_force,41.7
-2015,_%,65+,_T,active_labour_force,4.3
-2015,_%,15 - 64,_T,active_labour_force,54.6
-2015,_%,15+,M,active_labour_force,55.1
-2015,_%,15 - 24,M,active_labour_force,38.9
-2015,_%,25 - 49,M,active_labour_force,87.1
-2015,_%,50 - 64,M,active_labour_force,53.7
-2015,_%,65+,M,active_labour_force,6.0
-2015,_%,15 - 64,M,active_labour_force,66.2
-2015,_%,15+,F,active_labour_force,33.5
-2015,_%,15 - 24,F,active_labour_force,24.5
-2015,_%,25 - 49,F,active_labour_force,59.8
-2015,_%,50 - 64,F,active_labour_force,30.5
-2015,_%,65+,F,active_labour_force,3.0
-2015,_%,15 - 64,F,active_labour_force,42.9
-2016,_%,15+,_T,active_labour_force,43.1
-2016,_%,15 - 24,_T,active_labour_force,30.2
-2016,_%,25 - 49,_T,active_labour_force,73.2
-2016,_%,50 - 64,_T,active_labour_force,43.7
-2016,_%,65+,_T,active_labour_force,4.1
-2016,_%,15 - 64,_T,active_labour_force,54.2
-2016,_%,15+,M,active_labour_force,54.9
-2016,_%,15 - 24,M,active_labour_force,38.1
-2016,_%,25 - 49,M,active_labour_force,86.0
-2016,_%,50 - 64,M,active_labour_force,57.4
-2016,_%,65+,M,active_labour_force,6.0
-2016,_%,15 - 64,M,active_labour_force,66.2
-2016,_%,15+,F,active_labour_force,32.1
-2016,_%,15 - 24,F,active_labour_force,21.3
-2016,_%,25 - 49,F,active_labour_force,60.0
-2016,_%,50 - 64,F,active_labour_force,30.6
-2016,_%,65+,F,active_labour_force,2.7
-2016,_%,15 - 64,F,active_labour_force,41.9
-2017,_%,15+,_T,active_labour_force,42.6
-2017,_%,15 - 24,_T,active_labour_force,32.5
-2017,_%,25 - 49,_T,active_labour_force,73.5
-2017,_%,50 - 64,_T,active_labour_force,43.6
-2017,_%,65+,_T,active_labour_force,5.2
-2017,_%,15 - 64,_T,active_labour_force,54.5
-2017,_%,15+,M,active_labour_force,53.3
-2017,_%,15 - 24,M,active_labour_force,40.2
-2017,_%,25 - 49,M,active_labour_force,86.5
-2017,_%,50 - 64,M,active_labour_force,56.4
-2017,_%,65+,M,active_labour_force,6.9
-2017,_%,15 - 64,M,active_labour_force,66.1
-2017,_%,15+,F,active_labour_force,32.4
-2017,_%,15 - 24,F,active_labour_force,23.4
-2017,_%,25 - 49,F,active_labour_force,60.3
-2017,_%,50 - 64,F,active_labour_force,31.6
-2017,_%,65+,F,active_labour_force,3.9
-2017,_%,15 - 64,F,active_labour_force,42.7
-2018,_%,15+,_T,active_labour_force,42.1
-2018,_%,15 - 24,_T,active_labour_force,32.3
-2018,_%,25 - 49,_T,active_labour_force,73.0
-2018,_%,50 - 64,_T,active_labour_force,44.6
-2018,_%,65+,_T,active_labour_force,4.7
-2018,_%,15 - 64,_T,active_labour_force,54.2
-2018,_%,15+,M,active_labour_force,53.2
-2018,_%,15 - 24,M,active_labour_force,40.4
-2018,_%,25 - 49,M,active_labour_force,86.8
-2018,_%,50 - 64,M,active_labour_force,57.3
-2018,_%,65+,M,active_labour_force,6.2
-2018,_%,15 - 64,M,active_labour_force,66.4
-2018,_%,15+,F,active_labour_force,31.4
-2018,_%,15 - 24,F,active_labour_force,23.1
-2018,_%,25 - 49,F,active_labour_force,58.9
-2018,_%,50 - 64,F,active_labour_force,32.3
-2018,_%,65+,F,active_labour_force,3.6
-2018,_%,15 - 64,F,active_labour_force,41.8
-2019,_%,15+,_T,active_labour_force,42.1
-2019,_%,15 - 24,_T,active_labour_force,35.4
-2019,_%,25 - 49,_T,active_labour_force,73.4
-2019,_%,50 - 64,_T,active_labour_force,46.7
-2019,_%,65+,_T,active_labour_force,6.9
-2019,_%,15 - 64,_T,active_labour_force,55.5
-2019,_%,15+,M,active_labour_force,51.7
-2019,_%,15 - 24,M,active_labour_force,39.8
-2019,_%,25 - 49,M,active_labour_force,85.6
-2019,_%,50 - 64,M,active_labour_force,60.1
-2019,_%,65+,M,active_labour_force,8.8
-2019,_%,15 - 64,M,active_labour_force,66.4
-2019,_%,15+,F,active_labour_force,32.9
-2019,_%,15 - 24,F,active_labour_force,29.9
-2019,_%,25 - 49,F,active_labour_force,61.1
-2019,_%,50 - 64,F,active_labour_force,34.1
-2019,_%,65+,F,active_labour_force,5.3
-2019,_%,15 - 64,F,active_labour_force,44.4
+Year,UNIT_MEASURE,QUANTITY,Entity,Value
+1997,NUMBER,total_millions,BiH,6752
+1998,NUMBER,total_millions,BiH,7650
+1999,NUMBER,total_millions,BiH,8604
+2000,NUMBER,total_millions,BiH,9611
+2001,NUMBER,total_millions,BiH,10480
+2002,NUMBER,total_millions,BiH,11651
+2003,NUMBER,total_millions,BiH,12303
+2004,NUMBER,total_millions,BiH,13497
+2005,NUMBER,total_millions,BiH,17649
+2006,NUMBER,total_millions,BiH,20056
+2007,NUMBER,total_millions,BiH,22548
+2008,NUMBER,total_millions,BiH,25519
+2009,NUMBER,total_millions,BiH,24799
+2010,NUMBER,total_millions,BiH,25365
+2011,NUMBER,total_millions,BiH,26231
+2012,NUMBER,total_millions,BiH,26223
+2013,NUMBER,total_millions,BiH,26779
+2014,NUMBER,total_millions,BiH,27358
+2015,NUMBER,total_millions,BiH,28589
+2016,NUMBER,total_millions,BiH,29905
+2017,NUMBER,total_millions,BiH,31377
+2018,NUMBER,total_millions,BiH,33445
+2019,NUMBER,total_millions,BiH,35295
+1997,NUMBER,total_millions,FBIH,4943
+1998,NUMBER,total_millions,FBIH,5606
+1999,NUMBER,total_millions,FBIH,6142
+2000,NUMBER,total_millions,FBIH,6723
+2001,NUMBER,total_millions,FBIH,7274
+2002,NUMBER,total_millions,FBIH,7943
+2003,NUMBER,total_millions,FBIH,8268
+2004,NUMBER,total_millions,FBIH,8897
+2005,NUMBER,total_millions,FBIH,11506
+2006,NUMBER,total_millions,FBIH,13036
+2007,NUMBER,total_millions,FBIH,14629
+2008,NUMBER,total_millions,FBIH,16426
+2009,NUMBER,total_millions,FBIH,15987
+2010,NUMBER,total_millions,FBIH,16461
+2011,NUMBER,total_millions,FBIH,16927
+2012,NUMBER,total_millions,FBIH,17013
+2013,NUMBER,total_millions,FBIH,17379
+2014,NUMBER,total_millions,FBIH,17827
+2015,NUMBER,total_millions,FBIH,18688
+2016,NUMBER,total_millions,FBIH,19540
+2017,NUMBER,total_millions,FBIH,20540
+2018,NUMBER,total_millions,FBIH,21984
+2019,NUMBER,total_millions,FBIH,23179
+1997,NUMBER,total_millions,RS,1809
+1998,NUMBER,total_millions,RS,2044
+1999,NUMBER,total_millions,RS,2462
+2000,NUMBER,total_millions,RS,2734
+2001,NUMBER,total_millions,RS,2993
+2002,NUMBER,total_millions,RS,3417
+2003,NUMBER,total_millions,RS,3717
+2004,NUMBER,total_millions,RS,4226
+2005,NUMBER,total_millions,RS,5695
+2006,NUMBER,total_millions,RS,6550
+2007,NUMBER,total_millions,RS,7366
+2008,NUMBER,total_millions,RS,8507
+2009,NUMBER,total_millions,RS,8257
+2010,NUMBER,total_millions,RS,8336
+2011,NUMBER,total_millions,RS,8703
+2012,NUMBER,total_millions,RS,8615
+2013,NUMBER,total_millions,RS,8793
+2014,NUMBER,total_millions,RS,8887
+2015,NUMBER,total_millions,RS,9205
+2016,NUMBER,total_millions,RS,9631
+2017,NUMBER,total_millions,RS,10077
+2018,NUMBER,total_millions,RS,10680
+2019,NUMBER,total_millions,RS,11251
+2000,NUMBER,total_millions,BD,154
+2001,NUMBER,total_millions,BD,213
+2002,NUMBER,total_millions,BD,291
+2003,NUMBER,total_millions,BD,318
+2004,NUMBER,total_millions,BD,374
+2005,NUMBER,total_millions,BD,448
+2006,NUMBER,total_millions,BD,470
+2007,NUMBER,total_millions,BD,553
+2008,NUMBER,total_millions,BD,586
+2009,NUMBER,total_millions,BD,555
+2010,NUMBER,total_millions,BD,568
+2011,NUMBER,total_millions,BD,601
+2012,NUMBER,total_millions,BD,595
+2013,NUMBER,total_millions,BD,607
+2014,NUMBER,total_millions,BD,644
+2015,NUMBER,total_millions,BD,696
+2016,NUMBER,total_millions,BD,734
+2017,NUMBER,total_millions,BD,760
+2018,NUMBER,total_millions,BD,781
+2019,NUMBER,total_millions,BD,865
+1997,_%,real_gdp_growth,BiH,0.34
+1998,_%,real_gdp_growth,BiH,0.16
+1999,_%,real_gdp_growth,BiH,0.10
+2000,_%,real_gdp_growth,BiH,0.06
+2001,_%,real_gdp_growth,BiH,0.04
+2002,_%,real_gdp_growth,BiH,0.05
+2003,_%,real_gdp_growth,BiH,0.04
+2004,_%,real_gdp_growth,BiH,0.06
+2005,_%,real_gdp_growth,BiH,0.09
+2006,_%,real_gdp_growth,BiH,0.05
+2007,_%,real_gdp_growth,BiH,0.06
+2008,_%,real_gdp_growth,BiH,0.05
+2009,_%,real_gdp_growth,BiH,-0.03
+2010,_%,real_gdp_growth,BiH,0.01
+2011,_%,real_gdp_growth,BiH,0.01
+2012,_%,real_gdp_growth,BiH,-0.01
+2013,_%,real_gdp_growth,BiH,0.02
+2014,_%,real_gdp_growth,BiH,0.01
+2015,_%,real_gdp_growth,BiH,0.03
+2016,_%,real_gdp_growth,BiH,0.03
+2017,_%,real_gdp_growth,BiH,0.02
+2018,_%,real_gdp_growth,BiH,0.04
+2019,_%,real_gdp_growth,BiH,0.03
+1997,NUMBER,per_capita,BiH,1798
+1998,NUMBER,per_capita,BiH,2094
+1999,NUMBER,per_capita,BiH,2310
+2000,NUMBER,per_capita,BiH,2542
+2001,NUMBER,per_capita,BiH,2759
+2002,NUMBER,per_capita,BiH,3044
+2003,NUMBER,per_capita,BiH,3211
+2004,NUMBER,per_capita,BiH,3512
+2005,NUMBER,per_capita,BiH,4983
+2006,NUMBER,per_capita,BiH,5663
+2007,NUMBER,per_capita,BiH,6366
+2008,NUMBER,per_capita,BiH,7205
+2009,NUMBER,per_capita,BiH,7003
+2010,NUMBER,per_capita,BiH,7165
+2011,NUMBER,per_capita,BiH,7414
+2012,NUMBER,per_capita,BiH,7418
+2013,NUMBER,per_capita,BiH,7584
+2014,NUMBER,per_capita,BiH,7759
+2015,NUMBER,per_capita,BiH,8127
+2016,NUMBER,per_capita,BiH,8517
+2017,NUMBER,per_capita,BiH,8954
+2018,NUMBER,per_capita,BiH,9566
+2019,NUMBER,per_capita,BiH,10128

@@ -1,79 +1,136 @@
-Year,UNIT_MEASURE,SEX,EDUCATION,Value
-1991,NUMBER,_T,total_15,471182
-1991,_%,_T,total_15,17.43944263
-1991,NUMBER,M,total_15,98420
-1991,_%,M,total_15,7.480138719
-1991,NUMBER,F,total_15,372762
-1991,_%,F,total_15,26.89350515
-1991,NUMBER,_T,incomplete_primary_education,658356
-1991,_%,_T,incomplete_primary_education,24.36714834
-1991,NUMBER,M,incomplete_primary_education,285421
-1991,_%,M,incomplete_primary_education,21.69263029
-1991,NUMBER,F,incomplete_primary_education,372935
-1991,_%,F,incomplete_primary_education,26.90598651
-1991,NUMBER,_T,primary_school,818361
-1991,_%,_T,primary_school,30.28927189
-1991,NUMBER,M,primary_school,421045
-1991,_%,M,primary_school,32.00035569
-1991,NUMBER,F,primary_school,397316
-1991,_%,F,primary_school,28.66499238
-1991,NUMBER,_T,secondary_school,1092372
-1991,_%,_T,secondary_school,40.43099868
-1991,NUMBER,M,secondary_school,671058
-1991,_%,M,secondary_school,51.0018993
-1991,NUMBER,F,secondary_school,421314
-1991,_%,F,secondary_school,30.39636612
-1991,NUMBER,_T,higher_school_and_first_grade_of_faculty,92501
-1991,_%,_T,higher_school_and_first_grade_of_faculty,3.4236577
-1991,NUMBER,M,higher_school_and_first_grade_of_faculty,56759
-1991,_%,M,higher_school_and_first_grade_of_faculty,4.313810136
-1991,NUMBER,F,higher_school_and_first_grade_of_faculty,35742
-1991,_%,F,higher_school_and_first_grade_of_faculty,2.578663225
-1991,NUMBER,_T,advanced_schools_faculty_academy_university,122967
-1991,_%,_T,advanced_schools_faculty_academy_university,4.551268812
-1991,NUMBER,M,advanced_schools_faculty_academy_university,77240
-1991,_%,M,advanced_schools_faculty_academy_university,5.870411651
-1991,NUMBER,F,advanced_schools_faculty_academy_university,45727
-1991,_%,F,advanced_schools_faculty_academy_university,3.299046871
-1991,NUMBER,_T,unknown,93903
-1991,_%,_T,unknown,3.475548686
-1991,NUMBER,M,unknown,47397
-1991,_%,M,unknown,3.602277331
-1991,NUMBER,F,unknown,46506
-1991,_%,F,unknown,335.5249061
-2013,NUMBER,_T,total_15,146078
-2013,_%,_T,total_15,5.406655815
-2013,NUMBER,M,total_15,24021
-2013,_%,M,total_15,1.825649382
-2013,NUMBER,F,total_15,122057
-2013,_%,F,total_15,8.80599567
-2013,NUMBER,_T,incomplete_primary_education,274036
-2013,_%,_T,incomplete_primary_education,10.1426521
-2013,NUMBER,M,incomplete_primary_education,83216
-2013,_%,M,incomplete_primary_education,6.324600931
-2013,NUMBER,F,incomplete_primary_education,190820
-2013,_%,F,incomplete_primary_education,13.76701126
-2013,NUMBER,_T,primary_school,640726
-2013,_%,_T,primary_school,23.71462475
-2013,NUMBER,M,primary_school,274258
-2013,_%,M,primary_school,20.84421748
-2013,NUMBER,F,primary_school,366468
-2013,_%,F,primary_school,26.43941454
-2013,NUMBER,_T,secondary_school,1525161
-2013,_%,_T,secondary_school,56.44943516
-2013,NUMBER,M,secondary_school,864823
-2013,_%,M,secondary_school,65.7284699
-2013,NUMBER,F,secondary_school,660338
-2013,_%,F,secondary_school,47.64113135
-2013,NUMBER,_T,higher_school_and_first_grade_of_faculty,94204
-2013,_%,_T,higher_school_and_first_grade_of_faculty,3.486689333
-2013,NUMBER,M,higher_school_and_first_grade_of_faculty,51556
-2013,_%,M,higher_school_and_first_grade_of_faculty,3.918370573
-2013,NUMBER,F,higher_school_and_first_grade_of_faculty,42648
-2013,_%,F,higher_school_and_first_grade_of_faculty,3.076907538
-2013,NUMBER,_T,advanced_schools_faculty_academy_university,285622
-2013,_%,_T,advanced_schools_faculty_academy_university,10.57147447
-2013,NUMBER,M,advanced_schools_faculty_academy_university,137543
-2013,_%,M,advanced_schools_faculty_academy_university,10.45357366
-2013,NUMBER,F,advanced_schools_faculty_academy_university,148079
-2013,_%,F,advanced_schools_faculty_academy_university,10.68339409
+Year,UNIT_MEASURE,FORM_OF_VIOLENCE,Entity,SURVEY_IMPLEMENTED_BY,Value
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,47.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months),BiH,UN Women & UNFPA,11.9
+2013,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,37.9
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age,BiH,UN Women & UNFPA,56.8
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age,BiH,UN Women & UNFPA,56.4
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age,BiH,UN Women & UNFPA,46.8
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age,BiH,UN Women & UNFPA,47.5
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age,BiH,UN Women & UNFPA,44.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age,BiH,UN Women & UNFPA,44.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas,BiH,UN Women & UNFPA,44.3
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas,BiH,UN Women & UNFPA,49.2
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,41.9
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months),BiH,UN Women & UNFPA,10.8
+2013,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,UN Women & UNFPA,39
+2013,_%,women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),BiH,UN Women & UNFPA,8.2
+2013,_%,women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),BiH,UN Women & UNFPA,8.5
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,24.3
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months),BiH,UN Women & UNFPA,2.4
+2013,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,UN Women & UNFPA,20.8
+2013,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),BiH,UN Women & UNFPA,19
+2013,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),BiH,UN Women & UNFPA,4.1
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,6
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months),BiH,UN Women & UNFPA,1.3
+2013,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,UN Women & UNFPA,5.1
+2013,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),BiH,UN Women & UNFPA,1.3
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(ever),BiH,UN Women & UNFPA,4.8
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months),BiH,UN Women & UNFPA,1.4
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,47.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months),FBIH,UN Women & UNFPA,12.7
+2013,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,37
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age,FBIH,UN Women & UNFPA,54
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age,FBIH,UN Women & UNFPA,54.4
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age,FBIH,UN Women & UNFPA,46.4
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age,FBIH,UN Women & UNFPA,47
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age,FBIH,UN Women & UNFPA,43.7
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age,FBIH,UN Women & UNFPA,46.3
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas,FBIH,UN Women & UNFPA,45.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas,FBIH,UN Women & UNFPA,48.5
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,43.4
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months),FBIH,UN Women & UNFPA,11.9
+2013,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,UN Women & UNFPA,38.2
+2013,_%,women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),FBIH,UN Women & UNFPA,8
+2013,_%,women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),FBIH,UN Women & UNFPA,7.5
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,23
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months),FBIH,UN Women & UNFPA,2.7
+2013,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,UN Women & UNFPA,18.1
+2013,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),FBIH,UN Women & UNFPA,16.6
+2013,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),FBIH,UN Women & UNFPA,4.5
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,5.8
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months),FBIH,UN Women & UNFPA,1.5
+2013,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,UN Women & UNFPA,5
+2013,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),FBIH,UN Women & UNFPA,1.1
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(ever),FBIH,UN Women & UNFPA,3.8
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months),FBIH,UN Women & UNFPA,1
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,47.3
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months),RS,UN Women & UNFPA,10.6
+2013,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,39.6
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age,RS,UN Women & UNFPA,63.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age,RS,UN Women & UNFPA,60.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age,RS,UN Women & UNFPA,47.6
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age,RS,UN Women & UNFPA,48.4
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age,RS,UN Women & UNFPA,45.1
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age,RS,UN Women & UNFPA,41.2
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas,RS,UN Women & UNFPA,42.5
+2013,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas,RS,UN Women & UNFPA,50.3
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,39.1
+2013,_%,women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months),RS,UN Women & UNFPA,8.9
+2013,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,UN Women & UNFPA,40.5
+2013,_%,women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),RS,UN Women & UNFPA,8.8
+2013,_%,women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),RS,UN Women & UNFPA,10.3
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,26.5
+2013,_%,women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months),RS,UN Women & UNFPA,1.9
+2013,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,UN Women & UNFPA,25.2
+2013,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),RS,UN Women & UNFPA,22.6
+2013,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever),RS,UN Women & UNFPA,3.5
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,6.4
+2013,_%,women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months),RS,UN Women & UNFPA,0.9
+2013,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,UN Women & UNFPA,5.2
+2013,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),RS,UN Women & UNFPA,1.7
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(ever),RS,UN Women & UNFPA,6.6
+2013,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months),RS,UN Women & UNFPA,2.1
+2019,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever),BiH,OSCE,48
+2019,_%,women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months),BiH,OSCE,19
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),BiH,OSCE,36
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months),BiH,OSCE,10
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,OSCE,35
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),BiH,OSCE,10
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,OSCE,10
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),BiH,OSCE,3
+2019,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),BiH,OSCE,18
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever),BiH,OSCE,7
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months),BiH,OSCE,1
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),BiH,OSCE,4
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),BiH,OSCE,1
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),BiH,OSCE,1
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months),BiH,OSCE,0.4
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever),BiH,OSCE,28
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months),BiH,OSCE,10
+2019,_%,women_who_have_experienced_economic_violence_after_the_age_of_15_(ever),BiH,OSCE,12
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),FBIH,OSCE,36
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months),FBIH,OSCE,11
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,OSCE,36
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),FBIH,OSCE,10
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,OSCE,10
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),FBIH,OSCE,3
+2019,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),FBIH,OSCE,23
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever),FBIH,OSCE,7
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months),FBIH,OSCE,1
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),FBIH,OSCE,4
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),FBIH,OSCE,2
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),FBIH,OSCE,1
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months),FBIH,OSCE,0.5
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever),FBIH,OSCE,26
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months),FBIH,OSCE,9
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),RS,OSCE,37
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months),RS,OSCE,9
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,OSCE,36
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),RS,OSCE,9
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,OSCE,11
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months),RS,OSCE,3
+2019,_%,women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever),RS,OSCE,7
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever),RS,OSCE,7
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months),RS,OSCE,2
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),RS,OSCE,3
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),RS,OSCE,2
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months),RS,OSCE,0.2
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever),RS,OSCE,31
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months),RS,OSCE,14
+2019,_%,women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever),BD,OSCE,45
+2019,_%,women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever),BD,OSCE,43
+2019,_%,women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever),BD,OSCE,10
+2019,_%,women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever),BD,OSCE,5
+2019,_%,women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever),BD,OSCE,5
+2019,_%,women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever),BD,OSCE,1
+2019,_%,women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever),BD,OSCE,25
