@@ -11,27 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "ENROLMENT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "BiH"
+                "Enrolment in high school education",
+                "Enrolment in higher education",
+                "Enrolment in pre-school education",
+                "Enrolment in primary school education"
               ]
             },
-            "title": "Administrative area"
+            "title": "Enrolment"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -40,7 +44,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

@@ -21,48 +21,31 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
+                "total_millions",
+                "per_capita",
                 ""
               ]
             },
-            "title": "Godine"
+            "title": "QUANTITY"
           },
           {
-            "name": "SEX",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
+                "BiH",
                 ""
               ]
             },
-            "title": "Spol"
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "employed_as_of_working",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
+            "title": "Entitet"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

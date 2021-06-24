@@ -11,31 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "Advanced schools / faculty / academy / university",
+                "Higher school and first grade of faculty",
+                "Incomplete primary education",
+                "Primary school",
+                "Secondary school",
+                "Total 15+",
+                "Unknown"
               ]
             },
-            "title": "Administrative area"
+            "title": "Education"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Real GDP growth",
-                "Total (millions)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

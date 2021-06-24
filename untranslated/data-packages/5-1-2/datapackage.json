@@ -19,29 +19,33 @@
             "type": "string"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Entity",
+            "name": "ENROLMENT",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
+                "enrolment_in_pre_school",
+                "enrolment_in_primary_school_education",
+                "enrolment_in_high_school_education",
+                "enrolment_in_higher_education",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

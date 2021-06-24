@@ -1,49 +1,1464 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Žene,9.61827
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Žene,9.06745
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Žene,7.78605
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Žene,8.17431
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Muškarci,9.18687
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Muškarci,10.96086
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Muškarci,9.20166
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,15 godina i više,Muškarci,9.61538
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,9.59245
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,10.26853
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,8.6838
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,9.18705
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Žene,1.36182
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Žene,1.36499
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Žene,1.00075
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Žene,1.17074
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Muškarci,1.72603
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Muškarci,2.09713
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Muškarci,1.53019
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,15 godina i više,Muškarci,1.55626
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,1.5382
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,1.76184
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,1.32249
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,Procenat,Svi dobni rasponi ili nema podjele po godinama,Oba spola,1.45702
-2015,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,143.90642
-2016,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,134.20191
-2017,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,114.2907
-2018,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,119.12529
-2015,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,130.17484
-2016,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,153.56874
-2017,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,127.783
-2018,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,132.46102
-2015,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,329.26817
-2016,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,348.00609
-2017,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,291.24677
-2018,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,305.51409
-2015,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,20.37518
-2016,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,20.20242
-2017,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,14.6899
-2018,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Žene,17.06139
-2015,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,24.45721
-2016,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,29.3821
-2017,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,21.2497
-2018,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,15 godina i više,Muškarci,21.43889
-2015,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,52.79993
-2016,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,59.70975
-2017,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,44.35517
-2018,Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj),Hiljade,Svi dobni rasponi ili nema podjele po godinama,Oba spola,48.45317
+Year,UNIT_MEASURE,Godine,Spol,Value
+2018,Broj,Total,Oba spola,3492023.0
+2018,Broj,0-4,Oba spola,148947.0
+2018,Broj,5-9,Oba spola,171135.0
+2018,Broj,10-14,Oba spola,177098.0
+2018,Broj,15-19,Oba spola,190602.0
+2018,Broj,20-24,Oba spola,242893.0
+2018,Broj,25-29,Oba spola,225428.0
+2018,Broj,30-34,Oba spola,251233.0
+2018,Broj,35-39,Oba spola,252481.0
+2018,Broj,40-44,Oba spola,248144.0
+2018,Broj,45-49,Oba spola,239073.0
+2018,Broj,50-54,Oba spola,255492.0
+2018,Broj,55-59,Oba spola,266164.0
+2018,Broj,60-64,Oba spola,248062.0
+2018,Broj,65-69,Oba spola,206798.0
+2018,Broj,70-74,Oba spola,137662.0
+2018,Broj,75-79,Oba spola,110151.0
+2018,Broj,80-84,Oba spola,79091.0
+2018,Broj,85-89,Oba spola,32495.0
+2018,Broj,90-94,Oba spola,7766.0
+2018,Broj,95-99,Oba spola,1075.0
+2018,Broj,100-104,Oba spola,221.0
+2018,Broj,105-109,Oba spola,12.0
+2018,Broj,110-114,Oba spola,0.0
+2018,Broj,115-119,Oba spola,0.0
+2018,Broj,120+,Oba spola,0.0
+2018,% od ukupnog broja,Total,Oba spola,100.0
+2018,% od ukupnog broja,0-4,Oba spola,4.27
+2018,% od ukupnog broja,5-9,Oba spola,4.9
+2018,% od ukupnog broja,10-14,Oba spola,5.07
+2018,% od ukupnog broja,15-19,Oba spola,5.46
+2018,% od ukupnog broja,20-24,Oba spola,6.96
+2018,% od ukupnog broja,25-29,Oba spola,6.46
+2018,% od ukupnog broja,30-34,Oba spola,7.19
+2018,% od ukupnog broja,35-39,Oba spola,7.23
+2018,% od ukupnog broja,40-44,Oba spola,7.11
+2018,% od ukupnog broja,45-49,Oba spola,6.85
+2018,% od ukupnog broja,50-54,Oba spola,7.32
+2018,% od ukupnog broja,55-59,Oba spola,7.62
+2018,% od ukupnog broja,60-64,Oba spola,7.1
+2018,% od ukupnog broja,65-69,Oba spola,5.92
+2018,% od ukupnog broja,70-74,Oba spola,3.94
+2018,% od ukupnog broja,75-79,Oba spola,3.15
+2018,% od ukupnog broja,80-84,Oba spola,2.26
+2018,% od ukupnog broja,85-89,Oba spola,0.93
+2018,% od ukupnog broja,90-94,Oba spola,0.22
+2018,% od ukupnog broja,95-99,Oba spola,0.03
+2018,% od ukupnog broja,100-104,Oba spola,0.01
+2018,% od ukupnog broja,105-109,Oba spola,0.0
+2018,% od ukupnog broja,110-114,Oba spola,0.0
+2018,% od ukupnog broja,115-119,Oba spola,0.0
+2018,% od ukupnog broja,120+,Oba spola,0.0
+2018,% od ukupnog broja,0-14,Oba spola,497180.0
+2018,% od ukupnog broja,0-18,Oba spola,647325.0
+2018,% od ukupnog broja,15-29,Oba spola,658923.0
+2018,% od ukupnog broja,15-49,Oba spola,1649854.0
+2018,% od ukupnog broja,15-64,Oba spola,2419572.0
+2018,% od ukupnog broja,65+,Oba spola,575271.0
+2018,% od ukupnog broja,75+,Oba spola,230811.0
+2018,% od ukupnog broja,85+,Oba spola,41569.0
+2018,% od ukupnog broja,100+,Oba spola,233.0
+2018,% od ukupnog broja,0-14,Oba spola,14.24
+2018,% od ukupnog broja,0-18,Oba spola,18.54
+2018,% od ukupnog broja,15-29,Oba spola,18.87
+2018,% od ukupnog broja,15-49,Oba spola,47.25
+2018,% od ukupnog broja,15-64,Oba spola,69.29
+2018,% od ukupnog broja,65+,Oba spola,16.47
+2018,% od ukupnog broja,75+,Oba spola,6.61
+2018,% od ukupnog broja,85+,Oba spola,1.19
+2018,% od ukupnog broja,100+,Oba spola,0.01
+2020,Broj,Total,Oba spola,3430316.35
+2020,Broj,0-4,Oba spola,146421.55
+2020,Broj,5-9,Oba spola,157739.47
+2020,Broj,10-14,Oba spola,177407.96
+2020,Broj,15-19,Oba spola,178593.11
+2020,Broj,20-24,Oba spola,213398.66
+2020,Broj,25-29,Oba spola,214211.15
+2020,Broj,30-34,Oba spola,236476.26
+2020,Broj,35-39,Oba spola,247934.84
+2020,Broj,40-44,Oba spola,244996.58
+2020,Broj,45-49,Oba spola,240020.87
+2020,Broj,50-54,Oba spola,241454.3
+2020,Broj,55-59,Oba spola,262446.33
+2020,Broj,60-64,Oba spola,252299.2
+2020,Broj,65-69,Oba spola,221359.6
+2020,Broj,70-74,Oba spola,163146.24
+2020,Broj,75-79,Oba spola,98627.21
+2020,Broj,80-84,Oba spola,84431.3
+2020,Broj,85-89,Oba spola,37760.85
+2020,Broj,90-94,Oba spola,10118.62
+2020,Broj,95-99,Oba spola,1293.83
+2020,Broj,100-104,Oba spola,165.38
+2020,Broj,105-109,Oba spola,12.82
+2020,Broj,110-114,Oba spola,0.24
+2020,Broj,115-119,Oba spola,0.0
+2020,Broj,120+,Oba spola,0.0
+2020,% od ukupnog broja,Total,Oba spola,100.0
+2020,% od ukupnog broja,0-4,Oba spola,4.27
+2020,% od ukupnog broja,5-9,Oba spola,4.6
+2020,% od ukupnog broja,10-14,Oba spola,5.17
+2020,% od ukupnog broja,15-19,Oba spola,5.21
+2020,% od ukupnog broja,20-24,Oba spola,6.22
+2020,% od ukupnog broja,25-29,Oba spola,6.24
+2020,% od ukupnog broja,30-34,Oba spola,6.89
+2020,% od ukupnog broja,35-39,Oba spola,7.23
+2020,% od ukupnog broja,40-44,Oba spola,7.14
+2020,% od ukupnog broja,45-49,Oba spola,7.0
+2020,% od ukupnog broja,50-54,Oba spola,7.04
+2020,% od ukupnog broja,55-59,Oba spola,7.65
+2020,% od ukupnog broja,60-64,Oba spola,7.35
+2020,% od ukupnog broja,65-69,Oba spola,6.45
+2020,% od ukupnog broja,70-74,Oba spola,4.76
+2020,% od ukupnog broja,75-79,Oba spola,2.88
+2020,% od ukupnog broja,80-84,Oba spola,2.46
+2020,% od ukupnog broja,85-89,Oba spola,1.1
+2020,% od ukupnog broja,90-94,Oba spola,0.29
+2020,% od ukupnog broja,95-99,Oba spola,0.04
+2020,% od ukupnog broja,100-104,Oba spola,0.0
+2020,% od ukupnog broja,105-109,Oba spola,0.0
+2020,% od ukupnog broja,110-114,Oba spola,0.0
+2020,% od ukupnog broja,115-119,Oba spola,0.0
+2020,% od ukupnog broja,120+,Oba spola,0.0
+2020,% od ukupnog broja,0-14,Oba spola,481568.97
+2020,% od ukupnog broja,0-18,Oba spola,623310.55
+2020,% od ukupnog broja,15-29,Oba spola,606202.92
+2020,% od ukupnog broja,15-49,Oba spola,1575631.46
+2020,% od ukupnog broja,15-64,Oba spola,2331831.29
+2020,% od ukupnog broja,65+,Oba spola,616916.09
+2020,% od ukupnog broja,75+,Oba spola,232410.25
+2020,% od ukupnog broja,85+,Oba spola,49351.73
+2020,% od ukupnog broja,100+,Oba spola,178.44
+2020,% od ukupnog broja,0-14,Oba spola,14.04
+2020,% od ukupnog broja,0-18,Oba spola,18.17
+2020,% od ukupnog broja,15-29,Oba spola,17.67
+2020,% od ukupnog broja,15-49,Oba spola,45.93
+2020,% od ukupnog broja,15-64,Oba spola,67.98
+2020,% od ukupnog broja,65+,Oba spola,17.98
+2020,% od ukupnog broja,75+,Oba spola,6.78
+2020,% od ukupnog broja,85+,Oba spola,1.44
+2020,% od ukupnog broja,100+,Oba spola,0.01
+2025,Broj,Total,Oba spola,3269526.46
+2025,Broj,0-4,Oba spola,133214.28
+2025,Broj,5-9,Oba spola,143022.18
+2025,Broj,10-14,Oba spola,155594.32
+2025,Broj,15-19,Oba spola,172127.24
+2025,Broj,20-24,Oba spola,159922.25
+2025,Broj,25-29,Oba spola,185213.08
+2025,Broj,30-34,Oba spola,194146.16
+2025,Broj,35-39,Oba spola,220196.28
+2025,Broj,40-44,Oba spola,234442.56
+2025,Broj,45-49,Oba spola,234797.14
+2025,Broj,50-54,Oba spola,232812.25
+2025,Broj,55-59,Oba spola,235373.58
+2025,Broj,60-64,Oba spola,254390.2
+2025,Broj,65-69,Oba spola,239195.16
+2025,Broj,70-74,Oba spola,199277.81
+2025,Broj,75-79,Oba spola,135243.77
+2025,Broj,80-84,Oba spola,71693.48
+2025,Broj,85-89,Oba spola,49591.19
+2025,Broj,90-94,Oba spola,16258.46
+2025,Broj,95-99,Oba spola,2799.11
+2025,Broj,100-104,Oba spola,202.64
+2025,Broj,105-109,Oba spola,12.8
+2025,Broj,110-114,Oba spola,0.52
+2025,Broj,115-119,Oba spola,0.0
+2025,Broj,120+,Oba spola,0.0
+2025,% od ukupnog broja,Total,Oba spola,100.0
+2025,% od ukupnog broja,0-4,Oba spola,4.07
+2025,% od ukupnog broja,5-9,Oba spola,4.37
+2025,% od ukupnog broja,10-14,Oba spola,4.76
+2025,% od ukupnog broja,15-19,Oba spola,5.26
+2025,% od ukupnog broja,20-24,Oba spola,4.89
+2025,% od ukupnog broja,25-29,Oba spola,5.66
+2025,% od ukupnog broja,30-34,Oba spola,5.94
+2025,% od ukupnog broja,35-39,Oba spola,6.73
+2025,% od ukupnog broja,40-44,Oba spola,7.17
+2025,% od ukupnog broja,45-49,Oba spola,7.18
+2025,% od ukupnog broja,50-54,Oba spola,7.12
+2025,% od ukupnog broja,55-59,Oba spola,7.2
+2025,% od ukupnog broja,60-64,Oba spola,7.78
+2025,% od ukupnog broja,65-69,Oba spola,7.32
+2025,% od ukupnog broja,70-74,Oba spola,6.1
+2025,% od ukupnog broja,75-79,Oba spola,4.14
+2025,% od ukupnog broja,80-84,Oba spola,2.19
+2025,% od ukupnog broja,85-89,Oba spola,1.52
+2025,% od ukupnog broja,90-94,Oba spola,0.5
+2025,% od ukupnog broja,95-99,Oba spola,0.09
+2025,% od ukupnog broja,100-104,Oba spola,0.01
+2025,% od ukupnog broja,105-109,Oba spola,0.0
+2025,% od ukupnog broja,110-114,Oba spola,0.0
+2025,% od ukupnog broja,115-119,Oba spola,0.0
+2025,% od ukupnog broja,120+,Oba spola,0.0
+2025,% od ukupnog broja,0-14,Oba spola,431830.78
+2025,% od ukupnog broja,0-18,Oba spola,571030.0
+2025,% od ukupnog broja,15-29,Oba spola,517262.57
+2025,% od ukupnog broja,15-49,Oba spola,1400844.72
+2025,% od ukupnog broja,15-64,Oba spola,2123420.75
+2025,% od ukupnog broja,65+,Oba spola,714274.93
+2025,% od ukupnog broja,75+,Oba spola,275801.96
+2025,% od ukupnog broja,85+,Oba spola,68864.72
+2025,% od ukupnog broja,100+,Oba spola,215.96
+2025,% od ukupnog broja,0-14,Oba spola,13.21
+2025,% od ukupnog broja,0-18,Oba spola,17.47
+2025,% od ukupnog broja,15-29,Oba spola,15.82
+2025,% od ukupnog broja,15-49,Oba spola,42.85
+2025,% od ukupnog broja,15-64,Oba spola,64.95
+2025,% od ukupnog broja,65+,Oba spola,21.85
+2025,% od ukupnog broja,75+,Oba spola,8.44
+2025,% od ukupnog broja,85+,Oba spola,2.11
+2025,% od ukupnog broja,100+,Oba spola,0.01
+2030,Broj,Total,Oba spola,3097083.89
+2030,Broj,0-4,Oba spola,116752.27
+2030,Broj,5-9,Oba spola,130006.74
+2030,Broj,10-14,Oba spola,140970.97
+2030,Broj,15-19,Oba spola,150812.87
+2030,Broj,20-24,Oba spola,153773.24
+2030,Broj,25-29,Oba spola,140117.63
+2030,Broj,30-34,Oba spola,168543.51
+2030,Broj,35-39,Oba spola,181561.56
+2030,Broj,40-44,Oba spola,208350.45
+2030,Broj,45-49,Oba spola,224334.48
+2030,Broj,50-54,Oba spola,227351.48
+2030,Broj,55-59,Oba spola,226900.62
+2030,Broj,60-64,Oba spola,228863.35
+2030,Broj,65-69,Oba spola,241691.71
+2030,Broj,70-74,Oba spola,216615.3
+2030,Broj,75-79,Oba spola,167173.09
+2030,Broj,80-84,Oba spola,101165.28
+2030,Broj,85-89,Oba spola,43898.43
+2030,Broj,90-94,Oba spola,22740.2
+2030,Broj,95-99,Oba spola,4932.37
+2030,Broj,100-104,Oba spola,508.74
+2030,Broj,105-109,Oba spola,19.01
+2030,Broj,110-114,Oba spola,0.55
+2030,Broj,115-119,Oba spola,0.01
+2030,Broj,120+,Oba spola,0.0
+2030,% od ukupnog broja,Total,Oba spola,100.0
+2030,% od ukupnog broja,0-4,Oba spola,3.77
+2030,% od ukupnog broja,5-9,Oba spola,4.2
+2030,% od ukupnog broja,10-14,Oba spola,4.55
+2030,% od ukupnog broja,15-19,Oba spola,4.87
+2030,% od ukupnog broja,20-24,Oba spola,4.97
+2030,% od ukupnog broja,25-29,Oba spola,4.52
+2030,% od ukupnog broja,30-34,Oba spola,5.44
+2030,% od ukupnog broja,35-39,Oba spola,5.86
+2030,% od ukupnog broja,40-44,Oba spola,6.73
+2030,% od ukupnog broja,45-49,Oba spola,7.24
+2030,% od ukupnog broja,50-54,Oba spola,7.34
+2030,% od ukupnog broja,55-59,Oba spola,7.33
+2030,% od ukupnog broja,60-64,Oba spola,7.39
+2030,% od ukupnog broja,65-69,Oba spola,7.8
+2030,% od ukupnog broja,70-74,Oba spola,6.99
+2030,% od ukupnog broja,75-79,Oba spola,5.4
+2030,% od ukupnog broja,80-84,Oba spola,3.27
+2030,% od ukupnog broja,85-89,Oba spola,1.42
+2030,% od ukupnog broja,90-94,Oba spola,0.73
+2030,% od ukupnog broja,95-99,Oba spola,0.16
+2030,% od ukupnog broja,100-104,Oba spola,0.02
+2030,% od ukupnog broja,105-109,Oba spola,0.0
+2030,% od ukupnog broja,110-114,Oba spola,0.0
+2030,% od ukupnog broja,115-119,Oba spola,0.0
+2030,% od ukupnog broja,120+,Oba spola,0.0
+2030,% od ukupnog broja,0-14,Oba spola,387729.98
+2030,% od ukupnog broja,0-18,Oba spola,506903.59
+2030,% od ukupnog broja,15-29,Oba spola,444703.74
+2030,% od ukupnog broja,15-49,Oba spola,1227493.74
+2030,% od ukupnog broja,15-64,Oba spola,1910609.19
+2030,% od ukupnog broja,65+,Oba spola,798744.71
+2030,% od ukupnog broja,75+,Oba spola,340437.69
+2030,% od ukupnog broja,85+,Oba spola,72099.33
+2030,% od ukupnog broja,100+,Oba spola,528.31
+2030,% od ukupnog broja,0-14,Oba spola,12.52
+2030,% od ukupnog broja,0-18,Oba spola,16.37
+2030,% od ukupnog broja,15-29,Oba spola,14.36
+2030,% od ukupnog broja,15-49,Oba spola,39.63
+2030,% od ukupnog broja,15-64,Oba spola,61.69
+2030,% od ukupnog broja,65+,Oba spola,25.79
+2030,% od ukupnog broja,75+,Oba spola,10.99
+2030,% od ukupnog broja,85+,Oba spola,2.33
+2030,% od ukupnog broja,100+,Oba spola,0.02
+2035,Broj,Total,Oba spola,2912260.0
+2035,Broj,0-4,Oba spola,102244.06
+2035,Broj,5-9,Oba spola,114005.81
+2035,Broj,10-14,Oba spola,128059.42
+2035,Broj,15-19,Oba spola,136697.61
+2035,Broj,20-24,Oba spola,134518.71
+2035,Broj,25-29,Oba spola,134077.44
+2035,Broj,30-34,Oba spola,128486.8
+2035,Broj,35-39,Oba spola,158064.08
+2035,Broj,40-44,Oba spola,172499.94
+2035,Broj,45-49,Oba spola,199585.08
+2035,Broj,50-54,Oba spola,217107.79
+2035,Broj,55-59,Oba spola,221477.68
+2035,Broj,60-64,Oba spola,220921.33
+2035,Broj,65-69,Oba spola,218471.04
+2035,Broj,70-74,Oba spola,220252.7
+2035,Broj,75-79,Oba spola,183860.06
+2035,Broj,80-84,Oba spola,127465.74
+2035,Broj,85-89,Oba spola,64773.18
+2035,Broj,90-94,Oba spola,21199.63
+2035,Broj,95-99,Oba spola,7449.97
+2035,Broj,100-104,Oba spola,986.55
+2035,Broj,105-109,Oba spola,54.44
+2035,Broj,110-114,Oba spola,0.93
+2035,Broj,115-119,Oba spola,0.01
+2035,Broj,120+,Oba spola,0.0
+2035,% od ukupnog broja,Total,Oba spola,100.0
+2035,% od ukupnog broja,0-4,Oba spola,3.51
+2035,% od ukupnog broja,5-9,Oba spola,3.91
+2035,% od ukupnog broja,10-14,Oba spola,4.4
+2035,% od ukupnog broja,15-19,Oba spola,4.69
+2035,% od ukupnog broja,20-24,Oba spola,4.62
+2035,% od ukupnog broja,25-29,Oba spola,4.6
+2035,% od ukupnog broja,30-34,Oba spola,4.41
+2035,% od ukupnog broja,35-39,Oba spola,5.43
+2035,% od ukupnog broja,40-44,Oba spola,5.92
+2035,% od ukupnog broja,45-49,Oba spola,6.85
+2035,% od ukupnog broja,50-54,Oba spola,7.45
+2035,% od ukupnog broja,55-59,Oba spola,7.61
+2035,% od ukupnog broja,60-64,Oba spola,7.59
+2035,% od ukupnog broja,65-69,Oba spola,7.5
+2035,% od ukupnog broja,70-74,Oba spola,7.56
+2035,% od ukupnog broja,75-79,Oba spola,6.31
+2035,% od ukupnog broja,80-84,Oba spola,4.38
+2035,% od ukupnog broja,85-89,Oba spola,2.22
+2035,% od ukupnog broja,90-94,Oba spola,0.73
+2035,% od ukupnog broja,95-99,Oba spola,0.26
+2035,% od ukupnog broja,100-104,Oba spola,0.03
+2035,% od ukupnog broja,105-109,Oba spola,0.0
+2035,% od ukupnog broja,110-114,Oba spola,0.0
+2035,% od ukupnog broja,115-119,Oba spola,0.0
+2035,% od ukupnog broja,120+,Oba spola,0.0
+2035,% od ukupnog broja,0-14,Oba spola,344309.29
+2035,% od ukupnog broja,0-18,Oba spola,453686.83
+2035,% od ukupnog broja,15-29,Oba spola,405293.76
+2035,% od ukupnog broja,15-49,Oba spola,1063929.66
+2035,% od ukupnog broja,15-64,Oba spola,1723436.46
+2035,% od ukupnog broja,65+,Oba spola,844514.24
+2035,% od ukupnog broja,75+,Oba spola,405790.51
+2035,% od ukupnog broja,85+,Oba spola,94464.7
+2035,% od ukupnog broja,100+,Oba spola,1041.92
+2035,% od ukupnog broja,0-14,Oba spola,11.82
+2035,% od ukupnog broja,0-18,Oba spola,15.58
+2035,% od ukupnog broja,15-29,Oba spola,13.92
+2035,% od ukupnog broja,15-49,Oba spola,36.53
+2035,% od ukupnog broja,15-64,Oba spola,59.18
+2035,% od ukupnog broja,65+,Oba spola,29.0
+2035,% od ukupnog broja,75+,Oba spola,13.93
+2035,% od ukupnog broja,85+,Oba spola,3.24
+2035,% od ukupnog broja,100+,Oba spola,0.04
+2040,Broj,Total,Oba spola,2717957.73
+2040,Broj,0-4,Oba spola,91336.91
+2040,Broj,5-9,Oba spola,99891.25
+2040,Broj,10-14,Oba spola,112358.89
+2040,Broj,15-19,Oba spola,124063.16
+2040,Broj,20-24,Oba spola,122059.02
+2040,Broj,25-29,Oba spola,117398.0
+2040,Broj,30-34,Oba spola,122407.36
+2040,Broj,35-39,Oba spola,121328.15
+2040,Broj,40-44,Oba spola,150501.48
+2040,Broj,45-49,Oba spola,165820.11
+2040,Broj,50-54,Oba spola,193411.4
+2040,Broj,55-59,Oba spola,211527.66
+2040,Broj,60-64,Oba spola,215748.85
+2040,Broj,65-69,Oba spola,211538.7
+2040,Broj,70-74,Oba spola,200469.86
+2040,Broj,75-79,Oba spola,188975.74
+2040,Broj,80-84,Oba spola,142668.75
+2040,Broj,85-89,Oba spola,84066.88
+2040,Broj,90-94,Oba spola,33265.31
+2040,Broj,95-99,Oba spola,7387.63
+2040,Broj,100-104,Oba spola,1615.38
+2040,Broj,105-109,Oba spola,114.33
+2040,Broj,110-114,Oba spola,2.88
+2040,Broj,115-119,Oba spola,0.02
+2040,Broj,120+,Oba spola,0.0
+2040,% od ukupnog broja,Total,Oba spola,100.0
+2040,% od ukupnog broja,0-4,Oba spola,3.36
+2040,% od ukupnog broja,5-9,Oba spola,3.68
+2040,% od ukupnog broja,10-14,Oba spola,4.13
+2040,% od ukupnog broja,15-19,Oba spola,4.56
+2040,% od ukupnog broja,20-24,Oba spola,4.49
+2040,% od ukupnog broja,25-29,Oba spola,4.32
+2040,% od ukupnog broja,30-34,Oba spola,4.5
+2040,% od ukupnog broja,35-39,Oba spola,4.46
+2040,% od ukupnog broja,40-44,Oba spola,5.54
+2040,% od ukupnog broja,45-49,Oba spola,6.1
+2040,% od ukupnog broja,50-54,Oba spola,7.12
+2040,% od ukupnog broja,55-59,Oba spola,7.78
+2040,% od ukupnog broja,60-64,Oba spola,7.94
+2040,% od ukupnog broja,65-69,Oba spola,7.78
+2040,% od ukupnog broja,70-74,Oba spola,7.38
+2040,% od ukupnog broja,75-79,Oba spola,6.95
+2040,% od ukupnog broja,80-84,Oba spola,5.25
+2040,% od ukupnog broja,85-89,Oba spola,3.09
+2040,% od ukupnog broja,90-94,Oba spola,1.22
+2040,% od ukupnog broja,95-99,Oba spola,0.27
+2040,% od ukupnog broja,100-104,Oba spola,0.06
+2040,% od ukupnog broja,105-109,Oba spola,0.0
+2040,% od ukupnog broja,110-114,Oba spola,0.0
+2040,% od ukupnog broja,115-119,Oba spola,0.0
+2040,% od ukupnog broja,120+,Oba spola,0.0
+2040,% od ukupnog broja,0-14,Oba spola,303587.05
+2040,% od ukupnog broja,0-18,Oba spola,402365.82
+2040,% od ukupnog broja,15-29,Oba spola,363520.19
+2040,% od ukupnog broja,15-49,Oba spola,923577.29
+2040,% od ukupnog broja,15-64,Oba spola,1544265.21
+2040,% od ukupnog broja,65+,Oba spola,870105.47
+2040,% od ukupnog broja,75+,Oba spola,458096.91
+2040,% od ukupnog broja,85+,Oba spola,126452.43
+2040,% od ukupnog broja,100+,Oba spola,1732.61
+2040,% od ukupnog broja,0-14,Oba spola,11.17
+2040,% od ukupnog broja,0-18,Oba spola,14.8
+2040,% od ukupnog broja,15-29,Oba spola,13.37
+2040,% od ukupnog broja,15-49,Oba spola,33.98
+2040,% od ukupnog broja,15-64,Oba spola,56.82
+2040,% od ukupnog broja,65+,Oba spola,32.01
+2040,% od ukupnog broja,75+,Oba spola,16.85
+2040,% od ukupnog broja,85+,Oba spola,4.65
+2040,% od ukupnog broja,100+,Oba spola,0.06
+2045,Broj,Total,Oba spola,2518462.83
+2045,Broj,0-4,Oba spola,83042.03
+2045,Broj,5-9,Oba spola,89240.14
+2045,Broj,10-14,Oba spola,98520.77
+2045,Broj,15-19,Oba spola,108917.66
+2045,Broj,20-24,Oba spola,110645.5
+2045,Broj,25-29,Oba spola,106449.13
+2045,Broj,30-34,Oba spola,107361.45
+2045,Broj,35-39,Oba spola,115245.68
+2045,Broj,40-44,Oba spola,116234.44
+2045,Broj,45-49,Oba spola,144978.36
+2045,Broj,50-54,Oba spola,161252.4
+2045,Broj,55-59,Oba spola,188794.86
+2045,Broj,60-64,Oba spola,206299.37
+2045,Broj,65-69,Oba spola,207053.68
+2045,Broj,70-74,Oba spola,195373.66
+2045,Broj,75-79,Oba spola,173872.43
+2045,Broj,80-84,Oba spola,149056.97
+2045,Broj,85-89,Oba spola,96646.71
+2045,Broj,90-94,Oba spola,45021.33
+2045,Broj,95-99,Oba spola,12538.01
+2045,Broj,100-104,Oba spola,1711.02
+2045,Broj,105-109,Oba spola,200.84
+2045,Broj,110-114,Oba spola,6.31
+2045,Broj,115-119,Oba spola,0.07
+2045,Broj,120+,Oba spola,0.0
+2045,% od ukupnog broja,Total,Oba spola,100.0
+2045,% od ukupnog broja,0-4,Oba spola,3.3
+2045,% od ukupnog broja,5-9,Oba spola,3.54
+2045,% od ukupnog broja,10-14,Oba spola,3.91
+2045,% od ukupnog broja,15-19,Oba spola,4.32
+2045,% od ukupnog broja,20-24,Oba spola,4.39
+2045,% od ukupnog broja,25-29,Oba spola,4.23
+2045,% od ukupnog broja,30-34,Oba spola,4.26
+2045,% od ukupnog broja,35-39,Oba spola,4.58
+2045,% od ukupnog broja,40-44,Oba spola,4.62
+2045,% od ukupnog broja,45-49,Oba spola,5.76
+2045,% od ukupnog broja,50-54,Oba spola,6.4
+2045,% od ukupnog broja,55-59,Oba spola,7.5
+2045,% od ukupnog broja,60-64,Oba spola,8.19
+2045,% od ukupnog broja,65-69,Oba spola,8.22
+2045,% od ukupnog broja,70-74,Oba spola,7.76
+2045,% od ukupnog broja,75-79,Oba spola,6.9
+2045,% od ukupnog broja,80-84,Oba spola,5.92
+2045,% od ukupnog broja,85-89,Oba spola,3.84
+2045,% od ukupnog broja,90-94,Oba spola,1.79
+2045,% od ukupnog broja,95-99,Oba spola,0.5
+2045,% od ukupnog broja,100-104,Oba spola,0.07
+2045,% od ukupnog broja,105-109,Oba spola,0.01
+2045,% od ukupnog broja,110-114,Oba spola,0.0
+2045,% od ukupnog broja,115-119,Oba spola,0.0
+2045,% od ukupnog broja,120+,Oba spola,0.0
+2045,% od ukupnog broja,0-14,Oba spola,270802.94
+2045,% od ukupnog broja,0-18,Oba spola,357437.99
+2045,% od ukupnog broja,15-29,Oba spola,326012.29
+2045,% od ukupnog broja,15-49,Oba spola,809832.21
+2045,% od ukupnog broja,15-64,Oba spola,1366178.85
+2045,% od ukupnog broja,65+,Oba spola,881481.04
+2045,% od ukupnog broja,75+,Oba spola,479053.69
+2045,% od ukupnog broja,85+,Oba spola,156124.3
+2045,% od ukupnog broja,100+,Oba spola,1918.25
+2045,% od ukupnog broja,0-14,Oba spola,10.75
+2045,% od ukupnog broja,0-18,Oba spola,14.19
+2045,% od ukupnog broja,15-29,Oba spola,12.94
+2045,% od ukupnog broja,15-49,Oba spola,32.16
+2045,% od ukupnog broja,15-64,Oba spola,54.25
+2045,% od ukupnog broja,65+,Oba spola,35.0
+2045,% od ukupnog broja,75+,Oba spola,19.02
+2045,% od ukupnog broja,85+,Oba spola,6.2
+2045,% od ukupnog broja,100+,Oba spola,0.08
+2050,Broj,Total,Oba spola,2318700.67
+2050,Broj,0-4,Oba spola,75514.93
+2050,Broj,5-9,Oba spola,81099.46
+2050,Broj,10-14,Oba spola,88026.53
+2050,Broj,15-19,Oba spola,95572.11
+2050,Broj,20-24,Oba spola,97216.95
+2050,Broj,25-29,Oba spola,96425.27
+2050,Broj,30-34,Oba spola,97256.87
+2050,Broj,35-39,Oba spola,101196.15
+2050,Broj,40-44,Oba spola,110159.11
+2050,Broj,45-49,Oba spola,112554.52
+2050,Broj,50-54,Oba spola,141282.64
+2050,Broj,55-59,Oba spola,157969.95
+2050,Broj,60-64,Oba spola,184596.6
+2050,Broj,65-69,Oba spola,198504.56
+2050,Broj,70-74,Oba spola,192220.98
+2050,Broj,75-79,Oba spola,171318.47
+2050,Broj,80-84,Oba spola,139313.82
+2050,Broj,85-89,Oba spola,103447.9
+2050,Broj,90-94,Oba spola,53718.05
+2050,Broj,95-99,Oba spola,17901.92
+2050,Broj,100-104,Oba spola,3167.19
+2050,Broj,105-109,Oba spola,225.0
+2050,Broj,110-114,Oba spola,11.52
+2050,Broj,115-119,Oba spola,0.16
+2050,Broj,120+,Oba spola,0.0
+2050,% od ukupnog broja,Total,Oba spola,100.0
+2050,% od ukupnog broja,0-4,Oba spola,3.26
+2050,% od ukupnog broja,5-9,Oba spola,3.5
+2050,% od ukupnog broja,10-14,Oba spola,3.8
+2050,% od ukupnog broja,15-19,Oba spola,4.12
+2050,% od ukupnog broja,20-24,Oba spola,4.19
+2050,% od ukupnog broja,25-29,Oba spola,4.16
+2050,% od ukupnog broja,30-34,Oba spola,4.19
+2050,% od ukupnog broja,35-39,Oba spola,4.36
+2050,% od ukupnog broja,40-44,Oba spola,4.75
+2050,% od ukupnog broja,45-49,Oba spola,4.85
+2050,% od ukupnog broja,50-54,Oba spola,6.09
+2050,% od ukupnog broja,55-59,Oba spola,6.81
+2050,% od ukupnog broja,60-64,Oba spola,7.96
+2050,% od ukupnog broja,65-69,Oba spola,8.56
+2050,% od ukupnog broja,70-74,Oba spola,8.29
+2050,% od ukupnog broja,75-79,Oba spola,7.39
+2050,% od ukupnog broja,80-84,Oba spola,6.01
+2050,% od ukupnog broja,85-89,Oba spola,4.46
+2050,% od ukupnog broja,90-94,Oba spola,2.32
+2050,% od ukupnog broja,95-99,Oba spola,0.77
+2050,% od ukupnog broja,100-104,Oba spola,0.14
+2050,% od ukupnog broja,105-109,Oba spola,0.01
+2050,% od ukupnog broja,110-114,Oba spola,0.0
+2050,% od ukupnog broja,115-119,Oba spola,0.0
+2050,% od ukupnog broja,120+,Oba spola,0.0
+2050,% od ukupnog broja,0-14,Oba spola,244640.93
+2050,% od ukupnog broja,0-18,Oba spola,320688.38
+2050,% od ukupnog broja,15-29,Oba spola,289214.33
+2050,% od ukupnog broja,15-49,Oba spola,710380.99
+2050,% od ukupnog broja,15-64,Oba spola,1194230.17
+2050,% od ukupnog broja,65+,Oba spola,879829.57
+2050,% od ukupnog broja,75+,Oba spola,489104.03
+2050,% od ukupnog broja,85+,Oba spola,178471.74
+2050,% od ukupnog broja,100+,Oba spola,3403.87
+2050,% od ukupnog broja,0-14,Oba spola,10.55
+2050,% od ukupnog broja,0-18,Oba spola,13.83
+2050,% od ukupnog broja,15-29,Oba spola,12.47
+2050,% od ukupnog broja,15-49,Oba spola,30.64
+2050,% od ukupnog broja,15-64,Oba spola,51.5
+2050,% od ukupnog broja,65+,Oba spola,37.94
+2050,% od ukupnog broja,75+,Oba spola,21.09
+2050,% od ukupnog broja,85+,Oba spola,7.7
+2050,% od ukupnog broja,100+,Oba spola,0.15
+2055,Broj,Total,Oba spola,2123402.2
+2055,Broj,0-4,Oba spola,68410.55
+2055,Broj,5-9,Oba spola,73713.6
+2055,Broj,10-14,Oba spola,79956.88
+2055,Broj,15-19,Oba spola,85408.87
+2055,Broj,20-24,Oba spola,85383.67
+2055,Broj,25-29,Oba spola,84817.37
+2055,Broj,30-34,Oba spola,88064.28
+2055,Broj,35-39,Oba spola,91625.61
+2055,Broj,40-44,Oba spola,96826.2
+2055,Broj,45-49,Oba spola,106488.77
+2055,Broj,50-54,Oba spola,110217.64
+2055,Broj,55-59,Oba spola,138705.65
+2055,Broj,60-64,Oba spola,155066.87
+2055,Broj,65-69,Oba spola,178225.37
+2055,Broj,70-74,Oba spola,185199.11
+2055,Broj,75-79,Oba spola,170022.4
+2055,Broj,80-84,Oba spola,139464.62
+2055,Broj,85-89,Oba spola,98824.03
+2055,Broj,90-94,Oba spola,59369.78
+2055,Broj,95-99,Oba spola,22362.5
+2055,Broj,100-104,Oba spola,4783.57
+2055,Broj,105-109,Oba spola,451.25
+2055,Broj,110-114,Oba spola,13.29
+2055,Broj,115-119,Oba spola,0.3
+2055,Broj,120+,Oba spola,0.0
+2055,% od ukupnog broja,Total,Oba spola,100.0
+2055,% od ukupnog broja,0-4,Oba spola,3.22
+2055,% od ukupnog broja,5-9,Oba spola,3.47
+2055,% od ukupnog broja,10-14,Oba spola,3.77
+2055,% od ukupnog broja,15-19,Oba spola,4.02
+2055,% od ukupnog broja,20-24,Oba spola,4.02
+2055,% od ukupnog broja,25-29,Oba spola,3.99
+2055,% od ukupnog broja,30-34,Oba spola,4.15
+2055,% od ukupnog broja,35-39,Oba spola,4.32
+2055,% od ukupnog broja,40-44,Oba spola,4.56
+2055,% od ukupnog broja,45-49,Oba spola,5.02
+2055,% od ukupnog broja,50-54,Oba spola,5.19
+2055,% od ukupnog broja,55-59,Oba spola,6.53
+2055,% od ukupnog broja,60-64,Oba spola,7.3
+2055,% od ukupnog broja,65-69,Oba spola,8.39
+2055,% od ukupnog broja,70-74,Oba spola,8.72
+2055,% od ukupnog broja,75-79,Oba spola,8.01
+2055,% od ukupnog broja,80-84,Oba spola,6.57
+2055,% od ukupnog broja,85-89,Oba spola,4.65
+2055,% od ukupnog broja,90-94,Oba spola,2.8
+2055,% od ukupnog broja,95-99,Oba spola,1.05
+2055,% od ukupnog broja,100-104,Oba spola,0.23
+2055,% od ukupnog broja,105-109,Oba spola,0.02
+2055,% od ukupnog broja,110-114,Oba spola,0.0
+2055,% od ukupnog broja,115-119,Oba spola,0.0
+2055,% od ukupnog broja,120+,Oba spola,0.0
+2055,% od ukupnog broja,0-14,Oba spola,222081.03
+2055,% od ukupnog broja,0-18,Oba spola,290210.23
+2055,% od ukupnog broja,15-29,Oba spola,255609.91
+2055,% od ukupnog broja,15-49,Oba spola,638614.77
+2055,% od ukupnog broja,15-64,Oba spola,1042604.93
+2055,% od ukupnog broja,65+,Oba spola,858716.24
+2055,% od ukupnog broja,75+,Oba spola,495291.75
+2055,% od ukupnog broja,85+,Oba spola,185804.72
+2055,% od ukupnog broja,100+,Oba spola,5248.42
+2055,% od ukupnog broja,0-14,Oba spola,10.46
+2055,% od ukupnog broja,0-18,Oba spola,13.67
+2055,% od ukupnog broja,15-29,Oba spola,12.04
+2055,% od ukupnog broja,15-49,Oba spola,30.08
+2055,% od ukupnog broja,15-64,Oba spola,49.1
+2055,% od ukupnog broja,65+,Oba spola,40.44
+2055,% od ukupnog broja,75+,Oba spola,23.33
+2055,% od ukupnog broja,85+,Oba spola,8.75
+2055,% od ukupnog broja,100+,Oba spola,0.25
+2060,Broj,Total,Oba spola,1935400.33
+2060,Broj,0-4,Oba spola,61553.67
+2060,Broj,5-9,Oba spola,66759.13
+2060,Broj,10-14,Oba spola,72642.52
+2060,Broj,15-19,Oba spola,77551.04
+2060,Broj,20-24,Oba spola,76336.43
+2060,Broj,25-29,Oba spola,74585.31
+2060,Broj,30-34,Oba spola,77549.33
+2060,Broj,35-39,Oba spola,82943.6
+2060,Broj,40-44,Oba spola,87649.69
+2060,Broj,45-49,Oba spola,93699.44
+2060,Broj,50-54,Oba spola,104160.04
+2060,Broj,55-59,Oba spola,108725.98
+2060,Broj,60-64,Oba spola,136471.03
+2060,Broj,65-69,Oba spola,150376.2
+2060,Broj,70-74,Oba spola,167059.03
+2060,Broj,75-79,Oba spola,165104.19
+2060,Broj,80-84,Oba spola,140113.55
+2060,Broj,85-89,Oba spola,101142.95
+2060,Broj,90-94,Oba spola,58310.55
+2060,Broj,95-99,Oba spola,25662.47
+2060,Broj,100-104,Oba spola,6262.16
+2060,Broj,105-109,Oba spola,713.62
+2060,Broj,110-114,Oba spola,28.05
+2060,Broj,115-119,Oba spola,0.35
+2060,Broj,120+,Oba spola,0.0
+2060,% od ukupnog broja,Total,Oba spola,100.0
+2060,% od ukupnog broja,0-4,Oba spola,3.18
+2060,% od ukupnog broja,5-9,Oba spola,3.45
+2060,% od ukupnog broja,10-14,Oba spola,3.75
+2060,% od ukupnog broja,15-19,Oba spola,4.01
+2060,% od ukupnog broja,20-24,Oba spola,3.94
+2060,% od ukupnog broja,25-29,Oba spola,3.85
+2060,% od ukupnog broja,30-34,Oba spola,4.01
+2060,% od ukupnog broja,35-39,Oba spola,4.29
+2060,% od ukupnog broja,40-44,Oba spola,4.53
+2060,% od ukupnog broja,45-49,Oba spola,4.84
+2060,% od ukupnog broja,50-54,Oba spola,5.38
+2060,% od ukupnog broja,55-59,Oba spola,5.62
+2060,% od ukupnog broja,60-64,Oba spola,7.05
+2060,% od ukupnog broja,65-69,Oba spola,7.77
+2060,% od ukupnog broja,70-74,Oba spola,8.63
+2060,% od ukupnog broja,75-79,Oba spola,8.53
+2060,% od ukupnog broja,80-84,Oba spola,7.24
+2060,% od ukupnog broja,85-89,Oba spola,5.23
+2060,% od ukupnog broja,90-94,Oba spola,3.01
+2060,% od ukupnog broja,95-99,Oba spola,1.33
+2060,% od ukupnog broja,100-104,Oba spola,0.32
+2060,% od ukupnog broja,105-109,Oba spola,0.04
+2060,% od ukupnog broja,110-114,Oba spola,0.0
+2060,% od ukupnog broja,115-119,Oba spola,0.0
+2060,% od ukupnog broja,120+,Oba spola,0.0
+2060,% od ukupnog broja,0-14,Oba spola,200955.32
+2060,% od ukupnog broja,0-18,Oba spola,262861.39
+2060,% od ukupnog broja,15-29,Oba spola,228472.78
+2060,% od ukupnog broja,15-49,Oba spola,570314.83
+2060,% od ukupnog broja,15-64,Oba spola,919671.89
+2060,% od ukupnog broja,65+,Oba spola,814773.12
+2060,% od ukupnog broja,75+,Oba spola,497337.89
+2060,% od ukupnog broja,85+,Oba spola,192120.16
+2060,% od ukupnog broja,100+,Oba spola,7004.18
+2060,% od ukupnog broja,0-14,Oba spola,10.38
+2060,% od ukupnog broja,0-18,Oba spola,13.58
+2060,% od ukupnog broja,15-29,Oba spola,11.8
+2060,% od ukupnog broja,15-49,Oba spola,29.47
+2060,% od ukupnog broja,15-64,Oba spola,47.52
+2060,% od ukupnog broja,65+,Oba spola,42.1
+2060,% od ukupnog broja,75+,Oba spola,25.7
+2060,% od ukupnog broja,85+,Oba spola,9.93
+2060,% od ukupnog broja,100+,Oba spola,0.36
+2065,Broj,Total,Oba spola,1756780.2
+2065,Broj,0-4,Oba spola,55148.16
+2065,Broj,5-9,Oba spola,60070.13
+2065,Broj,10-14,Oba spola,65776.73
+2065,Broj,15-19,Oba spola,70437.14
+2065,Broj,20-24,Oba spola,69294.4
+2065,Broj,25-29,Oba spola,66708.93
+2065,Broj,30-34,Oba spola,68283.48
+2065,Broj,35-39,Oba spola,73123.1
+2065,Broj,40-44,Oba spola,79346.2
+2065,Broj,45-49,Oba spola,84825.07
+2065,Broj,50-54,Oba spola,91768.84
+2065,Broj,55-59,Oba spola,102700.34
+2065,Broj,60-64,Oba spola,107549.49
+2065,Broj,65-69,Oba spola,132712.75
+2065,Broj,70-74,Oba spola,141707.01
+2065,Broj,75-79,Oba spola,150032.55
+2065,Broj,80-84,Oba spola,137683.75
+2065,Broj,85-89,Oba spola,103478.94
+2065,Broj,90-94,Oba spola,61546.2
+2065,Broj,95-99,Oba spola,26086.34
+2065,Broj,100-104,Oba spola,7479.79
+2065,Broj,105-109,Oba spola,974.59
+2065,Broj,110-114,Oba spola,45.52
+2065,Broj,115-119,Oba spola,0.75
+2065,Broj,120+,Oba spola,0.0
+2065,% od ukupnog broja,Total,Oba spola,100.0
+2065,% od ukupnog broja,0-4,Oba spola,3.14
+2065,% od ukupnog broja,5-9,Oba spola,3.42
+2065,% od ukupnog broja,10-14,Oba spola,3.74
+2065,% od ukupnog broja,15-19,Oba spola,4.01
+2065,% od ukupnog broja,20-24,Oba spola,3.94
+2065,% od ukupnog broja,25-29,Oba spola,3.8
+2065,% od ukupnog broja,30-34,Oba spola,3.89
+2065,% od ukupnog broja,35-39,Oba spola,4.16
+2065,% od ukupnog broja,40-44,Oba spola,4.52
+2065,% od ukupnog broja,45-49,Oba spola,4.83
+2065,% od ukupnog broja,50-54,Oba spola,5.22
+2065,% od ukupnog broja,55-59,Oba spola,5.85
+2065,% od ukupnog broja,60-64,Oba spola,6.12
+2065,% od ukupnog broja,65-69,Oba spola,7.55
+2065,% od ukupnog broja,70-74,Oba spola,8.07
+2065,% od ukupnog broja,75-79,Oba spola,8.54
+2065,% od ukupnog broja,80-84,Oba spola,7.84
+2065,% od ukupnog broja,85-89,Oba spola,5.89
+2065,% od ukupnog broja,90-94,Oba spola,3.5
+2065,% od ukupnog broja,95-99,Oba spola,1.48
+2065,% od ukupnog broja,100-104,Oba spola,0.43
+2065,% od ukupnog broja,105-109,Oba spola,0.06
+2065,% od ukupnog broja,110-114,Oba spola,0.0
+2065,% od ukupnog broja,115-119,Oba spola,0.0
+2065,% od ukupnog broja,120+,Oba spola,0.0
+2065,% od ukupnog broja,0-14,Oba spola,180995.02
+2065,% od ukupnog broja,0-18,Oba spola,237217.08
+2065,% od ukupnog broja,15-29,Oba spola,206440.46
+2065,% od ukupnog broja,15-49,Oba spola,512018.32
+2065,% od ukupnog broja,15-64,Oba spola,814036.99
+2065,% od ukupnog broja,65+,Oba spola,761748.18
+2065,% od ukupnog broja,75+,Oba spola,487328.42
+2065,% od ukupnog broja,85+,Oba spola,199612.12
+2065,% od ukupnog broja,100+,Oba spola,8500.65
+2065,% od ukupnog broja,0-14,Oba spola,10.3
+2065,% od ukupnog broja,0-18,Oba spola,13.5
+2065,% od ukupnog broja,15-29,Oba spola,11.75
+2065,% od ukupnog broja,15-49,Oba spola,29.15
+2065,% od ukupnog broja,15-64,Oba spola,46.34
+2065,% od ukupnog broja,65+,Oba spola,43.36
+2065,% od ukupnog broja,75+,Oba spola,27.74
+2065,% od ukupnog broja,85+,Oba spola,11.36
+2065,% od ukupnog broja,100+,Oba spola,0.48
+2070,Broj,Total,Oba spola,1588914.91
+2070,Broj,0-4,Oba spola,49664.82
+2070,Broj,5-9,Oba spola,53832.89
+2070,Broj,10-14,Oba spola,59194.73
+2070,Broj,15-19,Oba spola,63774.53
+2070,Broj,20-24,Oba spola,62924.54
+2070,Broj,25-29,Oba spola,60535.5
+2070,Broj,30-34,Oba spola,61103.09
+2070,Broj,35-39,Oba spola,64468.84
+2070,Broj,40-44,Oba spola,70033.36
+2070,Broj,45-49,Oba spola,76810.22
+2070,Broj,50-54,Oba spola,83109.87
+2070,Broj,55-59,Oba spola,90626.65
+2070,Broj,60-64,Oba spola,101615.43
+2070,Broj,65-69,Oba spola,105181.94
+2070,Broj,70-74,Oba spola,125513.88
+2070,Broj,75-79,Oba spola,128249.82
+2070,Broj,80-84,Oba spola,126471.53
+2070,Broj,85-89,Oba spola,103471.07
+2070,Broj,90-94,Oba spola,64554.48
+2070,Broj,95-99,Oba spola,28626.75
+2070,Broj,100-104,Oba spola,7881.59
+2070,Broj,105-109,Oba spola,1204.31
+2070,Broj,110-114,Oba spola,63.83
+2070,Broj,115-119,Oba spola,1.22
+2070,Broj,120+,Oba spola,0.01
+2070,% od ukupnog broja,Total,Oba spola,100.0
+2070,% od ukupnog broja,0-4,Oba spola,3.13
+2070,% od ukupnog broja,5-9,Oba spola,3.39
+2070,% od ukupnog broja,10-14,Oba spola,3.73
+2070,% od ukupnog broja,15-19,Oba spola,4.01
+2070,% od ukupnog broja,20-24,Oba spola,3.96
+2070,% od ukupnog broja,25-29,Oba spola,3.81
+2070,% od ukupnog broja,30-34,Oba spola,3.85
+2070,% od ukupnog broja,35-39,Oba spola,4.06
+2070,% od ukupnog broja,40-44,Oba spola,4.41
+2070,% od ukupnog broja,45-49,Oba spola,4.83
+2070,% od ukupnog broja,50-54,Oba spola,5.23
+2070,% od ukupnog broja,55-59,Oba spola,5.7
+2070,% od ukupnog broja,60-64,Oba spola,6.4
+2070,% od ukupnog broja,65-69,Oba spola,6.62
+2070,% od ukupnog broja,70-74,Oba spola,7.9
+2070,% od ukupnog broja,75-79,Oba spola,8.07
+2070,% od ukupnog broja,80-84,Oba spola,7.96
+2070,% od ukupnog broja,85-89,Oba spola,6.51
+2070,% od ukupnog broja,90-94,Oba spola,4.06
+2070,% od ukupnog broja,95-99,Oba spola,1.8
+2070,% od ukupnog broja,100-104,Oba spola,0.5
+2070,% od ukupnog broja,105-109,Oba spola,0.08
+2070,% od ukupnog broja,110-114,Oba spola,0.0
+2070,% od ukupnog broja,115-119,Oba spola,0.0
+2070,% od ukupnog broja,120+,Oba spola,0.0
+2070,% od ukupnog broja,0-14,Oba spola,162692.44
+2070,% od ukupnog broja,0-18,Oba spola,213571.73
+2070,% od ukupnog broja,15-29,Oba spola,187234.58
+2070,% od ukupnog broja,15-49,Oba spola,459650.09
+2070,% od ukupnog broja,15-64,Oba spola,735002.04
+2070,% od ukupnog broja,65+,Oba spola,691220.43
+2070,% od ukupnog broja,75+,Oba spola,460524.61
+2070,% od ukupnog broja,85+,Oba spola,205803.27
+2070,% od ukupnog broja,100+,Oba spola,9150.97
+2070,% od ukupnog broja,0-14,Oba spola,10.24
+2070,% od ukupnog broja,0-18,Oba spola,13.44
+2070,% od ukupnog broja,15-29,Oba spola,11.78
+2070,% od ukupnog broja,15-49,Oba spola,28.93
+2070,% od ukupnog broja,15-64,Oba spola,46.26
+2070,% od ukupnog broja,65+,Oba spola,43.5
+2070,% od ukupnog broja,75+,Oba spola,28.98
+2070,% od ukupnog broja,85+,Oba spola,12.95
+2070,% od ukupnog broja,100+,Oba spola,0.58
+2018,Broj,Total,Muškarci,100.0
+2018,Broj,0-4,Muškarci,4.5
+2018,Broj,5-9,Muškarci,5.13
+2018,Broj,10-14,Muškarci,5.3
+2018,Broj,15-19,Muškarci,5.7
+2018,Broj,20-24,Muškarci,7.27
+2018,Broj,25-29,Muškarci,6.74
+2018,Broj,30-34,Muškarci,7.5
+2018,Broj,35-39,Muškarci,7.49
+2018,Broj,40-44,Muškarci,7.32
+2018,Broj,45-49,Muškarci,7.02
+2018,Broj,50-54,Muškarci,7.39
+2018,Broj,55-59,Muškarci,7.56
+2018,Broj,60-64,Muškarci,6.89
+2018,Broj,65-69,Muškarci,5.51
+2018,Broj,70-74,Muškarci,3.47
+2018,Broj,75-79,Muškarci,2.61
+2018,Broj,80-84,Muškarci,1.76
+2018,Broj,85-89,Muškarci,0.68
+2018,Broj,90-94,Muškarci,0.15
+2018,Broj,95-99,Muškarci,0.02
+2018,Broj,100-104,Muškarci,0.0
+2018,Broj,105-109,Muškarci,0.0
+2018,Broj,110-114,Muškarci,0.0
+2018,Broj,115-119,Muškarci,0.0
+2018,Broj,120+,Muškarci,0.0
+2018,% od ukupnog broja,Total,Muškarci,1.0
+2018,% od ukupnog broja,0-4,Muškarci,1.0
+2018,% od ukupnog broja,5-9,Muškarci,1.0
+2018,% od ukupnog broja,10-14,Muškarci,1.0
+2018,% od ukupnog broja,15-19,Muškarci,1.0
+2018,% od ukupnog broja,20-24,Muškarci,1.0
+2018,% od ukupnog broja,25-29,Muškarci,1.0
+2018,% od ukupnog broja,30-34,Muškarci,1.0
+2018,% od ukupnog broja,35-39,Muškarci,1.0
+2018,% od ukupnog broja,40-44,Muškarci,1.0
+2018,% od ukupnog broja,45-49,Muškarci,1.0
+2018,% od ukupnog broja,50-54,Muškarci,1.0
+2018,% od ukupnog broja,55-59,Muškarci,1.0
+2018,% od ukupnog broja,60-64,Muškarci,1.0
+2018,% od ukupnog broja,65-69,Muškarci,1.0
+2018,% od ukupnog broja,70-74,Muškarci,1.0
+2018,% od ukupnog broja,75-79,Muškarci,1.0
+2018,% od ukupnog broja,80-84,Muškarci,1.0
+2018,% od ukupnog broja,85-89,Muškarci,1.0
+2018,% od ukupnog broja,90-94,Muškarci,1.0
+2018,% od ukupnog broja,95-99,Muškarci,1.0
+2018,% od ukupnog broja,100-104,Muškarci,1.0
+2018,% od ukupnog broja,105-109,Muškarci,1.0
+2018,% od ukupnog broja,110-114,Muškarci,1.0
+2018,% od ukupnog broja,115-119,Muškarci,1.0
+2018,% od ukupnog broja,120+,Muškarci,0.0
+2020,Broj,Total,Muškarci,100.0
+2020,Broj,0-4,Muškarci,4.52
+2020,Broj,5-9,Muškarci,4.83
+2020,Broj,10-14,Muškarci,5.43
+2020,Broj,15-19,Muškarci,5.47
+2020,Broj,20-24,Muškarci,6.46
+2020,Broj,25-29,Muškarci,6.47
+2020,Broj,30-34,Muškarci,7.14
+2020,Broj,35-39,Muškarci,7.46
+2020,Broj,40-44,Muškarci,7.34
+2020,Broj,45-49,Muškarci,7.16
+2020,Broj,50-54,Muškarci,7.16
+2020,Broj,55-59,Muškarci,7.65
+2020,Broj,60-64,Muškarci,7.19
+2020,Broj,65-69,Muškarci,6.12
+2020,Broj,70-74,Muškarci,4.24
+2020,Broj,75-79,Muškarci,2.4
+2020,Broj,80-84,Muškarci,1.93
+2020,Broj,85-89,Muškarci,0.81
+2020,Broj,90-94,Muškarci,0.21
+2020,Broj,95-99,Muškarci,0.02
+2020,Broj,100-104,Muškarci,0.0
+2020,Broj,105-109,Muškarci,0.0
+2020,Broj,110-114,Muškarci,0.0
+2020,Broj,115-119,Muškarci,0.0
+2020,Broj,120+,Muškarci,0.0
+2020,% od ukupnog broja,Total,Muškarci,0.98
+2020,% od ukupnog broja,0-4,Muškarci,0.92
+2020,% od ukupnog broja,5-9,Muškarci,1.0
+2020,% od ukupnog broja,10-14,Muškarci,0.94
+2020,% od ukupnog broja,15-19,Muškarci,0.87
+2020,% od ukupnog broja,20-24,Muškarci,0.94
+2020,% od ukupnog broja,25-29,Muškarci,0.93
+2020,% od ukupnog broja,30-34,Muškarci,0.97
+2020,% od ukupnog broja,35-39,Muškarci,0.98
+2020,% od ukupnog broja,40-44,Muškarci,1.0
+2020,% od ukupnog broja,45-49,Muškarci,0.95
+2020,% od ukupnog broja,50-54,Muškarci,0.99
+2020,% od ukupnog broja,55-59,Muškarci,1.02
+2020,% od ukupnog broja,60-64,Muškarci,1.09
+2020,% od ukupnog broja,65-69,Muškarci,1.2
+2020,% od ukupnog broja,70-74,Muškarci,0.9
+2020,% od ukupnog broja,75-79,Muškarci,1.07
+2020,% od ukupnog broja,80-84,Muškarci,1.16
+2020,% od ukupnog broja,85-89,Muškarci,1.37
+2020,% od ukupnog broja,90-94,Muškarci,1.34
+2020,% od ukupnog broja,95-99,Muškarci,0.72
+2020,% od ukupnog broja,100-104,Muškarci,1.22
+2020,% od ukupnog broja,105-109,Muškarci,0.0
+2020,% od ukupnog broja,110-114,Muškarci,0.0
+2020,% od ukupnog broja,115-119,Muškarci,0.0
+2020,% od ukupnog broja,120+,Muškarci,6.89
+2025,Broj,Total,Muškarci,100.0
+2025,Broj,0-4,Muškarci,4.33
+2025,Broj,5-9,Muškarci,4.67
+2025,Broj,10-14,Muškarci,5.03
+2025,Broj,15-19,Muškarci,5.56
+2025,Broj,20-24,Muškarci,5.1
+2025,Broj,25-29,Muškarci,5.78
+2025,Broj,30-34,Muškarci,6.03
+2025,Broj,35-39,Muškarci,6.85
+2025,Broj,40-44,Muškarci,7.3
+2025,Broj,45-49,Muškarci,7.33
+2025,Broj,50-54,Muškarci,7.25
+2025,Broj,55-59,Muškarci,7.3
+2025,Broj,60-64,Muškarci,7.76
+2025,Broj,65-69,Muškarci,7.12
+2025,Broj,70-74,Muškarci,5.7
+2025,Broj,75-79,Muškarci,3.57
+2025,Broj,80-84,Muškarci,1.76
+2025,Broj,85-89,Muškarci,1.14
+2025,Broj,90-94,Muškarci,0.36
+2025,Broj,95-99,Muškarci,0.06
+2025,Broj,100-104,Muškarci,0.0
+2025,Broj,105-109,Muškarci,0.0
+2025,Broj,110-114,Muškarci,0.0
+2025,Broj,115-119,Muškarci,0.0
+2025,Broj,120+,Muškarci,0.0
+2025,% od ukupnog broja,Total,Muškarci,0.89
+2025,% od ukupnog broja,0-4,Muškarci,0.84
+2025,% od ukupnog broja,5-9,Muškarci,0.88
+2025,% od ukupnog broja,10-14,Muškarci,0.9
+2025,% od ukupnog broja,15-19,Muškarci,0.65
+2025,% od ukupnog broja,20-24,Muškarci,0.79
+2025,% od ukupnog broja,25-29,Muškarci,0.74
+2025,% od ukupnog broja,30-34,Muškarci,0.84
+2025,% od ukupnog broja,35-39,Muškarci,0.92
+2025,% od ukupnog broja,40-44,Muškarci,0.96
+2025,% od ukupnog broja,45-49,Muškarci,0.91
+2025,% od ukupnog broja,50-54,Muškarci,0.89
+2025,% od ukupnog broja,55-59,Muškarci,1.04
+2025,% od ukupnog broja,60-64,Muškarci,1.19
+2025,% od ukupnog broja,65-69,Muškarci,1.52
+2025,% od ukupnog broja,70-74,Muškarci,1.27
+2025,% od ukupnog broja,75-79,Muškarci,0.92
+2025,% od ukupnog broja,80-84,Muškarci,1.55
+2025,% od ukupnog broja,85-89,Muškarci,2.22
+2025,% od ukupnog broja,90-94,Muškarci,3.63
+2025,% od ukupnog broja,95-99,Muškarci,0.78
+2025,% od ukupnog broja,100-104,Muškarci,1.3
+2025,% od ukupnog broja,105-109,Muškarci,0.0
+2025,% od ukupnog broja,110-114,Muškarci,0.0
+2025,% od ukupnog broja,115-119,Muškarci,0.0
+2025,% od ukupnog broja,120+,Muškarci,199277.81
+2030,Broj,Total,Muškarci,100.0
+2030,Broj,0-4,Muškarci,4.05
+2030,Broj,5-9,Muškarci,4.5
+2030,Broj,10-14,Muškarci,4.88
+2030,Broj,15-19,Muškarci,5.17
+2030,Broj,20-24,Muškarci,5.2
+2030,Broj,25-29,Muškarci,4.64
+2030,Broj,30-34,Muškarci,5.45
+2030,Broj,35-39,Muškarci,5.85
+2030,Broj,40-44,Muškarci,6.74
+2030,Broj,45-49,Muškarci,7.3
+2030,Broj,50-54,Muškarci,7.44
+2030,Broj,55-59,Muškarci,7.43
+2030,Broj,60-64,Muškarci,7.48
+2030,Broj,65-69,Muškarci,7.75
+2030,Broj,70-74,Muškarci,6.72
+2030,Broj,75-79,Muškarci,4.91
+2030,Broj,80-84,Muškarci,2.72
+2030,Broj,85-89,Muškarci,1.09
+2030,Broj,90-94,Muškarci,0.54
+2030,Broj,95-99,Muškarci,0.12
+2030,Broj,100-104,Muškarci,0.01
+2030,Broj,105-109,Muškarci,0.0
+2030,Broj,110-114,Muškarci,0.0
+2030,Broj,115-119,Muškarci,0.0
+2030,Broj,120+,Muškarci,0.0
+2030,% od ukupnog broja,Total,Muškarci,0.78
+2030,% od ukupnog broja,0-4,Muškarci,0.76
+2030,% od ukupnog broja,5-9,Muškarci,0.8
+2030,% od ukupnog broja,10-14,Muškarci,0.79
+2030,% od ukupnog broja,15-19,Muškarci,0.62
+2030,% od ukupnog broja,20-24,Muškarci,0.6
+2030,% od ukupnog broja,25-29,Muškarci,0.63
+2030,% od ukupnog broja,30-34,Muškarci,0.68
+2030,% od ukupnog broja,35-39,Muškarci,0.8
+2030,% od ukupnog broja,40-44,Muškarci,0.9
+2030,% od ukupnog broja,45-49,Muškarci,0.87
+2030,% od ukupnog broja,50-54,Muškarci,0.85
+2030,% od ukupnog broja,55-59,Muškarci,0.94
+2030,% od ukupnog broja,60-64,Muškarci,1.22
+2030,% od ukupnog broja,65-69,Muškarci,1.68
+2030,% od ukupnog broja,70-74,Muškarci,1.63
+2030,% od ukupnog broja,75-79,Muškarci,1.34
+2030,% od ukupnog broja,80-84,Muškarci,1.39
+2030,% od ukupnog broja,85-89,Muškarci,3.17
+2030,% od ukupnog broja,90-94,Muškarci,6.43
+2030,% od ukupnog broja,95-99,Muškarci,2.38
+2030,% od ukupnog broja,100-104,Muškarci,1.74
+2030,% od ukupnog broja,105-109,Muškarci,0.0
+2030,% od ukupnog broja,110-114,Muškarci,0.0
+2030,% od ukupnog broja,115-119,Muškarci,0.0
+2030,% od ukupnog broja,120+,Muškarci,8.44
+2035,Broj,Total,Muškarci,100.0
+2035,Broj,0-4,Muškarci,3.81
+2035,Broj,5-9,Muškarci,4.23
+2035,Broj,10-14,Muškarci,4.73
+2035,Broj,15-19,Muškarci,5.05
+2035,Broj,20-24,Muškarci,4.86
+2035,Broj,25-29,Muškarci,4.74
+2035,Broj,30-34,Muškarci,4.45
+2035,Broj,35-39,Muškarci,5.34
+2035,Broj,40-44,Muškarci,5.83
+2035,Broj,45-49,Muškarci,6.8
+2035,Broj,50-54,Muškarci,7.47
+2035,Broj,55-59,Muškarci,7.68
+2035,Broj,60-64,Muškarci,7.69
+2035,Broj,65-69,Muškarci,7.57
+2035,Broj,70-74,Muškarci,7.42
+2035,Broj,75-79,Muškarci,5.91
+2035,Broj,80-84,Muškarci,3.85
+2035,Broj,85-89,Muškarci,1.79
+2035,Broj,90-94,Muškarci,0.55
+2035,Broj,95-99,Muškarci,0.19
+2035,Broj,100-104,Muškarci,0.03
+2035,Broj,105-109,Muškarci,0.0
+2035,Broj,110-114,Muškarci,0.0
+2035,Broj,115-119,Muškarci,0.0
+2035,Broj,120+,Muškarci,0.0
+2035,% od ukupnog broja,Total,Muškarci,0.68
+2035,% od ukupnog broja,0-4,Muškarci,0.66
+2035,% od ukupnog broja,5-9,Muškarci,0.72
+2035,% od ukupnog broja,10-14,Muškarci,0.71
+2035,% od ukupnog broja,15-19,Muškarci,0.54
+2035,% od ukupnog broja,20-24,Muškarci,0.57
+2035,% od ukupnog broja,25-29,Muškarci,0.48
+2035,% od ukupnog broja,30-34,Muškarci,0.58
+2035,% od ukupnog broja,35-39,Muškarci,0.64
+2035,% od ukupnog broja,40-44,Muškarci,0.78
+2035,% od ukupnog broja,45-49,Muškarci,0.81
+2035,% od ukupnog broja,50-54,Muškarci,0.82
+2035,% od ukupnog broja,55-59,Muškarci,0.9
+2035,% od ukupnog broja,60-64,Muškarci,1.11
+2035,% od ukupnog broja,65-69,Muškarci,1.73
+2035,% od ukupnog broja,70-74,Muškarci,1.83
+2035,% od ukupnog broja,75-79,Muškarci,1.77
+2035,% od ukupnog broja,80-84,Muškarci,2.12
+2035,% od ukupnog broja,85-89,Muškarci,3.0
+2035,% od ukupnog broja,90-94,Muškarci,9.89
+2035,% od ukupnog broja,95-99,Muškarci,4.58
+2035,% od ukupnog broja,100-104,Muškarci,5.75
+2035,% od ukupnog broja,105-109,Muškarci,0.0
+2035,% od ukupnog broja,110-114,Muškarci,0.0
+2035,% od ukupnog broja,115-119,Muškarci,0.0
+2035,% od ukupnog broja,120+,Muškarci,0.0
+2040,Broj,Total,Muškarci,100.0
+2040,Broj,0-4,Muškarci,3.68
+2040,Broj,5-9,Muškarci,4.01
+2040,Broj,10-14,Muškarci,4.49
+2040,Broj,15-19,Muškarci,4.93
+2040,Broj,20-24,Muškarci,4.79
+2040,Broj,25-29,Muškarci,4.46
+2040,Broj,30-34,Muškarci,4.54
+2040,Broj,35-39,Muškarci,4.43
+2040,Broj,40-44,Muškarci,5.37
+2040,Broj,45-49,Muškarci,5.95
+2040,Broj,50-54,Muškarci,7.02
+2040,Broj,55-59,Muškarci,7.77
+2040,Broj,60-64,Muškarci,8.01
+2040,Broj,65-69,Muškarci,7.86
+2040,Broj,70-74,Muškarci,7.36
+2040,Broj,75-79,Muškarci,6.67
+2040,Broj,80-84,Muškarci,4.78
+2040,Broj,85-89,Muškarci,2.64
+2040,Broj,90-94,Muškarci,0.97
+2040,Broj,95-99,Muškarci,0.21
+2040,Broj,100-104,Muškarci,0.05
+2040,Broj,105-109,Muškarci,0.0
+2040,Broj,110-114,Muškarci,0.0
+2040,Broj,115-119,Muškarci,0.0
+2040,Broj,120+,Muškarci,0.0
+2040,% od ukupnog broja,Total,Muškarci,0.61
+2040,% od ukupnog broja,0-4,Muškarci,0.58
+2040,% od ukupnog broja,5-9,Muškarci,0.63
+2040,% od ukupnog broja,10-14,Muškarci,0.65
+2040,% od ukupnog broja,15-19,Muškarci,0.49
+2040,% od ukupnog broja,20-24,Muškarci,0.49
+2040,% od ukupnog broja,25-29,Muškarci,0.45
+2040,% od ukupnog broja,30-34,Muškarci,0.44
+2040,% od ukupnog broja,35-39,Muškarci,0.55
+2040,% od ukupnog broja,40-44,Muškarci,0.63
+2040,% od ukupnog broja,45-49,Muškarci,0.71
+2040,% od ukupnog broja,50-54,Muškarci,0.77
+2040,% od ukupnog broja,55-59,Muškarci,0.87
+2040,% od ukupnog broja,60-64,Muškarci,1.06
+2040,% od ukupnog broja,65-69,Muškarci,1.58
+2040,% od ukupnog broja,70-74,Muškarci,1.91
+2040,% od ukupnog broja,75-79,Muškarci,2.02
+2040,% od ukupnog broja,80-84,Muškarci,2.89
+2040,% od ukupnog broja,85-89,Muškarci,4.87
+2040,% od ukupnog broja,90-94,Muškarci,9.95
+2040,% od ukupnog broja,95-99,Muškarci,7.57
+2040,% od ukupnog broja,100-104,Muškarci,11.84
+2040,% od ukupnog broja,105-109,Muškarci,0.0
+2040,% od ukupnog broja,110-114,Muškarci,0.0
+2040,% od ukupnog broja,115-119,Muškarci,0.0
+2040,% od ukupnog broja,120+,Muškarci,4.62
+2045,Broj,Total,Muškarci,100.0
+2045,Broj,0-4,Muškarci,3.64
+2045,Broj,5-9,Muškarci,3.9
+2045,Broj,10-14,Muškarci,4.28
+2045,Broj,15-19,Muškarci,4.71
+2045,Broj,20-24,Muškarci,4.7
+2045,Broj,25-29,Muškarci,4.42
+2045,Broj,30-34,Muškarci,4.32
+2045,Broj,35-39,Muškarci,4.54
+2045,Broj,40-44,Muškarci,4.52
+2045,Broj,45-49,Muškarci,5.54
+2045,Broj,50-54,Muškarci,6.21
+2045,Broj,55-59,Muškarci,7.37
+2045,Broj,60-64,Muškarci,8.17
+2045,Broj,65-69,Muškarci,8.27
+2045,Broj,70-74,Muškarci,7.77
+2045,Broj,75-79,Muškarci,6.75
+2045,Broj,80-84,Muškarci,5.53
+2045,Broj,85-89,Muškarci,3.4
+2045,Broj,90-94,Muškarci,1.5
+2045,Broj,95-99,Muškarci,0.4
+2045,Broj,100-104,Muškarci,0.06
+2045,Broj,105-109,Muškarci,0.01
+2045,Broj,110-114,Muškarci,0.0
+2045,Broj,115-119,Muškarci,0.0
+2045,Broj,120+,Muškarci,0.0
+2045,% od ukupnog broja,Total,Muškarci,0.55
+2045,% od ukupnog broja,0-4,Muškarci,0.52
+2045,% od ukupnog broja,5-9,Muškarci,0.55
+2045,% od ukupnog broja,10-14,Muškarci,0.57
+2045,% od ukupnog broja,15-19,Muškarci,0.44
+2045,% od ukupnog broja,20-24,Muškarci,0.45
+2045,% od ukupnog broja,25-29,Muškarci,0.39
+2045,% od ukupnog broja,30-34,Muškarci,0.41
+2045,% od ukupnog broja,35-39,Muškarci,0.42
+2045,% od ukupnog broja,40-44,Muškarci,0.54
+2045,% od ukupnog broja,45-49,Muškarci,0.58
+2045,% od ukupnog broja,50-54,Muškarci,0.67
+2045,% od ukupnog broja,55-59,Muškarci,0.81
+2045,% od ukupnog broja,60-64,Muškarci,1.03
+2045,% od ukupnog broja,65-69,Muškarci,1.53
+2045,% od ukupnog broja,70-74,Muškarci,1.77
+2045,% od ukupnog broja,75-79,Muškarci,2.15
+2045,% od ukupnog broja,80-84,Muškarci,3.41
+2045,% od ukupnog broja,85-89,Muškarci,6.94
+2045,% od ukupnog broja,90-94,Muškarci,17.36
+2045,% od ukupnog broja,95-99,Muškarci,8.06
+2045,% od ukupnog broja,100-104,Muškarci,20.69
+2045,% od ukupnog broja,105-109,Muškarci,0.0
+2045,% od ukupnog broja,110-114,Muškarci,0.0
+2045,% od ukupnog broja,115-119,Muškarci,0.0
+2045,% od ukupnog broja,120+,Muškarci,215748.85
+2050,Broj,Total,Muškarci,100.0
+2050,Broj,0-4,Muškarci,3.63
+2050,Broj,5-9,Muškarci,3.88
+2050,Broj,10-14,Muškarci,4.19
+2050,Broj,15-19,Muškarci,4.52
+2050,Broj,20-24,Muškarci,4.51
+2050,Broj,25-29,Muškarci,4.36
+2050,Broj,30-34,Muškarci,4.3
+2050,Broj,35-39,Muškarci,4.34
+2050,Broj,40-44,Muškarci,4.64
+2050,Broj,45-49,Muškarci,4.72
+2050,Broj,50-54,Muškarci,5.84
+2050,Broj,55-59,Muškarci,6.59
+2050,Broj,60-64,Muškarci,7.83
+2050,Broj,65-69,Muškarci,8.52
+2050,Broj,70-74,Muškarci,8.27
+2050,Broj,75-79,Muškarci,7.26
+2050,Broj,80-84,Muškarci,5.74
+2050,Broj,85-89,Muškarci,4.06
+2050,Broj,90-94,Muškarci,2.02
+2050,Broj,95-99,Muškarci,0.66
+2050,Broj,100-104,Muškarci,0.11
+2050,Broj,105-109,Muškarci,0.01
+2050,Broj,110-114,Muškarci,0.0
+2050,Broj,115-119,Muškarci,0.0
+2050,Broj,120+,Muškarci,0.0
+2050,% od ukupnog broja,Total,Muškarci,0.5
+2050,% od ukupnog broja,0-4,Muškarci,0.47
+2050,% od ukupnog broja,5-9,Muškarci,0.49
+2050,% od ukupnog broja,10-14,Muškarci,0.5
+2050,% od ukupnog broja,15-19,Muškarci,0.39
+2050,% od ukupnog broja,20-24,Muškarci,0.4
+2050,% od ukupnog broja,25-29,Muškarci,0.36
+2050,% od ukupnog broja,30-34,Muškarci,0.36
+2050,% od ukupnog broja,35-39,Muškarci,0.4
+2050,% od ukupnog broja,40-44,Muškarci,0.42
+2050,% od ukupnog broja,45-49,Muškarci,0.49
+2050,% od ukupnog broja,50-54,Muškarci,0.54
+2050,% od ukupnog broja,55-59,Muškarci,0.71
+2050,% od ukupnog broja,60-64,Muškarci,0.97
+2050,% od ukupnog broja,65-69,Muškarci,1.49
+2050,% od ukupnog broja,70-74,Muškarci,1.74
+2050,% od ukupnog broja,75-79,Muškarci,2.03
+2050,% od ukupnog broja,80-84,Muškarci,3.73
+2050,% od ukupnog broja,85-89,Muškarci,8.49
+2050,% od ukupnog broja,90-94,Muškarci,25.99
+2050,% od ukupnog broja,95-99,Muškarci,15.19
+2050,% od ukupnog broja,100-104,Muškarci,23.04
+2050,% od ukupnog broja,105-109,Muškarci,0.0
+2050,% od ukupnog broja,110-114,Muškarci,0.0
+2050,% od ukupnog broja,115-119,Muškarci,0.0
+2050,% od ukupnog broja,120+,Muškarci,56.82
+2055,Broj,Total,Muškarci,100.0
+2055,Broj,0-4,Muškarci,3.62
+2055,Broj,5-9,Muškarci,3.88
+2055,Broj,10-14,Muškarci,4.19
+2055,Broj,15-19,Muškarci,4.45
+2055,Broj,20-24,Muškarci,4.36
+2055,Broj,25-29,Muškarci,4.21
+2055,Broj,30-34,Muškarci,4.25
+2055,Broj,35-39,Muškarci,4.34
+2055,Broj,40-44,Muškarci,4.47
+2055,Broj,45-49,Muškarci,4.86
+2055,Broj,50-54,Muškarci,5.03
+2055,Broj,55-59,Muškarci,6.25
+2055,Broj,60-64,Muškarci,7.08
+2055,Broj,65-69,Muškarci,8.24
+2055,Broj,70-74,Muškarci,8.62
+2055,Broj,75-79,Muškarci,7.85
+2055,Broj,80-84,Muškarci,6.31
+2055,Broj,85-89,Muškarci,4.34
+2055,Broj,90-94,Muškarci,2.5
+2055,Broj,95-99,Muškarci,0.93
+2055,Broj,100-104,Muškarci,0.2
+2055,Broj,105-109,Muškarci,0.02
+2055,Broj,110-114,Muškarci,0.0
+2055,Broj,115-119,Muškarci,0.0
+2055,Broj,120+,Muškarci,0.0
+2055,% od ukupnog broja,Total,Muškarci,0.46
+2055,% od ukupnog broja,0-4,Muškarci,0.43
+2055,% od ukupnog broja,5-9,Muškarci,0.45
+2055,% od ukupnog broja,10-14,Muškarci,0.44
+2055,% od ukupnog broja,15-19,Muškarci,0.34
+2055,% od ukupnog broja,20-24,Muškarci,0.35
+2055,% od ukupnog broja,25-29,Muškarci,0.32
+2055,% od ukupnog broja,30-34,Muškarci,0.33
+2055,% od ukupnog broja,35-39,Muškarci,0.35
+2055,% od ukupnog broja,40-44,Muškarci,0.39
+2055,% od ukupnog broja,45-49,Muškarci,0.39
+2055,% od ukupnog broja,50-54,Muškarci,0.47
+2055,% od ukupnog broja,55-59,Muškarci,0.58
+2055,% od ukupnog broja,60-64,Muškarci,0.85
+2055,% od ukupnog broja,65-69,Muškarci,1.41
+2055,% od ukupnog broja,70-74,Muškarci,1.71
+2055,% od ukupnog broja,75-79,Muškarci,2.03
+2055,% od ukupnog broja,80-84,Muškarci,3.61
+2055,% od ukupnog broja,85-89,Muškarci,9.58
+2055,% od ukupnog broja,90-94,Muškarci,33.19
+2055,% od ukupnog broja,95-99,Muškarci,23.89
+2055,% od ukupnog broja,100-104,Muškarci,46.54
+2055,% od ukupnog broja,105-109,Muškarci,0.0
+2055,% od ukupnog broja,110-114,Muškarci,0.0
+2055,% od ukupnog broja,115-119,Muškarci,0.0
+2055,% od ukupnog broja,120+,Muškarci,0.07
+2060,Broj,Total,Muškarci,100.0
+2060,Broj,0-4,Muškarci,3.61
+2060,Broj,5-9,Muškarci,3.89
+2060,Broj,10-14,Muškarci,4.21
+2060,Broj,15-19,Muškarci,4.47
+2060,Broj,20-24,Muškarci,4.31
+2060,Broj,25-29,Muškarci,4.09
+2060,Broj,30-34,Muškarci,4.13
+2060,Broj,35-39,Muškarci,4.31
+2060,Broj,40-44,Muškarci,4.49
+2060,Broj,45-49,Muškarci,4.71
+2060,Broj,50-54,Muškarci,5.19
+2060,Broj,55-59,Muškarci,5.44
+2060,Broj,60-64,Muškarci,6.76
+2060,Broj,65-69,Muškarci,7.53
+2060,Broj,70-74,Muškarci,8.42
+2060,Broj,75-79,Muškarci,8.29
+2060,Broj,80-84,Muškarci,6.95
+2060,Broj,85-89,Muškarci,4.9
+2060,Broj,90-94,Muškarci,2.76
+2060,Broj,95-99,Muškarci,1.19
+2060,Broj,100-104,Muškarci,0.29
+2060,Broj,105-109,Muškarci,0.03
+2060,Broj,110-114,Muškarci,0.0
+2060,Broj,115-119,Muškarci,0.0
+2060,Broj,120+,Muškarci,0.0
+2060,% od ukupnog broja,Total,Muškarci,0.41
+2060,% od ukupnog broja,0-4,Muškarci,0.39
+2060,% od ukupnog broja,5-9,Muškarci,0.41
+2060,% od ukupnog broja,10-14,Muškarci,0.4
+2060,% od ukupnog broja,15-19,Muškarci,0.3
+2060,% od ukupnog broja,20-24,Muškarci,0.31
+2060,% od ukupnog broja,25-29,Muškarci,0.28
+2060,% od ukupnog broja,30-34,Muškarci,0.3
+2060,% od ukupnog broja,35-39,Muškarci,0.31
+2060,% od ukupnog broja,40-44,Muškarci,0.34
+2060,% od ukupnog broja,45-49,Muškarci,0.36
+2060,% od ukupnog broja,50-54,Muškarci,0.37
+2060,% od ukupnog broja,55-59,Muškarci,0.5
+2060,% od ukupnog broja,60-64,Muškarci,0.7
+2060,% od ukupnog broja,65-69,Muškarci,1.24
+2060,% od ukupnog broja,70-74,Muškarci,1.63
+2060,% od ukupnog broja,75-79,Muškarci,2.02
+2060,% od ukupnog broja,80-84,Muškarci,3.69
+2060,% od ukupnog broja,85-89,Muškarci,9.54
+2060,% od ukupnog broja,90-94,Muškarci,38.73
+2060,% od ukupnog broja,95-99,Muškarci,31.72
+2060,% od ukupnog broja,100-104,Muškarci,75.86
+2060,% od ukupnog broja,105-109,Muškarci,0.0
+2060,% od ukupnog broja,110-114,Muškarci,0.0
+2060,% od ukupnog broja,115-119,Muškarci,0.0
+2060,% od ukupnog broja,120+,Muškarci,3.8
+2065,Broj,Total,Muškarci,100.0
+2065,Broj,0-4,Muškarci,3.59
+2065,Broj,5-9,Muškarci,3.89
+2065,Broj,10-14,Muškarci,4.24
+2065,Broj,15-19,Muškarci,4.5
+2065,Broj,20-24,Muškarci,4.34
+2065,Broj,25-29,Muškarci,4.06
+2065,Broj,30-34,Muškarci,4.04
+2065,Broj,35-39,Muškarci,4.21
+2065,Broj,40-44,Muškarci,4.48
+2065,Broj,45-49,Muškarci,4.75
+2065,Broj,50-54,Muškarci,5.06
+2065,Broj,55-59,Muškarci,5.64
+2065,Broj,60-64,Muškarci,5.96
+2065,Broj,65-69,Muškarci,7.25
+2065,Broj,70-74,Muškarci,7.78
+2065,Broj,75-79,Muškarci,8.2
+2065,Broj,80-84,Muškarci,7.46
+2065,Broj,85-89,Muškarci,5.52
+2065,Broj,90-94,Muškarci,3.22
+2065,Broj,95-99,Muškarci,1.36
+2065,Broj,100-104,Muškarci,0.39
+2065,Broj,105-109,Muškarci,0.05
+2065,Broj,110-114,Muškarci,0.0
+2065,Broj,115-119,Muškarci,0.0
+2065,Broj,120+,Muškarci,0.0
+2065,% od ukupnog broja,Total,Muškarci,0.37
+2065,% od ukupnog broja,0-4,Muškarci,0.35
+2065,% od ukupnog broja,5-9,Muškarci,0.37
+2065,% od ukupnog broja,10-14,Muškarci,0.36
+2065,% od ukupnog broja,15-19,Muškarci,0.28
+2065,% od ukupnog broja,20-24,Muškarci,0.28
+2065,% od ukupnog broja,25-29,Muškarci,0.25
+2065,% od ukupnog broja,30-34,Muškarci,0.26
+2065,% od ukupnog broja,35-39,Muškarci,0.28
+2065,% od ukupnog broja,40-44,Muškarci,0.31
+2065,% od ukupnog broja,45-49,Muškarci,0.32
+2065,% od ukupnog broja,50-54,Muškarci,0.34
+2065,% od ukupnog broja,55-59,Muškarci,0.4
+2065,% od ukupnog broja,60-64,Muškarci,0.61
+2065,% od ukupnog broja,65-69,Muškarci,1.03
+2065,% od ukupnog broja,70-74,Muškarci,1.45
+2065,% od ukupnog broja,75-79,Muškarci,1.95
+2065,% od ukupnog broja,80-84,Muškarci,3.74
+2065,% od ukupnog broja,85-89,Muškarci,10.03
+2065,% od ukupnog broja,90-94,Muškarci,39.81
+2065,% od ukupnog broja,95-99,Muškarci,38.31
+2065,% od ukupnog broja,100-104,Muškarci,104.04
+2065,% od ukupnog broja,105-109,Muškarci,0.0
+2065,% od ukupnog broja,110-114,Muškarci,0.0
+2065,% od ukupnog broja,115-119,Muškarci,0.0
+2065,% od ukupnog broja,120+,Muškarci,110217.64
+2070,Broj,Total,Muškarci,100.0
+2070,Broj,0-4,Muškarci,3.6
+2070,Broj,5-9,Muškarci,3.88
+2070,Broj,10-14,Muškarci,4.24
+2070,Broj,15-19,Muškarci,4.54
+2070,Broj,20-24,Muškarci,4.39
+2070,Broj,25-29,Muškarci,4.1
+2070,Broj,30-34,Muškarci,4.02
+2070,Broj,35-39,Muškarci,4.13
+2070,Broj,40-44,Muškarci,4.39
+2070,Broj,45-49,Muškarci,4.75
+2070,Broj,50-54,Muškarci,5.11
+2070,Broj,55-59,Muškarci,5.52
+2070,Broj,60-64,Muškarci,6.19
+2070,Broj,65-69,Muškarci,6.46
+2070,Broj,70-74,Muškarci,7.55
+2070,Broj,75-79,Muškarci,7.66
+2070,Broj,80-84,Muškarci,7.49
+2070,Broj,85-89,Muškarci,6.05
+2070,Broj,90-94,Muškarci,3.73
+2070,Broj,95-99,Muškarci,1.66
+2070,Broj,100-104,Muškarci,0.46
+2070,Broj,105-109,Muškarci,0.07
+2070,Broj,110-114,Muškarci,0.0
+2070,Broj,115-119,Muškarci,0.0
+2070,Broj,120+,Muškarci,0.0
+2070,% od ukupnog broja,Total,Muškarci,0.33
+2070,% od ukupnog broja,0-4,Muškarci,0.31
+2070,% od ukupnog broja,5-9,Muškarci,0.33
+2070,% od ukupnog broja,10-14,Muškarci,0.33
+2070,% od ukupnog broja,15-19,Muškarci,0.25
+2070,% od ukupnog broja,20-24,Muškarci,0.25
+2070,% od ukupnog broja,25-29,Muškarci,0.22
+2070,% od ukupnog broja,30-34,Muškarci,0.23
+2070,% od ukupnog broja,35-39,Muškarci,0.25
+2070,% od ukupnog broja,40-44,Muškarci,0.28
+2070,% od ukupnog broja,45-49,Muškarci,0.29
+2070,% od ukupnog broja,50-54,Muškarci,0.3
+2070,% od ukupnog broja,55-59,Muškarci,0.37
+2070,% od ukupnog broja,60-64,Muškarci,0.49
+2070,% od ukupnog broja,65-69,Muškarci,0.9
+2070,% od ukupnog broja,70-74,Muškarci,1.22
+2070,% od ukupnog broja,75-79,Muškarci,1.76
+2070,% od ukupnog broja,80-84,Muškarci,3.68
+2070,% od ukupnog broja,85-89,Muškarci,10.42
+2070,% od ukupnog broja,90-94,Muškarci,43.4
+2070,% od ukupnog broja,95-99,Muškarci,40.66
+2070,% od ukupnog broja,100-104,Muškarci,0.0
+2070,% od ukupnog broja,105-109,Muškarci,0.0
+2070,% od ukupnog broja,110-114,Muškarci,0.0
+2070,% od ukupnog broja,115-119,Muškarci,0.0

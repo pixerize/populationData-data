@@ -97,6 +97,62 @@
       "schema": {
         "fields": [
           {
+            "name": "ENROLMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enrolment in high school education",
+                "Enrolment in higher education",
+                "Enrolment in pre-school education",
+                "Enrolment in primary school education"
+              ]
+            },
+            "title": "Enrolment"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "GDP per foreign currencies and type (EUR)"
+    },
+    {
+      "path": "6-1-2/data.csv",
+      "name": "6-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -136,85 +192,16 @@
           }
         ]
       },
-      "title": "GDP per foreign currencies and type (EUR)"
-    },
-    {
-      "path": "6-1-2/data.csv",
-      "name": "6-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Employed as % of working age population"
-              ]
-            },
-            "title": "Activity rates"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 - 24",
-                "15 - 64",
-                "15+",
-                "25 - 49",
-                "50 - 64",
-                "65+"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
       "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
     },
     {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
@@ -237,9 +224,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Females in poverty (%)",
-                "Males in poverty (%)",
-                "Population in poverty (%)"
+                "Households in poverty (%)"
               ]
             },
             "title": "Poverty Rate"
@@ -261,7 +246,7 @@
           }
         ]
       },
-      "title": "Percentage of population living in relative poverty by sex"
+      "title": "Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water"
     },
     {
       "path": "1-4-2/data.csv",
@@ -335,9 +320,148 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "AGE",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "0",
+                "1",
+                "10",
+                "100",
+                "101",
+                "102",
+                "103",
+                "104",
+                "105",
+                "106",
+                "107",
+                "108",
+                "109",
+                "11",
+                "110",
+                "111",
+                "112",
+                "113",
+                "114",
+                "115",
+                "116",
+                "117",
+                "118",
+                "119",
+                "12",
+                "120+",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "2",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "3",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "4",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "5",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "6",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "7",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "8",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84",
+                "85",
+                "86",
+                "87",
+                "88",
+                "89",
+                "9",
+                "90",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95",
+                "96",
+                "97",
+                "98",
+                "99",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -604,6 +728,85 @@
       "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY_RATES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% of total for age group",
+                "Total illiterate"
+              ]
+            },
+            "title": "Activity rates"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 10-14",
+                " 15-19",
+                " 20-24",
+                " 25-29",
+                " 30-34",
+                " 35-39",
+                " 45-49",
+                " 50-54",
+                " 55-59",
+                " 60-64",
+                " 65-69",
+                " 70-74",
+                " 75+",
+                "40-44",
+                "All"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of illiterate population over 10 years of age by age groups and sex"
+    },
+    {
       "path": "5-1-3/data.csv",
       "name": "5-1-3",
       "profile": "tabular-data-resource",
@@ -614,27 +817,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "BiH"
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64"
               ]
             },
-            "title": "Administrative area"
+            "title": "Age"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "F",
+                "M"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -643,7 +850,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -654,6 +861,75 @@
         ]
       },
       "title": "GDP per foreign currencies and type (USD)"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY_RATES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Employed as % of working age population"
+              ]
+            },
+            "title": "Activity rates"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 - 24",
+                "15 - 64",
+                "15+",
+                "25 - 49",
+                "50 - 64",
+                "65+"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
       "path": "1-3-1/data.csv",
@@ -712,8 +988,8 @@
       "title": "Dependency ratios at state and entity level by sex"
     },
     {
-      "path": "6-1-3/data.csv",
-      "name": "6-1-3",
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -727,9 +1003,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Inactive as % of working age population",
-                "Unemployed as % of labour force",
-                "Unemployed as % of working age population"
+                "Active (Labour Force) as % of working age population"
               ]
             },
             "title": "Activity rates"
@@ -771,6 +1045,58 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of wastewater safely treated"
+    },
+    {
+      "path": "6-1-3/data.csv",
+      "name": "6-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BiH"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "QUANTITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Per capita",
+                "Total (millions)"
+              ]
+            },
+            "title": "Quantity"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -867,6 +1193,62 @@
       "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
+      "path": "6-2-2/data.csv",
+      "name": "6-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "POVERTY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Females in poverty (%)",
+                "Males in poverty (%)",
+                "Population in poverty (%)"
+              ]
+            },
+            "title": "Poverty Rate"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.6-2-2-title"
+    },
+    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -877,44 +1259,31 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Active (Labour Force) as % of working age population"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Activity rates"
+            "title": "Administrative area"
           },
           {
-            "name": "AGE",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15 - 24",
-                "15 - 64",
-                "15+",
-                "25 - 49",
-                "50 - 64",
-                "65+"
+                "Per capita",
+                "Real GDP growth",
+                "Total (millions)"
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1279,116 +1648,6 @@
       "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp949",
-      "schema": {
-        "fields": [
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "POVERTY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Households in poverty (%)"
-              ]
-            },
-            "title": "Poverty Rate"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Percentage of households living in relative poverty"
-    },
-    {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Enrolment in high school education",
-                "Enrolment in higher education",
-                "Enrolment in pre-school education",
-                "Enrolment in primary school education"
-              ]
-            },
-            "title": "Enrolment"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population enrolled in formal educational institutions by sex and type of educational institution"
-    },
-    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
@@ -1404,16 +1663,44 @@
             "constraints": {
               "enum": [
                 "",
-                "15 years old and over",
-                "All age ranges or no breakdown by age"
+                "0-14",
+                "0-18",
+                "0-4",
+                "10-14",
+                "100+",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-119",
+                "120+",
+                "15-19",
+                "15-29",
+                "15-49",
+                "15-64",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "5-9",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65+",
+                "65-69",
+                "70-74",
+                "75+",
+                "75-79",
+                "80-84",
+                "85+",
+                "85-89",
+                "90-94",
+                "95-99",
+                "Total"
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -1421,7 +1708,6 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
                 "M",
                 "Both sexes"
               ]
@@ -1650,107 +1936,6 @@
       "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
     },
     {
-      "path": "4-1-6/data.csv",
-      "name": "4-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "FORM_OF_VIOLENCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Women who have experienced any form of partner violence after the age of 15 (ever)",
-                "Women who have experienced any form of partner violence after the age of 15 (past 12 months)",
-                "Women who have experienced any form of violence after the age of 15 (ever)",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 18-24 years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 25-34 years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 35-44 years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 45-54 years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 55-64 years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - 65+ years of age",
-                "Women who have experienced any form of violence after the age of 15 (ever) - rural areas",
-                "Women who have experienced any form of violence after the age of 15 (ever) - urban areas",
-                "Women who have experienced any form of violence after the age of 15 (past 12 months)",
-                "Women who have experienced economic violence after the age of 15 (ever)",
-                "Women who have experienced economic violence after the age of 15 (past 12 months)",
-                "Women who have experienced physical violence after the age of 15 (ever)",
-                "Women who have experienced physical violence after the age of 15 (past 12 months)",
-                "Women who have experienced physical violence by intimate partner (current or former partner) (ever)",
-                "Women who have experienced physical violence by intimate partner (current or former partner) (past 12 months)",
-                "Women who have experienced physical violence by relatives or family (other than intimate partner) (ever)",
-                "Women who have experienced physical violence in broader community (not intimate partner) (ever)",
-                "Women who have experienced physical violence in broader community (not intimate partner) (past 12 months)",
-                "Women who have experienced physical violence in broader community (not relatives or intimate partner) (ever)",
-                "Women who have experienced psychological violence after the age of 15 (ever)",
-                "Women who have experienced psychological violence after the age of 15 (past 12 months)",
-                "Women who have experienced psychological violence by intimate partner (current or former partner) (ever)",
-                "Women who have experienced psychological violence by intimate partner (current or former partner) (past 12 months)",
-                "Women who have experienced psychological violence by relatives or family (other than intimate partner) (ever)",
-                "Women who have experienced psychological violence in broader community (not relatives or intimate partner) (ever)",
-                "Women who have experienced sexual harassment after the age of 15 (ever)",
-                "Women who have experienced sexual harassment after the age of 15 (past 12 months)",
-                "Women who have experienced sexual violence after the age of 15 (ever)",
-                "Women who have experienced sexual violence after the age of 15 (past 12 months)",
-                "Women who have experienced sexual violence by intimate partner (current or former partner) (ever)",
-                "Women who have experienced sexual violence by intimate partner (current or former partner) (past 12 months)",
-                "Women who have experienced sexual violence in broader community (not intimate partner) (ever)",
-                "Women who have experienced sexual violence in broader community (not intimate partner) (past 12 months)"
-              ]
-            },
-            "title": "Form of violence"
-          },
-          {
-            "name": "SURVEY_IMPLEMENTED_BY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "OSCE",
-                "UN Women & UNFPA"
-              ]
-            },
-            "title": "Survey implemented by"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Gender based violence indicators at state and entity level"
-    },
-    {
       "path": "1-15-1/data.csv",
       "name": "1-15-1",
       "profile": "tabular-data-resource",
@@ -1845,31 +2030,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "Advanced schools / faculty / academy / university",
+                "Higher school and first grade of faculty",
+                "Incomplete primary education",
+                "Primary school",
+                "Secondary school",
+                "Total 15+",
+                "Unknown"
               ]
             },
-            "title": "Administrative area"
+            "title": "Education"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Real GDP growth",
-                "Total (millions)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2138,21 +2326,134 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "Primary school",
-                "Secondary school",
-                "Total 15+",
-                "Unknown"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Education"
+            "title": "Administrative area"
+          },
+          {
+            "name": "FORM_OF_VIOLENCE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Women who have experienced any form of partner violence after the age of 15 (ever)",
+                "Women who have experienced any form of partner violence after the age of 15 (past 12 months)",
+                "Women who have experienced any form of violence after the age of 15 (ever)",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 18-24 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 25-34 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 35-44 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 45-54 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 55-64 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 65+ years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - rural areas",
+                "Women who have experienced any form of violence after the age of 15 (ever) - urban areas",
+                "Women who have experienced any form of violence after the age of 15 (past 12 months)",
+                "Women who have experienced economic violence after the age of 15 (ever)",
+                "Women who have experienced economic violence after the age of 15 (past 12 months)",
+                "Women who have experienced physical violence after the age of 15 (ever)",
+                "Women who have experienced physical violence after the age of 15 (past 12 months)",
+                "Women who have experienced physical violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced physical violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced physical violence by relatives or family (other than intimate partner) (ever)",
+                "Women who have experienced physical violence in broader community (not intimate partner) (ever)",
+                "Women who have experienced physical violence in broader community (not intimate partner) (past 12 months)",
+                "Women who have experienced physical violence in broader community (not relatives or intimate partner) (ever)",
+                "Women who have experienced psychological violence after the age of 15 (ever)",
+                "Women who have experienced psychological violence after the age of 15 (past 12 months)",
+                "Women who have experienced psychological violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced psychological violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced psychological violence by relatives or family (other than intimate partner) (ever)",
+                "Women who have experienced psychological violence in broader community (not relatives or intimate partner) (ever)",
+                "Women who have experienced sexual harassment after the age of 15 (ever)",
+                "Women who have experienced sexual harassment after the age of 15 (past 12 months)",
+                "Women who have experienced sexual violence after the age of 15 (ever)",
+                "Women who have experienced sexual violence after the age of 15 (past 12 months)",
+                "Women who have experienced sexual violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced sexual violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced sexual violence in broader community (not intimate partner) (ever)",
+                "Women who have experienced sexual violence in broader community (not intimate partner) (past 12 months)"
+              ]
+            },
+            "title": "Form of violence"
+          },
+          {
+            "name": "SURVEY_IMPLEMENTED_BY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "OSCE",
+                "UN Women & UNFPA"
+              ]
+            },
+            "title": "Survey implemented by"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population over 15 years of age by educational attainment and sex"
+    },
+    {
+      "path": "6-3-3/data.csv",
+      "name": "6-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY_RATES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Inactive as % of working age population",
+                "Unemployed as % of labour force",
+                "Unemployed as % of working age population"
+              ]
+            },
+            "title": "Activity rates"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 - 24",
+                "15 - 64",
+                "15+",
+                "25 - 49",
+                "50 - 64",
+                "65+"
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -2184,7 +2485,48 @@
           }
         ]
       },
-      "title": "Population over 15 years of age by educational attainment and sex"
+      "title": "global_indicators.6-3-3-title"
+    },
+    {
+      "path": "5-1-5/data.csv",
+      "name": "5-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-5-title"
     },
     {
       "path": "1-18-1/data.csv",
@@ -2784,47 +3126,6 @@
       "title": "Natural growth rate by entity"
     },
     {
-      "path": "4-1-5/data.csv",
-      "name": "4-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
-    },
-    {
       "path": "1-1-5/data.csv",
       "name": "1-1-5",
       "profile": "tabular-data-resource",
@@ -3048,85 +3349,6 @@
       "title": "Population by municipality, age groups and sex"
     },
     {
-      "path": "4-1-4/data.csv",
-      "name": "4-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "% of total for age group",
-                "Total illiterate"
-              ]
-            },
-            "title": "Activity rates"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                " 10-14",
-                " 15-19",
-                " 20-24",
-                " 25-29",
-                " 30-34",
-                " 35-39",
-                " 45-49",
-                " 50-54",
-                " 55-59",
-                " 60-64",
-                " 65-69",
-                " 70-74",
-                " 75+",
-                "40-44",
-                "All"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of illiterate population over 10 years of age by age groups and sex"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -3194,62 +3416,6 @@
         ]
       },
       "title": "Vital statistics by state/entity and sex"
-    },
-    {
-      "path": "4-1-3/data.csv",
-      "name": "4-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex"
     },
     {
       "path": "3-1-2/data.csv",

@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "ACTIVITY_RATES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unemployed_as_of_labour",
+                "inactive_as_of_working",
+                "unemployed_as_of_working",
+                ""
+              ]
+            },
+            "title": "ACTIVITY_RATES"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-3",
+  "title": "global_indicators.6-3-3-title"
+}

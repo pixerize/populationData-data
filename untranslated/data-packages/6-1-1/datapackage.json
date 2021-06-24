@@ -19,38 +19,26 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
+                "total_millions",
+                "real_gdp_growth",
+                "per_capita",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "active_labour_force",
+                "BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             }

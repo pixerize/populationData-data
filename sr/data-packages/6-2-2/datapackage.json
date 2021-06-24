@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "POVERTY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population_in_poverty",
+                "males_in_poverty",
+                "females_in_poverty",
+                ""
+              ]
+            },
+            "title": "POVERTY_RATE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-2",
+  "title": "global_indicators.6-2-2-title"
+}

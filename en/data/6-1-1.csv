@@ -1,253 +1,136 @@
-Year,UNIT_MEASURE,Age,Sex,Activity rates,Value
-2006,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.1
-2006,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,33.4
-2006,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,66.0
-2006,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,36.6
-2006,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,5.7
-2006,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,51.3
-2006,% of total,15+,M,Active (Labour Force) as % of working age population,56.2
-2006,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.1
-2006,% of total,25 - 49,M,Active (Labour Force) as % of working age population,81.9
-2006,% of total,50 - 64,M,Active (Labour Force) as % of working age population,53.4
-2006,% of total,65+,M,Active (Labour Force) as % of working age population,8.0
-2006,% of total,15 - 64,M,Active (Labour Force) as % of working age population,65.5
-2006,% of total,15+,F,Active (Labour Force) as % of working age population,30.8
-2006,% of total,15 - 24,F,Active (Labour Force) as % of working age population,26.3
-2006,% of total,25 - 49,F,Active (Labour Force) as % of working age population,50.0
-2006,% of total,50 - 64,F,Active (Labour Force) as % of working age population,22.1
-2006,% of total,65+,F,Active (Labour Force) as % of working age population,4.0
-2006,% of total,15 - 64,F,Active (Labour Force) as % of working age population,37.4
-2007,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.9
-2007,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,33.4
-2007,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,67.0
-2007,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,38.9
-2007,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,5.9
-2007,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,52.2
-2007,% of total,15+,M,Active (Labour Force) as % of working age population,57.7
-2007,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.8
-2007,% of total,25 - 49,M,Active (Labour Force) as % of working age population,84.0
-2007,% of total,50 - 64,M,Active (Labour Force) as % of working age population,55.4
-2007,% of total,65+,M,Active (Labour Force) as % of working age population,9.0
-2007,% of total,15 - 64,M,Active (Labour Force) as % of working age population,67.0
-2007,% of total,15+,F,Active (Labour Force) as % of working age population,31.0
-2007,% of total,15 - 24,F,Active (Labour Force) as % of working age population,25.7
-2007,% of total,25 - 49,F,Active (Labour Force) as % of working age population,50.2
-2007,% of total,50 - 64,F,Active (Labour Force) as % of working age population,23.7
-2007,% of total,65+,F,Active (Labour Force) as % of working age population,3.6
-2007,% of total,15 - 64,F,Active (Labour Force) as % of working age population,37.8
-2008,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.9
-2008,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,33.2
-2008,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,68.6
-2008,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,40.5
-2008,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,5.4
-2008,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,53.5
-2008,% of total,15+,M,Active (Labour Force) as % of working age population,57.1
-2008,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.0
-2008,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.1
-2008,% of total,50 - 64,M,Active (Labour Force) as % of working age population,57.2
-2008,% of total,65+,M,Active (Labour Force) as % of working age population,8.3
-2008,% of total,15 - 64,M,Active (Labour Force) as % of working age population,67.7
-2008,% of total,15+,F,Active (Labour Force) as % of working age population,31.6
-2008,% of total,15 - 24,F,Active (Labour Force) as % of working age population,25.6
-2008,% of total,25 - 49,F,Active (Labour Force) as % of working age population,52.4
-2008,% of total,50 - 64,F,Active (Labour Force) as % of working age population,25.7
-2008,% of total,65+,F,Active (Labour Force) as % of working age population,3.2
-2008,% of total,15 - 64,F,Active (Labour Force) as % of working age population,39.5
-2009,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.6
-2009,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,32.6
-2009,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,69.1
-2009,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,40.8
-2009,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.2
-2009,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,53.2
-2009,% of total,15+,M,Active (Labour Force) as % of working age population,56.2
-2009,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.4
-2009,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.2
-2009,% of total,50 - 64,M,Active (Labour Force) as % of working age population,55.3
-2009,% of total,65+,M,Active (Labour Force) as % of working age population,5.6
-2009,% of total,15 - 64,M,Active (Labour Force) as % of working age population,67.0
-2009,% of total,15+,F,Active (Labour Force) as % of working age population,31.9
-2009,% of total,15 - 24,F,Active (Labour Force) as % of working age population,24.3
-2009,% of total,25 - 49,F,Active (Labour Force) as % of working age population,53.2
-2009,% of total,50 - 64,F,Active (Labour Force) as % of working age population,27.6
-2009,% of total,65+,F,Active (Labour Force) as % of working age population,3.1
-2009,% of total,15 - 64,F,Active (Labour Force) as % of working age population,39.7
-2010,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,44.6
-2010,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,33.0
-2010,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,70.6
-2010,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,40.5
-2010,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.6
-2010,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.0
-2010,% of total,15+,M,Active (Labour Force) as % of working age population,56.7
-2010,% of total,15 - 24,M,Active (Labour Force) as % of working age population,39.7
-2010,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.3
-2010,% of total,50 - 64,M,Active (Labour Force) as % of working age population,54.5
-2010,% of total,65+,M,Active (Labour Force) as % of working age population,6.3
-2010,% of total,15 - 64,M,Active (Labour Force) as % of working age population,67.1
-2010,% of total,15+,F,Active (Labour Force) as % of working age population,33.2
-2010,% of total,15 - 24,F,Active (Labour Force) as % of working age population,25.9
-2010,% of total,25 - 49,F,Active (Labour Force) as % of working age population,55.6
-2010,% of total,50 - 64,F,Active (Labour Force) as % of working age population,28.0
-2010,% of total,65+,F,Active (Labour Force) as % of working age population,3.3
-2010,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.1
-2011,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,44.0
-2011,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,31.4
-2011,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,70.6
-2011,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,41.2
-2011,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,3.6
-2011,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,53.8
-2011,% of total,15+,M,Active (Labour Force) as % of working age population,55.9
-2011,% of total,15 - 24,M,Active (Labour Force) as % of working age population,38.8
-2011,% of total,25 - 49,M,Active (Labour Force) as % of working age population,84.5
-2011,% of total,50 - 64,M,Active (Labour Force) as % of working age population,54.1
-2011,% of total,65+,M,Active (Labour Force) as % of working age population,4.9
-2011,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.3
-2011,% of total,15+,F,Active (Labour Force) as % of working age population,32.8
-2011,% of total,15 - 24,F,Active (Labour Force) as % of working age population,23.3
-2011,% of total,25 - 49,F,Active (Labour Force) as % of working age population,55.9
-2011,% of total,50 - 64,F,Active (Labour Force) as % of working age population,29.8
-2011,% of total,65+,F,Active (Labour Force) as % of working age population,2.7
-2011,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.2
-2012,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,44.0
-2012,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,29.4
-2012,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,71.6
-2012,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,42.1
-2012,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,5.0
-2012,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,53.9
-2012,% of total,15+,M,Active (Labour Force) as % of working age population,56.4
-2012,% of total,15 - 24,M,Active (Labour Force) as % of working age population,37.7
-2012,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.5
-2012,% of total,50 - 64,M,Active (Labour Force) as % of working age population,56.2
-2012,% of total,65+,M,Active (Labour Force) as % of working age population,7.0
-2012,% of total,15 - 64,M,Active (Labour Force) as % of working age population,67.0
-2012,% of total,15+,F,Active (Labour Force) as % of working age population,32.6
-2012,% of total,15 - 24,F,Active (Labour Force) as % of working age population,20.9
-2012,% of total,25 - 49,F,Active (Labour Force) as % of working age population,57.3
-2012,% of total,50 - 64,F,Active (Labour Force) as % of working age population,29.2
-2012,% of total,65+,F,Active (Labour Force) as % of working age population,3.4
-2012,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.0
-2013,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.6
-2013,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,28.3
-2013,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,71.9
-2013,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,42.1
-2013,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.2
-2013,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,53.5
-2013,% of total,15+,M,Active (Labour Force) as % of working age population,55.3
-2013,% of total,15 - 24,M,Active (Labour Force) as % of working age population,36.3
-2013,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.3
-2013,% of total,50 - 64,M,Active (Labour Force) as % of working age population,55.5
-2013,% of total,65+,M,Active (Labour Force) as % of working age population,6.2
-2013,% of total,15 - 64,M,Active (Labour Force) as % of working age population,65.7
-2013,% of total,15+,F,Active (Labour Force) as % of working age population,32.5
-2013,% of total,15 - 24,F,Active (Labour Force) as % of working age population,19.4
-2013,% of total,25 - 49,F,Active (Labour Force) as % of working age population,58.1
-2013,% of total,50 - 64,F,Active (Labour Force) as % of working age population,29.6
-2013,% of total,65+,F,Active (Labour Force) as % of working age population,2.7
-2013,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.0
-2014,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.7
-2014,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,29.3
-2014,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.2
-2014,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,42.1
-2014,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.7
-2014,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.2
-2014,% of total,15+,M,Active (Labour Force) as % of working age population,55.0
-2014,% of total,15 - 24,M,Active (Labour Force) as % of working age population,34.6
-2014,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.9
-2014,% of total,50 - 64,M,Active (Labour Force) as % of working age population,56.1
-2014,% of total,65+,M,Active (Labour Force) as % of working age population,6.8
-2014,% of total,15 - 64,M,Active (Labour Force) as % of working age population,65.9
-2014,% of total,15+,F,Active (Labour Force) as % of working age population,33.0
-2014,% of total,15 - 24,F,Active (Labour Force) as % of working age population,23.3
-2014,% of total,25 - 49,F,Active (Labour Force) as % of working age population,60.0
-2014,% of total,50 - 64,F,Active (Labour Force) as % of working age population,29.5
-2014,% of total,65+,F,Active (Labour Force) as % of working age population,3.1
-2014,% of total,15 - 64,F,Active (Labour Force) as % of working age population,42.4
-2015,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,44.1
-2015,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,32.2
-2015,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.6
-2015,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,41.7
-2015,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.3
-2015,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.6
-2015,% of total,15+,M,Active (Labour Force) as % of working age population,55.1
-2015,% of total,15 - 24,M,Active (Labour Force) as % of working age population,38.9
-2015,% of total,25 - 49,M,Active (Labour Force) as % of working age population,87.1
-2015,% of total,50 - 64,M,Active (Labour Force) as % of working age population,53.7
-2015,% of total,65+,M,Active (Labour Force) as % of working age population,6.0
-2015,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.2
-2015,% of total,15+,F,Active (Labour Force) as % of working age population,33.5
-2015,% of total,15 - 24,F,Active (Labour Force) as % of working age population,24.5
-2015,% of total,25 - 49,F,Active (Labour Force) as % of working age population,59.8
-2015,% of total,50 - 64,F,Active (Labour Force) as % of working age population,30.5
-2015,% of total,65+,F,Active (Labour Force) as % of working age population,3.0
-2015,% of total,15 - 64,F,Active (Labour Force) as % of working age population,42.9
-2016,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,43.1
-2016,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,30.2
-2016,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.2
-2016,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,43.7
-2016,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.1
-2016,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.2
-2016,% of total,15+,M,Active (Labour Force) as % of working age population,54.9
-2016,% of total,15 - 24,M,Active (Labour Force) as % of working age population,38.1
-2016,% of total,25 - 49,M,Active (Labour Force) as % of working age population,86.0
-2016,% of total,50 - 64,M,Active (Labour Force) as % of working age population,57.4
-2016,% of total,65+,M,Active (Labour Force) as % of working age population,6.0
-2016,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.2
-2016,% of total,15+,F,Active (Labour Force) as % of working age population,32.1
-2016,% of total,15 - 24,F,Active (Labour Force) as % of working age population,21.3
-2016,% of total,25 - 49,F,Active (Labour Force) as % of working age population,60.0
-2016,% of total,50 - 64,F,Active (Labour Force) as % of working age population,30.6
-2016,% of total,65+,F,Active (Labour Force) as % of working age population,2.7
-2016,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.9
-2017,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,42.6
-2017,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,32.5
-2017,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.5
-2017,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,43.6
-2017,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,5.2
-2017,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.5
-2017,% of total,15+,M,Active (Labour Force) as % of working age population,53.3
-2017,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.2
-2017,% of total,25 - 49,M,Active (Labour Force) as % of working age population,86.5
-2017,% of total,50 - 64,M,Active (Labour Force) as % of working age population,56.4
-2017,% of total,65+,M,Active (Labour Force) as % of working age population,6.9
-2017,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.1
-2017,% of total,15+,F,Active (Labour Force) as % of working age population,32.4
-2017,% of total,15 - 24,F,Active (Labour Force) as % of working age population,23.4
-2017,% of total,25 - 49,F,Active (Labour Force) as % of working age population,60.3
-2017,% of total,50 - 64,F,Active (Labour Force) as % of working age population,31.6
-2017,% of total,65+,F,Active (Labour Force) as % of working age population,3.9
-2017,% of total,15 - 64,F,Active (Labour Force) as % of working age population,42.7
-2018,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,42.1
-2018,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,32.3
-2018,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.0
-2018,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,44.6
-2018,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,4.7
-2018,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,54.2
-2018,% of total,15+,M,Active (Labour Force) as % of working age population,53.2
-2018,% of total,15 - 24,M,Active (Labour Force) as % of working age population,40.4
-2018,% of total,25 - 49,M,Active (Labour Force) as % of working age population,86.8
-2018,% of total,50 - 64,M,Active (Labour Force) as % of working age population,57.3
-2018,% of total,65+,M,Active (Labour Force) as % of working age population,6.2
-2018,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.4
-2018,% of total,15+,F,Active (Labour Force) as % of working age population,31.4
-2018,% of total,15 - 24,F,Active (Labour Force) as % of working age population,23.1
-2018,% of total,25 - 49,F,Active (Labour Force) as % of working age population,58.9
-2018,% of total,50 - 64,F,Active (Labour Force) as % of working age population,32.3
-2018,% of total,65+,F,Active (Labour Force) as % of working age population,3.6
-2018,% of total,15 - 64,F,Active (Labour Force) as % of working age population,41.8
-2019,% of total,15+,Both sexes,Active (Labour Force) as % of working age population,42.1
-2019,% of total,15 - 24,Both sexes,Active (Labour Force) as % of working age population,35.4
-2019,% of total,25 - 49,Both sexes,Active (Labour Force) as % of working age population,73.4
-2019,% of total,50 - 64,Both sexes,Active (Labour Force) as % of working age population,46.7
-2019,% of total,65+,Both sexes,Active (Labour Force) as % of working age population,6.9
-2019,% of total,15 - 64,Both sexes,Active (Labour Force) as % of working age population,55.5
-2019,% of total,15+,M,Active (Labour Force) as % of working age population,51.7
-2019,% of total,15 - 24,M,Active (Labour Force) as % of working age population,39.8
-2019,% of total,25 - 49,M,Active (Labour Force) as % of working age population,85.6
-2019,% of total,50 - 64,M,Active (Labour Force) as % of working age population,60.1
-2019,% of total,65+,M,Active (Labour Force) as % of working age population,8.8
-2019,% of total,15 - 64,M,Active (Labour Force) as % of working age population,66.4
-2019,% of total,15+,F,Active (Labour Force) as % of working age population,32.9
-2019,% of total,15 - 24,F,Active (Labour Force) as % of working age population,29.9
-2019,% of total,25 - 49,F,Active (Labour Force) as % of working age population,61.1
-2019,% of total,50 - 64,F,Active (Labour Force) as % of working age population,34.1
-2019,% of total,65+,F,Active (Labour Force) as % of working age population,5.3
-2019,% of total,15 - 64,F,Active (Labour Force) as % of working age population,44.4
+Year,UNIT_MEASURE,Quantity,Administrative area,Value
+1997,Number,Total (millions),BiH,6752.0
+1998,Number,Total (millions),BiH,7650.0
+1999,Number,Total (millions),BiH,8604.0
+2000,Number,Total (millions),BiH,9611.0
+2001,Number,Total (millions),BiH,10480.0
+2002,Number,Total (millions),BiH,11651.0
+2003,Number,Total (millions),BiH,12303.0
+2004,Number,Total (millions),BiH,13497.0
+2005,Number,Total (millions),BiH,17649.0
+2006,Number,Total (millions),BiH,20056.0
+2007,Number,Total (millions),BiH,22548.0
+2008,Number,Total (millions),BiH,25519.0
+2009,Number,Total (millions),BiH,24799.0
+2010,Number,Total (millions),BiH,25365.0
+2011,Number,Total (millions),BiH,26231.0
+2012,Number,Total (millions),BiH,26223.0
+2013,Number,Total (millions),BiH,26779.0
+2014,Number,Total (millions),BiH,27358.0
+2015,Number,Total (millions),BiH,28589.0
+2016,Number,Total (millions),BiH,29905.0
+2017,Number,Total (millions),BiH,31377.0
+2018,Number,Total (millions),BiH,33445.0
+2019,Number,Total (millions),BiH,35295.0
+1997,Number,Total (millions),Federation of BiH,4943.0
+1998,Number,Total (millions),Federation of BiH,5606.0
+1999,Number,Total (millions),Federation of BiH,6142.0
+2000,Number,Total (millions),Federation of BiH,6723.0
+2001,Number,Total (millions),Federation of BiH,7274.0
+2002,Number,Total (millions),Federation of BiH,7943.0
+2003,Number,Total (millions),Federation of BiH,8268.0
+2004,Number,Total (millions),Federation of BiH,8897.0
+2005,Number,Total (millions),Federation of BiH,11506.0
+2006,Number,Total (millions),Federation of BiH,13036.0
+2007,Number,Total (millions),Federation of BiH,14629.0
+2008,Number,Total (millions),Federation of BiH,16426.0
+2009,Number,Total (millions),Federation of BiH,15987.0
+2010,Number,Total (millions),Federation of BiH,16461.0
+2011,Number,Total (millions),Federation of BiH,16927.0
+2012,Number,Total (millions),Federation of BiH,17013.0
+2013,Number,Total (millions),Federation of BiH,17379.0
+2014,Number,Total (millions),Federation of BiH,17827.0
+2015,Number,Total (millions),Federation of BiH,18688.0
+2016,Number,Total (millions),Federation of BiH,19540.0
+2017,Number,Total (millions),Federation of BiH,20540.0
+2018,Number,Total (millions),Federation of BiH,21984.0
+2019,Number,Total (millions),Federation of BiH,23179.0
+1997,Number,Total (millions),Republika Srpska,1809.0
+1998,Number,Total (millions),Republika Srpska,2044.0
+1999,Number,Total (millions),Republika Srpska,2462.0
+2000,Number,Total (millions),Republika Srpska,2734.0
+2001,Number,Total (millions),Republika Srpska,2993.0
+2002,Number,Total (millions),Republika Srpska,3417.0
+2003,Number,Total (millions),Republika Srpska,3717.0
+2004,Number,Total (millions),Republika Srpska,4226.0
+2005,Number,Total (millions),Republika Srpska,5695.0
+2006,Number,Total (millions),Republika Srpska,6550.0
+2007,Number,Total (millions),Republika Srpska,7366.0
+2008,Number,Total (millions),Republika Srpska,8507.0
+2009,Number,Total (millions),Republika Srpska,8257.0
+2010,Number,Total (millions),Republika Srpska,8336.0
+2011,Number,Total (millions),Republika Srpska,8703.0
+2012,Number,Total (millions),Republika Srpska,8615.0
+2013,Number,Total (millions),Republika Srpska,8793.0
+2014,Number,Total (millions),Republika Srpska,8887.0
+2015,Number,Total (millions),Republika Srpska,9205.0
+2016,Number,Total (millions),Republika Srpska,9631.0
+2017,Number,Total (millions),Republika Srpska,10077.0
+2018,Number,Total (millions),Republika Srpska,10680.0
+2019,Number,Total (millions),Republika Srpska,11251.0
+2000,Number,Total (millions),Brčko District of BiH,154.0
+2001,Number,Total (millions),Brčko District of BiH,213.0
+2002,Number,Total (millions),Brčko District of BiH,291.0
+2003,Number,Total (millions),Brčko District of BiH,318.0
+2004,Number,Total (millions),Brčko District of BiH,374.0
+2005,Number,Total (millions),Brčko District of BiH,448.0
+2006,Number,Total (millions),Brčko District of BiH,470.0
+2007,Number,Total (millions),Brčko District of BiH,553.0
+2008,Number,Total (millions),Brčko District of BiH,586.0
+2009,Number,Total (millions),Brčko District of BiH,555.0
+2010,Number,Total (millions),Brčko District of BiH,568.0
+2011,Number,Total (millions),Brčko District of BiH,601.0
+2012,Number,Total (millions),Brčko District of BiH,595.0
+2013,Number,Total (millions),Brčko District of BiH,607.0
+2014,Number,Total (millions),Brčko District of BiH,644.0
+2015,Number,Total (millions),Brčko District of BiH,696.0
+2016,Number,Total (millions),Brčko District of BiH,734.0
+2017,Number,Total (millions),Brčko District of BiH,760.0
+2018,Number,Total (millions),Brčko District of BiH,781.0
+2019,Number,Total (millions),Brčko District of BiH,865.0
+1997,% of total,Real GDP growth,BiH,0.34
+1998,% of total,Real GDP growth,BiH,0.16
+1999,% of total,Real GDP growth,BiH,0.1
+2000,% of total,Real GDP growth,BiH,0.06
+2001,% of total,Real GDP growth,BiH,0.04
+2002,% of total,Real GDP growth,BiH,0.05
+2003,% of total,Real GDP growth,BiH,0.04
+2004,% of total,Real GDP growth,BiH,0.06
+2005,% of total,Real GDP growth,BiH,0.09
+2006,% of total,Real GDP growth,BiH,0.05
+2007,% of total,Real GDP growth,BiH,0.06
+2008,% of total,Real GDP growth,BiH,0.05
+2009,% of total,Real GDP growth,BiH,-0.03
+2010,% of total,Real GDP growth,BiH,0.01
+2011,% of total,Real GDP growth,BiH,0.01
+2012,% of total,Real GDP growth,BiH,-0.01
+2013,% of total,Real GDP growth,BiH,0.02
+2014,% of total,Real GDP growth,BiH,0.01
+2015,% of total,Real GDP growth,BiH,0.03
+2016,% of total,Real GDP growth,BiH,0.03
+2017,% of total,Real GDP growth,BiH,0.02
+2018,% of total,Real GDP growth,BiH,0.04
+2019,% of total,Real GDP growth,BiH,0.03
+1997,Number,Per capita,BiH,1798.0
+1998,Number,Per capita,BiH,2094.0
+1999,Number,Per capita,BiH,2310.0
+2000,Number,Per capita,BiH,2542.0
+2001,Number,Per capita,BiH,2759.0
+2002,Number,Per capita,BiH,3044.0
+2003,Number,Per capita,BiH,3211.0
+2004,Number,Per capita,BiH,3512.0
+2005,Number,Per capita,BiH,4983.0
+2006,Number,Per capita,BiH,5663.0
+2007,Number,Per capita,BiH,6366.0
+2008,Number,Per capita,BiH,7205.0
+2009,Number,Per capita,BiH,7003.0
+2010,Number,Per capita,BiH,7165.0
+2011,Number,Per capita,BiH,7414.0
+2012,Number,Per capita,BiH,7418.0
+2013,Number,Per capita,BiH,7584.0
+2014,Number,Per capita,BiH,7759.0
+2015,Number,Per capita,BiH,8127.0
+2016,Number,Per capita,BiH,8517.0
+2017,Number,Per capita,BiH,8954.0
+2018,Number,Per capita,BiH,9566.0
+2019,Number,Per capita,BiH,10128.0

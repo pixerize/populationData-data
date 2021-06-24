@@ -11,46 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Inactive as % of working age population",
-                "Unemployed as % of labour force",
-                "Unemployed as % of working age population"
+                "BiH"
               ]
             },
-            "title": "Activity rates"
+            "title": "Administrative area"
           },
           {
-            "name": "AGE",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15 - 24",
-                "15 - 64",
-                "15+",
-                "25 - 49",
-                "50 - 64",
-                "65+"
+                "Per capita",
+                "Total (millions)"
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "title": "Quantity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -59,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

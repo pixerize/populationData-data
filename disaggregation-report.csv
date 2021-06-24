@@ -1,6 +1,6 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACTIVITY_RATES,Activity rates,ACTIVITY_RATES,ACTIVITY_RATES,ACTIVITY_RATES,4,7
-AGE,Age,Godine,Године,Godine,27,211
+AGE,AGE,Godine,Године,Godine,28,212
 BIRTHS,Births,Births,Births,Births,1,3
 EDUCATION,Education,EDUCATION,EDUCATION,EDUCATION,1,7
 ENROLMENT,Enrolment,ENROLMENT,ENROLMENT,ENROLMENT,1,4
@@ -10,7 +10,7 @@ FORM_OF_VIOLENCE,Form of violence,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,FORM_OF_VIOL
 Municipality,Municipality,Municipality,Municipality,Municipality,1,142
 POVERTY_RATE,Poverty Rate,POVERTY_RATE,POVERTY_RATE,POVERTY_RATE,2,4
 QUANTITY,Quantity,QUANTITY,QUANTITY,QUANTITY,3,3
-SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,3,6
-SEX,Sex,Spol,Пол,Spol,31,3
+SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,1,2
+SEX,Sex,Spol,Пол,Spol,32,3
 SURVEY_IMPLEMENTED_BY,Survey implemented by,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,1,2
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,42,11
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,42,10

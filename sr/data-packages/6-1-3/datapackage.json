@@ -21,50 +21,31 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "QUANTITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
+                "total_millions",
+                "per_capita",
                 ""
               ]
             },
-            "title": "Године"
+            "title": "QUANTITY"
           },
           {
-            "name": "SEX",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "BiH",
                 ""
               ]
             },
-            "title": "Пол"
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unemployed_as_of_labour",
-                "inactive_as_of_working",
-                "unemployed_as_of_working",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
+            "title": "Ентитет"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

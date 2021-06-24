@@ -11,34 +11,76 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "Primary school",
-                "Secondary school",
-                "Total 15+",
-                "Unknown"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Education"
+            "title": "Administrative area"
           },
           {
-            "name": "SEX",
+            "name": "FORM_OF_VIOLENCE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "Women who have experienced any form of partner violence after the age of 15 (ever)",
+                "Women who have experienced any form of partner violence after the age of 15 (past 12 months)",
+                "Women who have experienced any form of violence after the age of 15 (ever)",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 18-24 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 25-34 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 35-44 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 45-54 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 55-64 years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - 65+ years of age",
+                "Women who have experienced any form of violence after the age of 15 (ever) - rural areas",
+                "Women who have experienced any form of violence after the age of 15 (ever) - urban areas",
+                "Women who have experienced any form of violence after the age of 15 (past 12 months)",
+                "Women who have experienced economic violence after the age of 15 (ever)",
+                "Women who have experienced economic violence after the age of 15 (past 12 months)",
+                "Women who have experienced physical violence after the age of 15 (ever)",
+                "Women who have experienced physical violence after the age of 15 (past 12 months)",
+                "Women who have experienced physical violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced physical violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced physical violence by relatives or family (other than intimate partner) (ever)",
+                "Women who have experienced physical violence in broader community (not intimate partner) (ever)",
+                "Women who have experienced physical violence in broader community (not intimate partner) (past 12 months)",
+                "Women who have experienced physical violence in broader community (not relatives or intimate partner) (ever)",
+                "Women who have experienced psychological violence after the age of 15 (ever)",
+                "Women who have experienced psychological violence after the age of 15 (past 12 months)",
+                "Women who have experienced psychological violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced psychological violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced psychological violence by relatives or family (other than intimate partner) (ever)",
+                "Women who have experienced psychological violence in broader community (not relatives or intimate partner) (ever)",
+                "Women who have experienced sexual harassment after the age of 15 (ever)",
+                "Women who have experienced sexual harassment after the age of 15 (past 12 months)",
+                "Women who have experienced sexual violence after the age of 15 (ever)",
+                "Women who have experienced sexual violence after the age of 15 (past 12 months)",
+                "Women who have experienced sexual violence by intimate partner (current or former partner) (ever)",
+                "Women who have experienced sexual violence by intimate partner (current or former partner) (past 12 months)",
+                "Women who have experienced sexual violence in broader community (not intimate partner) (ever)",
+                "Women who have experienced sexual violence in broader community (not intimate partner) (past 12 months)"
               ]
             },
-            "title": "Sex"
+            "title": "Form of violence"
+          },
+          {
+            "name": "SURVEY_IMPLEMENTED_BY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "OSCE",
+                "UN Women & UNFPA"
+              ]
+            },
+            "title": "Survey implemented by"
           },
           {
             "name": "UNIT_MEASURE",

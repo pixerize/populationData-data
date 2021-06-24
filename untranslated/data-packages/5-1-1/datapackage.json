@@ -19,26 +19,29 @@
             "type": "string"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "real_gdp_growth",
-                "per_capita",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Entity",
+            "name": "EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "total_15",
+                "incomplete_primary_education",
+                "primary_school",
+                "secondary_school",
+                "higher_school_and_first_grade_of_faculty",
+                "advanced_schools_faculty_academy_university",
+                "unknown",
                 ""
               ]
             }

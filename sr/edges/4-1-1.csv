@@ -1,2 +1,3 @@
 From,To
-Пол,EDUCATION
+FORM_OF_VIOLENCE,Ентитет
+Ентитет,SURVEY_IMPLEMENTED_BY

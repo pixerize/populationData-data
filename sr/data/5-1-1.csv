@@ -1,136 +1,79 @@
-Year,UNIT_MEASURE,QUANTITY,Ентитет,Value
-1997,Број,total_millions,BiH,6752.0
-1998,Број,total_millions,BiH,7650.0
-1999,Број,total_millions,BiH,8604.0
-2000,Број,total_millions,BiH,9611.0
-2001,Број,total_millions,BiH,10480.0
-2002,Број,total_millions,BiH,11651.0
-2003,Број,total_millions,BiH,12303.0
-2004,Број,total_millions,BiH,13497.0
-2005,Број,total_millions,BiH,17649.0
-2006,Број,total_millions,BiH,20056.0
-2007,Број,total_millions,BiH,22548.0
-2008,Број,total_millions,BiH,25519.0
-2009,Број,total_millions,BiH,24799.0
-2010,Број,total_millions,BiH,25365.0
-2011,Број,total_millions,BiH,26231.0
-2012,Број,total_millions,BiH,26223.0
-2013,Број,total_millions,BiH,26779.0
-2014,Број,total_millions,BiH,27358.0
-2015,Број,total_millions,BiH,28589.0
-2016,Број,total_millions,BiH,29905.0
-2017,Број,total_millions,BiH,31377.0
-2018,Број,total_millions,BiH,33445.0
-2019,Број,total_millions,BiH,35295.0
-1997,Број,total_millions,Федерација БиХ,4943.0
-1998,Број,total_millions,Федерација БиХ,5606.0
-1999,Број,total_millions,Федерација БиХ,6142.0
-2000,Број,total_millions,Федерација БиХ,6723.0
-2001,Број,total_millions,Федерација БиХ,7274.0
-2002,Број,total_millions,Федерација БиХ,7943.0
-2003,Број,total_millions,Федерација БиХ,8268.0
-2004,Број,total_millions,Федерација БиХ,8897.0
-2005,Број,total_millions,Федерација БиХ,11506.0
-2006,Број,total_millions,Федерација БиХ,13036.0
-2007,Број,total_millions,Федерација БиХ,14629.0
-2008,Број,total_millions,Федерација БиХ,16426.0
-2009,Број,total_millions,Федерација БиХ,15987.0
-2010,Број,total_millions,Федерација БиХ,16461.0
-2011,Број,total_millions,Федерација БиХ,16927.0
-2012,Број,total_millions,Федерација БиХ,17013.0
-2013,Број,total_millions,Федерација БиХ,17379.0
-2014,Број,total_millions,Федерација БиХ,17827.0
-2015,Број,total_millions,Федерација БиХ,18688.0
-2016,Број,total_millions,Федерација БиХ,19540.0
-2017,Број,total_millions,Федерација БиХ,20540.0
-2018,Број,total_millions,Федерација БиХ,21984.0
-2019,Број,total_millions,Федерација БиХ,23179.0
-1997,Број,total_millions,Република Српска,1809.0
-1998,Број,total_millions,Република Српска,2044.0
-1999,Број,total_millions,Република Српска,2462.0
-2000,Број,total_millions,Република Српска,2734.0
-2001,Број,total_millions,Република Српска,2993.0
-2002,Број,total_millions,Република Српска,3417.0
-2003,Број,total_millions,Република Српска,3717.0
-2004,Број,total_millions,Република Српска,4226.0
-2005,Број,total_millions,Република Српска,5695.0
-2006,Број,total_millions,Република Српска,6550.0
-2007,Број,total_millions,Република Српска,7366.0
-2008,Број,total_millions,Република Српска,8507.0
-2009,Број,total_millions,Република Српска,8257.0
-2010,Број,total_millions,Република Српска,8336.0
-2011,Број,total_millions,Република Српска,8703.0
-2012,Број,total_millions,Република Српска,8615.0
-2013,Број,total_millions,Република Српска,8793.0
-2014,Број,total_millions,Република Српска,8887.0
-2015,Број,total_millions,Република Српска,9205.0
-2016,Број,total_millions,Република Српска,9631.0
-2017,Број,total_millions,Република Српска,10077.0
-2018,Број,total_millions,Република Српска,10680.0
-2019,Број,total_millions,Република Српска,11251.0
-2000,Број,total_millions,Брчко Дистрикт БиХ,154.0
-2001,Број,total_millions,Брчко Дистрикт БиХ,213.0
-2002,Број,total_millions,Брчко Дистрикт БиХ,291.0
-2003,Број,total_millions,Брчко Дистрикт БиХ,318.0
-2004,Број,total_millions,Брчко Дистрикт БиХ,374.0
-2005,Број,total_millions,Брчко Дистрикт БиХ,448.0
-2006,Број,total_millions,Брчко Дистрикт БиХ,470.0
-2007,Број,total_millions,Брчко Дистрикт БиХ,553.0
-2008,Број,total_millions,Брчко Дистрикт БиХ,586.0
-2009,Број,total_millions,Брчко Дистрикт БиХ,555.0
-2010,Број,total_millions,Брчко Дистрикт БиХ,568.0
-2011,Број,total_millions,Брчко Дистрикт БиХ,601.0
-2012,Број,total_millions,Брчко Дистрикт БиХ,595.0
-2013,Број,total_millions,Брчко Дистрикт БиХ,607.0
-2014,Број,total_millions,Брчко Дистрикт БиХ,644.0
-2015,Број,total_millions,Брчко Дистрикт БиХ,696.0
-2016,Број,total_millions,Брчко Дистрикт БиХ,734.0
-2017,Број,total_millions,Брчко Дистрикт БиХ,760.0
-2018,Број,total_millions,Брчко Дистрикт БиХ,781.0
-2019,Број,total_millions,Брчко Дистрикт БиХ,865.0
-1997,_%,real_gdp_growth,BiH,0.34
-1998,_%,real_gdp_growth,BiH,0.16
-1999,_%,real_gdp_growth,BiH,0.1
-2000,_%,real_gdp_growth,BiH,0.06
-2001,_%,real_gdp_growth,BiH,0.04
-2002,_%,real_gdp_growth,BiH,0.05
-2003,_%,real_gdp_growth,BiH,0.04
-2004,_%,real_gdp_growth,BiH,0.06
-2005,_%,real_gdp_growth,BiH,0.09
-2006,_%,real_gdp_growth,BiH,0.05
-2007,_%,real_gdp_growth,BiH,0.06
-2008,_%,real_gdp_growth,BiH,0.05
-2009,_%,real_gdp_growth,BiH,-0.03
-2010,_%,real_gdp_growth,BiH,0.01
-2011,_%,real_gdp_growth,BiH,0.01
-2012,_%,real_gdp_growth,BiH,-0.01
-2013,_%,real_gdp_growth,BiH,0.02
-2014,_%,real_gdp_growth,BiH,0.01
-2015,_%,real_gdp_growth,BiH,0.03
-2016,_%,real_gdp_growth,BiH,0.03
-2017,_%,real_gdp_growth,BiH,0.02
-2018,_%,real_gdp_growth,BiH,0.04
-2019,_%,real_gdp_growth,BiH,0.03
-1997,Број,per_capita,BiH,1798.0
-1998,Број,per_capita,BiH,2094.0
-1999,Број,per_capita,BiH,2310.0
-2000,Број,per_capita,BiH,2542.0
-2001,Број,per_capita,BiH,2759.0
-2002,Број,per_capita,BiH,3044.0
-2003,Број,per_capita,BiH,3211.0
-2004,Број,per_capita,BiH,3512.0
-2005,Број,per_capita,BiH,4983.0
-2006,Број,per_capita,BiH,5663.0
-2007,Број,per_capita,BiH,6366.0
-2008,Број,per_capita,BiH,7205.0
-2009,Број,per_capita,BiH,7003.0
-2010,Број,per_capita,BiH,7165.0
-2011,Број,per_capita,BiH,7414.0
-2012,Број,per_capita,BiH,7418.0
-2013,Број,per_capita,BiH,7584.0
-2014,Број,per_capita,BiH,7759.0
-2015,Број,per_capita,BiH,8127.0
-2016,Број,per_capita,BiH,8517.0
-2017,Број,per_capita,BiH,8954.0
-2018,Број,per_capita,BiH,9566.0
-2019,Број,per_capita,BiH,10128.0
+Year,UNIT_MEASURE,Пол,EDUCATION,Value
+1991,Број,Оба пола,total_15,471182.0
+1991,_%,Оба пола,total_15,17.43944263
+1991,Број,Мушкарци,total_15,98420.0
+1991,_%,Мушкарци,total_15,7.480138719
+1991,Број,Жене,total_15,372762.0
+1991,_%,Жене,total_15,26.89350515
+1991,Број,Оба пола,incomplete_primary_education,658356.0
+1991,_%,Оба пола,incomplete_primary_education,24.36714834
+1991,Број,Мушкарци,incomplete_primary_education,285421.0
+1991,_%,Мушкарци,incomplete_primary_education,21.69263029
+1991,Број,Жене,incomplete_primary_education,372935.0
+1991,_%,Жене,incomplete_primary_education,26.90598651
+1991,Број,Оба пола,primary_school,818361.0
+1991,_%,Оба пола,primary_school,30.28927189
+1991,Број,Мушкарци,primary_school,421045.0
+1991,_%,Мушкарци,primary_school,32.00035569
+1991,Број,Жене,primary_school,397316.0
+1991,_%,Жене,primary_school,28.66499238
+1991,Број,Оба пола,secondary_school,1092372.0
+1991,_%,Оба пола,secondary_school,40.43099868
+1991,Број,Мушкарци,secondary_school,671058.0
+1991,_%,Мушкарци,secondary_school,51.0018993
+1991,Број,Жене,secondary_school,421314.0
+1991,_%,Жене,secondary_school,30.39636612
+1991,Број,Оба пола,higher_school_and_first_grade_of_faculty,92501.0
+1991,_%,Оба пола,higher_school_and_first_grade_of_faculty,3.4236577
+1991,Број,Мушкарци,higher_school_and_first_grade_of_faculty,56759.0
+1991,_%,Мушкарци,higher_school_and_first_grade_of_faculty,4.313810136
+1991,Број,Жене,higher_school_and_first_grade_of_faculty,35742.0
+1991,_%,Жене,higher_school_and_first_grade_of_faculty,2.578663225
+1991,Број,Оба пола,advanced_schools_faculty_academy_university,122967.0
+1991,_%,Оба пола,advanced_schools_faculty_academy_university,4.551268812
+1991,Број,Мушкарци,advanced_schools_faculty_academy_university,77240.0
+1991,_%,Мушкарци,advanced_schools_faculty_academy_university,5.870411651
+1991,Број,Жене,advanced_schools_faculty_academy_university,45727.0
+1991,_%,Жене,advanced_schools_faculty_academy_university,3.299046871
+1991,Број,Оба пола,unknown,93903.0
+1991,_%,Оба пола,unknown,3.475548686
+1991,Број,Мушкарци,unknown,47397.0
+1991,_%,Мушкарци,unknown,3.602277331
+1991,Број,Жене,unknown,46506.0
+1991,_%,Жене,unknown,335.5249061
+2013,Број,Оба пола,total_15,146078.0
+2013,_%,Оба пола,total_15,5.406655815
+2013,Број,Мушкарци,total_15,24021.0
+2013,_%,Мушкарци,total_15,1.825649382
+2013,Број,Жене,total_15,122057.0
+2013,_%,Жене,total_15,8.80599567
+2013,Број,Оба пола,incomplete_primary_education,274036.0
+2013,_%,Оба пола,incomplete_primary_education,10.1426521
+2013,Број,Мушкарци,incomplete_primary_education,83216.0
+2013,_%,Мушкарци,incomplete_primary_education,6.324600931
+2013,Број,Жене,incomplete_primary_education,190820.0
+2013,_%,Жене,incomplete_primary_education,13.76701126
+2013,Број,Оба пола,primary_school,640726.0
+2013,_%,Оба пола,primary_school,23.71462475
+2013,Број,Мушкарци,primary_school,274258.0
+2013,_%,Мушкарци,primary_school,20.84421748
+2013,Број,Жене,primary_school,366468.0
+2013,_%,Жене,primary_school,26.43941454
+2013,Број,Оба пола,secondary_school,1525161.0
+2013,_%,Оба пола,secondary_school,56.44943516
+2013,Број,Мушкарци,secondary_school,864823.0
+2013,_%,Мушкарци,secondary_school,65.7284699
+2013,Број,Жене,secondary_school,660338.0
+2013,_%,Жене,secondary_school,47.64113135
+2013,Број,Оба пола,higher_school_and_first_grade_of_faculty,94204.0
+2013,_%,Оба пола,higher_school_and_first_grade_of_faculty,3.486689333
+2013,Број,Мушкарци,higher_school_and_first_grade_of_faculty,51556.0
+2013,_%,Мушкарци,higher_school_and_first_grade_of_faculty,3.918370573
+2013,Број,Жене,higher_school_and_first_grade_of_faculty,42648.0
+2013,_%,Жене,higher_school_and_first_grade_of_faculty,3.076907538
+2013,Број,Оба пола,advanced_schools_faculty_academy_university,285622.0
+2013,_%,Оба пола,advanced_schools_faculty_academy_university,10.57147447
+2013,Број,Мушкарци,advanced_schools_faculty_academy_university,137543.0
+2013,_%,Мушкарци,advanced_schools_faculty_academy_university,10.45357366
+2013,Број,Жене,advanced_schools_faculty_academy_university,148079.0
+2013,_%,Жене,advanced_schools_faculty_academy_university,10.68339409
