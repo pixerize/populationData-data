@@ -10,7 +10,10 @@
 2-1-title: Population projections
 3-1-title: Mortality and causes of death
 3-2-title: Cancers
-3-3-title: Sexually Transmitted Diseases
+#3-3-title: Sexually Transmitted Diseases
+3-3-title: MISC
+3-4-title: Type of sewage
+3-5-title: Number of persons with disabilities
 #3-4-title: Caesarean sections
 #3-5-title: Public capacities for health care
 #3-6-title: Family planning
