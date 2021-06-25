@@ -25,29 +25,67 @@
             "title": "Entity"
           },
           {
-            "name": "SEX",
+            "name": "MICS_INDICATORS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "accepting_attitudes_towards_people_living_with_hiv_(men_15-49)",
+                "accepting_attitudes_towards_people_living_with_hiv_(women_15-49)",
+                "alcohol_use_(men_15-49)",
+                "alcohol_use_(women_15-49)",
+                "comprehensive_knowledge_about_hiv_prevention_(men_15-24)",
+                "comprehensive_knowledge_about_hiv_prevention_(men_15-49)",
+                "comprehensive_knowledge_about_hiv_prevention_(women_15-24)",
+                "comprehensive_knowledge_about_hiv_prevention_(women_15-49)",
+                "condom_use_during_sex_with_multiple_partners_(men_15-49)",
+                "condom_use_during_sex_with_multiple_partners_(women_15-49)",
+                "condom_use_with_non-regular_partners_(men_15-24)",
+                "condom_use_with_non-regular_partners_(women_15-24)",
+                "contraceptive_prevalence_rate_(modern_methods)",
+                "contraceptive_prevalence_rate_(total)",
+                "contraceptive_prevalence_rate_(traditional_methods)",
+                "happiness_(men_15-24)",
+                "happiness_(women_15-24)",
+                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49)",
+                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49)",
+                "institutional_deliveries",
+                "life_satisfaction_(men_15-24)",
+                "life_satisfaction_(women_15-24)",
+                "marriage_before_age_15_(men_15-49)",
+                "marriage_before_age_15_(women_15-49)",
+                "marriage_before_age_18_(men_20-49)",
+                "marriage_before_age_18_(women_20-49)",
+                "men_aged_15-24_who_have_never_had_sex_",
+                "satisfied_demand_for_family_planning",
+                "sex_before_age_15_(men_15-24)",
+                "sex_before_age_15_(women_15-19-24)",
+                "sex_with_multiple_partners_(men_15-49)",
+                "sex_with_multiple_partners_(women_15-49)",
+                "sex_with_non-regular_partners_(men_15-24)",
+                "sex_with_non-regular_partners_(women_15-24)",
+                "skilled_attendant_at_delivery",
+                "tobacco_use_(men_15-49)",
+                "tobacco_use_(women_15-49)",
+                "unmet_need_for_family_planning",
+                "women_aged_15-24_who_have_never_had_sex_",
+                "young_women_aged_15-19_years_currently_married_or_in_union"
               ]
             },
-            "title": "Sex"
+            "title": "MICS_INDICATORS"
           },
           {
-            "name": "STILLBIRTH_RATE",
+            "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "number_of_stillbirths",
-                "per_1000"
+                "MICS 1",
+                "MICS 3",
+                "MICS 4 "
               ]
             },
-            "title": "STILLBIRTH_RATE"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "UNIT_MEASURE",
@@ -70,5 +108,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1",
-  "title": "3-3-1"
+  "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
 }

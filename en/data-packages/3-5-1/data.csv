@@ -1,0 +1,19 @@
+Year,GRAND_TOTAL,PERSON_STATUS,UNIT_MEASURE,Sex,Value
+2013,3531159,persons_with_disabilities,Number,Both sexes,294058.0
+2013,3531159,persons_with_disabilities,_%,Both sexes,8.327520794
+2013,3531159,persons_with_disabilities,Number,M,132975.0
+2013,3531159,persons_with_disabilities,_%,M,45.22067075
+2013,3531159,persons_with_disabilities,Number,F,161083.0
+2013,3531159,persons_with_disabilities,_%,F,54.77932925
+2013,3531159,persons_without_disabilities,Number,Both sexes,3185694.0
+2013,3531159,persons_without_disabilities,_%,Both sexes,90.21666824
+2013,3531159,persons_without_disabilities,Number,M,1573901.0
+2013,3531159,persons_without_disabilities,_%,M,49.40527872
+2013,3531159,persons_without_disabilities,Number,F,1611793.0
+2013,3531159,persons_without_disabilities,_%,F,50.59472128
+2013,3531159,status_unknown,Number,Both sexes,51407.0
+2013,3531159,status_unknown,_%,Both sexes,1.455810967
+2013,3531159,status_unknown,Number,M,25394.0
+2013,3531159,status_unknown,_%,M,49.39794191
+2013,3531159,status_unknown,Number,F,26013.0
+2013,3531159,status_unknown,_%,F,50.60205809

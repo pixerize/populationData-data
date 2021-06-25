@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "GRAND_TOTAL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3531159",
+                ""
+              ]
+            },
+            "title": "GRAND_TOTAL"
+          },
+          {
+            "name": "PERSON_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "persons_with_disabilities",
+                "persons_without_disabilities",
+                "status_unknown",
+                ""
+              ]
+            },
+            "title": "PERSON_STATUS"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-1",
+  "title": "Покривање интервенцијских третмана (фармаколошке, психосоцијалне,рехабилитационе и накнадне услуге) за поремећаје употребе супстанци"
+}
