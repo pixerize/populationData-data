@@ -149,7 +149,7 @@
           }
         ]
       },
-      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+      "title": "MISC"
     },
     {
       "path": "1-6-2/data.csv",
@@ -502,7 +502,7 @@
           }
         ]
       },
-      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Persons with disabilities by age groups"
     },
     {
       "path": "1-7-1/data.csv",
@@ -2029,7 +2029,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-1-title"
+      "title": "Crude death rate"
     },
     {
       "path": "6-1-2/data.csv",
@@ -3303,7 +3303,7 @@
           }
         ]
       },
-      "title": "Number of persons with disabilities by age and sex"
+      "title": "Persons with disabilities by age and sex"
     },
     {
       "path": "1-4-3/data.csv",
