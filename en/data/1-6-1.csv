@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Entity,Value
+Year,UNIT_MEASURE,Administrative area,Value
 1971,Number,BiH,6.6
 1972,Number,BiH,7.0
 1973,Number,BiH,6.4
@@ -44,67 +44,67 @@ Year,UNIT_MEASURE,Entity,Value
 2017,Number,BiH,10.8
 2018,Number,BiH,10.8
 2019,Number,BiH,11.1
-1996,Number,FBIH,6.3
-1997,Number,FBIH,6.9
-1998,Number,FBIH,7.3
-1999,Number,FBIH,7.1
-2000,Number,FBIH,7.4
-2001,Number,FBIH,7.3
-2002,Number,FBIH,7.4
-2003,Number,FBIH,7.9
-2004,Number,FBIH,7.9
-2005,Number,FBIH,8.3
-2006,Number,FBIH,8.0
-2007,Number,FBIH,8.7
-2008,Number,FBIH,8.3
-2009,Number,FBIH,8.3
-2010,Number,FBIH,8.6
-2011,Number,FBIH,8.8
-2012,Number,FBIH,8.7
-2013,Number,FBIH,8.9
-2014,Number,FBIH,8.7
-2015,Number,FBIH,9.8
-2016,Number,FBIH,9.6
-2017,Number,FBIH,9.9
-2018,Number,FBIH,9.8
-2019,Number,FBIH,10.1
-1996,Number,RS,8.9
-1997,Number,RS,9.6
-1998,Number,RS,10.1
-1999,Number,RS,10.2
-2000,Number,RS,10.8
-2001,Number,RS,10.8
-2002,Number,RS,10.9
-2003,Number,RS,10.9
-2004,Number,RS,11.0
-2005,Number,RS,11.6
-2006,Number,RS,11.2
-2007,Number,RS,12.0
-2008,Number,RS,11.4
-2009,Number,RS,11.7
-2010,Number,RS,11.5
-2011,Number,RS,11.6
-2012,Number,RS,11.8
-2013,Number,RS,11.9
-2014,Number,RS,12.3
-2015,Number,RS,13.0
-2016,Number,RS,12.1
-2017,Number,RS,12.7
-2018,Number,RS,12.9
-2019,Number,RS,13.2
-2004,Number,BD,10.5
-2005,Number,BD,11.0
-2006,Number,BD,9.8
-2007,Number,BD,10.8
-2008,Number,BD,11.8
-2009,Number,BD,12.1
-2010,Number,BD,12.0
-2011,Number,BD,12.6
-2012,Number,BD,12.2
-2013,Number,BD,11.2
-2014,Number,BD,12.0
-2015,Number,BD,13.4
-2016,Number,BD,11.9
-2017,Number,BD,13.2
-2018,Number,BD,12.4
-2019,Number,BD,13.6
+1996,Number,Federation of BiH,6.3
+1997,Number,Federation of BiH,6.9
+1998,Number,Federation of BiH,7.3
+1999,Number,Federation of BiH,7.1
+2000,Number,Federation of BiH,7.4
+2001,Number,Federation of BiH,7.3
+2002,Number,Federation of BiH,7.4
+2003,Number,Federation of BiH,7.9
+2004,Number,Federation of BiH,7.9
+2005,Number,Federation of BiH,8.3
+2006,Number,Federation of BiH,8.0
+2007,Number,Federation of BiH,8.7
+2008,Number,Federation of BiH,8.3
+2009,Number,Federation of BiH,8.3
+2010,Number,Federation of BiH,8.6
+2011,Number,Federation of BiH,8.8
+2012,Number,Federation of BiH,8.7
+2013,Number,Federation of BiH,8.9
+2014,Number,Federation of BiH,8.7
+2015,Number,Federation of BiH,9.8
+2016,Number,Federation of BiH,9.6
+2017,Number,Federation of BiH,9.9
+2018,Number,Federation of BiH,9.8
+2019,Number,Federation of BiH,10.1
+1996,Number,Republika Srpska,8.9
+1997,Number,Republika Srpska,9.6
+1998,Number,Republika Srpska,10.1
+1999,Number,Republika Srpska,10.2
+2000,Number,Republika Srpska,10.8
+2001,Number,Republika Srpska,10.8
+2002,Number,Republika Srpska,10.9
+2003,Number,Republika Srpska,10.9
+2004,Number,Republika Srpska,11.0
+2005,Number,Republika Srpska,11.6
+2006,Number,Republika Srpska,11.2
+2007,Number,Republika Srpska,12.0
+2008,Number,Republika Srpska,11.4
+2009,Number,Republika Srpska,11.7
+2010,Number,Republika Srpska,11.5
+2011,Number,Republika Srpska,11.6
+2012,Number,Republika Srpska,11.8
+2013,Number,Republika Srpska,11.9
+2014,Number,Republika Srpska,12.3
+2015,Number,Republika Srpska,13.0
+2016,Number,Republika Srpska,12.1
+2017,Number,Republika Srpska,12.7
+2018,Number,Republika Srpska,12.9
+2019,Number,Republika Srpska,13.2
+2004,Number,Brčko District of BiH,10.5
+2005,Number,Brčko District of BiH,11.0
+2006,Number,Brčko District of BiH,9.8
+2007,Number,Brčko District of BiH,10.8
+2008,Number,Brčko District of BiH,11.8
+2009,Number,Brčko District of BiH,12.1
+2010,Number,Brčko District of BiH,12.0
+2011,Number,Brčko District of BiH,12.6
+2012,Number,Brčko District of BiH,12.2
+2013,Number,Brčko District of BiH,11.2
+2014,Number,Brčko District of BiH,12.0
+2015,Number,Brčko District of BiH,13.4
+2016,Number,Brčko District of BiH,11.9
+2017,Number,Brčko District of BiH,13.2
+2018,Number,Brčko District of BiH,12.4
+2019,Number,Brčko District of BiH,13.6

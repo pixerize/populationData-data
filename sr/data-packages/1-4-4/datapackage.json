@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "MARRIAGE_BIRTH",
@@ -61,7 +61,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",

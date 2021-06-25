@@ -18,20 +18,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Municipality",

@@ -106,7 +106,7 @@
                 "Unknown"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "Entity",
@@ -114,12 +114,12 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
-                "FBIH",
-                "RS"
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -137,7 +137,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

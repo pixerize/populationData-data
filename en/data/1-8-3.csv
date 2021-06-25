@@ -1,4 +1,4 @@
-Year,DIVORCES,UNIT_MEASURE,Entity,Value
+Year,Divorces,UNIT_MEASURE,Administrative area,Value
 divorce_rate_(per_1,000_marriages),Number,BiH,88.2
 divorce_rate_(per_1,000_marriages),Number,BiH,93.3
 divorce_rate_(per_1,000_marriages),Number,BiH,56.3
@@ -26,156 +26,156 @@ divorce_rate_(per_1,000_marriages),Number,BiH,143.9397872
 divorce_rate_(per_1,000_marriages),Number,BiH,151.3345686
 divorce_rate_(per_1,000_marriages),Number,BiH,155.2408217
 divorce_rate_(per_1,000_marriages),Number,BiH,147.2140144
-divorce_rate_(per_1,000_marriages),Number,FBIH,25.7282875
-divorce_rate_(per_1,000_marriages),Number,FBIH,68.36436087
-divorce_rate_(per_1,000_marriages),Number,FBIH,77.94383754
-divorce_rate_(per_1,000_marriages),Number,FBIH,84.07420371
-divorce_rate_(per_1,000_marriages),Number,FBIH,84.92874622
-divorce_rate_(per_1,000_marriages),Number,FBIH,100.7994984
-divorce_rate_(per_1,000_marriages),Number,FBIH,110.4818062
-divorce_rate_(per_1,000_marriages),Number,FBIH,89.60464051
-divorce_rate_(per_1,000_marriages),Number,FBIH,62.57758306
-divorce_rate_(per_1,000_marriages),Number,FBIH,70.92511013
-divorce_rate_(per_1,000_marriages),Number,FBIH,71.70304334
-divorce_rate_(per_1,000_marriages),Number,FBIH,69.62452728
-divorce_rate_(per_1,000_marriages),Number,FBIH,62.91501777
-divorce_rate_(per_1,000_marriages),Number,FBIH,58.88807608
-divorce_rate_(per_1,000_marriages),Number,FBIH,76.53218355
-divorce_rate_(per_1,000_marriages),Number,FBIH,96.98943522
-divorce_rate_(per_1,000_marriages),Number,FBIH,97.51243781
-divorce_rate_(per_1,000_marriages),Number,FBIH,119.8488709
-divorce_rate_(per_1,000_marriages),Number,FBIH,110.2487064
-divorce_rate_(per_1,000_marriages),Number,FBIH,115.7878508
-divorce_rate_(per_1,000_marriages),Number,FBIH,112.9788898
-divorce_rate_(per_1,000_marriages),Number,FBIH,132.7535786
-divorce_rate_(per_1,000_marriages),Number,FBIH,139.5758365
-divorce_rate_(per_1,000_marriages),Number,FBIH,136.3932822
-divorce_rate_(per_1,000_marriages),Number,RS,95.07911163
-divorce_rate_(per_1,000_marriages),Number,RS,102.1430559
-divorce_rate_(per_1,000_marriages),Number,RS,93.50057013
-divorce_rate_(per_1,000_marriages),Number,RS,92.64590421
-divorce_rate_(per_1,000_marriages),Number,RS,115.6149882
-divorce_rate_(per_1,000_marriages),Number,RS,117.2404258
-divorce_rate_(per_1,000_marriages),Number,RS,109.9128379
-divorce_rate_(per_1,000_marriages),Number,RS,89.17821644
-divorce_rate_(per_1,000_marriages),Number,RS,105.8737151
-divorce_rate_(per_1,000_marriages),Number,RS,76.67638484
-divorce_rate_(per_1,000_marriages),Number,RS,84.026505
-divorce_rate_(per_1,000_marriages),Number,RS,49.52351195
-divorce_rate_(per_1,000_marriages),Number,RS,74.21301582
-divorce_rate_(per_1,000_marriages),Number,RS,89.64799723
-divorce_rate_(per_1,000_marriages),Number,RS,152.7059635
-divorce_rate_(per_1,000_marriages),Number,RS,164.851671
-divorce_rate_(per_1,000_marriages),Number,RS,192.427291
-divorce_rate_(per_1,000_marriages),Number,RS,189.9364589
-divorce_rate_(per_1,000_marriages),Number,RS,193.8931298
-divorce_rate_(per_1,000_marriages),Number,RS,184.2531008
-divorce_rate_(per_1,000_marriages),Number,RS,165.4350017
-divorce_rate_(per_1,000_marriages),Number,RS,161.4146832
-divorce_rate_(per_1,000_marriages),Number,RS,158.0212985
-divorce_rate_(per_1,000_marriages),Number,BD,90.0621118
-divorce_rate_(per_1,000_marriages),Number,BD,122.1374046
-divorce_rate_(per_1,000_marriages),Number,BD,122.7621483
-divorce_rate_(per_1,000_marriages),Number,BD,127.0553064
-divorce_rate_(per_1,000_marriages),Number,BD,135.2154532
-divorce_rate_(per_1,000_marriages),Number,BD,132.0224719
-divorce_rate_(per_1,000_marriages),Number,BD,120.5882353
-divorce_rate_(per_1,000_marriages),Number,BD,207.4626866
-divorce_rate_(per_1,000_marriages),Number,BD,249.1909385
-divorce_rate_(per_1,000_marriages),Number,BD,324.6329527
-divorce_rate_(per_1,000_marriages),Number,BD,335.7041252
-divorce_rate_(per_1,000_marriages),Number,BD,307.073955
-divorce_rate_(per_1,000_marriages),Number,BD,378.5822021
-divorce_rate_(per_1,000_marriages),Number,BD,464.1791045
-divorce_rate_(per_1,000_marriages),Number,BD,442.5727412
-divorce_rate_(per_1,000_marriages),Number,BD,410.8635097
-divorce_rate_(per_1,000_marriages),Number,BD,471.5189873
-divorce_rate_(per_1,000_marriages),Number,BD,312.1869783
-number_of_divorces,NUMBER,BiH,1835,
-number_of_divorces,NUMBER,BiH,1964,
-number_of_divorces,NUMBER,BiH,1995,
-number_of_divorces,NUMBER,BiH,1929,
-number_of_divorces,NUMBER,BiH,2126,
-number_of_divorces,NUMBER,BiH,2272,
-number_of_divorces,NUMBER,BiH,1918,
-number_of_divorces,NUMBER,BiH,1523,
-number_of_divorces,NUMBER,BiH,1763,
-number_of_divorces,NUMBER,BiH,1659,
-number_of_divorces,NUMBER,BiH,1826,
-number_of_divorces,NUMBER,BiH,1369,
-number_of_divorces,NUMBER,BiH,1402,
-number_of_divorces,NUMBER,BiH,1676,
-number_of_divorces,NUMBER,BiH,2309,
-number_of_divorces,NUMBER,BiH,2294,
-number_of_divorces,NUMBER,BiH,2609,
-number_of_divorces,NUMBER,BiH,2686,
-number_of_divorces,NUMBER,BiH,2963,
-number_of_divorces,NUMBER,BiH,2773,
-number_of_divorces,NUMBER,BiH,3022,
-number_of_divorces,NUMBER,BiH,3091,
-number_of_divorces,NUMBER,BiH,2790,
-number_of_divorces,NUMBER,FBIH,378,
-number_of_divorces,NUMBER,FBIH,1098,
-number_of_divorces,NUMBER,FBIH,1163,
-number_of_divorces,NUMBER,FBIH,1201,
-number_of_divorces,NUMBER,FBIH,1180,
-number_of_divorces,NUMBER,FBIH,1286,
-number_of_divorces,NUMBER,FBIH,1424,
-number_of_divorces,NUMBER,FBIH,1174,
-number_of_divorces,NUMBER,FBIH,857,
-number_of_divorces,NUMBER,FBIH,966,
-number_of_divorces,NUMBER,FBIH,933,
-number_of_divorces,NUMBER,FBIH,1031,
-number_of_divorces,NUMBER,FBIH,938,
-number_of_divorces,NUMBER,FBIH,805,
-number_of_divorces,NUMBER,FBIH,994,
-number_of_divorces,NUMBER,FBIH,1221,
-number_of_divorces,NUMBER,FBIH,1176,
-number_of_divorces,NUMBER,FBIH,1364,
-number_of_divorces,NUMBER,FBIH,1321,
-number_of_divorces,NUMBER,FBIH,1502,
-number_of_divorces,NUMBER,FBIH,1445,
-number_of_divorces,NUMBER,FBIH,1725,
-number_of_divorces,NUMBER,FBIH,1823,
-number_of_divorces,NUMBER,FBIH,1673,
-number_of_divorces,NUMBER,RS,655,
-number_of_divorces,NUMBER,RS,734,
-number_of_divorces,NUMBER,RS,738,
-number_of_divorces,NUMBER,RS,708,
-number_of_divorces,NUMBER,RS,830,
-number_of_divorces,NUMBER,RS,848,
-number_of_divorces,NUMBER,RS,744,
-number_of_divorces,NUMBER,RS,637,
-number_of_divorces,NUMBER,RS,721,
-number_of_divorces,NUMBER,RS,526,
-number_of_divorces,NUMBER,RS,596,
-number_of_divorces,NUMBER,RS,317,
-number_of_divorces,NUMBER,RS,455,
-number_of_divorces,NUMBER,RS,517,
-number_of_divorces,NUMBER,RS,886,
-number_of_divorces,NUMBER,RS,878,
-number_of_divorces,NUMBER,RS,1052,
-number_of_divorces,NUMBER,RS,1106,
-number_of_divorces,NUMBER,RS,1143,
-number_of_divorces,NUMBER,RS,1025,
-number_of_divorces,NUMBER,RS,985,
-number_of_divorces,NUMBER,RS,963,
-number_of_divorces,NUMBER,RS,920,
-number_of_divorces,NUMBER,BD,58,
-number_of_divorces,NUMBER,BD,80,
-number_of_divorces,NUMBER,BD,96,
-number_of_divorces,NUMBER,BD,85,
-number_of_divorces,NUMBER,BD,91,
-number_of_divorces,NUMBER,BD,94,
-number_of_divorces,NUMBER,BD,82,
-number_of_divorces,NUMBER,BD,139,
-number_of_divorces,NUMBER,BD,154,
-number_of_divorces,NUMBER,BD,199,
-number_of_divorces,NUMBER,BD,236,
-number_of_divorces,NUMBER,BD,191,
-number_of_divorces,NUMBER,BD,251,
-number_of_divorces,NUMBER,BD,311,
-number_of_divorces,NUMBER,BD,289,
-number_of_divorces,NUMBER,BD,295,
-number_of_divorces,NUMBER,BD,298,
-number_of_divorces,NUMBER,BD,187,
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,25.7282875
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,68.36436087
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,77.94383754
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,84.07420371
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,84.92874622
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,100.7994984
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,110.4818062
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,89.60464051
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,62.57758306
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,70.92511013
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,71.70304334
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,69.62452728
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,62.91501777
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,58.88807608
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,76.53218355
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,96.98943522
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,97.51243781
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,119.8488709
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,110.2487064
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,115.7878508
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,112.9788898
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,132.7535786
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,139.5758365
+divorce_rate_(per_1,000_marriages),Number,Federation of BiH,136.3932822
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,95.07911163
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,102.1430559
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,93.50057013
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,92.64590421
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,115.6149882
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,117.2404258
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,109.9128379
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,89.17821644
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,105.8737151
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,76.67638484
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,84.026505
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,49.52351195
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,74.21301582
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,89.64799723
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,152.7059635
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,164.851671
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,192.427291
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,189.9364589
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,193.8931298
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,184.2531008
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,165.4350017
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,161.4146832
+divorce_rate_(per_1,000_marriages),Number,Republika Srpska,158.0212985
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,90.0621118
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,122.1374046
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,122.7621483
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,127.0553064
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,135.2154532
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,132.0224719
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,120.5882353
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,207.4626866
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,249.1909385
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,324.6329527
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,335.7041252
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,307.073955
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,378.5822021
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,464.1791045
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,442.5727412
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,410.8635097
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,471.5189873
+divorce_rate_(per_1,000_marriages),Number,Brčko District of BiH,312.1869783
+Number of divorces,Number,BiH,1835,
+Number of divorces,Number,BiH,1964,
+Number of divorces,Number,BiH,1995,
+Number of divorces,Number,BiH,1929,
+Number of divorces,Number,BiH,2126,
+Number of divorces,Number,BiH,2272,
+Number of divorces,Number,BiH,1918,
+Number of divorces,Number,BiH,1523,
+Number of divorces,Number,BiH,1763,
+Number of divorces,Number,BiH,1659,
+Number of divorces,Number,BiH,1826,
+Number of divorces,Number,BiH,1369,
+Number of divorces,Number,BiH,1402,
+Number of divorces,Number,BiH,1676,
+Number of divorces,Number,BiH,2309,
+Number of divorces,Number,BiH,2294,
+Number of divorces,Number,BiH,2609,
+Number of divorces,Number,BiH,2686,
+Number of divorces,Number,BiH,2963,
+Number of divorces,Number,BiH,2773,
+Number of divorces,Number,BiH,3022,
+Number of divorces,Number,BiH,3091,
+Number of divorces,Number,BiH,2790,
+Number of divorces,Number,Federation of BiH,378,
+Number of divorces,Number,Federation of BiH,1098,
+Number of divorces,Number,Federation of BiH,1163,
+Number of divorces,Number,Federation of BiH,1201,
+Number of divorces,Number,Federation of BiH,1180,
+Number of divorces,Number,Federation of BiH,1286,
+Number of divorces,Number,Federation of BiH,1424,
+Number of divorces,Number,Federation of BiH,1174,
+Number of divorces,Number,Federation of BiH,857,
+Number of divorces,Number,Federation of BiH,966,
+Number of divorces,Number,Federation of BiH,933,
+Number of divorces,Number,Federation of BiH,1031,
+Number of divorces,Number,Federation of BiH,938,
+Number of divorces,Number,Federation of BiH,805,
+Number of divorces,Number,Federation of BiH,994,
+Number of divorces,Number,Federation of BiH,1221,
+Number of divorces,Number,Federation of BiH,1176,
+Number of divorces,Number,Federation of BiH,1364,
+Number of divorces,Number,Federation of BiH,1321,
+Number of divorces,Number,Federation of BiH,1502,
+Number of divorces,Number,Federation of BiH,1445,
+Number of divorces,Number,Federation of BiH,1725,
+Number of divorces,Number,Federation of BiH,1823,
+Number of divorces,Number,Federation of BiH,1673,
+Number of divorces,Number,Republika Srpska,655,
+Number of divorces,Number,Republika Srpska,734,
+Number of divorces,Number,Republika Srpska,738,
+Number of divorces,Number,Republika Srpska,708,
+Number of divorces,Number,Republika Srpska,830,
+Number of divorces,Number,Republika Srpska,848,
+Number of divorces,Number,Republika Srpska,744,
+Number of divorces,Number,Republika Srpska,637,
+Number of divorces,Number,Republika Srpska,721,
+Number of divorces,Number,Republika Srpska,526,
+Number of divorces,Number,Republika Srpska,596,
+Number of divorces,Number,Republika Srpska,317,
+Number of divorces,Number,Republika Srpska,455,
+Number of divorces,Number,Republika Srpska,517,
+Number of divorces,Number,Republika Srpska,886,
+Number of divorces,Number,Republika Srpska,878,
+Number of divorces,Number,Republika Srpska,1052,
+Number of divorces,Number,Republika Srpska,1106,
+Number of divorces,Number,Republika Srpska,1143,
+Number of divorces,Number,Republika Srpska,1025,
+Number of divorces,Number,Republika Srpska,985,
+Number of divorces,Number,Republika Srpska,963,
+Number of divorces,Number,Republika Srpska,920,
+Number of divorces,Number,Brčko District of BiH,58,
+Number of divorces,Number,Brčko District of BiH,80,
+Number of divorces,Number,Brčko District of BiH,96,
+Number of divorces,Number,Brčko District of BiH,85,
+Number of divorces,Number,Brčko District of BiH,91,
+Number of divorces,Number,Brčko District of BiH,94,
+Number of divorces,Number,Brčko District of BiH,82,
+Number of divorces,Number,Brčko District of BiH,139,
+Number of divorces,Number,Brčko District of BiH,154,
+Number of divorces,Number,Brčko District of BiH,199,
+Number of divorces,Number,Brčko District of BiH,236,
+Number of divorces,Number,Brčko District of BiH,191,
+Number of divorces,Number,Brčko District of BiH,251,
+Number of divorces,Number,Brčko District of BiH,311,
+Number of divorces,Number,Brčko District of BiH,289,
+Number of divorces,Number,Brčko District of BiH,295,
+Number of divorces,Number,Brčko District of BiH,298,
+Number of divorces,Number,Brčko District of BiH,187,

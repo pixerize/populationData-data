@@ -1,5 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-females_in_poverty,females_in_poverty,females_in_poverty,females_in_poverty,females_in_poverty,4,1
-households_in_poverty,households_in_poverty,households_in_poverty,households_in_poverty,households_in_poverty,4,1
-males_in_poverty,males_in_poverty,males_in_poverty,males_in_poverty,males_in_poverty,4,1
-population_in_poverty,population_in_poverty,population_in_poverty,population_in_poverty,population_in_poverty,4,1
+females_in_poverty,Females in poverty (%),females_in_poverty,females_in_poverty,females_in_poverty,4,1
+households_in_poverty,Households in poverty (%),households_in_poverty,households_in_poverty,households_in_poverty,4,1
+males_in_poverty,Males in poverty (%),males_in_poverty,males_in_poverty,males_in_poverty,4,1
+population_in_poverty,Population in poverty (%),population_in_poverty,population_in_poverty,population_in_poverty,4,1

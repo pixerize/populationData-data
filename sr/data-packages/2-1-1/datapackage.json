@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -150,19 +150,19 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
+                "_T",
+                "M",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",

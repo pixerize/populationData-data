@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live birth",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Births"
           },
           {
             "name": "Entity",
@@ -29,13 +29,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -53,7 +53,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

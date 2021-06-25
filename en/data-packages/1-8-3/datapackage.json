@@ -17,10 +17,10 @@
               "enum": [
                 "",
                 "000_marriages)",
-                "NUMBER"
+                "Number"
               ]
             },
-            "title": "DIVORCES"
+            "title": "Divorces"
           },
           {
             "name": "Entity",
@@ -116,18 +116,18 @@
                 "966",
                 "985",
                 "994",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

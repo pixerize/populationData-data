@@ -19,7 +19,7 @@
                 "3531159"
               ]
             },
-            "title": "GRAND_TOTAL"
+            "title": "Grand Total"
           },
           {
             "name": "PERSON_STATUS",
@@ -27,9 +27,9 @@
             "constraints": {
               "enum": [
                 "",
-                "persons_with_disabilities",
-                "persons_without_disabilities",
-                "status_unknown"
+                "Persons with disabilities",
+                "Persons without disabilities",
+                "Status unknown"
               ]
             },
             "title": "PERSON_STATUS"
@@ -50,7 +50,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

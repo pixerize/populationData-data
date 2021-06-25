@@ -20,7 +20,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -113,7 +113,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "MICS_NUMBER",
@@ -181,7 +181,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -201,13 +201,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -236,20 +236,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -293,7 +293,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Value",
@@ -354,7 +354,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -383,7 +383,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -408,20 +408,20 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "ACTIVITY_RATES",
@@ -475,25 +475,25 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -522,19 +522,19 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -563,19 +563,19 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -604,20 +604,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -653,7 +653,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Entity",
@@ -719,7 +719,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "MARRIAGE_BIRTH",
@@ -738,7 +738,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -781,7 +781,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "QUANTITY",
@@ -833,7 +833,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -854,13 +854,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -900,7 +900,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -943,7 +943,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1075,19 +1075,19 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
+                "_T",
+                "M",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -1116,20 +1116,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -1227,7 +1227,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Entity",
@@ -1269,20 +1269,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Entity",
@@ -1325,7 +1325,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1341,20 +1341,20 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "ACTIVITY_RATES",
@@ -1396,20 +1396,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Entity",
@@ -1452,7 +1452,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -1495,7 +1495,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "QUANTITY",
@@ -1551,20 +1551,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "EDUCATION",
@@ -1610,7 +1610,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1625,19 +1625,19 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -1666,7 +1666,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1711,19 +1711,19 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
+                "_T",
+                "M",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -1784,20 +1784,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -1826,20 +1826,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "ENROLMENT",
@@ -1898,17 +1898,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -1937,7 +1937,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1953,20 +1953,20 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "ACTIVITY_RATES",
@@ -2006,7 +2006,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -2049,7 +2049,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "QUANTITY",
@@ -2101,20 +2101,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -2143,7 +2143,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Municipality",
@@ -2324,20 +2324,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "STILLBIRTH_RATE",
@@ -2392,7 +2392,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -2412,7 +2412,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "FERTILITY_RATE",
@@ -2453,20 +2453,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Entity",
@@ -2522,7 +2522,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -2538,20 +2538,20 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "ACTIVITY_RATES",
@@ -2591,7 +2591,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "FORM_OF_VIOLENCE",
@@ -2704,7 +2704,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -2867,7 +2867,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -2896,19 +2896,19 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -2942,7 +2942,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Value",
@@ -3002,12 +3002,12 @@
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -3036,7 +3036,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -3110,7 +3110,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -3166,7 +3166,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -3228,7 +3228,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -3281,20 +3281,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "Value",
@@ -3323,7 +3323,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Entity",
@@ -3366,20 +3366,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "SEX"
           },
           {
             "name": "AGE",
@@ -3512,7 +3512,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "AGE"
           },
           {
             "name": "Value",

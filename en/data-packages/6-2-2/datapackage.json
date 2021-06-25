@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "POVERTY_RATE",
@@ -30,17 +30,17 @@
             "constraints": {
               "enum": [
                 "",
-                "females_in_poverty",
-                "males_in_poverty",
-                "population_in_poverty"
+                "Females in poverty (%)",
+                "Males in poverty (%)",
+                "Population in poverty (%)"
               ]
             },
-            "title": "POVERTY_RATE"
+            "title": "Poverty Rate"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

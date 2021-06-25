@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
-                "FBIH",
-                "RS"
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "MARRIAGES",
@@ -30,11 +30,11 @@
             "constraints": {
               "enum": [
                 "",
-                "marriage_rate",
-                "number_of_marriages"
+                "Marriage rate",
+                "Number of marriages"
               ]
             },
-            "title": "MARRIAGES"
+            "title": "Marriages"
           },
           {
             "name": "SEX",
@@ -49,7 +49,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

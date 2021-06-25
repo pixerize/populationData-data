@@ -23,7 +23,7 @@
                 "55-64"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -40,7 +40,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

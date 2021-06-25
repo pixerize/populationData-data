@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
                 "FBiH",
-                "RS"
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "SEX",
@@ -43,16 +43,16 @@
             "constraints": {
               "enum": [
                 "",
-                "number_of_stillbirths",
-                "per_1000"
+                "Number of stillbirths",
+                "(per 1,000 livebirths)"
               ]
             },
-            "title": "STILLBIRTH_RATE"
+            "title": "Stillbirth Rate"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -70,5 +70,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-3",
-  "title": "global_indicators.3-1-3-title"
+  "title": "Stillbirths by sex"
 }

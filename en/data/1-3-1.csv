@@ -1,85 +1,85 @@
-Year,UNIT_MEASURE,Sex,Entity,Value
-1971,total_support_ratio,Both sexes,BiH,65.4
-1971,total_support_ratio,M,BiH,67.9
-1971,total_support_ratio,F,BiH,63.0
-1981,total_support_ratio,Both sexes,BiH,52.3
-1981,total_support_ratio,M,BiH,53.0
-1981,total_support_ratio,F,BiH,51.6
-1991,total_support_ratio,Both sexes,BiH,48.3
-1991,total_support_ratio,M,BiH,46.8
-1991,total_support_ratio,F,BiH,49.7
-2013,total_support_ratio,Both sexes,BiH,42.1
-2013,total_support_ratio,M,BiH,39.2
-2013,total_support_ratio,F,BiH,44.9
-1971,young_age_support_ratio,Both sexes,BiH,57.0
-1971,young_age_support_ratio,M,BiH,60.2
-1971,young_age_support_ratio,F,BiH,53.9
-1981,young_age_support_ratio,Both sexes,BiH,42.5
-1981,young_age_support_ratio,M,BiH,44.5
-1981,young_age_support_ratio,F,BiH,40.6
-1991,young_age_support_ratio,Both sexes,BiH,35.6
-1991,young_age_support_ratio,M,BiH,36.6
-1991,young_age_support_ratio,F,BiH,34.6
-2013,young_age_support_ratio,Both sexes,BiH,21.9
-2013,young_age_support_ratio,M,BiH,22.4
-2013,young_age_support_ratio,F,BiH,21.3
-1971,old_age_support_ratio,Both sexes,BiH,8.4
-1971,old_age_support_ratio,M,BiH,7.7
-1971,old_age_support_ratio,F,BiH,9.1
-1981,old_age_support_ratio,Both sexes,BiH,9.8
-1981,old_age_support_ratio,M,BiH,8.5
-1981,old_age_support_ratio,F,BiH,11.0
-1991,old_age_support_ratio,Both sexes,BiH,12.7
-1991,old_age_support_ratio,M,BiH,10.1
-1991,old_age_support_ratio,F,BiH,15.2
-2013,old_age_support_ratio,Both sexes,BiH,20.2
-2013,old_age_support_ratio,M,BiH,16.8
-2013,old_age_support_ratio,F,BiH,23.6
-1971,older_persons_to_youth_ratio,Both sexes,BiH,14.8
-1971,older_persons_to_youth_ratio,M,BiH,12.8
-1971,older_persons_to_youth_ratio,F,BiH,16.9
-1981,older_persons_to_youth_ratio,Both sexes,BiH,23.1
-1981,older_persons_to_youth_ratio,M,BiH,19.2
-1981,older_persons_to_youth_ratio,F,BiH,27.2
-1991,older_persons_to_youth_ratio,Both sexes,BiH,35.6
-1991,older_persons_to_youth_ratio,M,BiH,27.7
-1991,older_persons_to_youth_ratio,F,BiH,43.8
-2013,older_persons_to_youth_ratio,Both sexes,BiH,92.3
-2013,older_persons_to_youth_ratio,M,BiH,75.0
-2013,older_persons_to_youth_ratio,F,BiH,110.6
-2013,total_support_ratio,Both sexes,FBIH,40.8
-2013,total_support_ratio,M,FBIH,38.4
-2013,total_support_ratio,F,FBIH,43.1
-2013,young_age_support_ratio,Both sexes,FBIH,22.6
-2013,young_age_support_ratio,M,FBIH,23.3
-2013,young_age_support_ratio,F,FBIH,22.0
-2013,old_age_support_ratio,Both sexes,FBIH,18.1
-2013,old_age_support_ratio,M,FBIH,15.1
-2013,old_age_support_ratio,F,FBIH,21.1
-2013,older_persons_to_youth_ratio,Both sexes,FBIH,80.1
-2013,older_persons_to_youth_ratio,M,FBIH,65.0
-2013,older_persons_to_youth_ratio,F,FBIH,96.1
-2013,total_support_ratio,Both sexes,RS,44.4
-2013,total_support_ratio,M,RS,40.6
-2013,total_support_ratio,F,RS,48.2
-2013,young_age_support_ratio,Both sexes,RS,20.4
-2013,young_age_support_ratio,M,RS,20.8
-2013,young_age_support_ratio,F,RS,20.1
-2013,old_age_support_ratio,Both sexes,RS,24.0
-2013,old_age_support_ratio,M,RS,19.8
-2013,old_age_support_ratio,F,RS,28.2
-2013,older_persons_to_youth_ratio,Both sexes,RS,117.4
-2013,older_persons_to_youth_ratio,M,RS,95.6
-2013,older_persons_to_youth_ratio,F,RS,140.3
-2013,total_support_ratio,Both sexes,BD,43.3
-2013,total_support_ratio,M,BD,40.6
-2013,total_support_ratio,F,BD,46.0
-2013,young_age_support_ratio,Both sexes,BD,22.4
-2013,young_age_support_ratio,M,BD,23.3
-2013,young_age_support_ratio,F,BD,21.6
-2013,old_age_support_ratio,Both sexes,BD,20.8
-2013,old_age_support_ratio,M,BD,17.3
-2013,old_age_support_ratio,F,BD,24.4
-2013,older_persons_to_youth_ratio,Both sexes,BD,92.8
-2013,older_persons_to_youth_ratio,M,BD,74.5
-2013,older_persons_to_youth_ratio,F,BD,112.7
+Year,UNIT_MEASURE,Sex,Administrative area,Value
+1971,Total support ratio,Both sexes,BiH,65.4
+1971,Total support ratio,M,BiH,67.9
+1971,Total support ratio,F,BiH,63.0
+1981,Total support ratio,Both sexes,BiH,52.3
+1981,Total support ratio,M,BiH,53.0
+1981,Total support ratio,F,BiH,51.6
+1991,Total support ratio,Both sexes,BiH,48.3
+1991,Total support ratio,M,BiH,46.8
+1991,Total support ratio,F,BiH,49.7
+2013,Total support ratio,Both sexes,BiH,42.1
+2013,Total support ratio,M,BiH,39.2
+2013,Total support ratio,F,BiH,44.9
+1971,Young-age support ratio,Both sexes,BiH,57.0
+1971,Young-age support ratio,M,BiH,60.2
+1971,Young-age support ratio,F,BiH,53.9
+1981,Young-age support ratio,Both sexes,BiH,42.5
+1981,Young-age support ratio,M,BiH,44.5
+1981,Young-age support ratio,F,BiH,40.6
+1991,Young-age support ratio,Both sexes,BiH,35.6
+1991,Young-age support ratio,M,BiH,36.6
+1991,Young-age support ratio,F,BiH,34.6
+2013,Young-age support ratio,Both sexes,BiH,21.9
+2013,Young-age support ratio,M,BiH,22.4
+2013,Young-age support ratio,F,BiH,21.3
+1971,Old-age support ratio,Both sexes,BiH,8.4
+1971,Old-age support ratio,M,BiH,7.7
+1971,Old-age support ratio,F,BiH,9.1
+1981,Old-age support ratio,Both sexes,BiH,9.8
+1981,Old-age support ratio,M,BiH,8.5
+1981,Old-age support ratio,F,BiH,11.0
+1991,Old-age support ratio,Both sexes,BiH,12.7
+1991,Old-age support ratio,M,BiH,10.1
+1991,Old-age support ratio,F,BiH,15.2
+2013,Old-age support ratio,Both sexes,BiH,20.2
+2013,Old-age support ratio,M,BiH,16.8
+2013,Old-age support ratio,F,BiH,23.6
+1971,Older persons to youth ratio,Both sexes,BiH,14.8
+1971,Older persons to youth ratio,M,BiH,12.8
+1971,Older persons to youth ratio,F,BiH,16.9
+1981,Older persons to youth ratio,Both sexes,BiH,23.1
+1981,Older persons to youth ratio,M,BiH,19.2
+1981,Older persons to youth ratio,F,BiH,27.2
+1991,Older persons to youth ratio,Both sexes,BiH,35.6
+1991,Older persons to youth ratio,M,BiH,27.7
+1991,Older persons to youth ratio,F,BiH,43.8
+2013,Older persons to youth ratio,Both sexes,BiH,92.3
+2013,Older persons to youth ratio,M,BiH,75.0
+2013,Older persons to youth ratio,F,BiH,110.6
+2013,Total support ratio,Both sexes,Federation of BiH,40.8
+2013,Total support ratio,M,Federation of BiH,38.4
+2013,Total support ratio,F,Federation of BiH,43.1
+2013,Young-age support ratio,Both sexes,Federation of BiH,22.6
+2013,Young-age support ratio,M,Federation of BiH,23.3
+2013,Young-age support ratio,F,Federation of BiH,22.0
+2013,Old-age support ratio,Both sexes,Federation of BiH,18.1
+2013,Old-age support ratio,M,Federation of BiH,15.1
+2013,Old-age support ratio,F,Federation of BiH,21.1
+2013,Older persons to youth ratio,Both sexes,Federation of BiH,80.1
+2013,Older persons to youth ratio,M,Federation of BiH,65.0
+2013,Older persons to youth ratio,F,Federation of BiH,96.1
+2013,Total support ratio,Both sexes,Republika Srpska,44.4
+2013,Total support ratio,M,Republika Srpska,40.6
+2013,Total support ratio,F,Republika Srpska,48.2
+2013,Young-age support ratio,Both sexes,Republika Srpska,20.4
+2013,Young-age support ratio,M,Republika Srpska,20.8
+2013,Young-age support ratio,F,Republika Srpska,20.1
+2013,Old-age support ratio,Both sexes,Republika Srpska,24.0
+2013,Old-age support ratio,M,Republika Srpska,19.8
+2013,Old-age support ratio,F,Republika Srpska,28.2
+2013,Older persons to youth ratio,Both sexes,Republika Srpska,117.4
+2013,Older persons to youth ratio,M,Republika Srpska,95.6
+2013,Older persons to youth ratio,F,Republika Srpska,140.3
+2013,Total support ratio,Both sexes,Brčko District of BiH,43.3
+2013,Total support ratio,M,Brčko District of BiH,40.6
+2013,Total support ratio,F,Brčko District of BiH,46.0
+2013,Young-age support ratio,Both sexes,Brčko District of BiH,22.4
+2013,Young-age support ratio,M,Brčko District of BiH,23.3
+2013,Young-age support ratio,F,Brčko District of BiH,21.6
+2013,Old-age support ratio,Both sexes,Brčko District of BiH,20.8
+2013,Old-age support ratio,M,Brčko District of BiH,17.3
+2013,Old-age support ratio,F,Brčko District of BiH,24.4
+2013,Older persons to youth ratio,Both sexes,Brčko District of BiH,92.8
+2013,Older persons to youth ratio,M,Brčko District of BiH,74.5
+2013,Older persons to youth ratio,F,Brčko District of BiH,112.7

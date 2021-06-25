@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "BD",
+                "Brčko District of BiH",
                 "BiH",
                 "FBiH",
-                "RS"
+                "Republika Srpska"
               ]
             },
-            "title": "Entity"
+            "title": "Administrative area"
           },
           {
             "name": "MICS_INDICATORS",
@@ -30,49 +30,49 @@
             "constraints": {
               "enum": [
                 "",
-                "accepting_attitudes_towards_people_living_with_hiv_(men_15-49)",
-                "accepting_attitudes_towards_people_living_with_hiv_(women_15-49)",
-                "alcohol_use_(men_15-49)",
-                "alcohol_use_(women_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-24)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-24)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(men_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(women_15-49)",
-                "condom_use_with_non-regular_partners_(men_15-24)",
-                "condom_use_with_non-regular_partners_(women_15-24)",
-                "contraceptive_prevalence_rate_(modern_methods)",
-                "contraceptive_prevalence_rate_(total)",
-                "contraceptive_prevalence_rate_(traditional_methods)",
-                "happiness_(men_15-24)",
-                "happiness_(women_15-24)",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49)",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49)",
-                "institutional_deliveries",
-                "life_satisfaction_(men_15-24)",
-                "life_satisfaction_(women_15-24)",
-                "marriage_before_age_15_(men_15-49)",
-                "marriage_before_age_15_(women_15-49)",
-                "marriage_before_age_18_(men_20-49)",
-                "marriage_before_age_18_(women_20-49)",
-                "men_aged_15-24_who_have_never_had_sex_",
-                "satisfied_demand_for_family_planning",
-                "sex_before_age_15_(men_15-24)",
-                "sex_before_age_15_(women_15-19-24)",
-                "sex_with_multiple_partners_(men_15-49)",
-                "sex_with_multiple_partners_(women_15-49)",
-                "sex_with_non-regular_partners_(men_15-24)",
-                "sex_with_non-regular_partners_(women_15-24)",
-                "skilled_attendant_at_delivery",
-                "tobacco_use_(men_15-49)",
-                "tobacco_use_(women_15-49)",
-                "unmet_need_for_family_planning",
-                "women_aged_15-24_who_have_never_had_sex_",
-                "young_women_aged_15-19_years_currently_married_or_in_union"
+                "Accepting attitudes towards people living with HIV (men 15-49)",
+                "Accepting attitudes towards people living with HIV (women 15-49)",
+                "Alcohol use (men 15-49)",
+                "Alcohol use (women 15-49)",
+                "Comprehensive knowledge about HIV prevention (men 15-24)",
+                "Comprehensive knowledge about HIV prevention (men 15-49)",
+                "Comprehensive knowledge about HIV prevention (women 15-24)",
+                "Comprehensive knowledge about HIV prevention (women 15-49)",
+                "Condom use during sex with multiple partners (men 15-49)",
+                "Condom use during sex with multiple partners (women 15-49)",
+                "Condom use with non-regular partners (men 15-24)",
+                "Condom use with non-regular partners (women 15-24)",
+                "Contraceptive prevalence rate (modern methods)",
+                "Contraceptive prevalence rate (total)",
+                "Contraceptive prevalence rate (traditional methods)",
+                "Happiness (women 15-24)",
+                "Happiness (women 15-24)",
+                "Husband/partner has the right to hit or beat his wife/partner (men 15-49)",
+                "Husband/partner has the right to hit or beat his wife/partner (women 15-49)",
+                "Institutional deliveries",
+                "Life satisfaction (men 15-24)",
+                "Life satisfaction (women 15-24)",
+                "Marriage before age 15 (men 15-49)",
+                "Marriage before age 15 (women 15-49)",
+                "Marriage before age 18 (women 20-49)",
+                "Marriage before age 18 (women 20-49)",
+                "Men aged 15-24 who have never had sex",
+                "Satisfied demand for family planning",
+                "Sex before age 15 (men 15-24)",
+                "Sex before age 15 (women 15-19-24)",
+                "Sex with multiple partners (men 15-49)",
+                "Sex with multiple partners (women 15-49)",
+                "Sex with non-regular partners (men 15-24)",
+                "Sex with non-regular partners (women 15-24)",
+                "Skilled attendant at delivery",
+                "Tobacco use (men 15-49)",
+                "Tobacco use (women 15-49)",
+                "Unmet need for family planning",
+                "Women aged 15-24 who have never had sex",
+                "Young women aged 15-19 years currently married or in union"
               ]
             },
-            "title": "MICS_INDICATORS"
+            "title": "MICS Indicators"
           },
           {
             "name": "MICS_NUMBER",
@@ -85,12 +85,12 @@
                 "MICS 4 "
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Mics Number"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -108,5 +108,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1",
-  "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+  "title": "Number of cases"
 }

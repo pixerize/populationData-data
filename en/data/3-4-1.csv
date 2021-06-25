@@ -1,49 +1,49 @@
 Year,SOURCE,UNIT_MEASURE,Value
-2013,piped_water_in_the_dwelling_unit_connected_to_community_scheme,Number,740276.0
-2013,piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system,Number,223814.0
-2013,piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system,Number,138002.0
-2013,drinking_fountain_connected_to_community_scheme,Number,2358.0
-2013,drinking_fountain_connected_to_own_pump_water_scheme,Number,2033.0
-2013,street_drinking_fountain,Number,2393.0
-2013,dug_well,Number,9878.0
-2013,drilled_(pipe)_well,Number,1737.0
-2013,artesian_well,Number,670.0
-2013,regulated_water_spring,Number,3662.0
-2013,container_(water_tank)_,Number,1101.0
-2013,bottled_water_from_shop,Number,1098.0
-2013,other,Number,6470.0
-2013,total,Number,113349200.0
-2013,piped_water_in_the_dwelling_unit_connected_to_community_scheme,_%,65.30932728
-2013,piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system,_%,19.74552974
-2013,piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system,_%,12.17494257
-2013,drinking_fountain_connected_to_community_scheme,_%,0.208029699
-2013,drinking_fountain_connected_to_own_pump_water_scheme,_%,0.179357243
-2013,street_drinking_fountain,_%,0.211117502
-2013,dug_well,_%,0.87146623
-2013,drilled_(pipe)_well,_%,0.153243252
-2013,artesian_well,_%,0.059109372
-2013,regulated_water_spring,_%,0.323072417
-2013,container_(water_tank)_,_%,0.09713346
-2013,bottled_water_from_shop,_%,0.096868791
-2013,other,_%,0.570802441
-2013,total,_%,100.0
-2013,public_sewage,Number,542792.0
-2013,closed_septic_tank,Number,332937.0
-2013,closed_septic_tank_with_overflow,Number,98294.0
-2013,other_arrangements,Number,122568.0
-2013,no_sewage,Number,36901.0
-2013,total,Number,1133492.0
-2013,public_sewage,_%,47.88670763
-2013,closed_septic_tank,_%,29.37268194
-2013,closed_septic_tank_with_overflow,_%,8.67178595
-2013,other_arrangements,_%,10.81330967
-2013,no_sewage,_%,3.255514816
-2013,total,_%,100.0
+2013,Piped water in the dwelling unit connected to community scheme,Number,740276.0
+2013,Piped water in the dwelling unit connected to rural or local water supply system,Number,223814.0
+2013,Piped water in the dwelling unit connected to own pump water system,Number,138002.0
+2013,Drinking fountain connected to community scheme,Number,2358.0
+2013,Drinking fountain connected to own pump water scheme,Number,2033.0
+2013,Street drinking fountain,Number,2393.0
+2013,Dug well,Number,9878.0
+2013,Drilled (pipe) well,Number,1737.0
+2013,Artesian well,Number,670.0
+2013,Regulated water spring,Number,3662.0
+2013,Container (water tank),Number,1101.0
+2013,Bottled water from shop,Number,1098.0
+2013,Other,Number,6470.0
+2013,Total,Number,113349200.0
+2013,Piped water in the dwelling unit connected to community scheme,_%,65.30932728
+2013,Piped water in the dwelling unit connected to rural or local water supply system,_%,19.74552974
+2013,Piped water in the dwelling unit connected to own pump water system,_%,12.17494257
+2013,Drinking fountain connected to community scheme,_%,0.208029699
+2013,Drinking fountain connected to own pump water scheme,_%,0.179357243
+2013,Street drinking fountain,_%,0.211117502
+2013,Dug well,_%,0.87146623
+2013,Drilled (pipe) well,_%,0.153243252
+2013,Artesian well,_%,0.059109372
+2013,Regulated water spring,_%,0.323072417
+2013,Container (water tank),_%,0.09713346
+2013,Bottled water from shop,_%,0.096868791
+2013,Other,_%,0.570802441
+2013,Total,_%,100.0
+2013,Public sewage,Number,542792.0
+2013,Closed septic tank,Number,332937.0
+2013,Closed septic tank with overflow,Number,98294.0
+2013,Other arrangements,Number,122568.0
+2013,No sewage,Number,36901.0
+2013,Total,Number,1133492.0
+2013,Public sewage,_%,47.88670763
+2013,Closed septic tank,_%,29.37268194
+2013,Closed septic tank with overflow,_%,8.67178595
+2013,Other arrangements,_%,10.81330967
+2013,No sewage,_%,3.255514816
+2013,Total,_%,100.0
 2013,flush_toilet,Number,1458826.0
 2013,no_flush_toilet,Number,19751.0
 2013,no_toilet,Number,129421.0
-2013,total,Number,1607998.0
+2013,Total,Number,1607998.0
 2013,flush_toilet,_%,90.72312279
 2013,no_flush_toilet,_%,1.228297548
 2013,no_toilet,_%,8.048579662
-2013,total,_%,100.0
+2013,Total,_%,100.0

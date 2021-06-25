@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "inactive_as_of_working",
-                "unemployed_as_of_labour",
-                "unemployed_as_of_working"
+                "Inactive as % of working age population",
+                "Unemployed as % of labour force",
+                "Unemployed as % of working age population"
               ]
             },
-            "title": "ACTIVITY_RATES"
+            "title": "Activity rates"
           },
           {
             "name": "AGE",
@@ -37,7 +37,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -55,7 +55,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

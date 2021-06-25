@@ -16,28 +16,28 @@
             "constraints": {
               "enum": [
                 "",
-                "artesian_well",
-                "bottled_water_from_shop",
-                "closed_septic_tank",
-                "closed_septic_tank_with_overflow",
-                "container_(water_tank)_",
-                "drilled_(pipe)_well",
-                "drinking_fountain_connected_to_community_scheme",
-                "drinking_fountain_connected_to_own_pump_water_scheme",
-                "dug_well",
+                "Artesian well",
+                "Bottled water from shop",
+                "Closed septic tank",
+                "Closed septic tank with overflow",
+                "Container (water tank)",
+                "Drilled (pipe) well",
+                "Drinking fountain connected to community scheme",
+                "Drinking fountain connected to own pump water scheme",
+                "Dug well",
                 "flush_toilet",
                 "no_flush_toilet",
-                "no_sewage",
+                "No sewage",
                 "no_toilet",
-                "other",
-                "other_arrangements",
-                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
-                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
-                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
-                "public_sewage",
-                "regulated_water_spring",
-                "street_drinking_fountain",
-                "total"
+                "Other",
+                "Other arrangements",
+                "Piped water in the dwelling unit connected to community scheme",
+                "Piped water in the dwelling unit connected to own pump water system",
+                "Piped water in the dwelling unit connected to rural or local water supply system",
+                "Public sewage",
+                "Regulated water spring",
+                "Street drinking fountain",
+                "Total"
               ]
             },
             "title": "SOURCE"
@@ -45,7 +45,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

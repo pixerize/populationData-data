@@ -37,7 +37,7 @@
                 "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "Municipality",
@@ -207,7 +207,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit measure"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
