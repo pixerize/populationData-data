@@ -42,6 +42,68 @@
       "title": "global_indicators.1-4-1-title"
     },
     {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_1000",
+                "number_of_stillbirths",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBiH",
+                "RS",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "3-3-1"
+    },
+    {
       "path": "1-6-2/data.csv",
       "name": "1-6-2",
       "profile": "tabular-data-resource",
@@ -184,68 +246,6 @@
       "title": "global_indicators.1-1-3-title"
     },
     {
-      "path": "3-2-2 copy/data.csv",
-      "name": "3-2-2 copy",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBiH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-2-2 copy"
-    },
-    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -374,68 +374,6 @@
         ]
       },
       "title": "global_indicators.4-1-4-title"
-    },
-    {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBiH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-2-2"
     },
     {
       "path": "1-7-1/data.csv",
@@ -1304,68 +1242,6 @@
         ]
       },
       "title": "global_indicators.1-3-1-title"
-    },
-    {
-      "path": "3-1-4/data.csv",
-      "name": "3-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBiH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-1-4"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2655,6 +2531,63 @@
         ]
       },
       "title": "global_indicators.1-8-3-title"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
+                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
+                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
+                "drinking_fountain_connected_to_community_scheme",
+                "drinking_fountain_connected_to_own_pump_water_scheme",
+                "street_drinking_fountain",
+                "dug_well",
+                "drilled_(pipe)_well",
+                "artesian_well",
+                "regulated_water_spring",
+                "container_(water_tank)_",
+                "bottled_water_from_shop",
+                "other",
+                "total",
+                "public_sewage",
+                "closed_septic_tank",
+                "closed_septic_tank_with_overflow",
+                "other_arrangements",
+                "no_sewage",
+                "flush_toilet",
+                "no_flush_toilet",
+                "no_toilet",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "3-4-1"
     },
     {
       "path": "1-1-6/data.csv",

@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SOURCE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "artesian_well",
+                "bottled_water_from_shop",
+                "closed_septic_tank",
+                "closed_septic_tank_with_overflow",
+                "container_(water_tank)_",
+                "drilled_(pipe)_well",
+                "drinking_fountain_connected_to_community_scheme",
+                "drinking_fountain_connected_to_own_pump_water_scheme",
+                "dug_well",
+                "flush_toilet",
+                "no_flush_toilet",
+                "no_sewage",
+                "no_toilet",
+                "other",
+                "other_arrangements",
+                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
+                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
+                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
+                "public_sewage",
+                "regulated_water_spring",
+                "street_drinking_fountain",
+                "total"
+              ]
+            },
+            "title": "SOURCE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "3-4-1"
+}
