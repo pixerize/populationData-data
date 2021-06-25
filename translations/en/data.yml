@@ -175,3 +175,149 @@ women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months
 FORM_OF_VIOLENCE: Form of violence
 SURVEY_IMPLEMENTED_BY: Survey implemented by
 _%_labour: "% of labour force"
+estimated_number_of_population: Estimated number of population
+STILLBIRTH_RATE: Stillbirth Rate
+per_1000: (per 1,000 livebirths)
+number_of_stillbirths: Number of stillbirths
+health_indicators: Health indicators
+number_of_new_cases_of_cervical_cancer: Number of new cases of cervical cancer
+number_of_new_cases_of_cervical_cancer_per_100000_female_population: Number of new cases of female breast cancer per 100,000 female population
+number_of_new_cases_of_female_breast_cancer_per_100000: Number of new cases of female breast cancer per 100,000 female population
+number_of_new_cases_of_female_breast_cancer: Number of new cases of female breast cancer
+number_of_new_cases_of_syphilis: Number of new cases of syphilis
+number_of_new_cases_of_gonorrhea: Number of new cases of gonorrhea
+number_of_new_cases_of_AIDS_clinically_diagnosed: Number of new cases of AIDS clinically diagnosed
+number_of_new_cases_of_HIV: Number of new cases of HIV
+number_of_new_cases_of_HIV_per_100000_population: Number of new cases of HIV per 100,000 population
+number_of_caesarean_sections: Number of caesarean sections
+number_of_caesarean_sections_per_1000_live_births: Number of caesarean sections per 1,000 live births
+number_of_beds_in_hospitals: Number of beds in hospitals
+number_of_beds_in_hospitals_per_100000_population: Number of beds in hospitals per 100,000 population
+number_of_medical_doctors_providing_health_care_in_public_institutions: Number of medical doctors providing health care in public institutions
+number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population: Number of medical doctors providing health care in public institutions per 100,000 population
+number_of_general_practitioners: Number of general practitioners
+number_of_population_per_general_practitioner: Number of population per general practitioner
+number_of_midwives: Number of midwives
+total_population_(as_per_Public_Health_Institute_or_NSO_reports): Total population (as per Public Health Institute or NSO reports)
+male_population: Male population
+female_population: Female population
+contraceptive_prevalence_rate_(total): Contraceptive prevalence rate (total)
+contraceptive_prevalence_rate_(traditional_methods): Contraceptive prevalence rate (traditional methods)
+contraceptive_prevalence_rate_(modern_methods): Contraceptive prevalence rate (modern methods)
+unmet_need_for_family_planning: Unmet need for family planning
+satisfied_demand_for_family_planning: Satisfied demand for family planning
+skilled_attendant_at_delivery: Skilled attendant at delivery
+institutional_deliveries: Institutional deliveries
+marriage_before_age_15_(women_15-49): Marriage before age 15 (women 15-49)
+marriage_before_age_15_(men_15-49): Marriage before age 15 (men 15-49)
+marriage_before_age_18_(women_20-49): Marriage before age 18 (women 20-49)
+marriage_before_age_18_(men_20-49): Marriage before age 18 (women 20-49)
+young_women_aged_15-19_years_currently_married_or_in_union: Young women aged 15-19 years currently married or in union
+young_men_aged_15-19_years_currently_married_or_in_union: Young men aged 15-19 years currently married or in union
+husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49): Husband/partner has the right to hit or beat his wife/partner (women 15-49)
+husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49): Husband/partner has the right to hit or beat his wife/partner (men 15-49)
+comprehensive_knowledge_about_hiv_prevention_(women_15-49): Comprehensive knowledge about HIV prevention (women 15-49)
+comprehensive_knowledge_about_hiv_prevention_(men_15-49): Comprehensive knowledge about HIV prevention (men 15-49)
+comprehensive_knowledge_about_hiv_prevention_(women_15-24): Comprehensive knowledge about HIV prevention (women 15-24)
+comprehensive_knowledge_about_hiv_prevention_(men_15-24): Comprehensive knowledge about HIV prevention (men 15-24)
+accepting_attitudes_towards_people_living_with_hiv_(women_15-49): Accepting attitudes towards people living with HIV (women 15-49)
+accepting_attitudes_towards_people_living_with_hiv_(men_15-49): Accepting attitudes towards people living with HIV (men 15-49)
+women_aged_15-24_who_have_never_had_sex_: Women aged 15-24 who have never had sex
+men_aged_15-24_who_have_never_had_sex_: Men aged 15-24 who have never had sex
+sex_before_age_15_(women_15-19-24): Sex before age 15 (women 15-19-24)
+sex_before_age_15_(men_15-24): Sex before age 15 (men 15-24)
+sex_with_multiple_partners_(women_15-49): Sex with multiple partners (women 15-49)
+sex_with_multiple_partners_(men_15-49): Sex with multiple partners (men 15-49)
+condom_use_during_sex_with_multiple_partners_(women_15-49): Condom use during sex with multiple partners (women 15-49)
+condom_use_during_sex_with_multiple_partners_(men_15-49): Condom use during sex with multiple partners (men 15-49)
+sex_with_non-regular_partners_(women_15-24): Sex with non-regular partners (women 15-24)
+sex_with_non-regular_partners_(men_15-24): Sex with non-regular partners (men 15-24)
+condom_use_with_non-regular_partners_(women_15-24): Condom use with non-regular partners (women 15-24)
+condom_use_with_non-regular_partners_(men_15-24): Condom use with non-regular partners (men 15-24)
+life_satisfaction_(women_15-24): Life satisfaction (women 15-24)
+life_satisfaction_(men_15-24): Life satisfaction (men 15-24)
+happiness_(women_15-24): Happiness (women 15-24)
+happiness_(men_15-24): Happiness (women 15-24)
+tobacco_use_(women_15-49): Tobacco use (women 15-49)
+tobacco_use_(men_15-49): Tobacco use (men 15-49)
+alcohol_use_(women_15-49): Alcohol use (women 15-49)
+alcohol_use_(men_15-49): Alcohol use (men 15-49)
+MICS_NUMBER: Mics Number
+MICS_INDICATORS: MICS Indicators
+SOURCE_OF_WATER: Source Of Water	
+piped_water_in_the_dwelling_unit_connected_to_community_scheme: Piped water in the dwelling unit connected to community scheme
+piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system: Piped water in the dwelling unit connected to rural or local water supply system
+piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system: Piped water in the dwelling unit connected to own pump water system
+drinking_fountain_connected_to_community_scheme: Drinking fountain connected to community scheme
+drinking_fountain_connected_to_own_pump_water_scheme: Drinking fountain connected to own pump water scheme
+street_drinking_fountain: Street drinking fountain
+dug_well: Dug well
+drilled_(pipe)_well: Drilled (pipe) well
+artesian_well: Artesian well
+regulated_water_spring: Regulated water spring
+container_(water_tank)_: Container (water tank)
+bottled_water_from_shop: Bottled water from shop
+other: Other
+public_sewage: Public sewage
+closed_septic_tank: Closed septic tank
+closed_septic_tank_with_overflow: Closed septic tank with overflow
+other_arrangements: Other arrangements
+no_sewage: No sewage
+SOURCE_OF_WATER: Source of water
+TYPE_OF_SEWAGE: Type of sewage
+TYPE_OF_TOILET: Type of toilet
+persons_with_disabilities: Persons with disabilities
+GRAND_TOTAL: Grand Total
+persons_without_disabilities: Persons without disabilities
+status_unknown: Status unknown
+married_couple_without_children: Married couple without children
+consensual_couple_without_children: Consensual couple without children
+married_couple_with_children: Married couple with children
+consensual_couple_with_children: Consensual couple with children
+mother_with_children: Mother with children
+father_with_children: Father with children
+non-family/single_households: Non-family/single households
+non-family/multi-person_households: Non-family/multi-person households
+TYPE_OF_FAMILY/HOUSEHOLD: Type of family/household
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: 
+average_number_of_hh_members: Average number of HH members
+single_household: Single household
+2_members: 2 members
+3_members: 3 members
+4_members: 4 members
+5_members: 5 members
+6_members: 6 members
+7_members: 7 members
+8+_members: 8+ members
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Number of households by household size 
+DIVORCES: Divorces
+divorce_rate_(per_1,000_marriages): Divorce rate (per 1,000 marriages)
+number_of_divorces: Number of divorces
+MARRIAGES: Marriages
+marriage_rate: Marriage rate
+number_of_marriages: Number of marriages
+MARTIAL_STATUS: Martial Status
+never_married: Never married
+informal_union: Informal union
+married: Married
+divorced: Divorced
+widowed: Widowed
+INFANT_MORTALITY: Infant Mortality Infant (up to 12 months of age) mortality rate
+number_of_infant_deaths: Number of infant deaths 
+AGE_OF_MOTHER: Age of mother
+MARRIAGE_BIRTH: Marriage Birth
+in_marriage_birth: In marriage birth
+out_of_marriage_birth: Out of marriage birth
+unknown_marital_status_birth: Unknown marital status birth
+AGE_GROUP_OF_WOMEN: Age group of women
+BIRTH: Birth
+gave_birth: Gave birth
+did_not_give_birth: Did not give birth
+crude_death_rate: Crude death rate	
+DEATH: Death
+crude_birth_rate: Crude birth rate
+BIRTHS_AND_DEATHS: Births and deaths
+live_births: Live births
+deaths: Deaths
+natural_increase: Natural increase
+mean_age: Mean age
