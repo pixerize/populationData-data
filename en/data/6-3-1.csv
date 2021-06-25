@@ -1,10 +1,10 @@
-Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
-2006,_%,15+,_T,active_labour_force,43.1
-2006,_%,15 - 24,_T,active_labour_force,33.4
-2006,_%,25 - 49,_T,active_labour_force,66.0
-2006,_%,50 - 64,_T,active_labour_force,36.6
-2006,_%,65+,_T,active_labour_force,5.7
-2006,_%,15 - 64,_T,active_labour_force,51.3
+Year,UNIT_MEASURE,AGE,Sex,ACTIVITY_RATES,Value
+2006,_%,15+,Both sexes,active_labour_force,43.1
+2006,_%,15 - 24,Both sexes,active_labour_force,33.4
+2006,_%,25 - 49,Both sexes,active_labour_force,66.0
+2006,_%,50 - 64,Both sexes,active_labour_force,36.6
+2006,_%,65+,Both sexes,active_labour_force,5.7
+2006,_%,15 - 64,Both sexes,active_labour_force,51.3
 2006,_%,15+,M,active_labour_force,56.2
 2006,_%,15 - 24,M,active_labour_force,40.1
 2006,_%,25 - 49,M,active_labour_force,81.9
@@ -17,12 +17,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2006,_%,50 - 64,F,active_labour_force,22.1
 2006,_%,65+,F,active_labour_force,4.0
 2006,_%,15 - 64,F,active_labour_force,37.4
-2007,_%,15+,_T,active_labour_force,43.9
-2007,_%,15 - 24,_T,active_labour_force,33.4
-2007,_%,25 - 49,_T,active_labour_force,67.0
-2007,_%,50 - 64,_T,active_labour_force,38.9
-2007,_%,65+,_T,active_labour_force,5.9
-2007,_%,15 - 64,_T,active_labour_force,52.2
+2007,_%,15+,Both sexes,active_labour_force,43.9
+2007,_%,15 - 24,Both sexes,active_labour_force,33.4
+2007,_%,25 - 49,Both sexes,active_labour_force,67.0
+2007,_%,50 - 64,Both sexes,active_labour_force,38.9
+2007,_%,65+,Both sexes,active_labour_force,5.9
+2007,_%,15 - 64,Both sexes,active_labour_force,52.2
 2007,_%,15+,M,active_labour_force,57.7
 2007,_%,15 - 24,M,active_labour_force,40.8
 2007,_%,25 - 49,M,active_labour_force,84.0
@@ -35,12 +35,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2007,_%,50 - 64,F,active_labour_force,23.7
 2007,_%,65+,F,active_labour_force,3.6
 2007,_%,15 - 64,F,active_labour_force,37.8
-2008,_%,15+,_T,active_labour_force,43.9
-2008,_%,15 - 24,_T,active_labour_force,33.2
-2008,_%,25 - 49,_T,active_labour_force,68.6
-2008,_%,50 - 64,_T,active_labour_force,40.5
-2008,_%,65+,_T,active_labour_force,5.4
-2008,_%,15 - 64,_T,active_labour_force,53.5
+2008,_%,15+,Both sexes,active_labour_force,43.9
+2008,_%,15 - 24,Both sexes,active_labour_force,33.2
+2008,_%,25 - 49,Both sexes,active_labour_force,68.6
+2008,_%,50 - 64,Both sexes,active_labour_force,40.5
+2008,_%,65+,Both sexes,active_labour_force,5.4
+2008,_%,15 - 64,Both sexes,active_labour_force,53.5
 2008,_%,15+,M,active_labour_force,57.1
 2008,_%,15 - 24,M,active_labour_force,40.0
 2008,_%,25 - 49,M,active_labour_force,85.1
@@ -53,12 +53,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2008,_%,50 - 64,F,active_labour_force,25.7
 2008,_%,65+,F,active_labour_force,3.2
 2008,_%,15 - 64,F,active_labour_force,39.5
-2009,_%,15+,_T,active_labour_force,43.6
-2009,_%,15 - 24,_T,active_labour_force,32.6
-2009,_%,25 - 49,_T,active_labour_force,69.1
-2009,_%,50 - 64,_T,active_labour_force,40.8
-2009,_%,65+,_T,active_labour_force,4.2
-2009,_%,15 - 64,_T,active_labour_force,53.2
+2009,_%,15+,Both sexes,active_labour_force,43.6
+2009,_%,15 - 24,Both sexes,active_labour_force,32.6
+2009,_%,25 - 49,Both sexes,active_labour_force,69.1
+2009,_%,50 - 64,Both sexes,active_labour_force,40.8
+2009,_%,65+,Both sexes,active_labour_force,4.2
+2009,_%,15 - 64,Both sexes,active_labour_force,53.2
 2009,_%,15+,M,active_labour_force,56.2
 2009,_%,15 - 24,M,active_labour_force,40.4
 2009,_%,25 - 49,M,active_labour_force,85.2
@@ -71,12 +71,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2009,_%,50 - 64,F,active_labour_force,27.6
 2009,_%,65+,F,active_labour_force,3.1
 2009,_%,15 - 64,F,active_labour_force,39.7
-2010,_%,15+,_T,active_labour_force,44.6
-2010,_%,15 - 24,_T,active_labour_force,33.0
-2010,_%,25 - 49,_T,active_labour_force,70.6
-2010,_%,50 - 64,_T,active_labour_force,40.5
-2010,_%,65+,_T,active_labour_force,4.6
-2010,_%,15 - 64,_T,active_labour_force,54.0
+2010,_%,15+,Both sexes,active_labour_force,44.6
+2010,_%,15 - 24,Both sexes,active_labour_force,33.0
+2010,_%,25 - 49,Both sexes,active_labour_force,70.6
+2010,_%,50 - 64,Both sexes,active_labour_force,40.5
+2010,_%,65+,Both sexes,active_labour_force,4.6
+2010,_%,15 - 64,Both sexes,active_labour_force,54.0
 2010,_%,15+,M,active_labour_force,56.7
 2010,_%,15 - 24,M,active_labour_force,39.7
 2010,_%,25 - 49,M,active_labour_force,85.3
@@ -89,12 +89,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2010,_%,50 - 64,F,active_labour_force,28.0
 2010,_%,65+,F,active_labour_force,3.3
 2010,_%,15 - 64,F,active_labour_force,41.1
-2011,_%,15+,_T,active_labour_force,44.0
-2011,_%,15 - 24,_T,active_labour_force,31.4
-2011,_%,25 - 49,_T,active_labour_force,70.6
-2011,_%,50 - 64,_T,active_labour_force,41.2
-2011,_%,65+,_T,active_labour_force,3.6
-2011,_%,15 - 64,_T,active_labour_force,53.8
+2011,_%,15+,Both sexes,active_labour_force,44.0
+2011,_%,15 - 24,Both sexes,active_labour_force,31.4
+2011,_%,25 - 49,Both sexes,active_labour_force,70.6
+2011,_%,50 - 64,Both sexes,active_labour_force,41.2
+2011,_%,65+,Both sexes,active_labour_force,3.6
+2011,_%,15 - 64,Both sexes,active_labour_force,53.8
 2011,_%,15+,M,active_labour_force,55.9
 2011,_%,15 - 24,M,active_labour_force,38.8
 2011,_%,25 - 49,M,active_labour_force,84.5
@@ -107,12 +107,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2011,_%,50 - 64,F,active_labour_force,29.8
 2011,_%,65+,F,active_labour_force,2.7
 2011,_%,15 - 64,F,active_labour_force,41.2
-2012,_%,15+,_T,active_labour_force,44.0
-2012,_%,15 - 24,_T,active_labour_force,29.4
-2012,_%,25 - 49,_T,active_labour_force,71.6
-2012,_%,50 - 64,_T,active_labour_force,42.1
-2012,_%,65+,_T,active_labour_force,5.0
-2012,_%,15 - 64,_T,active_labour_force,53.9
+2012,_%,15+,Both sexes,active_labour_force,44.0
+2012,_%,15 - 24,Both sexes,active_labour_force,29.4
+2012,_%,25 - 49,Both sexes,active_labour_force,71.6
+2012,_%,50 - 64,Both sexes,active_labour_force,42.1
+2012,_%,65+,Both sexes,active_labour_force,5.0
+2012,_%,15 - 64,Both sexes,active_labour_force,53.9
 2012,_%,15+,M,active_labour_force,56.4
 2012,_%,15 - 24,M,active_labour_force,37.7
 2012,_%,25 - 49,M,active_labour_force,85.5
@@ -125,12 +125,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2012,_%,50 - 64,F,active_labour_force,29.2
 2012,_%,65+,F,active_labour_force,3.4
 2012,_%,15 - 64,F,active_labour_force,41.0
-2013,_%,15+,_T,active_labour_force,43.6
-2013,_%,15 - 24,_T,active_labour_force,28.3
-2013,_%,25 - 49,_T,active_labour_force,71.9
-2013,_%,50 - 64,_T,active_labour_force,42.1
-2013,_%,65+,_T,active_labour_force,4.2
-2013,_%,15 - 64,_T,active_labour_force,53.5
+2013,_%,15+,Both sexes,active_labour_force,43.6
+2013,_%,15 - 24,Both sexes,active_labour_force,28.3
+2013,_%,25 - 49,Both sexes,active_labour_force,71.9
+2013,_%,50 - 64,Both sexes,active_labour_force,42.1
+2013,_%,65+,Both sexes,active_labour_force,4.2
+2013,_%,15 - 64,Both sexes,active_labour_force,53.5
 2013,_%,15+,M,active_labour_force,55.3
 2013,_%,15 - 24,M,active_labour_force,36.3
 2013,_%,25 - 49,M,active_labour_force,85.3
@@ -143,12 +143,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2013,_%,50 - 64,F,active_labour_force,29.6
 2013,_%,65+,F,active_labour_force,2.7
 2013,_%,15 - 64,F,active_labour_force,41.0
-2014,_%,15+,_T,active_labour_force,43.7
-2014,_%,15 - 24,_T,active_labour_force,29.3
-2014,_%,25 - 49,_T,active_labour_force,73.2
-2014,_%,50 - 64,_T,active_labour_force,42.1
-2014,_%,65+,_T,active_labour_force,4.7
-2014,_%,15 - 64,_T,active_labour_force,54.2
+2014,_%,15+,Both sexes,active_labour_force,43.7
+2014,_%,15 - 24,Both sexes,active_labour_force,29.3
+2014,_%,25 - 49,Both sexes,active_labour_force,73.2
+2014,_%,50 - 64,Both sexes,active_labour_force,42.1
+2014,_%,65+,Both sexes,active_labour_force,4.7
+2014,_%,15 - 64,Both sexes,active_labour_force,54.2
 2014,_%,15+,M,active_labour_force,55.0
 2014,_%,15 - 24,M,active_labour_force,34.6
 2014,_%,25 - 49,M,active_labour_force,85.9
@@ -161,12 +161,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2014,_%,50 - 64,F,active_labour_force,29.5
 2014,_%,65+,F,active_labour_force,3.1
 2014,_%,15 - 64,F,active_labour_force,42.4
-2015,_%,15+,_T,active_labour_force,44.1
-2015,_%,15 - 24,_T,active_labour_force,32.2
-2015,_%,25 - 49,_T,active_labour_force,73.6
-2015,_%,50 - 64,_T,active_labour_force,41.7
-2015,_%,65+,_T,active_labour_force,4.3
-2015,_%,15 - 64,_T,active_labour_force,54.6
+2015,_%,15+,Both sexes,active_labour_force,44.1
+2015,_%,15 - 24,Both sexes,active_labour_force,32.2
+2015,_%,25 - 49,Both sexes,active_labour_force,73.6
+2015,_%,50 - 64,Both sexes,active_labour_force,41.7
+2015,_%,65+,Both sexes,active_labour_force,4.3
+2015,_%,15 - 64,Both sexes,active_labour_force,54.6
 2015,_%,15+,M,active_labour_force,55.1
 2015,_%,15 - 24,M,active_labour_force,38.9
 2015,_%,25 - 49,M,active_labour_force,87.1
@@ -179,12 +179,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2015,_%,50 - 64,F,active_labour_force,30.5
 2015,_%,65+,F,active_labour_force,3.0
 2015,_%,15 - 64,F,active_labour_force,42.9
-2016,_%,15+,_T,active_labour_force,43.1
-2016,_%,15 - 24,_T,active_labour_force,30.2
-2016,_%,25 - 49,_T,active_labour_force,73.2
-2016,_%,50 - 64,_T,active_labour_force,43.7
-2016,_%,65+,_T,active_labour_force,4.1
-2016,_%,15 - 64,_T,active_labour_force,54.2
+2016,_%,15+,Both sexes,active_labour_force,43.1
+2016,_%,15 - 24,Both sexes,active_labour_force,30.2
+2016,_%,25 - 49,Both sexes,active_labour_force,73.2
+2016,_%,50 - 64,Both sexes,active_labour_force,43.7
+2016,_%,65+,Both sexes,active_labour_force,4.1
+2016,_%,15 - 64,Both sexes,active_labour_force,54.2
 2016,_%,15+,M,active_labour_force,54.9
 2016,_%,15 - 24,M,active_labour_force,38.1
 2016,_%,25 - 49,M,active_labour_force,86.0
@@ -197,12 +197,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2016,_%,50 - 64,F,active_labour_force,30.6
 2016,_%,65+,F,active_labour_force,2.7
 2016,_%,15 - 64,F,active_labour_force,41.9
-2017,_%,15+,_T,active_labour_force,42.6
-2017,_%,15 - 24,_T,active_labour_force,32.5
-2017,_%,25 - 49,_T,active_labour_force,73.5
-2017,_%,50 - 64,_T,active_labour_force,43.6
-2017,_%,65+,_T,active_labour_force,5.2
-2017,_%,15 - 64,_T,active_labour_force,54.5
+2017,_%,15+,Both sexes,active_labour_force,42.6
+2017,_%,15 - 24,Both sexes,active_labour_force,32.5
+2017,_%,25 - 49,Both sexes,active_labour_force,73.5
+2017,_%,50 - 64,Both sexes,active_labour_force,43.6
+2017,_%,65+,Both sexes,active_labour_force,5.2
+2017,_%,15 - 64,Both sexes,active_labour_force,54.5
 2017,_%,15+,M,active_labour_force,53.3
 2017,_%,15 - 24,M,active_labour_force,40.2
 2017,_%,25 - 49,M,active_labour_force,86.5
@@ -215,12 +215,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2017,_%,50 - 64,F,active_labour_force,31.6
 2017,_%,65+,F,active_labour_force,3.9
 2017,_%,15 - 64,F,active_labour_force,42.7
-2018,_%,15+,_T,active_labour_force,42.1
-2018,_%,15 - 24,_T,active_labour_force,32.3
-2018,_%,25 - 49,_T,active_labour_force,73.0
-2018,_%,50 - 64,_T,active_labour_force,44.6
-2018,_%,65+,_T,active_labour_force,4.7
-2018,_%,15 - 64,_T,active_labour_force,54.2
+2018,_%,15+,Both sexes,active_labour_force,42.1
+2018,_%,15 - 24,Both sexes,active_labour_force,32.3
+2018,_%,25 - 49,Both sexes,active_labour_force,73.0
+2018,_%,50 - 64,Both sexes,active_labour_force,44.6
+2018,_%,65+,Both sexes,active_labour_force,4.7
+2018,_%,15 - 64,Both sexes,active_labour_force,54.2
 2018,_%,15+,M,active_labour_force,53.2
 2018,_%,15 - 24,M,active_labour_force,40.4
 2018,_%,25 - 49,M,active_labour_force,86.8
@@ -233,12 +233,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2018,_%,50 - 64,F,active_labour_force,32.3
 2018,_%,65+,F,active_labour_force,3.6
 2018,_%,15 - 64,F,active_labour_force,41.8
-2019,_%,15+,_T,active_labour_force,42.1
-2019,_%,15 - 24,_T,active_labour_force,35.4
-2019,_%,25 - 49,_T,active_labour_force,73.4
-2019,_%,50 - 64,_T,active_labour_force,46.7
-2019,_%,65+,_T,active_labour_force,6.9
-2019,_%,15 - 64,_T,active_labour_force,55.5
+2019,_%,15+,Both sexes,active_labour_force,42.1
+2019,_%,15 - 24,Both sexes,active_labour_force,35.4
+2019,_%,25 - 49,Both sexes,active_labour_force,73.4
+2019,_%,50 - 64,Both sexes,active_labour_force,46.7
+2019,_%,65+,Both sexes,active_labour_force,6.9
+2019,_%,15 - 64,Both sexes,active_labour_force,55.5
 2019,_%,15+,M,active_labour_force,51.7
 2019,_%,15 - 24,M,active_labour_force,39.8
 2019,_%,25 - 49,M,active_labour_force,85.6

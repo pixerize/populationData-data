@@ -1,22 +1,317 @@
-Year,SERIES,UNIT_MEASURE,Value
-2001,Broj pothranjenih ljudi,Milijuni,0.1
-2002,Broj pothranjenih ljudi,Milijuni,0.1
-2003,Broj pothranjenih ljudi,Milijuni,0.1
-2001,Rasprostranjenost pothranjenosti,Postotak,3.2
-2002,Rasprostranjenost pothranjenosti,Postotak,3.1
-2003,Rasprostranjenost pothranjenosti,Postotak,2.7
-2004,Rasprostranjenost pothranjenosti,Postotak,2.5
-2005,Rasprostranjenost pothranjenosti,Postotak,2.5
-2006,Rasprostranjenost pothranjenosti,Postotak,2.5
-2007,Rasprostranjenost pothranjenosti,Postotak,2.5
-2008,Rasprostranjenost pothranjenosti,Postotak,2.5
-2009,Rasprostranjenost pothranjenosti,Postotak,2.5
-2010,Rasprostranjenost pothranjenosti,Postotak,2.5
-2011,Rasprostranjenost pothranjenosti,Postotak,2.5
-2012,Rasprostranjenost pothranjenosti,Postotak,2.5
-2013,Rasprostranjenost pothranjenosti,Postotak,2.5
-2014,Rasprostranjenost pothranjenosti,Postotak,2.5
-2015,Rasprostranjenost pothranjenosti,Postotak,2.5
-2016,Rasprostranjenost pothranjenosti,Postotak,2.5
-2017,Rasprostranjenost pothranjenosti,Postotak,2.5
-2018,Rasprostranjenost pothranjenosti,Postotak,2.5
+Year,UNIT_MEASURE,Spol,STILLBIRTH_RATE,Entitet,Value
+1996,Broj,Oba spola,per_1000,BiH,5.82
+1997,Broj,Oba spola,per_1000,BiH,4.96
+1998,Broj,Oba spola,per_1000,BiH,4.49
+1999,Broj,Oba spola,per_1000,BiH,5.28
+2000,Broj,Oba spola,per_1000,BiH,4.02
+2001,Broj,Oba spola,per_1000,BiH,5.12
+2002,Broj,Oba spola,per_1000,BiH,3.88
+2003,Broj,Oba spola,per_1000,BiH,4.26
+2004,Broj,Oba spola,per_1000,BiH,4.78
+2005,Broj,Oba spola,per_1000,BiH,4.25
+2006,Broj,Oba spola,per_1000,BiH,4.03
+2007,Broj,Oba spola,per_1000,BiH,5.14
+2008,Broj,Oba spola,per_1000,BiH,5.0
+2009,Broj,Oba spola,per_1000,BiH,3.94
+2010,Broj,Oba spola,per_1000,BiH,4.27
+2011,Broj,Oba spola,per_1000,BiH,3.71
+2012,Broj,Oba spola,per_1000,BiH,3.69
+2013,Broj,Oba spola,per_1000,BiH,3.32
+2014,Broj,Oba spola,per_1000,BiH,2.54
+2015,Broj,Oba spola,per_1000,BiH,3.83
+2016,Broj,Oba spola,per_1000,BiH,3.64
+2017,Broj,Oba spola,per_1000,BiH,3.41
+2018,Broj,Oba spola,per_1000,BiH,2.99
+2019,Broj,Oba spola,per_1000,BiH,2.89
+1997,Broj,Oba spola,per_1000,FBiH,4.87
+1998,Broj,Oba spola,per_1000,FBiH,4.64
+1999,Broj,Oba spola,per_1000,FBiH,5.51
+2000,Broj,Oba spola,per_1000,FBiH,4.22
+2001,Broj,Oba spola,per_1000,FBiH,4.83
+2002,Broj,Oba spola,per_1000,FBiH,4.21
+2003,Broj,Oba spola,per_1000,FBiH,4.7
+2004,Broj,Oba spola,per_1000,FBiH,5.53
+2005,Broj,Oba spola,per_1000,FBiH,5.02
+2006,Broj,Oba spola,per_1000,FBiH,4.86
+2007,Broj,Oba spola,per_1000,FBiH,5.99
+2008,Broj,Oba spola,per_1000,FBiH,5.63
+2009,Broj,Oba spola,per_1000,FBiH,3.93
+2010,Broj,Oba spola,per_1000,FBiH,3.8
+2011,Broj,Oba spola,per_1000,FBiH,3.58
+2012,Broj,Oba spola,per_1000,FBiH,3.17
+2013,Broj,Oba spola,per_1000,FBiH,2.98
+2014,Broj,Oba spola,per_1000,FBiH,2.67
+2015,Broj,Oba spola,per_1000,FBiH,5.01
+2016,Broj,Oba spola,per_1000,FBiH,4.83
+2017,Broj,Oba spola,per_1000,FBiH,4.24
+2018,Broj,Oba spola,per_1000,FBiH,3.6
+2019,Broj,Oba spola,per_1000,FBiH,3.83
+1997,Broj,Oba spola,per_1000,Republika Srpska,5.6
+1998,Broj,Oba spola,per_1000,Republika Srpska,4.14
+1999,Broj,Oba spola,per_1000,Republika Srpska,4.83
+2000,Broj,Oba spola,per_1000,Republika Srpska,3.66
+2001,Broj,Oba spola,per_1000,Republika Srpska,5.62
+2002,Broj,Oba spola,per_1000,Republika Srpska,3.24
+2003,Broj,Oba spola,per_1000,Republika Srpska,3.51
+2004,Broj,Oba spola,per_1000,Republika Srpska,3.29
+2005,Broj,Oba spola,per_1000,Republika Srpska,3.88
+2006,Broj,Oba spola,per_1000,Republika Srpska,2.57
+2007,Broj,Oba spola,per_1000,Republika Srpska,3.86
+2008,Broj,Oba spola,per_1000,Republika Srpska,3.33
+2009,Broj,Oba spola,per_1000,Republika Srpska,3.02
+2010,Broj,Oba spola,per_1000,Republika Srpska,4.04
+2011,Broj,Oba spola,per_1000,Republika Srpska,3.03
+2012,Broj,Oba spola,per_1000,Republika Srpska,3.81
+2013,Broj,Oba spola,per_1000,Republika Srpska,3.89
+2014,Broj,Oba spola,per_1000,Republika Srpska,2.36
+2015,Broj,Oba spola,per_1000,Republika Srpska,1.82
+2016,Broj,Oba spola,per_1000,Republika Srpska,1.59
+2017,Broj,Oba spola,per_1000,Republika Srpska,1.82
+2018,Broj,Oba spola,per_1000,Republika Srpska,1.88
+2019,Broj,Oba spola,per_1000,Republika Srpska,1.4
+2001,Broj,Oba spola,per_1000,Brčko Distrikt BiH,10.16
+2002,Broj,Oba spola,per_1000,Brčko Distrikt BiH,11.26
+2003,Broj,Oba spola,per_1000,Brčko Distrikt BiH,5.48
+2004,Broj,Oba spola,per_1000,Brčko Distrikt BiH,4.1
+2005,Broj,Oba spola,per_1000,Brčko Distrikt BiH,8.84
+2006,Broj,Oba spola,per_1000,Brčko Distrikt BiH,12.86
+2007,Broj,Oba spola,per_1000,Brčko Distrikt BiH,16.38
+2008,Broj,Oba spola,per_1000,Brčko Distrikt BiH,12.15
+2009,Broj,Oba spola,per_1000,Brčko Distrikt BiH,13.49
+2010,Broj,Oba spola,per_1000,Brčko Distrikt BiH,4.46
+2011,Broj,Oba spola,per_1000,Brčko Distrikt BiH,2.18
+2017,Broj,Oba spola,per_1000,Brčko Distrikt BiH,3.41
+2018,Broj,Oba spola,per_1000,Brčko Distrikt BiH,2.99
+2019,Broj,Oba spola,per_1000,Brčko Distrikt BiH,2.89
+2001,Broj,Muškarci,number_of_stillbirths,BiH,98.0
+2002,Broj,Muškarci,number_of_stillbirths,BiH,77.0
+2003,Broj,Muškarci,number_of_stillbirths,BiH,91.0
+2004,Broj,Muškarci,number_of_stillbirths,BiH,94.0
+2005,Broj,Muškarci,number_of_stillbirths,BiH,85.0
+2006,Broj,Muškarci,number_of_stillbirths,BiH,83.0
+2007,Broj,Muškarci,number_of_stillbirths,BiH,98.0
+2008,Broj,Muškarci,number_of_stillbirths,BiH,102.0
+2009,Broj,Muškarci,number_of_stillbirths,BiH,80.0
+2010,Broj,Muškarci,number_of_stillbirths,BiH,83.0
+2011,Broj,Muškarci,number_of_stillbirths,BiH,57.0
+2012,Broj,Muškarci,number_of_stillbirths,BiH,64.0
+2013,Broj,Muškarci,number_of_stillbirths,BiH,45.0
+2014,Broj,Muškarci,number_of_stillbirths,BiH,45.0
+2015,Broj,Muškarci,number_of_stillbirths,BiH,56.0
+2016,Broj,Muškarci,number_of_stillbirths,BiH,54.0
+2017,Broj,Muškarci,number_of_stillbirths,BiH,51.0
+2018,Broj,Muškarci,number_of_stillbirths,BiH,49.0
+2019,Broj,Muškarci,number_of_stillbirths,BiH,40.0
+2001,Broj,Žene,number_of_stillbirths,BiH,95.0
+2002,Broj,Žene,number_of_stillbirths,BiH,61.0
+2003,Broj,Žene,number_of_stillbirths,BiH,59.0
+2004,Broj,Žene,number_of_stillbirths,BiH,74.0
+2005,Broj,Žene,number_of_stillbirths,BiH,62.0
+2006,Broj,Žene,number_of_stillbirths,BiH,54.0
+2007,Broj,Žene,number_of_stillbirths,BiH,76.0
+2008,Broj,Žene,number_of_stillbirths,BiH,69.0
+2009,Broj,Žene,number_of_stillbirths,BiH,56.0
+2010,Broj,Žene,number_of_stillbirths,BiH,60.0
+2011,Broj,Žene,number_of_stillbirths,BiH,61.0
+2012,Broj,Žene,number_of_stillbirths,BiH,56.0
+2013,Broj,Žene,number_of_stillbirths,BiH,57.0
+2014,Broj,Žene,number_of_stillbirths,BiH,32.0
+2015,Broj,Žene,number_of_stillbirths,BiH,58.0
+2016,Broj,Žene,number_of_stillbirths,BiH,56.0
+2017,Broj,Žene,number_of_stillbirths,BiH,52.0
+2018,Broj,Žene,number_of_stillbirths,BiH,39.0
+2019,Broj,Žene,number_of_stillbirths,BiH,42.0
+1996,Broj,Oba spola,number_of_stillbirths,BiH,271.0
+1997,Broj,Oba spola,number_of_stillbirths,BiH,240.0
+1998,Broj,Oba spola,number_of_stillbirths,BiH,202.0
+1999,Broj,Oba spola,number_of_stillbirths,BiH,224.0
+2000,Broj,Oba spola,number_of_stillbirths,BiH,159.0
+2001,Broj,Oba spola,number_of_stillbirths,BiH,193.0
+2002,Broj,Oba spola,number_of_stillbirths,BiH,138.0
+2003,Broj,Oba spola,number_of_stillbirths,BiH,150.0
+2004,Broj,Oba spola,number_of_stillbirths,BiH,168.0
+2005,Broj,Oba spola,number_of_stillbirths,BiH,147.0
+2006,Broj,Oba spola,number_of_stillbirths,BiH,137.0
+2007,Broj,Oba spola,number_of_stillbirths,BiH,174.0
+2008,Broj,Oba spola,number_of_stillbirths,BiH,171.0
+2009,Broj,Oba spola,number_of_stillbirths,BiH,136.0
+2010,Broj,Oba spola,number_of_stillbirths,BiH,143.0
+2011,Broj,Oba spola,number_of_stillbirths,BiH,118.0
+2012,Broj,Oba spola,number_of_stillbirths,BiH,120.0
+2013,Broj,Oba spola,number_of_stillbirths,BiH,102.0
+2014,Broj,Oba spola,number_of_stillbirths,BiH,77.0
+2015,Broj,Oba spola,number_of_stillbirths,BiH,114.0
+2016,Broj,Oba spola,number_of_stillbirths,BiH,110.0
+2017,Broj,Oba spola,number_of_stillbirths,BiH,103.0
+2018,Broj,Oba spola,number_of_stillbirths,BiH,88.0
+2019,Broj,Oba spola,number_of_stillbirths,BiH,82.0
+1997,Broj,Muškarci,number_of_stillbirths,FBiH,98.0
+1998,Broj,Muškarci,number_of_stillbirths,FBiH,76.0
+1999,Broj,Muškarci,number_of_stillbirths,FBiH,88.0
+2000,Broj,Muškarci,number_of_stillbirths,FBiH,59.0
+2001,Broj,Muškarci,number_of_stillbirths,FBiH,60.0
+2002,Broj,Muškarci,number_of_stillbirths,FBiH,60.0
+2003,Broj,Muškarci,number_of_stillbirths,FBiH,72.0
+2004,Broj,Muškarci,number_of_stillbirths,FBiH,70.0
+2005,Broj,Muškarci,number_of_stillbirths,FBiH,69.0
+2006,Broj,Muškarci,number_of_stillbirths,FBiH,62.0
+2007,Broj,Muškarci,number_of_stillbirths,FBiH,73.0
+2008,Broj,Muškarci,number_of_stillbirths,FBiH,79.0
+2009,Broj,Muškarci,number_of_stillbirths,FBiH,52.0
+2010,Broj,Muškarci,number_of_stillbirths,FBiH,55.0
+2011,Broj,Muškarci,number_of_stillbirths,FBiH,39.0
+2012,Broj,Muškarci,number_of_stillbirths,FBiH,36.0
+2013,Broj,Muškarci,number_of_stillbirths,FBiH,27.0
+2014,Broj,Muškarci,number_of_stillbirths,FBiH,32.0
+2015,Broj,Muškarci,number_of_stillbirths,FBiH,48.0
+2016,Broj,Muškarci,number_of_stillbirths,FBiH,54.0
+2017,Broj,Muškarci,number_of_stillbirths,FBiH,41.0
+2018,Broj,Muškarci,number_of_stillbirths,FBiH,37.0
+2019,Broj,Muškarci,number_of_stillbirths,FBiH,36.0
+1997,Broj,Žene,number_of_stillbirths,FBiH,69.0
+1998,Broj,Žene,number_of_stillbirths,FBiH,70.0
+1999,Broj,Žene,number_of_stillbirths,FBiH,66.0
+2000,Broj,Žene,number_of_stillbirths,FBiH,48.0
+2001,Broj,Žene,number_of_stillbirths,FBiH,56.0
+2002,Broj,Žene,number_of_stillbirths,FBiH,38.0
+2003,Broj,Žene,number_of_stillbirths,FBiH,37.0
+2004,Broj,Žene,number_of_stillbirths,FBiH,53.0
+2005,Broj,Žene,number_of_stillbirths,FBiH,41.0
+2006,Broj,Žene,number_of_stillbirths,FBiH,43.0
+2007,Broj,Žene,number_of_stillbirths,FBiH,57.0
+2008,Broj,Žene,number_of_stillbirths,FBiH,50.0
+2009,Broj,Žene,number_of_stillbirths,FBiH,38.0
+2010,Broj,Žene,number_of_stillbirths,FBiH,30.0
+2011,Broj,Žene,number_of_stillbirths,FBiH,37.0
+2012,Broj,Žene,number_of_stillbirths,FBiH,32.0
+2013,Broj,Žene,number_of_stillbirths,FBiH,33.0
+2014,Broj,Žene,number_of_stillbirths,FBiH,21.0
+2015,Broj,Žene,number_of_stillbirths,FBiH,49.0
+2016,Broj,Žene,number_of_stillbirths,FBiH,41.0
+2017,Broj,Žene,number_of_stillbirths,FBiH,43.0
+2018,Broj,Žene,number_of_stillbirths,FBiH,31.0
+2019,Broj,Žene,number_of_stillbirths,FBiH,33.0
+1997,Broj,Oba spola,number_of_stillbirths,FBiH,167.0
+1998,Broj,Oba spola,number_of_stillbirths,FBiH,146.0
+1999,Broj,Oba spola,number_of_stillbirths,FBiH,154.0
+2000,Broj,Oba spola,number_of_stillbirths,FBiH,107.0
+2001,Broj,Oba spola,number_of_stillbirths,FBiH,116.0
+2002,Broj,Oba spola,number_of_stillbirths,FBiH,98.0
+2003,Broj,Oba spola,number_of_stillbirths,FBiH,109.0
+2004,Broj,Oba spola,number_of_stillbirths,FBiH,123.0
+2005,Broj,Oba spola,number_of_stillbirths,FBiH,110.0
+2006,Broj,Oba spola,number_of_stillbirths,FBiH,105.0
+2007,Broj,Oba spola,number_of_stillbirths,FBiH,130.0
+2008,Broj,Oba spola,number_of_stillbirths,FBiH,129.0
+2009,Broj,Oba spola,number_of_stillbirths,FBiH,90.0
+2010,Broj,Oba spola,number_of_stillbirths,FBiH,85.0
+2011,Broj,Oba spola,number_of_stillbirths,FBiH,76.0
+2012,Broj,Oba spola,number_of_stillbirths,FBiH,68.0
+2013,Broj,Oba spola,number_of_stillbirths,FBiH,60.0
+2014,Broj,Oba spola,number_of_stillbirths,FBiH,53.0
+2015,Broj,Oba spola,number_of_stillbirths,FBiH,97.0
+2016,Broj,Oba spola,number_of_stillbirths,FBiH,95.0
+2017,Broj,Oba spola,number_of_stillbirths,FBiH,84.0
+2018,Broj,Oba spola,number_of_stillbirths,FBiH,68.0
+2019,Broj,Oba spola,number_of_stillbirths,FBiH,69.0
+1997,Broj,Muškarci,number_of_stillbirths,Republika Srpska,38.0
+1998,Broj,Muškarci,number_of_stillbirths,Republika Srpska,19.0
+1999,Broj,Muškarci,number_of_stillbirths,Republika Srpska,39.0
+2000,Broj,Muškarci,number_of_stillbirths,Republika Srpska,27.0
+2001,Broj,Muškarci,number_of_stillbirths,Republika Srpska,38.0
+2002,Broj,Muškarci,number_of_stillbirths,Republika Srpska,17.0
+2003,Broj,Muškarci,number_of_stillbirths,Republika Srpska,17.0
+2004,Broj,Muškarci,number_of_stillbirths,Republika Srpska,19.0
+2005,Broj,Muškarci,number_of_stillbirths,Republika Srpska,20.0
+2006,Broj,Muškarci,number_of_stillbirths,Republika Srpska,20.0
+2007,Broj,Muškarci,number_of_stillbirths,Republika Srpska,23.0
+2008,Broj,Muškarci,number_of_stillbirths,Republika Srpska,20.0
+2009,Broj,Muškarci,number_of_stillbirths,Republika Srpska,21.0
+2010,Broj,Muškarci,number_of_stillbirths,Republika Srpska,23.0
+2011,Broj,Muškarci,number_of_stillbirths,Republika Srpska,12.0
+2012,Broj,Muškarci,number_of_stillbirths,Republika Srpska,24.0
+2013,Broj,Muškarci,number_of_stillbirths,Republika Srpska,17.0
+2014,Broj,Muškarci,number_of_stillbirths,Republika Srpska,13.0
+2015,Broj,Muškarci,number_of_stillbirths,Republika Srpska,8.0
+2016,Broj,Muškarci,number_of_stillbirths,Republika Srpska,5.0
+2017,Broj,Muškarci,number_of_stillbirths,Republika Srpska,10.0
+2018,Broj,Muškarci,number_of_stillbirths,Republika Srpska,11.0
+2019,Broj,Muškarci,number_of_stillbirths,Republika Srpska,4.0
+1997,Broj,Žene,number_of_stillbirths,Republika Srpska,39.0
+1998,Broj,Žene,number_of_stillbirths,Republika Srpska,37.0
+1999,Broj,Žene,number_of_stillbirths,Republika Srpska,31.0
+2000,Broj,Žene,number_of_stillbirths,Republika Srpska,25.0
+2001,Broj,Žene,number_of_stillbirths,Republika Srpska,39.0
+2002,Broj,Žene,number_of_stillbirths,Republika Srpska,23.0
+2003,Broj,Žene,number_of_stillbirths,Republika Srpska,20.0
+2004,Broj,Žene,number_of_stillbirths,Republika Srpska,16.0
+2005,Broj,Žene,number_of_stillbirths,Republika Srpska,20.0
+2006,Broj,Žene,number_of_stillbirths,Republika Srpska,7.0
+2007,Broj,Žene,number_of_stillbirths,Republika Srpska,16.0
+2008,Broj,Žene,number_of_stillbirths,Republika Srpska,14.0
+2009,Broj,Žene,number_of_stillbirths,Republika Srpska,11.0
+2010,Broj,Žene,number_of_stillbirths,Republika Srpska,18.0
+2011,Broj,Žene,number_of_stillbirths,Republika Srpska,17.0
+2012,Broj,Žene,number_of_stillbirths,Republika Srpska,14.0
+2013,Broj,Žene,number_of_stillbirths,Republika Srpska,20.0
+2014,Broj,Žene,number_of_stillbirths,Republika Srpska,9.0
+2015,Broj,Žene,number_of_stillbirths,Republika Srpska,9.0
+2016,Broj,Žene,number_of_stillbirths,Republika Srpska,10.0
+2017,Broj,Žene,number_of_stillbirths,Republika Srpska,7.0
+2018,Broj,Žene,number_of_stillbirths,Republika Srpska,7.0
+2019,Broj,Žene,number_of_stillbirths,Republika Srpska,9.0
+1997,Broj,Oba spola,number_of_stillbirths,Republika Srpska,77.0
+1998,Broj,Oba spola,number_of_stillbirths,Republika Srpska,56.0
+1999,Broj,Oba spola,number_of_stillbirths,Republika Srpska,70.0
+2000,Broj,Oba spola,number_of_stillbirths,Republika Srpska,52.0
+2001,Broj,Oba spola,number_of_stillbirths,Republika Srpska,77.0
+2002,Broj,Oba spola,number_of_stillbirths,Republika Srpska,40.0
+2003,Broj,Oba spola,number_of_stillbirths,Republika Srpska,37.0
+2004,Broj,Oba spola,number_of_stillbirths,Republika Srpska,35.0
+2005,Broj,Oba spola,number_of_stillbirths,Republika Srpska,40.0
+2006,Broj,Oba spola,number_of_stillbirths,Republika Srpska,27.0
+2007,Broj,Oba spola,number_of_stillbirths,Republika Srpska,39.0
+2008,Broj,Oba spola,number_of_stillbirths,Republika Srpska,34.0
+2009,Broj,Oba spola,number_of_stillbirths,Republika Srpska,32.0
+2010,Broj,Oba spola,number_of_stillbirths,Republika Srpska,41.0
+2011,Broj,Oba spola,number_of_stillbirths,Republika Srpska,29.0
+2012,Broj,Oba spola,number_of_stillbirths,Republika Srpska,38.0
+2013,Broj,Oba spola,number_of_stillbirths,Republika Srpska,37.0
+2014,Broj,Oba spola,number_of_stillbirths,Republika Srpska,22.0
+2015,Broj,Oba spola,number_of_stillbirths,Republika Srpska,17.0
+2016,Broj,Oba spola,number_of_stillbirths,Republika Srpska,15.0
+2017,Broj,Oba spola,number_of_stillbirths,Republika Srpska,17.0
+2018,Broj,Oba spola,number_of_stillbirths,Republika Srpska,18.0
+2019,Broj,Oba spola,number_of_stillbirths,Republika Srpska,13.0
+2004,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2006,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,1.0
+2007,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,1.0
+2008,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,3.0
+2009,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,6.0
+2010,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2011,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,5.0
+2012,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2013,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,1.0
+2014,Broj,Muškarci,number_of_stillbirths,Brčko Distrikt BiH,1.0
+2004,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,6.0
+2005,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,11.0
+2006,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2007,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,3.0
+2008,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,5.0
+2009,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,6.0
+2010,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,11.0
+2011,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,6.0
+2012,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,9.0
+2013,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,3.0
+2014,Broj,Žene,number_of_stillbirths,Brčko Distrikt BiH,1.0
+2004,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,10.0
+2005,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,11.0
+2006,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,5.0
+2007,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2008,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,8.0
+2009,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,12.0
+2010,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,15.0
+2011,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,11.0
+2012,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,13.0
+2013,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,4.0
+2014,Broj,Oba spola,number_of_stillbirths,Brčko Distrikt BiH,2.0

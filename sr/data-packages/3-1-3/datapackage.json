@@ -16,14 +16,48 @@
             "title": "Година"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Варијабле"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_1000",
+                "number_of_stillbirths",
+                ""
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBiH",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
           },
           {
             "name": "Value",

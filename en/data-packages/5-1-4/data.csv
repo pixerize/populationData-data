@@ -1,74 +1,74 @@
-Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
-2013,NUMBER,_ALL,_T,total_illiterate,89794.0
-2013,NUMBER,_ALL,M,total_illiterate,12237.0
-2013,NUMBER,_ALL,F,total_illiterate,77557.0
-2013,NUMBER, 10-14,_T,of_total_for_age_group,579.0
-2013,NUMBER, 10-14,M,of_total_for_age_group,318.0
-2013,NUMBER, 10-14,F,of_total_for_age_group,261.0
+Year,UNIT_MEASURE,AGE,Sex,ACTIVITY_RATES,Value
+2013,Number,_ALL,Both sexes,total_illiterate,89794.0
+2013,Number,_ALL,M,total_illiterate,12237.0
+2013,Number,_ALL,F,total_illiterate,77557.0
+2013,Number, 10-14,Both sexes,of_total_for_age_group,579.0
+2013,Number, 10-14,M,of_total_for_age_group,318.0
+2013,Number, 10-14,F,of_total_for_age_group,261.0
 2013,_%, 10-14,M,of_total_for_age_group,54.92227979
 2013,_%, 10-14,F,of_total_for_age_group,45.07772021
-2013,NUMBER, 15-19,_T,of_total_for_age_group,763.0
-2013,NUMBER, 15-19,M,of_total_for_age_group,408.0
-2013,NUMBER, 15-19,F,of_total_for_age_group,355.0
+2013,Number, 15-19,Both sexes,of_total_for_age_group,763.0
+2013,Number, 15-19,M,of_total_for_age_group,408.0
+2013,Number, 15-19,F,of_total_for_age_group,355.0
 2013,_%, 15-19,M,of_total_for_age_group,53.47313237
 2013,_%, 15-19,F,of_total_for_age_group,46.52686763
-2013,NUMBER, 20-24,_T,of_total_for_age_group,825.0
-2013,NUMBER, 20-24,M,of_total_for_age_group,419.0
-2013,NUMBER, 20-24,F,of_total_for_age_group,406.0
+2013,Number, 20-24,Both sexes,of_total_for_age_group,825.0
+2013,Number, 20-24,M,of_total_for_age_group,419.0
+2013,Number, 20-24,F,of_total_for_age_group,406.0
 2013,_%, 20-24,M,of_total_for_age_group,50.78787879
 2013,_%, 20-24,F,of_total_for_age_group,49.21212121
-2013,NUMBER, 25-29,_T,of_total_for_age_group,1025.0
-2013,NUMBER, 25-29,M,of_total_for_age_group,539.0
-2013,NUMBER, 25-29,F,of_total_for_age_group,486.0
+2013,Number, 25-29,Both sexes,of_total_for_age_group,1025.0
+2013,Number, 25-29,M,of_total_for_age_group,539.0
+2013,Number, 25-29,F,of_total_for_age_group,486.0
 2013,_%, 25-29,M,of_total_for_age_group,52.58536585
 2013,_%, 25-29,F,of_total_for_age_group,47.41463415
-2013,NUMBER, 30-34,_T,of_total_for_age_group,1082.0
-2013,NUMBER, 30-34,M,of_total_for_age_group,551.0
-2013,NUMBER, 30-34,F,of_total_for_age_group,531.0
+2013,Number, 30-34,Both sexes,of_total_for_age_group,1082.0
+2013,Number, 30-34,M,of_total_for_age_group,551.0
+2013,Number, 30-34,F,of_total_for_age_group,531.0
 2013,_%, 30-34,M,of_total_for_age_group,50.92421442
 2013,_%, 30-34,F,of_total_for_age_group,49.07578558
-2013,NUMBER, 35-39,_T,of_total_for_age_group,1032.0
-2013,NUMBER, 35-39,M,of_total_for_age_group,525.0
-2013,NUMBER, 35-39,F,of_total_for_age_group,507.0
+2013,Number, 35-39,Both sexes,of_total_for_age_group,1032.0
+2013,Number, 35-39,M,of_total_for_age_group,525.0
+2013,Number, 35-39,F,of_total_for_age_group,507.0
 2013,_%, 35-39,M,of_total_for_age_group,50.87209302
 2013,_%, 35-39,F,of_total_for_age_group,49.12790698
-2013,NUMBER,40-44,_T,of_total_for_age_group,1143.0
-2013,NUMBER,40-44,M,of_total_for_age_group,519.0
-2013,NUMBER,40-44,F,of_total_for_age_group,624.0
+2013,Number,40-44,Both sexes,of_total_for_age_group,1143.0
+2013,Number,40-44,M,of_total_for_age_group,519.0
+2013,Number,40-44,F,of_total_for_age_group,624.0
 2013,_%,40-44,M,of_total_for_age_group,45.40682415
 2013,_%,40-44,F,of_total_for_age_group,54.59317585
-2013,NUMBER, 45-49,_T,of_total_for_age_group,1533.0
-2013,NUMBER, 45-49,M,of_total_for_age_group,632.0
-2013,NUMBER, 45-49,F,of_total_for_age_group,901.0
+2013,Number, 45-49,Both sexes,of_total_for_age_group,1533.0
+2013,Number, 45-49,M,of_total_for_age_group,632.0
+2013,Number, 45-49,F,of_total_for_age_group,901.0
 2013,_%, 45-49,M,of_total_for_age_group,41.22635356
 2013,_%, 45-49,F,of_total_for_age_group,58.77364644
-2013,NUMBER, 50-54,_T,of_total_for_age_group,2532.0
-2013,NUMBER, 50-54,M,of_total_for_age_group,679.0
-2013,NUMBER, 50-54,F,of_total_for_age_group,1853.0
+2013,Number, 50-54,Both sexes,of_total_for_age_group,2532.0
+2013,Number, 50-54,M,of_total_for_age_group,679.0
+2013,Number, 50-54,F,of_total_for_age_group,1853.0
 2013,_%, 50-54,M,of_total_for_age_group,26.81674566
 2013,_%, 50-54,F,of_total_for_age_group,73.18325434
-2013,NUMBER, 55-59,_T,of_total_for_age_group,4132.0
-2013,NUMBER, 55-59,M,of_total_for_age_group,764.0
-2013,NUMBER, 55-59,F,of_total_for_age_group,3368.0
+2013,Number, 55-59,Both sexes,of_total_for_age_group,4132.0
+2013,Number, 55-59,M,of_total_for_age_group,764.0
+2013,Number, 55-59,F,of_total_for_age_group,3368.0
 2013,_%, 55-59,M,of_total_for_age_group,18.48983543
 2013,_%, 55-59,F,of_total_for_age_group,81.51016457
-2013,NUMBER, 60-64,_T,of_total_for_age_group,6736.0
-2013,NUMBER, 60-64,M,of_total_for_age_group,771.0
-2013,NUMBER, 60-64,F,of_total_for_age_group,5965.0
+2013,Number, 60-64,Both sexes,of_total_for_age_group,6736.0
+2013,Number, 60-64,M,of_total_for_age_group,771.0
+2013,Number, 60-64,F,of_total_for_age_group,5965.0
 2013,_%, 60-64,M,of_total_for_age_group,11.445962
 2013,_%, 60-64,F,of_total_for_age_group,88.554038
-2013,NUMBER, 65-69,_T,of_total_for_age_group,9306.0
-2013,NUMBER, 65-69,M,of_total_for_age_group,863.0
-2013,NUMBER, 65-69,F,of_total_for_age_group,8443.0
+2013,Number, 65-69,Both sexes,of_total_for_age_group,9306.0
+2013,Number, 65-69,M,of_total_for_age_group,863.0
+2013,Number, 65-69,F,of_total_for_age_group,8443.0
 2013,_%, 65-69,M,of_total_for_age_group,9.273586933
 2013,_%, 65-69,F,of_total_for_age_group,90.72641307
-2013,NUMBER, 70-74,_T,of_total_for_age_group,16476.0
-2013,NUMBER, 70-74,M,of_total_for_age_group,1311.0
-2013,NUMBER, 70-74,F,of_total_for_age_group,15165.0
+2013,Number, 70-74,Both sexes,of_total_for_age_group,16476.0
+2013,Number, 70-74,M,of_total_for_age_group,1311.0
+2013,Number, 70-74,F,of_total_for_age_group,15165.0
 2013,_%, 70-74,M,of_total_for_age_group,7.957028405
 2013,_%, 70-74,F,of_total_for_age_group,92.0429716
-2013,NUMBER, 75+,_T,of_total_for_age_group,42630.0
-2013,NUMBER, 75+,M,of_total_for_age_group,3938.0
-2013,NUMBER, 75+,F,of_total_for_age_group,38692.0
+2013,Number, 75+,Both sexes,of_total_for_age_group,42630.0
+2013,Number, 75+,M,of_total_for_age_group,3938.0
+2013,Number, 75+,F,of_total_for_age_group,38692.0
 2013,_%, 75+,M,of_total_for_age_group,9.237626085
 2013,_%, 75+,F,of_total_for_age_group,90.76237392

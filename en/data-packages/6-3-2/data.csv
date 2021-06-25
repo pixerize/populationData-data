@@ -1,10 +1,10 @@
-Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
-2006,_%,15+,_T,employed_as_of_working,29.7
-2006,_%,15 - 24,_T,employed_as_of_working,12.6
-2006,_%,25 - 49,_T,employed_as_of_working,46.5
-2006,_%,50 - 64,_T,employed_as_of_working,30.6
-2006,_%,65+,_T,employed_as_of_working,5.5
-2006,_%,15 - 64,_T,employed_as_of_working,35.0
+Year,UNIT_MEASURE,AGE,Sex,ACTIVITY_RATES,Value
+2006,_%,15+,Both sexes,employed_as_of_working,29.7
+2006,_%,15 - 24,Both sexes,employed_as_of_working,12.6
+2006,_%,25 - 49,Both sexes,employed_as_of_working,46.5
+2006,_%,50 - 64,Both sexes,employed_as_of_working,30.6
+2006,_%,65+,Both sexes,employed_as_of_working,5.5
+2006,_%,15 - 64,Both sexes,employed_as_of_working,35.0
 2006,_%,15+,M,employed_as_of_working,39.9
 2006,_%,15 - 24,M,employed_as_of_working,16.0
 2006,_%,25 - 49,M,employed_as_of_working,60.0
@@ -17,12 +17,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2006,_%,50 - 64,F,employed_as_of_working,18.7
 2006,_%,65+,F,employed_as_of_working,4.0
 2006,_%,15 - 64,F,employed_as_of_working,24.0
-2007,_%,15+,_T,employed_as_of_working,31.2
-2007,_%,15 - 24,_T,employed_as_of_working,13.9
-2007,_%,25 - 49,_T,employed_as_of_working,48.8
-2007,_%,50 - 64,_T,employed_as_of_working,31.9
-2007,_%,65+,_T,employed_as_of_working,5.7
-2007,_%,15 - 64,_T,employed_as_of_working,36.8
+2007,_%,15+,Both sexes,employed_as_of_working,31.2
+2007,_%,15 - 24,Both sexes,employed_as_of_working,13.9
+2007,_%,25 - 49,Both sexes,employed_as_of_working,48.8
+2007,_%,50 - 64,Both sexes,employed_as_of_working,31.9
+2007,_%,65+,Both sexes,employed_as_of_working,5.7
+2007,_%,15 - 64,Both sexes,employed_as_of_working,36.8
 2007,_%,15+,M,employed_as_of_working,42.3
 2007,_%,15 - 24,M,employed_as_of_working,18.1
 2007,_%,25 - 49,M,employed_as_of_working,63.6
@@ -35,12 +35,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2007,_%,50 - 64,F,employed_as_of_working,19.7
 2007,_%,65+,F,employed_as_of_working,3.6
 2007,_%,15 - 64,F,employed_as_of_working,25.0
-2008,_%,15+,_T,employed_as_of_working,33.6
-2008,_%,15 - 24,_T,employed_as_of_working,17.4
-2008,_%,25 - 49,_T,employed_as_of_working,53.4
-2008,_%,50 - 64,_T,employed_as_of_working,34.4
-2008,_%,65+,_T,employed_as_of_working,5.4
-2008,_%,15 - 64,_T,employed_as_of_working,40.7
+2008,_%,15+,Both sexes,employed_as_of_working,33.6
+2008,_%,15 - 24,Both sexes,employed_as_of_working,17.4
+2008,_%,25 - 49,Both sexes,employed_as_of_working,53.4
+2008,_%,50 - 64,Both sexes,employed_as_of_working,34.4
+2008,_%,65+,Both sexes,employed_as_of_working,5.4
+2008,_%,15 - 64,Both sexes,employed_as_of_working,40.7
 2008,_%,15+,M,employed_as_of_working,44.9
 2008,_%,15 - 24,M,employed_as_of_working,22.1
 2008,_%,25 - 49,M,employed_as_of_working,68.8
@@ -53,12 +53,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2008,_%,50 - 64,F,employed_as_of_working,22.4
 2008,_%,65+,F,employed_as_of_working,3.2
 2008,_%,15 - 64,F,employed_as_of_working,28.7
-2009,_%,15+,_T,employed_as_of_working,33.1
-2009,_%,15 - 24,_T,employed_as_of_working,16.7
-2009,_%,25 - 49,_T,employed_as_of_working,53.5
-2009,_%,50 - 64,_T,employed_as_of_working,34.0
-2009,_%,65+,_T,employed_as_of_working,4.2
-2009,_%,15 - 64,_T,employed_as_of_working,40.1
+2009,_%,15+,Both sexes,employed_as_of_working,33.1
+2009,_%,15 - 24,Both sexes,employed_as_of_working,16.7
+2009,_%,25 - 49,Both sexes,employed_as_of_working,53.5
+2009,_%,50 - 64,Both sexes,employed_as_of_working,34.0
+2009,_%,65+,Both sexes,employed_as_of_working,4.2
+2009,_%,15 - 64,Both sexes,employed_as_of_working,40.1
 2009,_%,15+,M,employed_as_of_working,43.2
 2009,_%,15 - 24,M,employed_as_of_working,21.7
 2009,_%,25 - 49,M,employed_as_of_working,67.4
@@ -71,12 +71,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2009,_%,50 - 64,F,employed_as_of_working,23.6
 2009,_%,65+,F,employed_as_of_working,3.1
 2009,_%,15 - 64,F,employed_as_of_working,29.3
-2010,_%,15+,_T,employed_as_of_working,32.5
-2010,_%,15 - 24,_T,employed_as_of_working,14.0
-2010,_%,25 - 49,_T,employed_as_of_working,52.5
-2010,_%,50 - 64,_T,employed_as_of_working,33.3
-2010,_%,65+,_T,employed_as_of_working,4.6
-2010,_%,15 - 64,_T,employed_as_of_working,39.0
+2010,_%,15+,Both sexes,employed_as_of_working,32.5
+2010,_%,15 - 24,Both sexes,employed_as_of_working,14.0
+2010,_%,25 - 49,Both sexes,employed_as_of_working,52.5
+2010,_%,50 - 64,Both sexes,employed_as_of_working,33.3
+2010,_%,65+,Both sexes,employed_as_of_working,4.6
+2010,_%,15 - 64,Both sexes,employed_as_of_working,39.0
 2010,_%,15+,M,employed_as_of_working,42.2
 2010,_%,15 - 24,M,employed_as_of_working,17.8
 2010,_%,25 - 49,M,employed_as_of_working,65.6
@@ -89,12 +89,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2010,_%,50 - 64,F,employed_as_of_working,23.6
 2010,_%,65+,F,employed_as_of_working,3.2
 2010,_%,15 - 64,F,employed_as_of_working,28.6
-2011,_%,15+,_T,employed_as_of_working,31.9
-2011,_%,15 - 24,_T,employed_as_of_working,13.2
-2011,_%,25 - 49,_T,employed_as_of_working,52.1
-2011,_%,50 - 64,_T,employed_as_of_working,33.6
-2011,_%,65+,_T,employed_as_of_working,3.6
-2011,_%,15 - 64,_T,employed_as_of_working,38.7
+2011,_%,15+,Both sexes,employed_as_of_working,31.9
+2011,_%,15 - 24,Both sexes,employed_as_of_working,13.2
+2011,_%,25 - 49,Both sexes,employed_as_of_working,52.1
+2011,_%,50 - 64,Both sexes,employed_as_of_working,33.6
+2011,_%,65+,Both sexes,employed_as_of_working,3.6
+2011,_%,15 - 64,Both sexes,employed_as_of_working,38.7
 2011,_%,15+,M,employed_as_of_working,41.3
 2011,_%,15 - 24,M,employed_as_of_working,16.9
 2011,_%,25 - 49,M,employed_as_of_working,64.5
@@ -107,12 +107,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2011,_%,50 - 64,F,employed_as_of_working,24.6
 2011,_%,65+,F,employed_as_of_working,2.6
 2011,_%,15 - 64,F,employed_as_of_working,28.7
-2012,_%,15+,_T,employed_as_of_working,31.7
-2012,_%,15 - 24,_T,employed_as_of_working,10.8
-2012,_%,25 - 49,_T,employed_as_of_working,52.2
-2012,_%,50 - 64,_T,employed_as_of_working,35.0
-2012,_%,65+,_T,employed_as_of_working,4.8
-2012,_%,15 - 64,_T,employed_as_of_working,38.5
+2012,_%,15+,Both sexes,employed_as_of_working,31.7
+2012,_%,15 - 24,Both sexes,employed_as_of_working,10.8
+2012,_%,25 - 49,Both sexes,employed_as_of_working,52.2
+2012,_%,50 - 64,Both sexes,employed_as_of_working,35.0
+2012,_%,65+,Both sexes,employed_as_of_working,4.8
+2012,_%,15 - 64,Both sexes,employed_as_of_working,38.5
 2012,_%,15+,M,employed_as_of_working,41.5
 2012,_%,15 - 24,M,employed_as_of_working,14.1
 2012,_%,25 - 49,M,employed_as_of_working,64.9
@@ -125,12 +125,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2012,_%,50 - 64,F,employed_as_of_working,24.6
 2012,_%,65+,F,employed_as_of_working,3.4
 2012,_%,15 - 64,F,employed_as_of_working,28.1
-2013,_%,15+,_T,employed_as_of_working,31.6
-2013,_%,15 - 24,_T,employed_as_of_working,11.6
-2013,_%,25 - 49,_T,employed_as_of_working,52.7
-2013,_%,50 - 64,_T,employed_as_of_working,34.4
-2013,_%,65+,_T,employed_as_of_working,4.1
-2013,_%,15 - 64,_T,employed_as_of_working,38.5
+2013,_%,15+,Both sexes,employed_as_of_working,31.6
+2013,_%,15 - 24,Both sexes,employed_as_of_working,11.6
+2013,_%,25 - 49,Both sexes,employed_as_of_working,52.7
+2013,_%,50 - 64,Both sexes,employed_as_of_working,34.4
+2013,_%,65+,Both sexes,employed_as_of_working,4.1
+2013,_%,15 - 64,Both sexes,employed_as_of_working,38.5
 2013,_%,15+,M,employed_as_of_working,40.6
 2013,_%,15 - 24,M,employed_as_of_working,14.9
 2013,_%,25 - 49,M,employed_as_of_working,64.3
@@ -143,12 +143,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2013,_%,50 - 64,F,employed_as_of_working,24.4
 2013,_%,65+,F,employed_as_of_working,2.7
 2013,_%,15 - 64,F,employed_as_of_working,28.9
-2014,_%,15+,_T,employed_as_of_working,31.7
-2014,_%,15 - 24,_T,employed_as_of_working,10.9
-2014,_%,25 - 49,_T,employed_as_of_working,53.3
-2014,_%,50 - 64,_T,employed_as_of_working,35.3
-2014,_%,65+,_T,employed_as_of_working,4.5
-2014,_%,15 - 64,_T,employed_as_of_working,39.0
+2014,_%,15+,Both sexes,employed_as_of_working,31.7
+2014,_%,15 - 24,Both sexes,employed_as_of_working,10.9
+2014,_%,25 - 49,Both sexes,employed_as_of_working,53.3
+2014,_%,50 - 64,Both sexes,employed_as_of_working,35.3
+2014,_%,65+,Both sexes,employed_as_of_working,4.5
+2014,_%,15 - 64,Both sexes,employed_as_of_working,39.0
 2014,_%,15+,M,employed_as_of_working,41.2
 2014,_%,15 - 24,M,employed_as_of_working,13.5
 2014,_%,25 - 49,M,employed_as_of_working,65.3
@@ -161,12 +161,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2014,_%,50 - 64,F,employed_as_of_working,24.5
 2014,_%,65+,F,employed_as_of_working,3.0
 2014,_%,15 - 64,F,employed_as_of_working,28.9
-2015,_%,15+,_T,employed_as_of_working,31.9
-2015,_%,15 - 24,_T,employed_as_of_working,12.1
-2015,_%,25 - 49,_T,employed_as_of_working,53.9
-2015,_%,50 - 64,_T,employed_as_of_working,34.7
-2015,_%,65+,_T,employed_as_of_working,4.2
-2015,_%,15 - 64,_T,employed_as_of_working,39.2
+2015,_%,15+,Both sexes,employed_as_of_working,31.9
+2015,_%,15 - 24,Both sexes,employed_as_of_working,12.1
+2015,_%,25 - 49,Both sexes,employed_as_of_working,53.9
+2015,_%,50 - 64,Both sexes,employed_as_of_working,34.7
+2015,_%,65+,Both sexes,employed_as_of_working,4.2
+2015,_%,15 - 64,Both sexes,employed_as_of_working,39.2
 2015,_%,15+,M,employed_as_of_working,40.9
 2015,_%,15 - 24,M,employed_as_of_working,15.8
 2015,_%,25 - 49,M,employed_as_of_working,66.1
@@ -179,12 +179,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2015,_%,50 - 64,F,employed_as_of_working,25.1
 2015,_%,65+,F,employed_as_of_working,3.0
 2015,_%,15 - 64,F,employed_as_of_working,29.5
-2016,_%,15+,_T,employed_as_of_working,32.2
-2016,_%,15 - 24,_T,employed_as_of_working,13.8
-2016,_%,25 - 49,_T,employed_as_of_working,54.4
-2016,_%,50 - 64,_T,employed_as_of_working,36.8
-2016,_%,65+,_T,employed_as_of_working,3.7
-2016,_%,15 - 64,_T,employed_as_of_working,40.2
+2016,_%,15+,Both sexes,employed_as_of_working,32.2
+2016,_%,15 - 24,Both sexes,employed_as_of_working,13.8
+2016,_%,25 - 49,Both sexes,employed_as_of_working,54.4
+2016,_%,50 - 64,Both sexes,employed_as_of_working,36.8
+2016,_%,65+,Both sexes,employed_as_of_working,3.7
+2016,_%,15 - 64,Both sexes,employed_as_of_working,40.2
 2016,_%,15+,M,employed_as_of_working,42.5
 2016,_%,15 - 24,M,employed_as_of_working,18.3
 2016,_%,25 - 49,M,employed_as_of_working,67.6
@@ -197,12 +197,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2016,_%,50 - 64,F,employed_as_of_working,25.2
 2016,_%,65+,F,employed_as_of_working,2.6
 2016,_%,15 - 64,F,employed_as_of_working,29.1
-2017,_%,15+,_T,employed_as_of_working,33.9
-2017,_%,15 - 24,_T,employed_as_of_working,17.6
-2017,_%,25 - 49,_T,employed_as_of_working,58.1
-2017,_%,50 - 64,_T,employed_as_of_working,38.2
-2017,_%,65+,_T,employed_as_of_working,5.1
-2017,_%,15 - 64,_T,employed_as_of_working,43.0
+2017,_%,15+,Both sexes,employed_as_of_working,33.9
+2017,_%,15 - 24,Both sexes,employed_as_of_working,17.6
+2017,_%,25 - 49,Both sexes,employed_as_of_working,58.1
+2017,_%,50 - 64,Both sexes,employed_as_of_working,38.2
+2017,_%,65+,Both sexes,employed_as_of_working,5.1
+2017,_%,15 - 64,Both sexes,employed_as_of_working,43.0
 2017,_%,15+,M,employed_as_of_working,43.2
 2017,_%,15 - 24,M,employed_as_of_working,22.8
 2017,_%,25 - 49,M,employed_as_of_working,70.5
@@ -215,12 +215,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2017,_%,50 - 64,F,employed_as_of_working,27.2
 2017,_%,65+,F,employed_as_of_working,3.8
 2017,_%,15 - 64,F,employed_as_of_working,32.5
-2018,_%,15+,_T,employed_as_of_working,34.3
-2018,_%,15 - 24,_T,employed_as_of_working,19.7
-2018,_%,25 - 49,_T,employed_as_of_working,58.9
-2018,_%,50 - 64,_T,employed_as_of_working,39.6
-2018,_%,65+,_T,employed_as_of_working,4.6
-2018,_%,15 - 64,_T,employed_as_of_working,44.0
+2018,_%,15+,Both sexes,employed_as_of_working,34.3
+2018,_%,15 - 24,Both sexes,employed_as_of_working,19.7
+2018,_%,25 - 49,Both sexes,employed_as_of_working,58.9
+2018,_%,50 - 64,Both sexes,employed_as_of_working,39.6
+2018,_%,65+,Both sexes,employed_as_of_working,4.6
+2018,_%,15 - 64,Both sexes,employed_as_of_working,44.0
 2018,_%,15+,M,employed_as_of_working,44.1
 2018,_%,15 - 24,M,employed_as_of_working,26.1
 2018,_%,25 - 49,M,employed_as_of_working,71.8
@@ -233,12 +233,12 @@ Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
 2018,_%,50 - 64,F,employed_as_of_working,28.9
 2018,_%,65+,F,employed_as_of_working,3.6
 2018,_%,15 - 64,F,employed_as_of_working,33.0
-2019,_%,15+,_T,employed_as_of_working,35.5
-2019,_%,15 - 24,_T,employed_as_of_working,23.4
-2019,_%,25 - 49,_T,employed_as_of_working,60.7
-2019,_%,50 - 64,_T,employed_as_of_working,42.2
-2019,_%,65+,_T,employed_as_of_working,6.8
-2019,_%,15 - 64,_T,employed_as_of_working,46.4
+2019,_%,15+,Both sexes,employed_as_of_working,35.5
+2019,_%,15 - 24,Both sexes,employed_as_of_working,23.4
+2019,_%,25 - 49,Both sexes,employed_as_of_working,60.7
+2019,_%,50 - 64,Both sexes,employed_as_of_working,42.2
+2019,_%,65+,Both sexes,employed_as_of_working,6.8
+2019,_%,15 - 64,Both sexes,employed_as_of_working,46.4
 2019,_%,15+,M,employed_as_of_working,44.6
 2019,_%,15 - 24,M,employed_as_of_working,27.4
 2019,_%,25 - 49,M,employed_as_of_working,73.0

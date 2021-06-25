@@ -1,26 +1,26 @@
-Year,UNIT_MEASURE,Entity,SEX,Value
-1998,%,BiH,_T,66.1
-1999,%,BiH,_T,66.6
-2000,%,BiH,_T,66.8
-2001,%,BiH,_T,67.2
-2002,%,BiH,_T,67.8
-2003,%,BiH,_T,68.4
-2004,%,BiH,_T,68.9
-2005,%,BiH,_T,69.3
-2006,%,BiH,_T,69.4
-2007,%,BiH,_T,69.6
-2008,%,BiH,_T,70.2
-2009,%,BiH,_T,70.8
-2010,%,BiH,_T,71.6
-2011,%,BiH,_T,72.1
-2012,%,BiH,_T,72.5
-2013,%,BiH,_T,72.7
-2014,%,BiH,_T,73.0
-2015,%,BiH,_T,73.4
-2016,%,BiH,_T,73.4
-2017,%,BiH,_T,73.9
-2018,%,BiH,_T,74.1
-2019,%,BiH,_T,74.1
+Year,UNIT_MEASURE,Entity,Sex,Value
+1998,%,BiH,Both sexes,66.1
+1999,%,BiH,Both sexes,66.6
+2000,%,BiH,Both sexes,66.8
+2001,%,BiH,Both sexes,67.2
+2002,%,BiH,Both sexes,67.8
+2003,%,BiH,Both sexes,68.4
+2004,%,BiH,Both sexes,68.9
+2005,%,BiH,Both sexes,69.3
+2006,%,BiH,Both sexes,69.4
+2007,%,BiH,Both sexes,69.6
+2008,%,BiH,Both sexes,70.2
+2009,%,BiH,Both sexes,70.8
+2010,%,BiH,Both sexes,71.6
+2011,%,BiH,Both sexes,72.1
+2012,%,BiH,Both sexes,72.5
+2013,%,BiH,Both sexes,72.7
+2014,%,BiH,Both sexes,73.0
+2015,%,BiH,Both sexes,73.4
+2016,%,BiH,Both sexes,73.4
+2017,%,BiH,Both sexes,73.9
+2018,%,BiH,Both sexes,74.1
+2019,%,BiH,Both sexes,74.1
 2003,%,BiH,M,31.6
 2004,%,BiH,M,48.0
 2009,%,BiH,M,63.3
@@ -69,29 +69,29 @@ Year,UNIT_MEASURE,Entity,SEX,Value
 2011,%,BiH,F,76.5
 2012,%,BiH,F,76.8
 2013,%,BiH,F,76.9
-1997,%,FBIH,_T,64.3
-1998,%,FBIH,_T,63.8
-1999,%,FBIH,_T,65.7
-2000,%,FBIH,_T,66.5
-2001,%,FBIH,_T,67.1
-2002,%,FBIH,_T,67.3
-2003,%,FBIH,_T,68.2
-2004,%,FBIH,_T,68.6
-2005,%,FBIH,_T,69.1
-2006,%,FBIH,_T,69.0
-2007,%,FBIH,_T,69.3
-2008,%,FBIH,_T,69.5
-2009,%,FBIH,_T,70.2
-2010,%,FBIH,_T,70.5
-2011,%,FBIH,_T,70.8
-2012,%,FBIH,_T,71.3
-2013,%,FBIH,_T,71.6
-2014,%,FBIH,_T,72.0
-2015,%,FBIH,_T,72.3
-2016,%,FBIH,_T,72.3
-2017,%,FBIH,_T,72.5
-2018,%,FBIH,_T,73.0
-2019,%,FBIH,_T,73.0
+1997,%,FBIH,Both sexes,64.3
+1998,%,FBIH,Both sexes,63.8
+1999,%,FBIH,Both sexes,65.7
+2000,%,FBIH,Both sexes,66.5
+2001,%,FBIH,Both sexes,67.1
+2002,%,FBIH,Both sexes,67.3
+2003,%,FBIH,Both sexes,68.2
+2004,%,FBIH,Both sexes,68.6
+2005,%,FBIH,Both sexes,69.1
+2006,%,FBIH,Both sexes,69.0
+2007,%,FBIH,Both sexes,69.3
+2008,%,FBIH,Both sexes,69.5
+2009,%,FBIH,Both sexes,70.2
+2010,%,FBIH,Both sexes,70.5
+2011,%,FBIH,Both sexes,70.8
+2012,%,FBIH,Both sexes,71.3
+2013,%,FBIH,Both sexes,71.6
+2014,%,FBIH,Both sexes,72.0
+2015,%,FBIH,Both sexes,72.3
+2016,%,FBIH,Both sexes,72.3
+2017,%,FBIH,Both sexes,72.5
+2018,%,FBIH,Both sexes,73.0
+2019,%,FBIH,Both sexes,73.0
 2008,%,FBIH,M,61.6
 2009,%,FBIH,M,61.3
 2010,%,FBIH,M,63.2
@@ -138,16 +138,16 @@ Year,UNIT_MEASURE,Entity,SEX,Value
 2011,%,FBIH,F,75.0
 2012,%,FBIH,F,75.5
 2013,%,FBIH,F,75.6
-2010,%,RS,_T,72.1
-2011,%,RS,_T,72.5
-2012,%,RS,_T,73.0
-2013,%,RS,_T,73.0
-2014,%,RS,_T,73.0
-2015,%,RS,_T,73.7
-2016,%,RS,_T,73.8
-2017,%,RS,_T,74.5
-2018,%,RS,_T,74.5
-2019,%,RS,_T,74.5
+2010,%,RS,Both sexes,72.1
+2011,%,RS,Both sexes,72.5
+2012,%,RS,Both sexes,73.0
+2013,%,RS,Both sexes,73.0
+2014,%,RS,Both sexes,73.0
+2015,%,RS,Both sexes,73.7
+2016,%,RS,Both sexes,73.8
+2017,%,RS,Both sexes,74.5
+2018,%,RS,Both sexes,74.5
+2019,%,RS,Both sexes,74.5
 2009,%,RS,M,64.9
 2011,%,RS,M,65.2
 2012,%,RS,M,66.5
@@ -190,22 +190,22 @@ Year,UNIT_MEASURE,Entity,SEX,Value
 2011,%,RS,F,77.4
 2012,%,RS,F,77.4
 2013,%,RS,F,77.4
-2004,%,BD,_T,70.6
-2005,%,BD,_T,71.2
-2006,%,BD,_T,71.5
-2007,%,BD,_T,70.3
-2008,%,BD,_T,70.7
-2009,%,BD,_T,71.5
-2010,%,BD,_T,72.1
-2011,%,BD,_T,73.3
-2012,%,BD,_T,70.9
-2013,%,BD,_T,73.2
-2014,%,BD,_T,71.7
-2015,%,BD,_T,76.2
-2016,%,BD,_T,75.3
-2017,%,BD,_T,75.5
-2018,%,BD,_T,75.2
-2019,%,BD,_T,75.8
+2004,%,BD,Both sexes,70.6
+2005,%,BD,Both sexes,71.2
+2006,%,BD,Both sexes,71.5
+2007,%,BD,Both sexes,70.3
+2008,%,BD,Both sexes,70.7
+2009,%,BD,Both sexes,71.5
+2010,%,BD,Both sexes,72.1
+2011,%,BD,Both sexes,73.3
+2012,%,BD,Both sexes,70.9
+2013,%,BD,Both sexes,73.2
+2014,%,BD,Both sexes,71.7
+2015,%,BD,Both sexes,76.2
+2016,%,BD,Both sexes,75.3
+2017,%,BD,Both sexes,75.5
+2018,%,BD,Both sexes,75.2
+2019,%,BD,Both sexes,75.8
 2015,%,BD,M,68.1
 2016,%,BD,M,68.4
 2017,%,BD,M,68.5

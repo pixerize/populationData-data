@@ -29,7 +29,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -88,15 +88,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -174,15 +174,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -199,6 +199,74 @@
       "title": "Population by age groups and sex"
     },
     {
+      "path": "3-2-2 copy/data.csv",
+      "name": "3-2-2 copy",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BD",
+                "BiH",
+                "FBiH",
+                "RS"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "number_of_stillbirths",
+                "per_1000"
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-2-2 copy"
+    },
+    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -209,14 +277,41 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "CAUSE_OF_DEATH",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "diseases_of_the_blood",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_digestive",
+                "diseases_of_the_eye",
+                "diseases_of_the_genitourinary",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_nervous",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_skin",
+                "endocrine_metabolic_and_nutritional",
+                "estimated_number_of_population",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "infectious_and_parasitic",
+                "injuries_poisoning_and_consequences",
+                "mental_and_behavioural_disorders",
+                "neoplasms",
+                "pregnancy_childbirth_and_the",
+                "symptoms_signs_and_abnormal",
+                "unknown"
+              ]
+            },
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -287,15 +382,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -310,6 +405,74 @@
         ]
       },
       "title": "global_indicators.4-1-4-title"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BD",
+                "BiH",
+                "FBiH",
+                "RS"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "number_of_stillbirths",
+                "per_1000"
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-2-2"
     },
     {
       "path": "1-7-1/data.csv",
@@ -331,12 +494,12 @@
                 "M"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -372,12 +535,12 @@
                 "M"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -460,15 +623,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -554,7 +717,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -606,7 +769,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -654,15 +817,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -716,7 +879,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -881,15 +1044,15 @@
               "enum": [
                 "",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1034,15 +1197,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1090,15 +1253,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1161,15 +1324,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1217,15 +1380,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1240,6 +1403,74 @@
         ]
       },
       "title": "Dependency ratios at state and entity level by sex"
+    },
+    {
+      "path": "3-1-4/data.csv",
+      "name": "3-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BD",
+                "BiH",
+                "FBiH",
+                "RS"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "number_of_stillbirths",
+                "per_1000"
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-1-4"
     },
     {
       "path": "1-5-1/data.csv",
@@ -1268,7 +1499,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1324,7 +1555,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1375,15 +1606,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1434,12 +1665,12 @@
                 "M"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1517,15 +1748,15 @@
               "enum": [
                 "",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1591,15 +1822,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1613,7 +1844,7 @@
           }
         ]
       },
-      "title": "Work in progress"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "5-1-2/data.csv",
@@ -1647,15 +1878,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1705,12 +1936,12 @@
                 "M"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1771,15 +2002,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1822,7 +2053,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -1874,7 +2105,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2089,15 +2320,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2124,14 +2355,48 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Entity",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "BD",
+                "BiH",
+                "FBiH",
+                "RS"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "number_of_stillbirths",
+                "per_1000"
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2192,7 +2457,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2253,15 +2518,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2322,15 +2587,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2431,7 +2696,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2574,7 +2839,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2644,12 +2909,12 @@
                 "M"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2709,12 +2974,12 @@
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2757,7 +3022,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2772,6 +3037,80 @@
         ]
       },
       "title": "Natural growth rate by entity"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BD",
+                "BiH",
+                "FBiH",
+                "RS"
+              ]
+            },
+            "title": "Entity"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female_population",
+                "male_population",
+                "number_of_beds_in_hospitals",
+                "number_of_beds_in_hospitals_per_100000_population",
+                "number_of_caesarean_sections",
+                "number_of_caesarean_sections_per_1000_live_births",
+                "number_of_general_practitioners",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population",
+                "number_of_midwives",
+                "number_of_new_cases_of_AIDS_clinically_diagnosed",
+                "number_of_new_cases_of_HIV",
+                "number_of_new_cases_of_HIV_per_100000_population",
+                "number_of_new_cases_of_cervical_cancer",
+                "number_of_new_cases_of_cervical_cancer_per_100000_female_population",
+                "number_of_new_cases_of_female_breast_cancer",
+                "number_of_new_cases_of_female_breast_cancer_per_100000",
+                "number_of_new_cases_of_gonorrhea",
+                "number_of_new_cases_of_syphilis",
+                "number_of_population_per_general_practitioner",
+                "total_population_(as_per_Public_Health_Institute_or_NSO_reports)"
+              ]
+            },
+            "title": "health_indicators"
+          }
+        ]
+      },
+      "title": "3-2-1"
     },
     {
       "path": "6-2-2/data.csv",
@@ -2813,7 +3152,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2861,7 +3200,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -2904,7 +3243,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -3071,15 +3410,15 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Both sexes"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit measure"
           },
           {
             "name": "Value",

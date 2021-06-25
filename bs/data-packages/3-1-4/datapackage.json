@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_1000",
+                "number_of_stillbirths",
+                ""
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-4",
+  "title": "3-1-4"
+}

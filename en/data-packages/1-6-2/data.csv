@@ -1,431 +1,431 @@
-Year,INFANT_MORTALITY,UNIT_MEASURE,Entity,SEX,Value
-1971,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,22.0
-1981,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,17.2
-1991,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,14.9
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,14.01468
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,12.41812509
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,10.97607039
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,10.14977393
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,9.680762328
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,7.609300846
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,9.385449743
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,7.60628938
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,7.197519274
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.728853207
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,7.492727647
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.827249889
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.876170412
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.483357453
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.442376521
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,5.784162711
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,5.438289243
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,5.898839786
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,5.153957975
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.113537118
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,5.897359441
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.490066225
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.210336987
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,6.699576869
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,14.75530781
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,14.58670989
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,12.89220918
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,11.18506193
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,10.7806145
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,8.195876289
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,10.43886976
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,8.40152755
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,8.327358959
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,7.473169635
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,9.004388215
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,7.528230866
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,7.44953085
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.44408644
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,7.235052382
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.714657311
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.611078023
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.883485949
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,4.744502148
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.140580089
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,7.062865869
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.698991961
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,5.96017815
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,M,6.889099014
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,13.20057668
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,10.04329004
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,8.896302474
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,9.074323027
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,8.509083316
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.988043894
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,8.270676692
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.743965925
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,5.993653778
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,5.941770648
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,5.883780177
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.07324704
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.268458803
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.526074083
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,5.599655406
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,4.777486911
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,4.188614584
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,4.848811368
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,5.589257719
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.084912184
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,4.631229695
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.264628941
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.47932953
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.492548325
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,13.8
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,12.97224813
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,12.13468869
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,11.15720212
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,11.03578748
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.909984179
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,10.5371812
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.718922652
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.539325843
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.844715966
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,9.48986205
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.887865531
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.464223386
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.550298957
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.684746671
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.642170718
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.473546945
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.346736163
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.38832998
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.95536729
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.479012974
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.171912833
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.3602307
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,9.267994894
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,15.36662769
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,14.37836515
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,12.2173852
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,12.45415648
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.556977403
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,11.56553805
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.09683026
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.323806204
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.01151768
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,11.33220309
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.09474896
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.377664109
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.325698889
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.08225932
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.717450518
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.620584544
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.468867289
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,6.18556701
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.498583569
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.517720775
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.490289841
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.314514473
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.526867908
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,10.3408187
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.711945032
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,10.05684303
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.524584826
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.225516237
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.453131902
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.216959856
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.703731205
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.607776839
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.503607504
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.580118979
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.506702413
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.791972456
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.191664356
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,5.482670844
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,5.233572398
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.151322534
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.601340897
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.388642601
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.355258977
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.831262399
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.408867533
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.98928201
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,14.59675446
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,11.33968162
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,8.279736823
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,8.206896552
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,7.258121345
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,5.328856121
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,7.214656291
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,6.073835057
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,5.73955589
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.584576632
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.75104523
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.758654797
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.922337713
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.809959445
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.336257022
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.497437507
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.708157947
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.470031546
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.106588109
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.778668377
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.43334744
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.784023985
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,1.776755853
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,1.617425059
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,15.54648241
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,12.95986622
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.461940404
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.196645929
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.787949173
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.813129165
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,8.326787117
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.871559633
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.796917498
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.772161449
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.793309662
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.459542572
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.800836184
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.199928277
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.858024691
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.191693291
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,4.912556494
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,4.279600571
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,2.269913331
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.858736059
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.447576556
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,2.660663119
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.399720056
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.426533524
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,13.57082273
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,9.57301322
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.981073534
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,7.177033493
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.693830035
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.814926271
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.029140847
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.290544525
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.520438099
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.386454183
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.672917069
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.075810067
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.051863857
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.377238361
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.835784808
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.733801889
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.454489671
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.606995438
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.009801738
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.765227021
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,1.327140013
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.919380193
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.189621196
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,1.831921227
-1996,number_of_infant_deaths,NUMBER,BiH,_T,653.0
-1997,number_of_infant_deaths,NUMBER,BiH,_T,601.0
-1998,number_of_infant_deaths,NUMBER,BiH,_T,494.0
-1999,number_of_infant_deaths,NUMBER,BiH,_T,431.0
-2000,number_of_infant_deaths,NUMBER,BiH,_T,383.0
-2001,number_of_infant_deaths,NUMBER,BiH,_T,287.0
-2002,number_of_infant_deaths,NUMBER,BiH,_T,334.0
-2003,number_of_infant_deaths,NUMBER,BiH,_T,268.0
-2004,number_of_infant_deaths,NUMBER,BiH,_T,253.0
-2005,number_of_infant_deaths,NUMBER,BiH,_T,233.0
-2006,number_of_infant_deaths,NUMBER,BiH,_T,255.0
-2007,number_of_infant_deaths,NUMBER,BiH,_T,231.0
-2008,number_of_infant_deaths,NUMBER,BiH,_T,235.0
-2009,number_of_infant_deaths,NUMBER,BiH,_T,224.0
-2010,number_of_infant_deaths,NUMBER,BiH,_T,216.0
-2011,number_of_infant_deaths,NUMBER,BiH,_T,184.0
-2012,number_of_infant_deaths,NUMBER,BiH,_T,177.0
-2013,number_of_infant_deaths,NUMBER,BiH,_T,181.0
-2014,number_of_infant_deaths,NUMBER,BiH,_T,156.0
-2015,number_of_infant_deaths,NUMBER,BiH,_T,182.0
-2016,number_of_infant_deaths,NUMBER,BiH,_T,178.0
-2017,number_of_infant_deaths,NUMBER,BiH,_T,196.0
-2018,number_of_infant_deaths,NUMBER,BiH,_T,183.0
-2019,number_of_infant_deaths,NUMBER,BiH,_T,190.0
-1996,number_of_infant_deaths,NUMBER,BiH,M,360.0
-1997,number_of_infant_deaths,NUMBER,BiH,M,369.0
-1998,number_of_infant_deaths,NUMBER,BiH,M,302.0
-1999,number_of_infant_deaths,NUMBER,BiH,M,242.0
-2000,number_of_infant_deaths,NUMBER,BiH,M,220.0
-2001,number_of_infant_deaths,NUMBER,BiH,M,159.0
-2002,number_of_infant_deaths,NUMBER,BiH,M,191.0
-2003,number_of_infant_deaths,NUMBER,BiH,M,154.0
-2004,number_of_infant_deaths,NUMBER,BiH,M,151.0
-2005,number_of_infant_deaths,NUMBER,BiH,M,133.0
-2006,number_of_infant_deaths,NUMBER,BiH,M,158.0
-2007,number_of_infant_deaths,NUMBER,BiH,M,132.0
-2008,number_of_infant_deaths,NUMBER,BiH,M,131.0
-2009,number_of_infant_deaths,NUMBER,BiH,M,116.0
-2010,number_of_infant_deaths,NUMBER,BiH,M,125.0
-2011,number_of_infant_deaths,NUMBER,BiH,M,111.0
-2012,number_of_infant_deaths,NUMBER,BiH,M,111.0
-2013,number_of_infant_deaths,NUMBER,BiH,M,109.0
-2014,number_of_infant_deaths,NUMBER,BiH,M,74.0
-2015,number_of_infant_deaths,NUMBER,BiH,M,94.0
-2016,number_of_infant_deaths,NUMBER,BiH,M,111.0
-2017,number_of_infant_deaths,NUMBER,BiH,M,105.0
-2018,number_of_infant_deaths,NUMBER,BiH,M,91.0
-2019,number_of_infant_deaths,NUMBER,BiH,M,102.0
-1996,number_of_infant_deaths,NUMBER,BiH,F,293.0
-1997,number_of_infant_deaths,NUMBER,BiH,F,232.0
-1998,number_of_infant_deaths,NUMBER,BiH,F,192.0
-1999,number_of_infant_deaths,NUMBER,BiH,F,189.0
-2000,number_of_infant_deaths,NUMBER,BiH,F,163.0
-2001,number_of_infant_deaths,NUMBER,BiH,F,128.0
-2002,number_of_infant_deaths,NUMBER,BiH,F,143.0
-2003,number_of_infant_deaths,NUMBER,BiH,F,114.0
-2004,number_of_infant_deaths,NUMBER,BiH,F,102.0
-2005,number_of_infant_deaths,NUMBER,BiH,F,100.0
-2006,number_of_infant_deaths,NUMBER,BiH,F,97.0
-2007,number_of_infant_deaths,NUMBER,BiH,F,99.0
-2008,number_of_infant_deaths,NUMBER,BiH,F,104.0
-2009,number_of_infant_deaths,NUMBER,BiH,F,108.0
-2010,number_of_infant_deaths,NUMBER,BiH,F,91.0
-2011,number_of_infant_deaths,NUMBER,BiH,F,73.0
-2012,number_of_infant_deaths,NUMBER,BiH,F,66.0
-2013,number_of_infant_deaths,NUMBER,BiH,F,72.0
-2014,number_of_infant_deaths,NUMBER,BiH,F,82.0
-2015,number_of_infant_deaths,NUMBER,BiH,F,88.0
-2016,number_of_infant_deaths,NUMBER,BiH,F,67.0
-2017,number_of_infant_deaths,NUMBER,BiH,F,91.0
-2018,number_of_infant_deaths,NUMBER,BiH,F,92.0
-2019,number_of_infant_deaths,NUMBER,BiH,F,88.0
-1997,number_of_infant_deaths,NUMBER,FBIH,_T,445.0
-1998,number_of_infant_deaths,NUMBER,FBIH,_T,382.0
-1999,number_of_infant_deaths,NUMBER,FBIH,_T,312.0
-2000,number_of_infant_deaths,NUMBER,FBIH,_T,280.0
-2001,number_of_infant_deaths,NUMBER,FBIH,_T,214.0
-2002,number_of_infant_deaths,NUMBER,FBIH,_T,245.0
-2003,number_of_infant_deaths,NUMBER,FBIH,_T,202.0
-2004,number_of_infant_deaths,NUMBER,FBIH,_T,190.0
-2005,number_of_infant_deaths,NUMBER,FBIH,_T,194.0
-2006,number_of_infant_deaths,NUMBER,FBIH,_T,205.0
-2007,number_of_infant_deaths,NUMBER,FBIH,_T,193.0
-2008,number_of_infant_deaths,NUMBER,FBIH,_T,194.0
-2009,number_of_infant_deaths,NUMBER,FBIH,_T,173.0
-2010,number_of_infant_deaths,NUMBER,FBIH,_T,172.0
-2011,number_of_infant_deaths,NUMBER,FBIH,_T,141.0
-2012,number_of_infant_deaths,NUMBER,FBIH,_T,139.0
-2013,number_of_infant_deaths,NUMBER,FBIH,_T,148.0
-2014,number_of_infant_deaths,NUMBER,FBIH,_T,127.0
-2015,number_of_infant_deaths,NUMBER,FBIH,_T,154.0
-2016,number_of_infant_deaths,NUMBER,FBIH,_T,147.0
-2017,number_of_infant_deaths,NUMBER,FBIH,_T,162.0
-2018,number_of_infant_deaths,NUMBER,FBIH,_T,158.0
-2019,number_of_infant_deaths,NUMBER,FBIH,_T,167.0
-1997,number_of_infant_deaths,NUMBER,FBIH,M,276.0
-1998,number_of_infant_deaths,NUMBER,FBIH,M,235.0
-1999,number_of_infant_deaths,NUMBER,FBIH,M,174.0
-2000,number_of_infant_deaths,NUMBER,FBIH,M,163.0
-2001,number_of_infant_deaths,NUMBER,FBIH,M,118.0
-2002,number_of_infant_deaths,NUMBER,FBIH,M,138.0
-2003,number_of_infant_deaths,NUMBER,FBIH,M,122.0
-2004,number_of_infant_deaths,NUMBER,FBIH,M,107.0
-2005,number_of_infant_deaths,NUMBER,FBIH,M,113.0
-2006,number_of_infant_deaths,NUMBER,FBIH,M,127.0
-2007,number_of_infant_deaths,NUMBER,FBIH,M,114.0
-2008,number_of_infant_deaths,NUMBER,FBIH,M,110.0
-2009,number_of_infant_deaths,NUMBER,FBIH,M,87.0
-2010,number_of_infant_deaths,NUMBER,FBIH,M,105.0
-2011,number_of_infant_deaths,NUMBER,FBIH,M,85.0
-2012,number_of_infant_deaths,NUMBER,FBIH,M,85.0
-2013,number_of_infant_deaths,NUMBER,FBIH,M,88.0
-2014,number_of_infant_deaths,NUMBER,FBIH,M,63.0
-2015,number_of_infant_deaths,NUMBER,FBIH,M,84.0
-2016,number_of_infant_deaths,NUMBER,FBIH,M,87.0
-2017,number_of_infant_deaths,NUMBER,FBIH,M,87.0
-2018,number_of_infant_deaths,NUMBER,FBIH,M,81.0
-2019,number_of_infant_deaths,NUMBER,FBIH,M,89.0
-1997,number_of_infant_deaths,NUMBER,FBIH,F,169.0
-1998,number_of_infant_deaths,NUMBER,FBIH,F,147.0
-1999,number_of_infant_deaths,NUMBER,FBIH,F,138.0
-2000,number_of_infant_deaths,NUMBER,FBIH,F,117.0
-2001,number_of_infant_deaths,NUMBER,FBIH,F,96.0
-2002,number_of_infant_deaths,NUMBER,FBIH,F,107.0
-2003,number_of_infant_deaths,NUMBER,FBIH,F,80.0
-2004,number_of_infant_deaths,NUMBER,FBIH,F,83.0
-2005,number_of_infant_deaths,NUMBER,FBIH,F,81.0
-2006,number_of_infant_deaths,NUMBER,FBIH,F,78.0
-2007,number_of_infant_deaths,NUMBER,FBIH,F,79.0
-2008,number_of_infant_deaths,NUMBER,FBIH,F,84.0
-2009,number_of_infant_deaths,NUMBER,FBIH,F,86.0
-2010,number_of_infant_deaths,NUMBER,FBIH,F,67.0
-2011,number_of_infant_deaths,NUMBER,FBIH,F,56.0
-2012,number_of_infant_deaths,NUMBER,FBIH,F,54.0
-2013,number_of_infant_deaths,NUMBER,FBIH,F,60.0
-2014,number_of_infant_deaths,NUMBER,FBIH,F,64.0
-2015,number_of_infant_deaths,NUMBER,FBIH,F,70.0
-2016,number_of_infant_deaths,NUMBER,FBIH,F,60.0
-2017,number_of_infant_deaths,NUMBER,FBIH,F,75.0
-2018,number_of_infant_deaths,NUMBER,FBIH,F,77.0
-2019,number_of_infant_deaths,NUMBER,FBIH,F,78.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,179.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,156.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,112.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,119.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,103.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,73.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,89.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,64.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,61.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,37.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,50.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,38.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,40.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,51.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,44.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,43.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,37.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,33.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,29.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,26.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,23.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,26.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,17.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,15.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,99.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,93.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,67.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,68.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,57.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,41.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,53.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,32.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,43.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,31.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,18.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,29.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,26.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,25.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,21.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,11.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,17.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,13.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,80.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,63.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,45.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,51.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,46.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,32.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,36.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,32.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,18.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,19.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,20.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,20.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,22.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,24.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,12.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,12.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,18.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,13.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,10.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,8.0
+Year,INFANT_MORTALITY,UNIT_MEASURE,Entity,Sex,Value
+1971,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,22.0
+1981,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,17.2
+1991,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,14.9
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,14.01468
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,12.41812509
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,10.97607039
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,10.14977393
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,9.680762328
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,7.609300846
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,9.385449743
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,7.60628938
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,7.197519274
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.728853207
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,7.492727647
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.827249889
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.876170412
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.483357453
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.442376521
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,5.784162711
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,5.438289243
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,5.898839786
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,5.153957975
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.113537118
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,5.897359441
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.490066225
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.210336987
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,Both sexes,6.699576869
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,14.75530781
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,14.58670989
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,12.89220918
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,11.18506193
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,10.7806145
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,8.195876289
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,10.43886976
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,8.40152755
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,8.327358959
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,7.473169635
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,9.004388215
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,7.528230866
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,7.44953085
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.44408644
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,7.235052382
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.714657311
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.611078023
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.883485949
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,4.744502148
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.140580089
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,7.062865869
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.698991961
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,5.96017815
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,M,6.889099014
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,13.20057668
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,10.04329004
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,8.896302474
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,9.074323027
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,8.509083316
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.988043894
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,8.270676692
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.743965925
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,5.993653778
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,5.941770648
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,5.883780177
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.07324704
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.268458803
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.526074083
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,5.599655406
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,4.777486911
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,4.188614584
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,4.848811368
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,5.589257719
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.084912184
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,4.631229695
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.264628941
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.47932953
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,BiH,F,6.492548325
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,13.8
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,12.97224813
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,12.13468869
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,11.15720212
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,11.03578748
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.909984179
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,10.5371812
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.718922652
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.539325843
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.844715966
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,9.48986205
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.887865531
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.464223386
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,7.550298957
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,7.684746671
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,6.642170718
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,6.473546945
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,7.346736163
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,6.38832998
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,7.95536729
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,7.479012974
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.171912833
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,8.3602307
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,Both sexes,9.267994894
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,15.36662769
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,14.37836515
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,12.2173852
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,12.45415648
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,9.556977403
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,11.56553805
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,10.09683026
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,9.323806204
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,10.01151768
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,11.33220309
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,10.09474896
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,9.377664109
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,7.325698889
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,9.08225932
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,7.717450518
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,7.620584544
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,8.468867289
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,6.18556701
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,8.498583569
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,8.517720775
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,8.490289841
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,8.314514473
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,M,9.526867908
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,10.3408187
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,9.711945032
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,10.05684303
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,9.524584826
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,8.225516237
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,9.453131902
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.216959856
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.703731205
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.607776839
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.503607504
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.580118979
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.506702413
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.791972456
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,6.191664356
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,5.482670844
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,5.233572398
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,6.151322534
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,6.601340897
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.388642601
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,6.355258977
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,7.831262399
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,8.408867533
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,FBIH,F,8.98928201
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,14.59675446
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,11.33968162
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,8.279736823
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,8.206896552
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,7.258121345
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,5.328856121
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,7.214656291
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,6.073835057
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,5.73955589
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.584576632
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,4.75104523
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.758654797
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.922337713
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,4.809959445
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,4.336257022
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,4.497437507
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.708157947
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.470031546
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,3.106588109
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,2.778668377
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,2.43334744
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,2.784023985
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,1.776755853
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,1.617425059
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,15.54648241
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,12.95986622
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,9.461940404
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,9.196645929
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,7.787949173
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,5.813129165
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,8.326787117
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,5.871559633
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,7.796917498
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,3.772161449
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,5.793309662
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,3.459542572
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,3.800836184
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,5.199928277
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,3.858024691
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,5.191693291
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,4.912556494
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,4.279600571
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,2.269913331
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,1.858736059
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,3.447576556
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,2.660663119
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,1.399720056
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,1.426533524
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,13.57082273
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,9.57301322
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,6.981073534
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,7.177033493
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,6.693830035
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.814926271
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,6.029140847
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,6.290544525
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,3.520438099
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,3.386454183
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,3.672917069
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.075810067
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.051863857
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.377238361
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.835784808
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,3.733801889
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,2.454489671
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,2.606995438
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,4.009801738
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,3.765227021
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,1.327140013
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,2.919380193
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,2.189621196
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,1.831921227
+1996,number_of_infant_deaths,Number,BiH,Both sexes,653.0
+1997,number_of_infant_deaths,Number,BiH,Both sexes,601.0
+1998,number_of_infant_deaths,Number,BiH,Both sexes,494.0
+1999,number_of_infant_deaths,Number,BiH,Both sexes,431.0
+2000,number_of_infant_deaths,Number,BiH,Both sexes,383.0
+2001,number_of_infant_deaths,Number,BiH,Both sexes,287.0
+2002,number_of_infant_deaths,Number,BiH,Both sexes,334.0
+2003,number_of_infant_deaths,Number,BiH,Both sexes,268.0
+2004,number_of_infant_deaths,Number,BiH,Both sexes,253.0
+2005,number_of_infant_deaths,Number,BiH,Both sexes,233.0
+2006,number_of_infant_deaths,Number,BiH,Both sexes,255.0
+2007,number_of_infant_deaths,Number,BiH,Both sexes,231.0
+2008,number_of_infant_deaths,Number,BiH,Both sexes,235.0
+2009,number_of_infant_deaths,Number,BiH,Both sexes,224.0
+2010,number_of_infant_deaths,Number,BiH,Both sexes,216.0
+2011,number_of_infant_deaths,Number,BiH,Both sexes,184.0
+2012,number_of_infant_deaths,Number,BiH,Both sexes,177.0
+2013,number_of_infant_deaths,Number,BiH,Both sexes,181.0
+2014,number_of_infant_deaths,Number,BiH,Both sexes,156.0
+2015,number_of_infant_deaths,Number,BiH,Both sexes,182.0
+2016,number_of_infant_deaths,Number,BiH,Both sexes,178.0
+2017,number_of_infant_deaths,Number,BiH,Both sexes,196.0
+2018,number_of_infant_deaths,Number,BiH,Both sexes,183.0
+2019,number_of_infant_deaths,Number,BiH,Both sexes,190.0
+1996,number_of_infant_deaths,Number,BiH,M,360.0
+1997,number_of_infant_deaths,Number,BiH,M,369.0
+1998,number_of_infant_deaths,Number,BiH,M,302.0
+1999,number_of_infant_deaths,Number,BiH,M,242.0
+2000,number_of_infant_deaths,Number,BiH,M,220.0
+2001,number_of_infant_deaths,Number,BiH,M,159.0
+2002,number_of_infant_deaths,Number,BiH,M,191.0
+2003,number_of_infant_deaths,Number,BiH,M,154.0
+2004,number_of_infant_deaths,Number,BiH,M,151.0
+2005,number_of_infant_deaths,Number,BiH,M,133.0
+2006,number_of_infant_deaths,Number,BiH,M,158.0
+2007,number_of_infant_deaths,Number,BiH,M,132.0
+2008,number_of_infant_deaths,Number,BiH,M,131.0
+2009,number_of_infant_deaths,Number,BiH,M,116.0
+2010,number_of_infant_deaths,Number,BiH,M,125.0
+2011,number_of_infant_deaths,Number,BiH,M,111.0
+2012,number_of_infant_deaths,Number,BiH,M,111.0
+2013,number_of_infant_deaths,Number,BiH,M,109.0
+2014,number_of_infant_deaths,Number,BiH,M,74.0
+2015,number_of_infant_deaths,Number,BiH,M,94.0
+2016,number_of_infant_deaths,Number,BiH,M,111.0
+2017,number_of_infant_deaths,Number,BiH,M,105.0
+2018,number_of_infant_deaths,Number,BiH,M,91.0
+2019,number_of_infant_deaths,Number,BiH,M,102.0
+1996,number_of_infant_deaths,Number,BiH,F,293.0
+1997,number_of_infant_deaths,Number,BiH,F,232.0
+1998,number_of_infant_deaths,Number,BiH,F,192.0
+1999,number_of_infant_deaths,Number,BiH,F,189.0
+2000,number_of_infant_deaths,Number,BiH,F,163.0
+2001,number_of_infant_deaths,Number,BiH,F,128.0
+2002,number_of_infant_deaths,Number,BiH,F,143.0
+2003,number_of_infant_deaths,Number,BiH,F,114.0
+2004,number_of_infant_deaths,Number,BiH,F,102.0
+2005,number_of_infant_deaths,Number,BiH,F,100.0
+2006,number_of_infant_deaths,Number,BiH,F,97.0
+2007,number_of_infant_deaths,Number,BiH,F,99.0
+2008,number_of_infant_deaths,Number,BiH,F,104.0
+2009,number_of_infant_deaths,Number,BiH,F,108.0
+2010,number_of_infant_deaths,Number,BiH,F,91.0
+2011,number_of_infant_deaths,Number,BiH,F,73.0
+2012,number_of_infant_deaths,Number,BiH,F,66.0
+2013,number_of_infant_deaths,Number,BiH,F,72.0
+2014,number_of_infant_deaths,Number,BiH,F,82.0
+2015,number_of_infant_deaths,Number,BiH,F,88.0
+2016,number_of_infant_deaths,Number,BiH,F,67.0
+2017,number_of_infant_deaths,Number,BiH,F,91.0
+2018,number_of_infant_deaths,Number,BiH,F,92.0
+2019,number_of_infant_deaths,Number,BiH,F,88.0
+1997,number_of_infant_deaths,Number,FBIH,Both sexes,445.0
+1998,number_of_infant_deaths,Number,FBIH,Both sexes,382.0
+1999,number_of_infant_deaths,Number,FBIH,Both sexes,312.0
+2000,number_of_infant_deaths,Number,FBIH,Both sexes,280.0
+2001,number_of_infant_deaths,Number,FBIH,Both sexes,214.0
+2002,number_of_infant_deaths,Number,FBIH,Both sexes,245.0
+2003,number_of_infant_deaths,Number,FBIH,Both sexes,202.0
+2004,number_of_infant_deaths,Number,FBIH,Both sexes,190.0
+2005,number_of_infant_deaths,Number,FBIH,Both sexes,194.0
+2006,number_of_infant_deaths,Number,FBIH,Both sexes,205.0
+2007,number_of_infant_deaths,Number,FBIH,Both sexes,193.0
+2008,number_of_infant_deaths,Number,FBIH,Both sexes,194.0
+2009,number_of_infant_deaths,Number,FBIH,Both sexes,173.0
+2010,number_of_infant_deaths,Number,FBIH,Both sexes,172.0
+2011,number_of_infant_deaths,Number,FBIH,Both sexes,141.0
+2012,number_of_infant_deaths,Number,FBIH,Both sexes,139.0
+2013,number_of_infant_deaths,Number,FBIH,Both sexes,148.0
+2014,number_of_infant_deaths,Number,FBIH,Both sexes,127.0
+2015,number_of_infant_deaths,Number,FBIH,Both sexes,154.0
+2016,number_of_infant_deaths,Number,FBIH,Both sexes,147.0
+2017,number_of_infant_deaths,Number,FBIH,Both sexes,162.0
+2018,number_of_infant_deaths,Number,FBIH,Both sexes,158.0
+2019,number_of_infant_deaths,Number,FBIH,Both sexes,167.0
+1997,number_of_infant_deaths,Number,FBIH,M,276.0
+1998,number_of_infant_deaths,Number,FBIH,M,235.0
+1999,number_of_infant_deaths,Number,FBIH,M,174.0
+2000,number_of_infant_deaths,Number,FBIH,M,163.0
+2001,number_of_infant_deaths,Number,FBIH,M,118.0
+2002,number_of_infant_deaths,Number,FBIH,M,138.0
+2003,number_of_infant_deaths,Number,FBIH,M,122.0
+2004,number_of_infant_deaths,Number,FBIH,M,107.0
+2005,number_of_infant_deaths,Number,FBIH,M,113.0
+2006,number_of_infant_deaths,Number,FBIH,M,127.0
+2007,number_of_infant_deaths,Number,FBIH,M,114.0
+2008,number_of_infant_deaths,Number,FBIH,M,110.0
+2009,number_of_infant_deaths,Number,FBIH,M,87.0
+2010,number_of_infant_deaths,Number,FBIH,M,105.0
+2011,number_of_infant_deaths,Number,FBIH,M,85.0
+2012,number_of_infant_deaths,Number,FBIH,M,85.0
+2013,number_of_infant_deaths,Number,FBIH,M,88.0
+2014,number_of_infant_deaths,Number,FBIH,M,63.0
+2015,number_of_infant_deaths,Number,FBIH,M,84.0
+2016,number_of_infant_deaths,Number,FBIH,M,87.0
+2017,number_of_infant_deaths,Number,FBIH,M,87.0
+2018,number_of_infant_deaths,Number,FBIH,M,81.0
+2019,number_of_infant_deaths,Number,FBIH,M,89.0
+1997,number_of_infant_deaths,Number,FBIH,F,169.0
+1998,number_of_infant_deaths,Number,FBIH,F,147.0
+1999,number_of_infant_deaths,Number,FBIH,F,138.0
+2000,number_of_infant_deaths,Number,FBIH,F,117.0
+2001,number_of_infant_deaths,Number,FBIH,F,96.0
+2002,number_of_infant_deaths,Number,FBIH,F,107.0
+2003,number_of_infant_deaths,Number,FBIH,F,80.0
+2004,number_of_infant_deaths,Number,FBIH,F,83.0
+2005,number_of_infant_deaths,Number,FBIH,F,81.0
+2006,number_of_infant_deaths,Number,FBIH,F,78.0
+2007,number_of_infant_deaths,Number,FBIH,F,79.0
+2008,number_of_infant_deaths,Number,FBIH,F,84.0
+2009,number_of_infant_deaths,Number,FBIH,F,86.0
+2010,number_of_infant_deaths,Number,FBIH,F,67.0
+2011,number_of_infant_deaths,Number,FBIH,F,56.0
+2012,number_of_infant_deaths,Number,FBIH,F,54.0
+2013,number_of_infant_deaths,Number,FBIH,F,60.0
+2014,number_of_infant_deaths,Number,FBIH,F,64.0
+2015,number_of_infant_deaths,Number,FBIH,F,70.0
+2016,number_of_infant_deaths,Number,FBIH,F,60.0
+2017,number_of_infant_deaths,Number,FBIH,F,75.0
+2018,number_of_infant_deaths,Number,FBIH,F,77.0
+2019,number_of_infant_deaths,Number,FBIH,F,78.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,179.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,156.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,112.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,119.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,103.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,73.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,89.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,64.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,61.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,37.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,50.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,38.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,40.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,51.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,44.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,43.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,37.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,33.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,29.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,26.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,23.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,26.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,17.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,Both sexes,15.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,99.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,93.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,67.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,68.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,57.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,41.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,53.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,32.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,43.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,20.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,31.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,18.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,20.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,29.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,20.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,26.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,25.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,21.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,11.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,9.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,17.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,13.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,7.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,M,7.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,80.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,63.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,45.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,51.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,46.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,32.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,36.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,32.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,18.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,17.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,19.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,20.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,20.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,22.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,24.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,17.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,12.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,12.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,18.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,17.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,6.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,13.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,10.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,Number,RS,F,8.0

@@ -15,8 +15,35 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "CAUSE_OF_DEATH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "estimated_number_of_population",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_genitourinary",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
+                "diseases_of_the_musculoskeletal",
+                "pregnancy_childbirth_and_the",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",

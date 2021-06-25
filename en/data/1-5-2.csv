@@ -1,24 +1,24 @@
-Year,UNIT_MEASURE,SEX,Entity,Value
-2004,%,_T,BiH,37.8
-2007,%,_T,BiH,38.3
-2011,%,_T,BiH,39.7
-2013,%,_T,BiH,39.5
-2015,%,_T,BiH,41.9
-2004,%,_T,FBIH,36.4
-2007,%,_T,FBIH,37.0
-2011,%,_T,FBIH,38.5
-2013,%,_T,FBIH,38.5
-2015,%,_T,FBIH,40.7
-2004,%,_T,RS,40.1
-2007,%,_T,RS,40.8
-2011,%,_T,RS,42.0
-2013,%,_T,RS,41.4
-2015,%,_T,RS,44.4
-2004,%,_T,BD,38.3
-2007,%,_T,BD,39.5
-2011,%,_T,BD,40.4
-2013,%,_T,BD,39.7
-2015,%,_T,BD,40.8
+Year,UNIT_MEASURE,Sex,Entity,Value
+2004,%,Both sexes,BiH,37.8
+2007,%,Both sexes,BiH,38.3
+2011,%,Both sexes,BiH,39.7
+2013,%,Both sexes,BiH,39.5
+2015,%,Both sexes,BiH,41.9
+2004,%,Both sexes,FBIH,36.4
+2007,%,Both sexes,FBIH,37.0
+2011,%,Both sexes,FBIH,38.5
+2013,%,Both sexes,FBIH,38.5
+2015,%,Both sexes,FBIH,40.7
+2004,%,Both sexes,RS,40.1
+2007,%,Both sexes,RS,40.8
+2011,%,Both sexes,RS,42.0
+2013,%,Both sexes,RS,41.4
+2015,%,Both sexes,RS,44.4
+2004,%,Both sexes,BD,38.3
+2007,%,Both sexes,BD,39.5
+2011,%,Both sexes,BD,40.4
+2013,%,Both sexes,BD,39.7
+2015,%,Both sexes,BD,40.8
 2004,%,M,BiH,36.8
 2007,%,M,BiH,37.2
 2011,%,M,BiH,38.6
