@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
+                "BD",
                 "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "FBIH",
+                "RS"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "POVERTY_RATE",
@@ -30,15 +30,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Households in poverty (%)"
+                "households_in_poverty"
               ]
             },
-            "title": "Poverty Rate"
+            "title": "POVERTY_RATE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

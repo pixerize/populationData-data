@@ -1,8 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-active_labour_force,Active (Labour Force) as % of working age population,active_labour_force,active_labour_force,active_labour_force,18,1
-employed_as_of_working,Employed as % of working age population,employed_as_of_working,employed_as_of_working,employed_as_of_working,18,1
-inactive_as_of_working,Inactive as % of working age population,inactive_as_of_working,inactive_as_of_working,inactive_as_of_working,18,1
-of_total_for_age_group,% of total for age group,of_total_for_age_group,of_total_for_age_group,of_total_for_age_group,70,1
-total_illiterate,Total illiterate,total_illiterate,total_illiterate,total_illiterate,3,1
-unemployed_as_of_labour,Unemployed as % of labour force,unemployed_as_of_labour,unemployed_as_of_labour,unemployed_as_of_labour,18,1
-unemployed_as_of_working,Unemployed as % of working age population,unemployed_as_of_working,unemployed_as_of_working,unemployed_as_of_working,17,1
+active_labour_force,active_labour_force,active_labour_force,active_labour_force,active_labour_force,18,1
+employed_as_of_working,employed_as_of_working,employed_as_of_working,employed_as_of_working,employed_as_of_working,18,1
+inactive_as_of_working,inactive_as_of_working,inactive_as_of_working,inactive_as_of_working,inactive_as_of_working,18,1
+of_total_for_age_group,of_total_for_age_group,of_total_for_age_group,of_total_for_age_group,of_total_for_age_group,70,1
+total_illiterate,total_illiterate,total_illiterate,total_illiterate,total_illiterate,3,1
+unemployed_as_of_labour,unemployed_as_of_labour,unemployed_as_of_labour,unemployed_as_of_labour,unemployed_as_of_labour,18,1
+unemployed_as_of_working,unemployed_as_of_working,unemployed_as_of_working,unemployed_as_of_working,unemployed_as_of_working,17,1

@@ -16,18 +16,18 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
+                "BD",
                 "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "FBIH",
+                "RS"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

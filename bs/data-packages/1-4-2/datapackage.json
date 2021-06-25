@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Godine"
           },
           {
             "name": "FERTILITY_RATE",

@@ -20,12 +20,12 @@
                 "M"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

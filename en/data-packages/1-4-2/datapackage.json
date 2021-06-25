@@ -25,10 +25,10 @@
                 "40-44",
                 "45-49",
                 "50+",
-                "All"
+                "_ALL"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "FERTILITY_RATE",
@@ -36,16 +36,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Age specific fertility rates",
-                "Total fertility rate"
+                "age_specific_fertility_rates",
+                "total_fertility_rate"
               ]
             },
-            "title": "Fertility rate"
+            "title": "FERTILITY_RATE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

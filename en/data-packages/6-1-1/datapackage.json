@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
+                "BD",
                 "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "FBIH",
+                "RS"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "QUANTITY",
@@ -30,17 +30,17 @@
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Real GDP growth",
-                "Total (millions)"
+                "per_capita",
+                "real_gdp_growth",
+                "total_millions"
               ]
             },
-            "title": "Quantity"
+            "title": "QUANTITY"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

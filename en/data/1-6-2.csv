@@ -1,4 +1,4 @@
-Year,INFANT_MORTALITY,UNIT_MEASURE,Administrative area,SEX,Value
+Year,INFANT_MORTALITY,UNIT_MEASURE,Entity,SEX,Value
 1971,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,22.0
 1981,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,17.2
 1991,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,_T,14.9
@@ -74,148 +74,148 @@ Year,INFANT_MORTALITY,UNIT_MEASURE,Administrative area,SEX,Value
 2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.264628941
 2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.47932953
 2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,BiH,F,6.492548325
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,13.8
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,12.97224813
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,12.13468869
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,11.15720212
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,11.03578748
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.909984179
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,10.5371812
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.718922652
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.539325843
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.844715966
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,9.48986205
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.887865531
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.464223386
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,7.550298957
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,7.684746671
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,6.642170718
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,6.473546945
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,7.346736163
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,6.38832998
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,7.95536729
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,7.479012974
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.171912833
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,8.3602307
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,_T,9.267994894
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,15.36662769
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,14.37836515
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,12.2173852
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,12.45415648
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,9.556977403
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,11.56553805
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,10.09683026
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,9.323806204
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,10.01151768
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,11.33220309
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,10.09474896
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,9.377664109
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,7.325698889
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,9.08225932
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,7.717450518
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,7.620584544
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,8.468867289
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,6.18556701
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,8.498583569
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,8.517720775
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,8.490289841
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,8.314514473
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,M,9.526867908
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,10.3408187
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,9.711945032
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,10.05684303
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,9.524584826
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,8.225516237
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,9.453131902
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.216959856
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.703731205
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.607776839
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.503607504
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.580118979
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.506702413
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.791972456
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,6.191664356
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,5.482670844
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,5.233572398
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,6.151322534
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,6.601340897
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.388642601
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,6.355258977
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,7.831262399
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,8.408867533
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Federation of BiH,F,8.98928201
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,14.59675446
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,11.33968162
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,8.279736823
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,8.206896552
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,7.258121345
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,5.328856121
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,7.214656291
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,6.073835057
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,5.73955589
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.584576632
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,4.75104523
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.758654797
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.922337713
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,4.809959445
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,4.336257022
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,4.497437507
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.708157947
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.470031546
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,3.106588109
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,2.778668377
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,2.43334744
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,2.784023985
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,1.776755853
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,1.617425059
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,15.54648241
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,12.95986622
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,9.461940404
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,9.196645929
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,7.787949173
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,5.813129165
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,8.326787117
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,5.871559633
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,7.796917498
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,3.772161449
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,5.793309662
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,3.459542572
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,3.800836184
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,5.199928277
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,3.858024691
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,5.191693291
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,4.912556494
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,4.279600571
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,2.269913331
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,1.858736059
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,3.447576556
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,2.660663119
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,1.399720056
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,1.426533524
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,13.57082273
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,9.57301322
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,6.981073534
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,7.177033493
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,6.693830035
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.814926271
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,6.029140847
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,6.290544525
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,3.520438099
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,3.386454183
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,3.672917069
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.075810067
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.051863857
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.377238361
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.835784808
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,3.733801889
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,2.454489671
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,2.606995438
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,4.009801738
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,3.765227021
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,1.327140013
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,2.919380193
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,2.189621196
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,1.831921227
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,13.8
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,12.97224813
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,12.13468869
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,11.15720212
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,11.03578748
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.909984179
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,10.5371812
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.718922652
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.539325843
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.844715966
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,9.48986205
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.887865531
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.464223386
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.550298957
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.684746671
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.642170718
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.473546945
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.346736163
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,6.38832998
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.95536729
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,7.479012974
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.171912833
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,8.3602307
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,_T,9.267994894
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,15.36662769
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,14.37836515
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,12.2173852
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,12.45415648
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.556977403
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,11.56553805
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.09683026
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.323806204
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.01151768
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,11.33220309
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,10.09474896
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.377664109
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.325698889
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.08225932
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.717450518
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,7.620584544
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.468867289
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,6.18556701
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.498583569
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.517720775
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.490289841
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,8.314514473
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,M,9.526867908
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,10.3408187
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.711945032
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,10.05684303
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.524584826
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.225516237
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,9.453131902
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.216959856
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.703731205
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.607776839
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.503607504
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.580118979
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.506702413
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.791972456
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.191664356
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,5.482670844
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,5.233572398
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.151322534
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.601340897
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.388642601
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,6.355258977
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,7.831262399
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.408867533
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,FBIH,F,8.98928201
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,14.59675446
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,11.33968162
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,8.279736823
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,8.206896552
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,7.258121345
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,5.328856121
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,7.214656291
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,6.073835057
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,5.73955589
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.584576632
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.75104523
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.758654797
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.922337713
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.809959445
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.336257022
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,4.497437507
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.708157947
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.470031546
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,3.106588109
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.778668377
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.43334744
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,2.784023985
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,1.776755853
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,1.617425059
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,15.54648241
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,12.95986622
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.461940404
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.196645929
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.787949173
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.813129165
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,8.326787117
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.871559633
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.796917498
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.772161449
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.793309662
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.459542572
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.800836184
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.199928277
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.858024691
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,5.191693291
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,4.912556494
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,4.279600571
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,2.269913331
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.858736059
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,3.447576556
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,2.660663119
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.399720056
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,1.426533524
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,13.57082273
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,9.57301322
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.981073534
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,7.177033493
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.693830035
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.814926271
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.029140847
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.290544525
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.520438099
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.386454183
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.672917069
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.075810067
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.051863857
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.377238361
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.835784808
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.733801889
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.454489671
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.606995438
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,4.009801738
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,3.765227021
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,1.327140013
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.919380193
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,2.189621196
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,1.831921227
 1996,number_of_infant_deaths,NUMBER,BiH,_T,653.0
 1997,number_of_infant_deaths,NUMBER,BiH,_T,601.0
 1998,number_of_infant_deaths,NUMBER,BiH,_T,494.0
@@ -288,144 +288,144 @@ Year,INFANT_MORTALITY,UNIT_MEASURE,Administrative area,SEX,Value
 2017,number_of_infant_deaths,NUMBER,BiH,F,91.0
 2018,number_of_infant_deaths,NUMBER,BiH,F,92.0
 2019,number_of_infant_deaths,NUMBER,BiH,F,88.0
-1997,number_of_infant_deaths,NUMBER,Federation of BiH,_T,445.0
-1998,number_of_infant_deaths,NUMBER,Federation of BiH,_T,382.0
-1999,number_of_infant_deaths,NUMBER,Federation of BiH,_T,312.0
-2000,number_of_infant_deaths,NUMBER,Federation of BiH,_T,280.0
-2001,number_of_infant_deaths,NUMBER,Federation of BiH,_T,214.0
-2002,number_of_infant_deaths,NUMBER,Federation of BiH,_T,245.0
-2003,number_of_infant_deaths,NUMBER,Federation of BiH,_T,202.0
-2004,number_of_infant_deaths,NUMBER,Federation of BiH,_T,190.0
-2005,number_of_infant_deaths,NUMBER,Federation of BiH,_T,194.0
-2006,number_of_infant_deaths,NUMBER,Federation of BiH,_T,205.0
-2007,number_of_infant_deaths,NUMBER,Federation of BiH,_T,193.0
-2008,number_of_infant_deaths,NUMBER,Federation of BiH,_T,194.0
-2009,number_of_infant_deaths,NUMBER,Federation of BiH,_T,173.0
-2010,number_of_infant_deaths,NUMBER,Federation of BiH,_T,172.0
-2011,number_of_infant_deaths,NUMBER,Federation of BiH,_T,141.0
-2012,number_of_infant_deaths,NUMBER,Federation of BiH,_T,139.0
-2013,number_of_infant_deaths,NUMBER,Federation of BiH,_T,148.0
-2014,number_of_infant_deaths,NUMBER,Federation of BiH,_T,127.0
-2015,number_of_infant_deaths,NUMBER,Federation of BiH,_T,154.0
-2016,number_of_infant_deaths,NUMBER,Federation of BiH,_T,147.0
-2017,number_of_infant_deaths,NUMBER,Federation of BiH,_T,162.0
-2018,number_of_infant_deaths,NUMBER,Federation of BiH,_T,158.0
-2019,number_of_infant_deaths,NUMBER,Federation of BiH,_T,167.0
-1997,number_of_infant_deaths,NUMBER,Federation of BiH,M,276.0
-1998,number_of_infant_deaths,NUMBER,Federation of BiH,M,235.0
-1999,number_of_infant_deaths,NUMBER,Federation of BiH,M,174.0
-2000,number_of_infant_deaths,NUMBER,Federation of BiH,M,163.0
-2001,number_of_infant_deaths,NUMBER,Federation of BiH,M,118.0
-2002,number_of_infant_deaths,NUMBER,Federation of BiH,M,138.0
-2003,number_of_infant_deaths,NUMBER,Federation of BiH,M,122.0
-2004,number_of_infant_deaths,NUMBER,Federation of BiH,M,107.0
-2005,number_of_infant_deaths,NUMBER,Federation of BiH,M,113.0
-2006,number_of_infant_deaths,NUMBER,Federation of BiH,M,127.0
-2007,number_of_infant_deaths,NUMBER,Federation of BiH,M,114.0
-2008,number_of_infant_deaths,NUMBER,Federation of BiH,M,110.0
-2009,number_of_infant_deaths,NUMBER,Federation of BiH,M,87.0
-2010,number_of_infant_deaths,NUMBER,Federation of BiH,M,105.0
-2011,number_of_infant_deaths,NUMBER,Federation of BiH,M,85.0
-2012,number_of_infant_deaths,NUMBER,Federation of BiH,M,85.0
-2013,number_of_infant_deaths,NUMBER,Federation of BiH,M,88.0
-2014,number_of_infant_deaths,NUMBER,Federation of BiH,M,63.0
-2015,number_of_infant_deaths,NUMBER,Federation of BiH,M,84.0
-2016,number_of_infant_deaths,NUMBER,Federation of BiH,M,87.0
-2017,number_of_infant_deaths,NUMBER,Federation of BiH,M,87.0
-2018,number_of_infant_deaths,NUMBER,Federation of BiH,M,81.0
-2019,number_of_infant_deaths,NUMBER,Federation of BiH,M,89.0
-1997,number_of_infant_deaths,NUMBER,Federation of BiH,F,169.0
-1998,number_of_infant_deaths,NUMBER,Federation of BiH,F,147.0
-1999,number_of_infant_deaths,NUMBER,Federation of BiH,F,138.0
-2000,number_of_infant_deaths,NUMBER,Federation of BiH,F,117.0
-2001,number_of_infant_deaths,NUMBER,Federation of BiH,F,96.0
-2002,number_of_infant_deaths,NUMBER,Federation of BiH,F,107.0
-2003,number_of_infant_deaths,NUMBER,Federation of BiH,F,80.0
-2004,number_of_infant_deaths,NUMBER,Federation of BiH,F,83.0
-2005,number_of_infant_deaths,NUMBER,Federation of BiH,F,81.0
-2006,number_of_infant_deaths,NUMBER,Federation of BiH,F,78.0
-2007,number_of_infant_deaths,NUMBER,Federation of BiH,F,79.0
-2008,number_of_infant_deaths,NUMBER,Federation of BiH,F,84.0
-2009,number_of_infant_deaths,NUMBER,Federation of BiH,F,86.0
-2010,number_of_infant_deaths,NUMBER,Federation of BiH,F,67.0
-2011,number_of_infant_deaths,NUMBER,Federation of BiH,F,56.0
-2012,number_of_infant_deaths,NUMBER,Federation of BiH,F,54.0
-2013,number_of_infant_deaths,NUMBER,Federation of BiH,F,60.0
-2014,number_of_infant_deaths,NUMBER,Federation of BiH,F,64.0
-2015,number_of_infant_deaths,NUMBER,Federation of BiH,F,70.0
-2016,number_of_infant_deaths,NUMBER,Federation of BiH,F,60.0
-2017,number_of_infant_deaths,NUMBER,Federation of BiH,F,75.0
-2018,number_of_infant_deaths,NUMBER,Federation of BiH,F,77.0
-2019,number_of_infant_deaths,NUMBER,Federation of BiH,F,78.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,179.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,156.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,112.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,119.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,103.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,73.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,89.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,64.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,61.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,37.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,50.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,38.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,40.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,51.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,44.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,43.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,37.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,33.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,29.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,26.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,23.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,26.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,17.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,_T,15.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,99.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,93.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,67.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,68.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,57.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,41.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,53.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,32.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,43.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,20.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,31.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,18.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,20.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,29.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,20.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,26.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,25.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,21.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,11.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,9.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,17.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,13.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,7.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,M,7.0
-1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,80.0
-1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,63.0
-1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,45.0
-1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,51.0
-2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,46.0
-2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,32.0
-2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,36.0
-2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,32.0
-2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,18.0
-2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,17.0
-2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,19.0
-2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,20.0
-2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,20.0
-2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,22.0
-2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,24.0
-2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,17.0
-2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,12.0
-2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,12.0
-2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,18.0
-2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,17.0
-2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,6.0
-2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,13.0
-2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,10.0
-2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,Republika Srpska,F,8.0
+1997,number_of_infant_deaths,NUMBER,FBIH,_T,445.0
+1998,number_of_infant_deaths,NUMBER,FBIH,_T,382.0
+1999,number_of_infant_deaths,NUMBER,FBIH,_T,312.0
+2000,number_of_infant_deaths,NUMBER,FBIH,_T,280.0
+2001,number_of_infant_deaths,NUMBER,FBIH,_T,214.0
+2002,number_of_infant_deaths,NUMBER,FBIH,_T,245.0
+2003,number_of_infant_deaths,NUMBER,FBIH,_T,202.0
+2004,number_of_infant_deaths,NUMBER,FBIH,_T,190.0
+2005,number_of_infant_deaths,NUMBER,FBIH,_T,194.0
+2006,number_of_infant_deaths,NUMBER,FBIH,_T,205.0
+2007,number_of_infant_deaths,NUMBER,FBIH,_T,193.0
+2008,number_of_infant_deaths,NUMBER,FBIH,_T,194.0
+2009,number_of_infant_deaths,NUMBER,FBIH,_T,173.0
+2010,number_of_infant_deaths,NUMBER,FBIH,_T,172.0
+2011,number_of_infant_deaths,NUMBER,FBIH,_T,141.0
+2012,number_of_infant_deaths,NUMBER,FBIH,_T,139.0
+2013,number_of_infant_deaths,NUMBER,FBIH,_T,148.0
+2014,number_of_infant_deaths,NUMBER,FBIH,_T,127.0
+2015,number_of_infant_deaths,NUMBER,FBIH,_T,154.0
+2016,number_of_infant_deaths,NUMBER,FBIH,_T,147.0
+2017,number_of_infant_deaths,NUMBER,FBIH,_T,162.0
+2018,number_of_infant_deaths,NUMBER,FBIH,_T,158.0
+2019,number_of_infant_deaths,NUMBER,FBIH,_T,167.0
+1997,number_of_infant_deaths,NUMBER,FBIH,M,276.0
+1998,number_of_infant_deaths,NUMBER,FBIH,M,235.0
+1999,number_of_infant_deaths,NUMBER,FBIH,M,174.0
+2000,number_of_infant_deaths,NUMBER,FBIH,M,163.0
+2001,number_of_infant_deaths,NUMBER,FBIH,M,118.0
+2002,number_of_infant_deaths,NUMBER,FBIH,M,138.0
+2003,number_of_infant_deaths,NUMBER,FBIH,M,122.0
+2004,number_of_infant_deaths,NUMBER,FBIH,M,107.0
+2005,number_of_infant_deaths,NUMBER,FBIH,M,113.0
+2006,number_of_infant_deaths,NUMBER,FBIH,M,127.0
+2007,number_of_infant_deaths,NUMBER,FBIH,M,114.0
+2008,number_of_infant_deaths,NUMBER,FBIH,M,110.0
+2009,number_of_infant_deaths,NUMBER,FBIH,M,87.0
+2010,number_of_infant_deaths,NUMBER,FBIH,M,105.0
+2011,number_of_infant_deaths,NUMBER,FBIH,M,85.0
+2012,number_of_infant_deaths,NUMBER,FBIH,M,85.0
+2013,number_of_infant_deaths,NUMBER,FBIH,M,88.0
+2014,number_of_infant_deaths,NUMBER,FBIH,M,63.0
+2015,number_of_infant_deaths,NUMBER,FBIH,M,84.0
+2016,number_of_infant_deaths,NUMBER,FBIH,M,87.0
+2017,number_of_infant_deaths,NUMBER,FBIH,M,87.0
+2018,number_of_infant_deaths,NUMBER,FBIH,M,81.0
+2019,number_of_infant_deaths,NUMBER,FBIH,M,89.0
+1997,number_of_infant_deaths,NUMBER,FBIH,F,169.0
+1998,number_of_infant_deaths,NUMBER,FBIH,F,147.0
+1999,number_of_infant_deaths,NUMBER,FBIH,F,138.0
+2000,number_of_infant_deaths,NUMBER,FBIH,F,117.0
+2001,number_of_infant_deaths,NUMBER,FBIH,F,96.0
+2002,number_of_infant_deaths,NUMBER,FBIH,F,107.0
+2003,number_of_infant_deaths,NUMBER,FBIH,F,80.0
+2004,number_of_infant_deaths,NUMBER,FBIH,F,83.0
+2005,number_of_infant_deaths,NUMBER,FBIH,F,81.0
+2006,number_of_infant_deaths,NUMBER,FBIH,F,78.0
+2007,number_of_infant_deaths,NUMBER,FBIH,F,79.0
+2008,number_of_infant_deaths,NUMBER,FBIH,F,84.0
+2009,number_of_infant_deaths,NUMBER,FBIH,F,86.0
+2010,number_of_infant_deaths,NUMBER,FBIH,F,67.0
+2011,number_of_infant_deaths,NUMBER,FBIH,F,56.0
+2012,number_of_infant_deaths,NUMBER,FBIH,F,54.0
+2013,number_of_infant_deaths,NUMBER,FBIH,F,60.0
+2014,number_of_infant_deaths,NUMBER,FBIH,F,64.0
+2015,number_of_infant_deaths,NUMBER,FBIH,F,70.0
+2016,number_of_infant_deaths,NUMBER,FBIH,F,60.0
+2017,number_of_infant_deaths,NUMBER,FBIH,F,75.0
+2018,number_of_infant_deaths,NUMBER,FBIH,F,77.0
+2019,number_of_infant_deaths,NUMBER,FBIH,F,78.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,179.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,156.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,112.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,119.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,103.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,73.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,89.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,64.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,61.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,37.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,50.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,38.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,40.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,51.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,44.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,43.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,37.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,33.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,29.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,26.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,23.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,26.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,17.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,_T,15.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,99.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,93.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,67.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,68.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,57.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,41.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,53.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,32.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,43.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,31.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,18.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,29.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,20.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,26.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,25.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,21.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,11.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,9.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,17.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,13.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,M,7.0
+1996,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,80.0
+1997,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,63.0
+1998,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,45.0
+1999,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,51.0
+2000,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,46.0
+2001,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,32.0
+2002,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,36.0
+2003,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,32.0
+2004,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,18.0
+2005,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
+2006,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,19.0
+2007,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,20.0
+2008,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,20.0
+2009,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,22.0
+2010,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,24.0
+2011,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
+2012,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,12.0
+2013,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,12.0
+2014,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,18.0
+2015,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,17.0
+2016,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,6.0
+2017,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,13.0
+2018,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,10.0
+2019,infant_(up_to_12_months_of_age)_mortality_rate,NUMBER,RS,F,8.0

@@ -11,14 +11,54 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "CAUSE_OF_DEATH",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "diseases_of_the_blood",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_digestive",
+                "diseases_of_the_eye",
+                "diseases_of_the_genitourinary",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_nervous",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_skin",
+                "endocrine_metabolic_and_nutritional",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "infectious_and_parasitic",
+                "injuries_poisoning_and_consequences",
+                "mental_and_behavioural_disorders",
+                "neoplasms",
+                "pregnancy_childbirth_and_the",
+                "symptoms_signs_and_abnormal",
+                "total",
+                "unknown"
+              ]
+            },
+            "title": "CAUSE_OF_DEATH"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "_T"
+              ]
+            },
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

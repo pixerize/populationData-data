@@ -30,7 +30,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Entity",
@@ -50,13 +50,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Пол"
           },
           {
             "name": "Value",

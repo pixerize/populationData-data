@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "Primary school",
-                "Secondary school",
-                "Total 15+",
-                "Unknown"
+                "advanced_schools_faculty_academy_university",
+                "higher_school_and_first_grade_of_faculty",
+                "incomplete_primary_education",
+                "primary_school",
+                "secondary_school",
+                "total_15",
+                "unknown"
               ]
             },
-            "title": "Education"
+            "title": "EDUCATION"
           },
           {
             "name": "SEX",
@@ -35,15 +35,15 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

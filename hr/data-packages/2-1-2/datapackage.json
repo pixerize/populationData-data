@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -63,19 +63,19 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Godine"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
+                "Oba spola",
+                "Muškarci",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Spol"
           },
           {
             "name": "Value",

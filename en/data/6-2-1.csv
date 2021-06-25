@@ -1,17 +1,17 @@
-Year,Poverty Rate,UNIT_MEASURE,Administrative area,Value
-2004,Households in poverty (%),_%,BiH,18.1
-2007,Households in poverty (%),_%,BiH,18.4
-2011,Households in poverty (%),_%,BiH,17.2
-2015,Households in poverty (%),_%,BiH,16.5
-2004,Households in poverty (%),_%,Federation of BiH,18.3
-2007,Households in poverty (%),_%,Federation of BiH,16.3
-2011,Households in poverty (%),_%,Federation of BiH,16.0
-2015,Households in poverty (%),_%,Federation of BiH,16.0
-2004,Households in poverty (%),_%,Republika Srpska,18.3
-2007,Households in poverty (%),_%,Republika Srpska,21.7
-2011,Households in poverty (%),_%,Republika Srpska,19.6
-2015,Households in poverty (%),_%,Republika Srpska,17.4
-2004,Households in poverty (%),_%,Brčko District of BiH,7.8
-2007,Households in poverty (%),_%,Brčko District of BiH,23.6
-2011,Households in poverty (%),_%,Brčko District of BiH,12.2
-2015,Households in poverty (%),_%,Brčko District of BiH,15.9
+Year,POVERTY_RATE,UNIT_MEASURE,Entity,Value
+2004,households_in_poverty,_%,BiH,18.1
+2007,households_in_poverty,_%,BiH,18.4
+2011,households_in_poverty,_%,BiH,17.2
+2015,households_in_poverty,_%,BiH,16.5
+2004,households_in_poverty,_%,FBIH,18.3
+2007,households_in_poverty,_%,FBIH,16.3
+2011,households_in_poverty,_%,FBIH,16.0
+2015,households_in_poverty,_%,FBIH,16.0
+2004,households_in_poverty,_%,RS,18.3
+2007,households_in_poverty,_%,RS,21.7
+2011,households_in_poverty,_%,RS,19.6
+2015,households_in_poverty,_%,RS,17.4
+2004,households_in_poverty,_%,BD,7.8
+2007,households_in_poverty,_%,BD,23.6
+2011,households_in_poverty,_%,BD,12.2
+2015,households_in_poverty,_%,BD,15.9

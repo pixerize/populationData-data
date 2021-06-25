@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Godine"
           },
           {
             "name": "MARRIAGE_BIRTH",
@@ -61,7 +61,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",

@@ -37,7 +37,7 @@
                 "33 - 19"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "Entity",
@@ -45,13 +45,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
+                "BD",
                 "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "FBIH",
+                "RS"
               ]
             },
-            "title": "Administrative area"
+            "title": "Entity"
           },
           {
             "name": "MARRIAGE_BIRTH",
@@ -61,7 +61,7 @@
                 "",
                 "in_marriage_birth",
                 "out_of_marriage_birth",
-                "Total",
+                "total",
                 "unknown_marital_status_birth"
               ]
             },
@@ -70,7 +70,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

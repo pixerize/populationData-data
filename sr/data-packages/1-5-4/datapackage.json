@@ -34,17 +34,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Пол"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",

@@ -37,7 +37,7 @@
                 "Total"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "Municipality",
@@ -199,15 +199,15 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "_T"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
