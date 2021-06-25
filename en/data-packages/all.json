@@ -149,7 +149,7 @@
           }
         ]
       },
-      "title": "Number of cases"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "1-6-2/data.csv",
@@ -2876,7 +2876,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+      "title": "Type of sewage"
     },
     {
       "path": "1-1-6/data.csv",
@@ -3303,7 +3303,7 @@
           }
         ]
       },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+      "title": "Number of persons with disabilities by age and sex"
     },
     {
       "path": "1-4-3/data.csv",
