@@ -1,317 +1,360 @@
-Year,UNIT_MEASURE,SEX,STILLBIRTH_RATE,Entity,Value
-1996,NUMBER,_T,per_1000,BiH,5.82
-1997,NUMBER,_T,per_1000,BiH,4.96
-1998,NUMBER,_T,per_1000,BiH,4.49
-1999,NUMBER,_T,per_1000,BiH,5.28
-2000,NUMBER,_T,per_1000,BiH,4.02
-2001,NUMBER,_T,per_1000,BiH,5.12
-2002,NUMBER,_T,per_1000,BiH,3.88
-2003,NUMBER,_T,per_1000,BiH,4.26
-2004,NUMBER,_T,per_1000,BiH,4.78
-2005,NUMBER,_T,per_1000,BiH,4.25
-2006,NUMBER,_T,per_1000,BiH,4.03
-2007,NUMBER,_T,per_1000,BiH,5.14
-2008,NUMBER,_T,per_1000,BiH,5.00
-2009,NUMBER,_T,per_1000,BiH,3.94
-2010,NUMBER,_T,per_1000,BiH,4.27
-2011,NUMBER,_T,per_1000,BiH,3.71
-2012,NUMBER,_T,per_1000,BiH,3.69
-2013,NUMBER,_T,per_1000,BiH,3.32
-2014,NUMBER,_T,per_1000,BiH,2.54
-2015,NUMBER,_T,per_1000,BiH,3.83
-2016,NUMBER,_T,per_1000,BiH,3.64
-2017,NUMBER,_T,per_1000,BiH,3.41
-2018,NUMBER,_T,per_1000,BiH,2.99
-2019,NUMBER,_T,per_1000,BiH,2.89
-1997,NUMBER,_T,per_1000,FBiH,4.87
-1998,NUMBER,_T,per_1000,FBiH,4.64
-1999,NUMBER,_T,per_1000,FBiH,5.51
-2000,NUMBER,_T,per_1000,FBiH,4.22
-2001,NUMBER,_T,per_1000,FBiH,4.83
-2002,NUMBER,_T,per_1000,FBiH,4.21
-2003,NUMBER,_T,per_1000,FBiH,4.70
-2004,NUMBER,_T,per_1000,FBiH,5.53
-2005,NUMBER,_T,per_1000,FBiH,5.02
-2006,NUMBER,_T,per_1000,FBiH,4.86
-2007,NUMBER,_T,per_1000,FBiH,5.99
-2008,NUMBER,_T,per_1000,FBiH,5.63
-2009,NUMBER,_T,per_1000,FBiH,3.93
-2010,NUMBER,_T,per_1000,FBiH,3.80
-2011,NUMBER,_T,per_1000,FBiH,3.58
-2012,NUMBER,_T,per_1000,FBiH,3.17
-2013,NUMBER,_T,per_1000,FBiH,2.98
-2014,NUMBER,_T,per_1000,FBiH,2.67
-2015,NUMBER,_T,per_1000,FBiH,5.01
-2016,NUMBER,_T,per_1000,FBiH,4.83
-2017,NUMBER,_T,per_1000,FBiH,4.24
-2018,NUMBER,_T,per_1000,FBiH,3.60
-2019,NUMBER,_T,per_1000,FBiH,3.83
-1997,NUMBER,_T,per_1000,RS,5.60
-1998,NUMBER,_T,per_1000,RS,4.14
-1999,NUMBER,_T,per_1000,RS,4.83
-2000,NUMBER,_T,per_1000,RS,3.66
-2001,NUMBER,_T,per_1000,RS,5.62
-2002,NUMBER,_T,per_1000,RS,3.24
-2003,NUMBER,_T,per_1000,RS,3.51
-2004,NUMBER,_T,per_1000,RS,3.29
-2005,NUMBER,_T,per_1000,RS,3.88
-2006,NUMBER,_T,per_1000,RS,2.57
-2007,NUMBER,_T,per_1000,RS,3.86
-2008,NUMBER,_T,per_1000,RS,3.33
-2009,NUMBER,_T,per_1000,RS,3.02
-2010,NUMBER,_T,per_1000,RS,4.04
-2011,NUMBER,_T,per_1000,RS,3.03
-2012,NUMBER,_T,per_1000,RS,3.81
-2013,NUMBER,_T,per_1000,RS,3.89
-2014,NUMBER,_T,per_1000,RS,2.36
-2015,NUMBER,_T,per_1000,RS,1.82
-2016,NUMBER,_T,per_1000,RS,1.59
-2017,NUMBER,_T,per_1000,RS,1.82
-2018,NUMBER,_T,per_1000,RS,1.88
-2019,NUMBER,_T,per_1000,RS,1.40
-2001,NUMBER,_T,per_1000,BD,10.16
-2002,NUMBER,_T,per_1000,BD,11.26
-2003,NUMBER,_T,per_1000,BD,5.48
-2004,NUMBER,_T,per_1000,BD,4.10
-2005,NUMBER,_T,per_1000,BD,8.84
-2006,NUMBER,_T,per_1000,BD,12.86
-2007,NUMBER,_T,per_1000,BD,16.38
-2008,NUMBER,_T,per_1000,BD,12.15
-2009,NUMBER,_T,per_1000,BD,13.49
-2010,NUMBER,_T,per_1000,BD,4.46
-2011,NUMBER,_T,per_1000,BD,2.18
-2017,NUMBER,_T,per_1000,BD,3.41
-2018,NUMBER,_T,per_1000,BD,2.99
-2019,NUMBER,_T,per_1000,BD,2.89
-2001,NUMBER,M,number_of_stillbirths,BiH,98.00
-2002,NUMBER,M,number_of_stillbirths,BiH,77.00
-2003,NUMBER,M,number_of_stillbirths,BiH,91.00
-2004,NUMBER,M,number_of_stillbirths,BiH,94.00
-2005,NUMBER,M,number_of_stillbirths,BiH,85.00
-2006,NUMBER,M,number_of_stillbirths,BiH,83.00
-2007,NUMBER,M,number_of_stillbirths,BiH,98.00
-2008,NUMBER,M,number_of_stillbirths,BiH,102.00
-2009,NUMBER,M,number_of_stillbirths,BiH,80.00
-2010,NUMBER,M,number_of_stillbirths,BiH,83.00
-2011,NUMBER,M,number_of_stillbirths,BiH,57.00
-2012,NUMBER,M,number_of_stillbirths,BiH,64.00
-2013,NUMBER,M,number_of_stillbirths,BiH,45.00
-2014,NUMBER,M,number_of_stillbirths,BiH,45.00
-2015,NUMBER,M,number_of_stillbirths,BiH,56.00
-2016,NUMBER,M,number_of_stillbirths,BiH,54.00
-2017,NUMBER,M,number_of_stillbirths,BiH,51.00
-2018,NUMBER,M,number_of_stillbirths,BiH,49.00
-2019,NUMBER,M,number_of_stillbirths,BiH,40.00
-2001,NUMBER,F,number_of_stillbirths,BiH,95.00
-2002,NUMBER,F,number_of_stillbirths,BiH,61.00
-2003,NUMBER,F,number_of_stillbirths,BiH,59.00
-2004,NUMBER,F,number_of_stillbirths,BiH,74.00
-2005,NUMBER,F,number_of_stillbirths,BiH,62.00
-2006,NUMBER,F,number_of_stillbirths,BiH,54.00
-2007,NUMBER,F,number_of_stillbirths,BiH,76.00
-2008,NUMBER,F,number_of_stillbirths,BiH,69.00
-2009,NUMBER,F,number_of_stillbirths,BiH,56.00
-2010,NUMBER,F,number_of_stillbirths,BiH,60.00
-2011,NUMBER,F,number_of_stillbirths,BiH,61.00
-2012,NUMBER,F,number_of_stillbirths,BiH,56.00
-2013,NUMBER,F,number_of_stillbirths,BiH,57.00
-2014,NUMBER,F,number_of_stillbirths,BiH,32.00
-2015,NUMBER,F,number_of_stillbirths,BiH,58.00
-2016,NUMBER,F,number_of_stillbirths,BiH,56.00
-2017,NUMBER,F,number_of_stillbirths,BiH,52.00
-2018,NUMBER,F,number_of_stillbirths,BiH,39.00
-2019,NUMBER,F,number_of_stillbirths,BiH,42.00
-1996,NUMBER,_T,number_of_stillbirths,BiH,271.00
-1997,NUMBER,_T,number_of_stillbirths,BiH,240.00
-1998,NUMBER,_T,number_of_stillbirths,BiH,202.00
-1999,NUMBER,_T,number_of_stillbirths,BiH,224.00
-2000,NUMBER,_T,number_of_stillbirths,BiH,159.00
-2001,NUMBER,_T,number_of_stillbirths,BiH,193.00
-2002,NUMBER,_T,number_of_stillbirths,BiH,138.00
-2003,NUMBER,_T,number_of_stillbirths,BiH,150.00
-2004,NUMBER,_T,number_of_stillbirths,BiH,168.00
-2005,NUMBER,_T,number_of_stillbirths,BiH,147.00
-2006,NUMBER,_T,number_of_stillbirths,BiH,137.00
-2007,NUMBER,_T,number_of_stillbirths,BiH,174.00
-2008,NUMBER,_T,number_of_stillbirths,BiH,171.00
-2009,NUMBER,_T,number_of_stillbirths,BiH,136.00
-2010,NUMBER,_T,number_of_stillbirths,BiH,143.00
-2011,NUMBER,_T,number_of_stillbirths,BiH,118.00
-2012,NUMBER,_T,number_of_stillbirths,BiH,120.00
-2013,NUMBER,_T,number_of_stillbirths,BiH,102.00
-2014,NUMBER,_T,number_of_stillbirths,BiH,77.00
-2015,NUMBER,_T,number_of_stillbirths,BiH,114.00
-2016,NUMBER,_T,number_of_stillbirths,BiH,110.00
-2017,NUMBER,_T,number_of_stillbirths,BiH,103.00
-2018,NUMBER,_T,number_of_stillbirths,BiH,88.00
-2019,NUMBER,_T,number_of_stillbirths,BiH,82.00
-1997,NUMBER,M,number_of_stillbirths,FBiH,98.00
-1998,NUMBER,M,number_of_stillbirths,FBiH,76.00
-1999,NUMBER,M,number_of_stillbirths,FBiH,88.00
-2000,NUMBER,M,number_of_stillbirths,FBiH,59.00
-2001,NUMBER,M,number_of_stillbirths,FBiH,60.00
-2002,NUMBER,M,number_of_stillbirths,FBiH,60.00
-2003,NUMBER,M,number_of_stillbirths,FBiH,72.00
-2004,NUMBER,M,number_of_stillbirths,FBiH,70.00
-2005,NUMBER,M,number_of_stillbirths,FBiH,69.00
-2006,NUMBER,M,number_of_stillbirths,FBiH,62.00
-2007,NUMBER,M,number_of_stillbirths,FBiH,73.00
-2008,NUMBER,M,number_of_stillbirths,FBiH,79.00
-2009,NUMBER,M,number_of_stillbirths,FBiH,52.00
-2010,NUMBER,M,number_of_stillbirths,FBiH,55.00
-2011,NUMBER,M,number_of_stillbirths,FBiH,39.00
-2012,NUMBER,M,number_of_stillbirths,FBiH,36.00
-2013,NUMBER,M,number_of_stillbirths,FBiH,27.00
-2014,NUMBER,M,number_of_stillbirths,FBiH,32.00
-2015,NUMBER,M,number_of_stillbirths,FBiH,48.00
-2016,NUMBER,M,number_of_stillbirths,FBiH,54.00
-2017,NUMBER,M,number_of_stillbirths,FBiH,41.00
-2018,NUMBER,M,number_of_stillbirths,FBiH,37.00
-2019,NUMBER,M,number_of_stillbirths,FBiH,36.00
-1997,NUMBER,F,number_of_stillbirths,FBiH,69.00
-1998,NUMBER,F,number_of_stillbirths,FBiH,70.00
-1999,NUMBER,F,number_of_stillbirths,FBiH,66.00
-2000,NUMBER,F,number_of_stillbirths,FBiH,48.00
-2001,NUMBER,F,number_of_stillbirths,FBiH,56.00
-2002,NUMBER,F,number_of_stillbirths,FBiH,38.00
-2003,NUMBER,F,number_of_stillbirths,FBiH,37.00
-2004,NUMBER,F,number_of_stillbirths,FBiH,53.00
-2005,NUMBER,F,number_of_stillbirths,FBiH,41.00
-2006,NUMBER,F,number_of_stillbirths,FBiH,43.00
-2007,NUMBER,F,number_of_stillbirths,FBiH,57.00
-2008,NUMBER,F,number_of_stillbirths,FBiH,50.00
-2009,NUMBER,F,number_of_stillbirths,FBiH,38.00
-2010,NUMBER,F,number_of_stillbirths,FBiH,30.00
-2011,NUMBER,F,number_of_stillbirths,FBiH,37.00
-2012,NUMBER,F,number_of_stillbirths,FBiH,32.00
-2013,NUMBER,F,number_of_stillbirths,FBiH,33.00
-2014,NUMBER,F,number_of_stillbirths,FBiH,21.00
-2015,NUMBER,F,number_of_stillbirths,FBiH,49.00
-2016,NUMBER,F,number_of_stillbirths,FBiH,41.00
-2017,NUMBER,F,number_of_stillbirths,FBiH,43.00
-2018,NUMBER,F,number_of_stillbirths,FBiH,31.00
-2019,NUMBER,F,number_of_stillbirths,FBiH,33.00
-1997,NUMBER,_T,number_of_stillbirths,FBiH,167.00
-1998,NUMBER,_T,number_of_stillbirths,FBiH,146.00
-1999,NUMBER,_T,number_of_stillbirths,FBiH,154.00
-2000,NUMBER,_T,number_of_stillbirths,FBiH,107.00
-2001,NUMBER,_T,number_of_stillbirths,FBiH,116.00
-2002,NUMBER,_T,number_of_stillbirths,FBiH,98.00
-2003,NUMBER,_T,number_of_stillbirths,FBiH,109.00
-2004,NUMBER,_T,number_of_stillbirths,FBiH,123.00
-2005,NUMBER,_T,number_of_stillbirths,FBiH,110.00
-2006,NUMBER,_T,number_of_stillbirths,FBiH,105.00
-2007,NUMBER,_T,number_of_stillbirths,FBiH,130.00
-2008,NUMBER,_T,number_of_stillbirths,FBiH,129.00
-2009,NUMBER,_T,number_of_stillbirths,FBiH,90.00
-2010,NUMBER,_T,number_of_stillbirths,FBiH,85.00
-2011,NUMBER,_T,number_of_stillbirths,FBiH,76.00
-2012,NUMBER,_T,number_of_stillbirths,FBiH,68.00
-2013,NUMBER,_T,number_of_stillbirths,FBiH,60.00
-2014,NUMBER,_T,number_of_stillbirths,FBiH,53.00
-2015,NUMBER,_T,number_of_stillbirths,FBiH,97.00
-2016,NUMBER,_T,number_of_stillbirths,FBiH,95.00
-2017,NUMBER,_T,number_of_stillbirths,FBiH,84.00
-2018,NUMBER,_T,number_of_stillbirths,FBiH,68.00
-2019,NUMBER,_T,number_of_stillbirths,FBiH,69.00
-1997,NUMBER,M,number_of_stillbirths,RS,38.00
-1998,NUMBER,M,number_of_stillbirths,RS,19.00
-1999,NUMBER,M,number_of_stillbirths,RS,39.00
-2000,NUMBER,M,number_of_stillbirths,RS,27.00
-2001,NUMBER,M,number_of_stillbirths,RS,38.00
-2002,NUMBER,M,number_of_stillbirths,RS,17.00
-2003,NUMBER,M,number_of_stillbirths,RS,17.00
-2004,NUMBER,M,number_of_stillbirths,RS,19.00
-2005,NUMBER,M,number_of_stillbirths,RS,20.00
-2006,NUMBER,M,number_of_stillbirths,RS,20.00
-2007,NUMBER,M,number_of_stillbirths,RS,23.00
-2008,NUMBER,M,number_of_stillbirths,RS,20.00
-2009,NUMBER,M,number_of_stillbirths,RS,21.00
-2010,NUMBER,M,number_of_stillbirths,RS,23.00
-2011,NUMBER,M,number_of_stillbirths,RS,12.00
-2012,NUMBER,M,number_of_stillbirths,RS,24.00
-2013,NUMBER,M,number_of_stillbirths,RS,17.00
-2014,NUMBER,M,number_of_stillbirths,RS,13.00
-2015,NUMBER,M,number_of_stillbirths,RS,8.00
-2016,NUMBER,M,number_of_stillbirths,RS,5.00
-2017,NUMBER,M,number_of_stillbirths,RS,10.00
-2018,NUMBER,M,number_of_stillbirths,RS,11.00
-2019,NUMBER,M,number_of_stillbirths,RS,4.00
-1997,NUMBER,F,number_of_stillbirths,RS,39.00
-1998,NUMBER,F,number_of_stillbirths,RS,37.00
-1999,NUMBER,F,number_of_stillbirths,RS,31.00
-2000,NUMBER,F,number_of_stillbirths,RS,25.00
-2001,NUMBER,F,number_of_stillbirths,RS,39.00
-2002,NUMBER,F,number_of_stillbirths,RS,23.00
-2003,NUMBER,F,number_of_stillbirths,RS,20.00
-2004,NUMBER,F,number_of_stillbirths,RS,16.00
-2005,NUMBER,F,number_of_stillbirths,RS,20.00
-2006,NUMBER,F,number_of_stillbirths,RS,7.00
-2007,NUMBER,F,number_of_stillbirths,RS,16.00
-2008,NUMBER,F,number_of_stillbirths,RS,14.00
-2009,NUMBER,F,number_of_stillbirths,RS,11.00
-2010,NUMBER,F,number_of_stillbirths,RS,18.00
-2011,NUMBER,F,number_of_stillbirths,RS,17.00
-2012,NUMBER,F,number_of_stillbirths,RS,14.00
-2013,NUMBER,F,number_of_stillbirths,RS,20.00
-2014,NUMBER,F,number_of_stillbirths,RS,9.00
-2015,NUMBER,F,number_of_stillbirths,RS,9.00
-2016,NUMBER,F,number_of_stillbirths,RS,10.00
-2017,NUMBER,F,number_of_stillbirths,RS,7.00
-2018,NUMBER,F,number_of_stillbirths,RS,7.00
-2019,NUMBER,F,number_of_stillbirths,RS,9.00
-1997,NUMBER,_T,number_of_stillbirths,RS,77.00
-1998,NUMBER,_T,number_of_stillbirths,RS,56.00
-1999,NUMBER,_T,number_of_stillbirths,RS,70.00
-2000,NUMBER,_T,number_of_stillbirths,RS,52.00
-2001,NUMBER,_T,number_of_stillbirths,RS,77.00
-2002,NUMBER,_T,number_of_stillbirths,RS,40.00
-2003,NUMBER,_T,number_of_stillbirths,RS,37.00
-2004,NUMBER,_T,number_of_stillbirths,RS,35.00
-2005,NUMBER,_T,number_of_stillbirths,RS,40.00
-2006,NUMBER,_T,number_of_stillbirths,RS,27.00
-2007,NUMBER,_T,number_of_stillbirths,RS,39.00
-2008,NUMBER,_T,number_of_stillbirths,RS,34.00
-2009,NUMBER,_T,number_of_stillbirths,RS,32.00
-2010,NUMBER,_T,number_of_stillbirths,RS,41.00
-2011,NUMBER,_T,number_of_stillbirths,RS,29.00
-2012,NUMBER,_T,number_of_stillbirths,RS,38.00
-2013,NUMBER,_T,number_of_stillbirths,RS,37.00
-2014,NUMBER,_T,number_of_stillbirths,RS,22.00
-2015,NUMBER,_T,number_of_stillbirths,RS,17.00
-2016,NUMBER,_T,number_of_stillbirths,RS,15.00
-2017,NUMBER,_T,number_of_stillbirths,RS,17.00
-2018,NUMBER,_T,number_of_stillbirths,RS,18.00
-2019,NUMBER,_T,number_of_stillbirths,RS,13.00
-2004,NUMBER,M,number_of_stillbirths,BD,4.00
-2006,NUMBER,M,number_of_stillbirths,BD,1.00
-2007,NUMBER,M,number_of_stillbirths,BD,1.00
-2008,NUMBER,M,number_of_stillbirths,BD,3.00
-2009,NUMBER,M,number_of_stillbirths,BD,6.00
-2010,NUMBER,M,number_of_stillbirths,BD,4.00
-2011,NUMBER,M,number_of_stillbirths,BD,5.00
-2012,NUMBER,M,number_of_stillbirths,BD,4.00
-2013,NUMBER,M,number_of_stillbirths,BD,1.00
-2014,NUMBER,M,number_of_stillbirths,BD,1.00
-2004,NUMBER,F,number_of_stillbirths,BD,6.00
-2005,NUMBER,F,number_of_stillbirths,BD,11.00
-2006,NUMBER,F,number_of_stillbirths,BD,4.00
-2007,NUMBER,F,number_of_stillbirths,BD,3.00
-2008,NUMBER,F,number_of_stillbirths,BD,5.00
-2009,NUMBER,F,number_of_stillbirths,BD,6.00
-2010,NUMBER,F,number_of_stillbirths,BD,11.00
-2011,NUMBER,F,number_of_stillbirths,BD,6.00
-2012,NUMBER,F,number_of_stillbirths,BD,9.00
-2013,NUMBER,F,number_of_stillbirths,BD,3.00
-2014,NUMBER,F,number_of_stillbirths,BD,1.00
-2004,NUMBER,_T,number_of_stillbirths,BD,10.00
-2005,NUMBER,_T,number_of_stillbirths,BD,11.00
-2006,NUMBER,_T,number_of_stillbirths,BD,5.00
-2007,NUMBER,_T,number_of_stillbirths,BD,4.00
-2008,NUMBER,_T,number_of_stillbirths,BD,8.00
-2009,NUMBER,_T,number_of_stillbirths,BD,12.00
-2010,NUMBER,_T,number_of_stillbirths,BD,15.00
-2011,NUMBER,_T,number_of_stillbirths,BD,11.00
-2012,NUMBER,_T,number_of_stillbirths,BD,13.00
-2013,NUMBER,_T,number_of_stillbirths,BD,4.00
-2014,NUMBER,_T,number_of_stillbirths,BD,2.00
+Year,MICS_INDICATORS,UNIT_MEASURE,MICS_NUMBER,Entity,Value
+2000,contraceptive_prevalence_rate_(total),_%,MICS 1,BiH,48
+2000,skilled_attendant_at_delivery,_%,MICS 1,BiH,99.8
+2000,contraceptive_prevalence_rate_(total),_%,MICS 1,FBiH,48.7
+2000,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 1,FBiH,32.9
+2000,contraceptive_prevalence_rate_(modern_methods),_%,MICS 1,FBiH,15.7
+2000,skilled_attendant_at_delivery,_%,MICS 1,FBiH,100
+2000,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 1,FBiH,75.1
+2000,contraceptive_prevalence_rate_(total),_%,MICS 1,RS,45.1
+2000,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 1,RS,29.4
+2000,contraceptive_prevalence_rate_(modern_methods),_%,MICS 1,RS,15.7
+2000,skilled_attendant_at_delivery,_%,MICS 1,RS,98.6
+2000,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 1,RS,77.4
+2006,contraceptive_prevalence_rate_(total),_%,MICS 3,BiH,35.7
+2006,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 3,BiH,24.5
+2006,contraceptive_prevalence_rate_(modern_methods),_%,MICS 3,BiH,11.2
+2006,unmet_need_for_family_planning,_%,MICS 3,BiH,23.3
+2006,satisfied_demand_for_family_planning,_%,MICS 3,BiH,60.5
+2006,skilled_attendant_at_delivery,_%,MICS 3,BiH,99.6
+2006,institutional_deliveries,_%,MICS 3,BiH,99.7
+2006,marriage_before_age_15_(women_15-49),_%,MICS 3,BiH,1
+2006,marriage_before_age_18_(women_20-49),_%,MICS 3,BiH,10.1
+2006,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 3,BiH,7
+2006,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 3,BiH,4.8
+2006,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 3,BiH,34.2
+2006,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 3,BiH,35.8
+2006,sex_with_non-regular_partners_(women_15-24),_%,MICS 3,BiH,25.7
+2006,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 3,BiH,71
+2006,contraceptive_prevalence_rate_(total),_%,MICS 3,FBiH,33.6
+2006,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 3,FBiH,21.5
+2006,contraceptive_prevalence_rate_(modern_methods),_%,MICS 3,FBiH,12.1
+2006,unmet_need_for_family_planning,_%,MICS 3,FBiH,23.3
+2006,satisfied_demand_for_family_planning,_%,MICS 3,FBiH,59
+2006,skilled_attendant_at_delivery,_%,MICS 3,FBiH,99.5
+2006,institutional_deliveries,_%,MICS 3,FBiH,99.6
+2006,marriage_before_age_15_(women_15-49),_%,MICS 3,FBiH,1
+2006,marriage_before_age_18_(women_20-49),_%,MICS 3,FBiH,9.8
+2006,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 3,FBiH,6
+2006,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 3,FBiH,4.9
+2006,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 3,FBiH,37.5
+2006,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 3,FBiH,37.8
+2006,sex_before_age_15_(women_15-19-24),_%,MICS 3,FBiH,0.3
+2006,sex_with_non-regular_partners_(women_15-24),_%,MICS 3,FBiH,17.6
+2006,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 3,FBiH,68.3
+2006,contraceptive_prevalence_rate_(total),_%,MICS 3,RS,40.7
+2006,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 3,RS,31.2
+2006,contraceptive_prevalence_rate_(modern_methods),_%,MICS 3,RS,9.4
+2006,unmet_need_for_family_planning,_%,MICS 3,RS,23.3
+2006,satisfied_demand_for_family_planning,_%,MICS 3,RS,63.6
+2006,skilled_attendant_at_delivery,_%,MICS 3,RS,99.8
+2006,institutional_deliveries,_%,MICS 3,RS,99.8
+2006,marriage_before_age_15_(women_15-49),_%,MICS 3,RS,0.9
+2006,marriage_before_age_18_(women_20-49),_%,MICS 3,RS,10.7
+2006,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 3,RS,9.5
+2006,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 3,RS,4.8
+2006,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 3,RS,28.5
+2006,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 3,RS,33
+2006,sex_before_age_15_(women_15-19-24),_%,MICS 3,RS,1.3
+2006,sex_with_non-regular_partners_(women_15-24),_%,MICS 3,RS,34.5
+2006,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 3,RS,72.5
+2006,contraceptive_prevalence_rate_(total),_%,MICS 3,BD,23.1
+2006,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 3,BD,10.4
+2006,contraceptive_prevalence_rate_(modern_methods),_%,MICS 3,BD,12.7
+2006,unmet_need_for_family_planning,_%,MICS 3,BD,21.3
+2006,satisfied_demand_for_family_planning,_%,MICS 3,BD,52
+2006,marriage_before_age_15_(women_15-49),_%,MICS 3,BD,2.2
+2006,marriage_before_age_18_(women_20-49),_%,MICS 3,BD,9.7
+2006,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 3,BD,0.3
+2006,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 3,BD,15.4
+2006,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 3,BD,16.4
+2011,contraceptive_prevalence_rate_(total),_%,MICS 4 ,BiH,45.8
+2011,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,BiH,34
+2011,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,BiH,12
+2011,unmet_need_for_family_planning,_%,MICS 4 ,BiH,9
+2011,satisfied_demand_for_family_planning,_%,MICS 4 ,BiH,84
+2011,skilled_attendant_at_delivery,_%,MICS 4 ,BiH,99.9
+2011,institutional_deliveries,_%,MICS 4 ,BiH,99.7
+2011,marriage_before_age_15_(women_15-49),_%,MICS 4 ,BiH,0.4
+2011,marriage_before_age_15_(men_15-49),_%,MICS 4 ,BiH,0.1
+2011,marriage_before_age_18_(women_20-49),_%,MICS 4 ,BiH,9.5
+2011,marriage_before_age_18_(men_20-49),_%,MICS 4 ,BiH,0.6
+2011,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 4 ,BiH,0.6
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,BiH,4.8
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,BiH,6
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,BiH,43.4
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,BiH,44.9
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,BiH,47.6
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,BiH,47.4
+2011,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,BiH,15.1
+2011,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,BiH,17.5
+2011,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BiH,79.4
+2011,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BiH,52.8
+2011,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,BiH,0.1
+2011,sex_before_age_15_(men_15-24),_%,MICS 4 ,BiH,1.5
+2011,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BiH,0.9
+2011,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BiH,6.5
+2011,condom_use_during_sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BiH,64.4
+2011,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BiH,60.9
+2011,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,BiH,58.8
+2011,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,BiH,93.5
+2011,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,BiH,71.4
+2011,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,BiH,71
+2011,life_satisfaction_(women_15-24),_%,MICS 4 ,BiH,53.5
+2011,life_satisfaction_(men_15-24),_%,MICS 4 ,BiH,49.5
+2011,happiness_(women_15-24),_%,MICS 4 ,BiH,92.8
+2011,happiness_(men_15-24),_%,MICS 4 ,BiH,91.1
+2011,tobacco_use_(women_15-49),_%,MICS 4 ,BiH,27.3
+2011,tobacco_use_(men_15-49),_%,MICS 4 ,BiH,39.9
+2011,alcohol_use_(women_15-49),_%,MICS 4 ,BiH,18.3
+2011,alcohol_use_(men_15-49),_%,MICS 4 ,BiH,52.7
+2011,contraceptive_prevalence_rate_(total),_%,MICS 4 ,FBiH,43.1
+2011,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,FBiH,33.1
+2011,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,FBiH,10
+2011,unmet_need_for_family_planning,_%,MICS 4 ,FBiH,9.9
+2011,satisfied_demand_for_family_planning,_%,MICS 4 ,FBiH,81.5
+2011,skilled_attendant_at_delivery,_%,MICS 4 ,FBiH,99.9
+2011,institutional_deliveries,_%,MICS 4 ,FBiH,99.6
+2011,marriage_before_age_15_(women_15-49),_%,MICS 4 ,FBiH,0.4
+2011,marriage_before_age_15_(men_15-49),_%,MICS 4 ,FBiH,0.2
+2011,marriage_before_age_18_(women_20-49),_%,MICS 4 ,FBiH,9.9
+2011,marriage_before_age_18_(men_20-49),_%,MICS 4 ,FBiH,0.8
+2011,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 4 ,FBiH,0.8
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,FBiH,5
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,FBiH,5.6
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,FBiH,43.9
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,FBiH,47.5
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,FBiH,46.4
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,FBiH,49.4
+2011,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,FBiH,14.3
+2011,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,FBiH,17.9
+2011,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,FBiH,85
+2011,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,FBiH,53.5
+2011,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,FBiH,0.1
+2011,sex_before_age_15_(men_15-24),_%,MICS 4 ,FBiH,1.8
+2011,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,FBiH,0.9
+2011,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,FBiH,5.7
+2011,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,FBiH,62.6
+2011,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,FBiH,51.4
+2011,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,FBiH,93.3
+2011,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,FBiH,72.8
+2011,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,FBiH,74
+2011,life_satisfaction_(women_15-24),_%,MICS 4 ,FBiH,56.3
+2011,life_satisfaction_(men_15-24),_%,MICS 4 ,FBiH,52.8
+2011,happiness_(women_15-24),_%,MICS 4 ,FBiH,92.5
+2011,happiness_(men_15-24),_%,MICS 4 ,FBiH,92.2
+2011,tobacco_use_(women_15-49),_%,MICS 4 ,FBiH,27.8
+2011,tobacco_use_(men_15-49),_%,MICS 4 ,FBiH,42.4
+2011,alcohol_use_(women_15-49),_%,MICS 4 ,FBiH,12.4
+2011,alcohol_use_(men_15-49),_%,MICS 4 ,FBiH,45.8
+2011,contraceptive_prevalence_rate_(total),_%,MICS 4 ,RS,53.7
+2011,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,RS,36.9
+2011,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,RS,16.8
+2011,unmet_need_for_family_planning,_%,MICS 4 ,RS,6.7
+2011,satisfied_demand_for_family_planning,_%,MICS 4 ,RS,88.9
+2011,skilled_attendant_at_delivery,_%,MICS 4 ,RS,100
+2011,institutional_deliveries,_%,MICS 4 ,RS,100
+2011,marriage_before_age_15_(women_15-49),_%,MICS 4 ,RS,0.6
+2011,marriage_before_age_18_(women_20-49),_%,MICS 4 ,RS,8.2
+2011,marriage_before_age_18_(men_20-49),_%,MICS 4 ,RS,0.1
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,RS,4.3
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,RS,7
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,RS,42.3
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,RS,38.8
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,RS,51.8
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,RS,42.3
+2011,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,RS,16.6
+2011,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,RS,15.9
+2011,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,RS,62.1
+2011,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,RS,52
+2011,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,RS,0.2
+2011,sex_before_age_15_(men_15-24),_%,MICS 4 ,RS,0.7
+2011,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,RS,1
+2011,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,RS,7.9
+2011,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,RS,55
+2011,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,RS,71.8
+2011,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,RS,93.8
+2011,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,RS,69.1
+2011,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,RS,61.7
+2011,life_satisfaction_(women_15-24),_%,MICS 4 ,RS,46.2
+2011,life_satisfaction_(men_15-24),_%,MICS 4 ,RS,42.3
+2011,happiness_(women_15-24),_%,MICS 4 ,RS,93.9
+2011,happiness_(men_15-24),_%,MICS 4 ,RS,88.9
+2011,tobacco_use_(women_15-49),_%,MICS 4 ,RS,26.3
+2011,tobacco_use_(men_15-49),_%,MICS 4 ,RS,34.3
+2011,alcohol_use_(women_15-49),_%,MICS 4 ,RS,33.8
+2011,alcohol_use_(men_15-49),_%,MICS 4 ,RS,68.6
+2011,contraceptive_prevalence_rate_(total),_%,MICS 4 ,BD,24.7
+2011,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,BD,10.2
+2011,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,BD,14.5
+2011,unmet_need_for_family_planning,_%,MICS 4 ,BD,13.1
+2011,satisfied_demand_for_family_planning,_%,MICS 4 ,BD,65.3
+2011,skilled_attendant_at_delivery,_%,MICS 4 ,BD,100
+2011,institutional_deliveries,_%,MICS 4 ,BD,100
+2011,marriage_before_age_15_(men_15-49),_%,MICS 4 ,BD,0.2
+2011,marriage_before_age_18_(women_20-49),_%,MICS 4 ,BD,11.3
+2011,marriage_before_age_18_(men_20-49),_%,MICS 4 ,BD,0.4
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,BD,1.9
+2011,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,BD,7.4
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,BD,40
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,BD,46.2
+2011,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,BD,41.5
+2011,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,BD,45.9
+2011,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,BD,27.1
+2011,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,BD,31.4
+2011,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BD,33
+2011,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BD,2
+2011,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BD,10.9
+2011,life_satisfaction_(women_15-24),_%,MICS 4 ,BD,14.6
+2011,life_satisfaction_(men_15-24),_%,MICS 4 ,BD,28.6
+2011,happiness_(women_15-24),_%,MICS 4 ,BD,85.8
+2011,happiness_(men_15-24),_%,MICS 4 ,BD,75.1
+2011,tobacco_use_(women_15-49),_%,MICS 4 ,BD,23.7
+2011,tobacco_use_(men_15-49),_%,MICS 4 ,BD,37.4
+2011,alcohol_use_(women_15-49),_%,MICS 4 ,BD,20.6
+2011,alcohol_use_(men_15-49),_%,MICS 4 ,BD,58.9
+2012,contraceptive_prevalence_rate_(total),_%,MICS 4 ,BiH,45.8
+2012,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,BiH,34
+2012,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,BiH,12
+2012,unmet_need_for_family_planning,_%,MICS 4 ,BiH,9
+2012,satisfied_demand_for_family_planning,_%,MICS 4 ,BiH,84
+2012,skilled_attendant_at_delivery,_%,MICS 4 ,BiH,99.9
+2012,institutional_deliveries,_%,MICS 4 ,BiH,99.7
+2012,marriage_before_age_15_(women_15-49),_%,MICS 4 ,BiH,0.4
+2012,marriage_before_age_15_(men_15-49),_%,MICS 4 ,BiH,0.1
+2012,marriage_before_age_18_(women_20-49),_%,MICS 4 ,BiH,9.5
+2012,marriage_before_age_18_(men_20-49),_%,MICS 4 ,BiH,0.6
+2012,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 4 ,BiH,0.6
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,BiH,4.8
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,BiH,6
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,BiH,43.4
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,BiH,44.9
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,BiH,47.6
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,BiH,47.4
+2012,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,BiH,15.1
+2012,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,BiH,17.5
+2012,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BiH,79.4
+2012,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BiH,52.8
+2012,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,BiH,0.1
+2012,sex_before_age_15_(men_15-24),_%,MICS 4 ,BiH,1.5
+2012,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BiH,0.9
+2012,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BiH,6.5
+2012,condom_use_during_sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BiH,64.4
+2012,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BiH,60.9
+2012,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,BiH,58.8
+2012,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,BiH,93.5
+2012,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,BiH,71.4
+2012,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,BiH,71
+2012,life_satisfaction_(women_15-24),_%,MICS 4 ,BiH,53.5
+2012,life_satisfaction_(men_15-24),_%,MICS 4 ,BiH,49.5
+2012,happiness_(women_15-24),_%,MICS 4 ,BiH,92.8
+2012,happiness_(men_15-24),_%,MICS 4 ,BiH,91.1
+2012,tobacco_use_(women_15-49),_%,MICS 4 ,BiH,27.3
+2012,tobacco_use_(men_15-49),_%,MICS 4 ,BiH,39.9
+2012,alcohol_use_(women_15-49),_%,MICS 4 ,BiH,18.3
+2012,alcohol_use_(men_15-49),_%,MICS 4 ,BiH,52.7
+2012,contraceptive_prevalence_rate_(total),_%,MICS 4 ,FBiH,43.1
+2012,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,FBiH,33.1
+2012,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,FBiH,10
+2012,unmet_need_for_family_planning,_%,MICS 4 ,FBiH,9.9
+2012,satisfied_demand_for_family_planning,_%,MICS 4 ,FBiH,81.5
+2012,skilled_attendant_at_delivery,_%,MICS 4 ,FBiH,99.9
+2012,institutional_deliveries,_%,MICS 4 ,FBiH,99.6
+2012,marriage_before_age_15_(women_15-49),_%,MICS 4 ,FBiH,0.4
+2012,marriage_before_age_15_(men_15-49),_%,MICS 4 ,FBiH,0.2
+2012,marriage_before_age_18_(women_20-49),_%,MICS 4 ,FBiH,9.9
+2012,marriage_before_age_18_(men_20-49),_%,MICS 4 ,FBiH,0.8
+2012,young_women_aged_15-19_years_currently_married_or_in_union,_%,MICS 4 ,FBiH,0.8
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,FBiH,5
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,FBiH,5.6
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,FBiH,43.9
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,FBiH,47.5
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,FBiH,46.4
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,FBiH,49.4
+2012,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,FBiH,14.3
+2012,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,FBiH,17.9
+2012,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,FBiH,85
+2012,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,FBiH,53.5
+2012,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,FBiH,0.1
+2012,sex_before_age_15_(men_15-24),_%,MICS 4 ,FBiH,1.8
+2012,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,FBiH,0.9
+2012,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,FBiH,5.7
+2012,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,FBiH,62.6
+2012,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,FBiH,51.4
+2012,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,FBiH,93.3
+2012,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,FBiH,72.8
+2012,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,FBiH,74
+2012,life_satisfaction_(women_15-24),_%,MICS 4 ,FBiH,56.3
+2012,life_satisfaction_(men_15-24),_%,MICS 4 ,FBiH,52.8
+2012,happiness_(women_15-24),_%,MICS 4 ,FBiH,92.5
+2012,happiness_(men_15-24),_%,MICS 4 ,FBiH,92.2
+2012,tobacco_use_(women_15-49),_%,MICS 4 ,FBiH,27.8
+2012,tobacco_use_(men_15-49),_%,MICS 4 ,FBiH,42.4
+2012,alcohol_use_(women_15-49),_%,MICS 4 ,FBiH,12.4
+2012,alcohol_use_(men_15-49),_%,MICS 4 ,FBiH,45.8
+2012,contraceptive_prevalence_rate_(total),_%,MICS 4 ,RS,53.7
+2012,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,RS,36.9
+2012,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,RS,16.8
+2012,unmet_need_for_family_planning,_%,MICS 4 ,RS,6.7
+2012,satisfied_demand_for_family_planning,_%,MICS 4 ,RS,88.9
+2012,skilled_attendant_at_delivery,_%,MICS 4 ,RS,100
+2012,institutional_deliveries,_%,MICS 4 ,RS,100
+2012,marriage_before_age_15_(women_15-49),_%,MICS 4 ,RS,0.6
+2012,marriage_before_age_18_(women_20-49),_%,MICS 4 ,RS,8.2
+2012,marriage_before_age_18_(men_20-49),_%,MICS 4 ,RS,0.1
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,RS,4.3
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,RS,7
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,RS,42.3
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,RS,38.8
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,RS,51.8
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,RS,42.3
+2012,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,RS,16.6
+2012,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,RS,15.9
+2012,women_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,RS,62.1
+2012,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,RS,52
+2012,sex_before_age_15_(women_15-19-24),_%,MICS 4 ,RS,0.2
+2012,sex_before_age_15_(men_15-24),_%,MICS 4 ,RS,0.7
+2012,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,RS,1
+2012,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,RS,7.9
+2012,condom_use_during_sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,RS,55
+2012,sex_with_non-regular_partners_(women_15-24),_%,MICS 4 ,RS,71.8
+2012,sex_with_non-regular_partners_(men_15-24),_%,MICS 4 ,RS,93.8
+2012,condom_use_with_non-regular_partners_(women_15-24),_%,MICS 4 ,RS,69.1
+2012,condom_use_with_non-regular_partners_(men_15-24),_%,MICS 4 ,RS,61.7
+2012,life_satisfaction_(women_15-24),_%,MICS 4 ,RS,46.2
+2012,life_satisfaction_(men_15-24),_%,MICS 4 ,RS,42.3
+2012,happiness_(women_15-24),_%,MICS 4 ,RS,93.9
+2012,happiness_(men_15-24),_%,MICS 4 ,RS,88.9
+2012,tobacco_use_(women_15-49),_%,MICS 4 ,RS,26.3
+2012,tobacco_use_(men_15-49),_%,MICS 4 ,RS,34.3
+2012,alcohol_use_(women_15-49),_%,MICS 4 ,RS,33.8
+2012,alcohol_use_(men_15-49),_%,MICS 4 ,RS,68.6
+2012,contraceptive_prevalence_rate_(total),_%,MICS 4 ,BD,24.7
+2012,contraceptive_prevalence_rate_(traditional_methods),_%,MICS 4 ,BD,10.2
+2012,contraceptive_prevalence_rate_(modern_methods),_%,MICS 4 ,BD,14.5
+2012,unmet_need_for_family_planning,_%,MICS 4 ,BD,13.1
+2012,satisfied_demand_for_family_planning,_%,MICS 4 ,BD,65.3
+2012,skilled_attendant_at_delivery,_%,MICS 4 ,BD,100
+2012,institutional_deliveries,_%,MICS 4 ,BD,100
+2012,marriage_before_age_15_(men_15-49),_%,MICS 4 ,BD,0.2
+2012,marriage_before_age_18_(women_20-49),_%,MICS 4 ,BD,11.3
+2012,marriage_before_age_18_(men_20-49),_%,MICS 4 ,BD,0.4
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49),_%,MICS 4 ,BD,1.9
+2012,husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49),_%,MICS 4 ,BD,7.4
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-49),_%,MICS 4 ,BD,40
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-49),_%,MICS 4 ,BD,46.2
+2012,comprehensive_knowledge_about_hiv_prevention_(women_15-24),_%,MICS 4 ,BD,41.5
+2012,comprehensive_knowledge_about_hiv_prevention_(men_15-24),_%,MICS 4 ,BD,45.9
+2012,accepting_attitudes_towards_people_living_with_hiv_(women_15-49),_%,MICS 4 ,BD,27.1
+2012,accepting_attitudes_towards_people_living_with_hiv_(men_15-49),_%,MICS 4 ,BD,31.4
+2012,men_aged_15-24_who_have_never_had_sex_,_%,MICS 4 ,BD,33
+2012,sex_with_multiple_partners_(women_15-49),_%,MICS 4 ,BD,2
+2012,sex_with_multiple_partners_(men_15-49),_%,MICS 4 ,BD,10.9
+2012,life_satisfaction_(women_15-24),_%,MICS 4 ,BD,14.6
+2012,life_satisfaction_(men_15-24),_%,MICS 4 ,BD,28.6
+2012,happiness_(women_15-24),_%,MICS 4 ,BD,85.8
+2012,happiness_(men_15-24),_%,MICS 4 ,BD,75.1
+2012,tobacco_use_(women_15-49),_%,MICS 4 ,BD,23.7
+2012,tobacco_use_(men_15-49),_%,MICS 4 ,BD,37.4
+2012,alcohol_use_(women_15-49),_%,MICS 4 ,BD,20.6
+2012,alcohol_use_(men_15-49),_%,MICS 4 ,BD,58.9
