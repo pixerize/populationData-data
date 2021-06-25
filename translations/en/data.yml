@@ -279,7 +279,7 @@ father_with_children: Father with children
 non-family/single_households: Non-family/single households
 non-family/multi-person_households: Non-family/multi-person households
 TYPE_OF_FAMILY/HOUSEHOLD: Type of family/household
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: 
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE:  Number of households
 average_number_of_hh_members: Average number of HH members
 single_household: Single household
 2_members: 2 members
