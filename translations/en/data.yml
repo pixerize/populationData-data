@@ -114,26 +114,26 @@ unknown: Unknown
 total_illiterate: Total illiterate
 of_total_for_age_group: '% of total for age group'
 CAUSE_OF_DEATH: Cause of death (as per ICD-10 codes)
-infectious_and_parasitic: (A00-B99) Infectious and parasitic diseases
-neoplasms: (C00-C97,D00-D48) Neoplasms
-diseases_of_the_blood: (D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism
-endocrine_metabolic_and_nutritional: (E00-E90) Endocrine metabolic and nutritional diseases
-mental_and_behavioural_disorders: (F00-F99) Mental and behavioural disorders
-diseases_of_the_nervous: (G00-G99) Diseases of the nervous system
-diseases_of_the_eye: (H00-H93) Diseases of the eye, ear and adnexa
-diseases_of_the_circulatory: (I00-I99) Diseases of the circulatory system
-diseases_of_the_respiratory: (J00-J99) Diseases of the respiratory system
-diseases_of_the_digestive: (K00-K93) Diseases of the digestive system
-diseases_of_the_skin: (L00-L99) Diseases of the skin and subcutaneous tissue
-diseases_of_the_musculoskeletal: (M00-M99) Diseases of the musculoskeletal system and connective tissue
-diseases_of_the_genitourinary: (N00-N99) Diseases of the genitourinary system
-pregnancy_childbirth_and_the: (O00-O99) Pregnancy, childbirth and the puerperium
-certain_conditions_originating: (P00-P96) Certain conditions originating in the perinatal period
-congenital_malformations_deformations: (Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities
-symptoms_signs_and_abnormal: (R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified
-injuries_poisoning_and_consequences: (S00-T98) Injuries, poisoning and consequences of external causes
-external_causes_of_mortality: (V01-Y98) External causes of mortality
-factors_influencing_health_status: (Z00-Z99) Factors influencing health status and contract with health services
+infectious_and_parasitic: "(A00-B99) Infectious and parasitic diseases"
+neoplasms: "(C00-C97,D00-D48) Neoplasms"
+diseases_of_the_blood: "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism"
+endocrine_metabolic_and_nutritional: "(E00-E90) Endocrine metabolic and nutritional diseases"
+mental_and_behavioural_disorders: "(F00-F99) Mental and behavioural disorders"
+diseases_of_the_nervous: "(G00-G99) Diseases of the nervous system"
+diseases_of_the_eye: "(H00-H93) Diseases of the eye, ear and adnexa"
+diseases_of_the_circulatory: "(I00-I99) Diseases of the circulatory system"
+diseases_of_the_respiratory: "(J00-J99) Diseases of the respiratory system"
+diseases_of_the_digestive: "(K00-K93) Diseases of the digestive system"
+diseases_of_the_skin: "(L00-L99) Diseases of the skin and subcutaneous tissue"
+diseases_of_the_musculoskeletal: "(M00-M99) Diseases of the musculoskeletal system and connective tissue"
+diseases_of_the_genitourinary: "(N00-N99) Diseases of the genitourinary system"
+pregnancy_childbirth_and_the: "(O00-O99) Pregnancy, childbirth and the puerperium"
+certain_conditions_originating: "(P00-P96) Certain conditions originating in the perinatal period"
+congenital_malformations_deformations: "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities"
+symptoms_signs_and_abnormal: "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+injuries_poisoning_and_consequences: "(S00-T98) Injuries, poisoning and consequences of external causes"
+external_causes_of_mortality: "(V01-Y98) External causes of mortality"
+factors_influencing_health_status: "(Z00-Z99) Factors influencing health status and contract with health services"
 total: Total
 EDUCATION: Education
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Women who have experienced any form of violence after the age of 15 (ever)
