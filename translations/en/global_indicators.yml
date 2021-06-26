@@ -11,10 +11,10 @@
 1-4-2-title: Fertility rate by type 
 1-4-3-title: Sex ratio at birth 
 1-4-4-title: Births by teenage mothers by age group 
-1-5-1-title: Average age of mothers at first birth 
-1-5-2-title: Average age of population by sex
-1-5-3-title: Average age at death by sex  
-1-5-4-title: Average age at first marriage by sex 
+1-5-1-title: Average age of mothers at first birth by entity 
+1-5-2-title: Average age of population by entity and sex
+1-5-3-title: Average age at death by entity and sex  
+1-5-4-title: Average age at first marriage by entity and sex 
 1-6-1-title: Crude death rate
 1-6-2-title: Infant deaths and mortality by sex 
 1-7-1-title: Life expectancy at birth by sex 
