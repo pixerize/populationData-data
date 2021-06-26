@@ -218,7 +218,7 @@
           }
         ]
       },
-      "title": "Average age of population by sex"
+      "title": "Average age of population by entity and sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1996,7 +1996,7 @@
           }
         ]
       },
-      "title": "Average age of mothers at first birth"
+      "title": "Average age of mothers at first birth by entity"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2051,7 +2051,7 @@
           }
         ]
       },
-      "title": "Average age at first marriage by sex"
+      "title": "Average age at first marriage by entity and sex"
     },
     {
       "path": "3-2-1/data.csv",
@@ -2454,7 +2454,7 @@
           }
         ]
       },
-      "title": "Average age at death by sex"
+      "title": "Average age at death by entity and sex"
     },
     {
       "path": "4-1-1/data.csv",
