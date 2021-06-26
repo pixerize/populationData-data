@@ -108,7 +108,7 @@
           }
         ]
       },
-      "title": "GDP (in millions of EUR)"
+      "title": "GDP"
     },
     {
       "path": "6-2-1/data.csv",
@@ -1038,7 +1038,7 @@
           }
         ]
       },
-      "title": "GDP (in millions of USD)"
+      "title": "GDP"
     },
     {
       "path": "6-2-2/data.csv",
@@ -1150,7 +1150,7 @@
           }
         ]
       },
-      "title": "GDP (in millions of BAM)"
+      "title": "GDP (millions)"
     },
     {
       "path": "1-6-2/data.csv",
