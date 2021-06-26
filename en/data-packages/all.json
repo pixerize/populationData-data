@@ -218,7 +218,7 @@
           }
         ]
       },
-      "title": "Average age of population by entity and sex"
+      "title": "Average age of population by sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -917,7 +917,7 @@
           }
         ]
       },
-      "title": "Dependency ratios at state and entity level by sex"
+      "title": "Dependency ratios by sex"
     },
     {
       "path": "6-3-1/data.csv",
@@ -1996,7 +1996,7 @@
           }
         ]
       },
-      "title": "Average age of mothers at first birth by entity"
+      "title": "Average age of mothers at first birth"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2051,7 +2051,7 @@
           }
         ]
       },
-      "title": "Average age at first marriage by entity and sex"
+      "title": "Average age at first marriage by sex"
     },
     {
       "path": "3-2-1/data.csv",
@@ -2454,7 +2454,7 @@
           }
         ]
       },
-      "title": "Average age at death by entity and sex"
+      "title": "Average age at death by sex"
     },
     {
       "path": "4-1-1/data.csv",
@@ -3126,7 +3126,7 @@
           }
         ]
       },
-      "title": "Crude birth rate by entity"
+      "title": "Crude birth rate"
     },
     {
       "path": "1-2-2/data.csv",
@@ -3169,7 +3169,7 @@
           }
         ]
       },
-      "title": "Natural growth rate by entity"
+      "title": "Natural growth rate"
     },
     {
       "path": "3-1-2/data.csv",
@@ -3522,7 +3522,7 @@
           }
         ]
       },
-      "title": "Vital statistics by state/entity and sex"
+      "title": "Vital statistics by sex"
     }
   ]
 }
