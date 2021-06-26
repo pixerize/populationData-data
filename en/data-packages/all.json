@@ -162,7 +162,7 @@
           }
         ]
       },
-      "title": "Percentage of households living in relative poverty"
+      "title": "Households living in relative poverty"
     },
     {
       "path": "1-5-2/data.csv",
@@ -1094,7 +1094,7 @@
           }
         ]
       },
-      "title": "Percentage of population living in relative poverty by sex"
+      "title": "Population living in relative poverty by sex"
     },
     {
       "path": "6-1-1/data.csv",
