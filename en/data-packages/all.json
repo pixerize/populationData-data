@@ -108,7 +108,7 @@
           }
         ]
       },
-      "title": "GDP per foreign currencies and type (EUR)"
+      "title": "GDP (in millions of EUR)"
     },
     {
       "path": "6-2-1/data.csv",
@@ -1038,7 +1038,7 @@
           }
         ]
       },
-      "title": "GDP per foreign currencies and type (USD)"
+      "title": "GDP (in millions of USD)"
     },
     {
       "path": "6-2-2/data.csv",
@@ -1150,7 +1150,7 @@
           }
         ]
       },
-      "title": "GDP (BAM) per type"
+      "title": "GDP (in millions of BAM)"
     },
     {
       "path": "1-6-2/data.csv",
