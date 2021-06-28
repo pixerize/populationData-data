@@ -821,18 +821,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -841,6 +829,31 @@
                 "FBIH",
                 "RS",
                 "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASUREMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }

@@ -1,1 +1,1 @@
-{"From":["SEX"],"To":["Entity"]}
+{"From":["Entity","UNIT_MEASUREMENT"],"To":["UNIT_MEASUREMENT","SEX"]}

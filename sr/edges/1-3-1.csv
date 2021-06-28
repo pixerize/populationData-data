@@ -1,2 +1,3 @@
 From,To
-Пол,Ентитет
+Ентитет,UNIT_MEASUREMENT
+UNIT_MEASUREMENT,Пол

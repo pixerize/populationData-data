@@ -884,19 +884,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -909,6 +896,33 @@
               ]
             },
             "title": "Ентитет"
+          },
+          {
+            "name": "UNIT_MEASUREMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                ""
+              ]
+            },
+            "title": "UNIT_MEASUREMENT"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
           },
           {
             "name": "Value",

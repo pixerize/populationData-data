@@ -43,6 +43,20 @@
             "title": "Unit of measure"
           },
           {
+            "name": "UNIT_MEASUREMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "UNIT_MEASUREMENT"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
