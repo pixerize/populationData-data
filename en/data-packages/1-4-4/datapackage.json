@@ -11,35 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "13 - 14",
-                "15 - 19",
-                "16 - 19",
-                "17 - 19",
-                "19 - 19",
-                "20 - 19",
-                "21 - 19",
-                "22 - 19",
-                "23 - 19",
-                "24 - 19",
-                "25 - 19",
-                "26 - 19",
-                "27 - 19",
-                "28 - 19",
-                "29 - 19",
-                "30 - 19",
-                "31 - 19",
-                "32 - 19",
-                "33 - 19"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -52,20 +23,6 @@
               ]
             },
             "title": "Administrative area"
-          },
-          {
-            "name": "MARRIAGE_BIRTH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "In marriage birth",
-                "Out of marriage birth",
-                "Total",
-                "Unknown marital status birth"
-              ]
-            },
-            "title": "Marriage Birth"
           },
           {
             "name": "UNIT_MEASURE",
@@ -88,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-4",
-  "title": "1-4-4"
+  "title": "Births by teenage mothers by age group"
 }

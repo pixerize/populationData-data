@@ -11,18 +11,36 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
+                "All"
               ]
             },
-            "title": "Administrative area"
+            "title": "Age"
+          },
+          {
+            "name": "FERTILITY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Age specific fertility rates",
+                "Total fertility rate"
+              ]
+            },
+            "title": "Fertility rate"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-3",
-  "title": "1-4-3"
+  "title": "Sex ratio at birth"
 }

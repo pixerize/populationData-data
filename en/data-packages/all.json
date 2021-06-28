@@ -1055,6 +1055,92 @@
       "title": "GDP"
     },
     {
+      "path": "1-4-5/data.csv",
+      "name": "1-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "13 - 14",
+                "15 - 19",
+                "16 - 19",
+                "17 - 19",
+                "19 - 19",
+                "20 - 19",
+                "21 - 19",
+                "22 - 19",
+                "23 - 19",
+                "24 - 19",
+                "25 - 19",
+                "26 - 19",
+                "27 - 19",
+                "28 - 19",
+                "29 - 19",
+                "30 - 19",
+                "31 - 19",
+                "32 - 19",
+                "33 - 19"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "MARRIAGE_BIRTH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "In marriage birth",
+                "Out of marriage birth",
+                "Total",
+                "Unknown marital status birth"
+              ]
+            },
+            "title": "Marriage Birth"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-5-title"
+    },
+    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -1376,35 +1462,6 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "13 - 14",
-                "15 - 19",
-                "16 - 19",
-                "17 - 19",
-                "19 - 19",
-                "20 - 19",
-                "21 - 19",
-                "22 - 19",
-                "23 - 19",
-                "24 - 19",
-                "25 - 19",
-                "26 - 19",
-                "27 - 19",
-                "28 - 19",
-                "29 - 19",
-                "30 - 19",
-                "31 - 19",
-                "32 - 19",
-                "33 - 19"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -1417,20 +1474,6 @@
               ]
             },
             "title": "Administrative area"
-          },
-          {
-            "name": "MARRIAGE_BIRTH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "In marriage birth",
-                "Out of marriage birth",
-                "Total",
-                "Unknown marital status birth"
-              ]
-            },
-            "title": "Marriage Birth"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1449,7 +1492,7 @@
           }
         ]
       },
-      "title": "1-4-4"
+      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1937,18 +1980,36 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
+                "All"
               ]
             },
-            "title": "Administrative area"
+            "title": "Age"
+          },
+          {
+            "name": "FERTILITY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Age specific fertility rates",
+                "Total fertility rate"
+              ]
+            },
+            "title": "Fertility rate"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1967,7 +2028,7 @@
           }
         ]
       },
-      "title": "1-4-3"
+      "title": "Sex ratio at birth"
     },
     {
       "path": "1-5-1/data.csv",
@@ -3263,8 +3324,23 @@
               "enum": [
                 "",
                 "0-4",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-24",
+                "35-39",
+                "40-44",
+                "45-49",
                 "5-9",
-                "Age",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
                 "Total"
               ]
             },
@@ -3348,7 +3424,6 @@
                 "Modriča",
                 "Mostar",
                 "Mrkonjić Grad",
-                "Municipality",
                 "Neum",
                 "Nevesinje",
                 "Novi Grad",

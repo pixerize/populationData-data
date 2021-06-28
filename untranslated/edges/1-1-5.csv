@@ -1,3 +1,3 @@
 From,To
-Municipality,AGE
-AGE,SEX
+SEX,AGE
+AGE,Municipality

@@ -21,18 +21,36 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "_ALL",
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "AGE"
+          },
+          {
+            "name": "FERTILITY_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_fertility_rate",
+                "age_specific_fertility_rates",
+                ""
+              ]
+            },
+            "title": "FERTILITY_RATE"
           },
           {
             "name": "Value",
@@ -45,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-3",
-  "title": "1-4-3"
+  "title": "global_indicators.1-4-3-title"
 }
