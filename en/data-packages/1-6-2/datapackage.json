@@ -29,7 +29,7 @@
             "constraints": {
               "enum": [
                 "",
-                "infant_(up_to_12_months_of_age)_mortality_rate",
+                "Infant (up to 12 months of age) mortality rate",
                 "Number of infant deaths"
               ]
             },
