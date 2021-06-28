@@ -279,7 +279,7 @@
           }
         ]
       },
-      "title": "Fertility rate by type"
+      "title": "Total Fertility rate"
     },
     {
       "path": "2-1-1/data.csv",
@@ -1138,7 +1138,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-5-title"
+      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "6-2-2/data.csv",
@@ -1492,7 +1492,7 @@
           }
         ]
       },
-      "title": "Births by teenage mothers by age group"
+      "title": "Sex ratio at birth"
     },
     {
       "path": "2-1-2/data.csv",
@@ -2028,7 +2028,7 @@
           }
         ]
       },
-      "title": "Sex ratio at birth"
+      "title": "Age-specific fertility rate"
     },
     {
       "path": "1-5-1/data.csv",
