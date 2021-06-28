@@ -24,8 +24,7 @@
                 "35-39",
                 "40-44",
                 "45-49",
-                "50+",
-                "All"
+                "50+"
               ]
             },
             "title": "Age"
@@ -36,8 +35,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Age specific fertility rates",
-                "Total fertility rate"
+                "Age specific fertility rates"
               ]
             },
             "title": "Fertility rate"
