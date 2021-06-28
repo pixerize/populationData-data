@@ -1865,16 +1865,6 @@
             }
           },
           {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age_specific_fertility_rates",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -2009,17 +2009,6 @@
             "title": "AGE"
           },
           {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age_specific_fertility_rates",
-                ""
-              ]
-            },
-            "title": "FERTILITY_RATE"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

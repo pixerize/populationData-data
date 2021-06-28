@@ -30,17 +30,6 @@
             "title": "Age"
           },
           {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Age specific fertility rates"
-              ]
-            },
-            "title": "Fertility rate"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
