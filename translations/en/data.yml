@@ -70,7 +70,7 @@ per 100000 population: Per 100000 population
 number of victims of intentional homicide per 100,000 population, by sex: Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population) 
 number of victims of intentional homicide, by sex: Number of victims of intentional homicide, by sex (number)
 BIRTHS: Births
-LIVE_BIRTH: Live birth
+LIVE_BIRTH: Live births
 DEATHS: Deaths
 NATURAL_CHANGE: Natural change
 total_support_ratio: Total support ratio
@@ -323,3 +323,4 @@ natural_increase: Natural increase
 mean_age: Mean age
 number_birth_rate: Number per 1,000 population
 infant_(up_to_12_months_of_age)_mortality_rate: Infant (up to 12 months of age) mortality rate
+VITAL_STATISTICS: Vital statistics
