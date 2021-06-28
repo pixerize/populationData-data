@@ -1,1 +1,1 @@
-{"From":["AGE","MARRIAGE_BIRTH"],"To":["MARRIAGE_BIRTH","Entity"]}
+{"From":["Entity","AGE"],"To":["AGE","Year.1"]}
