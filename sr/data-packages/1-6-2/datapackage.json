@@ -16,23 +16,6 @@
             "title": "Година"
           },
           {
-            "name": "INFANT_MORTALITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "infant_(up_to_12_months_of_age)_mortality_rate",
-                "number_of_infant_deaths",
-                ""
-              ]
-            },
-            "title": "INFANT_MORTALITY"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -57,6 +40,23 @@
               ]
             },
             "title": "SEX"
+          },
+          {
+            "name": "INFANT_MORTALITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "infant_(up_to_12_months_of_age)_mortality_rate",
+                "number_of_infant_deaths",
+                ""
+              ]
+            },
+            "title": "INFANT_MORTALITY"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

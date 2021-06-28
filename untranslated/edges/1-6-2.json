@@ -1,1 +1,1 @@
-{"From":["INFANT_MORTALITY","Entity"],"To":["Entity","SEX"]}
+{"From":["Entity","SEX"],"To":["SEX","INFANT_MORTALITY"]}

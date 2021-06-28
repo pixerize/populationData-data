@@ -1080,21 +1080,6 @@
             "type": "integer"
           },
           {
-            "name": "INFANT_MORTALITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "infant_(up_to_12_months_of_age)_mortality_rate",
-                "number_of_infant_deaths",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -1117,6 +1102,21 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "INFANT_MORTALITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "infant_(up_to_12_months_of_age)_mortality_rate",
+                "number_of_infant_deaths",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
