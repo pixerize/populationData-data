@@ -19,16 +19,6 @@
             "type": "string"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_millions",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {

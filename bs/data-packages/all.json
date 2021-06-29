@@ -1155,17 +1155,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_millions",
-                ""
-              ]
-            },
-            "title": "QUANTITY"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {

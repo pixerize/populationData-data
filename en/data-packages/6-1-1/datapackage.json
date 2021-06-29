@@ -25,17 +25,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total (millions)"
-              ]
-            },
-            "title": "Quantity"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
