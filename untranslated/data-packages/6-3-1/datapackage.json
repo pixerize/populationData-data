@@ -19,21 +19,6 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -46,11 +31,16 @@
             }
           },
           {
-            "name": "ACTIVITY_RATES",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "active_labour_force",
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
                 ""
               ]
             }

@@ -855,21 +855,6 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -882,11 +867,16 @@
             }
           },
           {
-            "name": "ACTIVITY_RATES",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "active_labour_force",
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
                 ""
               ]
             }
@@ -2278,6 +2268,18 @@
             "type": "integer"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -2293,18 +2295,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
