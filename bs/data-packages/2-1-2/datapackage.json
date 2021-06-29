@@ -16,6 +16,19 @@
             "title": "Godina"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
@@ -25,6 +38,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-14",
+                "0-18",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -51,32 +73,10 @@
                 "115-119",
                 "120+",
                 "Total",
-                "0-14",
-                "0-18",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
                 ""
               ]
             },
             "title": "AGE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "Value",
