@@ -1160,19 +1160,6 @@
             "title": "Godina"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1186,16 +1173,16 @@
             "title": "SEX"
           },
           {
-            "name": "INFANT_MORTALITY",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "infant_(up_to_12_months_of_age)_mortality_rate",
-                "number_of_infant_deaths",
+                "BiH",
+                "Federacija BiH",
                 ""
               ]
             },
-            "title": "INFANT_MORTALITY"
+            "title": "Entitet"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1204,7 +1191,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

@@ -1,431 +1,142 @@
-Year,Ентитет,Пол,INFANT_MORTALITY,UNIT_MEASURE,Value
-1971,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,22.0
-1981,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.2
-1991,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.9
-1996,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.01468
-1997,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.41812509
-1998,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.97607039
-1999,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.14977393
-2000,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.680762328
-2001,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.609300846
-2002,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.385449743
-2003,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.60628938
-2004,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.197519274
-2005,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.728853207
-2006,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.492727647
-2007,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.827249889
-2008,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.876170412
-2009,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.483357453
-2010,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.442376521
-2011,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.784162711
-2012,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.438289243
-2013,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.898839786
-2014,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.153957975
-2015,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.113537118
-2016,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.897359441
-2017,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.490066225
-2018,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.210336987
-2019,BiH,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.699576869
-1996,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.75530781
-1997,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.58670989
-1998,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.89220918
-1999,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.18506193
-2000,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.7806145
-2001,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.195876289
-2002,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.43886976
-2003,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.40152755
-2004,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.327358959
-2005,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.473169635
-2006,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.004388215
-2007,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.528230866
-2008,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.44953085
-2009,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.44408644
-2010,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.235052382
-2011,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.714657311
-2012,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.611078023
-2013,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.883485949
-2014,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.744502148
-2015,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.140580089
-2016,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.062865869
-2017,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.698991961
-2018,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.96017815
-2019,BiH,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.889099014
-1996,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,13.20057668
-1997,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.04329004
-1998,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.896302474
-1999,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.074323027
-2000,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.509083316
-2001,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.988043894
-2002,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.270676692
-2003,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.743965925
-2004,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.993653778
-2005,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.941770648
-2006,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.883780177
-2007,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.07324704
-2008,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.268458803
-2009,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.526074083
-2010,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.599655406
-2011,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.777486911
-2012,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.188614584
-2013,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.848811368
-2014,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.589257719
-2015,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.084912184
-2016,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.631229695
-2017,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.264628941
-2018,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.47932953
-2019,BiH,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.492548325
-1996,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,13.8
-1997,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.97224813
-1998,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.13468869
-1999,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.15720212
-2000,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.03578748
-2001,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.909984179
-2002,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.5371812
-2003,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.718922652
-2004,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.539325843
-2005,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.844715966
-2006,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.48986205
-2007,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.887865531
-2008,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.464223386
-2009,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.550298957
-2010,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.684746671
-2011,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.642170718
-2012,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.473546945
-2013,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.346736163
-2014,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.38832998
-2015,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.95536729
-2016,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.479012974
-2017,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.171912833
-2018,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.3602307
-2019,Федерација БиХ,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.267994894
-1997,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,15.36662769
-1998,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.37836515
-1999,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.2173852
-2000,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.45415648
-2001,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.556977403
-2002,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.56553805
-2003,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.09683026
-2004,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.323806204
-2005,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.01151768
-2006,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.33220309
-2007,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.09474896
-2008,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.377664109
-2009,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.325698889
-2010,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.08225932
-2011,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.717450518
-2012,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.620584544
-2013,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.468867289
-2014,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.18556701
-2015,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.498583569
-2016,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.517720775
-2017,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.490289841
-2018,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.314514473
-2019,Федерација БиХ,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.526867908
-1997,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.3408187
-1998,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.711945032
-1999,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.05684303
-2000,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.524584826
-2001,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.225516237
-2002,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.453131902
-2003,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.216959856
-2004,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.703731205
-2005,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.607776839
-2006,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.503607504
-2007,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.580118979
-2008,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.506702413
-2009,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.791972456
-2010,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.191664356
-2011,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.482670844
-2012,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.233572398
-2013,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.151322534
-2014,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.601340897
-2015,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.388642601
-2016,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.355258977
-2017,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.831262399
-2018,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.408867533
-2019,Федерација БиХ,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.98928201
-1996,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,14.59675446
-1997,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.33968162
-1998,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.279736823
-1999,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.206896552
-2000,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.258121345
-2001,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.328856121
-2002,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.214656291
-2003,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.073835057
-2004,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.73955589
-2005,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.584576632
-2006,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.75104523
-2007,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.758654797
-2008,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.922337713
-2009,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.809959445
-2010,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.336257022
-2011,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.497437507
-2012,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.708157947
-2013,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.470031546
-2014,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.106588109
-2015,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.778668377
-2016,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.43334744
-2017,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.784023985
-2018,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.776755853
-2019,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.617425059
-1996,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,15.54648241
-1997,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.95986622
-1998,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.461940404
-1999,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.196645929
-2000,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.787949173
-2001,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.813129165
-2002,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.326787117
-2003,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.871559633
-2004,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.796917498
-2005,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.772161449
-2006,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.793309662
-2007,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.459542572
-2008,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.800836184
-2009,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.199928277
-2010,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.858024691
-2011,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,5.191693291
-2012,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.912556494
-2013,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.279600571
-2014,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.269913331
-2015,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.858736059
-2016,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.447576556
-2017,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.660663119
-2018,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.399720056
-2019,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.426533524
-1996,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,13.57082273
-1997,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.57301322
-1998,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.981073534
-1999,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.177033493
-2000,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.693830035
-2001,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.814926271
-2002,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.029140847
-2003,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.290544525
-2004,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.520438099
-2005,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.386454183
-2006,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.672917069
-2007,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.075810067
-2008,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.051863857
-2009,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.377238361
-2010,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.835784808
-2011,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.733801889
-2012,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.454489671
-2013,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.606995438
-2014,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,4.009801738
-2015,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,3.765227021
-2016,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.327140013
-2017,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.919380193
-2018,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,2.189621196
-2019,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,1.831921227
-1996,BiH,Оба пола,number_of_infant_deaths,Број,653.0
-1997,BiH,Оба пола,number_of_infant_deaths,Број,601.0
-1998,BiH,Оба пола,number_of_infant_deaths,Број,494.0
-1999,BiH,Оба пола,number_of_infant_deaths,Број,431.0
-2000,BiH,Оба пола,number_of_infant_deaths,Број,383.0
-2001,BiH,Оба пола,number_of_infant_deaths,Број,287.0
-2002,BiH,Оба пола,number_of_infant_deaths,Број,334.0
-2003,BiH,Оба пола,number_of_infant_deaths,Број,268.0
-2004,BiH,Оба пола,number_of_infant_deaths,Број,253.0
-2005,BiH,Оба пола,number_of_infant_deaths,Број,233.0
-2006,BiH,Оба пола,number_of_infant_deaths,Број,255.0
-2007,BiH,Оба пола,number_of_infant_deaths,Број,231.0
-2008,BiH,Оба пола,number_of_infant_deaths,Број,235.0
-2009,BiH,Оба пола,number_of_infant_deaths,Број,224.0
-2010,BiH,Оба пола,number_of_infant_deaths,Број,216.0
-2011,BiH,Оба пола,number_of_infant_deaths,Број,184.0
-2012,BiH,Оба пола,number_of_infant_deaths,Број,177.0
-2013,BiH,Оба пола,number_of_infant_deaths,Број,181.0
-2014,BiH,Оба пола,number_of_infant_deaths,Број,156.0
-2015,BiH,Оба пола,number_of_infant_deaths,Број,182.0
-2016,BiH,Оба пола,number_of_infant_deaths,Број,178.0
-2017,BiH,Оба пола,number_of_infant_deaths,Број,196.0
-2018,BiH,Оба пола,number_of_infant_deaths,Број,183.0
-2019,BiH,Оба пола,number_of_infant_deaths,Број,190.0
-1996,BiH,Мушкарци,number_of_infant_deaths,Број,360.0
-1997,BiH,Мушкарци,number_of_infant_deaths,Број,369.0
-1998,BiH,Мушкарци,number_of_infant_deaths,Број,302.0
-1999,BiH,Мушкарци,number_of_infant_deaths,Број,242.0
-2000,BiH,Мушкарци,number_of_infant_deaths,Број,220.0
-2001,BiH,Мушкарци,number_of_infant_deaths,Број,159.0
-2002,BiH,Мушкарци,number_of_infant_deaths,Број,191.0
-2003,BiH,Мушкарци,number_of_infant_deaths,Број,154.0
-2004,BiH,Мушкарци,number_of_infant_deaths,Број,151.0
-2005,BiH,Мушкарци,number_of_infant_deaths,Број,133.0
-2006,BiH,Мушкарци,number_of_infant_deaths,Број,158.0
-2007,BiH,Мушкарци,number_of_infant_deaths,Број,132.0
-2008,BiH,Мушкарци,number_of_infant_deaths,Број,131.0
-2009,BiH,Мушкарци,number_of_infant_deaths,Број,116.0
-2010,BiH,Мушкарци,number_of_infant_deaths,Број,125.0
-2011,BiH,Мушкарци,number_of_infant_deaths,Број,111.0
-2012,BiH,Мушкарци,number_of_infant_deaths,Број,111.0
-2013,BiH,Мушкарци,number_of_infant_deaths,Број,109.0
-2014,BiH,Мушкарци,number_of_infant_deaths,Број,74.0
-2015,BiH,Мушкарци,number_of_infant_deaths,Број,94.0
-2016,BiH,Мушкарци,number_of_infant_deaths,Број,111.0
-2017,BiH,Мушкарци,number_of_infant_deaths,Број,105.0
-2018,BiH,Мушкарци,number_of_infant_deaths,Број,91.0
-2019,BiH,Мушкарци,number_of_infant_deaths,Број,102.0
-1996,BiH,Жене,number_of_infant_deaths,Број,293.0
-1997,BiH,Жене,number_of_infant_deaths,Број,232.0
-1998,BiH,Жене,number_of_infant_deaths,Број,192.0
-1999,BiH,Жене,number_of_infant_deaths,Број,189.0
-2000,BiH,Жене,number_of_infant_deaths,Број,163.0
-2001,BiH,Жене,number_of_infant_deaths,Број,128.0
-2002,BiH,Жене,number_of_infant_deaths,Број,143.0
-2003,BiH,Жене,number_of_infant_deaths,Број,114.0
-2004,BiH,Жене,number_of_infant_deaths,Број,102.0
-2005,BiH,Жене,number_of_infant_deaths,Број,100.0
-2006,BiH,Жене,number_of_infant_deaths,Број,97.0
-2007,BiH,Жене,number_of_infant_deaths,Број,99.0
-2008,BiH,Жене,number_of_infant_deaths,Број,104.0
-2009,BiH,Жене,number_of_infant_deaths,Број,108.0
-2010,BiH,Жене,number_of_infant_deaths,Број,91.0
-2011,BiH,Жене,number_of_infant_deaths,Број,73.0
-2012,BiH,Жене,number_of_infant_deaths,Број,66.0
-2013,BiH,Жене,number_of_infant_deaths,Број,72.0
-2014,BiH,Жене,number_of_infant_deaths,Број,82.0
-2015,BiH,Жене,number_of_infant_deaths,Број,88.0
-2016,BiH,Жене,number_of_infant_deaths,Број,67.0
-2017,BiH,Жене,number_of_infant_deaths,Број,91.0
-2018,BiH,Жене,number_of_infant_deaths,Број,92.0
-2019,BiH,Жене,number_of_infant_deaths,Број,88.0
-1997,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,445.0
-1998,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,382.0
-1999,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,312.0
-2000,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,280.0
-2001,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,214.0
-2002,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,245.0
-2003,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,202.0
-2004,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,190.0
-2005,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,194.0
-2006,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,205.0
-2007,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,193.0
-2008,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,194.0
-2009,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,173.0
-2010,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,172.0
-2011,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,141.0
-2012,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,139.0
-2013,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,148.0
-2014,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,127.0
-2015,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,154.0
-2016,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,147.0
-2017,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,162.0
-2018,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,158.0
-2019,Федерација БиХ,Оба пола,number_of_infant_deaths,Број,167.0
-1997,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,276.0
-1998,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,235.0
-1999,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,174.0
-2000,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,163.0
-2001,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,118.0
-2002,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,138.0
-2003,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,122.0
-2004,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,107.0
-2005,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,113.0
-2006,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,127.0
-2007,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,114.0
-2008,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,110.0
-2009,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,87.0
-2010,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,105.0
-2011,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,85.0
-2012,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,85.0
-2013,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,88.0
-2014,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,63.0
-2015,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,84.0
-2016,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,87.0
-2017,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,87.0
-2018,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,81.0
-2019,Федерација БиХ,Мушкарци,number_of_infant_deaths,Број,89.0
-1997,Федерација БиХ,Жене,number_of_infant_deaths,Број,169.0
-1998,Федерација БиХ,Жене,number_of_infant_deaths,Број,147.0
-1999,Федерација БиХ,Жене,number_of_infant_deaths,Број,138.0
-2000,Федерација БиХ,Жене,number_of_infant_deaths,Број,117.0
-2001,Федерација БиХ,Жене,number_of_infant_deaths,Број,96.0
-2002,Федерација БиХ,Жене,number_of_infant_deaths,Број,107.0
-2003,Федерација БиХ,Жене,number_of_infant_deaths,Број,80.0
-2004,Федерација БиХ,Жене,number_of_infant_deaths,Број,83.0
-2005,Федерација БиХ,Жене,number_of_infant_deaths,Број,81.0
-2006,Федерација БиХ,Жене,number_of_infant_deaths,Број,78.0
-2007,Федерација БиХ,Жене,number_of_infant_deaths,Број,79.0
-2008,Федерација БиХ,Жене,number_of_infant_deaths,Број,84.0
-2009,Федерација БиХ,Жене,number_of_infant_deaths,Број,86.0
-2010,Федерација БиХ,Жене,number_of_infant_deaths,Број,67.0
-2011,Федерација БиХ,Жене,number_of_infant_deaths,Број,56.0
-2012,Федерација БиХ,Жене,number_of_infant_deaths,Број,54.0
-2013,Федерација БиХ,Жене,number_of_infant_deaths,Број,60.0
-2014,Федерација БиХ,Жене,number_of_infant_deaths,Број,64.0
-2015,Федерација БиХ,Жене,number_of_infant_deaths,Број,70.0
-2016,Федерација БиХ,Жене,number_of_infant_deaths,Број,60.0
-2017,Федерација БиХ,Жене,number_of_infant_deaths,Број,75.0
-2018,Федерација БиХ,Жене,number_of_infant_deaths,Број,77.0
-2019,Федерација БиХ,Жене,number_of_infant_deaths,Број,78.0
-1996,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,179.0
-1997,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,156.0
-1998,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,112.0
-1999,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,119.0
-2000,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,103.0
-2001,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,73.0
-2002,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,89.0
-2003,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,64.0
-2004,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,61.0
-2005,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,37.0
-2006,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,50.0
-2007,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,38.0
-2008,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,40.0
-2009,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,51.0
-2010,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,44.0
-2011,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,43.0
-2012,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,37.0
-2013,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,33.0
-2014,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,29.0
-2015,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,26.0
-2016,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,23.0
-2017,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,26.0
-2018,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.0
-2019,Република Српска,Оба пола,infant_(up_to_12_months_of_age)_mortality_rate,Број,15.0
-1996,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,99.0
-1997,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,93.0
-1998,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,67.0
-1999,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,68.0
-2000,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,57.0
-2001,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,41.0
-2002,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,53.0
-2003,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,32.0
-2004,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,43.0
-2005,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,20.0
-2006,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,31.0
-2007,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,18.0
-2008,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,20.0
-2009,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,29.0
-2010,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,20.0
-2011,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,26.0
-2012,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,25.0
-2013,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,21.0
-2014,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,11.0
-2015,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,9.0
-2016,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.0
-2017,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,13.0
-2018,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.0
-2019,Република Српска,Мушкарци,infant_(up_to_12_months_of_age)_mortality_rate,Број,7.0
-1996,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,80.0
-1997,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,63.0
-1998,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,45.0
-1999,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,51.0
-2000,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,46.0
-2001,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,32.0
-2002,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,36.0
-2003,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,32.0
-2004,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,18.0
-2005,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.0
-2006,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,19.0
-2007,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,20.0
-2008,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,20.0
-2009,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,22.0
-2010,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,24.0
-2011,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.0
-2012,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.0
-2013,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,12.0
-2014,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,18.0
-2015,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,17.0
-2016,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,6.0
-2017,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,13.0
-2018,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,10.0
-2019,Република Српска,Жене,infant_(up_to_12_months_of_age)_mortality_rate,Број,8.0
+Year,Пол,Ентитет,UNIT_MEASURE,Value
+1996,Оба пола,BiH,Број,653
+1997,Оба пола,BiH,Број,601
+1998,Оба пола,BiH,Број,494
+1999,Оба пола,BiH,Број,431
+2000,Оба пола,BiH,Број,383
+2001,Оба пола,BiH,Број,287
+2002,Оба пола,BiH,Број,334
+2003,Оба пола,BiH,Број,268
+2004,Оба пола,BiH,Број,253
+2005,Оба пола,BiH,Број,233
+2006,Оба пола,BiH,Број,255
+2007,Оба пола,BiH,Број,231
+2008,Оба пола,BiH,Број,235
+2009,Оба пола,BiH,Број,224
+2010,Оба пола,BiH,Број,216
+2011,Оба пола,BiH,Број,184
+2012,Оба пола,BiH,Број,177
+2013,Оба пола,BiH,Број,181
+2014,Оба пола,BiH,Број,156
+2015,Оба пола,BiH,Број,182
+2016,Оба пола,BiH,Број,178
+2017,Оба пола,BiH,Број,196
+2018,Оба пола,BiH,Број,183
+2019,Оба пола,BiH,Број,190
+1996,Мушкарци,BiH,Број,360
+1997,Мушкарци,BiH,Број,369
+1998,Мушкарци,BiH,Број,302
+1999,Мушкарци,BiH,Број,242
+2000,Мушкарци,BiH,Број,220
+2001,Мушкарци,BiH,Број,159
+2002,Мушкарци,BiH,Број,191
+2003,Мушкарци,BiH,Број,154
+2004,Мушкарци,BiH,Број,151
+2005,Мушкарци,BiH,Број,133
+2006,Мушкарци,BiH,Број,158
+2007,Мушкарци,BiH,Број,132
+2008,Мушкарци,BiH,Број,131
+2009,Мушкарци,BiH,Број,116
+2010,Мушкарци,BiH,Број,125
+2011,Мушкарци,BiH,Број,111
+2012,Мушкарци,BiH,Број,111
+2013,Мушкарци,BiH,Број,109
+2014,Мушкарци,BiH,Број,74
+2015,Мушкарци,BiH,Број,94
+2016,Мушкарци,BiH,Број,111
+2017,Мушкарци,BiH,Број,105
+2018,Мушкарци,BiH,Број,91
+2019,Мушкарци,BiH,Број,102
+1996,Жене,BiH,Број,293
+1997,Жене,BiH,Број,232
+1998,Жене,BiH,Број,192
+1999,Жене,BiH,Број,189
+2000,Жене,BiH,Број,163
+2001,Жене,BiH,Број,128
+2002,Жене,BiH,Број,143
+2003,Жене,BiH,Број,114
+2004,Жене,BiH,Број,102
+2005,Жене,BiH,Број,100
+2006,Жене,BiH,Број,97
+2007,Жене,BiH,Број,99
+2008,Жене,BiH,Број,104
+2009,Жене,BiH,Број,108
+2010,Жене,BiH,Број,91
+2011,Жене,BiH,Број,73
+2012,Жене,BiH,Број,66
+2013,Жене,BiH,Број,72
+2014,Жене,BiH,Број,82
+2015,Жене,BiH,Број,88
+2016,Жене,BiH,Број,67
+2017,Жене,BiH,Број,91
+2018,Жене,BiH,Број,92
+2019,Жене,BiH,Број,88
+1997,Оба пола,Федерација БиХ,Број,445
+1998,Оба пола,Федерација БиХ,Број,382
+1999,Оба пола,Федерација БиХ,Број,312
+2000,Оба пола,Федерација БиХ,Број,280
+2001,Оба пола,Федерација БиХ,Број,214
+2002,Оба пола,Федерација БиХ,Број,245
+2003,Оба пола,Федерација БиХ,Број,202
+2004,Оба пола,Федерација БиХ,Број,190
+2005,Оба пола,Федерација БиХ,Број,194
+2006,Оба пола,Федерација БиХ,Број,205
+2007,Оба пола,Федерација БиХ,Број,193
+2008,Оба пола,Федерација БиХ,Број,194
+2009,Оба пола,Федерација БиХ,Број,173
+2010,Оба пола,Федерација БиХ,Број,172
+2011,Оба пола,Федерација БиХ,Број,141
+2012,Оба пола,Федерација БиХ,Број,139
+2013,Оба пола,Федерација БиХ,Број,148
+2014,Оба пола,Федерација БиХ,Број,127
+2015,Оба пола,Федерација БиХ,Број,154
+2016,Оба пола,Федерација БиХ,Број,147
+2017,Оба пола,Федерација БиХ,Број,162
+2018,Оба пола,Федерација БиХ,Број,158
+2019,Оба пола,Федерација БиХ,Број,167
+1997,Мушкарци,Федерација БиХ,Број,276
+1998,Мушкарци,Федерација БиХ,Број,235
+1999,Мушкарци,Федерација БиХ,Број,174
+2000,Мушкарци,Федерација БиХ,Број,163
+2001,Мушкарци,Федерација БиХ,Број,118
+2002,Мушкарци,Федерација БиХ,Број,138
+2003,Мушкарци,Федерација БиХ,Број,122
+2004,Мушкарци,Федерација БиХ,Број,107
+2005,Мушкарци,Федерација БиХ,Број,113
+2006,Мушкарци,Федерација БиХ,Број,127
+2007,Мушкарци,Федерација БиХ,Број,114
+2008,Мушкарци,Федерација БиХ,Број,110
+2009,Мушкарци,Федерација БиХ,Број,87
+2010,Мушкарци,Федерација БиХ,Број,105
+2011,Мушкарци,Федерација БиХ,Број,85
+2012,Мушкарци,Федерација БиХ,Број,85
+2013,Мушкарци,Федерација БиХ,Број,88
+2014,Мушкарци,Федерација БиХ,Број,63
+2015,Мушкарци,Федерација БиХ,Број,84
+2016,Мушкарци,Федерација БиХ,Број,87
+2017,Мушкарци,Федерација БиХ,Број,87
+2018,Мушкарци,Федерација БиХ,Број,81
+2019,Мушкарци,Федерација БиХ,Број,89
+1997,Жене,Федерација БиХ,Број,169
+1998,Жене,Федерација БиХ,Број,147
+1999,Жене,Федерација БиХ,Број,138
+2000,Жене,Федерација БиХ,Број,117
+2001,Жене,Федерација БиХ,Број,96
+2002,Жене,Федерација БиХ,Број,107
+2003,Жене,Федерација БиХ,Број,80
+2004,Жене,Федерација БиХ,Број,83
+2005,Жене,Федерација БиХ,Број,81
+2006,Жене,Федерација БиХ,Број,78
+2007,Жене,Федерација БиХ,Број,79
+2008,Жене,Федерација БиХ,Број,84
+2009,Жене,Федерација БиХ,Број,86
+2010,Жене,Федерација БиХ,Број,67
+2011,Жене,Федерација БиХ,Број,56
+2012,Жене,Федерација БиХ,Број,54
+2013,Жене,Федерација БиХ,Број,60
+2014,Жене,Федерација БиХ,Број,64
+2015,Жене,Федерација БиХ,Број,70
+2016,Жене,Федерација БиХ,Број,60
+2017,Жене,Федерација БиХ,Број,75
+2018,Жене,Федерација БиХ,Број,77
+2019,Жене,Федерација БиХ,Број,78

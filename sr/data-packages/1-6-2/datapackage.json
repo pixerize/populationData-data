@@ -16,19 +16,6 @@
             "title": "Година"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                ""
-              ]
-            },
-            "title": "Ентитет"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -42,16 +29,16 @@
             "title": "SEX"
           },
           {
-            "name": "INFANT_MORTALITY",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "infant_(up_to_12_months_of_age)_mortality_rate",
-                "number_of_infant_deaths",
+                "BiH",
+                "Федерација БиХ",
                 ""
               ]
             },
-            "title": "INFANT_MORTALITY"
+            "title": "Ентитет"
           },
           {
             "name": "UNIT_MEASURE",
@@ -60,7 +47,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -9,7 +9,7 @@ Entity,Administrative area,Entitet,Ентитет,Entitet,28,94
 FORM_OF_VIOLENCE,Form of violence,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,1,36
 GRAND_TOTAL,Grand Total,GRAND_TOTAL,GRAND_TOTAL,GRAND_TOTAL,1,1
 health_indicators,Health indicators,health_indicators,health_indicators,health_indicators,1,21
-INFANT_MORTALITY,Infant Mortality Infant (up to 12 months of age) mortality rate,INFANT_MORTALITY,INFANT_MORTALITY,INFANT_MORTALITY,2,2
+INFANT_MORTALITY,Infant Mortality Infant (up to 12 months of age) mortality rate,INFANT_MORTALITY,INFANT_MORTALITY,INFANT_MORTALITY,1,2
 MARRIAGES,Marriages,MARRIAGES,MARRIAGES,MARRIAGES,2,2
 MICS_INDICATORS,MICS Indicators,MICS_INDICATORS,MICS_INDICATORS,MICS_INDICATORS,1,40
 MICS_NUMBER,Mics Number,MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,1,3
