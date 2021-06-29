@@ -1901,6 +1901,17 @@
             "type": "integer"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -1909,17 +1920,6 @@
                 "FBIH",
                 "RS",
                 "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
                 ""
               ]
             }

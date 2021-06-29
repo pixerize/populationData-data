@@ -16,6 +16,18 @@
             "title": "Година"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -28,18 +40,6 @@
               ]
             },
             "title": "Ентитет"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",

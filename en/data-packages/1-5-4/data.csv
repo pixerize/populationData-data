@@ -1,167 +1,167 @@
-Year,Administrative area,Sex,UNIT_MEASURE,Value
-1996,BiH,M,Age,27.7
-1997,BiH,M,Age,28.0
-1998,BiH,M,Age,27.9
-1999,BiH,M,Age,27.8
-2000,BiH,M,Age,27.8
-2001,BiH,M,Age,27.8
-2002,BiH,M,Age,27.8
-2003,BiH,M,Age,28.1
-2004,BiH,M,Age,28.0
-2005,BiH,M,Age,28.1
-2006,BiH,M,Age,28.3
-2007,BiH,M,Age,28.3
-2008,BiH,M,Age,28.3
-2009,BiH,M,Age,28.3
-2010,BiH,M,Age,28.9
-2011,BiH,M,Age,29.1
-2012,BiH,M,Age,29.3
-2013,BiH,M,Age,29.6
-2014,BiH,M,Age,29.6
-2015,BiH,M,Age,29.5
-2016,BiH,M,Age,29.4
-2017,BiH,M,Age,29.5
-2018,BiH,M,Age,29.7
-2019,BiH,M,Age,29.5
-1996,BiH,F,Age,24.2
-1997,BiH,F,Age,24.3
-1998,BiH,F,Age,24.3
-1999,BiH,F,Age,24.3
-2000,BiH,F,Age,24.2
-2001,BiH,F,Age,24.2
-2002,BiH,F,Age,24.3
-2003,BiH,F,Age,24.6
-2004,BiH,F,Age,24.5
-2005,BiH,F,Age,24.6
-2006,BiH,F,Age,24.9
-2007,BiH,F,Age,24.9
-2008,BiH,F,Age,24.9
-2009,BiH,F,Age,24.8
-2010,BiH,F,Age,25.7
-2011,BiH,F,Age,25.9
-2012,BiH,F,Age,26.1
-2013,BiH,F,Age,26.4
-2014,BiH,F,Age,26.4
-2015,BiH,F,Age,26.4
-2016,BiH,F,Age,26.4
-2017,BiH,F,Age,26.6
-2018,BiH,F,Age,27.1
-2019,BiH,F,Age,26.8
-1996,Federation of BiH,M,Age,27.7
-1997,Federation of BiH,M,Age,27.4
-1998,Federation of BiH,M,Age,27.4
-1999,Federation of BiH,M,Age,27.5
-2000,Federation of BiH,M,Age,27.6
-2001,Federation of BiH,M,Age,27.6
-2002,Federation of BiH,M,Age,27.7
-2003,Federation of BiH,M,Age,27.7
-2004,Federation of BiH,M,Age,27.8
-2005,Federation of BiH,M,Age,27.8
-2006,Federation of BiH,M,Age,27.9
-2007,Federation of BiH,M,Age,27.9
-2008,Federation of BiH,M,Age,28.1
-2009,Federation of BiH,M,Age,28.1
-2010,Federation of BiH,M,Age,28.6
-2011,Federation of BiH,M,Age,28.1
-2012,Federation of BiH,M,Age,28.4
-2013,Federation of BiH,M,Age,28.3
-2014,Federation of BiH,M,Age,28.3
-2015,Federation of BiH,M,Age,28.5
-2016,Federation of BiH,M,Age,28.3
-2017,Federation of BiH,M,Age,28.3
-2018,Federation of BiH,M,Age,28.5
-2019,Federation of BiH,M,Age,28.3
-1996,Federation of BiH,F,Age,24.4
-1997,Federation of BiH,F,Age,23.8
-1998,Federation of BiH,F,Age,24.4
-1999,Federation of BiH,F,Age,24.2
-2000,Federation of BiH,F,Age,23.9
-2001,Federation of BiH,F,Age,24.0
-2002,Federation of BiH,F,Age,24.1
-2003,Federation of BiH,F,Age,24.2
-2004,Federation of BiH,F,Age,24.2
-2005,Federation of BiH,F,Age,24.3
-2006,Federation of BiH,F,Age,24.3
-2007,Federation of BiH,F,Age,24.5
-2008,Federation of BiH,F,Age,24.6
-2009,Federation of BiH,F,Age,24.8
-2010,Federation of BiH,F,Age,24.9
-2011,Federation of BiH,F,Age,25.0
-2012,Federation of BiH,F,Age,25.2
-2013,Federation of BiH,F,Age,25.5
-2014,Federation of BiH,F,Age,25.2
-2015,Federation of BiH,F,Age,25.5
-2016,Federation of BiH,F,Age,25.4
-2017,Federation of BiH,F,Age,25.5
-2018,Federation of BiH,F,Age,25.8
-2019,Federation of BiH,F,Age,25.7
-1998,Republika Srpska,M,Age,28.6
-2000,Republika Srpska,M,Age,28.6
-2003,Republika Srpska,M,Age,28.3
-2004,Republika Srpska,M,Age,28.4
-2005,Republika Srpska,M,Age,28.6
-2006,Republika Srpska,M,Age,28.9
-2007,Republika Srpska,M,Age,28.9
-2008,Republika Srpska,M,Age,29.1
-2009,Republika Srpska,M,Age,29.1
-2010,Republika Srpska,M,Age,29.2
-2011,Republika Srpska,M,Age,29.5
-2012,Republika Srpska,M,Age,29.6
-2013,Republika Srpska,M,Age,29.9
-2014,Republika Srpska,M,Age,30.1
-2015,Republika Srpska,M,Age,30.0
-2016,Republika Srpska,M,Age,29.9
-2017,Republika Srpska,M,Age,30.2
-2018,Republika Srpska,M,Age,30.3
-2019,Republika Srpska,M,Age,30.2
-1998,Republika Srpska,F,Age,24.7
-2000,Republika Srpska,F,Age,24.9
-2003,Republika Srpska,F,Age,24.7
-2004,Republika Srpska,F,Age,24.8
-2005,Republika Srpska,F,Age,25.0
-2006,Republika Srpska,F,Age,25.3
-2007,Republika Srpska,F,Age,25.4
-2008,Republika Srpska,F,Age,25.4
-2009,Republika Srpska,F,Age,25.8
-2010,Republika Srpska,F,Age,25.9
-2011,Republika Srpska,F,Age,26.1
-2012,Republika Srpska,F,Age,26.3
-2013,Republika Srpska,F,Age,26.6
-2014,Republika Srpska,F,Age,26.7
-2015,Republika Srpska,F,Age,26.6
-2016,Republika Srpska,F,Age,26.7
-2017,Republika Srpska,F,Age,27.0
-2018,Republika Srpska,F,Age,27.3
-2019,Republika Srpska,F,Age,27.2
-2004,Brčko District of BiH,M,Age,30.0
-2005,Brčko District of BiH,M,Age,29.8
-2006,Brčko District of BiH,M,Age,30.1
-2007,Brčko District of BiH,M,Age,31.2
-2008,Brčko District of BiH,M,Age,30.1
-2009,Brčko District of BiH,M,Age,30.3
-2010,Brčko District of BiH,M,Age,29.3
-2011,Brčko District of BiH,M,Age,30.5
-2012,Brčko District of BiH,M,Age,30.7
-2013,Brčko District of BiH,M,Age,32.7
-2014,Brčko District of BiH,M,Age,30.7
-2015,Brčko District of BiH,M,Age,30.7
-2016,Brčko District of BiH,M,Age,33.8
-2017,Brčko District of BiH,M,Age,32.2
-2018,Brčko District of BiH,M,Age,32.4
-2019,Brčko District of BiH,M,Age,32.2
-2004,Brčko District of BiH,F,Age,26.9
-2005,Brčko District of BiH,F,Age,26.7
-2006,Brčko District of BiH,F,Age,26.0
-2007,Brčko District of BiH,F,Age,27.8
-2008,Brčko District of BiH,F,Age,26.6
-2009,Brčko District of BiH,F,Age,27.1
-2010,Brčko District of BiH,F,Age,27.0
-2011,Brčko District of BiH,F,Age,27.3
-2012,Brčko District of BiH,F,Age,27.8
-2013,Brčko District of BiH,F,Age,29.0
-2014,Brčko District of BiH,F,Age,28.1
-2015,Brčko District of BiH,F,Age,27.8
-2016,Brčko District of BiH,F,Age,30.7
-2017,Brčko District of BiH,F,Age,29.0
-2018,Brčko District of BiH,F,Age,29.2
-2019,Brčko District of BiH,F,Age,29.4
+Year,Sex,Administrative area,UNIT_MEASURE,Value
+1996,M,BiH,Age,27.7
+1997,M,BiH,Age,28.0
+1998,M,BiH,Age,27.9
+1999,M,BiH,Age,27.8
+2000,M,BiH,Age,27.8
+2001,M,BiH,Age,27.8
+2002,M,BiH,Age,27.8
+2003,M,BiH,Age,28.1
+2004,M,BiH,Age,28.0
+2005,M,BiH,Age,28.1
+2006,M,BiH,Age,28.3
+2007,M,BiH,Age,28.3
+2008,M,BiH,Age,28.3
+2009,M,BiH,Age,28.3
+2010,M,BiH,Age,28.9
+2011,M,BiH,Age,29.1
+2012,M,BiH,Age,29.3
+2013,M,BiH,Age,29.6
+2014,M,BiH,Age,29.6
+2015,M,BiH,Age,29.5
+2016,M,BiH,Age,29.4
+2017,M,BiH,Age,29.5
+2018,M,BiH,Age,29.7
+2019,M,BiH,Age,29.5
+1996,F,BiH,Age,24.2
+1997,F,BiH,Age,24.3
+1998,F,BiH,Age,24.3
+1999,F,BiH,Age,24.3
+2000,F,BiH,Age,24.2
+2001,F,BiH,Age,24.2
+2002,F,BiH,Age,24.3
+2003,F,BiH,Age,24.6
+2004,F,BiH,Age,24.5
+2005,F,BiH,Age,24.6
+2006,F,BiH,Age,24.9
+2007,F,BiH,Age,24.9
+2008,F,BiH,Age,24.9
+2009,F,BiH,Age,24.8
+2010,F,BiH,Age,25.7
+2011,F,BiH,Age,25.9
+2012,F,BiH,Age,26.1
+2013,F,BiH,Age,26.4
+2014,F,BiH,Age,26.4
+2015,F,BiH,Age,26.4
+2016,F,BiH,Age,26.4
+2017,F,BiH,Age,26.6
+2018,F,BiH,Age,27.1
+2019,F,BiH,Age,26.8
+1996,M,Federation of BiH,Age,27.7
+1997,M,Federation of BiH,Age,27.4
+1998,M,Federation of BiH,Age,27.4
+1999,M,Federation of BiH,Age,27.5
+2000,M,Federation of BiH,Age,27.6
+2001,M,Federation of BiH,Age,27.6
+2002,M,Federation of BiH,Age,27.7
+2003,M,Federation of BiH,Age,27.7
+2004,M,Federation of BiH,Age,27.8
+2005,M,Federation of BiH,Age,27.8
+2006,M,Federation of BiH,Age,27.9
+2007,M,Federation of BiH,Age,27.9
+2008,M,Federation of BiH,Age,28.1
+2009,M,Federation of BiH,Age,28.1
+2010,M,Federation of BiH,Age,28.6
+2011,M,Federation of BiH,Age,28.1
+2012,M,Federation of BiH,Age,28.4
+2013,M,Federation of BiH,Age,28.3
+2014,M,Federation of BiH,Age,28.3
+2015,M,Federation of BiH,Age,28.5
+2016,M,Federation of BiH,Age,28.3
+2017,M,Federation of BiH,Age,28.3
+2018,M,Federation of BiH,Age,28.5
+2019,M,Federation of BiH,Age,28.3
+1996,F,Federation of BiH,Age,24.4
+1997,F,Federation of BiH,Age,23.8
+1998,F,Federation of BiH,Age,24.4
+1999,F,Federation of BiH,Age,24.2
+2000,F,Federation of BiH,Age,23.9
+2001,F,Federation of BiH,Age,24.0
+2002,F,Federation of BiH,Age,24.1
+2003,F,Federation of BiH,Age,24.2
+2004,F,Federation of BiH,Age,24.2
+2005,F,Federation of BiH,Age,24.3
+2006,F,Federation of BiH,Age,24.3
+2007,F,Federation of BiH,Age,24.5
+2008,F,Federation of BiH,Age,24.6
+2009,F,Federation of BiH,Age,24.8
+2010,F,Federation of BiH,Age,24.9
+2011,F,Federation of BiH,Age,25.0
+2012,F,Federation of BiH,Age,25.2
+2013,F,Federation of BiH,Age,25.5
+2014,F,Federation of BiH,Age,25.2
+2015,F,Federation of BiH,Age,25.5
+2016,F,Federation of BiH,Age,25.4
+2017,F,Federation of BiH,Age,25.5
+2018,F,Federation of BiH,Age,25.8
+2019,F,Federation of BiH,Age,25.7
+1998,M,Republika Srpska,Age,28.6
+2000,M,Republika Srpska,Age,28.6
+2003,M,Republika Srpska,Age,28.3
+2004,M,Republika Srpska,Age,28.4
+2005,M,Republika Srpska,Age,28.6
+2006,M,Republika Srpska,Age,28.9
+2007,M,Republika Srpska,Age,28.9
+2008,M,Republika Srpska,Age,29.1
+2009,M,Republika Srpska,Age,29.1
+2010,M,Republika Srpska,Age,29.2
+2011,M,Republika Srpska,Age,29.5
+2012,M,Republika Srpska,Age,29.6
+2013,M,Republika Srpska,Age,29.9
+2014,M,Republika Srpska,Age,30.1
+2015,M,Republika Srpska,Age,30.0
+2016,M,Republika Srpska,Age,29.9
+2017,M,Republika Srpska,Age,30.2
+2018,M,Republika Srpska,Age,30.3
+2019,M,Republika Srpska,Age,30.2
+1998,F,Republika Srpska,Age,24.7
+2000,F,Republika Srpska,Age,24.9
+2003,F,Republika Srpska,Age,24.7
+2004,F,Republika Srpska,Age,24.8
+2005,F,Republika Srpska,Age,25.0
+2006,F,Republika Srpska,Age,25.3
+2007,F,Republika Srpska,Age,25.4
+2008,F,Republika Srpska,Age,25.4
+2009,F,Republika Srpska,Age,25.8
+2010,F,Republika Srpska,Age,25.9
+2011,F,Republika Srpska,Age,26.1
+2012,F,Republika Srpska,Age,26.3
+2013,F,Republika Srpska,Age,26.6
+2014,F,Republika Srpska,Age,26.7
+2015,F,Republika Srpska,Age,26.6
+2016,F,Republika Srpska,Age,26.7
+2017,F,Republika Srpska,Age,27.0
+2018,F,Republika Srpska,Age,27.3
+2019,F,Republika Srpska,Age,27.2
+2004,M,Brčko District of BiH,Age,30.0
+2005,M,Brčko District of BiH,Age,29.8
+2006,M,Brčko District of BiH,Age,30.1
+2007,M,Brčko District of BiH,Age,31.2
+2008,M,Brčko District of BiH,Age,30.1
+2009,M,Brčko District of BiH,Age,30.3
+2010,M,Brčko District of BiH,Age,29.3
+2011,M,Brčko District of BiH,Age,30.5
+2012,M,Brčko District of BiH,Age,30.7
+2013,M,Brčko District of BiH,Age,32.7
+2014,M,Brčko District of BiH,Age,30.7
+2015,M,Brčko District of BiH,Age,30.7
+2016,M,Brčko District of BiH,Age,33.8
+2017,M,Brčko District of BiH,Age,32.2
+2018,M,Brčko District of BiH,Age,32.4
+2019,M,Brčko District of BiH,Age,32.2
+2004,F,Brčko District of BiH,Age,26.9
+2005,F,Brčko District of BiH,Age,26.7
+2006,F,Brčko District of BiH,Age,26.0
+2007,F,Brčko District of BiH,Age,27.8
+2008,F,Brčko District of BiH,Age,26.6
+2009,F,Brčko District of BiH,Age,27.1
+2010,F,Brčko District of BiH,Age,27.0
+2011,F,Brčko District of BiH,Age,27.3
+2012,F,Brčko District of BiH,Age,27.8
+2013,F,Brčko District of BiH,Age,29.0
+2014,F,Brčko District of BiH,Age,28.1
+2015,F,Brčko District of BiH,Age,27.8
+2016,F,Brčko District of BiH,Age,30.7
+2017,F,Brčko District of BiH,Age,29.0
+2018,F,Brčko District of BiH,Age,29.2
+2019,F,Brčko District of BiH,Age,29.4
