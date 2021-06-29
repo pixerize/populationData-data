@@ -947,17 +947,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Real GDP growth"
-              ]
-            },
-            "title": "Quantity"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

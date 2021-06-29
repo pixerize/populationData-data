@@ -1,24 +1,24 @@
-Year,UNIT_MEASURE,Quantity,Administrative area,Value
-1997,%,Real GDP growth,BiH,0.34
-1998,%,Real GDP growth,BiH,0.16
-1999,%,Real GDP growth,BiH,0.1
-2000,%,Real GDP growth,BiH,0.06
-2001,%,Real GDP growth,BiH,0.04
-2002,%,Real GDP growth,BiH,0.05
-2003,%,Real GDP growth,BiH,0.04
-2004,%,Real GDP growth,BiH,0.06
-2005,%,Real GDP growth,BiH,0.09
-2006,%,Real GDP growth,BiH,0.05
-2007,%,Real GDP growth,BiH,0.06
-2008,%,Real GDP growth,BiH,0.05
-2009,%,Real GDP growth,BiH,-0.03
-2010,%,Real GDP growth,BiH,0.01
-2011,%,Real GDP growth,BiH,0.01
-2012,%,Real GDP growth,BiH,-0.01
-2013,%,Real GDP growth,BiH,0.02
-2014,%,Real GDP growth,BiH,0.01
-2015,%,Real GDP growth,BiH,0.03
-2016,%,Real GDP growth,BiH,0.03
-2017,%,Real GDP growth,BiH,0.02
-2018,%,Real GDP growth,BiH,0.04
-2019,%,Real GDP growth,BiH,0.03
+Year,UNIT_MEASURE,Administrative area,Value
+1997,%,BiH,0.34
+1998,%,BiH,0.16
+1999,%,BiH,0.1
+2000,%,BiH,0.06
+2001,%,BiH,0.04
+2002,%,BiH,0.05
+2003,%,BiH,0.04
+2004,%,BiH,0.06
+2005,%,BiH,0.09
+2006,%,BiH,0.05
+2007,%,BiH,0.06
+2008,%,BiH,0.05
+2009,%,BiH,-0.03
+2010,%,BiH,0.01
+2011,%,BiH,0.01
+2012,%,BiH,-0.01
+2013,%,BiH,0.02
+2014,%,BiH,0.01
+2015,%,BiH,0.03
+2016,%,BiH,0.03
+2017,%,BiH,0.02
+2018,%,BiH,0.04
+2019,%,BiH,0.03

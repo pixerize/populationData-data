@@ -946,17 +946,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "real_gdp_growth",
-                ""
-              ]
-            },
-            "title": "QUANTITY"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
