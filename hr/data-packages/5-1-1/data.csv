@@ -1,92 +1,91 @@
 Year,UNIT_MEASURE,Spol,EDUCATION,Value
-1991.0,Broj,Oba spola,incomplete_primary_education,658356.0
-1991.0,_%,Oba spola,incomplete_primary_education,16.65
-1991.0,Broj,Muškarci,incomplete_primary_education,285421.0
-1991.0,_%,Muškarci,incomplete_primary_education,8.52
-1991.0,Broj,Žene,incomplete_primary_education,372935.0
-1991.0,_%,Žene,incomplete_primary_education,11.13
-1991.0,Broj,Oba spola,primary_school,818361.0
-1991.0,_%,Oba spola,primary_school,24.43
-1991.0,Broj,Muškarci,primary_school,421045.0
-1991.0,_%,Muškarci,primary_school,12.57
-1991.0,Broj,Žene,primary_school,397316.0
-1991.0,_%,Žene,primary_school,11.86
-1991.0,Broj,Oba spola,secondary_school,1092372.0
-1991.0,_%,Oba spola,secondary_school,32.61
-1991.0,Broj,Muškarci,secondary_school,671058.0
-1991.0,_%,Muškarci,secondary_school,20.03
-1991.0,Broj,Žene,secondary_school,421314.0
-1991.0,_%,Žene,secondary_school,12.58
-1991.0,Broj,Oba spola,higher_school_and_first_grade_of_faculty,92501.0
-1991.0,_%,Oba spola,higher_school_and_first_grade_of_faculty,2.76
-1991.0,Broj,Muškarci,higher_school_and_first_grade_of_faculty,56759.0
-1991.0,_%,Muškarci,higher_school_and_first_grade_of_faculty,1.69
-1991.0,Broj,Žene,higher_school_and_first_grade_of_faculty,35742.0
-1991.0,_%,Žene,higher_school_and_first_grade_of_faculty,1.07
-1991.0,Broj,Oba spola,advanced_schools_faculty_academy_university,122967.0
-1991.0,_%,Oba spola,advanced_schools_faculty_academy_university,3.67
-1991.0,Broj,Muškarci,advanced_schools_faculty_academy_university,77240.0
-1991.0,_%,Muškarci,advanced_schools_faculty_academy_university,2.31
-1991.0,Broj,Žene,advanced_schools_faculty_academy_university,45727.0
-1991.0,_%,Žene,advanced_schools_faculty_academy_university,1.37
-1991.0,Broj,Oba spola,unknown,93903.0
-1991.0,_%,Oba spola,unknown,2.8
-1991.0,Broj,Muškarci,unknown,47397.0
-1991.0,_%,Muškarci,unknown,1.41
-1991.0,Broj,Žene,unknown,46506.0
-1991.0,_%,Žene,unknown,1.39
-1991.0,Broj,Oba spola,no_education,471182.0
-1991.0,_%,Oba spola,no_education,14.07
-1991.0,Broj,Muškarci,no_education,98420.0
-1991.0,_%,Muškarci,no_education,2.94
-1991.0,Broj,Žene,no_education,372762.0
-1991.0,_%,Žene,no_education,11.13
-1991.0,Broj,Oba spola,post_secondary_school_specialisation,0.0
-1991.0,_%,Oba spola,post_secondary_school_specialisation,0.0
-1991.0,Broj,Muškarci,post_secondary_school_specialisation,0.0
-1991.0,_%,Muškarci,post_secondary_school_specialisation,0.0
-1991.0,Broj,Žene,post_secondary_school_specialisation,0.0
-1991.0,_%,Žene,post_secondary_school_specialisation,0.0
-2013.0,Broj,Oba spola,incomplete_primary_education,274036.0
-2013.0,_%,Oba spola,incomplete_primary_education,9.17
-2013.0,Broj,Muškarci,incomplete_primary_education,83216.0
-2013.0,_%,Muškarci,incomplete_primary_education,2.79
-2013.0,Broj,Žene,incomplete_primary_education,190820.0
-2013.0,_%,Žene,incomplete_primary_education,6.39
-2013.0,Broj,Oba spola,primary_school,640726.0
-2013.0,_%,Oba spola,primary_school,21.45
-2013.0,Broj,Muškarci,primary_school,274258.0
-2013.0,_%,Muškarci,primary_school,9.18
-2013.0,Broj,Žene,primary_school,366468.0
-2013.0,_%,Žene,primary_school,12.27
-2013.0,Broj,Oba spola,secondary_school,1525161.0
-2013.0,_%,Oba spola,secondary_school,51.05
-2013.0,Broj,Muškarci,secondary_school,864823.0
-2013.0,_%,Muškarci,secondary_school,28.95
-2013.0,Broj,Žene,secondary_school,660338.0
-2013.0,_%,Žene,secondary_school,22.1
-2013.0,Broj,Oba spola,higher_school_and_first_grade_of_faculty,94204.0
-2013.0,_%,Oba spola,higher_school_and_first_grade_of_faculty,3.15
-2013.0,Broj,Muškarci,higher_school_and_first_grade_of_faculty,51556.0
-2013.0,_%,Muškarci,higher_school_and_first_grade_of_faculty,1.73
-2013.0,Broj,Žene,higher_school_and_first_grade_of_faculty,42648.0
-2013.0,_%,Žene,higher_school_and_first_grade_of_faculty,1.43
-2013.0,Broj,Oba spola,advanced_schools_faculty_academy_university,285622.0
-2013.0,_%,Oba spola,advanced_schools_faculty_academy_university,9.56
-2013.0,Broj,Muškarci,advanced_schools_faculty_academy_university,137543.0
-2013.0,_%,Muškarci,advanced_schools_faculty_academy_university,4.6
-2013.0,Broj,Žene,advanced_schools_faculty_academy_university,148079.0
-2013.0,_%,Žene,advanced_schools_faculty_academy_university,4.96
-2013.0,Broj,Oba spola,no_education,146078.0
-2013.0,_%,Oba spola,no_education,4.89
-2013.0,Broj,Muškarci,no_education,24021.0
-2013.0,_%,Muškarci,no_education,0.8
-2013.0,Broj,Žene,no_education,122057.0
-2013.0,_%,Žene,no_education,4.09
-2013.0,Broj,Oba spola,post_secondary_school_specialisation,21613.0
-2013.0,_%,Oba spola,post_secondary_school_specialisation,0.72
-2013.0,Broj,Muškarci,post_secondary_school_specialisation,17877.0
-2013.0,_%,Muškarci,post_secondary_school_specialisation,0.6
-2013.0,Broj,Žene,post_secondary_school_specialisation,3736.0
-2013.0,_%,Žene,post_secondary_school_specialisation,0.13
-,,,,
+1991,Broj,Oba spola,incomplete_primary_education,658356.0
+1991,_%,Oba spola,incomplete_primary_education,16.65
+1991,Broj,Muškarci,incomplete_primary_education,285421.0
+1991,_%,Muškarci,incomplete_primary_education,8.52
+1991,Broj,Žene,incomplete_primary_education,372935.0
+1991,_%,Žene,incomplete_primary_education,11.13
+1991,Broj,Oba spola,primary_school,818361.0
+1991,_%,Oba spola,primary_school,24.43
+1991,Broj,Muškarci,primary_school,421045.0
+1991,_%,Muškarci,primary_school,12.57
+1991,Broj,Žene,primary_school,397316.0
+1991,_%,Žene,primary_school,11.86
+1991,Broj,Oba spola,secondary_school,1092372.0
+1991,_%,Oba spola,secondary_school,32.61
+1991,Broj,Muškarci,secondary_school,671058.0
+1991,_%,Muškarci,secondary_school,20.03
+1991,Broj,Žene,secondary_school,421314.0
+1991,_%,Žene,secondary_school,12.58
+1991,Broj,Oba spola,higher_school_and_first_grade_of_faculty,92501.0
+1991,_%,Oba spola,higher_school_and_first_grade_of_faculty,2.76
+1991,Broj,Muškarci,higher_school_and_first_grade_of_faculty,56759.0
+1991,_%,Muškarci,higher_school_and_first_grade_of_faculty,1.69
+1991,Broj,Žene,higher_school_and_first_grade_of_faculty,35742.0
+1991,_%,Žene,higher_school_and_first_grade_of_faculty,1.07
+1991,Broj,Oba spola,advanced_schools_faculty_academy_university,122967.0
+1991,_%,Oba spola,advanced_schools_faculty_academy_university,3.67
+1991,Broj,Muškarci,advanced_schools_faculty_academy_university,77240.0
+1991,_%,Muškarci,advanced_schools_faculty_academy_university,2.31
+1991,Broj,Žene,advanced_schools_faculty_academy_university,45727.0
+1991,_%,Žene,advanced_schools_faculty_academy_university,1.37
+1991,Broj,Oba spola,unknown,93903.0
+1991,_%,Oba spola,unknown,2.8
+1991,Broj,Muškarci,unknown,47397.0
+1991,_%,Muškarci,unknown,1.41
+1991,Broj,Žene,unknown,46506.0
+1991,_%,Žene,unknown,1.39
+1991,Broj,Oba spola,no_education,471182.0
+1991,_%,Oba spola,no_education,14.07
+1991,Broj,Muškarci,no_education,98420.0
+1991,_%,Muškarci,no_education,2.94
+1991,Broj,Žene,no_education,372762.0
+1991,_%,Žene,no_education,11.13
+1991,Broj,Oba spola,post_secondary_school_specialisation,0.0
+1991,_%,Oba spola,post_secondary_school_specialisation,0.0
+1991,Broj,Muškarci,post_secondary_school_specialisation,0.0
+1991,_%,Muškarci,post_secondary_school_specialisation,0.0
+1991,Broj,Žene,post_secondary_school_specialisation,0.0
+1991,_%,Žene,post_secondary_school_specialisation,0.0
+2013,Broj,Oba spola,incomplete_primary_education,274036.0
+2013,_%,Oba spola,incomplete_primary_education,9.17
+2013,Broj,Muškarci,incomplete_primary_education,83216.0
+2013,_%,Muškarci,incomplete_primary_education,2.79
+2013,Broj,Žene,incomplete_primary_education,190820.0
+2013,_%,Žene,incomplete_primary_education,6.39
+2013,Broj,Oba spola,primary_school,640726.0
+2013,_%,Oba spola,primary_school,21.45
+2013,Broj,Muškarci,primary_school,274258.0
+2013,_%,Muškarci,primary_school,9.18
+2013,Broj,Žene,primary_school,366468.0
+2013,_%,Žene,primary_school,12.27
+2013,Broj,Oba spola,secondary_school,1525161.0
+2013,_%,Oba spola,secondary_school,51.05
+2013,Broj,Muškarci,secondary_school,864823.0
+2013,_%,Muškarci,secondary_school,28.95
+2013,Broj,Žene,secondary_school,660338.0
+2013,_%,Žene,secondary_school,22.1
+2013,Broj,Oba spola,higher_school_and_first_grade_of_faculty,94204.0
+2013,_%,Oba spola,higher_school_and_first_grade_of_faculty,3.15
+2013,Broj,Muškarci,higher_school_and_first_grade_of_faculty,51556.0
+2013,_%,Muškarci,higher_school_and_first_grade_of_faculty,1.73
+2013,Broj,Žene,higher_school_and_first_grade_of_faculty,42648.0
+2013,_%,Žene,higher_school_and_first_grade_of_faculty,1.43
+2013,Broj,Oba spola,advanced_schools_faculty_academy_university,285622.0
+2013,_%,Oba spola,advanced_schools_faculty_academy_university,9.56
+2013,Broj,Muškarci,advanced_schools_faculty_academy_university,137543.0
+2013,_%,Muškarci,advanced_schools_faculty_academy_university,4.6
+2013,Broj,Žene,advanced_schools_faculty_academy_university,148079.0
+2013,_%,Žene,advanced_schools_faculty_academy_university,4.96
+2013,Broj,Oba spola,no_education,146078.0
+2013,_%,Oba spola,no_education,4.89
+2013,Broj,Muškarci,no_education,24021.0
+2013,_%,Muškarci,no_education,0.8
+2013,Broj,Žene,no_education,122057.0
+2013,_%,Žene,no_education,4.09
+2013,Broj,Oba spola,post_secondary_school_specialisation,21613.0
+2013,_%,Oba spola,post_secondary_school_specialisation,0.72
+2013,Broj,Muškarci,post_secondary_school_specialisation,17877.0
+2013,_%,Muškarci,post_secondary_school_specialisation,0.6
+2013,Broj,Žene,post_secondary_school_specialisation,3736.0
+2013,_%,Žene,post_secondary_school_specialisation,0.13
