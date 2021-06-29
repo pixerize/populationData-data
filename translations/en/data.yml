@@ -281,7 +281,7 @@ non-family/multi-person_households: Non-family/multi-person households
 TYPE_OF_FAMILY/HOUSEHOLD: Type of family/household
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE:  Number of households
 average_number_of_hh_members: Average number of HH members
-single_household: Single household
+single_household: 1 member
 2_members: 2 members
 3_members: 3 members
 4_members: 4 members
@@ -289,7 +289,7 @@ single_household: Single household
 6_members: 6 members
 7_members: 7 members
 8+_members: 8+ members
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Number of households by household size 
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Household size 
 DIVORCES: Divorces
 divorce_rate_(per_1,000_marriages): Divorce rate (per 1,000 marriages)
 number_of_divorces: Number of divorces
