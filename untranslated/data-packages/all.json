@@ -2884,7 +2884,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",

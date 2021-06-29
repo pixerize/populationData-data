@@ -3108,7 +3108,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Година"
           },
           {
