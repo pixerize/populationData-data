@@ -1116,17 +1116,17 @@
             "title": "Administrative area"
           },
           {
-            "name": "POVERTY_RATE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Females in poverty (%)",
-                "Males in poverty (%)",
-                "Population in poverty (%)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Poverty Rate"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

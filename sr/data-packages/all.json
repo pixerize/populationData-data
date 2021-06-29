@@ -1107,17 +1107,17 @@
             "title": "Година"
           },
           {
-            "name": "POVERTY_RATE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "population_in_poverty",
-                "males_in_poverty",
-                "females_in_poverty",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "POVERTY_RATE"
+            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
