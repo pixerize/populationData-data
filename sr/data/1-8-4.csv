@@ -1,181 +1,93 @@
-Year,DIVORCES,UNIT_MEASURE,Ентитет,Value
-divorce_rate_(per_1,000_marriages),Број,BiH,88.2
-divorce_rate_(per_1,000_marriages),Број,BiH,93.3
-divorce_rate_(per_1,000_marriages),Број,BiH,56.3
-divorce_rate_(per_1,000_marriages),Број,BiH,0.0
-divorce_rate_(per_1,000_marriages),Број,BiH,79.02670112
-divorce_rate_(per_1,000_marriages),Број,BiH,87.68640057
-divorce_rate_(per_1,000_marriages),Број,BiH,88.77714489
-divorce_rate_(per_1,000_marriages),Број,BiH,88.09425949
-divorce_rate_(per_1,000_marriages),Број,BiH,104.7187469
-divorce_rate_(per_1,000_marriages),Број,BiH,112.9112414
-divorce_rate_(per_1,000_marriages),Број,BiH,92.50952588
-divorce_rate_(per_1,000_marriages),Број,BiH,68.443286
-divorce_rate_(per_1,000_marriages),Број,BiH,81.25172827
-divorce_rate_(per_1,000_marriages),Број,BiH,77.1592019
-divorce_rate_(per_1,000_marriages),Број,BiH,77.72197157
-divorce_rate_(per_1,000_marriages),Број,BiH,61.80307887
-divorce_rate_(per_1,000_marriages),Број,BiH,67.94940144
-divorce_rate_(per_1,000_marriages),Број,BiH,85.76838442
-divorce_rate_(per_1,000_marriages),Број,BiH,120.5366465
-divorce_rate_(per_1,000_marriages),Број,BiH,125.8020291
-divorce_rate_(per_1,000_marriages),Број,BiH,148.0451682
-divorce_rate_(per_1,000_marriages),Број,BiH,144.0755243
-divorce_rate_(per_1,000_marriages),Број,BiH,150.513055
-divorce_rate_(per_1,000_marriages),Број,BiH,143.9397872
-divorce_rate_(per_1,000_marriages),Број,BiH,151.3345686
-divorce_rate_(per_1,000_marriages),Број,BiH,155.2408217
-divorce_rate_(per_1,000_marriages),Број,BiH,147.2140144
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,25.7282875
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,68.36436087
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,77.94383754
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,84.07420371
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,84.92874622
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,100.7994984
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,110.4818062
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,89.60464051
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,62.57758306
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,70.92511013
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,71.70304334
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,69.62452728
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,62.91501777
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,58.88807608
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,76.53218355
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,96.98943522
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,97.51243781
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,119.8488709
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,110.2487064
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,115.7878508
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,112.9788898
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,132.7535786
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,139.5758365
-divorce_rate_(per_1,000_marriages),Број,Федерација БиХ,136.3932822
-divorce_rate_(per_1,000_marriages),Број,Република Српска,95.07911163
-divorce_rate_(per_1,000_marriages),Број,Република Српска,102.1430559
-divorce_rate_(per_1,000_marriages),Број,Република Српска,93.50057013
-divorce_rate_(per_1,000_marriages),Број,Република Српска,92.64590421
-divorce_rate_(per_1,000_marriages),Број,Република Српска,115.6149882
-divorce_rate_(per_1,000_marriages),Број,Република Српска,117.2404258
-divorce_rate_(per_1,000_marriages),Број,Република Српска,109.9128379
-divorce_rate_(per_1,000_marriages),Број,Република Српска,89.17821644
-divorce_rate_(per_1,000_marriages),Број,Република Српска,105.8737151
-divorce_rate_(per_1,000_marriages),Број,Република Српска,76.67638484
-divorce_rate_(per_1,000_marriages),Број,Република Српска,84.026505
-divorce_rate_(per_1,000_marriages),Број,Република Српска,49.52351195
-divorce_rate_(per_1,000_marriages),Број,Република Српска,74.21301582
-divorce_rate_(per_1,000_marriages),Број,Република Српска,89.64799723
-divorce_rate_(per_1,000_marriages),Број,Република Српска,152.7059635
-divorce_rate_(per_1,000_marriages),Број,Република Српска,164.851671
-divorce_rate_(per_1,000_marriages),Број,Република Српска,192.427291
-divorce_rate_(per_1,000_marriages),Број,Република Српска,189.9364589
-divorce_rate_(per_1,000_marriages),Број,Република Српска,193.8931298
-divorce_rate_(per_1,000_marriages),Број,Република Српска,184.2531008
-divorce_rate_(per_1,000_marriages),Број,Република Српска,165.4350017
-divorce_rate_(per_1,000_marriages),Број,Република Српска,161.4146832
-divorce_rate_(per_1,000_marriages),Број,Република Српска,158.0212985
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,90.0621118
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,122.1374046
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,122.7621483
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,127.0553064
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,135.2154532
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,132.0224719
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,120.5882353
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,207.4626866
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,249.1909385
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,324.6329527
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,335.7041252
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,307.073955
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,378.5822021
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,464.1791045
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,442.5727412
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,410.8635097
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,471.5189873
-divorce_rate_(per_1,000_marriages),Број,Брчко Дистрикт БиХ,312.1869783
-number_of_divorces,NUMBER,BiH,1835,
-number_of_divorces,NUMBER,BiH,1964,
-number_of_divorces,NUMBER,BiH,1995,
-number_of_divorces,NUMBER,BiH,1929,
-number_of_divorces,NUMBER,BiH,2126,
-number_of_divorces,NUMBER,BiH,2272,
-number_of_divorces,NUMBER,BiH,1918,
-number_of_divorces,NUMBER,BiH,1523,
-number_of_divorces,NUMBER,BiH,1763,
-number_of_divorces,NUMBER,BiH,1659,
-number_of_divorces,NUMBER,BiH,1826,
-number_of_divorces,NUMBER,BiH,1369,
-number_of_divorces,NUMBER,BiH,1402,
-number_of_divorces,NUMBER,BiH,1676,
-number_of_divorces,NUMBER,BiH,2309,
-number_of_divorces,NUMBER,BiH,2294,
-number_of_divorces,NUMBER,BiH,2609,
-number_of_divorces,NUMBER,BiH,2686,
-number_of_divorces,NUMBER,BiH,2963,
-number_of_divorces,NUMBER,BiH,2773,
-number_of_divorces,NUMBER,BiH,3022,
-number_of_divorces,NUMBER,BiH,3091,
-number_of_divorces,NUMBER,BiH,2790,
-number_of_divorces,NUMBER,Федерација БиХ,378,
-number_of_divorces,NUMBER,Федерација БиХ,1098,
-number_of_divorces,NUMBER,Федерација БиХ,1163,
-number_of_divorces,NUMBER,Федерација БиХ,1201,
-number_of_divorces,NUMBER,Федерација БиХ,1180,
-number_of_divorces,NUMBER,Федерација БиХ,1286,
-number_of_divorces,NUMBER,Федерација БиХ,1424,
-number_of_divorces,NUMBER,Федерација БиХ,1174,
-number_of_divorces,NUMBER,Федерација БиХ,857,
-number_of_divorces,NUMBER,Федерација БиХ,966,
-number_of_divorces,NUMBER,Федерација БиХ,933,
-number_of_divorces,NUMBER,Федерација БиХ,1031,
-number_of_divorces,NUMBER,Федерација БиХ,938,
-number_of_divorces,NUMBER,Федерација БиХ,805,
-number_of_divorces,NUMBER,Федерација БиХ,994,
-number_of_divorces,NUMBER,Федерација БиХ,1221,
-number_of_divorces,NUMBER,Федерација БиХ,1176,
-number_of_divorces,NUMBER,Федерација БиХ,1364,
-number_of_divorces,NUMBER,Федерација БиХ,1321,
-number_of_divorces,NUMBER,Федерација БиХ,1502,
-number_of_divorces,NUMBER,Федерација БиХ,1445,
-number_of_divorces,NUMBER,Федерација БиХ,1725,
-number_of_divorces,NUMBER,Федерација БиХ,1823,
-number_of_divorces,NUMBER,Федерација БиХ,1673,
-number_of_divorces,NUMBER,Република Српска,655,
-number_of_divorces,NUMBER,Република Српска,734,
-number_of_divorces,NUMBER,Република Српска,738,
-number_of_divorces,NUMBER,Република Српска,708,
-number_of_divorces,NUMBER,Република Српска,830,
-number_of_divorces,NUMBER,Република Српска,848,
-number_of_divorces,NUMBER,Република Српска,744,
-number_of_divorces,NUMBER,Република Српска,637,
-number_of_divorces,NUMBER,Република Српска,721,
-number_of_divorces,NUMBER,Република Српска,526,
-number_of_divorces,NUMBER,Република Српска,596,
-number_of_divorces,NUMBER,Република Српска,317,
-number_of_divorces,NUMBER,Република Српска,455,
-number_of_divorces,NUMBER,Република Српска,517,
-number_of_divorces,NUMBER,Република Српска,886,
-number_of_divorces,NUMBER,Република Српска,878,
-number_of_divorces,NUMBER,Република Српска,1052,
-number_of_divorces,NUMBER,Република Српска,1106,
-number_of_divorces,NUMBER,Република Српска,1143,
-number_of_divorces,NUMBER,Република Српска,1025,
-number_of_divorces,NUMBER,Република Српска,985,
-number_of_divorces,NUMBER,Република Српска,963,
-number_of_divorces,NUMBER,Република Српска,920,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,58,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,80,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,96,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,85,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,91,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,94,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,82,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,139,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,154,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,199,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,236,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,191,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,251,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,311,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,289,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,295,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,298,
-number_of_divorces,NUMBER,Брчко Дистрикт БиХ,187,
+Year,UNIT_MEASURE,Ентитет,Value
+NUMBER,BiH,,88.2
+NUMBER,BiH,,93.3
+NUMBER,BiH,,56.3
+NUMBER,BiH,,0.0
+NUMBER,BiH,,79.02670112
+NUMBER,BiH,,87.68640057
+NUMBER,BiH,,88.77714489
+NUMBER,BiH,,88.09425949
+NUMBER,BiH,,104.7187469
+NUMBER,BiH,,112.9112414
+NUMBER,BiH,,92.50952588
+NUMBER,BiH,,68.443286
+NUMBER,BiH,,81.25172827
+NUMBER,BiH,,77.1592019
+NUMBER,BiH,,77.72197157
+NUMBER,BiH,,61.80307887
+NUMBER,BiH,,67.94940144
+NUMBER,BiH,,85.76838442
+NUMBER,BiH,,120.5366465
+NUMBER,BiH,,125.8020291
+NUMBER,BiH,,148.0451682
+NUMBER,BiH,,144.0755243
+NUMBER,BiH,,150.513055
+NUMBER,BiH,,143.9397872
+NUMBER,BiH,,151.3345686
+NUMBER,BiH,,155.2408217
+NUMBER,BiH,,147.2140144
+NUMBER,Федерација БиХ,,25.7282875
+NUMBER,Федерација БиХ,,68.36436087
+NUMBER,Федерација БиХ,,77.94383754
+NUMBER,Федерација БиХ,,84.07420371
+NUMBER,Федерација БиХ,,84.92874622
+NUMBER,Федерација БиХ,,100.7994984
+NUMBER,Федерација БиХ,,110.4818062
+NUMBER,Федерација БиХ,,89.60464051
+NUMBER,Федерација БиХ,,62.57758306
+NUMBER,Федерација БиХ,,70.92511013
+NUMBER,Федерација БиХ,,71.70304334
+NUMBER,Федерација БиХ,,69.62452728
+NUMBER,Федерација БиХ,,62.91501777
+NUMBER,Федерација БиХ,,58.88807608
+NUMBER,Федерација БиХ,,76.53218355
+NUMBER,Федерација БиХ,,96.98943522
+NUMBER,Федерација БиХ,,97.51243781
+NUMBER,Федерација БиХ,,119.8488709
+NUMBER,Федерација БиХ,,110.2487064
+NUMBER,Федерација БиХ,,115.7878508
+NUMBER,Федерација БиХ,,112.9788898
+NUMBER,Федерација БиХ,,132.7535786
+NUMBER,Федерација БиХ,,139.5758365
+NUMBER,Федерација БиХ,,136.3932822
+NUMBER,Република Српска,,95.07911163
+NUMBER,Република Српска,,102.1430559
+NUMBER,Република Српска,,93.50057013
+NUMBER,Република Српска,,92.64590421
+NUMBER,Република Српска,,115.6149882
+NUMBER,Република Српска,,117.2404258
+NUMBER,Република Српска,,109.9128379
+NUMBER,Република Српска,,89.17821644
+NUMBER,Република Српска,,105.8737151
+NUMBER,Република Српска,,76.67638484
+NUMBER,Република Српска,,84.026505
+NUMBER,Република Српска,,49.52351195
+NUMBER,Република Српска,,74.21301582
+NUMBER,Република Српска,,89.64799723
+NUMBER,Република Српска,,152.7059635
+NUMBER,Република Српска,,164.851671
+NUMBER,Република Српска,,192.427291
+NUMBER,Република Српска,,189.9364589
+NUMBER,Република Српска,,193.8931298
+NUMBER,Република Српска,,184.2531008
+NUMBER,Република Српска,,165.4350017
+NUMBER,Република Српска,,161.4146832
+NUMBER,Република Српска,,158.0212985
+NUMBER,Брчко Дистрикт БиХ,,90.0621118
+NUMBER,Брчко Дистрикт БиХ,,122.1374046
+NUMBER,Брчко Дистрикт БиХ,,122.7621483
+NUMBER,Брчко Дистрикт БиХ,,127.0553064
+NUMBER,Брчко Дистрикт БиХ,,135.2154532
+NUMBER,Брчко Дистрикт БиХ,,132.0224719
+NUMBER,Брчко Дистрикт БиХ,,120.5882353
+NUMBER,Брчко Дистрикт БиХ,,207.4626866
+NUMBER,Брчко Дистрикт БиХ,,249.1909385
+NUMBER,Брчко Дистрикт БиХ,,324.6329527
+NUMBER,Брчко Дистрикт БиХ,,335.7041252
+NUMBER,Брчко Дистрикт БиХ,,307.073955
+NUMBER,Брчко Дистрикт БиХ,,378.5822021
+NUMBER,Брчко Дистрикт БиХ,,464.1791045
+NUMBER,Брчко Дистрикт БиХ,,442.5727412
+NUMBER,Брчко Дистрикт БиХ,,410.8635097
+NUMBER,Брчко Дистрикт БиХ,,471.5189873
+NUMBER,Брчко Дистрикт БиХ,,312.1869783
