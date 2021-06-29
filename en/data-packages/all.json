@@ -1457,6 +1457,73 @@
       "title": "Sex ratio at birth"
     },
     {
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "INFANT_MORTALITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Infant (up to 12 months of age) mortality rate",
+                "Number of infant deaths"
+              ]
+            },
+            "title": "Infant Mortality Infant (up to 12 months of age) mortality rate"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-3-title"
+    },
+    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",

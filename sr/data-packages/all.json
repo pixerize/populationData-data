@@ -1457,6 +1457,73 @@
       "title": "global_indicators.1-4-4-title"
     },
     {
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "INFANT_MORTALITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "infant_(up_to_12_months_of_age)_mortality_rate",
+                "number_of_infant_deaths",
+                ""
+              ]
+            },
+            "title": "INFANT_MORTALITY"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-3-title"
+    },
+    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
