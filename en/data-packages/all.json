@@ -2640,19 +2640,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Inactive as % of working age population",
-                "Unemployed as % of labour force",
-                "Unemployed as % of working age population"
-              ]
-            },
-            "title": "Activity rates"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
