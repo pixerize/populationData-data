@@ -2,289 +2,265 @@ Year,Spol,Entitet,UNIT_MEASURE,Value
 1971,Oba spola,BiH,Broj,22.0
 1981,Oba spola,BiH,Broj,17.2
 1991,Oba spola,BiH,Broj,14.9
-1996,Oba spola,BiH,Broj,14.01468
-1997,Oba spola,BiH,Broj,12.41812509
-1998,Oba spola,BiH,Broj,10.97607039
-1999,Oba spola,BiH,Broj,10.14977393
-2000,Oba spola,BiH,Broj,9.680762328
-2001,Oba spola,BiH,Broj,7.609300846
-2002,Oba spola,BiH,Broj,9.385449743
-2003,Oba spola,BiH,Broj,7.60628938
-2004,Oba spola,BiH,Broj,7.197519274
-2005,Oba spola,BiH,Broj,6.728853207
-2006,Oba spola,BiH,Broj,7.492727647
-2007,Oba spola,BiH,Broj,6.827249889
-2008,Oba spola,BiH,Broj,6.876170412
-2009,Oba spola,BiH,Broj,6.483357453
-2010,Oba spola,BiH,Broj,6.442376521
-2011,Oba spola,BiH,Broj,5.784162711
-2012,Oba spola,BiH,Broj,5.438289243
-2013,Oba spola,BiH,Broj,5.898839786
-2014,Oba spola,BiH,Broj,5.153957975
-2015,Oba spola,BiH,Broj,6.113537118
-2016,Oba spola,BiH,Broj,5.897359441
-2017,Oba spola,BiH,Broj,6.490066225
-2018,Oba spola,BiH,Broj,6.210336987
-2019,Oba spola,BiH,Broj,6.699576869
-1996,Muškarci,BiH,Broj,14.75530781
-1997,Muškarci,BiH,Broj,14.58670989
-1998,Muškarci,BiH,Broj,12.89220918
-1999,Muškarci,BiH,Broj,11.18506193
-2000,Muškarci,BiH,Broj,10.7806145
-2001,Muškarci,BiH,Broj,8.195876289
-2002,Muškarci,BiH,Broj,10.43886976
-2003,Muškarci,BiH,Broj,8.40152755
-2004,Muškarci,BiH,Broj,8.327358959
-2005,Muškarci,BiH,Broj,7.473169635
-2006,Muškarci,BiH,Broj,9.004388215
-2007,Muškarci,BiH,Broj,7.528230866
-2008,Muškarci,BiH,Broj,7.44953085
-2009,Muškarci,BiH,Broj,6.44408644
-2010,Muškarci,BiH,Broj,7.235052382
-2011,Muškarci,BiH,Broj,6.714657311
-2012,Muškarci,BiH,Broj,6.611078023
-2013,Muškarci,BiH,Broj,6.883485949
-2014,Muškarci,BiH,Broj,4.744502148
-2015,Muškarci,BiH,Broj,6.140580089
-2016,Muškarci,BiH,Broj,7.062865869
-2017,Muškarci,BiH,Broj,6.698991961
-2018,Muškarci,BiH,Broj,5.96017815
-2019,Muškarci,BiH,Broj,6.889099014
-1996,Žene,BiH,Broj,13.20057668
-1997,Žene,BiH,Broj,10.04329004
-1998,Žene,BiH,Broj,8.896302474
-1999,Žene,BiH,Broj,9.074323027
-2000,Žene,BiH,Broj,8.509083316
-2001,Žene,BiH,Broj,6.988043894
-2002,Žene,BiH,Broj,8.270676692
-2003,Žene,BiH,Broj,6.743965925
-2004,Žene,BiH,Broj,5.993653778
-2005,Žene,BiH,Broj,5.941770648
-2006,Žene,BiH,Broj,5.883780177
-2007,Žene,BiH,Broj,6.07324704
-2008,Žene,BiH,Broj,6.268458803
-2009,Žene,BiH,Broj,6.526074083
-2010,Žene,BiH,Broj,5.599655406
-2011,Žene,BiH,Broj,4.777486911
-2012,Žene,BiH,Broj,4.188614584
-2013,Žene,BiH,Broj,4.848811368
-2014,Žene,BiH,Broj,5.589257719
-2015,Žene,BiH,Broj,6.084912184
-2016,Žene,BiH,Broj,4.631229695
-2017,Žene,BiH,Broj,6.264628941
-2018,Žene,BiH,Broj,6.47932953
-2019,Žene,BiH,Broj,6.492548325
+1996,Oba spola,BiH,Broj,14.0
+1997,Oba spola,BiH,Broj,12.4
+1998,Oba spola,BiH,Broj,11.0
+1999,Oba spola,BiH,Broj,10.1
+2000,Oba spola,BiH,Broj,9.7
+2001,Oba spola,BiH,Broj,7.6
+2002,Oba spola,BiH,Broj,9.4
+2003,Oba spola,BiH,Broj,7.6
+2004,Oba spola,BiH,Broj,7.2
+2005,Oba spola,BiH,Broj,6.7
+2006,Oba spola,BiH,Broj,7.5
+2007,Oba spola,BiH,Broj,6.8
+2008,Oba spola,BiH,Broj,6.9
+2009,Oba spola,BiH,Broj,6.5
+2010,Oba spola,BiH,Broj,6.4
+2011,Oba spola,BiH,Broj,5.8
+2012,Oba spola,BiH,Broj,5.4
+2013,Oba spola,BiH,Broj,5.9
+2014,Oba spola,BiH,Broj,5.2
+2015,Oba spola,BiH,Broj,6.1
+2016,Oba spola,BiH,Broj,5.9
+2017,Oba spola,BiH,Broj,6.5
+2018,Oba spola,BiH,Broj,6.2
+2019,Oba spola,BiH,Broj,6.7
+1996,Muškarci,BiH,Broj,14.8
+1997,Muškarci,BiH,Broj,14.6
+1998,Muškarci,BiH,Broj,12.9
+1999,Muškarci,BiH,Broj,11.2
+2000,Muškarci,BiH,Broj,10.8
+2001,Muškarci,BiH,Broj,8.2
+2002,Muškarci,BiH,Broj,10.4
+2003,Muškarci,BiH,Broj,8.4
+2004,Muškarci,BiH,Broj,8.3
+2005,Muškarci,BiH,Broj,7.5
+2006,Muškarci,BiH,Broj,9.0
+2007,Muškarci,BiH,Broj,7.5
+2008,Muškarci,BiH,Broj,7.4
+2009,Muškarci,BiH,Broj,6.4
+2010,Muškarci,BiH,Broj,7.2
+2011,Muškarci,BiH,Broj,6.7
+2012,Muškarci,BiH,Broj,6.6
+2013,Muškarci,BiH,Broj,6.9
+2014,Muškarci,BiH,Broj,4.7
+2015,Muškarci,BiH,Broj,6.1
+2016,Muškarci,BiH,Broj,7.1
+2017,Muškarci,BiH,Broj,6.7
+2018,Muškarci,BiH,Broj,6.0
+2019,Muškarci,BiH,Broj,6.9
+1996,Žene,BiH,Broj,13.2
+1997,Žene,BiH,Broj,10.0
+1998,Žene,BiH,Broj,8.9
+1999,Žene,BiH,Broj,9.1
+2000,Žene,BiH,Broj,8.5
+2001,Žene,BiH,Broj,7.0
+2002,Žene,BiH,Broj,8.3
+2003,Žene,BiH,Broj,6.7
+2004,Žene,BiH,Broj,6.0
+2005,Žene,BiH,Broj,5.9
+2006,Žene,BiH,Broj,5.9
+2007,Žene,BiH,Broj,6.1
+2008,Žene,BiH,Broj,6.3
+2009,Žene,BiH,Broj,6.5
+2010,Žene,BiH,Broj,5.6
+2011,Žene,BiH,Broj,4.8
+2012,Žene,BiH,Broj,4.2
+2013,Žene,BiH,Broj,4.8
+2014,Žene,BiH,Broj,5.6
+2015,Žene,BiH,Broj,6.1
+2016,Žene,BiH,Broj,4.6
+2017,Žene,BiH,Broj,6.3
+2018,Žene,BiH,Broj,6.5
+2019,Žene,BiH,Broj,6.5
 1996,Oba spola,Federacija BiH,Broj,13.8
-1997,Oba spola,Federacija BiH,Broj,12.97224813
-1998,Oba spola,Federacija BiH,Broj,12.13468869
-1999,Oba spola,Federacija BiH,Broj,11.15720212
-2000,Oba spola,Federacija BiH,Broj,11.03578748
-2001,Oba spola,Federacija BiH,Broj,8.909984179
-2002,Oba spola,Federacija BiH,Broj,10.5371812
-2003,Oba spola,Federacija BiH,Broj,8.718922652
-2004,Oba spola,Federacija BiH,Broj,8.539325843
-2005,Oba spola,Federacija BiH,Broj,8.844715966
-2006,Oba spola,Federacija BiH,Broj,9.48986205
-2007,Oba spola,Federacija BiH,Broj,8.887865531
-2008,Oba spola,Federacija BiH,Broj,8.464223386
-2009,Oba spola,Federacija BiH,Broj,7.550298957
-2010,Oba spola,Federacija BiH,Broj,7.684746671
-2011,Oba spola,Federacija BiH,Broj,6.642170718
-2012,Oba spola,Federacija BiH,Broj,6.473546945
-2013,Oba spola,Federacija BiH,Broj,7.346736163
-2014,Oba spola,Federacija BiH,Broj,6.38832998
-2015,Oba spola,Federacija BiH,Broj,7.95536729
-2016,Oba spola,Federacija BiH,Broj,7.479012974
-2017,Oba spola,Federacija BiH,Broj,8.171912833
-2018,Oba spola,Federacija BiH,Broj,8.3602307
-2019,Oba spola,Federacija BiH,Broj,9.267994894
-1997,Muškarci,Federacija BiH,Broj,15.36662769
-1998,Muškarci,Federacija BiH,Broj,14.37836515
-1999,Muškarci,Federacija BiH,Broj,12.2173852
-2000,Muškarci,Federacija BiH,Broj,12.45415648
-2001,Muškarci,Federacija BiH,Broj,9.556977403
-2002,Muškarci,Federacija BiH,Broj,11.56553805
-2003,Muškarci,Federacija BiH,Broj,10.09683026
-2004,Muškarci,Federacija BiH,Broj,9.323806204
-2005,Muškarci,Federacija BiH,Broj,10.01151768
-2006,Muškarci,Federacija BiH,Broj,11.33220309
-2007,Muškarci,Federacija BiH,Broj,10.09474896
-2008,Muškarci,Federacija BiH,Broj,9.377664109
-2009,Muškarci,Federacija BiH,Broj,7.325698889
-2010,Muškarci,Federacija BiH,Broj,9.08225932
-2011,Muškarci,Federacija BiH,Broj,7.717450518
-2012,Muškarci,Federacija BiH,Broj,7.620584544
-2013,Muškarci,Federacija BiH,Broj,8.468867289
-2014,Muškarci,Federacija BiH,Broj,6.18556701
-2015,Muškarci,Federacija BiH,Broj,8.498583569
-2016,Muškarci,Federacija BiH,Broj,8.517720775
-2017,Muškarci,Federacija BiH,Broj,8.490289841
-2018,Muškarci,Federacija BiH,Broj,8.314514473
-2019,Muškarci,Federacija BiH,Broj,9.526867908
-1997,Žene,Federacija BiH,Broj,10.3408187
-1998,Žene,Federacija BiH,Broj,9.711945032
-1999,Žene,Federacija BiH,Broj,10.05684303
-2000,Žene,Federacija BiH,Broj,9.524584826
-2001,Žene,Federacija BiH,Broj,8.225516237
-2002,Žene,Federacija BiH,Broj,9.453131902
-2003,Žene,Federacija BiH,Broj,7.216959856
-2004,Žene,Federacija BiH,Broj,7.703731205
-2005,Žene,Federacija BiH,Broj,7.607776839
-2006,Žene,Federacija BiH,Broj,7.503607504
-2007,Žene,Federacija BiH,Broj,7.580118979
-2008,Žene,Federacija BiH,Broj,7.506702413
-2009,Žene,Federacija BiH,Broj,7.791972456
-2010,Žene,Federacija BiH,Broj,6.191664356
-2011,Žene,Federacija BiH,Broj,5.482670844
-2012,Žene,Federacija BiH,Broj,5.233572398
-2013,Žene,Federacija BiH,Broj,6.151322534
-2014,Žene,Federacija BiH,Broj,6.601340897
-2015,Žene,Federacija BiH,Broj,7.388642601
-2016,Žene,Federacija BiH,Broj,6.355258977
-2017,Žene,Federacija BiH,Broj,7.831262399
-2018,Žene,Federacija BiH,Broj,8.408867533
-2019,Žene,Federacija BiH,Broj,8.98928201
-1996,Oba spola,Republika Srpska,Broj,14.59675446
-1997,Oba spola,Republika Srpska,Broj,11.33968162
-1998,Oba spola,Republika Srpska,Broj,8.279736823
-1999,Oba spola,Republika Srpska,Broj,8.206896552
-2000,Oba spola,Republika Srpska,Broj,7.258121345
-2001,Oba spola,Republika Srpska,Broj,5.328856121
-2002,Oba spola,Republika Srpska,Broj,7.214656291
-2003,Oba spola,Republika Srpska,Broj,6.073835057
-2004,Oba spola,Republika Srpska,Broj,5.73955589
-2005,Oba spola,Republika Srpska,Broj,3.584576632
-2006,Oba spola,Republika Srpska,Broj,4.75104523
-2007,Oba spola,Republika Srpska,Broj,3.758654797
-2008,Oba spola,Republika Srpska,Broj,3.922337713
-2009,Oba spola,Republika Srpska,Broj,4.809959445
-2010,Oba spola,Republika Srpska,Broj,4.336257022
-2011,Oba spola,Republika Srpska,Broj,4.497437507
-2012,Oba spola,Republika Srpska,Broj,3.708157947
-2013,Oba spola,Republika Srpska,Broj,3.470031546
-2014,Oba spola,Republika Srpska,Broj,3.106588109
-2015,Oba spola,Republika Srpska,Broj,2.778668377
-2016,Oba spola,Republika Srpska,Broj,2.43334744
-2017,Oba spola,Republika Srpska,Broj,2.784023985
-2018,Oba spola,Republika Srpska,Broj,1.776755853
-2019,Oba spola,Republika Srpska,Broj,1.617425059
-1996,Muškarci,Republika Srpska,Broj,15.54648241
-1997,Muškarci,Republika Srpska,Broj,12.95986622
-1998,Muškarci,Republika Srpska,Broj,9.461940404
-1999,Muškarci,Republika Srpska,Broj,9.196645929
-2000,Muškarci,Republika Srpska,Broj,7.787949173
-2001,Muškarci,Republika Srpska,Broj,5.813129165
-2002,Muškarci,Republika Srpska,Broj,8.326787117
-2003,Muškarci,Republika Srpska,Broj,5.871559633
-2004,Muškarci,Republika Srpska,Broj,7.796917498
-2005,Muškarci,Republika Srpska,Broj,3.772161449
-2006,Muškarci,Republika Srpska,Broj,5.793309662
-2007,Muškarci,Republika Srpska,Broj,3.459542572
-2008,Muškarci,Republika Srpska,Broj,3.800836184
-2009,Muškarci,Republika Srpska,Broj,5.199928277
-2010,Muškarci,Republika Srpska,Broj,3.858024691
-2011,Muškarci,Republika Srpska,Broj,5.191693291
-2012,Muškarci,Republika Srpska,Broj,4.912556494
-2013,Muškarci,Republika Srpska,Broj,4.279600571
-2014,Muškarci,Republika Srpska,Broj,2.269913331
-2015,Muškarci,Republika Srpska,Broj,1.858736059
-2016,Muškarci,Republika Srpska,Broj,3.447576556
-2017,Muškarci,Republika Srpska,Broj,2.660663119
-2018,Muškarci,Republika Srpska,Broj,1.399720056
-2019,Muškarci,Republika Srpska,Broj,1.426533524
-1996,Žene,Republika Srpska,Broj,13.57082273
-1997,Žene,Republika Srpska,Broj,9.57301322
-1998,Žene,Republika Srpska,Broj,6.981073534
-1999,Žene,Republika Srpska,Broj,7.177033493
-2000,Žene,Republika Srpska,Broj,6.693830035
-2001,Žene,Republika Srpska,Broj,4.814926271
-2002,Žene,Republika Srpska,Broj,6.029140847
-2003,Žene,Republika Srpska,Broj,6.290544525
-2004,Žene,Republika Srpska,Broj,3.520438099
-2005,Žene,Republika Srpska,Broj,3.386454183
-2006,Žene,Republika Srpska,Broj,3.672917069
-2007,Žene,Republika Srpska,Broj,4.075810067
-2008,Žene,Republika Srpska,Broj,4.051863857
-2009,Žene,Republika Srpska,Broj,4.377238361
-2010,Žene,Republika Srpska,Broj,4.835784808
-2011,Žene,Republika Srpska,Broj,3.733801889
-2012,Žene,Republika Srpska,Broj,2.454489671
-2013,Žene,Republika Srpska,Broj,2.606995438
-2014,Žene,Republika Srpska,Broj,4.009801738
-2015,Žene,Republika Srpska,Broj,3.765227021
-2016,Žene,Republika Srpska,Broj,1.327140013
-2017,Žene,Republika Srpska,Broj,2.919380193
-2018,Žene,Republika Srpska,Broj,2.189621196
-2019,Žene,Republika Srpska,Broj,1.831921227
-1996,Oba spola,Republika Srpska,Broj,179.0
-1997,Oba spola,Republika Srpska,Broj,156.0
-1998,Oba spola,Republika Srpska,Broj,112.0
-1999,Oba spola,Republika Srpska,Broj,119.0
-2000,Oba spola,Republika Srpska,Broj,103.0
-2001,Oba spola,Republika Srpska,Broj,73.0
-2002,Oba spola,Republika Srpska,Broj,89.0
-2003,Oba spola,Republika Srpska,Broj,64.0
-2004,Oba spola,Republika Srpska,Broj,61.0
-2005,Oba spola,Republika Srpska,Broj,37.0
-2006,Oba spola,Republika Srpska,Broj,50.0
-2007,Oba spola,Republika Srpska,Broj,38.0
-2008,Oba spola,Republika Srpska,Broj,40.0
-2009,Oba spola,Republika Srpska,Broj,51.0
-2010,Oba spola,Republika Srpska,Broj,44.0
-2011,Oba spola,Republika Srpska,Broj,43.0
-2012,Oba spola,Republika Srpska,Broj,37.0
-2013,Oba spola,Republika Srpska,Broj,33.0
-2014,Oba spola,Republika Srpska,Broj,29.0
-2015,Oba spola,Republika Srpska,Broj,26.0
-2016,Oba spola,Republika Srpska,Broj,23.0
-2017,Oba spola,Republika Srpska,Broj,26.0
-2018,Oba spola,Republika Srpska,Broj,17.0
-2019,Oba spola,Republika Srpska,Broj,15.0
-1996,Muškarci,Republika Srpska,Broj,99.0
-1997,Muškarci,Republika Srpska,Broj,93.0
-1998,Muškarci,Republika Srpska,Broj,67.0
-1999,Muškarci,Republika Srpska,Broj,68.0
-2000,Muškarci,Republika Srpska,Broj,57.0
-2001,Muškarci,Republika Srpska,Broj,41.0
-2002,Muškarci,Republika Srpska,Broj,53.0
-2003,Muškarci,Republika Srpska,Broj,32.0
-2004,Muškarci,Republika Srpska,Broj,43.0
-2005,Muškarci,Republika Srpska,Broj,20.0
-2006,Muškarci,Republika Srpska,Broj,31.0
-2007,Muškarci,Republika Srpska,Broj,18.0
-2008,Muškarci,Republika Srpska,Broj,20.0
-2009,Muškarci,Republika Srpska,Broj,29.0
-2010,Muškarci,Republika Srpska,Broj,20.0
-2011,Muškarci,Republika Srpska,Broj,26.0
-2012,Muškarci,Republika Srpska,Broj,25.0
-2013,Muškarci,Republika Srpska,Broj,21.0
-2014,Muškarci,Republika Srpska,Broj,11.0
-2015,Muškarci,Republika Srpska,Broj,9.0
-2016,Muškarci,Republika Srpska,Broj,17.0
-2017,Muškarci,Republika Srpska,Broj,13.0
-2018,Muškarci,Republika Srpska,Broj,7.0
-2019,Muškarci,Republika Srpska,Broj,7.0
-1996,Žene,Republika Srpska,Broj,80.0
-1997,Žene,Republika Srpska,Broj,63.0
-1998,Žene,Republika Srpska,Broj,45.0
-1999,Žene,Republika Srpska,Broj,51.0
-2000,Žene,Republika Srpska,Broj,46.0
-2001,Žene,Republika Srpska,Broj,32.0
-2002,Žene,Republika Srpska,Broj,36.0
-2003,Žene,Republika Srpska,Broj,32.0
-2004,Žene,Republika Srpska,Broj,18.0
-2005,Žene,Republika Srpska,Broj,17.0
-2006,Žene,Republika Srpska,Broj,19.0
-2007,Žene,Republika Srpska,Broj,20.0
-2008,Žene,Republika Srpska,Broj,20.0
-2009,Žene,Republika Srpska,Broj,22.0
-2010,Žene,Republika Srpska,Broj,24.0
-2011,Žene,Republika Srpska,Broj,17.0
-2012,Žene,Republika Srpska,Broj,12.0
-2013,Žene,Republika Srpska,Broj,12.0
-2014,Žene,Republika Srpska,Broj,18.0
-2015,Žene,Republika Srpska,Broj,17.0
-2016,Žene,Republika Srpska,Broj,6.0
-2017,Žene,Republika Srpska,Broj,13.0
-2018,Žene,Republika Srpska,Broj,10.0
-2019,Žene,Republika Srpska,Broj,8.0
+1997,Oba spola,Federacija BiH,Broj,13.0
+1998,Oba spola,Federacija BiH,Broj,12.1
+1999,Oba spola,Federacija BiH,Broj,11.2
+2000,Oba spola,Federacija BiH,Broj,11.0
+2001,Oba spola,Federacija BiH,Broj,8.9
+2002,Oba spola,Federacija BiH,Broj,10.5
+2003,Oba spola,Federacija BiH,Broj,8.7
+2004,Oba spola,Federacija BiH,Broj,8.5
+2005,Oba spola,Federacija BiH,Broj,8.8
+2006,Oba spola,Federacija BiH,Broj,9.5
+2007,Oba spola,Federacija BiH,Broj,8.9
+2008,Oba spola,Federacija BiH,Broj,8.5
+2009,Oba spola,Federacija BiH,Broj,7.6
+2010,Oba spola,Federacija BiH,Broj,7.7
+2011,Oba spola,Federacija BiH,Broj,6.6
+2012,Oba spola,Federacija BiH,Broj,6.5
+2013,Oba spola,Federacija BiH,Broj,7.3
+2014,Oba spola,Federacija BiH,Broj,6.4
+2015,Oba spola,Federacija BiH,Broj,8.0
+2016,Oba spola,Federacija BiH,Broj,7.5
+2017,Oba spola,Federacija BiH,Broj,8.2
+2018,Oba spola,Federacija BiH,Broj,8.4
+2019,Oba spola,Federacija BiH,Broj,9.3
+1997,Muškarci,Federacija BiH,Broj,15.4
+1998,Muškarci,Federacija BiH,Broj,14.4
+1999,Muškarci,Federacija BiH,Broj,12.2
+2000,Muškarci,Federacija BiH,Broj,12.5
+2001,Muškarci,Federacija BiH,Broj,9.6
+2002,Muškarci,Federacija BiH,Broj,11.6
+2003,Muškarci,Federacija BiH,Broj,10.1
+2004,Muškarci,Federacija BiH,Broj,9.3
+2005,Muškarci,Federacija BiH,Broj,10.0
+2006,Muškarci,Federacija BiH,Broj,11.3
+2007,Muškarci,Federacija BiH,Broj,10.1
+2008,Muškarci,Federacija BiH,Broj,9.4
+2009,Muškarci,Federacija BiH,Broj,7.3
+2010,Muškarci,Federacija BiH,Broj,9.1
+2011,Muškarci,Federacija BiH,Broj,7.7
+2012,Muškarci,Federacija BiH,Broj,7.6
+2013,Muškarci,Federacija BiH,Broj,8.5
+2014,Muškarci,Federacija BiH,Broj,6.2
+2015,Muškarci,Federacija BiH,Broj,8.5
+2016,Muškarci,Federacija BiH,Broj,8.5
+2017,Muškarci,Federacija BiH,Broj,8.5
+2018,Muškarci,Federacija BiH,Broj,8.3
+2019,Muškarci,Federacija BiH,Broj,9.5
+1997,Žene,Federacija BiH,Broj,10.3
+1998,Žene,Federacija BiH,Broj,9.7
+1999,Žene,Federacija BiH,Broj,10.1
+2000,Žene,Federacija BiH,Broj,9.5
+2001,Žene,Federacija BiH,Broj,8.2
+2002,Žene,Federacija BiH,Broj,9.5
+2003,Žene,Federacija BiH,Broj,7.2
+2004,Žene,Federacija BiH,Broj,7.7
+2005,Žene,Federacija BiH,Broj,7.6
+2006,Žene,Federacija BiH,Broj,7.5
+2007,Žene,Federacija BiH,Broj,7.6
+2008,Žene,Federacija BiH,Broj,7.5
+2009,Žene,Federacija BiH,Broj,7.8
+2010,Žene,Federacija BiH,Broj,6.2
+2011,Žene,Federacija BiH,Broj,5.5
+2012,Žene,Federacija BiH,Broj,5.2
+2013,Žene,Federacija BiH,Broj,6.2
+2014,Žene,Federacija BiH,Broj,6.6
+2015,Žene,Federacija BiH,Broj,7.4
+2016,Žene,Federacija BiH,Broj,6.4
+2017,Žene,Federacija BiH,Broj,7.8
+2018,Žene,Federacija BiH,Broj,8.4
+2019,Žene,Federacija BiH,Broj,9.0
+1996,Oba spola,Republika Srpska,Broj,14.6
+1997,Oba spola,Republika Srpska,Broj,11.3
+1998,Oba spola,Republika Srpska,Broj,8.3
+1999,Oba spola,Republika Srpska,Broj,8.2
+2000,Oba spola,Republika Srpska,Broj,7.3
+2001,Oba spola,Republika Srpska,Broj,5.3
+2002,Oba spola,Republika Srpska,Broj,7.2
+2003,Oba spola,Republika Srpska,Broj,6.1
+2004,Oba spola,Republika Srpska,Broj,5.7
+2005,Oba spola,Republika Srpska,Broj,3.6
+2006,Oba spola,Republika Srpska,Broj,4.8
+2007,Oba spola,Republika Srpska,Broj,3.8
+2008,Oba spola,Republika Srpska,Broj,3.9
+2009,Oba spola,Republika Srpska,Broj,4.8
+2010,Oba spola,Republika Srpska,Broj,4.3
+2011,Oba spola,Republika Srpska,Broj,4.5
+2012,Oba spola,Republika Srpska,Broj,3.7
+2013,Oba spola,Republika Srpska,Broj,3.5
+2014,Oba spola,Republika Srpska,Broj,3.1
+2015,Oba spola,Republika Srpska,Broj,2.8
+2016,Oba spola,Republika Srpska,Broj,2.4
+2017,Oba spola,Republika Srpska,Broj,2.8
+2018,Oba spola,Republika Srpska,Broj,1.8
+2019,Oba spola,Republika Srpska,Broj,1.6
+1996,Muškarci,Republika Srpska,Broj,15.5
+1997,Muškarci,Republika Srpska,Broj,13.0
+1998,Muškarci,Republika Srpska,Broj,9.5
+1999,Muškarci,Republika Srpska,Broj,9.2
+2000,Muškarci,Republika Srpska,Broj,7.8
+2001,Muškarci,Republika Srpska,Broj,5.8
+2002,Muškarci,Republika Srpska,Broj,8.3
+2003,Muškarci,Republika Srpska,Broj,5.9
+2004,Muškarci,Republika Srpska,Broj,7.8
+2005,Muškarci,Republika Srpska,Broj,3.8
+2006,Muškarci,Republika Srpska,Broj,5.8
+2007,Muškarci,Republika Srpska,Broj,3.5
+2008,Muškarci,Republika Srpska,Broj,3.8
+2009,Muškarci,Republika Srpska,Broj,5.2
+2010,Muškarci,Republika Srpska,Broj,3.9
+2011,Muškarci,Republika Srpska,Broj,5.2
+2012,Muškarci,Republika Srpska,Broj,4.9
+2013,Muškarci,Republika Srpska,Broj,4.3
+2014,Muškarci,Republika Srpska,Broj,2.3
+2015,Muškarci,Republika Srpska,Broj,1.9
+2016,Muškarci,Republika Srpska,Broj,3.4
+2017,Muškarci,Republika Srpska,Broj,2.7
+2018,Muškarci,Republika Srpska,Broj,1.4
+2019,Muškarci,Republika Srpska,Broj,1.4
+1996,Žene,Republika Srpska,Broj,13.6
+1997,Žene,Republika Srpska,Broj,9.6
+1998,Žene,Republika Srpska,Broj,7.0
+1999,Žene,Republika Srpska,Broj,7.2
+2000,Žene,Republika Srpska,Broj,6.7
+2001,Žene,Republika Srpska,Broj,4.8
+2002,Žene,Republika Srpska,Broj,6.0
+2003,Žene,Republika Srpska,Broj,6.3
+2004,Žene,Republika Srpska,Broj,3.5
+2005,Žene,Republika Srpska,Broj,3.4
+2006,Žene,Republika Srpska,Broj,3.7
+2007,Žene,Republika Srpska,Broj,4.1
+2008,Žene,Republika Srpska,Broj,4.1
+2009,Žene,Republika Srpska,Broj,4.4
+2010,Žene,Republika Srpska,Broj,4.8
+2011,Žene,Republika Srpska,Broj,3.7
+2012,Žene,Republika Srpska,Broj,2.5
+2013,Žene,Republika Srpska,Broj,2.6
+2014,Žene,Republika Srpska,Broj,4.0
+2015,Žene,Republika Srpska,Broj,3.8
+2016,Žene,Republika Srpska,Broj,1.3
+2017,Žene,Republika Srpska,Broj,2.9
+2018,Žene,Republika Srpska,Broj,2.2
+2019,Žene,Republika Srpska,Broj,1.8
+2004,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2005,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2006,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2007,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2008,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2009,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2010,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2011,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2012,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2013,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2014,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2015,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2016,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2017,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2018,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2019,Oba spola,Brčko Distrikt BiH,Broj,0.0
+2004,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2005,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2006,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2007,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2008,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2009,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2010,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2011,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2012,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2013,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2014,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2015,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2016,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2017,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2018,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2019,Muškarci,Brčko Distrikt BiH,Broj,0.0
+2004,Žene,Brčko Distrikt BiH,Broj,0.0
+2005,Žene,Brčko Distrikt BiH,Broj,0.0
+2006,Žene,Brčko Distrikt BiH,Broj,0.0
+2007,Žene,Brčko Distrikt BiH,Broj,0.0
+2008,Žene,Brčko Distrikt BiH,Broj,0.0
+2009,Žene,Brčko Distrikt BiH,Broj,0.0
+2010,Žene,Brčko Distrikt BiH,Broj,0.0
+2011,Žene,Brčko Distrikt BiH,Broj,0.0
+2012,Žene,Brčko Distrikt BiH,Broj,0.0
+2013,Žene,Brčko Distrikt BiH,Broj,0.0
+2014,Žene,Brčko Distrikt BiH,Broj,0.0
+2015,Žene,Brčko Distrikt BiH,Broj,0.0
+2016,Žene,Brčko Distrikt BiH,Broj,0.0
+2017,Žene,Brčko Distrikt BiH,Broj,0.0
+2018,Žene,Brčko Distrikt BiH,Broj,0.0
+2019,Žene,Brčko Distrikt BiH,Broj,0.0
