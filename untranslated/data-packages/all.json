@@ -229,7 +229,6 @@
             "constraints": {
               "enum": [
                 "_T",
-                "SEX",
                 "M",
                 "F",
                 ""
