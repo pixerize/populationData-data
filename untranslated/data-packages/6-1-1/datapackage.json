@@ -24,8 +24,6 @@
             "constraints": {
               "enum": [
                 "total_millions",
-                "real_gdp_growth",
-                "per_capita",
                 ""
               ]
             }
@@ -45,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

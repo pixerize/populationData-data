@@ -1,182 +1,136 @@
 Year,UNIT_MEASURE,QUANTITY,Entitet,Value
-1997,BAM,total_millions,BiH,6752.0
-1998,BAM,total_millions,BiH,7650.0
-1999,BAM,total_millions,BiH,8604.0
-2000,BAM,total_millions,BiH,9611.0
-2001,BAM,total_millions,BiH,10480.0
-2002,BAM,total_millions,BiH,11651.0
-2003,BAM,total_millions,BiH,12303.0
-2004,BAM,total_millions,BiH,13497.0
-2005,BAM,total_millions,BiH,17649.0
-2006,BAM,total_millions,BiH,20056.0
-2007,BAM,total_millions,BiH,22548.0
-2008,BAM,total_millions,BiH,25519.0
-2009,BAM,total_millions,BiH,24799.0
-2010,BAM,total_millions,BiH,25365.0
-2011,BAM,total_millions,BiH,26231.0
-2012,BAM,total_millions,BiH,26223.0
-2013,BAM,total_millions,BiH,26779.0
-2014,BAM,total_millions,BiH,27358.0
-2015,BAM,total_millions,BiH,28589.0
-2016,BAM,total_millions,BiH,29905.0
-2017,BAM,total_millions,BiH,31377.0
-2018,BAM,total_millions,BiH,33445.0
-2019,BAM,total_millions,BiH,35295.0
-1997,BAM,total_millions,Federacija BiH,4943.0
-1998,BAM,total_millions,Federacija BiH,5606.0
-1999,BAM,total_millions,Federacija BiH,6142.0
-2000,BAM,total_millions,Federacija BiH,6723.0
-2001,BAM,total_millions,Federacija BiH,7274.0
-2002,BAM,total_millions,Federacija BiH,7943.0
-2003,BAM,total_millions,Federacija BiH,8268.0
-2004,BAM,total_millions,Federacija BiH,8897.0
-2005,BAM,total_millions,Federacija BiH,11506.0
-2006,BAM,total_millions,Federacija BiH,13036.0
-2007,BAM,total_millions,Federacija BiH,14629.0
-2008,BAM,total_millions,Federacija BiH,16426.0
-2009,BAM,total_millions,Federacija BiH,15987.0
-2010,BAM,total_millions,Federacija BiH,16461.0
-2011,BAM,total_millions,Federacija BiH,16927.0
-2012,BAM,total_millions,Federacija BiH,17013.0
-2013,BAM,total_millions,Federacija BiH,17379.0
-2014,BAM,total_millions,Federacija BiH,17827.0
-2015,BAM,total_millions,Federacija BiH,18688.0
-2016,BAM,total_millions,Federacija BiH,19540.0
-2017,BAM,total_millions,Federacija BiH,20540.0
-2018,BAM,total_millions,Federacija BiH,21984.0
-2019,BAM,total_millions,Federacija BiH,23179.0
-1997,BAM,total_millions,Republika Srpska,1809.0
-1998,BAM,total_millions,Republika Srpska,2044.0
-1999,BAM,total_millions,Republika Srpska,2462.0
-2000,BAM,total_millions,Republika Srpska,2734.0
-2001,BAM,total_millions,Republika Srpska,2993.0
-2002,BAM,total_millions,Republika Srpska,3417.0
-2003,BAM,total_millions,Republika Srpska,3717.0
-2004,BAM,total_millions,Republika Srpska,4226.0
-2005,BAM,total_millions,Republika Srpska,5695.0
-2006,BAM,total_millions,Republika Srpska,6550.0
-2007,BAM,total_millions,Republika Srpska,7366.0
-2008,BAM,total_millions,Republika Srpska,8507.0
-2009,BAM,total_millions,Republika Srpska,8257.0
-2010,BAM,total_millions,Republika Srpska,8336.0
-2011,BAM,total_millions,Republika Srpska,8703.0
-2012,BAM,total_millions,Republika Srpska,8615.0
-2013,BAM,total_millions,Republika Srpska,8793.0
-2014,BAM,total_millions,Republika Srpska,8887.0
-2015,BAM,total_millions,Republika Srpska,9205.0
-2016,BAM,total_millions,Republika Srpska,9631.0
-2017,BAM,total_millions,Republika Srpska,10077.0
-2018,BAM,total_millions,Republika Srpska,10680.0
-2019,BAM,total_millions,Republika Srpska,11251.0
-2000,BAM,total_millions,Brčko Distrikt BiH,154.0
-2001,BAM,total_millions,Brčko Distrikt BiH,213.0
-2002,BAM,total_millions,Brčko Distrikt BiH,291.0
-2003,BAM,total_millions,Brčko Distrikt BiH,318.0
-2004,BAM,total_millions,Brčko Distrikt BiH,374.0
-2005,BAM,total_millions,Brčko Distrikt BiH,448.0
-2006,BAM,total_millions,Brčko Distrikt BiH,470.0
-2007,BAM,total_millions,Brčko Distrikt BiH,553.0
-2008,BAM,total_millions,Brčko Distrikt BiH,586.0
-2009,BAM,total_millions,Brčko Distrikt BiH,555.0
-2010,BAM,total_millions,Brčko Distrikt BiH,568.0
-2011,BAM,total_millions,Brčko Distrikt BiH,601.0
-2012,BAM,total_millions,Brčko Distrikt BiH,595.0
-2013,BAM,total_millions,Brčko Distrikt BiH,607.0
-2014,BAM,total_millions,Brčko Distrikt BiH,644.0
-2015,BAM,total_millions,Brčko Distrikt BiH,696.0
-2016,BAM,total_millions,Brčko Distrikt BiH,734.0
-2017,BAM,total_millions,Brčko Distrikt BiH,760.0
-2018,BAM,total_millions,Brčko Distrikt BiH,781.0
-2019,BAM,total_millions,Brčko Distrikt BiH,865.0
-1997,% od ukupnog broja,real_gdp_growth,BiH,0.34
-1998,% od ukupnog broja,real_gdp_growth,BiH,0.16
-1999,% od ukupnog broja,real_gdp_growth,BiH,0.1
-2000,% od ukupnog broja,real_gdp_growth,BiH,0.06
-2001,% od ukupnog broja,real_gdp_growth,BiH,0.04
-2002,% od ukupnog broja,real_gdp_growth,BiH,0.05
-2003,% od ukupnog broja,real_gdp_growth,BiH,0.04
-2004,% od ukupnog broja,real_gdp_growth,BiH,0.06
-2005,% od ukupnog broja,real_gdp_growth,BiH,0.09
-2006,% od ukupnog broja,real_gdp_growth,BiH,0.05
-2007,% od ukupnog broja,real_gdp_growth,BiH,0.06
-2008,% od ukupnog broja,real_gdp_growth,BiH,0.05
-2009,% od ukupnog broja,real_gdp_growth,BiH,-0.03
-2010,% od ukupnog broja,real_gdp_growth,BiH,0.01
-2011,% od ukupnog broja,real_gdp_growth,BiH,0.01
-2012,% od ukupnog broja,real_gdp_growth,BiH,-0.01
-2013,% od ukupnog broja,real_gdp_growth,BiH,0.02
-2014,% od ukupnog broja,real_gdp_growth,BiH,0.01
-2015,% od ukupnog broja,real_gdp_growth,BiH,0.03
-2016,% od ukupnog broja,real_gdp_growth,BiH,0.03
-2017,% od ukupnog broja,real_gdp_growth,BiH,0.02
-2018,% od ukupnog broja,real_gdp_growth,BiH,0.04
-2019,% od ukupnog broja,real_gdp_growth,BiH,0.03
-1997,BAM,per_capita,BiH,1798.0
-1998,BAM,per_capita,BiH,2094.0
-1999,BAM,per_capita,BiH,2310.0
-2000,BAM,per_capita,BiH,2542.0
-2001,BAM,per_capita,BiH,2759.0
-2002,BAM,per_capita,BiH,3044.0
-2003,BAM,per_capita,BiH,3211.0
-2004,BAM,per_capita,BiH,3512.0
-2005,BAM,per_capita,BiH,4983.0
-2006,BAM,per_capita,BiH,5663.0
-2007,BAM,per_capita,BiH,6366.0
-2008,BAM,per_capita,BiH,7205.0
-2009,BAM,per_capita,BiH,7003.0
-2010,BAM,per_capita,BiH,7165.0
-2011,BAM,per_capita,BiH,7414.0
-2012,BAM,per_capita,BiH,7418.0
-2013,BAM,per_capita,BiH,7584.0
-2014,BAM,per_capita,BiH,7759.0
-2015,BAM,per_capita,BiH,8127.0
-2016,BAM,per_capita,BiH,8517.0
-2017,BAM,per_capita,BiH,8954.0
-2018,BAM,per_capita,BiH,9566.0
-2019,BAM,per_capita,BiH,10128.0
-1997,EUR,total_millions,BiH,3424.0
-1998,EUR,total_millions,BiH,3879.0
-1999,EUR,total_millions,BiH,4399.0
-2000,EUR,total_millions,BiH,4914.0
-2001,EUR,total_millions,BiH,5358.0
-2002,EUR,total_millions,BiH,5957.0
-2003,EUR,total_millions,BiH,6291.0
-2004,EUR,total_millions,BiH,6901.0
-2005,EUR,total_millions,BiH,9025.0
-2006,EUR,total_millions,BiH,10255.0
-2007,EUR,total_millions,BiH,11529.0
-2008,EUR,total_millions,BiH,13048.0
-2009,EUR,total_millions,BiH,12679.0
-2010,EUR,total_millions,BiH,12969.0
-2011,EUR,total_millions,BiH,13412.0
-2012,EUR,total_millions,BiH,13408.0
-2013,EUR,total_millions,BiH,13692.0
-2014,EUR,total_millions,BiH,13989.0
-2015,EUR,total_millions,BiH,14618.0
-2016,EUR,total_millions,BiH,15290.0
-2017,EUR,total_millions,BiH,16043.0
-2018,EUR,total_millions,BiH,17100.0
-2019,EUR,total_millions,BiH,18047.0
-1997,Američki dolar,total_millions,BiH,3894.0
-1998,Američki dolar,total_millions,BiH,4343.0
-1999,Američki dolar,total_millions,BiH,4691.0
-2000,Američki dolar,total_millions,BiH,4536.0
-2001,Američki dolar,total_millions,BiH,4795.0
-2002,Američki dolar,total_millions,BiH,5610.0
-2003,Američki dolar,total_millions,BiH,7097.0
-2004,Američki dolar,total_millions,BiH,8567.0
-2005,Američki dolar,total_millions,BiH,11221.0
-2006,Američki dolar,total_millions,BiH,12865.0
-2007,Američki dolar,total_millions,BiH,15773.0
-2008,Američki dolar,total_millions,BiH,19093.0
-2009,Američki dolar,total_millions,BiH,17628.0
-2010,Američki dolar,total_millions,BiH,17174.0
-2011,Američki dolar,total_millions,BiH,18655.0
-2012,Američki dolar,total_millions,BiH,17222.0
-2013,Američki dolar,total_millions,BiH,18173.0
-2014,Američki dolar,total_millions,BiH,18566.0
-2015,Američki dolar,total_millions,BiH,16220.0
-2016,Američki dolar,total_millions,BiH,16914.0
-2017,Američki dolar,total_millions,BiH,18079.0
-2018,Američki dolar,total_millions,BiH,20177.0
-2019,Američki dolar,total_millions,BiH,20201.0
+1997,BAM,total_millions,BiH,6752
+1998,BAM,total_millions,BiH,7650
+1999,BAM,total_millions,BiH,8604
+2000,BAM,total_millions,BiH,9611
+2001,BAM,total_millions,BiH,10480
+2002,BAM,total_millions,BiH,11651
+2003,BAM,total_millions,BiH,12303
+2004,BAM,total_millions,BiH,13497
+2005,BAM,total_millions,BiH,17649
+2006,BAM,total_millions,BiH,20056
+2007,BAM,total_millions,BiH,22548
+2008,BAM,total_millions,BiH,25519
+2009,BAM,total_millions,BiH,24799
+2010,BAM,total_millions,BiH,25365
+2011,BAM,total_millions,BiH,26231
+2012,BAM,total_millions,BiH,26223
+2013,BAM,total_millions,BiH,26779
+2014,BAM,total_millions,BiH,27358
+2015,BAM,total_millions,BiH,28589
+2016,BAM,total_millions,BiH,29905
+2017,BAM,total_millions,BiH,31377
+2018,BAM,total_millions,BiH,33445
+2019,BAM,total_millions,BiH,35295
+1997,BAM,total_millions,Federacija BiH,4943
+1998,BAM,total_millions,Federacija BiH,5606
+1999,BAM,total_millions,Federacija BiH,6142
+2000,BAM,total_millions,Federacija BiH,6723
+2001,BAM,total_millions,Federacija BiH,7274
+2002,BAM,total_millions,Federacija BiH,7943
+2003,BAM,total_millions,Federacija BiH,8268
+2004,BAM,total_millions,Federacija BiH,8897
+2005,BAM,total_millions,Federacija BiH,11506
+2006,BAM,total_millions,Federacija BiH,13036
+2007,BAM,total_millions,Federacija BiH,14629
+2008,BAM,total_millions,Federacija BiH,16426
+2009,BAM,total_millions,Federacija BiH,15987
+2010,BAM,total_millions,Federacija BiH,16461
+2011,BAM,total_millions,Federacija BiH,16927
+2012,BAM,total_millions,Federacija BiH,17013
+2013,BAM,total_millions,Federacija BiH,17379
+2014,BAM,total_millions,Federacija BiH,17827
+2015,BAM,total_millions,Federacija BiH,18688
+2016,BAM,total_millions,Federacija BiH,19540
+2017,BAM,total_millions,Federacija BiH,20540
+2018,BAM,total_millions,Federacija BiH,21984
+2019,BAM,total_millions,Federacija BiH,23179
+1997,BAM,total_millions,Republika Srpska,1809
+1998,BAM,total_millions,Republika Srpska,2044
+1999,BAM,total_millions,Republika Srpska,2462
+2000,BAM,total_millions,Republika Srpska,2734
+2001,BAM,total_millions,Republika Srpska,2993
+2002,BAM,total_millions,Republika Srpska,3417
+2003,BAM,total_millions,Republika Srpska,3717
+2004,BAM,total_millions,Republika Srpska,4226
+2005,BAM,total_millions,Republika Srpska,5695
+2006,BAM,total_millions,Republika Srpska,6550
+2007,BAM,total_millions,Republika Srpska,7366
+2008,BAM,total_millions,Republika Srpska,8507
+2009,BAM,total_millions,Republika Srpska,8257
+2010,BAM,total_millions,Republika Srpska,8336
+2011,BAM,total_millions,Republika Srpska,8703
+2012,BAM,total_millions,Republika Srpska,8615
+2013,BAM,total_millions,Republika Srpska,8793
+2014,BAM,total_millions,Republika Srpska,8887
+2015,BAM,total_millions,Republika Srpska,9205
+2016,BAM,total_millions,Republika Srpska,9631
+2017,BAM,total_millions,Republika Srpska,10077
+2018,BAM,total_millions,Republika Srpska,10680
+2019,BAM,total_millions,Republika Srpska,11251
+2000,BAM,total_millions,Brčko Distrikt BiH,154
+2001,BAM,total_millions,Brčko Distrikt BiH,213
+2002,BAM,total_millions,Brčko Distrikt BiH,291
+2003,BAM,total_millions,Brčko Distrikt BiH,318
+2004,BAM,total_millions,Brčko Distrikt BiH,374
+2005,BAM,total_millions,Brčko Distrikt BiH,448
+2006,BAM,total_millions,Brčko Distrikt BiH,470
+2007,BAM,total_millions,Brčko Distrikt BiH,553
+2008,BAM,total_millions,Brčko Distrikt BiH,586
+2009,BAM,total_millions,Brčko Distrikt BiH,555
+2010,BAM,total_millions,Brčko Distrikt BiH,568
+2011,BAM,total_millions,Brčko Distrikt BiH,601
+2012,BAM,total_millions,Brčko Distrikt BiH,595
+2013,BAM,total_millions,Brčko Distrikt BiH,607
+2014,BAM,total_millions,Brčko Distrikt BiH,644
+2015,BAM,total_millions,Brčko Distrikt BiH,696
+2016,BAM,total_millions,Brčko Distrikt BiH,734
+2017,BAM,total_millions,Brčko Distrikt BiH,760
+2018,BAM,total_millions,Brčko Distrikt BiH,781
+2019,BAM,total_millions,Brčko Distrikt BiH,865
+1997,EUR,total_millions,BiH,3424
+1998,EUR,total_millions,BiH,3879
+1999,EUR,total_millions,BiH,4399
+2000,EUR,total_millions,BiH,4914
+2001,EUR,total_millions,BiH,5358
+2002,EUR,total_millions,BiH,5957
+2003,EUR,total_millions,BiH,6291
+2004,EUR,total_millions,BiH,6901
+2005,EUR,total_millions,BiH,9025
+2006,EUR,total_millions,BiH,10255
+2007,EUR,total_millions,BiH,11529
+2008,EUR,total_millions,BiH,13048
+2009,EUR,total_millions,BiH,12679
+2010,EUR,total_millions,BiH,12969
+2011,EUR,total_millions,BiH,13412
+2012,EUR,total_millions,BiH,13408
+2013,EUR,total_millions,BiH,13692
+2014,EUR,total_millions,BiH,13989
+2015,EUR,total_millions,BiH,14618
+2016,EUR,total_millions,BiH,15290
+2017,EUR,total_millions,BiH,16043
+2018,EUR,total_millions,BiH,17100
+2019,EUR,total_millions,BiH,18047
+1997,Američki dolar,total_millions,BiH,3894
+1998,Američki dolar,total_millions,BiH,4343
+1999,Američki dolar,total_millions,BiH,4691
+2000,Američki dolar,total_millions,BiH,4536
+2001,Američki dolar,total_millions,BiH,4795
+2002,Američki dolar,total_millions,BiH,5610
+2003,Američki dolar,total_millions,BiH,7097
+2004,Američki dolar,total_millions,BiH,8567
+2005,Američki dolar,total_millions,BiH,11221
+2006,Američki dolar,total_millions,BiH,12865
+2007,Američki dolar,total_millions,BiH,15773
+2008,Američki dolar,total_millions,BiH,19093
+2009,Američki dolar,total_millions,BiH,17628
+2010,Američki dolar,total_millions,BiH,17174
+2011,Američki dolar,total_millions,BiH,18655
+2012,Američki dolar,total_millions,BiH,17222
+2013,Američki dolar,total_millions,BiH,18173
+2014,Američki dolar,total_millions,BiH,18566
+2015,Američki dolar,total_millions,BiH,16220
+2016,Američki dolar,total_millions,BiH,16914
+2017,Američki dolar,total_millions,BiH,18079
+2018,Američki dolar,total_millions,BiH,20177
+2019,Američki dolar,total_millions,BiH,20201
