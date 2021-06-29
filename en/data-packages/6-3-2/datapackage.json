@@ -11,17 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Employed as % of working age population"
-              ]
-            },
-            "title": "Activity rates"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
