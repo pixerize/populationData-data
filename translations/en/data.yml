@@ -83,11 +83,11 @@ total_fertility_rate: Total fertility rate
 age_specific_fertility_rates: Age specific fertility rates
 total_millions: Total (millions)
 active_labour_force:
-enrolment_in_pre_school: Enrolment in pre-school education
-enrolment_in_primary_school_education: Enrolment in primary school education
-enrolment_in_high_school_education: Enrolment in high school education
-enrolment_in_higher_education: Enrolment in higher education
-ENROLMENT: Enrolment
+enrolment_in_pre_school: Pre-school
+enrolment_in_primary_school_education: Primary school
+enrolment_in_high_school_education: High school
+enrolment_in_higher_education: Higher school/University
+ENROLMENT: Type of educational institution
 per_capita: Per capita
 real_gdp_growth: Real GDP growth
 total_millions: Total (millions)
