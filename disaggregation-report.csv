@@ -4,7 +4,7 @@ BIRTHS,Births,Births,Births,Births,1,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,2,23
 EDUCATION,Education,EDUCATION,EDUCATION,EDUCATION,1,8
 ENROLMENT,Type of educational institution,ENROLMENT,ENROLMENT,ENROLMENT,1,4
-Entity,Administrative area,Entitet,Ентитет,Entitet,27,6
+Entity,Administrative area,Entitet,Ентитет,Entitet,28,95
 FORM_OF_VIOLENCE,Form of violence,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,1,36
 GRAND_TOTAL,Grand Total,GRAND_TOTAL,GRAND_TOTAL,GRAND_TOTAL,1,1
 health_indicators,Health indicators,health_indicators,health_indicators,health_indicators,1,21
