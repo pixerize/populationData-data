@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

@@ -1,1 +1,240 @@
-Year,Value
+Year,Spol,Entitet,UNIT_MEASURE,Value
+1998,Oba spola,BiH,Starost,66.1
+1999,Oba spola,BiH,Starost,66.6
+2000,Oba spola,BiH,Starost,66.8
+2001,Oba spola,BiH,Starost,67.2
+2002,Oba spola,BiH,Starost,67.8
+2003,Oba spola,BiH,Starost,68.4
+2004,Oba spola,BiH,Starost,68.9
+2005,Oba spola,BiH,Starost,69.3
+2006,Oba spola,BiH,Starost,69.4
+2007,Oba spola,BiH,Starost,69.6
+2008,Oba spola,BiH,Starost,70.2
+2009,Oba spola,BiH,Starost,70.8
+2010,Oba spola,BiH,Starost,71.6
+2011,Oba spola,BiH,Starost,72.1
+2012,Oba spola,BiH,Starost,72.5
+2013,Oba spola,BiH,Starost,72.7
+2014,Oba spola,BiH,Starost,73.0
+2015,Oba spola,BiH,Starost,73.4
+2016,Oba spola,BiH,Starost,73.4
+2017,Oba spola,BiH,Starost,73.9
+2018,Oba spola,BiH,Starost,74.1
+2019,Oba spola,BiH,Starost,74.1
+1961,Muškarci,BiH,Starost,31.6
+1971,Muškarci,BiH,Starost,48.0
+1998,Muškarci,BiH,Starost,63.3
+1999,Muškarci,BiH,Starost,64.0
+2000,Muškarci,BiH,Starost,64.2
+2001,Muškarci,BiH,Starost,64.6
+2002,Muškarci,BiH,Starost,65.0
+2003,Muškarci,BiH,Starost,65.8
+2004,Muškarci,BiH,Starost,66.3
+2005,Muškarci,BiH,Starost,66.8
+2006,Muškarci,BiH,Starost,66.8
+2007,Muškarci,BiH,Starost,66.9
+2008,Muškarci,BiH,Starost,67.4
+2009,Muškarci,BiH,Starost,68.1
+2010,Muškarci,BiH,Starost,68.9
+2011,Muškarci,BiH,Starost,69.4
+2012,Muškarci,BiH,Starost,69.8
+2013,Muškarci,BiH,Starost,70.0
+2014,Muškarci,BiH,Starost,70.4
+2015,Muškarci,BiH,Starost,70.7
+2016,Muškarci,BiH,Starost,70.7
+2017,Muškarci,BiH,Starost,71.2
+2018,Muškarci,BiH,Starost,71.4
+2019,Muškarci,BiH,Starost,71.5
+1961,Žene,BiH,Starost,34.5
+1971,Žene,BiH,Starost,51.6
+1998,Žene,BiH,Starost,69.2
+1999,Žene,BiH,Starost,69.5
+2000,Žene,BiH,Starost,69.7
+2001,Žene,BiH,Starost,70.2
+2002,Žene,BiH,Starost,70.7
+2003,Žene,BiH,Starost,71.2
+2004,Žene,BiH,Starost,71.7
+2005,Žene,BiH,Starost,72.2
+2006,Žene,BiH,Starost,72.2
+2007,Žene,BiH,Starost,72.5
+2008,Žene,BiH,Starost,73.3
+2009,Žene,BiH,Starost,73.6
+2010,Žene,BiH,Starost,74.5
+2011,Žene,BiH,Starost,75.0
+2012,Žene,BiH,Starost,75.3
+2013,Žene,BiH,Starost,75.5
+2014,Žene,BiH,Starost,75.8
+2015,Žene,BiH,Starost,76.1
+2016,Žene,BiH,Starost,76.2
+2017,Žene,BiH,Starost,76.5
+2018,Žene,BiH,Starost,76.8
+2019,Žene,BiH,Starost,76.9
+1997,Oba spola,Federacija BiH,Starost,64.3
+1998,Oba spola,Federacija BiH,Starost,63.8
+1999,Oba spola,Federacija BiH,Starost,65.7
+2000,Oba spola,Federacija BiH,Starost,66.5
+2001,Oba spola,Federacija BiH,Starost,67.1
+2002,Oba spola,Federacija BiH,Starost,67.3
+2003,Oba spola,Federacija BiH,Starost,68.2
+2004,Oba spola,Federacija BiH,Starost,68.6
+2005,Oba spola,Federacija BiH,Starost,69.1
+2006,Oba spola,Federacija BiH,Starost,69.0
+2007,Oba spola,Federacija BiH,Starost,69.3
+2008,Oba spola,Federacija BiH,Starost,69.5
+2009,Oba spola,Federacija BiH,Starost,70.2
+2010,Oba spola,Federacija BiH,Starost,70.5
+2011,Oba spola,Federacija BiH,Starost,70.8
+2012,Oba spola,Federacija BiH,Starost,71.3
+2013,Oba spola,Federacija BiH,Starost,71.6
+2014,Oba spola,Federacija BiH,Starost,72.0
+2015,Oba spola,Federacija BiH,Starost,72.3
+2016,Oba spola,Federacija BiH,Starost,72.3
+2017,Oba spola,Federacija BiH,Starost,72.5
+2018,Oba spola,Federacija BiH,Starost,73.0
+2019,Oba spola,Federacija BiH,Starost,73.0
+1997,Muškarci,Federacija BiH,Starost,61.6
+1998,Muškarci,Federacija BiH,Starost,61.3
+1999,Muškarci,Federacija BiH,Starost,63.2
+2000,Muškarci,Federacija BiH,Starost,64.1
+2001,Muškarci,Federacija BiH,Starost,64.5
+2002,Muškarci,Federacija BiH,Starost,64.6
+2003,Muškarci,Federacija BiH,Starost,65.5
+2004,Muškarci,Federacija BiH,Starost,66.0
+2005,Muškarci,Federacija BiH,Starost,66.4
+2006,Muškarci,Federacija BiH,Starost,66.5
+2007,Muškarci,Federacija BiH,Starost,66.8
+2008,Muškarci,Federacija BiH,Starost,66.7
+2009,Muškarci,Federacija BiH,Starost,67.5
+2010,Muškarci,Federacija BiH,Starost,67.7
+2011,Muškarci,Federacija BiH,Starost,68.2
+2012,Muškarci,Federacija BiH,Starost,68.9
+2013,Muškarci,Federacija BiH,Starost,69.0
+2014,Muškarci,Federacija BiH,Starost,69.4
+2015,Muškarci,Federacija BiH,Starost,69.6
+2016,Muškarci,Federacija BiH,Starost,69.7
+2017,Muškarci,Federacija BiH,Starost,70.1
+2018,Muškarci,Federacija BiH,Starost,70.5
+2019,Muškarci,Federacija BiH,Starost,70.5
+1997,Žene,Federacija BiH,Starost,67.5
+1998,Žene,Federacija BiH,Starost,66.8
+1999,Žene,Federacija BiH,Starost,68.5
+2000,Žene,Federacija BiH,Starost,69.3
+2001,Žene,Federacija BiH,Starost,69.9
+2002,Žene,Federacija BiH,Starost,70.3
+2003,Žene,Federacija BiH,Starost,71.1
+2004,Žene,Federacija BiH,Starost,71.3
+2005,Žene,Federacija BiH,Starost,72.0
+2006,Žene,Federacija BiH,Starost,71.7
+2007,Žene,Federacija BiH,Starost,72.0
+2008,Žene,Federacija BiH,Starost,72.5
+2009,Žene,Federacija BiH,Starost,73.0
+2010,Žene,Federacija BiH,Starost,73.3
+2011,Žene,Federacija BiH,Starost,73.7
+2012,Žene,Federacija BiH,Starost,74.1
+2013,Žene,Federacija BiH,Starost,74.3
+2014,Žene,Federacija BiH,Starost,74.7
+2015,Žene,Federacija BiH,Starost,75.0
+2016,Žene,Federacija BiH,Starost,74.9
+2017,Žene,Federacija BiH,Starost,75.0
+2018,Žene,Federacija BiH,Starost,75.5
+2019,Žene,Federacija BiH,Starost,75.6
+2010,Oba spola,Republika Srpska,Starost,72.1
+2011,Oba spola,Republika Srpska,Starost,72.5
+2012,Oba spola,Republika Srpska,Starost,73.0
+2013,Oba spola,Republika Srpska,Starost,73.0
+2014,Oba spola,Republika Srpska,Starost,73.0
+2015,Oba spola,Republika Srpska,Starost,73.7
+2016,Oba spola,Republika Srpska,Starost,73.8
+2017,Oba spola,Republika Srpska,Starost,74.5
+2018,Oba spola,Republika Srpska,Starost,74.5
+2019,Oba spola,Republika Srpska,Starost,74.5
+1998,Muškarci,Republika Srpska,Starost,64.9
+2000,Muškarci,Republika Srpska,Starost,65.2
+2001,Muškarci,Republika Srpska,Starost,66.5
+2002,Muškarci,Republika Srpska,Starost,66.3
+2003,Muškarci,Republika Srpska,Starost,67.0
+2004,Muškarci,Republika Srpska,Starost,67.0
+2005,Muškarci,Republika Srpska,Starost,67.3
+2006,Muškarci,Republika Srpska,Starost,67.6
+2007,Muškarci,Republika Srpska,Starost,68.2
+2008,Muškarci,Republika Srpska,Starost,68.3
+2009,Muškarci,Republika Srpska,Starost,68.9
+2010,Muškarci,Republika Srpska,Starost,69.4
+2011,Muškarci,Republika Srpska,Starost,69.6
+2012,Muškarci,Republika Srpska,Starost,70.1
+2013,Muškarci,Republika Srpska,Starost,70.1
+2014,Muškarci,Republika Srpska,Starost,70.5
+2015,Muškarci,Republika Srpska,Starost,71.0
+2016,Muškarci,Republika Srpska,Starost,71.0
+2017,Muškarci,Republika Srpska,Starost,71.6
+2018,Muškarci,Republika Srpska,Starost,71.6
+2019,Žene,Republika Srpska,Starost,71.7
+1998,Žene,Republika Srpska,Starost,70.8
+2000,Žene,Republika Srpska,Starost,71.2
+2001,Žene,Republika Srpska,Starost,71.3
+2002,Žene,Republika Srpska,Starost,72.0
+2003,Žene,Republika Srpska,Starost,72.0
+2004,Žene,Republika Srpska,Starost,72.0
+2005,Žene,Republika Srpska,Starost,72.5
+2006,Žene,Republika Srpska,Starost,73.1
+2007,Žene,Republika Srpska,Starost,74.0
+2008,Žene,Republika Srpska,Starost,74.3
+2009,Žene,Republika Srpska,Starost,74.4
+2010,Žene,Republika Srpska,Starost,74.9
+2011,Žene,Republika Srpska,Starost,75.5
+2012,Žene,Republika Srpska,Starost,76.1
+2013,Žene,Republika Srpska,Starost,76.0
+2014,Žene,Republika Srpska,Starost,76.1
+2015,Žene,Republika Srpska,Starost,76.5
+2016,Žene,Republika Srpska,Starost,76.9
+2017,Žene,Republika Srpska,Starost,77.4
+2018,Žene,Republika Srpska,Starost,77.4
+2019,Žene,Republika Srpska,Starost,77.4
+2004,Oba spola,Brčko Distrikt BiH,Starost,70.6
+2005,Oba spola,Brčko Distrikt BiH,Starost,71.2
+2006,Oba spola,Brčko Distrikt BiH,Starost,71.5
+2007,Oba spola,Brčko Distrikt BiH,Starost,70.3
+2008,Oba spola,Brčko Distrikt BiH,Starost,70.7
+2009,Oba spola,Brčko Distrikt BiH,Starost,71.5
+2010,Oba spola,Brčko Distrikt BiH,Starost,72.1
+2011,Oba spola,Brčko Distrikt BiH,Starost,73.3
+2012,Oba spola,Brčko Distrikt BiH,Starost,70.9
+2013,Oba spola,Brčko Distrikt BiH,Starost,73.2
+2014,Oba spola,Brčko Distrikt BiH,Starost,71.7
+2015,Oba spola,Brčko Distrikt BiH,Starost,76.2
+2016,Oba spola,Brčko Distrikt BiH,Starost,75.3
+2017,Oba spola,Brčko Distrikt BiH,Starost,75.5
+2018,Oba spola,Brčko Distrikt BiH,Starost,75.2
+2019,Oba spola,Brčko Distrikt BiH,Starost,75.8
+2004,Muškarci,Brčko Distrikt BiH,Starost,68.1
+2005,Muškarci,Brčko Distrikt BiH,Starost,68.4
+2006,Muškarci,Brčko Distrikt BiH,Starost,68.5
+2007,Muškarci,Brčko Distrikt BiH,Starost,67.7
+2008,Muškarci,Brčko Distrikt BiH,Starost,67.1
+2009,Muškarci,Brčko Distrikt BiH,Starost,70.6
+2010,Muškarci,Brčko Distrikt BiH,Starost,69.8
+2011,Muškarci,Brčko Distrikt BiH,Starost,69.9
+2012,Muškarci,Brčko Distrikt BiH,Starost,69.1
+2013,Muškarci,Brčko Distrikt BiH,Starost,70.8
+2014,Muškarci,Brčko Distrikt BiH,Starost,69.1
+2015,Muškarci,Brčko Distrikt BiH,Starost,74.8
+2016,Muškarci,Brčko Distrikt BiH,Starost,72.9
+2017,Muškarci,Brčko Distrikt BiH,Starost,73.5
+2018,Muškarci,Brčko Distrikt BiH,Starost,71.1
+2019,Muškarci,Brčko Distrikt BiH,Starost,74.0
+2004,Žene,Brčko Distrikt BiH,Starost,73.2
+2005,Žene,Brčko Distrikt BiH,Starost,74.1
+2006,Žene,Brčko Distrikt BiH,Starost,74.8
+2007,Žene,Brčko Distrikt BiH,Starost,73.0
+2008,Žene,Brčko Distrikt BiH,Starost,74.7
+2009,Žene,Brčko Distrikt BiH,Starost,74.3
+2010,Žene,Brčko Distrikt BiH,Starost,75.0
+2011,Žene,Brčko Distrikt BiH,Starost,75.7
+2012,Žene,Brčko Distrikt BiH,Starost,72.6
+2013,Žene,Brčko Distrikt BiH,Starost,75.7
+2014,Žene,Brčko Distrikt BiH,Starost,74.4
+2015,Žene,Brčko Distrikt BiH,Starost,77.7
+2016,Žene,Brčko Distrikt BiH,Starost,78.1
+2017,Žene,Brčko Distrikt BiH,Starost,77.5
+2018,Žene,Brčko Distrikt BiH,Starost,77.3
+2019,Žene,Brčko Distrikt BiH,Starost,77.6
