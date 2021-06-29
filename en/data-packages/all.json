@@ -135,17 +135,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "POVERTY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Households in poverty (%)"
-              ]
-            },
-            "title": "Poverty Rate"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

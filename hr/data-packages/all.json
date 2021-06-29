@@ -126,17 +126,6 @@
             "title": "Godina"
           },
           {
-            "name": "POVERTY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households_in_poverty",
-                ""
-              ]
-            },
-            "title": "POVERTY_RATE"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"

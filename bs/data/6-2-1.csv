@@ -1,17 +1,17 @@
-Year,POVERTY_RATE,UNIT_MEASURE,Entitet,Value
-2004,households_in_poverty,% od ukupnog broja,BiH,18.1
-2007,households_in_poverty,% od ukupnog broja,BiH,18.4
-2011,households_in_poverty,% od ukupnog broja,BiH,17.2
-2015,households_in_poverty,% od ukupnog broja,BiH,16.5
-2004,households_in_poverty,% od ukupnog broja,Federacija BiH,18.3
-2007,households_in_poverty,% od ukupnog broja,Federacija BiH,16.3
-2011,households_in_poverty,% od ukupnog broja,Federacija BiH,16.0
-2015,households_in_poverty,% od ukupnog broja,Federacija BiH,16.0
-2004,households_in_poverty,% od ukupnog broja,Republika Srpska,18.3
-2007,households_in_poverty,% od ukupnog broja,Republika Srpska,21.7
-2011,households_in_poverty,% od ukupnog broja,Republika Srpska,19.6
-2015,households_in_poverty,% od ukupnog broja,Republika Srpska,17.4
-2004,households_in_poverty,% od ukupnog broja,Brčko Distrikt BiH,7.8
-2007,households_in_poverty,% od ukupnog broja,Brčko Distrikt BiH,23.6
-2011,households_in_poverty,% od ukupnog broja,Brčko Distrikt BiH,12.2
-2015,households_in_poverty,% od ukupnog broja,Brčko Distrikt BiH,15.9
+Year,UNIT_MEASURE,Entitet,Value
+2004,% od ukupnog broja,BiH,18.1
+2007,% od ukupnog broja,BiH,18.4
+2011,% od ukupnog broja,BiH,17.2
+2015,% od ukupnog broja,BiH,16.5
+2004,% od ukupnog broja,Federacija BiH,18.3
+2007,% od ukupnog broja,Federacija BiH,16.3
+2011,% od ukupnog broja,Federacija BiH,16.0
+2015,% od ukupnog broja,Federacija BiH,16.0
+2004,% od ukupnog broja,Republika Srpska,18.3
+2007,% od ukupnog broja,Republika Srpska,21.7
+2011,% od ukupnog broja,Republika Srpska,19.6
+2015,% od ukupnog broja,Republika Srpska,17.4
+2004,% od ukupnog broja,Brčko Distrikt BiH,7.8
+2007,% od ukupnog broja,Brčko Distrikt BiH,23.6
+2011,% od ukupnog broja,Brčko Distrikt BiH,12.2
+2015,% od ukupnog broja,Brčko Distrikt BiH,15.9
