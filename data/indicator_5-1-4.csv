@@ -1,74 +1,46 @@
-Year,UNIT_MEASURE,AGE,SEX,ACTIVITY_RATES,Value
-2013,NUMBER,_ALL,_T,total_illiterate,89794.0
-2013,NUMBER,_ALL,M,total_illiterate,12237.0
-2013,NUMBER,_ALL,F,total_illiterate,77557.0
-2013,NUMBER, 10-14,_T,of_total_for_age_group,579
-2013,NUMBER, 10-14,M,of_total_for_age_group,318.0
-2013,NUMBER, 10-14,F,of_total_for_age_group,261.0
-2013,_%, 10-14,M,of_total_for_age_group,54.92227979
-2013,_%, 10-14,F,of_total_for_age_group,45.07772021
-2013,NUMBER, 15-19,_T,of_total_for_age_group,763.0
-2013,NUMBER, 15-19,M,of_total_for_age_group,408.0
-2013,NUMBER, 15-19,F,of_total_for_age_group,355.0
-2013,_%, 15-19,M,of_total_for_age_group,53.47313237
-2013,_%, 15-19,F,of_total_for_age_group,46.52686763
-2013,NUMBER, 20-24,_T,of_total_for_age_group,825
-2013,NUMBER, 20-24,M,of_total_for_age_group,419
-2013,NUMBER, 20-24,F,of_total_for_age_group,406
-2013,_%, 20-24,M,of_total_for_age_group,50.78787879
-2013,_%, 20-24,F,of_total_for_age_group,49.21212121
-2013,NUMBER, 25-29,_T,of_total_for_age_group,1025
-2013,NUMBER, 25-29,M,of_total_for_age_group,539
-2013,NUMBER, 25-29,F,of_total_for_age_group,486
-2013,_%, 25-29,M,of_total_for_age_group,52.58536585
-2013,_%, 25-29,F,of_total_for_age_group,47.41463415
-2013,NUMBER, 30-34,_T,of_total_for_age_group,1082
-2013,NUMBER, 30-34,M,of_total_for_age_group,551
-2013,NUMBER, 30-34,F,of_total_for_age_group,531
-2013,_%, 30-34,M,of_total_for_age_group,50.92421442
-2013,_%, 30-34,F,of_total_for_age_group,49.07578558
-2013,NUMBER, 35-39,_T,of_total_for_age_group,1032
-2013,NUMBER, 35-39,M,of_total_for_age_group,525
-2013,NUMBER, 35-39,F,of_total_for_age_group,507
-2013,_%, 35-39,M,of_total_for_age_group,50.87209302
-2013,_%, 35-39,F,of_total_for_age_group,49.12790698
-2013,NUMBER,40-44,_T,of_total_for_age_group,1143
-2013,NUMBER,40-44,M,of_total_for_age_group,519
-2013,NUMBER,40-44,F,of_total_for_age_group,624
-2013,_%,40-44,M,of_total_for_age_group,45.40682415
-2013,_%,40-44,F,of_total_for_age_group,54.59317585
-2013,NUMBER, 45-49,_T,of_total_for_age_group,1533
-2013,NUMBER, 45-49,M,of_total_for_age_group,632
-2013,NUMBER, 45-49,F,of_total_for_age_group,901
-2013,_%, 45-49,M,of_total_for_age_group,41.22635356
-2013,_%, 45-49,F,of_total_for_age_group,58.77364644
-2013,NUMBER, 50-54,_T,of_total_for_age_group,2532
-2013,NUMBER, 50-54,M,of_total_for_age_group,679
-2013,NUMBER, 50-54,F,of_total_for_age_group,1853
-2013,_%, 50-54,M,of_total_for_age_group,26.81674566
-2013,_%, 50-54,F,of_total_for_age_group,73.18325434
-2013,NUMBER, 55-59,_T,of_total_for_age_group,4132
-2013,NUMBER, 55-59,M,of_total_for_age_group,764
-2013,NUMBER, 55-59,F,of_total_for_age_group,3368
-2013,_%, 55-59,M,of_total_for_age_group,18.48983543
-2013,_%, 55-59,F,of_total_for_age_group,81.51016457
-2013,NUMBER, 60-64,_T,of_total_for_age_group,6736
-2013,NUMBER, 60-64,M,of_total_for_age_group,771
-2013,NUMBER, 60-64,F,of_total_for_age_group,5965
-2013,_%, 60-64,M,of_total_for_age_group,11.445962
-2013,_%, 60-64,F,of_total_for_age_group,88.554038
-2013,NUMBER, 65-69,_T,of_total_for_age_group,9306
-2013,NUMBER, 65-69,M,of_total_for_age_group,863
-2013,NUMBER, 65-69,F,of_total_for_age_group,8443
-2013,_%, 65-69,M,of_total_for_age_group,9.273586933
-2013,_%, 65-69,F,of_total_for_age_group,90.72641307
-2013,NUMBER, 70-74,_T,of_total_for_age_group,16476
-2013,NUMBER, 70-74,M,of_total_for_age_group,1311
-2013,NUMBER, 70-74,F,of_total_for_age_group,15165
-2013,_%, 70-74,M,of_total_for_age_group,7.957028405
-2013,_%, 70-74,F,of_total_for_age_group,92.0429716
-2013,NUMBER, 75+,_T,of_total_for_age_group,42630
-2013,NUMBER, 75+,M,of_total_for_age_group,3938
-2013,NUMBER, 75+,F,of_total_for_age_group,38692
-2013,_%, 75+,M,of_total_for_age_group,9.237626085
-2013,_%, 75+,F,of_total_for_age_group,90.76237392
+Year,UNIT_MEASURE,SEX,AGE,Value
+2013,NUMBER,_T,_ALL,89794
+2013,NUMBER,M,_ALL,12237
+2013,NUMBER,F,_ALL,77557
+2013,NUMBER,_T," 10-14",579
+2013,NUMBER,M," 10-14",318
+2013,NUMBER,F," 10-14",261
+2013,NUMBER,_T," 15-19",763
+2013,NUMBER,M," 15-19",408
+2013,NUMBER,F," 15-19",355
+2013,NUMBER,_T," 20-24",825
+2013,NUMBER,M," 20-24",419
+2013,NUMBER,F," 20-24",406
+2013,NUMBER,_T," 25-29",1025
+2013,NUMBER,M," 25-29",539
+2013,NUMBER,F," 25-29",486
+2013,NUMBER,_T," 30-34",1082
+2013,NUMBER,M," 30-34",551
+2013,NUMBER,F," 30-34",531
+2013,NUMBER,_T," 35-39",1032
+2013,NUMBER,M," 35-39",525
+2013,NUMBER,F," 35-39",507
+2013,NUMBER,_T,40-44,1143
+2013,NUMBER,M,40-44,519
+2013,NUMBER,F,40-44,624
+2013,NUMBER,_T," 45-49",1533
+2013,NUMBER,M," 45-49",632
+2013,NUMBER,F," 45-49",901
+2013,NUMBER,_T," 50-54",2532
+2013,NUMBER,M," 50-54",679
+2013,NUMBER,F," 50-54",1853
+2013,NUMBER,_T," 55-59",4132
+2013,NUMBER,M," 55-59",764
+2013,NUMBER,F," 55-59",3368
+2013,NUMBER,_T," 60-64",6736
+2013,NUMBER,M," 60-64",771
+2013,NUMBER,F," 60-64",5965
+2013,NUMBER,_T," 65-69",9306
+2013,NUMBER,M," 65-69",863
+2013,NUMBER,F," 65-69",8443
+2013,NUMBER,_T," 70-74",16476
+2013,NUMBER,M," 70-74",1311
+2013,NUMBER,F," 70-74",15165
+2013,NUMBER,_T," 75+",42630
+2013,NUMBER,M," 75+",3938
+2013,NUMBER,F," 75+",38692
