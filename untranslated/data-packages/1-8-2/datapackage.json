@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "MARRIAGES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "marriage_rate",
-                "number_of_marriages",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -34,15 +23,6 @@
                 "FBIH",
                 "RS",
                 "BD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "number",
-            "constraints": {
-              "enum": [
                 ""
               ]
             }

@@ -3350,18 +3350,6 @@
             "title": "Година"
           },
           {
-            "name": "MARRIAGES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "marriage_rate",
-                "number_of_marriages",
-                ""
-              ]
-            },
-            "title": "MARRIAGES"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -3374,16 +3362,6 @@
               ]
             },
             "title": "Ентитет"
-          },
-          {
-            "name": "SEX",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",

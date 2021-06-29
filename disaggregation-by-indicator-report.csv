@@ -22,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-6-3,"UNIT_MEASURE, SEX, Entity",3
 #1-7-1,"UNIT_MEASURE, SEX",2
 #1-8-1,"UNIT_MEASURE, Entity",2
-#1-8-2,"UNIT_MEASURE, Entity, MARRIAGES",3
+#1-8-2,"UNIT_MEASURE, Entity",2
 #1-8-3,"UNIT_MEASURE, Entity, DIVORCES",3
 #1-8-4,"UNIT_MEASURE, Entity, DIVORCES",3
 #1-9-1,"UNIT_MEASURE, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",2
