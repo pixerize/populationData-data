@@ -2278,10 +2278,6 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -2293,6 +2289,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "SEX",

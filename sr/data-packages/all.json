@@ -2451,11 +2451,6 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -2468,6 +2463,11 @@
               ]
             },
             "title": "Ентитет"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",

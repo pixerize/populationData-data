@@ -16,11 +16,6 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -33,6 +28,11 @@
               ]
             },
             "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
