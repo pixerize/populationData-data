@@ -1,16 +1,16 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _%,_%,% od ukupnog broja,_%,_%,1359,16
 %,%,%,%,%,107,6
-Age,Age,Starost,Старост,Starost,36,4
+Age,Age,Starost,Старост,Starost,24,3
 BAM,BAM,BAM,BAM,BAM,5,2
-BD,Brčko District of BiH,Brčko Distrikt BiH,Брчко Дистрикт БиХ,Brčko Distrikt BiH,18,1
-BiH,BiH,BiH,BiH,BiH,23,1
+BD,Brčko District of BiH,Brčko Distrikt BiH,Брчко Дистрикт БиХ,Brčko Distrikt BiH,36,2
+BiH,BiH,BiH,BiH,BiH,46,2
 boys_to_girls,Boys to 100 girls,boys_to_girls,boys_to_girls,boys_to_girls,4,1
 children_pre_woman,Number of children per woman,children_pre_woman,children_pre_woman,children_pre_woman,10,2
 EUR,EUR,EUR,EUR,EUR,2,2
-FBIH,Federation of BiH,Federacija BiH,Федерација БиХ,Federacija BiH,24,1
+FBIH,Federation of BiH,Federacija BiH,Федерација БиХ,Federacija BiH,48,2
 number_birth_rate,"Number per 1,000 population",number_birth_rate,number_birth_rate,number_birth_rate,8,2
-NUMBER,Number,Broj,Број,Broj,10621,26
-RS,Republika Srpska,Republika Srpska,Република Српска,Republika Srpska,23,1
+NUMBER,Number,Broj,Број,Broj,10633,28
+RS,Republika Srpska,Republika Srpska,Република Српска,Republika Srpska,46,2
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,1,1
 USD,USD,Američki dolar,Амерички долар,Američki dolar,2,2

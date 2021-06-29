@@ -2421,62 +2421,6 @@
       "title": "global_indicators.1-1-2-title"
     },
     {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко Дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Ентитет"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030"
-    },
-    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
@@ -3240,6 +3184,214 @@
       "title": "Удио порода уз присуство квалификованих здравствених радника"
     },
     {
+      "path": "1-8-4/data.csv",
+      "name": "1-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "DIVORCES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "000_marriages)",
+                "NUMBER",
+                ""
+              ]
+            },
+            "title": "DIVORCES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                "1835",
+                "1964",
+                "1995",
+                "1929",
+                "2126",
+                "2272",
+                "1918",
+                "1523",
+                "1763",
+                "1659",
+                "1826",
+                "1369",
+                "1402",
+                "1676",
+                "2309",
+                "2294",
+                "2609",
+                "2686",
+                "2963",
+                "2773",
+                "3022",
+                "3091",
+                "2790",
+                "378",
+                "1098",
+                "1163",
+                "1201",
+                "1180",
+                "1286",
+                "1424",
+                "1174",
+                "857",
+                "966",
+                "933",
+                "1031",
+                "938",
+                "805",
+                "994",
+                "1221",
+                "1176",
+                "1364",
+                "1321",
+                "1502",
+                "1445",
+                "1725",
+                "1823",
+                "1673",
+                "655",
+                "734",
+                "738",
+                "708",
+                "830",
+                "848",
+                "744",
+                "637",
+                "721",
+                "526",
+                "596",
+                "317",
+                "455",
+                "517",
+                "886",
+                "878",
+                "1052",
+                "1106",
+                "1143",
+                "1025",
+                "985",
+                "963",
+                "920",
+                "58",
+                "80",
+                "96",
+                "85",
+                "91",
+                "94",
+                "82",
+                "139",
+                "154",
+                "199",
+                "236",
+                "191",
+                "251",
+                "311",
+                "289",
+                "295",
+                "298",
+                "187",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-4-title"
+    },
+    {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "MARRIAGES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "marriage_rate",
+                "number_of_marriages",
+                ""
+              ]
+            },
+            "title": "MARRIAGES"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
+            "name": "SEX",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-2-title"
+    },
+    {
       "path": "1-1-5/data.csv",
       "name": "1-1-5",
       "profile": "tabular-data-resource",
@@ -3530,6 +3682,30 @@
         ]
       },
       "title": "Удио становништва која живи испод националне линије сиромаштва, по полу и старости"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030"
     }
   ]
 }

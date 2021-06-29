@@ -2421,62 +2421,6 @@
       "title": "Population by entity, age and sex"
     },
     {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Average age at death by sex"
-    },
-    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
@@ -3240,6 +3184,214 @@
       "title": "Deaths by cause of death per 100,000 population"
     },
     {
+      "path": "1-8-4/data.csv",
+      "name": "1-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "DIVORCES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "000_marriages)",
+                "Number"
+              ]
+            },
+            "title": "Divorces"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1025",
+                "1031",
+                "1052",
+                "1098",
+                "1106",
+                "1143",
+                "1163",
+                "1174",
+                "1176",
+                "1180",
+                "1201",
+                "1221",
+                "1286",
+                "1321",
+                "1364",
+                "1369",
+                "139",
+                "1402",
+                "1424",
+                "1445",
+                "1502",
+                "1523",
+                "154",
+                "1659",
+                "1673",
+                "1676",
+                "1725",
+                "1763",
+                "1823",
+                "1826",
+                "1835",
+                "187",
+                "191",
+                "1918",
+                "1929",
+                "1964",
+                "199",
+                "1995",
+                "2126",
+                "2272",
+                "2294",
+                "2309",
+                "236",
+                "251",
+                "2609",
+                "2686",
+                "2773",
+                "2790",
+                "289",
+                "295",
+                "2963",
+                "298",
+                "3022",
+                "3091",
+                "311",
+                "317",
+                "378",
+                "455",
+                "517",
+                "526",
+                "58",
+                "596",
+                "637",
+                "655",
+                "708",
+                "721",
+                "734",
+                "738",
+                "744",
+                "80",
+                "805",
+                "82",
+                "830",
+                "848",
+                "85",
+                "857",
+                "878",
+                "886",
+                "91",
+                "920",
+                "933",
+                "938",
+                "94",
+                "96",
+                "963",
+                "966",
+                "985",
+                "994",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-4-title"
+    },
+    {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "MARRIAGES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Marriage rate",
+                "Number of marriages"
+              ]
+            },
+            "title": "Marriages"
+          },
+          {
+            "name": "SEX",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-2-title"
+    },
+    {
       "path": "1-1-5/data.csv",
       "name": "1-1-5",
       "profile": "tabular-data-resource",
@@ -3530,6 +3682,30 @@
         ]
       },
       "title": "Vital statistics by sex"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Average age at death by sex"
     }
   ]
 }
