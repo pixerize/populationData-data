@@ -1,180 +1,91 @@
-Year,MARRIAGES,Entitet,Spol,UNIT_MEASURE,Value
-1971,marriage_rate,BiH,,Broj,9.4
-1981,marriage_rate,BiH,,Broj,8.9
-1991,marriage_rate,BiH,,Broj,6.5
-1996,marriage_rate,BiH,,Broj,5.8
-1997,marriage_rate,BiH,,Broj,6.2
-1998,marriage_rate,BiH,,Broj,6.1
-1999,marriage_rate,BiH,,Broj,6.0
-2000,marriage_rate,BiH,,Broj,5.8
-2001,marriage_rate,BiH,,Broj,5.3
-2002,marriage_rate,BiH,,Broj,5.3
-2003,marriage_rate,BiH,,Broj,5.4
-2004,marriage_rate,BiH,,Broj,5.8
-2005,marriage_rate,BiH,,Broj,5.6
-2006,marriage_rate,BiH,,Broj,5.6
-2007,marriage_rate,BiH,,Broj,6.12
-2008,marriage_rate,BiH,,Broj,5.77
-2009,marriage_rate,BiH,,Broj,5.37
-2010,marriage_rate,BiH,,Broj,5.08
-2011,marriage_rate,BiH,,Broj,4.99
-2012,marriage_rate,BiH,,Broj,4.75
-2013,marriage_rate,BiH,,Broj,5.0
-2014,marriage_rate,BiH,,Broj,5.3
-2015,marriage_rate,BiH,,Broj,5.6
-2016,marriage_rate,BiH,,Broj,5.5
-2017,marriage_rate,BiH,,Broj,5.7
-2018,marriage_rate,BiH,,Broj,5.7
-2019,marriage_rate,BiH,,Broj,5.4
-1996,marriage_rate,Federacija BiH,,Broj,6.5
-1997,marriage_rate,Federacija BiH,,Broj,6.8
-1998,marriage_rate,Federacija BiH,,Broj,6.7
-1999,marriage_rate,Federacija BiH,,Broj,6.3
-2000,marriage_rate,Federacija BiH,,Broj,6.0
-2001,marriage_rate,Federacija BiH,,Broj,5.5
-2002,marriage_rate,Federacija BiH,,Broj,5.6
-2003,marriage_rate,Federacija BiH,,Broj,5.6
-2004,marriage_rate,Federacija BiH,,Broj,5.9
-2005,marriage_rate,Federacija BiH,,Broj,5.8
-2006,marriage_rate,Federacija BiH,,Broj,5.6
-2007,marriage_rate,Federacija BiH,,Broj,6.4
-2008,marriage_rate,Federacija BiH,,Broj,6.4
-2009,marriage_rate,Federacija BiH,,Broj,5.9
-2010,marriage_rate,Federacija BiH,,Broj,5.6
-2011,marriage_rate,Federacija BiH,,Broj,5.4
-2012,marriage_rate,Federacija BiH,,Broj,5.2
-2013,marriage_rate,Federacija BiH,,Broj,4.9
-2014,marriage_rate,Federacija BiH,,Broj,5.4
-2015,marriage_rate,Federacija BiH,,Broj,5.9
-2016,marriage_rate,Federacija BiH,,Broj,5.8
-2017,marriage_rate,Federacija BiH,,Broj,5.9
-2018,marriage_rate,Federacija BiH,,Broj,5.9
-2019,marriage_rate,Federacija BiH,,Broj,5.6
-1996,marriage_rate,Republika Srpska,,Broj,5.2
-1997,marriage_rate,Republika Srpska,,Broj,5.8
-1998,marriage_rate,Republika Srpska,,Broj,6.0
-1999,marriage_rate,Republika Srpska,,Broj,6.6
-2000,marriage_rate,Republika Srpska,,Broj,6.4
-2001,marriage_rate,Republika Srpska,,Broj,6.0
-2002,marriage_rate,Republika Srpska,,Broj,6.1
-2003,marriage_rate,Republika Srpska,,Broj,5.7
-2004,marriage_rate,Republika Srpska,,Broj,6.0
-2005,marriage_rate,Republika Srpska,,Broj,5.7
-2006,marriage_rate,Republika Srpska,,Broj,5.8
-2007,marriage_rate,Republika Srpska,,Broj,6.0
-2008,marriage_rate,Republika Srpska,,Broj,5.43
-2009,marriage_rate,Republika Srpska,,Broj,5.2
-2010,marriage_rate,Republika Srpska,,Broj,4.9
-2011,marriage_rate,Republika Srpska,,Broj,4.94
-2012,marriage_rate,Republika Srpska,,Broj,4.54
-2013,marriage_rate,Republika Srpska,,Broj,4.67
-2014,marriage_rate,Republika Srpska,,Broj,4.99
-2015,marriage_rate,Republika Srpska,,Broj,5.07
-2016,marriage_rate,Republika Srpska,,Broj,4.81
-2017,marriage_rate,Republika Srpska,,Broj,5.2
-2018,marriage_rate,Republika Srpska,,Broj,5.2
-2019,marriage_rate,Republika Srpska,,Broj,5.1
-2006,marriage_rate,Brčko Distrikt BiH,,Broj,8.9
-2007,marriage_rate,Brčko Distrikt BiH,,Broj,9.41
-2008,marriage_rate,Brčko Distrikt BiH,,Broj,8.98
-2009,marriage_rate,Brčko Distrikt BiH,,Broj,8.85
-2010,marriage_rate,Brčko Distrikt BiH,,Broj,8.2
-2011,marriage_rate,Brčko Distrikt BiH,,Broj,8.1
-2012,marriage_rate,Brčko Distrikt BiH,,Broj,9.29
-2013,marriage_rate,Brčko Distrikt BiH,,Broj,7.5
-2014,marriage_rate,Brčko Distrikt BiH,,Broj,7.9
-2015,marriage_rate,Brčko Distrikt BiH,,Broj,8.0
-2016,marriage_rate,Brčko Distrikt BiH,,Broj,7.8
-2017,marriage_rate,Brčko Distrikt BiH,,Broj,8.6
-2018,marriage_rate,Brčko Distrikt BiH,,Broj,8.0
-2019,marriage_rate,Brčko Distrikt BiH,,Broj,8.5
-1996,number_of_marriages,BiH,,Broj,21107.0
-1997,number_of_marriages,BiH,,Broj,23220.0
-1998,number_of_marriages,BiH,,Broj,22398.0
-1999,number_of_marriages,BiH,,Broj,22472.0
-2000,number_of_marriages,BiH,,Broj,21897.0
-2001,number_of_marriages,BiH,,Broj,20302.0
-2002,number_of_marriages,BiH,,Broj,20122.0
-2003,number_of_marriages,BiH,,Broj,20733.0
-2004,number_of_marriages,BiH,,Broj,22252.0
-2005,number_of_marriages,BiH,,Broj,21698.0
-2006,number_of_marriages,BiH,,Broj,21501.0
-2007,number_of_marriages,BiH,,Broj,23494.0
-2008,number_of_marriages,BiH,,Broj,22151.0
-2009,number_of_marriages,BiH,,Broj,20633.0
-2010,number_of_marriages,BiH,,Broj,19541.0
-2011,number_of_marriages,BiH,,Broj,19156.0
-2012,number_of_marriages,BiH,,Broj,18235.0
-2013,number_of_marriages,BiH,,Broj,17623.0
-2014,number_of_marriages,BiH,,Broj,18643.0
-2015,number_of_marriages,BiH,,Broj,19686.0
-2016,number_of_marriages,BiH,,Broj,19265.0
-2017,number_of_marriages,BiH,,Broj,19969.0
-2018,number_of_marriages,BiH,,Broj,19911.0
-2019,number_of_marriages,BiH,,Broj,18952.0
-1996,number_of_marriages,Federacija BiH,,Broj,14692.0
-1997,number_of_marriages,Federacija BiH,,Broj,16061.0
-1998,number_of_marriages,Federacija BiH,,Broj,14921.0
-1999,number_of_marriages,Federacija BiH,,Broj,14285.0
-2000,number_of_marriages,Federacija BiH,,Broj,13894.0
-2001,number_of_marriages,Federacija BiH,,Broj,12758.0
-2002,number_of_marriages,Federacija BiH,,Broj,12889.0
-2003,number_of_marriages,Federacija BiH,,Broj,13102.0
-2004,number_of_marriages,Federacija BiH,,Broj,13695.0
-2005,number_of_marriages,Federacija BiH,,Broj,13620.0
-2006,number_of_marriages,Federacija BiH,,Broj,13012.0
-2007,number_of_marriages,Federacija BiH,,Broj,14808.0
-2008,number_of_marriages,Federacija BiH,,Broj,14909.0
-2009,number_of_marriages,Federacija BiH,,Broj,13670.0
-2010,number_of_marriages,Federacija BiH,,Broj,12988.0
-2011,number_of_marriages,Federacija BiH,,Broj,12589.0
-2012,number_of_marriages,Federacija BiH,,Broj,12060.0
-2013,number_of_marriages,Federacija BiH,,Broj,11381.0
-2014,number_of_marriages,Federacija BiH,,Broj,11982.0
-2015,number_of_marriages,Federacija BiH,,Broj,12972.0
-2016,number_of_marriages,Federacija BiH,,Broj,12790.0
-2017,number_of_marriages,Federacija BiH,,Broj,12994.0
-2018,number_of_marriages,Federacija BiH,,Broj,13061.0
-2019,number_of_marriages,Federacija BiH,,Broj,12266.0
-1996,number_of_marriages,Republika Srpska,,Broj,6227.0
-1997,number_of_marriages,Republika Srpska,,Broj,6889.0
-1998,number_of_marriages,Republika Srpska,,Broj,7186.0
-1999,number_of_marriages,Republika Srpska,,Broj,7893.0
-2000,number_of_marriages,Republika Srpska,,Broj,7642.0
-2001,number_of_marriages,Republika Srpska,,Broj,7179.0
-2002,number_of_marriages,Republika Srpska,,Broj,7233.0
-2003,number_of_marriages,Republika Srpska,,Broj,6769.0
-2004,number_of_marriages,Republika Srpska,,Broj,7143.0
-2005,number_of_marriages,Republika Srpska,,Broj,6810.0
-2006,number_of_marriages,Republika Srpska,,Broj,6860.0
-2007,number_of_marriages,Republika Srpska,,Broj,7093.0
-2008,number_of_marriages,Republika Srpska,,Broj,6401.0
-2009,number_of_marriages,Republika Srpska,,Broj,6131.0
-2010,number_of_marriages,Republika Srpska,,Broj,5767.0
-2011,number_of_marriages,Republika Srpska,,Broj,5802.0
-2012,number_of_marriages,Republika Srpska,,Broj,5326.0
-2013,number_of_marriages,Republika Srpska,,Broj,5467.0
-2014,number_of_marriages,Republika Srpska,,Broj,5823.0
-2015,number_of_marriages,Republika Srpska,,Broj,5895.0
-2016,number_of_marriages,Republika Srpska,,Broj,5563.0
-2017,number_of_marriages,Republika Srpska,,Broj,5954.0
-2018,number_of_marriages,Republika Srpska,,Broj,5966.0
-2019,number_of_marriages,Republika Srpska,,Broj,5822.0
-2002,number_of_marriages,Brčko Distrikt BiH,,Broj,644.0
-2003,number_of_marriages,Brčko Distrikt BiH,,Broj,655.0
-2004,number_of_marriages,Brčko Distrikt BiH,,Broj,782.0
-2005,number_of_marriages,Brčko Distrikt BiH,,Broj,669.0
-2006,number_of_marriages,Brčko Distrikt BiH,,Broj,673.0
-2007,number_of_marriages,Brčko Distrikt BiH,,Broj,712.0
-2008,number_of_marriages,Brčko Distrikt BiH,,Broj,680.0
-2009,number_of_marriages,Brčko Distrikt BiH,,Broj,670.0
-2010,number_of_marriages,Brčko Distrikt BiH,,Broj,618.0
-2011,number_of_marriages,Brčko Distrikt BiH,,Broj,613.0
-2012,number_of_marriages,Brčko Distrikt BiH,,Broj,703.0
-2013,number_of_marriages,Brčko Distrikt BiH,,Broj,622.0
-2014,number_of_marriages,Brčko Distrikt BiH,,Broj,663.0
-2015,number_of_marriages,Brčko Distrikt BiH,,Broj,670.0
-2016,number_of_marriages,Brčko Distrikt BiH,,Broj,653.0
-2017,number_of_marriages,Brčko Distrikt BiH,,Broj,718.0
-2018,number_of_marriages,Brčko Distrikt BiH,,Broj,632.0
-2019,number_of_marriages,Brčko Distrikt BiH,,Broj,599.0
+Year,Entitet,UNIT_MEASURE,Value
+1996,BiH,Broj,21107
+1997,BiH,Broj,23220
+1998,BiH,Broj,22398
+1999,BiH,Broj,22472
+2000,BiH,Broj,21897
+2001,BiH,Broj,20302
+2002,BiH,Broj,20122
+2003,BiH,Broj,20733
+2004,BiH,Broj,22252
+2005,BiH,Broj,21698
+2006,BiH,Broj,21501
+2007,BiH,Broj,23494
+2008,BiH,Broj,22151
+2009,BiH,Broj,20633
+2010,BiH,Broj,19541
+2011,BiH,Broj,19156
+2012,BiH,Broj,18235
+2013,BiH,Broj,17623
+2014,BiH,Broj,18643
+2015,BiH,Broj,19686
+2016,BiH,Broj,19265
+2017,BiH,Broj,19969
+2018,BiH,Broj,19911
+2019,BiH,Broj,18952
+1996,Federacija BiH,Broj,14692
+1997,Federacija BiH,Broj,16061
+1998,Federacija BiH,Broj,14921
+1999,Federacija BiH,Broj,14285
+2000,Federacija BiH,Broj,13894
+2001,Federacija BiH,Broj,12758
+2002,Federacija BiH,Broj,12889
+2003,Federacija BiH,Broj,13102
+2004,Federacija BiH,Broj,13695
+2005,Federacija BiH,Broj,13620
+2006,Federacija BiH,Broj,13012
+2007,Federacija BiH,Broj,14808
+2008,Federacija BiH,Broj,14909
+2009,Federacija BiH,Broj,13670
+2010,Federacija BiH,Broj,12988
+2011,Federacija BiH,Broj,12589
+2012,Federacija BiH,Broj,12060
+2013,Federacija BiH,Broj,11381
+2014,Federacija BiH,Broj,11982
+2015,Federacija BiH,Broj,12972
+2016,Federacija BiH,Broj,12790
+2017,Federacija BiH,Broj,12994
+2018,Federacija BiH,Broj,13061
+2019,Federacija BiH,Broj,12266
+1996,Republika Srpska,Broj,6227
+1997,Republika Srpska,Broj,6889
+1998,Republika Srpska,Broj,7186
+1999,Republika Srpska,Broj,7893
+2000,Republika Srpska,Broj,7642
+2001,Republika Srpska,Broj,7179
+2002,Republika Srpska,Broj,7233
+2003,Republika Srpska,Broj,6769
+2004,Republika Srpska,Broj,7143
+2005,Republika Srpska,Broj,6810
+2006,Republika Srpska,Broj,6860
+2007,Republika Srpska,Broj,7093
+2008,Republika Srpska,Broj,6401
+2009,Republika Srpska,Broj,6131
+2010,Republika Srpska,Broj,5767
+2011,Republika Srpska,Broj,5802
+2012,Republika Srpska,Broj,5326
+2013,Republika Srpska,Broj,5467
+2014,Republika Srpska,Broj,5823
+2015,Republika Srpska,Broj,5895
+2016,Republika Srpska,Broj,5563
+2017,Republika Srpska,Broj,5954
+2018,Republika Srpska,Broj,5966
+2019,Republika Srpska,Broj,5822
+2002,Brčko Distrikt BiH,Broj,644
+2003,Brčko Distrikt BiH,Broj,655
+2004,Brčko Distrikt BiH,Broj,782
+2005,Brčko Distrikt BiH,Broj,669
+2006,Brčko Distrikt BiH,Broj,673
+2007,Brčko Distrikt BiH,Broj,712
+2008,Brčko Distrikt BiH,Broj,680
+2009,Brčko Distrikt BiH,Broj,670
+2010,Brčko Distrikt BiH,Broj,618
+2011,Brčko Distrikt BiH,Broj,613
+2012,Brčko Distrikt BiH,Broj,703
+2013,Brčko Distrikt BiH,Broj,622
+2014,Brčko Distrikt BiH,Broj,663
+2015,Brčko Distrikt BiH,Broj,670
+2016,Brčko Distrikt BiH,Broj,653
+2017,Brčko Distrikt BiH,Broj,718
+2018,Brčko Distrikt BiH,Broj,632
+2019,Brčko Distrikt BiH,Broj,599

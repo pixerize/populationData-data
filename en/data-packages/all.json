@@ -2791,35 +2791,13 @@
             "title": "Administrative area"
           },
           {
-            "name": "MARRIAGES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Marriage rate",
-                "Number of marriages"
-              ]
-            },
-            "title": "Marriages"
-          },
-          {
-            "name": "SEX",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

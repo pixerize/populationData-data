@@ -2582,17 +2582,6 @@
             "type": "integer"
           },
           {
-            "name": "MARRIAGES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "marriage_rate",
-                "number_of_marriages",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -2606,21 +2595,12 @@
             }
           },
           {
-            "name": "SEX",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
