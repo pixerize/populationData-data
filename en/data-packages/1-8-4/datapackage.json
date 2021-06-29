@@ -22,7 +22,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "Unit of measure"
           },
           {
