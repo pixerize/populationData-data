@@ -4,8 +4,9 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 0-18,0-18,0-18,0-18,0-18,1,1
 0-4,0-4,0-4,0-4,0-4,447,5
 0,0,0,0,0,21,3
+05-Sep,05-Sep,05-Sep,05-Sep,05-Sep,426,1
 1,1,1,1,1,21,3
-10-14,10-14,10-14,10-14,10-14,450,6
+10-14,10-14,10-14,10-14,10-14,24,5
 10,10,10,10,10,21,3
 100-104,100-104,100-104,100-104,100-104,12,3
 100,100,100,100,100,12,2
@@ -100,7 +101,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 47,47,47,47,47,21,3
 48,48,48,48,48,21,3
 49,49,49,49,49,21,3
-5-9,5-9,5-9,5-9,5-9,447,5
+5-9,5-9,5-9,5-9,5-9,21,4
 5,5,5,5,5,21,3
 50-54,50-54,50-54,50-54,50-54,450,6
 50-59,50-59,50-59,50-59,50-59,6,1
@@ -175,5 +176,6 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 99,99,99,99,99,12,2
 AGE,AGE,Godine,Године,Godine,1,1
 _ALL,All,_ALL,_ALL,_ALL,3,1
+Oct-14,Oct-14,Oct-14,Oct-14,Oct-14,426,1
 Total,Total,Total,Total,Total,472,8
 Unknown,Unknown,Unknown,Unknown,Unknown,30,4
