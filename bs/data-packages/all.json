@@ -649,6 +649,18 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
@@ -662,18 +674,6 @@
               ]
             },
             "title": "AGE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "Value",
