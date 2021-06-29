@@ -72,16 +72,6 @@
             "type": "string"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_capita",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {

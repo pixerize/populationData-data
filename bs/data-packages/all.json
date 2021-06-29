@@ -79,17 +79,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "QUANTITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_capita",
-                ""
-              ]
-            },
-            "title": "QUANTITY"
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
