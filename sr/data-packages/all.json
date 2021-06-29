@@ -2099,7 +2099,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -2131,6 +2131,8 @@
                 "higher_school_and_first_grade_of_faculty",
                 "advanced_schools_faculty_academy_university",
                 "unknown",
+                "no_education",
+                "post_secondary_school_specialisation",
                 ""
               ]
             },

@@ -1,67 +1,92 @@
 Year,UNIT_MEASURE,Sex,Education,Value
-1991,Number,Both sexes,Incomplete primary education,658356.0
-1991,_%,Both sexes,Incomplete primary education,24.36714834
-1991,Number,M,Incomplete primary education,285421.0
-1991,_%,M,Incomplete primary education,21.69263029
-1991,Number,F,Incomplete primary education,372935.0
-1991,_%,F,Incomplete primary education,26.90598651
-1991,Number,Both sexes,Primary school,818361.0
-1991,_%,Both sexes,Primary school,30.28927189
-1991,Number,M,Primary school,421045.0
-1991,_%,M,Primary school,32.00035569
-1991,Number,F,Primary school,397316.0
-1991,_%,F,Primary school,28.66499238
-1991,Number,Both sexes,Secondary school,1092372.0
-1991,_%,Both sexes,Secondary school,40.43099868
-1991,Number,M,Secondary school,671058.0
-1991,_%,M,Secondary school,51.0018993
-1991,Number,F,Secondary school,421314.0
-1991,_%,F,Secondary school,30.39636612
-1991,Number,Both sexes,Higher school and first grade of faculty,92501.0
-1991,_%,Both sexes,Higher school and first grade of faculty,3.4236577
-1991,Number,M,Higher school and first grade of faculty,56759.0
-1991,_%,M,Higher school and first grade of faculty,4.313810136
-1991,Number,F,Higher school and first grade of faculty,35742.0
-1991,_%,F,Higher school and first grade of faculty,2.578663225
-1991,Number,Both sexes,Advanced schools / faculty / academy / university,122967.0
-1991,_%,Both sexes,Advanced schools / faculty / academy / university,4.551268812
-1991,Number,M,Advanced schools / faculty / academy / university,77240.0
-1991,_%,M,Advanced schools / faculty / academy / university,5.870411651
-1991,Number,F,Advanced schools / faculty / academy / university,45727.0
-1991,_%,F,Advanced schools / faculty / academy / university,3.299046871
-1991,Number,Both sexes,Unknown,93903.0
-1991,_%,Both sexes,Unknown,3.475548686
-1991,Number,M,Unknown,47397.0
-1991,_%,M,Unknown,3.602277331
-1991,Number,F,Unknown,46506.0
-1991,_%,F,Unknown,335.5249061
-2013,Number,Both sexes,Incomplete primary education,274036.0
-2013,_%,Both sexes,Incomplete primary education,10.1426521
-2013,Number,M,Incomplete primary education,83216.0
-2013,_%,M,Incomplete primary education,6.324600931
-2013,Number,F,Incomplete primary education,190820.0
-2013,_%,F,Incomplete primary education,13.76701126
-2013,Number,Both sexes,Primary school,640726.0
-2013,_%,Both sexes,Primary school,23.71462475
-2013,Number,M,Primary school,274258.0
-2013,_%,M,Primary school,20.84421748
-2013,Number,F,Primary school,366468.0
-2013,_%,F,Primary school,26.43941454
-2013,Number,Both sexes,Secondary school,1525161.0
-2013,_%,Both sexes,Secondary school,56.44943516
-2013,Number,M,Secondary school,864823.0
-2013,_%,M,Secondary school,65.7284699
-2013,Number,F,Secondary school,660338.0
-2013,_%,F,Secondary school,47.64113135
-2013,Number,Both sexes,Higher school and first grade of faculty,94204.0
-2013,_%,Both sexes,Higher school and first grade of faculty,3.486689333
-2013,Number,M,Higher school and first grade of faculty,51556.0
-2013,_%,M,Higher school and first grade of faculty,3.918370573
-2013,Number,F,Higher school and first grade of faculty,42648.0
-2013,_%,F,Higher school and first grade of faculty,3.076907538
-2013,Number,Both sexes,Advanced schools / faculty / academy / university,285622.0
-2013,_%,Both sexes,Advanced schools / faculty / academy / university,10.57147447
-2013,Number,M,Advanced schools / faculty / academy / university,137543.0
-2013,_%,M,Advanced schools / faculty / academy / university,10.45357366
-2013,Number,F,Advanced schools / faculty / academy / university,148079.0
-2013,_%,F,Advanced schools / faculty / academy / university,10.68339409
+1991.0,Number,Both sexes,Incomplete primary education,658356.0
+1991.0,_%,Both sexes,Incomplete primary education,24.36714834
+1991.0,Number,M,Incomplete primary education,285421.0
+1991.0,_%,M,Incomplete primary education,21.69263029
+1991.0,Number,F,Incomplete primary education,372935.0
+1991.0,_%,F,Incomplete primary education,26.90598651
+1991.0,Number,Both sexes,Primary school,818361.0
+1991.0,_%,Both sexes,Primary school,30.28927189
+1991.0,Number,M,Primary school,421045.0
+1991.0,_%,M,Primary school,32.00035569
+1991.0,Number,F,Primary school,397316.0
+1991.0,_%,F,Primary school,28.66499238
+1991.0,Number,Both sexes,Secondary school,1092372.0
+1991.0,_%,Both sexes,Secondary school,40.43099868
+1991.0,Number,M,Secondary school,671058.0
+1991.0,_%,M,Secondary school,51.0018993
+1991.0,Number,F,Secondary school,421314.0
+1991.0,_%,F,Secondary school,30.39636612
+1991.0,Number,Both sexes,Higher school and first grade of faculty,92501.0
+1991.0,_%,Both sexes,Higher school and first grade of faculty,3.4236577
+1991.0,Number,M,Higher school and first grade of faculty,56759.0
+1991.0,_%,M,Higher school and first grade of faculty,4.313810136
+1991.0,Number,F,Higher school and first grade of faculty,35742.0
+1991.0,_%,F,Higher school and first grade of faculty,2.578663225
+1991.0,Number,Both sexes,Advanced schools / faculty / academy / university,122967.0
+1991.0,_%,Both sexes,Advanced schools / faculty / academy / university,4.551268812
+1991.0,Number,M,Advanced schools / faculty / academy / university,77240.0
+1991.0,_%,M,Advanced schools / faculty / academy / university,5.870411651
+1991.0,Number,F,Advanced schools / faculty / academy / university,45727.0
+1991.0,_%,F,Advanced schools / faculty / academy / university,3.299046871
+1991.0,Number,Both sexes,Unknown,93903.0
+1991.0,_%,Both sexes,Unknown,3.475548686
+1991.0,Number,M,Unknown,47397.0
+1991.0,_%,M,Unknown,3.602277331
+1991.0,Number,F,Unknown,46506.0
+1991.0,_%,F,Unknown,335.5249061
+1991.0,Number,Both sexes,No education,471182.0
+1991.0,_%,Both sexes,No education,14.07
+1991.0,Number,M,No education,98420.0
+1991.0,_%,M,No education,2.94
+1991.0,Number,F,No education,372762.0
+1991.0,_%,F,No education,11.13
+1991.0,Number,Both sexes,Post-secondary school specialisation,0.0
+1991.0,_%,Both sexes,Post-secondary school specialisation,0.0
+1991.0,Number,M,Post-secondary school specialisation,0.0
+1991.0,_%,M,Post-secondary school specialisation,0.0
+1991.0,Number,F,Post-secondary school specialisation,0.0
+1991.0,_%,F,Post-secondary school specialisation,0.0
+2013.0,Number,Both sexes,Incomplete primary education,274036.0
+2013.0,_%,Both sexes,Incomplete primary education,10.1426521
+2013.0,Number,M,Incomplete primary education,83216.0
+2013.0,_%,M,Incomplete primary education,6.324600931
+2013.0,Number,F,Incomplete primary education,190820.0
+2013.0,_%,F,Incomplete primary education,13.76701126
+2013.0,Number,Both sexes,Primary school,640726.0
+2013.0,_%,Both sexes,Primary school,23.71462475
+2013.0,Number,M,Primary school,274258.0
+2013.0,_%,M,Primary school,20.84421748
+2013.0,Number,F,Primary school,366468.0
+2013.0,_%,F,Primary school,26.43941454
+2013.0,Number,Both sexes,Secondary school,1525161.0
+2013.0,_%,Both sexes,Secondary school,56.44943516
+2013.0,Number,M,Secondary school,864823.0
+2013.0,_%,M,Secondary school,65.7284699
+2013.0,Number,F,Secondary school,660338.0
+2013.0,_%,F,Secondary school,47.64113135
+2013.0,Number,Both sexes,Higher school and first grade of faculty,94204.0
+2013.0,_%,Both sexes,Higher school and first grade of faculty,3.486689333
+2013.0,Number,M,Higher school and first grade of faculty,51556.0
+2013.0,_%,M,Higher school and first grade of faculty,3.918370573
+2013.0,Number,F,Higher school and first grade of faculty,42648.0
+2013.0,_%,F,Higher school and first grade of faculty,3.076907538
+2013.0,Number,Both sexes,Advanced schools / faculty / academy / university,285622.0
+2013.0,_%,Both sexes,Advanced schools / faculty / academy / university,10.57147447
+2013.0,Number,M,Advanced schools / faculty / academy / university,137543.0
+2013.0,_%,M,Advanced schools / faculty / academy / university,10.45357366
+2013.0,Number,F,Advanced schools / faculty / academy / university,148079.0
+2013.0,_%,F,Advanced schools / faculty / academy / university,10.68339409
+2013.0,Number,Both sexes,No education,146078.0
+2013.0,_%,Both sexes,No education,4.89
+2013.0,Number,M,No education,24021.0
+2013.0,_%,M,No education,0.8
+2013.0,Number,F,No education,122057.0
+2013.0,_%,F,No education,4.09
+2013.0,Number,Both sexes,Post-secondary school specialisation,21613.0
+2013.0,_%,Both sexes,Post-secondary school specialisation,0.72
+2013.0,Number,M,Post-secondary school specialisation,17877.0
+2013.0,_%,M,Post-secondary school specialisation,0.6
+2013.0,Number,F,Post-secondary school specialisation,3736.0
+2013.0,_%,F,Post-secondary school specialisation,0.13
+,,,,

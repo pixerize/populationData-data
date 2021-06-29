@@ -2106,6 +2106,8 @@
                 "Advanced schools / faculty / academy / university",
                 "Higher school and first grade of faculty",
                 "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialisation",
                 "Primary school",
                 "Secondary school",
                 "Unknown"
@@ -2138,7 +2140,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
