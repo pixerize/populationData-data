@@ -96,7 +96,7 @@
           }
         ]
       },
-      "title": "GDP"
+      "title": "Gross Domestic Product - Per capita"
     },
     {
       "path": "6-2-1/data.csv",
@@ -963,7 +963,7 @@
           }
         ]
       },
-      "title": "GDP"
+      "title": "Real GDP growth"
     },
     {
       "path": "1-4-5/data.csv",
@@ -1153,7 +1153,7 @@
           }
         ]
       },
-      "title": "GDP (millions)"
+      "title": "Gross Domestic Product - Total (millions)"
     },
     {
       "path": "1-6-2/data.csv",
