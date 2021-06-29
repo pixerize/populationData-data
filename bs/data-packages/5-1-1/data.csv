@@ -1,10 +1,4 @@
 Year,UNIT_MEASURE,Spol,EDUCATION,Value
-1991,Broj,Oba spola,total_15,471182.0
-1991,% od ukupnog broja,Oba spola,total_15,17.43944263
-1991,Broj,Muškarci,total_15,98420.0
-1991,% od ukupnog broja,Muškarci,total_15,7.480138719
-1991,Broj,Žene,total_15,372762.0
-1991,% od ukupnog broja,Žene,total_15,26.89350515
 1991,Broj,Oba spola,incomplete_primary_education,658356.0
 1991,% od ukupnog broja,Oba spola,incomplete_primary_education,24.36714834
 1991,Broj,Muškarci,incomplete_primary_education,285421.0
@@ -41,12 +35,6 @@ Year,UNIT_MEASURE,Spol,EDUCATION,Value
 1991,% od ukupnog broja,Muškarci,unknown,3.602277331
 1991,Broj,Žene,unknown,46506.0
 1991,% od ukupnog broja,Žene,unknown,335.5249061
-2013,Broj,Oba spola,total_15,146078.0
-2013,% od ukupnog broja,Oba spola,total_15,5.406655815
-2013,Broj,Muškarci,total_15,24021.0
-2013,% od ukupnog broja,Muškarci,total_15,1.825649382
-2013,Broj,Žene,total_15,122057.0
-2013,% od ukupnog broja,Žene,total_15,8.80599567
 2013,Broj,Oba spola,incomplete_primary_education,274036.0
 2013,% od ukupnog broja,Oba spola,incomplete_primary_education,10.1426521
 2013,Broj,Muškarci,incomplete_primary_education,83216.0

@@ -1,10 +1,4 @@
 Year,UNIT_MEASURE,Sex,Education,Value
-1991,Number,Both sexes,Total 15+,471182.0
-1991,_%,Both sexes,Total 15+,17.43944263
-1991,Number,M,Total 15+,98420.0
-1991,_%,M,Total 15+,7.480138719
-1991,Number,F,Total 15+,372762.0
-1991,_%,F,Total 15+,26.89350515
 1991,Number,Both sexes,Incomplete primary education,658356.0
 1991,_%,Both sexes,Incomplete primary education,24.36714834
 1991,Number,M,Incomplete primary education,285421.0
@@ -41,12 +35,6 @@ Year,UNIT_MEASURE,Sex,Education,Value
 1991,_%,M,Unknown,3.602277331
 1991,Number,F,Unknown,46506.0
 1991,_%,F,Unknown,335.5249061
-2013,Number,Both sexes,Total 15+,146078.0
-2013,_%,Both sexes,Total 15+,5.406655815
-2013,Number,M,Total 15+,24021.0
-2013,_%,M,Total 15+,1.825649382
-2013,Number,F,Total 15+,122057.0
-2013,_%,F,Total 15+,8.80599567
 2013,Number,Both sexes,Incomplete primary education,274036.0
 2013,_%,Both sexes,Incomplete primary education,10.1426521
 2013,Number,M,Incomplete primary education,83216.0

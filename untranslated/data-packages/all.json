@@ -2083,7 +2083,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_15",
                 "incomplete_primary_education",
                 "primary_school",
                 "secondary_school",
