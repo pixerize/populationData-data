@@ -35,6 +35,8 @@
               "enum": [
                 "BiH",
                 "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
                 ""
               ]
             },
