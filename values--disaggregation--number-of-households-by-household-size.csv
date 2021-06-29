@@ -6,5 +6,4 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 6_members,6 members,6_members,6_members,6_members,1,1
 7_members,7 members,7_members,7_members,7_members,1,1
 8+_members,8+ members,8+_members,8+_members,8+_members,1,1
-single_household,Single household,single_household,single_household,single_household,1,1
-total,Total,Ukupno,Укупно,Ukupno,1,1
+single_household,1 member,single_household,single_household,single_household,1,1

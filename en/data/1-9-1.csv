@@ -1,5 +1,5 @@
-Year,Number of households by household size,UNIT_MEASURE,Value
-1971,Single household,Number,82305
+Year,Household size,UNIT_MEASURE,Value
+1971,1 member,Number,82305
 1971,2 members,Number,97312
 1971,3 members,Number,125680
 1971,4 members,Number,174650
@@ -7,8 +7,7 @@ Year,Number of households by household size,UNIT_MEASURE,Value
 1971,6 members,Number,94479
 1971,7 members,Number,60558
 1971,8+ members,Number,78858
-1971,Total,Number,848545
-1981,Single household,Number,97423
+1981,1 member,Number,97423
 1981,2 members,Number,143225
 1981,3 members,Number,181500
 1981,4 members,Number,264179
@@ -16,8 +15,7 @@ Year,Number of households by household size,UNIT_MEASURE,Value
 1981,6 members,Number,90453
 1981,7 members,Number,48831
 1981,8+ members,Number,54005
-1981,Total,Number,1030689
-1991,Single household,Number,130222
+1991,1 member,Number,130222
 1991,2 members,Number,201096
 1991,3 members,Number,229788
 1991,4 members,Number,347705
@@ -25,8 +23,7 @@ Year,Number of households by household size,UNIT_MEASURE,Value
 1991,6 members,Number,78561
 1991,7 members,Number,33655
 1991,8+ members,Number,29597
-1991,Total,Number,1207098
-2013,Single household,Number,217613
+2013,1 member,Number,217613
 2013,2 members,Number,277191
 2013,3 members,Number,232169
 2013,4 members,Number,238625
@@ -34,4 +31,3 @@ Year,Number of households by household size,UNIT_MEASURE,Value
 2013,6 members,Number,49859
 2013,7 members,Number,18818
 2013,8+ members,Number,14232
-2013,Total,Number,1155736

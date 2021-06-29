@@ -23,11 +23,10 @@
                 "6 members",
                 "7 members",
                 "8+ members",
-                "Single household",
-                "Total"
+                "1 member"
               ]
             },
-            "title": "Number of households by household size"
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
