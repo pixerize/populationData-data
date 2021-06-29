@@ -135,7 +135,7 @@ injuries_poisoning_and_consequences: "(S00-T98) Injuries, poisoning and conseque
 external_causes_of_mortality: "(V01-Y98) External causes of mortality"
 factors_influencing_health_status: "(Z00-Z99) Factors influencing health status and contract with health services"
 total: Total
-EDUCATION: Education
+EDUCATION: Educational level
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Women who have experienced any form of violence after the age of 15 (ever)
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months): Women who have experienced any form of violence after the age of 15 (past 12 months)
 women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever): Women who have experienced any form of partner violence after the age of 15 (ever)
