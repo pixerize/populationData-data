@@ -27,8 +27,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "Per capita"
               ]
             },
             "title": "Quantity"

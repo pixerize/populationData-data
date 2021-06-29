@@ -23,7 +23,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
                 "per_capita",
                 ""
               ]

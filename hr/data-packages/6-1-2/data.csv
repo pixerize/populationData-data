@@ -1,27 +1,4 @@
 Year,UNIT_MEASURE,QUANTITY,Entitet,Value
-1997,EUR,total_millions,BiH,3424
-1998,EUR,total_millions,BiH,3879
-1999,EUR,total_millions,BiH,4399
-2000,EUR,total_millions,BiH,4914
-2001,EUR,total_millions,BiH,5358
-2002,EUR,total_millions,BiH,5957
-2003,EUR,total_millions,BiH,6291
-2004,EUR,total_millions,BiH,6901
-2005,EUR,total_millions,BiH,9025
-2006,EUR,total_millions,BiH,10255
-2007,EUR,total_millions,BiH,11529
-2008,EUR,total_millions,BiH,13048
-2009,EUR,total_millions,BiH,12679
-2010,EUR,total_millions,BiH,12969
-2011,EUR,total_millions,BiH,13412
-2012,EUR,total_millions,BiH,13408
-2013,EUR,total_millions,BiH,13692
-2014,EUR,total_millions,BiH,13989
-2015,EUR,total_millions,BiH,14618
-2016,EUR,total_millions,BiH,15290
-2017,EUR,total_millions,BiH,16043
-2018,EUR,total_millions,BiH,17100
-2019,EUR,total_millions,BiH,18047
 1997,EUR,per_capita,BiH,912
 1998,EUR,per_capita,BiH,1062
 1999,EUR,per_capita,BiH,1181
@@ -43,5 +20,51 @@ Year,UNIT_MEASURE,QUANTITY,Entitet,Value
 2015,EUR,per_capita,BiH,4155
 2016,EUR,per_capita,BiH,4355
 2017,EUR,per_capita,BiH,4578
-2018,Broj,per_capita,BiH,4891
-2019,Broj,per_capita,BiH,5178
+2018,EUR,per_capita,BiH,4891
+2019,EUR,per_capita,BiH,5178
+1997,BAM,per_capita,BiH,1798
+1998,BAM,per_capita,BiH,2094
+1999,BAM,per_capita,BiH,2310
+2000,BAM,per_capita,BiH,2542
+2001,BAM,per_capita,BiH,2759
+2002,BAM,per_capita,BiH,3044
+2003,BAM,per_capita,BiH,3211
+2004,BAM,per_capita,BiH,3512
+2005,BAM,per_capita,BiH,4983
+2006,BAM,per_capita,BiH,5663
+2007,BAM,per_capita,BiH,6366
+2008,BAM,per_capita,BiH,7205
+2009,BAM,per_capita,BiH,7003
+2010,BAM,per_capita,BiH,7165
+2011,BAM,per_capita,BiH,7414
+2012,BAM,per_capita,BiH,7418
+2013,BAM,per_capita,BiH,7584
+2014,BAM,per_capita,BiH,7759
+2015,BAM,per_capita,BiH,8127
+2016,BAM,per_capita,BiH,8517
+2017,BAM,per_capita,BiH,8954
+2018,BAM,per_capita,BiH,9566
+2019,BAM,per_capita,BiH,10128
+1997,Američki dolar,per_capita,BiH,1037
+1998,Američki dolar,per_capita,BiH,1189
+1999,Američki dolar,per_capita,BiH,1259
+2000,Američki dolar,per_capita,BiH,1200
+2001,Američki dolar,per_capita,BiH,1263
+2002,Američki dolar,per_capita,BiH,1466
+2003,Američki dolar,per_capita,BiH,1852
+2004,Američki dolar,per_capita,BiH,2229
+2005,Američki dolar,per_capita,BiH,3168
+2006,Američki dolar,per_capita,BiH,3632
+2007,Američki dolar,per_capita,BiH,4453
+2008,Američki dolar,per_capita,BiH,5390
+2009,Američki dolar,per_capita,BiH,4978
+2010,Američki dolar,per_capita,BiH,4851
+2011,Američki dolar,per_capita,BiH,5273
+2012,Američki dolar,per_capita,BiH,4872
+2013,Američki dolar,per_capita,BiH,5147
+2014,Američki dolar,per_capita,BiH,5265
+2015,Američki dolar,per_capita,BiH,4611
+2016,Američki dolar,per_capita,BiH,4818
+2017,Američki dolar,per_capita,BiH,5160
+2018,Američki dolar,per_capita,BiH,5771
+2019,Američki dolar,per_capita,BiH,5797
