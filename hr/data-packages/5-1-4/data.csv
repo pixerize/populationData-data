@@ -1,74 +1,46 @@
-Year,UNIT_MEASURE,Godine,Spol,ACTIVITY_RATES,Value
-2013,Broj,_ALL,Oba spola,total_illiterate,89794.0
-2013,Broj,_ALL,Muškarci,total_illiterate,12237.0
-2013,Broj,_ALL,Žene,total_illiterate,77557.0
-2013,Broj, 10-14,Oba spola,of_total_for_age_group,579.0
-2013,Broj, 10-14,Muškarci,of_total_for_age_group,318.0
-2013,Broj, 10-14,Žene,of_total_for_age_group,261.0
-2013,_%, 10-14,Muškarci,of_total_for_age_group,54.92227979
-2013,_%, 10-14,Žene,of_total_for_age_group,45.07772021
-2013,Broj, 15-19,Oba spola,of_total_for_age_group,763.0
-2013,Broj, 15-19,Muškarci,of_total_for_age_group,408.0
-2013,Broj, 15-19,Žene,of_total_for_age_group,355.0
-2013,_%, 15-19,Muškarci,of_total_for_age_group,53.47313237
-2013,_%, 15-19,Žene,of_total_for_age_group,46.52686763
-2013,Broj, 20-24,Oba spola,of_total_for_age_group,825.0
-2013,Broj, 20-24,Muškarci,of_total_for_age_group,419.0
-2013,Broj, 20-24,Žene,of_total_for_age_group,406.0
-2013,_%, 20-24,Muškarci,of_total_for_age_group,50.78787879
-2013,_%, 20-24,Žene,of_total_for_age_group,49.21212121
-2013,Broj, 25-29,Oba spola,of_total_for_age_group,1025.0
-2013,Broj, 25-29,Muškarci,of_total_for_age_group,539.0
-2013,Broj, 25-29,Žene,of_total_for_age_group,486.0
-2013,_%, 25-29,Muškarci,of_total_for_age_group,52.58536585
-2013,_%, 25-29,Žene,of_total_for_age_group,47.41463415
-2013,Broj, 30-34,Oba spola,of_total_for_age_group,1082.0
-2013,Broj, 30-34,Muškarci,of_total_for_age_group,551.0
-2013,Broj, 30-34,Žene,of_total_for_age_group,531.0
-2013,_%, 30-34,Muškarci,of_total_for_age_group,50.92421442
-2013,_%, 30-34,Žene,of_total_for_age_group,49.07578558
-2013,Broj, 35-39,Oba spola,of_total_for_age_group,1032.0
-2013,Broj, 35-39,Muškarci,of_total_for_age_group,525.0
-2013,Broj, 35-39,Žene,of_total_for_age_group,507.0
-2013,_%, 35-39,Muškarci,of_total_for_age_group,50.87209302
-2013,_%, 35-39,Žene,of_total_for_age_group,49.12790698
-2013,Broj,40-44,Oba spola,of_total_for_age_group,1143.0
-2013,Broj,40-44,Muškarci,of_total_for_age_group,519.0
-2013,Broj,40-44,Žene,of_total_for_age_group,624.0
-2013,_%,40-44,Muškarci,of_total_for_age_group,45.40682415
-2013,_%,40-44,Žene,of_total_for_age_group,54.59317585
-2013,Broj, 45-49,Oba spola,of_total_for_age_group,1533.0
-2013,Broj, 45-49,Muškarci,of_total_for_age_group,632.0
-2013,Broj, 45-49,Žene,of_total_for_age_group,901.0
-2013,_%, 45-49,Muškarci,of_total_for_age_group,41.22635356
-2013,_%, 45-49,Žene,of_total_for_age_group,58.77364644
-2013,Broj, 50-54,Oba spola,of_total_for_age_group,2532.0
-2013,Broj, 50-54,Muškarci,of_total_for_age_group,679.0
-2013,Broj, 50-54,Žene,of_total_for_age_group,1853.0
-2013,_%, 50-54,Muškarci,of_total_for_age_group,26.81674566
-2013,_%, 50-54,Žene,of_total_for_age_group,73.18325434
-2013,Broj, 55-59,Oba spola,of_total_for_age_group,4132.0
-2013,Broj, 55-59,Muškarci,of_total_for_age_group,764.0
-2013,Broj, 55-59,Žene,of_total_for_age_group,3368.0
-2013,_%, 55-59,Muškarci,of_total_for_age_group,18.48983543
-2013,_%, 55-59,Žene,of_total_for_age_group,81.51016457
-2013,Broj, 60-64,Oba spola,of_total_for_age_group,6736.0
-2013,Broj, 60-64,Muškarci,of_total_for_age_group,771.0
-2013,Broj, 60-64,Žene,of_total_for_age_group,5965.0
-2013,_%, 60-64,Muškarci,of_total_for_age_group,11.445962
-2013,_%, 60-64,Žene,of_total_for_age_group,88.554038
-2013,Broj, 65-69,Oba spola,of_total_for_age_group,9306.0
-2013,Broj, 65-69,Muškarci,of_total_for_age_group,863.0
-2013,Broj, 65-69,Žene,of_total_for_age_group,8443.0
-2013,_%, 65-69,Muškarci,of_total_for_age_group,9.273586933
-2013,_%, 65-69,Žene,of_total_for_age_group,90.72641307
-2013,Broj, 70-74,Oba spola,of_total_for_age_group,16476.0
-2013,Broj, 70-74,Muškarci,of_total_for_age_group,1311.0
-2013,Broj, 70-74,Žene,of_total_for_age_group,15165.0
-2013,_%, 70-74,Muškarci,of_total_for_age_group,7.957028405
-2013,_%, 70-74,Žene,of_total_for_age_group,92.0429716
-2013,Broj, 75+,Oba spola,of_total_for_age_group,42630.0
-2013,Broj, 75+,Muškarci,of_total_for_age_group,3938.0
-2013,Broj, 75+,Žene,of_total_for_age_group,38692.0
-2013,_%, 75+,Muškarci,of_total_for_age_group,9.237626085
-2013,_%, 75+,Žene,of_total_for_age_group,90.76237392
+Year,UNIT_MEASURE,Godine,Spol,Value
+2013,Broj,_ALL,Oba spola,89794.0
+2013,Broj,_ALL,Muškarci,12237.0
+2013,Broj,_ALL,Žene,77557.0
+2013,Broj, 10-14,Oba spola,579.0
+2013,Broj, 10-14,Muškarci,318.0
+2013,Broj, 10-14,Žene,261.0
+2013,Broj, 15-19,Oba spola,763.0
+2013,Broj, 15-19,Muškarci,408.0
+2013,Broj, 15-19,Žene,355.0
+2013,Broj, 20-24,Oba spola,825.0
+2013,Broj, 20-24,Muškarci,419.0
+2013,Broj, 20-24,Žene,406.0
+2013,Broj, 25-29,Oba spola,1025.0
+2013,Broj, 25-29,Muškarci,539.0
+2013,Broj, 25-29,Žene,486.0
+2013,Broj, 30-34,Oba spola,1082.0
+2013,Broj, 30-34,Muškarci,551.0
+2013,Broj, 30-34,Žene,531.0
+2013,Broj, 35-39,Oba spola,1032.0
+2013,Broj, 35-39,Muškarci,525.0
+2013,Broj, 35-39,Žene,507.0
+2013,Broj,40-44,Oba spola,1143.0
+2013,Broj,40-44,Muškarci,519.0
+2013,Broj,40-44,Žene,624.0
+2013,Broj, 45-49,Oba spola,1533.0
+2013,Broj, 45-49,Muškarci,632.0
+2013,Broj, 45-49,Žene,901.0
+2013,Broj, 50-54,Oba spola,2532.0
+2013,Broj, 50-54,Muškarci,679.0
+2013,Broj, 50-54,Žene,1853.0
+2013,Broj, 55-59,Oba spola,4132.0
+2013,Broj, 55-59,Muškarci,764.0
+2013,Broj, 55-59,Žene,3368.0
+2013,Broj, 60-64,Oba spola,6736.0
+2013,Broj, 60-64,Muškarci,771.0
+2013,Broj, 60-64,Žene,5965.0
+2013,Broj, 65-69,Oba spola,9306.0
+2013,Broj, 65-69,Muškarci,863.0
+2013,Broj, 65-69,Žene,8443.0
+2013,Broj, 70-74,Oba spola,16476.0
+2013,Broj, 70-74,Muškarci,1311.0
+2013,Broj, 70-74,Žene,15165.0
+2013,Broj, 75+,Oba spola,42630.0
+2013,Broj, 75+,Muškarci,3938.0
+2013,Broj, 75+,Žene,38692.0

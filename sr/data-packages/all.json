@@ -620,18 +620,6 @@
             "title": "SEX"
           },
           {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_illiterate",
-                "of_total_for_age_group",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

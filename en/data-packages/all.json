@@ -572,18 +572,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "% of total for age group",
-                "Total illiterate"
-              ]
-            },
-            "title": "Activity rates"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
