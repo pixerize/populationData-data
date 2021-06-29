@@ -1,431 +1,290 @@
-Year,Entitet,Spol,INFANT_MORTALITY,UNIT_MEASURE,Value
-1971,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,22.0
-1981,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.2
-1991,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.9
-1996,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.01468
-1997,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.41812509
-1998,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.97607039
-1999,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.14977393
-2000,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.680762328
-2001,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.609300846
-2002,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.385449743
-2003,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.60628938
-2004,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.197519274
-2005,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.728853207
-2006,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.492727647
-2007,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.827249889
-2008,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.876170412
-2009,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.483357453
-2010,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.442376521
-2011,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.784162711
-2012,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.438289243
-2013,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.898839786
-2014,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.153957975
-2015,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.113537118
-2016,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.897359441
-2017,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.490066225
-2018,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.210336987
-2019,BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.699576869
-1996,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.75530781
-1997,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.58670989
-1998,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.89220918
-1999,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.18506193
-2000,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.7806145
-2001,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.195876289
-2002,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.43886976
-2003,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.40152755
-2004,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.327358959
-2005,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.473169635
-2006,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.004388215
-2007,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.528230866
-2008,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.44953085
-2009,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.44408644
-2010,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.235052382
-2011,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.714657311
-2012,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.611078023
-2013,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.883485949
-2014,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.744502148
-2015,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.140580089
-2016,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.062865869
-2017,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.698991961
-2018,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.96017815
-2019,BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.889099014
-1996,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,13.20057668
-1997,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.04329004
-1998,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.896302474
-1999,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.074323027
-2000,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.509083316
-2001,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.988043894
-2002,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.270676692
-2003,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.743965925
-2004,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.993653778
-2005,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.941770648
-2006,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.883780177
-2007,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.07324704
-2008,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.268458803
-2009,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.526074083
-2010,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.599655406
-2011,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.777486911
-2012,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.188614584
-2013,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.848811368
-2014,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.589257719
-2015,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.084912184
-2016,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.631229695
-2017,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.264628941
-2018,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.47932953
-2019,BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.492548325
-1996,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,13.8
-1997,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.97224813
-1998,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.13468869
-1999,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.15720212
-2000,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.03578748
-2001,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.909984179
-2002,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.5371812
-2003,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.718922652
-2004,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.539325843
-2005,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.844715966
-2006,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.48986205
-2007,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.887865531
-2008,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.464223386
-2009,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.550298957
-2010,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.684746671
-2011,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.642170718
-2012,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.473546945
-2013,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.346736163
-2014,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.38832998
-2015,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.95536729
-2016,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.479012974
-2017,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.171912833
-2018,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.3602307
-2019,Federacija BiH,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.267994894
-1997,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,15.36662769
-1998,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.37836515
-1999,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.2173852
-2000,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.45415648
-2001,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.556977403
-2002,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.56553805
-2003,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.09683026
-2004,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.323806204
-2005,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.01151768
-2006,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.33220309
-2007,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.09474896
-2008,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.377664109
-2009,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.325698889
-2010,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.08225932
-2011,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.717450518
-2012,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.620584544
-2013,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.468867289
-2014,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.18556701
-2015,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.498583569
-2016,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.517720775
-2017,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.490289841
-2018,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.314514473
-2019,Federacija BiH,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.526867908
-1997,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.3408187
-1998,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.711945032
-1999,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.05684303
-2000,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.524584826
-2001,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.225516237
-2002,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.453131902
-2003,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.216959856
-2004,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.703731205
-2005,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.607776839
-2006,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.503607504
-2007,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.580118979
-2008,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.506702413
-2009,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.791972456
-2010,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.191664356
-2011,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.482670844
-2012,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.233572398
-2013,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.151322534
-2014,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.601340897
-2015,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.388642601
-2016,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.355258977
-2017,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.831262399
-2018,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.408867533
-2019,Federacija BiH,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.98928201
-1996,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,14.59675446
-1997,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.33968162
-1998,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.279736823
-1999,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.206896552
-2000,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.258121345
-2001,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.328856121
-2002,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.214656291
-2003,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.073835057
-2004,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.73955589
-2005,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.584576632
-2006,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.75104523
-2007,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.758654797
-2008,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.922337713
-2009,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.809959445
-2010,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.336257022
-2011,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.497437507
-2012,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.708157947
-2013,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.470031546
-2014,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.106588109
-2015,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.778668377
-2016,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.43334744
-2017,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.784023985
-2018,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.776755853
-2019,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.617425059
-1996,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,15.54648241
-1997,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.95986622
-1998,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.461940404
-1999,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.196645929
-2000,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.787949173
-2001,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.813129165
-2002,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.326787117
-2003,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.871559633
-2004,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.796917498
-2005,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.772161449
-2006,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.793309662
-2007,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.459542572
-2008,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.800836184
-2009,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.199928277
-2010,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.858024691
-2011,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,5.191693291
-2012,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.912556494
-2013,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.279600571
-2014,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.269913331
-2015,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.858736059
-2016,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.447576556
-2017,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.660663119
-2018,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.399720056
-2019,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.426533524
-1996,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,13.57082273
-1997,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.57301322
-1998,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.981073534
-1999,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.177033493
-2000,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.693830035
-2001,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.814926271
-2002,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.029140847
-2003,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.290544525
-2004,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.520438099
-2005,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.386454183
-2006,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.672917069
-2007,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.075810067
-2008,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.051863857
-2009,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.377238361
-2010,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.835784808
-2011,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.733801889
-2012,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.454489671
-2013,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.606995438
-2014,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,4.009801738
-2015,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,3.765227021
-2016,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.327140013
-2017,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.919380193
-2018,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,2.189621196
-2019,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,1.831921227
-1996,BiH,Oba spola,number_of_infant_deaths,Broj,653.0
-1997,BiH,Oba spola,number_of_infant_deaths,Broj,601.0
-1998,BiH,Oba spola,number_of_infant_deaths,Broj,494.0
-1999,BiH,Oba spola,number_of_infant_deaths,Broj,431.0
-2000,BiH,Oba spola,number_of_infant_deaths,Broj,383.0
-2001,BiH,Oba spola,number_of_infant_deaths,Broj,287.0
-2002,BiH,Oba spola,number_of_infant_deaths,Broj,334.0
-2003,BiH,Oba spola,number_of_infant_deaths,Broj,268.0
-2004,BiH,Oba spola,number_of_infant_deaths,Broj,253.0
-2005,BiH,Oba spola,number_of_infant_deaths,Broj,233.0
-2006,BiH,Oba spola,number_of_infant_deaths,Broj,255.0
-2007,BiH,Oba spola,number_of_infant_deaths,Broj,231.0
-2008,BiH,Oba spola,number_of_infant_deaths,Broj,235.0
-2009,BiH,Oba spola,number_of_infant_deaths,Broj,224.0
-2010,BiH,Oba spola,number_of_infant_deaths,Broj,216.0
-2011,BiH,Oba spola,number_of_infant_deaths,Broj,184.0
-2012,BiH,Oba spola,number_of_infant_deaths,Broj,177.0
-2013,BiH,Oba spola,number_of_infant_deaths,Broj,181.0
-2014,BiH,Oba spola,number_of_infant_deaths,Broj,156.0
-2015,BiH,Oba spola,number_of_infant_deaths,Broj,182.0
-2016,BiH,Oba spola,number_of_infant_deaths,Broj,178.0
-2017,BiH,Oba spola,number_of_infant_deaths,Broj,196.0
-2018,BiH,Oba spola,number_of_infant_deaths,Broj,183.0
-2019,BiH,Oba spola,number_of_infant_deaths,Broj,190.0
-1996,BiH,Muškarci,number_of_infant_deaths,Broj,360.0
-1997,BiH,Muškarci,number_of_infant_deaths,Broj,369.0
-1998,BiH,Muškarci,number_of_infant_deaths,Broj,302.0
-1999,BiH,Muškarci,number_of_infant_deaths,Broj,242.0
-2000,BiH,Muškarci,number_of_infant_deaths,Broj,220.0
-2001,BiH,Muškarci,number_of_infant_deaths,Broj,159.0
-2002,BiH,Muškarci,number_of_infant_deaths,Broj,191.0
-2003,BiH,Muškarci,number_of_infant_deaths,Broj,154.0
-2004,BiH,Muškarci,number_of_infant_deaths,Broj,151.0
-2005,BiH,Muškarci,number_of_infant_deaths,Broj,133.0
-2006,BiH,Muškarci,number_of_infant_deaths,Broj,158.0
-2007,BiH,Muškarci,number_of_infant_deaths,Broj,132.0
-2008,BiH,Muškarci,number_of_infant_deaths,Broj,131.0
-2009,BiH,Muškarci,number_of_infant_deaths,Broj,116.0
-2010,BiH,Muškarci,number_of_infant_deaths,Broj,125.0
-2011,BiH,Muškarci,number_of_infant_deaths,Broj,111.0
-2012,BiH,Muškarci,number_of_infant_deaths,Broj,111.0
-2013,BiH,Muškarci,number_of_infant_deaths,Broj,109.0
-2014,BiH,Muškarci,number_of_infant_deaths,Broj,74.0
-2015,BiH,Muškarci,number_of_infant_deaths,Broj,94.0
-2016,BiH,Muškarci,number_of_infant_deaths,Broj,111.0
-2017,BiH,Muškarci,number_of_infant_deaths,Broj,105.0
-2018,BiH,Muškarci,number_of_infant_deaths,Broj,91.0
-2019,BiH,Muškarci,number_of_infant_deaths,Broj,102.0
-1996,BiH,Žene,number_of_infant_deaths,Broj,293.0
-1997,BiH,Žene,number_of_infant_deaths,Broj,232.0
-1998,BiH,Žene,number_of_infant_deaths,Broj,192.0
-1999,BiH,Žene,number_of_infant_deaths,Broj,189.0
-2000,BiH,Žene,number_of_infant_deaths,Broj,163.0
-2001,BiH,Žene,number_of_infant_deaths,Broj,128.0
-2002,BiH,Žene,number_of_infant_deaths,Broj,143.0
-2003,BiH,Žene,number_of_infant_deaths,Broj,114.0
-2004,BiH,Žene,number_of_infant_deaths,Broj,102.0
-2005,BiH,Žene,number_of_infant_deaths,Broj,100.0
-2006,BiH,Žene,number_of_infant_deaths,Broj,97.0
-2007,BiH,Žene,number_of_infant_deaths,Broj,99.0
-2008,BiH,Žene,number_of_infant_deaths,Broj,104.0
-2009,BiH,Žene,number_of_infant_deaths,Broj,108.0
-2010,BiH,Žene,number_of_infant_deaths,Broj,91.0
-2011,BiH,Žene,number_of_infant_deaths,Broj,73.0
-2012,BiH,Žene,number_of_infant_deaths,Broj,66.0
-2013,BiH,Žene,number_of_infant_deaths,Broj,72.0
-2014,BiH,Žene,number_of_infant_deaths,Broj,82.0
-2015,BiH,Žene,number_of_infant_deaths,Broj,88.0
-2016,BiH,Žene,number_of_infant_deaths,Broj,67.0
-2017,BiH,Žene,number_of_infant_deaths,Broj,91.0
-2018,BiH,Žene,number_of_infant_deaths,Broj,92.0
-2019,BiH,Žene,number_of_infant_deaths,Broj,88.0
-1997,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,445.0
-1998,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,382.0
-1999,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,312.0
-2000,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,280.0
-2001,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,214.0
-2002,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,245.0
-2003,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,202.0
-2004,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,190.0
-2005,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,194.0
-2006,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,205.0
-2007,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,193.0
-2008,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,194.0
-2009,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,173.0
-2010,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,172.0
-2011,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,141.0
-2012,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,139.0
-2013,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,148.0
-2014,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,127.0
-2015,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,154.0
-2016,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,147.0
-2017,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,162.0
-2018,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,158.0
-2019,Federacija BiH,Oba spola,number_of_infant_deaths,Broj,167.0
-1997,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,276.0
-1998,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,235.0
-1999,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,174.0
-2000,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,163.0
-2001,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,118.0
-2002,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,138.0
-2003,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,122.0
-2004,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,107.0
-2005,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,113.0
-2006,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,127.0
-2007,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,114.0
-2008,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,110.0
-2009,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,87.0
-2010,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,105.0
-2011,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,85.0
-2012,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,85.0
-2013,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,88.0
-2014,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,63.0
-2015,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,84.0
-2016,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,87.0
-2017,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,87.0
-2018,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,81.0
-2019,Federacija BiH,Muškarci,number_of_infant_deaths,Broj,89.0
-1997,Federacija BiH,Žene,number_of_infant_deaths,Broj,169.0
-1998,Federacija BiH,Žene,number_of_infant_deaths,Broj,147.0
-1999,Federacija BiH,Žene,number_of_infant_deaths,Broj,138.0
-2000,Federacija BiH,Žene,number_of_infant_deaths,Broj,117.0
-2001,Federacija BiH,Žene,number_of_infant_deaths,Broj,96.0
-2002,Federacija BiH,Žene,number_of_infant_deaths,Broj,107.0
-2003,Federacija BiH,Žene,number_of_infant_deaths,Broj,80.0
-2004,Federacija BiH,Žene,number_of_infant_deaths,Broj,83.0
-2005,Federacija BiH,Žene,number_of_infant_deaths,Broj,81.0
-2006,Federacija BiH,Žene,number_of_infant_deaths,Broj,78.0
-2007,Federacija BiH,Žene,number_of_infant_deaths,Broj,79.0
-2008,Federacija BiH,Žene,number_of_infant_deaths,Broj,84.0
-2009,Federacija BiH,Žene,number_of_infant_deaths,Broj,86.0
-2010,Federacija BiH,Žene,number_of_infant_deaths,Broj,67.0
-2011,Federacija BiH,Žene,number_of_infant_deaths,Broj,56.0
-2012,Federacija BiH,Žene,number_of_infant_deaths,Broj,54.0
-2013,Federacija BiH,Žene,number_of_infant_deaths,Broj,60.0
-2014,Federacija BiH,Žene,number_of_infant_deaths,Broj,64.0
-2015,Federacija BiH,Žene,number_of_infant_deaths,Broj,70.0
-2016,Federacija BiH,Žene,number_of_infant_deaths,Broj,60.0
-2017,Federacija BiH,Žene,number_of_infant_deaths,Broj,75.0
-2018,Federacija BiH,Žene,number_of_infant_deaths,Broj,77.0
-2019,Federacija BiH,Žene,number_of_infant_deaths,Broj,78.0
-1996,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,179.0
-1997,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,156.0
-1998,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,112.0
-1999,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,119.0
-2000,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,103.0
-2001,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,73.0
-2002,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,89.0
-2003,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,64.0
-2004,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,61.0
-2005,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,37.0
-2006,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,50.0
-2007,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,38.0
-2008,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,40.0
-2009,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,51.0
-2010,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,44.0
-2011,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,43.0
-2012,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,37.0
-2013,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,33.0
-2014,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,29.0
-2015,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,26.0
-2016,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,23.0
-2017,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,26.0
-2018,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.0
-2019,Republika Srpska,Oba spola,infant_(up_to_12_months_of_age)_mortality_rate,Broj,15.0
-1996,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,99.0
-1997,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,93.0
-1998,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,67.0
-1999,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,68.0
-2000,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,57.0
-2001,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,41.0
-2002,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,53.0
-2003,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,32.0
-2004,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,43.0
-2005,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,20.0
-2006,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,31.0
-2007,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,18.0
-2008,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,20.0
-2009,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,29.0
-2010,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,20.0
-2011,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,26.0
-2012,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,25.0
-2013,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,21.0
-2014,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,11.0
-2015,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,9.0
-2016,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.0
-2017,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,13.0
-2018,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.0
-2019,Republika Srpska,Muškarci,infant_(up_to_12_months_of_age)_mortality_rate,Broj,7.0
-1996,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,80.0
-1997,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,63.0
-1998,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,45.0
-1999,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,51.0
-2000,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,46.0
-2001,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,32.0
-2002,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,36.0
-2003,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,32.0
-2004,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,18.0
-2005,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.0
-2006,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,19.0
-2007,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,20.0
-2008,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,20.0
-2009,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,22.0
-2010,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,24.0
-2011,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.0
-2012,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.0
-2013,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,12.0
-2014,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,18.0
-2015,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,17.0
-2016,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,6.0
-2017,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,13.0
-2018,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,10.0
-2019,Republika Srpska,Žene,infant_(up_to_12_months_of_age)_mortality_rate,Broj,8.0
+Year,Spol,Entitet,UNIT_MEASURE,Value
+1971,Oba spola,BiH,Broj,22.0
+1981,Oba spola,BiH,Broj,17.2
+1991,Oba spola,BiH,Broj,14.9
+1996,Oba spola,BiH,Broj,14.01468
+1997,Oba spola,BiH,Broj,12.41812509
+1998,Oba spola,BiH,Broj,10.97607039
+1999,Oba spola,BiH,Broj,10.14977393
+2000,Oba spola,BiH,Broj,9.680762328
+2001,Oba spola,BiH,Broj,7.609300846
+2002,Oba spola,BiH,Broj,9.385449743
+2003,Oba spola,BiH,Broj,7.60628938
+2004,Oba spola,BiH,Broj,7.197519274
+2005,Oba spola,BiH,Broj,6.728853207
+2006,Oba spola,BiH,Broj,7.492727647
+2007,Oba spola,BiH,Broj,6.827249889
+2008,Oba spola,BiH,Broj,6.876170412
+2009,Oba spola,BiH,Broj,6.483357453
+2010,Oba spola,BiH,Broj,6.442376521
+2011,Oba spola,BiH,Broj,5.784162711
+2012,Oba spola,BiH,Broj,5.438289243
+2013,Oba spola,BiH,Broj,5.898839786
+2014,Oba spola,BiH,Broj,5.153957975
+2015,Oba spola,BiH,Broj,6.113537118
+2016,Oba spola,BiH,Broj,5.897359441
+2017,Oba spola,BiH,Broj,6.490066225
+2018,Oba spola,BiH,Broj,6.210336987
+2019,Oba spola,BiH,Broj,6.699576869
+1996,Muškarci,BiH,Broj,14.75530781
+1997,Muškarci,BiH,Broj,14.58670989
+1998,Muškarci,BiH,Broj,12.89220918
+1999,Muškarci,BiH,Broj,11.18506193
+2000,Muškarci,BiH,Broj,10.7806145
+2001,Muškarci,BiH,Broj,8.195876289
+2002,Muškarci,BiH,Broj,10.43886976
+2003,Muškarci,BiH,Broj,8.40152755
+2004,Muškarci,BiH,Broj,8.327358959
+2005,Muškarci,BiH,Broj,7.473169635
+2006,Muškarci,BiH,Broj,9.004388215
+2007,Muškarci,BiH,Broj,7.528230866
+2008,Muškarci,BiH,Broj,7.44953085
+2009,Muškarci,BiH,Broj,6.44408644
+2010,Muškarci,BiH,Broj,7.235052382
+2011,Muškarci,BiH,Broj,6.714657311
+2012,Muškarci,BiH,Broj,6.611078023
+2013,Muškarci,BiH,Broj,6.883485949
+2014,Muškarci,BiH,Broj,4.744502148
+2015,Muškarci,BiH,Broj,6.140580089
+2016,Muškarci,BiH,Broj,7.062865869
+2017,Muškarci,BiH,Broj,6.698991961
+2018,Muškarci,BiH,Broj,5.96017815
+2019,Muškarci,BiH,Broj,6.889099014
+1996,Žene,BiH,Broj,13.20057668
+1997,Žene,BiH,Broj,10.04329004
+1998,Žene,BiH,Broj,8.896302474
+1999,Žene,BiH,Broj,9.074323027
+2000,Žene,BiH,Broj,8.509083316
+2001,Žene,BiH,Broj,6.988043894
+2002,Žene,BiH,Broj,8.270676692
+2003,Žene,BiH,Broj,6.743965925
+2004,Žene,BiH,Broj,5.993653778
+2005,Žene,BiH,Broj,5.941770648
+2006,Žene,BiH,Broj,5.883780177
+2007,Žene,BiH,Broj,6.07324704
+2008,Žene,BiH,Broj,6.268458803
+2009,Žene,BiH,Broj,6.526074083
+2010,Žene,BiH,Broj,5.599655406
+2011,Žene,BiH,Broj,4.777486911
+2012,Žene,BiH,Broj,4.188614584
+2013,Žene,BiH,Broj,4.848811368
+2014,Žene,BiH,Broj,5.589257719
+2015,Žene,BiH,Broj,6.084912184
+2016,Žene,BiH,Broj,4.631229695
+2017,Žene,BiH,Broj,6.264628941
+2018,Žene,BiH,Broj,6.47932953
+2019,Žene,BiH,Broj,6.492548325
+1996,Oba spola,Federacija BiH,Broj,13.8
+1997,Oba spola,Federacija BiH,Broj,12.97224813
+1998,Oba spola,Federacija BiH,Broj,12.13468869
+1999,Oba spola,Federacija BiH,Broj,11.15720212
+2000,Oba spola,Federacija BiH,Broj,11.03578748
+2001,Oba spola,Federacija BiH,Broj,8.909984179
+2002,Oba spola,Federacija BiH,Broj,10.5371812
+2003,Oba spola,Federacija BiH,Broj,8.718922652
+2004,Oba spola,Federacija BiH,Broj,8.539325843
+2005,Oba spola,Federacija BiH,Broj,8.844715966
+2006,Oba spola,Federacija BiH,Broj,9.48986205
+2007,Oba spola,Federacija BiH,Broj,8.887865531
+2008,Oba spola,Federacija BiH,Broj,8.464223386
+2009,Oba spola,Federacija BiH,Broj,7.550298957
+2010,Oba spola,Federacija BiH,Broj,7.684746671
+2011,Oba spola,Federacija BiH,Broj,6.642170718
+2012,Oba spola,Federacija BiH,Broj,6.473546945
+2013,Oba spola,Federacija BiH,Broj,7.346736163
+2014,Oba spola,Federacija BiH,Broj,6.38832998
+2015,Oba spola,Federacija BiH,Broj,7.95536729
+2016,Oba spola,Federacija BiH,Broj,7.479012974
+2017,Oba spola,Federacija BiH,Broj,8.171912833
+2018,Oba spola,Federacija BiH,Broj,8.3602307
+2019,Oba spola,Federacija BiH,Broj,9.267994894
+1997,Muškarci,Federacija BiH,Broj,15.36662769
+1998,Muškarci,Federacija BiH,Broj,14.37836515
+1999,Muškarci,Federacija BiH,Broj,12.2173852
+2000,Muškarci,Federacija BiH,Broj,12.45415648
+2001,Muškarci,Federacija BiH,Broj,9.556977403
+2002,Muškarci,Federacija BiH,Broj,11.56553805
+2003,Muškarci,Federacija BiH,Broj,10.09683026
+2004,Muškarci,Federacija BiH,Broj,9.323806204
+2005,Muškarci,Federacija BiH,Broj,10.01151768
+2006,Muškarci,Federacija BiH,Broj,11.33220309
+2007,Muškarci,Federacija BiH,Broj,10.09474896
+2008,Muškarci,Federacija BiH,Broj,9.377664109
+2009,Muškarci,Federacija BiH,Broj,7.325698889
+2010,Muškarci,Federacija BiH,Broj,9.08225932
+2011,Muškarci,Federacija BiH,Broj,7.717450518
+2012,Muškarci,Federacija BiH,Broj,7.620584544
+2013,Muškarci,Federacija BiH,Broj,8.468867289
+2014,Muškarci,Federacija BiH,Broj,6.18556701
+2015,Muškarci,Federacija BiH,Broj,8.498583569
+2016,Muškarci,Federacija BiH,Broj,8.517720775
+2017,Muškarci,Federacija BiH,Broj,8.490289841
+2018,Muškarci,Federacija BiH,Broj,8.314514473
+2019,Muškarci,Federacija BiH,Broj,9.526867908
+1997,Žene,Federacija BiH,Broj,10.3408187
+1998,Žene,Federacija BiH,Broj,9.711945032
+1999,Žene,Federacija BiH,Broj,10.05684303
+2000,Žene,Federacija BiH,Broj,9.524584826
+2001,Žene,Federacija BiH,Broj,8.225516237
+2002,Žene,Federacija BiH,Broj,9.453131902
+2003,Žene,Federacija BiH,Broj,7.216959856
+2004,Žene,Federacija BiH,Broj,7.703731205
+2005,Žene,Federacija BiH,Broj,7.607776839
+2006,Žene,Federacija BiH,Broj,7.503607504
+2007,Žene,Federacija BiH,Broj,7.580118979
+2008,Žene,Federacija BiH,Broj,7.506702413
+2009,Žene,Federacija BiH,Broj,7.791972456
+2010,Žene,Federacija BiH,Broj,6.191664356
+2011,Žene,Federacija BiH,Broj,5.482670844
+2012,Žene,Federacija BiH,Broj,5.233572398
+2013,Žene,Federacija BiH,Broj,6.151322534
+2014,Žene,Federacija BiH,Broj,6.601340897
+2015,Žene,Federacija BiH,Broj,7.388642601
+2016,Žene,Federacija BiH,Broj,6.355258977
+2017,Žene,Federacija BiH,Broj,7.831262399
+2018,Žene,Federacija BiH,Broj,8.408867533
+2019,Žene,Federacija BiH,Broj,8.98928201
+1996,Oba spola,Republika Srpska,Broj,14.59675446
+1997,Oba spola,Republika Srpska,Broj,11.33968162
+1998,Oba spola,Republika Srpska,Broj,8.279736823
+1999,Oba spola,Republika Srpska,Broj,8.206896552
+2000,Oba spola,Republika Srpska,Broj,7.258121345
+2001,Oba spola,Republika Srpska,Broj,5.328856121
+2002,Oba spola,Republika Srpska,Broj,7.214656291
+2003,Oba spola,Republika Srpska,Broj,6.073835057
+2004,Oba spola,Republika Srpska,Broj,5.73955589
+2005,Oba spola,Republika Srpska,Broj,3.584576632
+2006,Oba spola,Republika Srpska,Broj,4.75104523
+2007,Oba spola,Republika Srpska,Broj,3.758654797
+2008,Oba spola,Republika Srpska,Broj,3.922337713
+2009,Oba spola,Republika Srpska,Broj,4.809959445
+2010,Oba spola,Republika Srpska,Broj,4.336257022
+2011,Oba spola,Republika Srpska,Broj,4.497437507
+2012,Oba spola,Republika Srpska,Broj,3.708157947
+2013,Oba spola,Republika Srpska,Broj,3.470031546
+2014,Oba spola,Republika Srpska,Broj,3.106588109
+2015,Oba spola,Republika Srpska,Broj,2.778668377
+2016,Oba spola,Republika Srpska,Broj,2.43334744
+2017,Oba spola,Republika Srpska,Broj,2.784023985
+2018,Oba spola,Republika Srpska,Broj,1.776755853
+2019,Oba spola,Republika Srpska,Broj,1.617425059
+1996,Muškarci,Republika Srpska,Broj,15.54648241
+1997,Muškarci,Republika Srpska,Broj,12.95986622
+1998,Muškarci,Republika Srpska,Broj,9.461940404
+1999,Muškarci,Republika Srpska,Broj,9.196645929
+2000,Muškarci,Republika Srpska,Broj,7.787949173
+2001,Muškarci,Republika Srpska,Broj,5.813129165
+2002,Muškarci,Republika Srpska,Broj,8.326787117
+2003,Muškarci,Republika Srpska,Broj,5.871559633
+2004,Muškarci,Republika Srpska,Broj,7.796917498
+2005,Muškarci,Republika Srpska,Broj,3.772161449
+2006,Muškarci,Republika Srpska,Broj,5.793309662
+2007,Muškarci,Republika Srpska,Broj,3.459542572
+2008,Muškarci,Republika Srpska,Broj,3.800836184
+2009,Muškarci,Republika Srpska,Broj,5.199928277
+2010,Muškarci,Republika Srpska,Broj,3.858024691
+2011,Muškarci,Republika Srpska,Broj,5.191693291
+2012,Muškarci,Republika Srpska,Broj,4.912556494
+2013,Muškarci,Republika Srpska,Broj,4.279600571
+2014,Muškarci,Republika Srpska,Broj,2.269913331
+2015,Muškarci,Republika Srpska,Broj,1.858736059
+2016,Muškarci,Republika Srpska,Broj,3.447576556
+2017,Muškarci,Republika Srpska,Broj,2.660663119
+2018,Muškarci,Republika Srpska,Broj,1.399720056
+2019,Muškarci,Republika Srpska,Broj,1.426533524
+1996,Žene,Republika Srpska,Broj,13.57082273
+1997,Žene,Republika Srpska,Broj,9.57301322
+1998,Žene,Republika Srpska,Broj,6.981073534
+1999,Žene,Republika Srpska,Broj,7.177033493
+2000,Žene,Republika Srpska,Broj,6.693830035
+2001,Žene,Republika Srpska,Broj,4.814926271
+2002,Žene,Republika Srpska,Broj,6.029140847
+2003,Žene,Republika Srpska,Broj,6.290544525
+2004,Žene,Republika Srpska,Broj,3.520438099
+2005,Žene,Republika Srpska,Broj,3.386454183
+2006,Žene,Republika Srpska,Broj,3.672917069
+2007,Žene,Republika Srpska,Broj,4.075810067
+2008,Žene,Republika Srpska,Broj,4.051863857
+2009,Žene,Republika Srpska,Broj,4.377238361
+2010,Žene,Republika Srpska,Broj,4.835784808
+2011,Žene,Republika Srpska,Broj,3.733801889
+2012,Žene,Republika Srpska,Broj,2.454489671
+2013,Žene,Republika Srpska,Broj,2.606995438
+2014,Žene,Republika Srpska,Broj,4.009801738
+2015,Žene,Republika Srpska,Broj,3.765227021
+2016,Žene,Republika Srpska,Broj,1.327140013
+2017,Žene,Republika Srpska,Broj,2.919380193
+2018,Žene,Republika Srpska,Broj,2.189621196
+2019,Žene,Republika Srpska,Broj,1.831921227
+1996,Oba spola,Republika Srpska,Broj,179.0
+1997,Oba spola,Republika Srpska,Broj,156.0
+1998,Oba spola,Republika Srpska,Broj,112.0
+1999,Oba spola,Republika Srpska,Broj,119.0
+2000,Oba spola,Republika Srpska,Broj,103.0
+2001,Oba spola,Republika Srpska,Broj,73.0
+2002,Oba spola,Republika Srpska,Broj,89.0
+2003,Oba spola,Republika Srpska,Broj,64.0
+2004,Oba spola,Republika Srpska,Broj,61.0
+2005,Oba spola,Republika Srpska,Broj,37.0
+2006,Oba spola,Republika Srpska,Broj,50.0
+2007,Oba spola,Republika Srpska,Broj,38.0
+2008,Oba spola,Republika Srpska,Broj,40.0
+2009,Oba spola,Republika Srpska,Broj,51.0
+2010,Oba spola,Republika Srpska,Broj,44.0
+2011,Oba spola,Republika Srpska,Broj,43.0
+2012,Oba spola,Republika Srpska,Broj,37.0
+2013,Oba spola,Republika Srpska,Broj,33.0
+2014,Oba spola,Republika Srpska,Broj,29.0
+2015,Oba spola,Republika Srpska,Broj,26.0
+2016,Oba spola,Republika Srpska,Broj,23.0
+2017,Oba spola,Republika Srpska,Broj,26.0
+2018,Oba spola,Republika Srpska,Broj,17.0
+2019,Oba spola,Republika Srpska,Broj,15.0
+1996,Muškarci,Republika Srpska,Broj,99.0
+1997,Muškarci,Republika Srpska,Broj,93.0
+1998,Muškarci,Republika Srpska,Broj,67.0
+1999,Muškarci,Republika Srpska,Broj,68.0
+2000,Muškarci,Republika Srpska,Broj,57.0
+2001,Muškarci,Republika Srpska,Broj,41.0
+2002,Muškarci,Republika Srpska,Broj,53.0
+2003,Muškarci,Republika Srpska,Broj,32.0
+2004,Muškarci,Republika Srpska,Broj,43.0
+2005,Muškarci,Republika Srpska,Broj,20.0
+2006,Muškarci,Republika Srpska,Broj,31.0
+2007,Muškarci,Republika Srpska,Broj,18.0
+2008,Muškarci,Republika Srpska,Broj,20.0
+2009,Muškarci,Republika Srpska,Broj,29.0
+2010,Muškarci,Republika Srpska,Broj,20.0
+2011,Muškarci,Republika Srpska,Broj,26.0
+2012,Muškarci,Republika Srpska,Broj,25.0
+2013,Muškarci,Republika Srpska,Broj,21.0
+2014,Muškarci,Republika Srpska,Broj,11.0
+2015,Muškarci,Republika Srpska,Broj,9.0
+2016,Muškarci,Republika Srpska,Broj,17.0
+2017,Muškarci,Republika Srpska,Broj,13.0
+2018,Muškarci,Republika Srpska,Broj,7.0
+2019,Muškarci,Republika Srpska,Broj,7.0
+1996,Žene,Republika Srpska,Broj,80.0
+1997,Žene,Republika Srpska,Broj,63.0
+1998,Žene,Republika Srpska,Broj,45.0
+1999,Žene,Republika Srpska,Broj,51.0
+2000,Žene,Republika Srpska,Broj,46.0
+2001,Žene,Republika Srpska,Broj,32.0
+2002,Žene,Republika Srpska,Broj,36.0
+2003,Žene,Republika Srpska,Broj,32.0
+2004,Žene,Republika Srpska,Broj,18.0
+2005,Žene,Republika Srpska,Broj,17.0
+2006,Žene,Republika Srpska,Broj,19.0
+2007,Žene,Republika Srpska,Broj,20.0
+2008,Žene,Republika Srpska,Broj,20.0
+2009,Žene,Republika Srpska,Broj,22.0
+2010,Žene,Republika Srpska,Broj,24.0
+2011,Žene,Republika Srpska,Broj,17.0
+2012,Žene,Republika Srpska,Broj,12.0
+2013,Žene,Republika Srpska,Broj,12.0
+2014,Žene,Republika Srpska,Broj,18.0
+2015,Žene,Republika Srpska,Broj,17.0
+2016,Žene,Republika Srpska,Broj,6.0
+2017,Žene,Republika Srpska,Broj,13.0
+2018,Žene,Republika Srpska,Broj,10.0
+2019,Žene,Republika Srpska,Broj,8.0

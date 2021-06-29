@@ -1397,18 +1397,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "INFANT_MORTALITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Infant (up to 12 months of age) mortality rate",
-                "Number of infant deaths"
-              ]
-            },
-            "title": "Infant Mortality Infant (up to 12 months of age) mortality rate"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

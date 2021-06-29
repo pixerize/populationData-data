@@ -1284,18 +1284,6 @@
             "type": "integer"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1308,12 +1296,13 @@
             }
           },
           {
-            "name": "INFANT_MORTALITY",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "infant_(up_to_12_months_of_age)_mortality_rate",
-                "number_of_infant_deaths",
+                "BiH",
+                "FBIH",
+                "RS",
                 ""
               ]
             }

@@ -19,7 +19,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-4,"UNIT_MEASURE, SEX, Entity",3
 #1-6-1,"UNIT_MEASURE, Entity",2
 #1-6-2,"UNIT_MEASURE, SEX, Entity",3
-#1-6-3,"UNIT_MEASURE, SEX, Entity, INFANT_MORTALITY",4
+#1-6-3,"UNIT_MEASURE, SEX, Entity",3
 #1-7-1,"UNIT_MEASURE, SEX",2
 #1-8-1,"UNIT_MEASURE, Entity, MARRIAGES",3
 #1-8-2,"UNIT_MEASURE, Entity, MARRIAGES",3
