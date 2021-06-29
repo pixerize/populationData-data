@@ -964,8 +964,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "Real GDP growth"
               ]
             },
             "title": "Quantity"
@@ -977,7 +976,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

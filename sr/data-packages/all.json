@@ -962,8 +962,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
+                "real_gdp_growth",
                 ""
               ]
             },
@@ -982,7 +981,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]
