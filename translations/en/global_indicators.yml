@@ -17,10 +17,13 @@
 1-5-3-title: Average age at death by sex  
 1-5-4-title: Average age at first marriage by sex 
 1-6-1-title: Crude death rate
-1-6-2-title: Infant mortality by sex 
+1-6-2-title: Infant (up to 12 months of age) mortality by sex
+1-6-3-title: Infant (up to 12 months of age) mortality rate
 1-7-1-title: Life expectancy at birth by sex 
 1-8-1-title: Marriages
+1-8-2-title: Marriage rate
 1-8-3-title: Divorces
+1-8-4-title: Divorce rate (per 1,000 marriages)
 1-9-1-title: Households 
 2-1-1-title: Projected population by age and sex
 2-1-2-title: Projected population by age groups and sex
