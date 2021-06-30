@@ -27,14 +27,34 @@
 1-9-1-title: Households 
 2-1-1-title: Projected population by age and sex
 2-1-2-title: Projected population by age groups and sex
+2-1-3-title: Projected dependency ratios by sex
+2-1-4-title: Projected vital statistics by sex
+2-1-5-title: Projected crude birth rate
+2-1-6-title: Projected crude death rate
+2-1-7-title: Projected average age of population
 3-1-1-title: Deaths by cause of death and sex
 3-1-2-title: Deaths by cause of death per 100,000 population 
 3-1-3-title: Stillbirths
 3-1-4-title: Stilbirth rate
-3-2-1-title: Number of cases
-3-3-1-title: MISC
-3-4-1-title: Type of sewage
-3-5-1-title: Persons with disabilities by age and sex
+3-2-1-title: Cervical cancer
+3-2-2-title: Cervical cancer per 100,000 female population
+3-2-3-title: Breast cancer
+3-2-4-title: Breast cancer per 100,000 female population
+3-3-1-title: Incidence of syphilis
+3-3-2-title: Incidence of gonorrhoea
+3-3-3-title: Incidence of AIDS
+3-3-4-title: Incidence of HIV
+3-3-5-title: Incidence of HIV per 100,000 population
+3-4-1-title: Caesarean sections
+3-4-2-title: Caesarean sections per 1,000 live births
+3-5-1-title: Beds in hospitals
+3-5-2-title: Beds in hospitals per 100,000 population
+3-5-3-title: Medical doctors in public institutions
+3-5-4-title: Medical doctors in public institutions per 100,000 population
+3-5-5-title: General practitioners
+3-5-6-title: Population per general practitioner
+3-5-7-title: Midviwes
+3-6-1-title: Contraceptive prevalence rate
 3-7-1-title: Persons with disabilities by age groups and sex
 4-1-1-title: Work in progress
 5-1-1-title: Population over 15 years of age by educational attainment and sex

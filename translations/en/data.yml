@@ -191,7 +191,10 @@ tobacco_use_(women_15-49): Tobacco use (women 15-49)
 tobacco_use_(men_15-49): Tobacco use (men 15-49)
 alcohol_use_(women_15-49): Alcohol use (women 15-49)
 alcohol_use_(men_15-49): Alcohol use (men 15-49)
-MICS_NUMBER: Mics Number
+MICS_NUMBER: Method
+all_methods: All methods
+modern_methods: Modern methods
+traditional_methods: Traditional methods
 MICS_INDICATORS: MICS Indicators
 SOURCE_OF_WATER: Source Of Water
 piped_water_in_the_dwelling_unit_connected_to_community_scheme: Piped water in the dwelling unit connected to community scheme
