@@ -2380,6 +2380,48 @@
       "title": "Gross Domestic Product - Total (millions)"
     },
     {
+      "path": "3-5-6/data.csv",
+      "name": "3-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population per general practitioner"
+    },
+    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -2589,6 +2631,48 @@
         ]
       },
       "title": "Persons with disabilities by age groups and sex"
+    },
+    {
+      "path": "3-5-5/data.csv",
+      "name": "3-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "General practitioners"
     },
     {
       "path": "3-3-2/data.csv",
@@ -3017,6 +3101,48 @@
         ]
       },
       "title": "Divorces"
+    },
+    {
+      "path": "3-5-4/data.csv",
+      "name": "3-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Medical doctors in public institutions per 100,000 population"
     },
     {
       "path": "1-5-4/data.csv",
@@ -3825,6 +3951,48 @@
       "title": "Age-specific fertility rate"
     },
     {
+      "path": "3-5-3/data.csv",
+      "name": "3-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Medical doctors in public institutions"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -4078,6 +4246,48 @@
       "title": "Contraceptive prevalence rate"
     },
     {
+      "path": "3-5-7/data.csv",
+      "name": "3-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Midviwes"
+    },
+    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -4134,126 +4344,6 @@
         ]
       },
       "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
-    },
-    {
-      "path": "3-5-7/data.csv",
-      "name": "3-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Midviwes"
-    },
-    {
-      "path": "3-5-5/data.csv",
-      "name": "3-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "General practitioners"
-    },
-    {
-      "path": "3-5-6/data.csv",
-      "name": "3-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population per general practitioner"
-    },
-    {
-      "path": "3-5-4/data.csv",
-      "name": "3-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Medical doctors in public institutions per 100,000 population"
-    },
-    {
-      "path": "3-5-3/data.csv",
-      "name": "3-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Medical doctors in public institutions"
     }
   ]
 }

@@ -2217,6 +2217,44 @@
       "title": "global_indicators.6-1-1-title"
     },
     {
+      "path": "3-5-6/data.csv",
+      "name": "3-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RS",
+                "FBIH",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-6-title"
+    },
+    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -2407,6 +2445,44 @@
         ]
       },
       "title": "global_indicators.3-7-1-title"
+    },
+    {
+      "path": "3-5-5/data.csv",
+      "name": "3-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RS",
+                "FBIH",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-5-title"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2799,6 +2875,44 @@
         ]
       },
       "title": "global_indicators.1-8-3-title"
+    },
+    {
+      "path": "3-5-4/data.csv",
+      "name": "3-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RS",
+                "FBIH",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-4-title"
     },
     {
       "path": "1-5-4/data.csv",
@@ -3536,6 +3650,44 @@
       "title": "global_indicators.1-4-3-title"
     },
     {
+      "path": "3-5-3/data.csv",
+      "name": "3-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RS",
+                "FBIH",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-3-title"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -3766,6 +3918,44 @@
       "title": "global_indicators.3-6-1-title"
     },
     {
+      "path": "3-5-7/data.csv",
+      "name": "3-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RS",
+                "FBIH",
+                "BD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-7-title"
+    },
+    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -3817,116 +4007,6 @@
         ]
       },
       "title": "global_indicators.6-3-1-title"
-    },
-    {
-      "path": "3-5-7/data.csv",
-      "name": "3-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-7-title"
-    },
-    {
-      "path": "3-5-5/data.csv",
-      "name": "3-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-5-title"
-    },
-    {
-      "path": "3-5-6/data.csv",
-      "name": "3-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-6-title"
-    },
-    {
-      "path": "3-5-4/data.csv",
-      "name": "3-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-4-title"
-    },
-    {
-      "path": "3-5-3/data.csv",
-      "name": "3-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-3-title"
     }
   ]
 }

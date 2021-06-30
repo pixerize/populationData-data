@@ -12,8 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Република Српска",
+                "Федерација БиХ",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
           },
           {
             "name": "Value",
