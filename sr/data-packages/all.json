@@ -4272,7 +4272,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
                 "Република Српска",
                 "FBiH",
                 "Брчко Дистрикт БиХ",
@@ -4283,7 +4282,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

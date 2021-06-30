@@ -25,7 +25,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
                 "Republika Srpska",
                 "FBiH",
                 "Brčko Distrikt BiH",
@@ -36,7 +35,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
