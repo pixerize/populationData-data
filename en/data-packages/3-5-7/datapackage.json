@@ -17,6 +17,7 @@
               "enum": [
                 "",
                 "Brčko District of BiH",
+                "BiH",
                 "FBiH",
                 "Republika Srpska"
               ]
@@ -30,7 +31,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

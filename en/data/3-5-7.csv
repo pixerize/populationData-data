@@ -1,35 +1,43 @@
 Year,UNIT_MEASURE,Administrative area,Value
-1999,Number,Republika Srpska,3401.0
-2000,Number,Republika Srpska,3508.0
-2001,Number,Republika Srpska,3689.0
-2002,Number,Republika Srpska,3815.0
-2003,Number,Republika Srpska,3636.0
-2004,Number,Republika Srpska,3316.0
-2005,Number,Republika Srpska,3625.11
-2006,Number,Republika Srpska,3091.45
-2007,Number,FBiH,4656.72
-2007,Number,Republika Srpska,2680.96
-2008,Number,FBiH,4654.39
-2008,Number,Republika Srpska,2465.66
-2009,Number,FBiH,4416.16
-2009,Number,Republika Srpska,2281.68
-2010,Number,FBiH,4219.6
-2010,Number,Republika Srpska,2187.84
-2011,Number,FBiH,4531.53
-2011,Number,Republika Srpska,2156.36
-2012,Number,FBiH,3943.13
-2012,Number,Republika Srpska,2098.81
-2013,Number,FBiH,3514.59
-2013,Number,Republika Srpska,2081.09
-2014,Number,FBiH,3482.45
-2014,Number,Republika Srpska,2074.91
-2015,Number,FBiH,3468.57
-2015,Number,Republika Srpska,1704.05
-2016,Number,FBiH,3263.66
-2016,Number,Republika Srpska,1651.24
-2017,Number,FBiH,2994.82
-2017,Number,Republika Srpska,1723.49
-2018,Number,FBiH,2752.17
-2018,Number,Republika Srpska,1713.29
-2019,Number,FBiH,2508.7
-2018,Number,Brčko District of BiH,2774.47
+2005,Number,BiH,421
+2005,Number,Republika Srpska,421
+2006,Number,BiH,409
+2006,Number,Republika Srpska,409
+2007,Number,BiH,797
+2007,Number,FBiH,797
+2008,Number,BiH,1235
+2008,Number,FBiH,818
+2008,Number,Republika Srpska,417
+2009,Number,BiH,1226
+2009,Number,FBiH,820
+2009,Number,Republika Srpska,406
+2010,Number,BiH,1226
+2010,Number,FBiH,831
+2010,Number,Republika Srpska,395
+2011,Number,BiH,1224
+2011,Number,FBiH,834
+2011,Number,Republika Srpska,390
+2012,Number,BiH,1244
+2012,Number,FBiH,847
+2012,Number,Republika Srpska,397
+2013,Number,BiH,1132
+2013,Number,FBiH,755
+2013,Number,Republika Srpska,377
+2014,Number,BiH,1116
+2014,Number,FBiH,737
+2014,Number,Republika Srpska,379
+2015,Number,BiH,1088
+2015,Number,FBiH,717
+2015,Number,Republika Srpska,371
+2016,Number,BiH,1075
+2016,Number,FBiH,704
+2016,Number,Republika Srpska,371
+2017,Number,BiH,1050
+2017,Number,FBiH,687
+2017,Number,Republika Srpska,363
+2018,Number,BiH,1063
+2018,Number,FBiH,689
+2018,Number,Republika Srpska,371
+2019,Number,BiH,701
+2019,Number,FBiH,701
+2018,Number,Brčko District of BiH,3
