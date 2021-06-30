@@ -29,17 +29,17 @@
             "title": "SEX"
           },
           {
-            "name": "BIRTHS_AND_DEATHS",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "live_births",
-                "deaths",
-                "natural_increase",
+                "Live birth",
+                "Deaths",
+                "Natural change",
                 ""
               ]
             },
-            "title": "BIRTHS_AND_DEATHS"
+            "title": "Births"
           },
           {
             "name": "UNIT_MEASURE",

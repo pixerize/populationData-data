@@ -27,13 +27,13 @@
             }
           },
           {
-            "name": "BIRTHS_AND_DEATHS",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "live_births",
-                "deaths",
-                "natural_increase",
+                "LIVE_BIRTH",
+                "DEATHS",
+                "NATURAL_CHANGE",
                 ""
               ]
             }

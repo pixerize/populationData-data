@@ -1,100 +1,100 @@
-Year,Sex,Births and deaths,UNIT_MEASURE,Value
+Year,Sex,Vital statistics,UNIT_MEASURE,Value
 2020,Both sexes,Live births,Number,14312.78
 2020,Both sexes,Deaths,Number,18449.39
-2020,Both sexes,Natural increase,Number,-4136.61
+2020,Both sexes,Natural change,Number,-4136.61
 2025,Both sexes,Live births,Number,12653.45
 2025,Both sexes,Deaths,Number,19263.68
-2025,Both sexes,Natural increase,Number,-6610.23
+2025,Both sexes,Natural change,Number,-6610.23
 2030,Both sexes,Live births,Number,11065.26
 2030,Both sexes,Deaths,Number,20122.9
-2030,Both sexes,Natural increase,Number,-9057.64
+2030,Both sexes,Natural change,Number,-9057.64
 2035,Both sexes,Live births,Number,9720.12
 2035,Both sexes,Deaths,Number,21034.49
-2035,Both sexes,Natural increase,Number,-11314.37
+2035,Both sexes,Natural change,Number,-11314.37
 2040,Both sexes,Live births,Number,8776.05
 2040,Both sexes,Deaths,Number,21877.98
-2040,Both sexes,Natural increase,Number,-13101.93
+2040,Both sexes,Natural change,Number,-13101.93
 2045,Both sexes,Live births,Number,7983.76
 2045,Both sexes,Deaths,Number,22409.28
-2045,Both sexes,Natural increase,Number,-14425.52
+2045,Both sexes,Natural change,Number,-14425.52
 2050,Both sexes,Live births,Number,7253.33
 2050,Both sexes,Deaths,Number,22341.66
-2050,Both sexes,Natural increase,Number,-15088.33
+2050,Both sexes,Natural change,Number,-15088.33
 2055,Both sexes,Live births,Number,6552.43
 2055,Both sexes,Deaths,Number,21791.64
-2055,Both sexes,Natural increase,Number,-15239.21
+2055,Both sexes,Natural change,Number,-15239.21
 2060,Both sexes,Live births,Number,5878.35
 2060,Both sexes,Deaths,Number,20921.08
-2060,Both sexes,Natural increase,Number,-15042.73
+2060,Both sexes,Natural change,Number,-15042.73
 2065,Both sexes,Live births,Number,5267.66
 2065,Both sexes,Deaths,Number,19944.35
-2065,Both sexes,Natural increase,Number,-14676.69
+2065,Both sexes,Natural change,Number,-14676.69
 2070,Both sexes,Live births,Number,4759.53
 2070,Both sexes,Deaths,Number,18903.51
-2070,Both sexes,Natural increase,Number,-14143.98
+2070,Both sexes,Natural change,Number,-14143.98
 2020,M,Live births,Number,15198.1
 2020,M,Deaths,Number,19067.38
-2020,M,Natural increase,Number,-3869.28
+2020,M,Natural change,Number,-3869.28
 2025,M,Live births,Number,13436.14
 2025,M,Deaths,Number,19749.42
-2025,M,Natural increase,Number,-6313.28
+2025,M,Natural change,Number,-6313.28
 2030,M,Live births,Number,11749.71
 2030,M,Deaths,Number,20415.9
-2030,M,Natural increase,Number,-8666.19
+2030,M,Natural change,Number,-8666.19
 2035,M,Live births,Number,10321.36
 2035,M,Deaths,Number,21109.52
-2035,M,Natural increase,Number,-10788.16
+2035,M,Natural change,Number,-10788.16
 2040,M,Live births,Number,9318.9
 2040,M,Deaths,Number,21636.31
-2040,M,Natural increase,Number,-12317.42
+2040,M,Natural change,Number,-12317.42
 2045,M,Live births,Number,8477.6
 2045,M,Deaths,Number,21687.35
-2045,M,Natural increase,Number,-13209.75
+2045,M,Natural change,Number,-13209.75
 2050,M,Live births,Number,7701.99
 2050,M,Deaths,Number,21195.41
-2050,M,Natural increase,Number,-13493.42
+2050,M,Natural change,Number,-13493.42
 2055,M,Live births,Number,6957.74
 2055,M,Deaths,Number,20338.32
-2055,M,Natural increase,Number,-13380.59
+2055,M,Natural change,Number,-13380.59
 2060,M,Live births,Number,6241.95
 2060,M,Deaths,Number,19207.75
-2060,M,Natural increase,Number,-12965.8
+2060,M,Natural change,Number,-12965.8
 2065,M,Live births,Number,5593.5
 2065,M,Deaths,Number,17838.31
-2065,M,Natural increase,Number,-12244.81
+2065,M,Natural change,Number,-12244.81
 2070,M,Live births,Number,5053.93
 2070,M,Deaths,Number,16375.72
-2070,M,Natural increase,Number,-11321.79
+2070,M,Natural change,Number,-11321.79
 2020,F,Live births,Number,14312.78
 2020,F,Deaths,Number,18449.39
-2020,F,Natural increase,Number,-4136.61
+2020,F,Natural change,Number,-4136.61
 2025,F,Live births,Number,12653.45
 2025,F,Deaths,Number,19263.68
-2025,F,Natural increase,Number,-6610.23
+2025,F,Natural change,Number,-6610.23
 2030,F,Live births,Number,11065.26
 2030,F,Deaths,Number,20122.9
-2030,F,Natural increase,Number,-9057.64
+2030,F,Natural change,Number,-9057.64
 2035,F,Live births,Number,9720.12
 2035,F,Deaths,Number,21034.49
-2035,F,Natural increase,Number,-11314.37
+2035,F,Natural change,Number,-11314.37
 2040,F,Live births,Number,8776.05
 2040,F,Deaths,Number,21877.98
-2040,F,Natural increase,Number,-13101.93
+2040,F,Natural change,Number,-13101.93
 2045,F,Live births,Number,7983.76
 2045,F,Deaths,Number,22409.28
-2045,F,Natural increase,Number,-14425.52
+2045,F,Natural change,Number,-14425.52
 2050,F,Live births,Number,7253.33
 2050,F,Deaths,Number,22341.66
-2050,F,Natural increase,Number,-15088.33
+2050,F,Natural change,Number,-15088.33
 2055,F,Live births,Number,6552.43
 2055,F,Deaths,Number,21791.64
-2055,F,Natural increase,Number,-15239.21
+2055,F,Natural change,Number,-15239.21
 2060,F,Live births,Number,5878.35
 2060,F,Deaths,Number,20921.08
-2060,F,Natural increase,Number,-15042.73
+2060,F,Natural change,Number,-15042.73
 2065,F,Live births,Number,5267.66
 2065,F,Deaths,Number,19944.35
-2065,F,Natural increase,Number,-14676.69
+2065,F,Natural change,Number,-14676.69
 2070,F,Live births,Number,4759.53
 2070,F,Deaths,Number,18903.51
-2070,F,Natural increase,Number,-14143.98
+2070,F,Natural change,Number,-14143.98
