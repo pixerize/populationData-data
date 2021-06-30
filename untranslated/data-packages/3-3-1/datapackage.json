@@ -15,69 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "MICS_INDICATORS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "contraceptive_prevalence_rate_(total)",
-                "skilled_attendant_at_delivery",
-                "contraceptive_prevalence_rate_(traditional_methods)",
-                "contraceptive_prevalence_rate_(modern_methods)",
-                "accepting_attitudes_towards_people_living_with_hiv_(women_15-49)",
-                "unmet_need_for_family_planning",
-                "satisfied_demand_for_family_planning",
-                "institutional_deliveries",
-                "marriage_before_age_15_(women_15-49)",
-                "marriage_before_age_18_(women_20-49)",
-                "young_women_aged_15-19_years_currently_married_or_in_union",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-49)",
-                "sex_with_non-regular_partners_(women_15-24)",
-                "condom_use_with_non-regular_partners_(women_15-24)",
-                "sex_before_age_15_(women_15-19-24)",
-                "marriage_before_age_15_(men_15-49)",
-                "marriage_before_age_18_(men_20-49)",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-24)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-24)",
-                "accepting_attitudes_towards_people_living_with_hiv_(men_15-49)",
-                "women_aged_15-24_who_have_never_had_sex_",
-                "men_aged_15-24_who_have_never_had_sex_",
-                "sex_before_age_15_(men_15-24)",
-                "sex_with_multiple_partners_(women_15-49)",
-                "sex_with_multiple_partners_(men_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(women_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(men_15-49)",
-                "sex_with_non-regular_partners_(men_15-24)",
-                "condom_use_with_non-regular_partners_(men_15-24)",
-                "life_satisfaction_(women_15-24)",
-                "life_satisfaction_(men_15-24)",
-                "happiness_(women_15-24)",
-                "happiness_(men_15-24)",
-                "tobacco_use_(women_15-49)",
-                "tobacco_use_(men_15-49)",
-                "alcohol_use_(women_15-49)",
-                "alcohol_use_(men_15-49)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MICS 1",
-                "MICS 3",
-                "MICS 4 ",
-                ""
-              ]
-            }
           },
           {
             "name": "Entity",
@@ -87,7 +26,6 @@
                 "BiH",
                 "FBiH",
                 "RS",
-                "BD",
                 ""
               ]
             }

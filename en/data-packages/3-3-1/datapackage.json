@@ -16,76 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
                 "BiH",
                 "FBiH",
                 "Republika Srpska"
               ]
             },
             "title": "Administrative area"
-          },
-          {
-            "name": "MICS_INDICATORS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Accepting attitudes towards people living with HIV (men 15-49)",
-                "Accepting attitudes towards people living with HIV (women 15-49)",
-                "Alcohol use (men 15-49)",
-                "Alcohol use (women 15-49)",
-                "Comprehensive knowledge about HIV prevention (men 15-24)",
-                "Comprehensive knowledge about HIV prevention (men 15-49)",
-                "Comprehensive knowledge about HIV prevention (women 15-24)",
-                "Comprehensive knowledge about HIV prevention (women 15-49)",
-                "Condom use during sex with multiple partners (men 15-49)",
-                "Condom use during sex with multiple partners (women 15-49)",
-                "Condom use with non-regular partners (men 15-24)",
-                "Condom use with non-regular partners (women 15-24)",
-                "Contraceptive prevalence rate (modern methods)",
-                "Contraceptive prevalence rate (total)",
-                "Contraceptive prevalence rate (traditional methods)",
-                "Happiness (women 15-24)",
-                "Happiness (women 15-24)",
-                "Husband/partner has the right to hit or beat his wife/partner (men 15-49)",
-                "Husband/partner has the right to hit or beat his wife/partner (women 15-49)",
-                "Institutional deliveries",
-                "Life satisfaction (men 15-24)",
-                "Life satisfaction (women 15-24)",
-                "Marriage before age 15 (men 15-49)",
-                "Marriage before age 15 (women 15-49)",
-                "Marriage before age 18 (women 20-49)",
-                "Marriage before age 18 (women 20-49)",
-                "Men aged 15-24 who have never had sex",
-                "Satisfied demand for family planning",
-                "Sex before age 15 (men 15-24)",
-                "Sex before age 15 (women 15-19-24)",
-                "Sex with multiple partners (men 15-49)",
-                "Sex with multiple partners (women 15-49)",
-                "Sex with non-regular partners (men 15-24)",
-                "Sex with non-regular partners (women 15-24)",
-                "Skilled attendant at delivery",
-                "Tobacco use (men 15-49)",
-                "Tobacco use (women 15-49)",
-                "Unmet need for family planning",
-                "Women aged 15-24 who have never had sex",
-                "Young women aged 15-19 years currently married or in union"
-              ]
-            },
-            "title": "MICS Indicators"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "MICS 1",
-                "MICS 3",
-                "MICS 4 "
-              ]
-            },
-            "title": "Mics Number"
           },
           {
             "name": "UNIT_MEASURE",
