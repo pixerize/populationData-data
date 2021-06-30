@@ -11,13 +11,30 @@
       "schema": {
         "fields": [
           {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "FBiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

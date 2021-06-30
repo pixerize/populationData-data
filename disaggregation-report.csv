@@ -4,7 +4,7 @@ BIRTHS,Vital statistics,Births,Births,Births,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,2,23
 EDUCATION,Educational level,EDUCATION,EDUCATION,EDUCATION,1,8
 ENROLMENT,Type of educational institution,ENROLMENT,ENROLMENT,ENROLMENT,1,4
-Entity,Administrative area,Entitet,Ентитет,Entitet,38,6
+Entity,Administrative area,Entitet,Ентитет,Entitet,39,6
 FORM_OF_VIOLENCE,Form of violence,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,FORM_OF_VIOLENCE,1,36
 MICS_INDICATORS,MICS Indicators,MICS_INDICATORS,MICS_INDICATORS,MICS_INDICATORS,1,40
 MICS_NUMBER,Mics Number,MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,1,3
@@ -12,6 +12,6 @@ Municipality,Municipality,Municipality,Municipality,Municipality,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,1,8
 SEX,Sex,Spol,Пол,Spol,34,3
 SURVEY_IMPLEMENTED_BY,Survey implemented by,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,SURVEY_IMPLEMENTED_BY,1,2
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,64,12
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,65,12
 UNIT_MEASUREMENT,Unit of measurement,UNIT_MEASUREMENT,UNIT_MEASUREMENT,UNIT_MEASUREMENT,2,4
 Year.1,Year.1,Year.1,Year.1,Year.1,1,24

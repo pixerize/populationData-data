@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FBiH",
+                "RS",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
