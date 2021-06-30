@@ -2240,7 +2240,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBIH",
+                "FBiH",
                 "BD",
                 ""
               ]
