@@ -3672,8 +3672,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "BiH",
                 "RS",
-                "FBIH",
+                "FBiH",
                 "BD",
                 ""
               ]
@@ -3681,7 +3682,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
