@@ -91,7 +91,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2005,symptoms_signs_and_abnormal,NUMBER,62.29508197
 2005,injuries_poisoning_and_consequences,NUMBER,24.7723133
 2005,estimated_number_of_population,NUMBER,159
-2005,infectious_and_parasitic,NUMBER,159
 2005,neoplasms,NUMBER,3.140
 2005,diseases_of_the_blood,NUMBER,22
 2005,endocrine_metabolic_and_nutritional,NUMBER,1.141
