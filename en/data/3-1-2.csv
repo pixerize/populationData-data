@@ -92,25 +92,11 @@ Year,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2005,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,24.7723133
 2005,Estimated number of population,Number,159.0
 2005,"(C00-C97,D00-D48) Neoplasms",Number,3.14
-2005,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22.0
-2005,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1.141
-2005,(F00-F99) Mental and behavioural disorders,Number,51.0
-2005,(G00-G99) Diseases of the nervous system,Number,202.0
-2005,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1.0
 2005,(I00-I99) Diseases of the circulatory system,Number,10.192
 2005,(J00-J99) Diseases of the respiratory system,Number,512.0
 2005,(K00-K93) Diseases of the digestive system,Number,390.0
-2005,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,7.0
-2005,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,39.0
-2005,(N00-N99) Diseases of the genitourinary system,Number,298.0
-2005,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3.0
-2005,(P00-P96) Certain conditions originating in the perinatal period,Number,44.0
-2005,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,14.0
-2005,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,598.0
-2005,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,237.0
-2005,(V01-Y98) External causes of mortality,Number,331.0
-2005,(Z00-Z99) Factors influencing health status and contract with health services,Number,17381.0
-2005,Unknown,Number,268.0
+2005,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,62.3
+2005,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,24.77
 2006,Estimated number of population,Number,3843000.0
 2006,(A00-B99) Infectious and parasitic diseases,Number,6.167056987
 2006,"(C00-C97,D00-D48) Neoplasms",Number,163.0

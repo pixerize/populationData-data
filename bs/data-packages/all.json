@@ -3,145 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
-                ""
-              ]
-            },
-            "title": "ENROLMENT"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-2-title"
-    },
-    {
-      "path": "6-1-2/data.csv",
-      "name": "6-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.6-1-2-title"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp949",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio stanovništva koje koristi (a) sanitarne usluge kojima se sigurno upravlja i (b) pranje ruku sapunom i vodom"
-    },
-    {
       "path": "1-5-2/data.csv",
       "name": "1-5-2",
       "profile": "tabular-data-resource",
@@ -196,6 +57,245 @@
         ]
       },
       "title": "Direktni ekonomski gubitak uzrokovan nesrećama u odnosu na globalni bruto domaći proizvod (BDP)"
+    },
+    {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-1-title"
+    },
+    {
+      "path": "5-1-5/data.csv",
+      "name": "5-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-5-title"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Live birth",
+                "Deaths",
+                "Natural change",
+                ""
+              ]
+            },
+            "title": "Births"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio stanovništva koja živi ispod nacionalne linije siromaštva, po polu i starosti"
+    },
+    {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "0-18",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-119",
+                "120+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Rasprostranjenost umjerene ili ozbiljne prehrambene nesigurnosti među stanovništvom, na osnovu Skale iskustva u pogledu nesigurnosti hrane (FIES)"
     },
     {
       "path": "1-4-2/data.csv",
@@ -401,169 +501,8 @@
       "title": "Rasprostranjenot podhranjenosti"
     },
     {
-      "path": "1-1-6/data.csv",
-      "name": "1-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-6-title"
-    },
-    {
-      "path": "1-1-3/data.csv",
-      "name": "1-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                "Unknown",
-                "Total",
-                "0-14",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-3-title"
-    },
-    {
-      "path": "2-1-7/data.csv",
-      "name": "2-1-7",
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -601,134 +540,11 @@
           }
         ]
       },
-      "title": "2-1-7"
+      "title": "2-1-5"
     },
     {
-      "path": "5-1-4/data.csv",
-      "name": "5-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_ALL",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-4-title"
-    },
-    {
-      "path": "5-1-3/data.csv",
-      "name": "5-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-3-title"
-    },
-    {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
+      "path": "1-8-4/data.csv",
+      "name": "1-8-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -767,69 +583,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-1-title"
+      "title": "global_indicators.1-8-4-title"
     },
     {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode"
-    },
-    {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
+      "path": "1-4-4/data.csv",
+      "name": "1-4-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -862,138 +620,13 @@
             "title": "Entitet"
           },
           {
-            "name": "UNIT_MEASUREMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
-                ""
-              ]
-            },
-            "title": "UNIT_MEASUREMENT"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Procenat stanovništva pokrivenih sistemima socijalne zaštite, po polu, razlikovanju djece, nezaposlenih lica, starijih osoba, osoba sa invaliditetom, trudnica, novorođenčadi, žrtava povrede na radu i siromašnih i ranjivih"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava"
-    },
-    {
-      "path": "6-1-3/data.csv",
-      "name": "6-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.6-1-3-title"
+      "title": "global_indicators.1-4-4-title"
     },
     {
       "path": "1-4-5/data.csv",
@@ -1085,1874 +718,6 @@
         ]
       },
       "title": "global_indicators.1-4-5-title"
-    },
-    {
-      "path": "6-2-2/data.csv",
-      "name": "6-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.6-2-2-title"
-    },
-    {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Live birth",
-                "Deaths",
-                "Natural change",
-                ""
-              ]
-            },
-            "title": "Births"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "2-1-4"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio stanovništva koji koristi usluge bezbijednog upravljanja pitkom vodom"
-    },
-    {
-      "path": "1-6-2/data.csv",
-      "name": "1-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-6-2-title"
-    },
-    {
-      "path": "1-7-1/data.csv",
-      "name": "1-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-7-1-title"
-    },
-    {
-      "path": "1-1-4/data.csv",
-      "name": "1-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                "Unknown",
-                "Total",
-                "0-14",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-4-title"
-    },
-    {
-      "path": "1-4-4/data.csv",
-      "name": "1-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-4-title"
-    },
-    {
-      "path": "1-6-3/data.csv",
-      "name": "1-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-6-3-title"
-    },
-    {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-14",
-                "0-18",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-119",
-                "120+",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Rasprostranjenost umjerene ili ozbiljne prehrambene nesigurnosti među stanovništvom, na osnovu Skale iskustva u pogledu nesigurnosti hrane (FIES)"
-    },
-    {
-      "path": "1-8-3/data.csv",
-      "name": "1-8-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-8-3-title"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "Ukupno",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                ""
-              ]
-            },
-            "title": "CAUSE_OF_DEATH"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa smrtnosti majki"
-    },
-    {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "GRAND_TOTAL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3531159",
-                ""
-              ]
-            },
-            "title": "GRAND_TOTAL"
-          },
-          {
-            "name": "PERSON_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "persons_with_disabilities",
-                "persons_without_disabilities",
-                "status_unknown",
-                ""
-              ]
-            },
-            "title": "PERSON_STATUS"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Pokrivanje intervencijskih tretmana (farmakološke, psihosocijalne,rehabilitacione i naknadne usluge) za poremećaje upotrebe supstanci"
-    },
-    {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "MICS_INDICATORS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "contraceptive_prevalence_rate_(total)",
-                "skilled_attendant_at_delivery",
-                "contraceptive_prevalence_rate_(traditional_methods)",
-                "contraceptive_prevalence_rate_(modern_methods)",
-                "accepting_attitudes_towards_people_living_with_hiv_(women_15-49)",
-                "unmet_need_for_family_planning",
-                "satisfied_demand_for_family_planning",
-                "institutional_deliveries",
-                "marriage_before_age_15_(women_15-49)",
-                "marriage_before_age_18_(women_20-49)",
-                "young_women_aged_15-19_years_currently_married_or_in_union",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-49)",
-                "sex_with_non-regular_partners_(women_15-24)",
-                "condom_use_with_non-regular_partners_(women_15-24)",
-                "sex_before_age_15_(women_15-19-24)",
-                "marriage_before_age_15_(men_15-49)",
-                "marriage_before_age_18_(men_20-49)",
-                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-49)",
-                "comprehensive_knowledge_about_hiv_prevention_(women_15-24)",
-                "comprehensive_knowledge_about_hiv_prevention_(men_15-24)",
-                "accepting_attitudes_towards_people_living_with_hiv_(men_15-49)",
-                "women_aged_15-24_who_have_never_had_sex_",
-                "men_aged_15-24_who_have_never_had_sex_",
-                "sex_before_age_15_(men_15-24)",
-                "sex_with_multiple_partners_(women_15-49)",
-                "sex_with_multiple_partners_(men_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(women_15-49)",
-                "condom_use_during_sex_with_multiple_partners_(men_15-49)",
-                "sex_with_non-regular_partners_(men_15-24)",
-                "condom_use_with_non-regular_partners_(men_15-24)",
-                "life_satisfaction_(women_15-24)",
-                "life_satisfaction_(men_15-24)",
-                "happiness_(women_15-24)",
-                "happiness_(men_15-24)",
-                "tobacco_use_(women_15-49)",
-                "tobacco_use_(men_15-49)",
-                "alcohol_use_(women_15-49)",
-                "alcohol_use_(men_15-49)",
-                ""
-              ]
-            },
-            "title": "MICS_INDICATORS"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MICS 1",
-                "MICS 3",
-                "MICS 4 ",
-                ""
-              ]
-            },
-            "title": "MICS_NUMBER"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj novih HIV infekcija na 1.000 neinficiranih stanovnika, po polu, starosti i ključnim populacijama"
-    },
-    {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-3-title"
-    },
-    {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj smrti, nestalih osoba i direktno pogođenih lica pripisanih katastrofama na 100.000 stanovnika"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio lokalnih samouprava koje usvajaju i sprovode strategije za smanjenje rizika od katastrofa u skladu sa nacionalnim strategijama za smanjenje rizika od katastrofa"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "health_indicators",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "number_of_new_cases_of_HIV",
-                "number_of_new_cases_of_HIV_per_100000_population",
-                "number_of_beds_in_hospitals",
-                "number_of_medical_doctors_providing_health_care_in_public_institutions",
-                "number_of_general_practitioners",
-                "number_of_beds_in_hospitals_per_100000_population",
-                "number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population",
-                "number_of_population_per_general_practitioner",
-                "number_of_new_cases_of_syphilis",
-                "number_of_new_cases_of_AIDS_clinically_diagnosed",
-                "number_of_new_cases_of_cervical_cancer",
-                "number_of_new_cases_of_female_breast_cancer",
-                "number_of_new_cases_of_gonorrhea",
-                "number_of_midwives",
-                "total_population_(as_per_Public_Health_Institute_or_NSO_reports)",
-                "male_population",
-                "female_population",
-                "number_of_new_cases_of_cervical_cancer_per_100000_female_population",
-                "number_of_new_cases_of_female_breast_cancer_per_100000",
-                "number_of_caesarean_sections",
-                "number_of_caesarean_sections_per_1000_live_births",
-                ""
-              ]
-            },
-            "title": "health_indicators"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "FBiH",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa smrtnosti ispod pet godina"
-    },
-    {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SOURCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
-                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
-                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
-                "drinking_fountain_connected_to_community_scheme",
-                "drinking_fountain_connected_to_own_pump_water_scheme",
-                "street_drinking_fountain",
-                "dug_well",
-                "drilled_(pipe)_well",
-                "artesian_well",
-                "regulated_water_spring",
-                "container_(water_tank)_",
-                "bottled_water_from_shop",
-                "other",
-                "Ukupno",
-                "public_sewage",
-                "closed_septic_tank",
-                "closed_septic_tank_with_overflow",
-                "other_arrangements",
-                "no_sewage",
-                "flush_toilet",
-                "no_flush_toilet",
-                "no_toilet",
-                ""
-              ]
-            },
-            "title": "SOURCE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, karcinomu, dijabetesu ili hroničnim respiratornim bolestima"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
-                ""
-              ]
-            },
-            "title": "EDUCATION"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola"
-    },
-    {
-      "path": "1-1-2/data.csv",
-      "name": "1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "10",
-                "11",
-                "12",
-                "13",
-                "14",
-                "15",
-                "16",
-                "17",
-                "18",
-                "19",
-                "20",
-                "21",
-                "22",
-                "23",
-                "24",
-                "25",
-                "26",
-                "27",
-                "28",
-                "29",
-                "30",
-                "31",
-                "32",
-                "33",
-                "34",
-                "35",
-                "36",
-                "37",
-                "38",
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44",
-                "45",
-                "46",
-                "47",
-                "48",
-                "49",
-                "50",
-                "51",
-                "52",
-                "53",
-                "54",
-                "55",
-                "56",
-                "57",
-                "58",
-                "59",
-                "60",
-                "61",
-                "62",
-                "63",
-                "64",
-                "65",
-                "66",
-                "67",
-                "68",
-                "69",
-                "70",
-                "71",
-                "72",
-                "73",
-                "74",
-                "75",
-                "76",
-                "77",
-                "78",
-                "79",
-                "80",
-                "81",
-                "82",
-                "83",
-                "84",
-                "85+",
-                "Unknown",
-                "Total",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-2-title"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj zemalja koje usvajaju i implementiraju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai Okvirom za smanjenje rizika od katastrofa 2015-2030"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "FORM_OF_VIOLENCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas",
-                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
-                "women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
-                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever)",
-                "women_who_have_experienced_economic_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months)",
-                ""
-              ]
-            },
-            "title": "FORM_OF_VIOLENCE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "SURVEY_IMPLEMENTED_BY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UN Women & UNFPA",
-                "OSCE",
-                ""
-              ]
-            },
-            "title": "SURVEY_IMPLEMENTED_BY"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
-    },
-    {
-      "path": "1-9-1/data.csv",
-      "name": "1-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
-                ""
-              ]
-            },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-9-1-title"
-    },
-    {
-      "path": "6-3-3/data.csv",
-      "name": "6-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.6-3-3-title"
-    },
-    {
-      "path": "5-1-5/data.csv",
-      "name": "5-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-5-title"
-    },
-    {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "2-1-6"
-    },
-    {
-      "path": "3-1-3/data.csv",
-      "name": "3-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
-                ""
-              ]
-            },
-            "title": "STILLBIRTH_RATE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-3-title"
-    },
-    {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "2-1-5"
-    },
-    {
-      "path": "1-8-1/data.csv",
-      "name": "1-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-8-1-title"
-    },
-    {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+",
-                "Total",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Potrošnja alkohola po stanovniku (starosti od 15 i više godina) u kalendarskoj godini u litrima čistog alkohola"
     },
     {
       "path": "1-1-1/data.csv",
@@ -3130,92 +895,6 @@
       "title": "Procenat stanovništva koji žive ispod međunarodne linije siromaštva po polu, starosti, statusu zaposlenja i geografskoj lokaciji (urbano/ruralno)"
     },
     {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio stanovništva koji žive u domaćinstvima sa pristupom osnovnim uslugama"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Udio muškaraca, žena i djece svih dobnih skupina koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama"
-    },
-    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -3256,7 +935,6 @@
                 "factors_influencing_health_status",
                 "unknown",
                 "diseases_of_the_musculoskeletal",
-                "pregnancy_childbirth_and_the",
                 ""
               ]
             },
@@ -3275,49 +953,6 @@
         ]
       },
       "title": "Udio poroda uz prisustvo kvalifikovanih zdravstvenih radnika"
-    },
-    {
-      "path": "1-8-4/data.csv",
-      "name": "1-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-8-4-title"
     },
     {
       "path": "1-8-2/data.csv",
@@ -3361,6 +996,320 @@
         ]
       },
       "title": "global_indicators.1-8-2-title"
+    },
+    {
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84",
+                "85+",
+                "Unknown",
+                "Total",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-2-title"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SOURCE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
+                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
+                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
+                "drinking_fountain_connected_to_community_scheme",
+                "drinking_fountain_connected_to_own_pump_water_scheme",
+                "street_drinking_fountain",
+                "dug_well",
+                "drilled_(pipe)_well",
+                "artesian_well",
+                "regulated_water_spring",
+                "container_(water_tank)_",
+                "bottled_water_from_shop",
+                "other",
+                "Ukupno",
+                "public_sewage",
+                "closed_septic_tank",
+                "closed_septic_tank_with_overflow",
+                "other_arrangements",
+                "no_sewage",
+                "flush_toilet",
+                "no_flush_toilet",
+                "no_toilet",
+                ""
+              ]
+            },
+            "title": "SOURCE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, karcinomu, dijabetesu ili hroničnim respiratornim bolestima"
+    },
+    {
+      "path": "6-1-3/data.csv",
+      "name": "6-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.6-1-3-title"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "incomplete_primary_education",
+                "primary_school",
+                "secondary_school",
+                "higher_school_and_first_grade_of_faculty",
+                "advanced_schools_faculty_academy_university",
+                "unknown",
+                "no_education",
+                "post_secondary_school_specialisation",
+                ""
+              ]
+            },
+            "title": "EDUCATION"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola"
     },
     {
       "path": "2-1-3/data.csv",
@@ -3642,8 +1591,50 @@
       "title": "global_indicators.1-1-5-title"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
+      "path": "2-1-6/data.csv",
+      "name": "2-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "2-1-6"
+    },
+    {
+      "path": "1-1-3/data.csv",
+      "name": "1-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3675,6 +1666,438 @@
             "title": "SEX"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                "Unknown",
+                "Total",
+                "0-14",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-3-title"
+    },
+    {
+      "path": "2-1-7/data.csv",
+      "name": "2-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "2-1-7"
+    },
+    {
+      "path": "1-1-6/data.csv",
+      "name": "1-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-6-title"
+    },
+    {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                "Total",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Potrošnja alkohola po stanovniku (starosti od 15 i više godina) u kalendarskoj godini u litrima čistog alkohola"
+    },
+    {
+      "path": "3-1-3/data.csv",
+      "name": "3-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "STILLBIRTH_RATE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_1000",
+                "number_of_stillbirths",
+                ""
+              ]
+            },
+            "title": "STILLBIRTH_RATE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.3-1-3-title"
+    },
+    {
+      "path": "6-3-3/data.csv",
+      "name": "6-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.6-3-3-title"
+    },
+    {
+      "path": "5-1-3/data.csv",
+      "name": "5-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-3-title"
+    },
+    {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
             "name": "Entity",
             "type": "string",
             "constraints": {
@@ -3687,6 +2110,1519 @@
               ]
             },
             "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio stanovništva koji žive u domaćinstvima sa pristupom osnovnim uslugama"
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp949",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio stanovništva koje koristi (a) sanitarne usluge kojima se sigurno upravlja i (b) pranje ruku sapunom i vodom"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio stanovništva koji koristi usluge bezbijednog upravljanja pitkom vodom"
+    },
+    {
+      "path": "6-2-2/data.csv",
+      "name": "6-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.6-2-2-title"
+    },
+    {
+      "path": "6-1-2/data.csv",
+      "name": "6-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.6-1-2-title"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "ENROLMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "enrolment_in_pre_school",
+                "enrolment_in_primary_school_education",
+                "enrolment_in_high_school_education",
+                "enrolment_in_higher_education",
+                ""
+              ]
+            },
+            "title": "ENROLMENT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-2-title"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Broj smrti, nestalih osoba i direktno pogođenih lica pripisanih katastrofama na 100.000 stanovnika"
+    },
+    {
+      "path": "1-1-4/data.csv",
+      "name": "1-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Unknown",
+                "Total",
+                "0-14",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-4-title"
+    },
+    {
+      "path": "1-8-1/data.csv",
+      "name": "1-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-1-title"
+    },
+    {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_ALL",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-4-title"
+    },
+    {
+      "path": "1-8-3/data.csv",
+      "name": "1-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-3-title"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio lokalnih samouprava koje usvajaju i sprovode strategije za smanjenje rizika od katastrofa u skladu sa nacionalnim strategijama za smanjenje rizika od katastrofa"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "CAUSE_OF_DEATH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "Ukupno",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "pregnancy_childbirth_and_the",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
+                ""
+              ]
+            },
+            "title": "CAUSE_OF_DEATH"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa smrtnosti majki"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASUREMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                ""
+              ]
+            },
+            "title": "UNIT_MEASUREMENT"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Procenat stanovništva pokrivenih sistemima socijalne zaštite, po polu, razlikovanju djece, nezaposlenih lica, starijih osoba, osoba sa invaliditetom, trudnica, novorođenčadi, žrtava povrede na radu i siromašnih i ranjivih"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "MICS_INDICATORS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "contraceptive_prevalence_rate_(total)",
+                "skilled_attendant_at_delivery",
+                "contraceptive_prevalence_rate_(traditional_methods)",
+                "contraceptive_prevalence_rate_(modern_methods)",
+                "accepting_attitudes_towards_people_living_with_hiv_(women_15-49)",
+                "unmet_need_for_family_planning",
+                "satisfied_demand_for_family_planning",
+                "institutional_deliveries",
+                "marriage_before_age_15_(women_15-49)",
+                "marriage_before_age_18_(women_20-49)",
+                "young_women_aged_15-19_years_currently_married_or_in_union",
+                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49)",
+                "comprehensive_knowledge_about_hiv_prevention_(women_15-49)",
+                "sex_with_non-regular_partners_(women_15-24)",
+                "condom_use_with_non-regular_partners_(women_15-24)",
+                "sex_before_age_15_(women_15-19-24)",
+                "marriage_before_age_15_(men_15-49)",
+                "marriage_before_age_18_(men_20-49)",
+                "husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49)",
+                "comprehensive_knowledge_about_hiv_prevention_(men_15-49)",
+                "comprehensive_knowledge_about_hiv_prevention_(women_15-24)",
+                "comprehensive_knowledge_about_hiv_prevention_(men_15-24)",
+                "accepting_attitudes_towards_people_living_with_hiv_(men_15-49)",
+                "women_aged_15-24_who_have_never_had_sex_",
+                "men_aged_15-24_who_have_never_had_sex_",
+                "sex_before_age_15_(men_15-24)",
+                "sex_with_multiple_partners_(women_15-49)",
+                "sex_with_multiple_partners_(men_15-49)",
+                "condom_use_during_sex_with_multiple_partners_(women_15-49)",
+                "condom_use_during_sex_with_multiple_partners_(men_15-49)",
+                "sex_with_non-regular_partners_(men_15-24)",
+                "condom_use_with_non-regular_partners_(men_15-24)",
+                "life_satisfaction_(women_15-24)",
+                "life_satisfaction_(men_15-24)",
+                "happiness_(women_15-24)",
+                "happiness_(men_15-24)",
+                "tobacco_use_(women_15-49)",
+                "tobacco_use_(men_15-49)",
+                "alcohol_use_(women_15-49)",
+                "alcohol_use_(men_15-49)",
+                ""
+              ]
+            },
+            "title": "MICS_INDICATORS"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "MICS_NUMBER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MICS 1",
+                "MICS 3",
+                "MICS 4 ",
+                ""
+              ]
+            },
+            "title": "MICS_NUMBER"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Broj novih HIV infekcija na 1.000 neinficiranih stanovnika, po polu, starosti i ključnim populacijama"
+    },
+    {
+      "path": "1-9-1/data.csv",
+      "name": "1-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "single_household",
+                "2_members",
+                "3_members",
+                "4_members",
+                "5_members",
+                "6_members",
+                "7_members",
+                "8+_members",
+                ""
+              ]
+            },
+            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-9-1-title"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio muškaraca, žena i djece svih dobnih skupina koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama"
+    },
+    {
+      "path": "1-6-2/data.csv",
+      "name": "1-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-2-title"
+    },
+    {
+      "path": "1-7-1/data.csv",
+      "name": "1-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-7-1-title"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number_of_new_cases_of_HIV",
+                "number_of_new_cases_of_HIV_per_100000_population",
+                "number_of_beds_in_hospitals",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions",
+                "number_of_general_practitioners",
+                "number_of_beds_in_hospitals_per_100000_population",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population",
+                "number_of_population_per_general_practitioner",
+                "number_of_new_cases_of_syphilis",
+                "number_of_new_cases_of_AIDS_clinically_diagnosed",
+                "number_of_new_cases_of_cervical_cancer",
+                "number_of_new_cases_of_female_breast_cancer",
+                "number_of_new_cases_of_gonorrhea",
+                "number_of_midwives",
+                "total_population_(as_per_Public_Health_Institute_or_NSO_reports)",
+                "male_population",
+                "female_population",
+                "number_of_new_cases_of_cervical_cancer_per_100000_female_population",
+                "number_of_new_cases_of_female_breast_cancer_per_100000",
+                "number_of_caesarean_sections",
+                "number_of_caesarean_sections_per_1000_live_births",
+                ""
+              ]
+            },
+            "title": "health_indicators"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "FBiH",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa smrtnosti ispod pet godina"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "FORM_OF_VIOLENCE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas",
+                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas",
+                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
+                "women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
+                "women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
+                "women_who_have_experienced_physical_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
+                "women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
+                "women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
+                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
+                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever)",
+                "women_who_have_experienced_economic_violence_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months)",
+                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
+                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
+                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever)",
+                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
+                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
+                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
+                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever)",
+                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months)",
+                ""
+              ]
+            },
+            "title": "FORM_OF_VIOLENCE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "SURVEY_IMPLEMENTED_BY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN Women & UNFPA",
+                "OSCE",
+                ""
+              ]
+            },
+            "title": "SURVEY_IMPLEMENTED_BY"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
+    },
+    {
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-3-title"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "GRAND_TOTAL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3531159",
+                ""
+              ]
+            },
+            "title": "GRAND_TOTAL"
+          },
+          {
+            "name": "PERSON_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "persons_with_disabilities",
+                "persons_without_disabilities",
+                "status_unknown",
+                ""
+              ]
+            },
+            "title": "PERSON_STATUS"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Pokrivanje intervencijskih tretmana (farmakološke, psihosocijalne,rehabilitacione i naknadne usluge) za poremećaje upotrebe supstanci"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Broj zemalja koje usvajaju i implementiraju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai Okvirom za smanjenje rizika od katastrofa 2015-2030"
+    },
+    {
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-3-title"
+    },
+    {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
           },
           {
             "name": "BIRTHS",
@@ -3702,13 +3638,76 @@
             "title": "Births"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Udio stanovništva koja živi ispod nacionalne linije siromaštva, po polu i starosti"
+      "title": "2-1-4"
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava"
     }
   ]
 }
