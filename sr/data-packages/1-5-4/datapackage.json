@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Пол"
           },
           {
             "name": "Entity",

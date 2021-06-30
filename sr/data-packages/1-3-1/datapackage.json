@@ -53,13 +53,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Пол"
           },
           {
             "name": "Value",

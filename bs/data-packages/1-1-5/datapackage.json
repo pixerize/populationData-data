@@ -177,13 +177,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Oba spola",
+                "Muškarci",
+                "Žene",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Spol"
           },
           {
             "name": "AGE",

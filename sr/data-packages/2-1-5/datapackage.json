@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Пол"
           },
           {
             "name": "UNIT_MEASURE",
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-5",
-  "title": "2-1-5"
+  "title": "global_indicators.2-1-5-title"
 }
