@@ -91,7 +91,6 @@ Year,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2005,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,62.29508197
 2005,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,24.7723133
 2005,Estimated number of population,Number,159.0
-2005,(A00-B99) Infectious and parasitic diseases,Number,159.0
 2005,"(C00-C97,D00-D48) Neoplasms",Number,3.14
 2005,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22.0
 2005,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1.141
