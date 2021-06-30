@@ -25,25 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
                 "Мушкарци",
                 "Жене",
+                "Оба пола",
                 ""
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
-                ""
-              ]
-            },
-            "title": "STILLBIRTH_RATE"
           },
           {
             "name": "Entity",

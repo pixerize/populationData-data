@@ -23,20 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per_1000",
-                "number_of_stillbirths",
+                "_T",
                 ""
               ]
             }

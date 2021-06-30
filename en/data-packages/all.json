@@ -1253,6 +1253,60 @@
       "title": "Real GDP growth"
     },
     {
+      "path": "3-1-4/data.csv",
+      "name": "3-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "FBiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-1-4"
+    },
+    {
       "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
@@ -1934,18 +1988,6 @@
             "title": "Sex"
           },
           {
-            "name": "STILLBIRTH_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number of stillbirths",
-                "(per 1,000 livebirths)"
-              ]
-            },
-            "title": "Stillbirth Rate"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -1962,7 +2004,7 @@
           }
         ]
       },
-      "title": "Stillbirths by sex"
+      "title": "Stillbirths"
     },
     {
       "path": "6-3-3/data.csv",
