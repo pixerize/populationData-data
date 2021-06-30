@@ -1893,13 +1893,14 @@
             "constraints": {
               "enum": [
                 "RS",
+                "FBIH",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
