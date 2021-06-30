@@ -2013,6 +2013,7 @@
             "constraints": {
               "enum": [
                 "",
+                "Brčko District of BiH",
                 "Federation of BiH",
                 "Republika Srpska"
               ]
