@@ -47,17 +47,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "FORM_OF_VIOLENCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Women who have experienced any form of violence after the age of 15 (ever)"
-              ]
-            },
-            "title": "Form of violence"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

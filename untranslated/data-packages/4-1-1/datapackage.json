@@ -41,16 +41,6 @@
             }
           },
           {
-            "name": "FORM_OF_VIOLENCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entity",
             "type": "string",
             "constraints": {
