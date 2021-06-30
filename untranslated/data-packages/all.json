@@ -3557,6 +3557,7 @@
             "constraints": {
               "enum": [
                 "BiH",
+                "RS",
                 ""
               ]
             }
