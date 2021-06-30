@@ -1304,7 +1304,7 @@
           }
         ]
       },
-      "title": "3-1-4"
+      "title": "Stilbirth rate"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2460,6 +2460,80 @@
       "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
     },
     {
+      "path": "3-2-4/data.csv",
+      "name": "3-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "FBiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female population",
+                "Male population",
+                "Number of beds in hospitals",
+                "Number of beds in hospitals per 100,000 population",
+                "Number of caesarean sections",
+                "Number of caesarean sections per 1,000 live births",
+                "Number of general practitioners",
+                "Number of medical doctors providing health care in public institutions",
+                "Number of medical doctors providing health care in public institutions per 100,000 population",
+                "Number of midwives",
+                "Number of new cases of AIDS clinically diagnosed",
+                "Number of new cases of HIV",
+                "Number of new cases of HIV per 100,000 population",
+                "Number of new cases of cervical cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of female breast cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of gonorrhea",
+                "Number of new cases of syphilis",
+                "Number of population per general practitioner",
+                "Total population (as per Public Health Institute or NSO reports)"
+              ]
+            },
+            "title": "Health indicators"
+          }
+        ]
+      },
+      "title": "3-2-4"
+    },
+    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -2944,6 +3018,154 @@
         ]
       },
       "title": "Dependency ratios by sex"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "FBiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female population",
+                "Male population",
+                "Number of beds in hospitals",
+                "Number of beds in hospitals per 100,000 population",
+                "Number of caesarean sections",
+                "Number of caesarean sections per 1,000 live births",
+                "Number of general practitioners",
+                "Number of medical doctors providing health care in public institutions",
+                "Number of medical doctors providing health care in public institutions per 100,000 population",
+                "Number of midwives",
+                "Number of new cases of AIDS clinically diagnosed",
+                "Number of new cases of HIV",
+                "Number of new cases of HIV per 100,000 population",
+                "Number of new cases of cervical cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of female breast cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of gonorrhea",
+                "Number of new cases of syphilis",
+                "Number of population per general practitioner",
+                "Total population (as per Public Health Institute or NSO reports)"
+              ]
+            },
+            "title": "Health indicators"
+          }
+        ]
+      },
+      "title": "3-2-2"
+    },
+    {
+      "path": "3-2-3/data.csv",
+      "name": "3-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "FBiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female population",
+                "Male population",
+                "Number of beds in hospitals",
+                "Number of beds in hospitals per 100,000 population",
+                "Number of caesarean sections",
+                "Number of caesarean sections per 1,000 live births",
+                "Number of general practitioners",
+                "Number of medical doctors providing health care in public institutions",
+                "Number of medical doctors providing health care in public institutions per 100,000 population",
+                "Number of midwives",
+                "Number of new cases of AIDS clinically diagnosed",
+                "Number of new cases of HIV",
+                "Number of new cases of HIV per 100,000 population",
+                "Number of new cases of cervical cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of female breast cancer",
+                "Number of new cases of female breast cancer per 100,000 female population",
+                "Number of new cases of gonorrhea",
+                "Number of new cases of syphilis",
+                "Number of population per general practitioner",
+                "Total population (as per Public Health Institute or NSO reports)"
+              ]
+            },
+            "title": "Health indicators"
+          }
+        ]
+      },
+      "title": "3-2-3"
     },
     {
       "path": "3-3-1/data.csv",

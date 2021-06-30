@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "health_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number_of_new_cases_of_HIV",
+                "number_of_new_cases_of_HIV_per_100000_population",
+                "number_of_beds_in_hospitals",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions",
+                "number_of_general_practitioners",
+                "number_of_beds_in_hospitals_per_100000_population",
+                "number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population",
+                "number_of_population_per_general_practitioner",
+                "number_of_new_cases_of_syphilis",
+                "number_of_new_cases_of_AIDS_clinically_diagnosed",
+                "number_of_new_cases_of_cervical_cancer",
+                "number_of_new_cases_of_female_breast_cancer",
+                "number_of_new_cases_of_gonorrhea",
+                "number_of_midwives",
+                "total_population_(as_per_Public_Health_Institute_or_NSO_reports)",
+                "male_population",
+                "female_population",
+                "number_of_new_cases_of_cervical_cancer_per_100000_female_population",
+                "number_of_new_cases_of_female_breast_cancer_per_100000",
+                "number_of_caesarean_sections",
+                "number_of_caesarean_sections_per_1000_live_births",
+                ""
+              ]
+            },
+            "title": "health_indicators"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Република Српска",
+                "FBiH",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-4",
+  "title": "3-2-4"
+}
