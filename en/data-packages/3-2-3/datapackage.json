@@ -16,7 +16,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
                 "BiH",
                 "FBiH",
                 "Republika Srpska"
@@ -38,37 +37,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "health_indicators",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female population",
-                "Male population",
-                "Number of beds in hospitals",
-                "Number of beds in hospitals per 100,000 population",
-                "Number of caesarean sections",
-                "Number of caesarean sections per 1,000 live births",
-                "Number of general practitioners",
-                "Number of medical doctors providing health care in public institutions",
-                "Number of medical doctors providing health care in public institutions per 100,000 population",
-                "Number of midwives",
-                "Number of new cases of AIDS clinically diagnosed",
-                "Number of new cases of HIV",
-                "Number of new cases of HIV per 100,000 population",
-                "Number of new cases of cervical cancer",
-                "Number of new cases of female breast cancer per 100,000 female population",
-                "Number of new cases of female breast cancer",
-                "Number of new cases of female breast cancer per 100,000 female population",
-                "Number of new cases of gonorrhea",
-                "Number of new cases of syphilis",
-                "Number of population per general practitioner",
-                "Total population (as per Public Health Institute or NSO reports)"
-              ]
-            },
-            "title": "Health indicators"
           }
         ]
       }
