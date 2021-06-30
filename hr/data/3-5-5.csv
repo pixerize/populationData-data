@@ -1,35 +1,56 @@
 Year,UNIT_MEASURE,Entitet,Value
-1999,Broj,Republika Srpska,457.0
-2000,Broj,Republika Srpska,393.0
-2001,Broj,Republika Srpska,382.0
-2002,Broj,Republika Srpska,334.0
-2003,Broj,Republika Srpska,325.0
-2004,Broj,Republika Srpska,307.0
-2005,Broj,Republika Srpska,263.0
-2006,Broj,Republika Srpska,278.0
-2007,Broj,Federacija BiH,351.0
-2007,Broj,Republika Srpska,313.0
-2008,Broj,Federacija BiH,348.0
-2008,Broj,Republika Srpska,310.0
-2009,Broj,Federacija BiH,361.0
-2009,Broj,Republika Srpska,306.0
-2010,Broj,Federacija BiH,368.0
-2010,Broj,Republika Srpska,305.0
-2011,Broj,Federacija BiH,368.0
-2011,Broj,Republika Srpska,308.0
-2012,Broj,Federacija BiH,366.0
-2012,Broj,Republika Srpska,319.0
-2013,Broj,Federacija BiH,350.0
-2013,Broj,Republika Srpska,320.0
-2014,Broj,Federacija BiH,358.0
-2014,Broj,Republika Srpska,326.0
-2015,Broj,Federacija BiH,357.0
-2015,Broj,Republika Srpska,400.0
-2016,Broj,Federacija BiH,377.0
-2016,Broj,Republika Srpska,400.0
-2017,Broj,Federacija BiH,373.0
-2017,Broj,Republika Srpska,395.0
-2018,Broj,Federacija BiH,362.0
-2018,Broj,Republika Srpska,420.0
-2019,Broj,Federacija BiH,359.0
-2018,Broj,Brčko Distrikt BiH,365.24
+1999,Broj,BiH,352
+1999,Broj,Republika Srpska,352
+2000,Broj,BiH,341
+2000,Broj,Republika Srpska,341
+2001,Broj,BiH,324
+2001,Broj,Republika Srpska,324
+2002,Broj,BiH,313
+2002,Broj,Republika Srpska,313
+2003,Broj,BiH,328
+2003,Broj,Republika Srpska,328
+2004,Broj,BiH,359
+2004,Broj,Republika Srpska,359
+2005,Broj,BiH,399
+2005,Broj,Republika Srpska,399
+2006,Broj,BiH,467
+2006,Broj,Republika Srpska,467
+2007,Broj,BiH,1037
+2007,Broj,FBiH,500
+2007,Broj,Republika Srpska,537
+2008,Broj,BiH,1083
+2008,Broj,FBiH,500
+2008,Broj,Republika Srpska,583
+2009,Broj,BiH,1156
+2009,Broj,FBiH,527
+2009,Broj,Republika Srpska,629
+2010,Broj,BiH,1209
+2010,Broj,FBiH,554
+2010,Broj,Republika Srpska,655
+2011,Broj,BiH,1179
+2011,Broj,FBiH,516
+2011,Broj,Republika Srpska,663
+2012,Broj,BiH,1274
+2012,Broj,FBiH,593
+2012,Broj,Republika Srpska,681
+2013,Broj,BiH,1350
+2013,Broj,FBiH,665
+2013,Broj,Republika Srpska,685
+2014,Broj,BiH,1356
+2014,Broj,FBiH,671
+2014,Broj,Republika Srpska,685
+2015,Broj,BiH,1355
+2015,Broj,FBiH,673
+2015,Broj,Republika Srpska,682
+2016,Broj,BiH,1377
+2016,Broj,FBiH,676
+2016,Broj,Republika Srpska,701
+2017,Broj,BiH,1404
+2017,Broj,FBiH,735
+2017,Broj,Republika Srpska,669
+2018,Broj,BiH,1498
+2018,Broj,FBiH,798
+2018,Broj,Republika Srpska,670
+2019,Broj,BiH,873
+2019,Broj,FBiH,873
+2018,Broj,Brčko Distrikt BiH,30

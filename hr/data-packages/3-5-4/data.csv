@@ -1,35 +1,37 @@
 Year,UNIT_MEASURE,Entitet,Value
-1999,Broj,Republika Srpska,457.0
-2000,Broj,Republika Srpska,393.0
-2001,Broj,Republika Srpska,382.0
-2002,Broj,Republika Srpska,334.0
-2003,Broj,Republika Srpska,325.0
-2004,Broj,Republika Srpska,307.0
-2005,Broj,Republika Srpska,263.0
-2006,Broj,Republika Srpska,278.0
-2007,Broj,Federacija BiH,351.0
-2007,Broj,Republika Srpska,313.0
-2008,Broj,Federacija BiH,348.0
-2008,Broj,Republika Srpska,310.0
-2009,Broj,Federacija BiH,361.0
-2009,Broj,Republika Srpska,306.0
-2010,Broj,Federacija BiH,368.0
-2010,Broj,Republika Srpska,305.0
-2011,Broj,Federacija BiH,368.0
-2011,Broj,Republika Srpska,308.0
-2012,Broj,Federacija BiH,366.0
-2012,Broj,Republika Srpska,319.0
-2013,Broj,Federacija BiH,350.0
-2013,Broj,Republika Srpska,320.0
-2014,Broj,Federacija BiH,358.0
-2014,Broj,Republika Srpska,326.0
-2015,Broj,Federacija BiH,357.0
-2015,Broj,Republika Srpska,400.0
-2016,Broj,Federacija BiH,377.0
-2016,Broj,Republika Srpska,400.0
-2017,Broj,Federacija BiH,373.0
-2017,Broj,Republika Srpska,395.0
-2018,Broj,Federacija BiH,362.0
-2018,Broj,Republika Srpska,420.0
-2019,Broj,Federacija BiH,359.0
-2018,Broj,Brčko Distrikt BiH,365.24
+1999,Broj,Republika Srpska,147.0
+2000,Broj,Republika Srpska,143.0
+2001,Broj,Republika Srpska,145.0
+2002,Broj,Republika Srpska,150.0
+2003,Broj,Republika Srpska,151.0
+2004,Broj,Republika Srpska,154.0
+2005,Broj,FBiH,158.0
+2005,Broj,Republika Srpska,128.39
+2006,Broj,FBiH,162.02
+2006,Broj,Republika Srpska,132.78
+2007,Broj,FBiH,170.89
+2007,Broj,Republika Srpska,138.09
+2008,Broj,FBiH,176.91
+2008,Broj,Republika Srpska,142.47
+2009,Broj,FBiH,183.39
+2009,Broj,Republika Srpska,146.39
+2010,Broj,FBiH,186.3
+2010,Broj,Republika Srpska,152.47
+2011,Broj,FBiH,190.01
+2011,Broj,Republika Srpska,159.9
+2012,Broj,FBiH,193.26
+2012,Broj,Republika Srpska,164.77
+2013,Broj,FBiH,197.89
+2013,Broj,Republika Srpska,171.37
+2014,Broj,FBiH,205.46
+2014,Broj,Republika Srpska,173.85
+2015,Broj,FBiH,204.08
+2015,Broj,Republika Srpska,214.34
+2016,Broj,FBiH,215.53
+2016,Broj,Republika Srpska,218.57
+2017,Broj,FBiH,218.52
+2017,Broj,Republika Srpska,218.56
+2018,Broj,FBiH,224.11
+2018,Broj,Republika Srpska,225.45
+2019,Broj,FBiH,232.5
+2018,Broj,Brčko Distrikt BiH,171.8
