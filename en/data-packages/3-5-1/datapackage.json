@@ -11,55 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "GRAND_TOTAL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "3531159"
-              ]
-            },
-            "title": "Grand Total"
-          },
-          {
-            "name": "PERSON_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Persons with disabilities",
-                "Persons without disabilities",
-                "Status unknown"
-              ]
-            },
-            "title": "PERSON_STATUS"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

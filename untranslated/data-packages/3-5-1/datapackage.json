@@ -12,45 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "GRAND_TOTAL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3531159",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "PERSON_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "persons_with_disabilities",
-                "persons_without_disabilities",
-                "status_unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

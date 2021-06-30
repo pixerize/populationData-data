@@ -12,50 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "GRAND_TOTAL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3531159",
-                ""
-              ]
-            },
-            "title": "GRAND_TOTAL"
-          },
-          {
-            "name": "PERSON_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "persons_with_disabilities",
-                "persons_without_disabilities",
-                "status_unknown",
-                ""
-              ]
-            },
-            "title": "PERSON_STATUS"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Value",

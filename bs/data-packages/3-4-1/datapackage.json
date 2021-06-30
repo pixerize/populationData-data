@@ -12,45 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "SOURCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "piped_water_in_the_dwelling_unit_connected_to_community_scheme",
-                "piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system",
-                "piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system",
-                "drinking_fountain_connected_to_community_scheme",
-                "drinking_fountain_connected_to_own_pump_water_scheme",
-                "street_drinking_fountain",
-                "dug_well",
-                "drilled_(pipe)_well",
-                "artesian_well",
-                "regulated_water_spring",
-                "container_(water_tank)_",
-                "bottled_water_from_shop",
-                "other",
-                "Ukupno",
-                "public_sewage",
-                "closed_septic_tank",
-                "closed_septic_tank_with_overflow",
-                "other_arrangements",
-                "no_sewage",
-                "flush_toilet",
-                "no_flush_toilet",
-                "no_toilet",
-                ""
-              ]
-            },
-            "title": "SOURCE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

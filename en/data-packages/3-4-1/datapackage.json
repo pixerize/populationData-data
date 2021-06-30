@@ -11,50 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "SOURCE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Artesian well",
-                "Bottled water from shop",
-                "Closed septic tank",
-                "Closed septic tank with overflow",
-                "Container (water tank)",
-                "Drilled (pipe) well",
-                "Drinking fountain connected to community scheme",
-                "Drinking fountain connected to own pump water scheme",
-                "Dug well",
-                "flush_toilet",
-                "no_flush_toilet",
-                "No sewage",
-                "no_toilet",
-                "Other",
-                "Other arrangements",
-                "Piped water in the dwelling unit connected to community scheme",
-                "Piped water in the dwelling unit connected to own pump water system",
-                "Piped water in the dwelling unit connected to rural or local water supply system",
-                "Public sewage",
-                "Regulated water spring",
-                "Street drinking fountain",
-                "Total"
-              ]
-            },
-            "title": "SOURCE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
