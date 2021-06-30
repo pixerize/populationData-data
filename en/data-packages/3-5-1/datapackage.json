@@ -11,15 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F"
+                "BiH"
               ]
             },
-            "title": "Sex"
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -37,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-1",
-  "title": "Persons with disabilities by age and sex"
+  "title": "Beds in hospitals"
 }

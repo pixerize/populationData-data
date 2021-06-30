@@ -15,11 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "BiH",
                 ""
               ]
             }

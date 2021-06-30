@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,15 +16,20 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Žene",
+                "BiH",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Entitet"
           },
           {
             "name": "Value",

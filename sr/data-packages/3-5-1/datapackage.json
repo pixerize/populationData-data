@@ -16,15 +16,20 @@
             "title": "Година"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Жене",
+                "BiH",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Ентитет"
           },
           {
             "name": "Value",
