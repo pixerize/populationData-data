@@ -46,6 +46,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-3,"UNIT_MEASURE, Entity",2
 #3-3-4,"UNIT_MEASURE, Entity",2
 #3-3-5,"UNIT_MEASURE, Entity",2
+#3-4-1,"UNIT_MEASURE, Entity",2
 #3-6-1,"UNIT_MEASURE, Entity, MICS_INDICATORS, MICS_NUMBER",4
 #3-7-1,"UNIT_MEASURE, SEX, AGE",3
 #4-1-1,"UNIT_MEASURE, Entity, FORM_OF_VIOLENCE, SURVEY_IMPLEMENTED_BY",4
