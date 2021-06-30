@@ -21,46 +21,34 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "18-24",
+                "25-34",
+                "25-35",
+                "25-36",
+                "34-44",
+                "34-45",
+                "34-46",
+                "45-54",
+                "45-55",
+                "45-56",
+                "55-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
             "name": "FORM_OF_VIOLENCE",
             "type": "string",
             "constraints": {
               "enum": [
                 "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas",
-                "women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas",
-                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
-                "women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever)",
-                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever)",
-                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever)",
-                "women_who_have_experienced_economic_violence_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months)",
-                "women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever)",
-                "women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months)",
-                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever)",
-                "women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months)",
                 ""
               ]
             },
@@ -74,23 +62,10 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
                 ""
               ]
             },
             "title": "Entitet"
-          },
-          {
-            "name": "SURVEY_IMPLEMENTED_BY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UN Women & UNFPA",
-                "OSCE",
-                ""
-              ]
-            },
-            "title": "SURVEY_IMPLEMENTED_BY"
           },
           {
             "name": "Value",
@@ -103,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
+  "title": "Udio mladih i odraslih sa vještinama informacionih i komunikacionih tehnologija (IKT), prema vrsti vještine"
 }
