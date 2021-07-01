@@ -1,1132 +1,1132 @@
-Year,CAUSE_OF_DEATH,UNIT_MEASURE,Spol,Value
-1999,neoplasms,Broj,Oba spola,4591
-1999,diseases_of_the_circulatory,Broj,Oba spola,15911
-1999,diseases_of_the_respiratory,Broj,Oba spola,866
-1999,diseases_of_the_digestive,Broj,Oba spola,709
-1999,symptoms_signs_and_abnormal,Broj,Oba spola,2552
-1999,injuries_poisoning_and_consequences,Broj,Oba spola,1022
-1999,Ukupno,Broj,Oba spola,25651
-1999,neoplasms,Broj,Muškarci,2752
-1999,diseases_of_the_circulatory,Broj,Muškarci,77
-1999,diseases_of_the_respiratory,Broj,Muškarci,498
-1999,diseases_of_the_digestive,Broj,Muškarci,445
-1999,symptoms_signs_and_abnormal,Broj,Muškarci,1347
-1999,injuries_poisoning_and_consequences,Broj,Muškarci,786
-1999,Ukupno,Broj,Muškarci,13528
-1999,neoplasms,Broj,Žene,1839
-1999,diseases_of_the_circulatory,Broj,Žene,8211
-1999,diseases_of_the_respiratory,Broj,Žene,368
-1999,diseases_of_the_digestive,Broj,Žene,264
-1999,symptoms_signs_and_abnormal,Broj,Žene,1205
-1999,injuries_poisoning_and_consequences,Broj,Žene,236
-1999,Ukupno,Broj,Žene,12123
-2000,neoplasms,Broj,Oba spola,5122
-2000,diseases_of_the_circulatory,Broj,Oba spola,16283
-2000,diseases_of_the_respiratory,Broj,Oba spola,805
-2000,diseases_of_the_digestive,Broj,Oba spola,848
-2000,symptoms_signs_and_abnormal,Broj,Oba spola,2860
-2000,injuries_poisoning_and_consequences,Broj,Oba spola,1091
-2000,Ukupno,Broj,Oba spola,27009
-2000,neoplasms,Broj,Muškarci,3144
-2000,diseases_of_the_circulatory,Broj,Muškarci,781
-2000,diseases_of_the_respiratory,Broj,Muškarci,464
-2000,diseases_of_the_digestive,Broj,Muškarci,518
-2000,symptoms_signs_and_abnormal,Broj,Muškarci,1484
-2000,injuries_poisoning_and_consequences,Broj,Muškarci,812
-2000,Ukupno,Broj,Muškarci,14232
-2000,neoplasms,Broj,Žene,1978
-2000,diseases_of_the_circulatory,Broj,Žene,8473
-2000,diseases_of_the_respiratory,Broj,Žene,341
-2000,diseases_of_the_digestive,Broj,Žene,330
-2000,symptoms_signs_and_abnormal,Broj,Žene,1376
-2000,injuries_poisoning_and_consequences,Broj,Žene,279
-2000,Ukupno,Broj,Žene,12777
-2001,infectious_and_parasitic,Broj,Oba spola,257
-2001,neoplasms,Broj,Oba spola,5347
-2001,diseases_of_the_blood,Broj,Oba spola,20
-2001,endocrine_metabolic_and_nutritional,Broj,Oba spola,667
-2001,mental_and_behavioural_disorders,Broj,Oba spola,48
-2001,diseases_of_the_nervous,Broj,Oba spola,161
-2001,diseases_of_the_eye,Broj,Oba spola,1
-2001,diseases_of_the_circulatory,Broj,Oba spola,16328
-2001,diseases_of_the_respiratory,Broj,Oba spola,745
-2001,diseases_of_the_digestive,Broj,Oba spola,827
-2001,diseases_of_the_skin,Broj,Oba spola,17
-2001,diseases_of_the_musculoskeletal,Broj,Oba spola,14
-2001,diseases_of_the_genitourinary,Broj,Oba spola,397
-2001,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2001,certain_conditions_originating,Broj,Oba spola,188
-2001,congenital_malformations_deformations,Broj,Oba spola,43
-2001,symptoms_signs_and_abnormal,Broj,Oba spola,3031
-2001,injuries_poisoning_and_consequences,Broj,Oba spola,1017
-2001,external_causes_of_mortality,Broj,Oba spola,261
-2001,factors_influencing_health_status,Broj,Oba spola,1
-2001,unknown,Broj,Oba spola,954
-2001,Ukupno,Broj,Oba spola,30325
-2001,infectious_and_parasitic,Broj,Muškarci,157
-2001,neoplasms,Broj,Muškarci,3288
-2001,diseases_of_the_blood,Broj,Muškarci,7
-2001,endocrine_metabolic_and_nutritional,Broj,Muškarci,240
-2001,mental_and_behavioural_disorders,Broj,Muškarci,37
-2001,diseases_of_the_nervous,Broj,Muškarci,79
-2001,diseases_of_the_eye,Broj,Muškarci,1
-2001,diseases_of_the_circulatory,Broj,Muškarci,7943
-2001,diseases_of_the_respiratory,Broj,Muškarci,434
-2001,diseases_of_the_digestive,Broj,Muškarci,540
-2001,diseases_of_the_skin,Broj,Muškarci,5
-2001,diseases_of_the_musculoskeletal,Broj,Muškarci,6
-2001,diseases_of_the_genitourinary,Broj,Muškarci,200
-2001,pregnancy_childbirth_and_the,Broj,Muškarci,0
-2001,certain_conditions_originating,Broj,Muškarci,109
-2001,congenital_malformations_deformations,Broj,Muškarci,18
-2001,symptoms_signs_and_abnormal,Broj,Muškarci,1637
-2001,injuries_poisoning_and_consequences,Broj,Muškarci,768
-2001,external_causes_of_mortality,Broj,Muškarci,206
-2001,unknown,Broj,Muškarci,527
-2001,Ukupno,Broj,Muškarci,16202
-2001,infectious_and_parasitic,Broj,Žene,100
-2001,neoplasms,Broj,Žene,2059
-2001,diseases_of_the_blood,Broj,Žene,13
-2001,endocrine_metabolic_and_nutritional,Broj,Žene,427
-2001,mental_and_behavioural_disorders,Broj,Žene,11
-2001,diseases_of_the_nervous,Broj,Žene,82
-2001,diseases_of_the_circulatory,Broj,Žene,8385
-2001,diseases_of_the_respiratory,Broj,Žene,311
-2001,diseases_of_the_digestive,Broj,Žene,287
-2001,diseases_of_the_skin,Broj,Žene,12
-2001,diseases_of_the_musculoskeletal,Broj,Žene,8
-2001,diseases_of_the_genitourinary,Broj,Žene,197
-2001,pregnancy_childbirth_and_the,Broj,Žene,1
-2001,certain_conditions_originating,Broj,Žene,79
-2001,congenital_malformations_deformations,Broj,Žene,25
-2001,symptoms_signs_and_abnormal,Broj,Žene,1394
-2001,injuries_poisoning_and_consequences,Broj,Žene,249
-2001,external_causes_of_mortality,Broj,Žene,55
-2001,factors_influencing_health_status,Broj,Žene,1
-2001,unknown,Broj,Žene,427
-2001,Ukupno,Broj,Žene,14123
-2002,infectious_and_parasitic,Broj,Oba spola,263
-2002,neoplasms,Broj,Oba spola,5288
-2002,diseases_of_the_blood,Broj,Oba spola,19
-2002,endocrine_metabolic_and_nutritional,Broj,Oba spola,862
-2002,mental_and_behavioural_disorders,Broj,Oba spola,66
-2002,diseases_of_the_nervous,Broj,Oba spola,157
-2002,diseases_of_the_eye,Broj,Oba spola,1
-2002,diseases_of_the_circulatory,Broj,Oba spola,16007
-2002,diseases_of_the_respiratory,Broj,Oba spola,817
-2002,diseases_of_the_digestive,Broj,Oba spola,820
-2002,diseases_of_the_skin,Broj,Oba spola,17
-2002,diseases_of_the_musculoskeletal,Broj,Oba spola,10
-2002,diseases_of_the_genitourinary,Broj,Oba spola,219
-2002,pregnancy_childbirth_and_the,Broj,Oba spola,3
-2002,certain_conditions_originating,Broj,Oba spola,226
-2002,congenital_malformations_deformations,Broj,Oba spola,56
-2002,symptoms_signs_and_abnormal,Broj,Oba spola,2983
-2002,injuries_poisoning_and_consequences,Broj,Oba spola,984
-2002,external_causes_of_mortality,Broj,Oba spola,242
-2002,factors_influencing_health_status,Broj,Oba spola,1
-2002,unknown,Broj,Oba spola,1790
-2002,Ukupno,Broj,Oba spola,30831
-2002,infectious_and_parasitic,Broj,Muškarci,160
-2002,neoplasms,Broj,Muškarci,3201
-2002,diseases_of_the_blood,Broj,Muškarci,11
-2002,endocrine_metabolic_and_nutritional,Broj,Muškarci,300
-2002,mental_and_behavioural_disorders,Broj,Muškarci,39
-2002,diseases_of_the_nervous,Broj,Muškarci,87
-2002,diseases_of_the_eye,Broj,Muškarci,1
-2002,diseases_of_the_circulatory,Broj,Muškarci,7544
-2002,diseases_of_the_respiratory,Broj,Muškarci,478
-2002,diseases_of_the_digestive,Broj,Muškarci,495
-2002,diseases_of_the_skin,Broj,Muškarci,3
-2002,diseases_of_the_musculoskeletal,Broj,Muškarci,2
-2002,diseases_of_the_genitourinary,Broj,Muškarci,120
-2002,pregnancy_childbirth_and_the,Broj,Muškarci,0
-2002,certain_conditions_originating,Broj,Muškarci,128
-2002,congenital_malformations_deformations,Broj,Muškarci,32
-2002,symptoms_signs_and_abnormal,Broj,Muškarci,1535
-2002,injuries_poisoning_and_consequences,Broj,Muškarci,751
-2002,external_causes_of_mortality,Broj,Muškarci,180
-2002,factors_influencing_health_status,Broj,Muškarci,1
-2002,unknown,Broj,Muškarci,965
-2002,Ukupno,Broj,Muškarci,16033
-2002,infectious_and_parasitic,Broj,Žene,103
-2002,neoplasms,Broj,Žene,2087
-2002,diseases_of_the_blood,Broj,Žene,8
-2002,endocrine_metabolic_and_nutritional,Broj,Žene,562
-2002,mental_and_behavioural_disorders,Broj,Žene,27
-2002,diseases_of_the_nervous,Broj,Žene,70
-2002,diseases_of_the_circulatory,Broj,Žene,8463
-2002,diseases_of_the_respiratory,Broj,Žene,339
-2002,diseases_of_the_digestive,Broj,Žene,325
-2002,diseases_of_the_skin,Broj,Žene,14
-2002,diseases_of_the_musculoskeletal,Broj,Žene,8
-2002,diseases_of_the_genitourinary,Broj,Žene,99
-2002,pregnancy_childbirth_and_the,Broj,Žene,3
-2002,certain_conditions_originating,Broj,Žene,98
-2002,congenital_malformations_deformations,Broj,Žene,24
-2002,symptoms_signs_and_abnormal,Broj,Žene,1448
-2002,injuries_poisoning_and_consequences,Broj,Žene,233
-2002,external_causes_of_mortality,Broj,Žene,62
-2002,unknown,Broj,Žene,825
-2002,Ukupno,Broj,Žene,14798
-2003,neoplasms,Broj,Oba spola,5771
-2003,diseases_of_the_circulatory,Broj,Oba spola,1699
-2003,diseases_of_the_respiratory,Broj,Oba spola,876
-2003,diseases_of_the_digestive,Broj,Oba spola,810
-2003,symptoms_signs_and_abnormal,Broj,Oba spola,3166
-2003,injuries_poisoning_and_consequences,Broj,Oba spola,950
-2003,unknown,Broj,Oba spola,770
-2003,Ukupno,Broj,Oba spola,29333
-2003,neoplasms,Broj,Muškarci,3499
-2003,diseases_of_the_circulatory,Broj,Muškarci,8001
-2003,diseases_of_the_respiratory,Broj,Muškarci,542
-2003,diseases_of_the_digestive,Broj,Muškarci,499
-2003,symptoms_signs_and_abnormal,Broj,Muškarci,1612
-2003,injuries_poisoning_and_consequences,Broj,Muškarci,706
-2003,unknown,Broj,Muškarci,424
-2003,Ukupno,Broj,Muškarci,15283
-2003,neoplasms,Broj,Žene,2272
-2003,diseases_of_the_circulatory,Broj,Žene,8989
-2003,diseases_of_the_respiratory,Broj,Žene,334
-2003,diseases_of_the_digestive,Broj,Žene,311
-2003,symptoms_signs_and_abnormal,Broj,Žene,1554
-2003,injuries_poisoning_and_consequences,Broj,Žene,244
-2003,unknown,Broj,Žene,346
-2003,Ukupno,Broj,Žene,14050
-2004,infectious_and_parasitic,Broj,Oba spola,255
-2004,neoplasms,Broj,Oba spola,5709
-2004,diseases_of_the_blood,Broj,Oba spola,31
-2004,endocrine_metabolic_and_nutritional,Broj,Oba spola,993
-2004,mental_and_behavioural_disorders,Broj,Oba spola,104
-2004,diseases_of_the_nervous,Broj,Oba spola,251
-2004,diseases_of_the_circulatory,Broj,Oba spola,177
-2004,diseases_of_the_respiratory,Broj,Oba spola,907
-2004,diseases_of_the_digestive,Broj,Oba spola,839
-2004,diseases_of_the_skin,Broj,Oba spola,11
-2004,diseases_of_the_musculoskeletal,Broj,Oba spola,16
-2004,diseases_of_the_genitourinary,Broj,Oba spola,467
-2004,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2004,certain_conditions_originating,Broj,Oba spola,163
-2004,congenital_malformations_deformations,Broj,Oba spola,42
-2004,symptoms_signs_and_abnormal,Broj,Oba spola,2723
-2004,injuries_poisoning_and_consequences,Broj,Oba spola,920
-2004,external_causes_of_mortality,Broj,Oba spola,273
-2004,factors_influencing_health_status,Broj,Oba spola,1
-2004,unknown,Broj,Oba spola,1210
-2004,Ukupno,Broj,Oba spola,32616
-2004,infectious_and_parasitic,Broj,Muškarci,152
-2004,neoplasms,Broj,Muškarci,3398
-2004,diseases_of_the_blood,Broj,Muškarci,10
-2004,endocrine_metabolic_and_nutritional,Broj,Muškarci,377
-2004,mental_and_behavioural_disorders,Broj,Muškarci,80
-2004,diseases_of_the_nervous,Broj,Muškarci,126
-2004,diseases_of_the_circulatory,Broj,Muškarci,8262
-2004,diseases_of_the_respiratory,Broj,Muškarci,551
-2004,diseases_of_the_digestive,Broj,Muškarci,498
-2004,diseases_of_the_skin,Broj,Muškarci,2
-2004,diseases_of_the_musculoskeletal,Broj,Muškarci,9
-2004,diseases_of_the_genitourinary,Broj,Muškarci,248
-2004,certain_conditions_originating,Broj,Muškarci,101
-2004,congenital_malformations_deformations,Broj,Muškarci,26
-2004,symptoms_signs_and_abnormal,Broj,Muškarci,1399
-2004,injuries_poisoning_and_consequences,Broj,Muškarci,691
-2004,external_causes_of_mortality,Broj,Muškarci,198
-2004,factors_influencing_health_status,Broj,Muškarci,1
-2004,unknown,Broj,Muškarci,651
-2004,Ukupno,Broj,Muškarci,16780
-2004,infectious_and_parasitic,Broj,Žene,103
-2004,neoplasms,Broj,Žene,2311
-2004,diseases_of_the_blood,Broj,Žene,21
-2004,endocrine_metabolic_and_nutritional,Broj,Žene,616
-2004,mental_and_behavioural_disorders,Broj,Žene,24
-2004,diseases_of_the_nervous,Broj,Žene,125
-2004,diseases_of_the_circulatory,Broj,Žene,9438
-2004,diseases_of_the_respiratory,Broj,Žene,356
-2004,diseases_of_the_digestive,Broj,Žene,341
-2004,diseases_of_the_skin,Broj,Žene,9
-2004,diseases_of_the_musculoskeletal,Broj,Žene,7
-2004,diseases_of_the_genitourinary,Broj,Žene,219
-2004,pregnancy_childbirth_and_the,Broj,Žene,1
-2004,certain_conditions_originating,Broj,Žene,62
-2004,congenital_malformations_deformations,Broj,Žene,16
-2004,symptoms_signs_and_abnormal,Broj,Žene,1324
-2004,injuries_poisoning_and_consequences,Broj,Žene,229
-2004,external_causes_of_mortality,Broj,Žene,75
-2004,unknown,Broj,Žene,559
-2004,Ukupno,Broj,Žene,15836
-2005,neoplasms,Broj,Oba spola,6255
-2005,diseases_of_the_circulatory,Broj,Oba spola,17915
-2005,diseases_of_the_respiratory,Broj,Oba spola,1242
-2005,diseases_of_the_digestive,Broj,Oba spola,818
-2005,symptoms_signs_and_abnormal,Broj,Oba spola,2394
-2005,injuries_poisoning_and_consequences,Broj,Oba spola,952
-2005,Ukupno,Broj,Oba spola,29576
-2005,neoplasms,Broj,Muškarci,3766
-2005,diseases_of_the_circulatory,Broj,Muškarci,8559
-2005,diseases_of_the_respiratory,Broj,Muškarci,726
-2005,diseases_of_the_digestive,Broj,Muškarci,491
-2005,symptoms_signs_and_abnormal,Broj,Muškarci,1312
-2005,injuries_poisoning_and_consequences,Broj,Muškarci,718
-2005,Ukupno,Broj,Muškarci,15572
-2005,neoplasms,Broj,Žene,2489
-2005,diseases_of_the_circulatory,Broj,Žene,9356
-2005,diseases_of_the_respiratory,Broj,Žene,516
-2005,diseases_of_the_digestive,Broj,Žene,327
-2005,symptoms_signs_and_abnormal,Broj,Žene,1082
-2005,injuries_poisoning_and_consequences,Broj,Žene,234
-2005,Ukupno,Broj,Žene,14004
-2006,infectious_and_parasitic,Broj,Oba spola,237
-2006,neoplasms,Broj,Oba spola,6252
-2006,diseases_of_the_blood,Broj,Oba spola,20
-2006,endocrine_metabolic_and_nutritional,Broj,Oba spola,1537
-2006,mental_and_behavioural_disorders,Broj,Oba spola,118
-2006,diseases_of_the_nervous,Broj,Oba spola,298
-2006,diseases_of_the_eye,Broj,Oba spola,1
-2006,diseases_of_the_circulatory,Broj,Oba spola,16967
-2006,diseases_of_the_respiratory,Broj,Oba spola,1132
-2006,diseases_of_the_digestive,Broj,Oba spola,826
-2006,diseases_of_the_skin,Broj,Oba spola,11
-2006,diseases_of_the_musculoskeletal,Broj,Oba spola,16
-2006,diseases_of_the_genitourinary,Broj,Oba spola,547
-2006,pregnancy_childbirth_and_the,Broj,Oba spola,3
-2006,certain_conditions_originating,Broj,Oba spola,185
-2006,congenital_malformations_deformations,Broj,Oba spola,56
-2006,symptoms_signs_and_abnormal,Broj,Oba spola,2744
-2006,injuries_poisoning_and_consequences,Broj,Oba spola,1017
-2006,external_causes_of_mortality,Broj,Oba spola,212
-2006,factors_influencing_health_status,Broj,Oba spola,1
-2006,unknown,Broj,Oba spola,1041
-2006,Ukupno,Broj,Oba spola,33221
-2006,infectious_and_parasitic,Broj,Muškarci,147
-2006,neoplasms,Broj,Muškarci,3697
-2006,diseases_of_the_blood,Broj,Muškarci,9
-2006,endocrine_metabolic_and_nutritional,Broj,Muškarci,598
-2006,mental_and_behavioural_disorders,Broj,Muškarci,88
-2006,diseases_of_the_nervous,Broj,Muškarci,174
-2006,diseases_of_the_circulatory,Broj,Muškarci,7941
-2006,diseases_of_the_respiratory,Broj,Muškarci,677
-2006,diseases_of_the_digestive,Broj,Muškarci,493
-2006,diseases_of_the_skin,Broj,Muškarci,6
-2006,diseases_of_the_musculoskeletal,Broj,Muškarci,3
-2006,diseases_of_the_genitourinary,Broj,Muškarci,293
-2006,certain_conditions_originating,Broj,Muškarci,118
-2006,congenital_malformations_deformations,Broj,Muškarci,32
-2006,symptoms_signs_and_abnormal,Broj,Muškarci,1527
-2006,injuries_poisoning_and_consequences,Broj,Muškarci,775
-2006,external_causes_of_mortality,Broj,Muškarci,152
-2006,unknown,Broj,Muškarci,578
-2006,Ukupno,Broj,Muškarci,17308
-2006,infectious_and_parasitic,Broj,Žene,90
-2006,neoplasms,Broj,Žene,2555
-2006,diseases_of_the_blood,Broj,Žene,11
-2006,endocrine_metabolic_and_nutritional,Broj,Žene,939
-2006,mental_and_behavioural_disorders,Broj,Žene,30
-2006,diseases_of_the_nervous,Broj,Žene,124
-2006,diseases_of_the_eye,Broj,Žene,1
-2006,diseases_of_the_circulatory,Broj,Žene,9026
-2006,diseases_of_the_respiratory,Broj,Žene,455
-2006,diseases_of_the_digestive,Broj,Žene,333
-2006,diseases_of_the_skin,Broj,Žene,5
-2006,diseases_of_the_musculoskeletal,Broj,Žene,13
-2006,diseases_of_the_genitourinary,Broj,Žene,254
-2006,pregnancy_childbirth_and_the,Broj,Žene,3
-2006,certain_conditions_originating,Broj,Žene,67
-2006,congenital_malformations_deformations,Broj,Žene,24
-2006,symptoms_signs_and_abnormal,Broj,Žene,1217
-2006,injuries_poisoning_and_consequences,Broj,Žene,242
-2006,external_causes_of_mortality,Broj,Žene,60
-2006,factors_influencing_health_status,Broj,Žene,1
-2006,unknown,Broj,Žene,463
-2006,Ukupno,Broj,Žene,15913
-2007,infectious_and_parasitic,Broj,Oba spola,250
-2007,neoplasms,Broj,Oba spola,6713
-2007,diseases_of_the_blood,Broj,Oba spola,54
-2007,endocrine_metabolic_and_nutritional,Broj,Oba spola,1582
-2007,mental_and_behavioural_disorders,Broj,Oba spola,162
-2007,diseases_of_the_nervous,Broj,Oba spola,317
-2007,diseases_of_the_eye,Broj,Oba spola,1
-2007,diseases_of_the_circulatory,Broj,Oba spola,18516
-2007,diseases_of_the_respiratory,Broj,Oba spola,1145
-2007,diseases_of_the_digestive,Broj,Oba spola,924
-2007,diseases_of_the_skin,Broj,Oba spola,10
-2007,diseases_of_the_musculoskeletal,Broj,Oba spola,32
-2007,diseases_of_the_genitourinary,Broj,Oba spola,558
-2007,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2007,certain_conditions_originating,Broj,Oba spola,133
-2007,congenital_malformations_deformations,Broj,Oba spola,54
-2007,symptoms_signs_and_abnormal,Broj,Oba spola,2219
-2007,injuries_poisoning_and_consequences,Broj,Oba spola,1030
-2007,external_causes_of_mortality,Broj,Oba spola,267
-2007,unknown,Broj,Oba spola,1076
-2007,Ukupno,Broj,Oba spola,35044
-2007,infectious_and_parasitic,Broj,Muškarci,164
-2007,neoplasms,Broj,Muškarci,3983
-2007,diseases_of_the_blood,Broj,Muškarci,22
-2007,endocrine_metabolic_and_nutritional,Broj,Muškarci,609
-2007,mental_and_behavioural_disorders,Broj,Muškarci,113
-2007,diseases_of_the_nervous,Broj,Muškarci,161
-2007,diseases_of_the_eye,Broj,Muškarci,1
-2007,diseases_of_the_circulatory,Broj,Muškarci,8697
-2007,diseases_of_the_respiratory,Broj,Muškarci,664
-2007,diseases_of_the_digestive,Broj,Muškarci,570
-2007,diseases_of_the_skin,Broj,Muškarci,4
-2007,diseases_of_the_musculoskeletal,Broj,Muškarci,9
-2007,diseases_of_the_genitourinary,Broj,Muškarci,320
-2007,pregnancy_childbirth_and_the,Broj,Muškarci,0
-2007,certain_conditions_originating,Broj,Muškarci,79
-2007,congenital_malformations_deformations,Broj,Muškarci,28
-2007,symptoms_signs_and_abnormal,Broj,Muškarci,1143
-2007,injuries_poisoning_and_consequences,Broj,Muškarci,766
-2007,external_causes_of_mortality,Broj,Muškarci,199
-2007,unknown,Broj,Muškarci,622
-2007,Ukupno,Broj,Muškarci,18154
-2007,infectious_and_parasitic,Broj,Žene,86
-2007,neoplasms,Broj,Žene,273
-2007,diseases_of_the_blood,Broj,Žene,32
-2007,endocrine_metabolic_and_nutritional,Broj,Žene,973
-2007,mental_and_behavioural_disorders,Broj,Žene,49
-2007,diseases_of_the_nervous,Broj,Žene,156
-2007,diseases_of_the_circulatory,Broj,Žene,9819
-2007,diseases_of_the_respiratory,Broj,Žene,481
-2007,diseases_of_the_digestive,Broj,Žene,354
-2007,diseases_of_the_skin,Broj,Žene,6
-2007,diseases_of_the_musculoskeletal,Broj,Žene,23
-2007,diseases_of_the_genitourinary,Broj,Žene,238
-2007,pregnancy_childbirth_and_the,Broj,Žene,1
-2007,certain_conditions_originating,Broj,Žene,54
-2007,congenital_malformations_deformations,Broj,Žene,26
-2007,symptoms_signs_and_abnormal,Broj,Žene,1076
-2007,injuries_poisoning_and_consequences,Broj,Žene,264
-2007,external_causes_of_mortality,Broj,Žene,68
-2007,unknown,Broj,Žene,454
-2007,Ukupno,Broj,Žene,16890
-2008,infectious_and_parasitic,Broj,Oba spola,275
-2008,neoplasms,Broj,Oba spola,6734
-2008,diseases_of_the_blood,Broj,Oba spola,37
-2008,endocrine_metabolic_and_nutritional,Broj,Oba spola,1563
-2008,mental_and_behavioural_disorders,Broj,Oba spola,169
-2008,diseases_of_the_nervous,Broj,Oba spola,287
-2008,diseases_of_the_eye,Broj,Oba spola,1
-2008,diseases_of_the_circulatory,Broj,Oba spola,17988
-2008,diseases_of_the_respiratory,Broj,Oba spola,1035
-2008,diseases_of_the_digestive,Broj,Oba spola,846
-2008,diseases_of_the_skin,Broj,Oba spola,10
-2008,diseases_of_the_musculoskeletal,Broj,Oba spola,40
-2008,diseases_of_the_genitourinary,Broj,Oba spola,571
-2008,pregnancy_childbirth_and_the,Broj,Oba spola,4
-2008,certain_conditions_originating,Broj,Oba spola,136
-2008,congenital_malformations_deformations,Broj,Oba spola,61
-2008,symptoms_signs_and_abnormal,Broj,Oba spola,2028
-2008,injuries_poisoning_and_consequences,Broj,Oba spola,1200
-2008,external_causes_of_mortality,Broj,Oba spola,2
-2008,unknown,Broj,Oba spola,1039
-2008,Ukupno,Broj,Oba spola,34026
-2008,infectious_and_parasitic,Broj,Muškarci,170
-2008,neoplasms,Broj,Muškarci,4053
-2008,diseases_of_the_blood,Broj,Muškarci,16
-2008,endocrine_metabolic_and_nutritional,Broj,Muškarci,618
-2008,mental_and_behavioural_disorders,Broj,Muškarci,127
-2008,diseases_of_the_nervous,Broj,Muškarci,167
-2008,diseases_of_the_circulatory,Broj,Muškarci,8385
-2008,diseases_of_the_respiratory,Broj,Muškarci,627
-2008,diseases_of_the_digestive,Broj,Muškarci,512
-2008,diseases_of_the_skin,Broj,Muškarci,3
-2008,diseases_of_the_musculoskeletal,Broj,Muškarci,14
-2008,diseases_of_the_genitourinary,Broj,Muškarci,306
-2008,certain_conditions_originating,Broj,Muškarci,75
-2008,congenital_malformations_deformations,Broj,Muškarci,32
-2008,symptoms_signs_and_abnormal,Broj,Muškarci,1052
-2008,injuries_poisoning_and_consequences,Broj,Muškarci,942
-2008,external_causes_of_mortality,Broj,Muškarci,2
-2008,unknown,Broj,Muškarci,586
-2008,Ukupno,Broj,Muškarci,17687
-2008,infectious_and_parasitic,Broj,Žene,105
-2008,neoplasms,Broj,Žene,2681
-2008,diseases_of_the_blood,Broj,Žene,21
-2008,endocrine_metabolic_and_nutritional,Broj,Žene,945
-2008,mental_and_behavioural_disorders,Broj,Žene,42
-2008,diseases_of_the_nervous,Broj,Žene,120
-2008,diseases_of_the_eye,Broj,Žene,1
-2008,diseases_of_the_circulatory,Broj,Žene,9603
-2008,diseases_of_the_respiratory,Broj,Žene,408
-2008,diseases_of_the_digestive,Broj,Žene,334
-2008,diseases_of_the_skin,Broj,Žene,7
-2008,diseases_of_the_musculoskeletal,Broj,Žene,26
-2008,diseases_of_the_genitourinary,Broj,Žene,265
-2008,pregnancy_childbirth_and_the,Broj,Žene,4
-2008,certain_conditions_originating,Broj,Žene,61
-2008,congenital_malformations_deformations,Broj,Žene,29
-2008,symptoms_signs_and_abnormal,Broj,Žene,976
-2008,injuries_poisoning_and_consequences,Broj,Žene,258
-2008,unknown,Broj,Žene,453
-2008,Ukupno,Broj,Žene,16339
-2009,infectious_and_parasitic,Broj,Oba spola,287
-2009,neoplasms,Broj,Oba spola,697
-2009,diseases_of_the_blood,Broj,Oba spola,41
-2009,endocrine_metabolic_and_nutritional,Broj,Oba spola,1999
-2009,mental_and_behavioural_disorders,Broj,Oba spola,191
-2009,diseases_of_the_nervous,Broj,Oba spola,319
-2009,diseases_of_the_circulatory,Broj,Oba spola,18295
-2009,diseases_of_the_respiratory,Broj,Oba spola,1133
-2009,diseases_of_the_digestive,Broj,Oba spola,936
-2009,diseases_of_the_skin,Broj,Oba spola,9
-2009,diseases_of_the_musculoskeletal,Broj,Oba spola,35
-2009,diseases_of_the_genitourinary,Broj,Oba spola,588
-2009,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2009,certain_conditions_originating,Broj,Oba spola,144
-2009,congenital_malformations_deformations,Broj,Oba spola,61
-2009,symptoms_signs_and_abnormal,Broj,Oba spola,1985
-2009,injuries_poisoning_and_consequences,Broj,Oba spola,1256
-2009,external_causes_of_mortality,Broj,Oba spola,2
-2009,factors_influencing_health_status,Broj,Oba spola,2
-2009,unknown,Broj,Oba spola,650
-2009,Ukupno,Broj,Oba spola,34904
-2009,infectious_and_parasitic,Broj,Muškarci,180
-2009,neoplasms,Broj,Muškarci,4118
-2009,diseases_of_the_blood,Broj,Muškarci,17
-2009,endocrine_metabolic_and_nutritional,Broj,Muškarci,766
-2009,mental_and_behavioural_disorders,Broj,Muškarci,127
-2009,diseases_of_the_nervous,Broj,Muškarci,167
-2009,diseases_of_the_circulatory,Broj,Muškarci,8586
-2009,diseases_of_the_respiratory,Broj,Muškarci,644
-2009,diseases_of_the_digestive,Broj,Muškarci,559
-2009,diseases_of_the_skin,Broj,Muškarci,4
-2009,diseases_of_the_musculoskeletal,Broj,Muškarci,8
-2009,diseases_of_the_genitourinary,Broj,Muškarci,299
-2009,certain_conditions_originating,Broj,Muškarci,76
-2009,congenital_malformations_deformations,Broj,Muškarci,31
-2009,symptoms_signs_and_abnormal,Broj,Muškarci,1012
-2009,injuries_poisoning_and_consequences,Broj,Muškarci,941
-2009,external_causes_of_mortality,Broj,Muškarci,2
-2009,factors_influencing_health_status,Broj,Muškarci,1
-2009,unknown,Broj,Muškarci,346
-2009,Ukupno,Broj,Muškarci,17884
-2009,infectious_and_parasitic,Broj,Žene,107
-2009,neoplasms,Broj,Žene,2852
-2009,diseases_of_the_blood,Broj,Žene,24
-2009,endocrine_metabolic_and_nutritional,Broj,Žene,1233
-2009,mental_and_behavioural_disorders,Broj,Žene,64
-2009,diseases_of_the_nervous,Broj,Žene,152
-2009,diseases_of_the_circulatory,Broj,Žene,9709
-2009,diseases_of_the_respiratory,Broj,Žene,489
-2009,diseases_of_the_digestive,Broj,Žene,377
-2009,diseases_of_the_skin,Broj,Žene,5
-2009,diseases_of_the_musculoskeletal,Broj,Žene,27
-2009,diseases_of_the_genitourinary,Broj,Žene,289
-2009,pregnancy_childbirth_and_the,Broj,Žene,1
-2009,certain_conditions_originating,Broj,Žene,68
-2009,congenital_malformations_deformations,Broj,Žene,30
-2009,symptoms_signs_and_abnormal,Broj,Žene,973
-2009,injuries_poisoning_and_consequences,Broj,Žene,315
-2009,factors_influencing_health_status,Broj,Žene,1
-2009,unknown,Broj,Žene,304
-2009,Ukupno,Broj,Žene,17020
-2010,infectious_and_parasitic,Broj,Oba spola,285
-2010,neoplasms,Broj,Oba spola,6973
-2010,diseases_of_the_blood,Broj,Oba spola,45
-2010,endocrine_metabolic_and_nutritional,Broj,Oba spola,1903
-2010,mental_and_behavioural_disorders,Broj,Oba spola,171
-2010,diseases_of_the_nervous,Broj,Oba spola,350
-2010,diseases_of_the_eye,Broj,Oba spola,2
-2010,diseases_of_the_circulatory,Broj,Oba spola,18805
-2010,diseases_of_the_respiratory,Broj,Oba spola,1145
-2010,diseases_of_the_digestive,Broj,Oba spola,918
-2010,diseases_of_the_skin,Broj,Oba spola,14
-2010,diseases_of_the_musculoskeletal,Broj,Oba spola,42
-2010,diseases_of_the_genitourinary,Broj,Oba spola,577
-2010,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2010,certain_conditions_originating,Broj,Oba spola,138
-2010,congenital_malformations_deformations,Broj,Oba spola,63
-2010,symptoms_signs_and_abnormal,Broj,Oba spola,1916
-2010,injuries_poisoning_and_consequences,Broj,Oba spola,1117
-2010,external_causes_of_mortality,Broj,Oba spola,15
-2010,factors_influencing_health_status,Broj,Oba spola,0
-2010,unknown,Broj,Oba spola,638
-2010,Ukupno,Broj,Oba spola,35118
-2010,infectious_and_parasitic,Broj,Muškarci,183
-2010,neoplasms,Broj,Muškarci,4059
-2010,diseases_of_the_blood,Broj,Muškarci,17
-2010,endocrine_metabolic_and_nutritional,Broj,Muškarci,729
-2010,mental_and_behavioural_disorders,Broj,Muškarci,118
-2010,diseases_of_the_nervous,Broj,Muškarci,178
-2010,diseases_of_the_eye,Broj,Muškarci,1
-2010,diseases_of_the_circulatory,Broj,Muškarci,8699
-2010,diseases_of_the_respiratory,Broj,Muškarci,681
-2010,diseases_of_the_digestive,Broj,Muškarci,544
-2010,diseases_of_the_skin,Broj,Muškarci,5
-2010,diseases_of_the_musculoskeletal,Broj,Muškarci,16
-2010,diseases_of_the_genitourinary,Broj,Muškarci,296
-2010,certain_conditions_originating,Broj,Muškarci,76
-2010,congenital_malformations_deformations,Broj,Muškarci,37
-2010,symptoms_signs_and_abnormal,Broj,Muškarci,1008
-2010,injuries_poisoning_and_consequences,Broj,Muškarci,878
-2010,external_causes_of_mortality,Broj,Muškarci,11
-2010,unknown,Broj,Muškarci,364
-2010,Ukupno,Broj,Muškarci,17900
-2010,infectious_and_parasitic,Broj,Žene,102
-2010,neoplasms,Broj,Žene,2914
-2010,diseases_of_the_blood,Broj,Žene,28
-2010,endocrine_metabolic_and_nutritional,Broj,Žene,1174
-2010,mental_and_behavioural_disorders,Broj,Žene,53
-2010,diseases_of_the_nervous,Broj,Žene,172
-2010,diseases_of_the_eye,Broj,Žene,1
-2010,diseases_of_the_circulatory,Broj,Žene,10106
-2010,diseases_of_the_respiratory,Broj,Žene,464
-2010,diseases_of_the_digestive,Broj,Žene,374
-2010,diseases_of_the_skin,Broj,Žene,9
-2010,diseases_of_the_musculoskeletal,Broj,Žene,26
-2010,diseases_of_the_genitourinary,Broj,Žene,281
-2010,pregnancy_childbirth_and_the,Broj,Žene,1
-2010,certain_conditions_originating,Broj,Žene,62
-2010,congenital_malformations_deformations,Broj,Žene,26
-2010,symptoms_signs_and_abnormal,Broj,Žene,908
-2010,injuries_poisoning_and_consequences,Broj,Žene,239
-2010,external_causes_of_mortality,Broj,Žene,4
-2010,unknown,Broj,Žene,274
-2010,Ukupno,Broj,Žene,17218
-2011,infectious_and_parasitic,Broj,Oba spola,298
-2011,neoplasms,Broj,Oba spola,7214
-2011,diseases_of_the_blood,Broj,Oba spola,59
-2011,endocrine_metabolic_and_nutritional,Broj,Oba spola,194
-2011,mental_and_behavioural_disorders,Broj,Oba spola,161
-2011,diseases_of_the_nervous,Broj,Oba spola,410
-2011,diseases_of_the_circulatory,Broj,Oba spola,18468
-2011,diseases_of_the_respiratory,Broj,Oba spola,1281
-2011,diseases_of_the_digestive,Broj,Oba spola,874
-2011,diseases_of_the_skin,Broj,Oba spola,12
-2011,diseases_of_the_musculoskeletal,Broj,Oba spola,45
-2011,diseases_of_the_genitourinary,Broj,Oba spola,551
-2011,pregnancy_childbirth_and_the,Broj,Oba spola,2
-2011,certain_conditions_originating,Broj,Oba spola,118
-2011,congenital_malformations_deformations,Broj,Oba spola,58
-2011,symptoms_signs_and_abnormal,Broj,Oba spola,1665
-2011,injuries_poisoning_and_consequences,Broj,Oba spola,1162
-2011,external_causes_of_mortality,Broj,Oba spola,14
-2011,factors_influencing_health_status,Broj,Oba spola,1
-2011,unknown,Broj,Oba spola,695
-2011,Ukupno,Broj,Oba spola,35028
-2011,infectious_and_parasitic,Broj,Muškarci,192
-2011,neoplasms,Broj,Muškarci,4316
-2011,diseases_of_the_blood,Broj,Muškarci,20
-2011,endocrine_metabolic_and_nutritional,Broj,Muškarci,761
-2011,mental_and_behavioural_disorders,Broj,Muškarci,89
-2011,diseases_of_the_nervous,Broj,Muškarci,213
-2011,diseases_of_the_circulatory,Broj,Muškarci,8542
-2011,diseases_of_the_respiratory,Broj,Muškarci,725
-2011,diseases_of_the_digestive,Broj,Muškarci,543
-2011,diseases_of_the_skin,Broj,Muškarci,2
-2011,diseases_of_the_musculoskeletal,Broj,Muškarci,12
-2011,diseases_of_the_genitourinary,Broj,Muškarci,302
-2011,certain_conditions_originating,Broj,Muškarci,67
-2011,congenital_malformations_deformations,Broj,Muškarci,30
-2011,symptoms_signs_and_abnormal,Broj,Muškarci,829
-2011,injuries_poisoning_and_consequences,Broj,Muškarci,930
-2011,external_causes_of_mortality,Broj,Muškarci,13
-2011,factors_influencing_health_status,Broj,Muškarci,1
-2011,unknown,Broj,Muškarci,378
-2011,Ukupno,Broj,Muškarci,17965
-2011,infectious_and_parasitic,Broj,Žene,106
-2011,neoplasms,Broj,Žene,2898
-2011,diseases_of_the_blood,Broj,Žene,39
-2011,endocrine_metabolic_and_nutritional,Broj,Žene,1179
-2011,mental_and_behavioural_disorders,Broj,Žene,72
-2011,diseases_of_the_nervous,Broj,Žene,197
-2011,diseases_of_the_circulatory,Broj,Žene,9926
-2011,diseases_of_the_respiratory,Broj,Žene,556
-2011,diseases_of_the_digestive,Broj,Žene,331
-2011,diseases_of_the_skin,Broj,Žene,10
-2011,diseases_of_the_musculoskeletal,Broj,Žene,33
-2011,diseases_of_the_genitourinary,Broj,Žene,249
-2011,pregnancy_childbirth_and_the,Broj,Žene,2
-2011,certain_conditions_originating,Broj,Žene,51
-2011,congenital_malformations_deformations,Broj,Žene,28
-2011,symptoms_signs_and_abnormal,Broj,Žene,836
-2011,injuries_poisoning_and_consequences,Broj,Žene,232
-2011,external_causes_of_mortality,Broj,Žene,1
-2011,unknown,Broj,Žene,317
-2011,Ukupno,Broj,Žene,17063
-2012,infectious_and_parasitic,Broj,Oba spola,344
-2012,neoplasms,Broj,Oba spola,7598
-2012,diseases_of_the_blood,Broj,Oba spola,47
-2012,endocrine_metabolic_and_nutritional,Broj,Oba spola,1926
-2012,mental_and_behavioural_disorders,Broj,Oba spola,160
-2012,diseases_of_the_nervous,Broj,Oba spola,409
-2012,diseases_of_the_eye,Broj,Oba spola,1
-2012,diseases_of_the_circulatory,Broj,Oba spola,19252
-2012,diseases_of_the_respiratory,Broj,Oba spola,1266
-2012,diseases_of_the_digestive,Broj,Oba spola,978
-2012,diseases_of_the_skin,Broj,Oba spola,13
-2012,diseases_of_the_musculoskeletal,Broj,Oba spola,54
-2012,diseases_of_the_genitourinary,Broj,Oba spola,601
-2012,pregnancy_childbirth_and_the,Broj,Oba spola,3
-2012,certain_conditions_originating,Broj,Oba spola,111
-2012,congenital_malformations_deformations,Broj,Oba spola,40
-2012,symptoms_signs_and_abnormal,Broj,Oba spola,1207
-2012,injuries_poisoning_and_consequences,Broj,Oba spola,1067
-2012,unknown,Broj,Oba spola,740
-2012,Ukupno,Broj,Oba spola,35817
-2012,infectious_and_parasitic,Broj,Muškarci,185
-2012,neoplasms,Broj,Muškarci,4458
-2012,diseases_of_the_blood,Broj,Muškarci,25
-2012,endocrine_metabolic_and_nutritional,Broj,Muškarci,785
-2012,mental_and_behavioural_disorders,Broj,Muškarci,109
-2012,diseases_of_the_nervous,Broj,Muškarci,207
-2012,diseases_of_the_circulatory,Broj,Muškarci,906
-2012,diseases_of_the_respiratory,Broj,Muškarci,754
-2012,diseases_of_the_digestive,Broj,Muškarci,588
-2012,diseases_of_the_skin,Broj,Muškarci,6
-2012,diseases_of_the_musculoskeletal,Broj,Muškarci,15
-2012,diseases_of_the_genitourinary,Broj,Muškarci,303
-2012,pregnancy_childbirth_and_the,Broj,Muškarci,0
-2012,certain_conditions_originating,Broj,Muškarci,67
-2012,congenital_malformations_deformations,Broj,Muškarci,26
-2012,symptoms_signs_and_abnormal,Broj,Muškarci,609
-2012,injuries_poisoning_and_consequences,Broj,Muškarci,830
-2012,unknown,Broj,Muškarci,409
-2012,Ukupno,Broj,Muškarci,18436
-2012,infectious_and_parasitic,Broj,Žene,159
-2012,neoplasms,Broj,Žene,314
-2012,diseases_of_the_blood,Broj,Žene,22
-2012,endocrine_metabolic_and_nutritional,Broj,Žene,1141
-2012,mental_and_behavioural_disorders,Broj,Žene,51
-2012,diseases_of_the_nervous,Broj,Žene,202
-2012,diseases_of_the_eye,Broj,Žene,1
-2012,diseases_of_the_circulatory,Broj,Žene,10192
-2012,diseases_of_the_respiratory,Broj,Žene,512
-2012,diseases_of_the_digestive,Broj,Žene,390
-2012,diseases_of_the_skin,Broj,Žene,7
-2012,diseases_of_the_musculoskeletal,Broj,Žene,39
-2012,diseases_of_the_genitourinary,Broj,Žene,298
-2012,pregnancy_childbirth_and_the,Broj,Žene,3
-2012,certain_conditions_originating,Broj,Žene,44
-2012,congenital_malformations_deformations,Broj,Žene,14
-2012,symptoms_signs_and_abnormal,Broj,Žene,598
-2012,injuries_poisoning_and_consequences,Broj,Žene,237
-2012,unknown,Broj,Žene,331
-2012,Ukupno,Broj,Žene,17381
-2013,infectious_and_parasitic,Broj,Oba spola,268
-2013,neoplasms,Broj,Oba spola,7506
-2013,diseases_of_the_blood,Broj,Oba spola,50
-2013,endocrine_metabolic_and_nutritional,Broj,Oba spola,197
-2013,mental_and_behavioural_disorders,Broj,Oba spola,192
-2013,diseases_of_the_nervous,Broj,Oba spola,382
-2013,diseases_of_the_circulatory,Broj,Oba spola,18186
-2013,diseases_of_the_respiratory,Broj,Oba spola,1428
-2013,diseases_of_the_digestive,Broj,Oba spola,955
-2013,diseases_of_the_skin,Broj,Oba spola,31
-2013,diseases_of_the_musculoskeletal,Broj,Oba spola,57
-2013,diseases_of_the_genitourinary,Broj,Oba spola,581
-2013,certain_conditions_originating,Broj,Oba spola,101
-2013,congenital_malformations_deformations,Broj,Oba spola,38
-2013,symptoms_signs_and_abnormal,Broj,Oba spola,2107
-2013,injuries_poisoning_and_consequences,Broj,Oba spola,1024
-2013,external_causes_of_mortality,Broj,Oba spola,4
-2013,unknown,Broj,Oba spola,782
-2013,Ukupno,Broj,Oba spola,35662
-2013,infectious_and_parasitic,Broj,Muškarci,165
-2013,neoplasms,Broj,Muškarci,4384
-2013,diseases_of_the_blood,Broj,Muškarci,20
-2013,endocrine_metabolic_and_nutritional,Broj,Muškarci,820
-2013,mental_and_behavioural_disorders,Broj,Muškarci,101
-2013,diseases_of_the_nervous,Broj,Muškarci,198
-2013,diseases_of_the_circulatory,Broj,Muškarci,8458
-2013,diseases_of_the_respiratory,Broj,Muškarci,827
-2013,diseases_of_the_digestive,Broj,Muškarci,526
-2013,diseases_of_the_skin,Broj,Muškarci,12
-2013,diseases_of_the_musculoskeletal,Broj,Muškarci,18
-2013,diseases_of_the_genitourinary,Broj,Muškarci,304
-2013,certain_conditions_originating,Broj,Muškarci,62
-2013,congenital_malformations_deformations,Broj,Muškarci,19
-2013,symptoms_signs_and_abnormal,Broj,Muškarci,1112
-2013,injuries_poisoning_and_consequences,Broj,Muškarci,794
-2013,external_causes_of_mortality,Broj,Muškarci,4
-2013,unknown,Broj,Muškarci,393
-2013,Ukupno,Broj,Muškarci,18217
-2013,infectious_and_parasitic,Broj,Žene,103
-2013,neoplasms,Broj,Žene,3122
-2013,diseases_of_the_blood,Broj,Žene,30
-2013,endocrine_metabolic_and_nutritional,Broj,Žene,115
-2013,mental_and_behavioural_disorders,Broj,Žene,91
-2013,diseases_of_the_nervous,Broj,Žene,184
-2013,diseases_of_the_circulatory,Broj,Žene,9728
-2013,diseases_of_the_respiratory,Broj,Žene,601
-2013,diseases_of_the_digestive,Broj,Žene,429
-2013,diseases_of_the_skin,Broj,Žene,19
-2013,diseases_of_the_musculoskeletal,Broj,Žene,39
-2013,diseases_of_the_genitourinary,Broj,Žene,277
-2013,certain_conditions_originating,Broj,Žene,39
-2013,congenital_malformations_deformations,Broj,Žene,19
-2013,symptoms_signs_and_abnormal,Broj,Žene,995
-2013,injuries_poisoning_and_consequences,Broj,Žene,230
-2013,unknown,Broj,Žene,389
-2013,Ukupno,Broj,Žene,17445
-2014,infectious_and_parasitic,Broj,Oba spola,291
-2014,neoplasms,Broj,Oba spola,7821
-2014,diseases_of_the_blood,Broj,Oba spola,42
-2014,endocrine_metabolic_and_nutritional,Broj,Oba spola,2267
-2014,mental_and_behavioural_disorders,Broj,Oba spola,225
-2014,diseases_of_the_nervous,Broj,Oba spola,396
-2014,diseases_of_the_eye,Broj,Oba spola,6
-2014,diseases_of_the_circulatory,Broj,Oba spola,1793
-2014,diseases_of_the_respiratory,Broj,Oba spola,1409
-2014,diseases_of_the_digestive,Broj,Oba spola,949
-2014,diseases_of_the_skin,Broj,Oba spola,32
-2014,diseases_of_the_musculoskeletal,Broj,Oba spola,61
-2014,diseases_of_the_genitourinary,Broj,Oba spola,536
-2014,certain_conditions_originating,Broj,Oba spola,85
-2014,congenital_malformations_deformations,Broj,Oba spola,49
-2014,symptoms_signs_and_abnormal,Broj,Oba spola,2241
-2014,injuries_poisoning_and_consequences,Broj,Oba spola,1032
-2014,external_causes_of_mortality,Broj,Oba spola,17
-2014,factors_influencing_health_status,Broj,Oba spola,1
-2014,unknown,Broj,Oba spola,590
-2014,Ukupno,Broj,Oba spola,35980
-2014,infectious_and_parasitic,Broj,Muškarci,164
-2014,neoplasms,Broj,Muškarci,4569
-2014,diseases_of_the_blood,Broj,Muškarci,14
-2014,endocrine_metabolic_and_nutritional,Broj,Muškarci,925
-2014,mental_and_behavioural_disorders,Broj,Muškarci,142
-2014,diseases_of_the_nervous,Broj,Muškarci,207
-2014,diseases_of_the_circulatory,Broj,Muškarci,8336
-2014,diseases_of_the_respiratory,Broj,Muškarci,840
-2014,diseases_of_the_digestive,Broj,Muškarci,545
-2014,diseases_of_the_skin,Broj,Muškarci,16
-2014,diseases_of_the_musculoskeletal,Broj,Muškarci,16
-2014,diseases_of_the_genitourinary,Broj,Muškarci,260
-2014,certain_conditions_originating,Broj,Muškarci,42
-2014,congenital_malformations_deformations,Broj,Muškarci,20
-2014,symptoms_signs_and_abnormal,Broj,Muškarci,1132
-2014,injuries_poisoning_and_consequences,Broj,Muškarci,795
-2014,external_causes_of_mortality,Broj,Muškarci,10
-2014,unknown,Broj,Muškarci,327
-2014,Ukupno,Broj,Muškarci,18360
-2014,infectious_and_parasitic,Broj,Žene,127
-2014,neoplasms,Broj,Žene,3252
-2014,diseases_of_the_blood,Broj,Žene,28
-2014,endocrine_metabolic_and_nutritional,Broj,Žene,1342
-2014,mental_and_behavioural_disorders,Broj,Žene,83
-2014,diseases_of_the_nervous,Broj,Žene,189
-2014,diseases_of_the_eye,Broj,Žene,6
-2014,diseases_of_the_circulatory,Broj,Žene,9594
-2014,diseases_of_the_respiratory,Broj,Žene,569
-2014,diseases_of_the_digestive,Broj,Žene,404
-2014,diseases_of_the_skin,Broj,Žene,16
-2014,diseases_of_the_musculoskeletal,Broj,Žene,45
-2014,diseases_of_the_genitourinary,Broj,Žene,276
-2014,certain_conditions_originating,Broj,Žene,43
-2014,congenital_malformations_deformations,Broj,Žene,29
-2014,symptoms_signs_and_abnormal,Broj,Žene,1109
-2014,injuries_poisoning_and_consequences,Broj,Žene,237
-2014,external_causes_of_mortality,Broj,Žene,7
-2014,factors_influencing_health_status,Broj,Žene,1
-2014,unknown,Broj,Žene,263
-2014,Ukupno,Broj,Žene,17620
-2015,infectious_and_parasitic,Broj,Oba spola,370
-2015,neoplasms,Broj,Oba spola,7956
-2015,diseases_of_the_blood,Broj,Oba spola,55
-2015,endocrine_metabolic_and_nutritional,Broj,Oba spola,2025
-2015,mental_and_behavioural_disorders,Broj,Oba spola,188
-2015,diseases_of_the_nervous,Broj,Oba spola,447
-2015,diseases_of_the_eye,Broj,Oba spola,1
-2015,diseases_of_the_circulatory,Broj,Oba spola,19713
-2015,diseases_of_the_respiratory,Broj,Oba spola,1718
-2015,diseases_of_the_digestive,Broj,Oba spola,988
-2015,diseases_of_the_skin,Broj,Oba spola,42
-2015,diseases_of_the_musculoskeletal,Broj,Oba spola,55
-2015,diseases_of_the_genitourinary,Broj,Oba spola,684
-2015,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2015,certain_conditions_originating,Broj,Oba spola,126
-2015,congenital_malformations_deformations,Broj,Oba spola,31
-2015,symptoms_signs_and_abnormal,Broj,Oba spola,2098
-2015,injuries_poisoning_and_consequences,Broj,Oba spola,1103
-2015,external_causes_of_mortality,Broj,Oba spola,8
-2015,unknown,Broj,Oba spola,541
-2015,Ukupno,Broj,Oba spola,38150
-2015,infectious_and_parasitic,Broj,Muškarci,207
-2015,neoplasms,Broj,Muškarci,4525
-2015,diseases_of_the_blood,Broj,Muškarci,19
-2015,endocrine_metabolic_and_nutritional,Broj,Muškarci,856
-2015,mental_and_behavioural_disorders,Broj,Muškarci,102
-2015,diseases_of_the_nervous,Broj,Muškarci,241
-2015,diseases_of_the_circulatory,Broj,Muškarci,9012
-2015,diseases_of_the_respiratory,Broj,Muškarci,972
-2015,diseases_of_the_digestive,Broj,Muškarci,571
-2015,diseases_of_the_skin,Broj,Muškarci,16
-2015,diseases_of_the_musculoskeletal,Broj,Muškarci,21
-2015,diseases_of_the_genitourinary,Broj,Muškarci,331
-2015,certain_conditions_originating,Broj,Muškarci,67
-2015,congenital_malformations_deformations,Broj,Muškarci,15
-2015,symptoms_signs_and_abnormal,Broj,Muškarci,1102
-2015,injuries_poisoning_and_consequences,Broj,Muškarci,840
-2015,external_causes_of_mortality,Broj,Muškarci,5
-2015,unknown,Broj,Muškarci,317
-2015,Ukupno,Broj,Muškarci,19219
-2015,infectious_and_parasitic,Broj,Žene,163
-2015,neoplasms,Broj,Žene,3431
-2015,diseases_of_the_blood,Broj,Žene,36
-2015,endocrine_metabolic_and_nutritional,Broj,Žene,1169
-2015,mental_and_behavioural_disorders,Broj,Žene,86
-2015,diseases_of_the_nervous,Broj,Žene,206
-2015,diseases_of_the_eye,Broj,Žene,1
-2015,diseases_of_the_circulatory,Broj,Žene,10701
-2015,diseases_of_the_respiratory,Broj,Žene,746
-2015,diseases_of_the_digestive,Broj,Žene,417
-2015,diseases_of_the_skin,Broj,Žene,26
-2015,diseases_of_the_musculoskeletal,Broj,Žene,34
-2015,diseases_of_the_genitourinary,Broj,Žene,353
-2015,pregnancy_childbirth_and_the,Broj,Žene,1
-2015,certain_conditions_originating,Broj,Žene,59
-2015,congenital_malformations_deformations,Broj,Žene,16
-2015,symptoms_signs_and_abnormal,Broj,Žene,996
-2015,injuries_poisoning_and_consequences,Broj,Žene,263
-2015,external_causes_of_mortality,Broj,Žene,3
-2015,unknown,Broj,Žene,224
-2015,Ukupno,Broj,Žene,18931
-2016,infectious_and_parasitic,Broj,Oba spola,412
-2016,neoplasms,Broj,Oba spola,7761
-2016,diseases_of_the_blood,Broj,Oba spola,54
-2016,endocrine_metabolic_and_nutritional,Broj,Oba spola,1961
-2016,mental_and_behavioural_disorders,Broj,Oba spola,226
-2016,diseases_of_the_nervous,Broj,Oba spola,386
-2016,diseases_of_the_eye,Broj,Oba spola,8
-2016,diseases_of_the_circulatory,Broj,Oba spola,18959
-2016,diseases_of_the_respiratory,Broj,Oba spola,1487
-2016,diseases_of_the_digestive,Broj,Oba spola,1077
-2016,diseases_of_the_skin,Broj,Oba spola,35
-2016,diseases_of_the_musculoskeletal,Broj,Oba spola,46
-2016,diseases_of_the_genitourinary,Broj,Oba spola,696
-2016,pregnancy_childbirth_and_the,Broj,Oba spola,1
-2016,certain_conditions_originating,Broj,Oba spola,117
-2016,congenital_malformations_deformations,Broj,Oba spola,16
-2016,symptoms_signs_and_abnormal,Broj,Oba spola,1730
-2016,injuries_poisoning_and_consequences,Broj,Oba spola,1040
-2016,external_causes_of_mortality,Broj,Oba spola,14
-2016,unknown,Broj,Oba spola,545
-2016,Ukupno,Broj,Oba spola,36571
-2016,infectious_and_parasitic,Broj,Muškarci,214
-2016,neoplasms,Broj,Muškarci,4464
-2016,diseases_of_the_blood,Broj,Muškarci,22
-2016,endocrine_metabolic_and_nutritional,Broj,Muškarci,789
-2016,mental_and_behavioural_disorders,Broj,Muškarci,141
-2016,diseases_of_the_nervous,Broj,Muškarci,213
-2016,diseases_of_the_eye,Broj,Muškarci,6
-2016,diseases_of_the_circulatory,Broj,Muškarci,878
-2016,diseases_of_the_respiratory,Broj,Muškarci,879
-2016,diseases_of_the_digestive,Broj,Muškarci,619
-2016,diseases_of_the_skin,Broj,Muškarci,16
-2016,diseases_of_the_musculoskeletal,Broj,Muškarci,9
-2016,diseases_of_the_genitourinary,Broj,Muškarci,345
-2016,certain_conditions_originating,Broj,Muškarci,74
-2016,congenital_malformations_deformations,Broj,Muškarci,9
-2016,symptoms_signs_and_abnormal,Broj,Muškarci,872
-2016,injuries_poisoning_and_consequences,Broj,Muškarci,783
-2016,external_causes_of_mortality,Broj,Muškarci,11
-2016,unknown,Broj,Muškarci,296
-2016,Ukupno,Broj,Muškarci,18542
-2016,infectious_and_parasitic,Broj,Žene,198
-2016,neoplasms,Broj,Žene,3297
-2016,diseases_of_the_blood,Broj,Žene,32
-2016,endocrine_metabolic_and_nutritional,Broj,Žene,1172
-2016,mental_and_behavioural_disorders,Broj,Žene,85
-2016,diseases_of_the_nervous,Broj,Žene,173
-2016,diseases_of_the_eye,Broj,Žene,2
-2016,diseases_of_the_circulatory,Broj,Žene,10179
-2016,diseases_of_the_respiratory,Broj,Žene,608
-2016,diseases_of_the_digestive,Broj,Žene,458
-2016,diseases_of_the_skin,Broj,Žene,19
-2016,diseases_of_the_musculoskeletal,Broj,Žene,37
-2016,diseases_of_the_genitourinary,Broj,Žene,351
-2016,pregnancy_childbirth_and_the,Broj,Žene,1
-2016,certain_conditions_originating,Broj,Žene,43
-2016,congenital_malformations_deformations,Broj,Žene,7
-2016,symptoms_signs_and_abnormal,Broj,Žene,858
-2016,injuries_poisoning_and_consequences,Broj,Žene,257
-2016,external_causes_of_mortality,Broj,Žene,3
-2016,unknown,Broj,Žene,249
-2016,Ukupno,Broj,Žene,18029
-2017,infectious_and_parasitic,Broj,Oba spola,395
-2017,neoplasms,Broj,Oba spola,8136
-2017,diseases_of_the_blood,Broj,Oba spola,69
-2017,endocrine_metabolic_and_nutritional,Broj,Oba spola,217
-2017,mental_and_behavioural_disorders,Broj,Oba spola,265
-2017,diseases_of_the_nervous,Broj,Oba spola,382
-2017,diseases_of_the_eye,Broj,Oba spola,5
-2017,diseases_of_the_circulatory,Broj,Oba spola,19207
-2017,diseases_of_the_respiratory,Broj,Oba spola,1579
-2017,diseases_of_the_digestive,Broj,Oba spola,1007
-2017,diseases_of_the_skin,Broj,Oba spola,44
-2017,diseases_of_the_musculoskeletal,Broj,Oba spola,44
-2017,diseases_of_the_genitourinary,Broj,Oba spola,587
-2017,certain_conditions_originating,Broj,Oba spola,136
-2017,congenital_malformations_deformations,Broj,Oba spola,27
-2017,symptoms_signs_and_abnormal,Broj,Oba spola,2294
-2017,injuries_poisoning_and_consequences,Broj,Oba spola,1067
-2017,external_causes_of_mortality,Broj,Oba spola,15
-2017,unknown,Broj,Oba spola,550
-2017,Ukupno,Broj,Oba spola,37979
-2017,infectious_and_parasitic,Broj,Muškarci,209
-2017,neoplasms,Broj,Muškarci,4632
-2017,diseases_of_the_blood,Broj,Muškarci,25
-2017,endocrine_metabolic_and_nutritional,Broj,Muškarci,885
-2017,mental_and_behavioural_disorders,Broj,Muškarci,147
-2017,diseases_of_the_nervous,Broj,Muškarci,193
-2017,diseases_of_the_eye,Broj,Muškarci,2
-2017,diseases_of_the_circulatory,Broj,Muškarci,888
-2017,diseases_of_the_respiratory,Broj,Muškarci,936
-2017,diseases_of_the_digestive,Broj,Muškarci,570
-2017,diseases_of_the_skin,Broj,Muškarci,12
-2017,diseases_of_the_musculoskeletal,Broj,Muškarci,17
-2017,diseases_of_the_genitourinary,Broj,Muškarci,299
-2017,certain_conditions_originating,Broj,Muškarci,75
-2017,congenital_malformations_deformations,Broj,Muškarci,16
-2017,symptoms_signs_and_abnormal,Broj,Muškarci,1168
-2017,injuries_poisoning_and_consequences,Broj,Muškarci,780
-2017,external_causes_of_mortality,Broj,Muškarci,9
-2017,unknown,Broj,Muškarci,331
-2017,Ukupno,Broj,Muškarci,19186
-2017,infectious_and_parasitic,Broj,Žene,186
-2017,neoplasms,Broj,Žene,3504
-2017,diseases_of_the_blood,Broj,Žene,44
-2017,endocrine_metabolic_and_nutritional,Broj,Žene,1285
-2017,mental_and_behavioural_disorders,Broj,Žene,118
-2017,diseases_of_the_nervous,Broj,Žene,189
-2017,diseases_of_the_eye,Broj,Žene,3
-2017,diseases_of_the_circulatory,Broj,Žene,10327
-2017,diseases_of_the_respiratory,Broj,Žene,643
-2017,diseases_of_the_digestive,Broj,Žene,437
-2017,diseases_of_the_skin,Broj,Žene,32
-2017,diseases_of_the_musculoskeletal,Broj,Žene,27
-2017,diseases_of_the_genitourinary,Broj,Žene,288
-2017,certain_conditions_originating,Broj,Žene,61
-2017,congenital_malformations_deformations,Broj,Žene,Vrijednost
-2017,symptoms_signs_and_abnormal,Broj,Žene,4591
-2017,injuries_poisoning_and_consequences,Broj,Žene,15911
-2017,external_causes_of_mortality,Broj,Žene,866
-2017,unknown,Broj,Žene,709
-2017,Ukupno,Broj,Žene,2552
-2018,infectious_and_parasitic,Broj,Oba spola,1022
-2018,neoplasms,Broj,Oba spola,25651
-2018,diseases_of_the_blood,Broj,Oba spola,2752
-2018,endocrine_metabolic_and_nutritional,Broj,Oba spola,77
-2018,mental_and_behavioural_disorders,Broj,Oba spola,498
-2018,diseases_of_the_nervous,Broj,Oba spola,445
-2018,diseases_of_the_circulatory,Broj,Oba spola,1347
-2018,diseases_of_the_respiratory,Broj,Oba spola,786
-2018,diseases_of_the_digestive,Broj,Oba spola,13528
-2018,diseases_of_the_skin,Broj,Oba spola,1839
-2018,diseases_of_the_musculoskeletal,Broj,Oba spola,8211
-2018,diseases_of_the_genitourinary,Broj,Oba spola,368
-2018,pregnancy_childbirth_and_the,Broj,Oba spola,264
-2018,certain_conditions_originating,Broj,Oba spola,1205
-2018,congenital_malformations_deformations,Broj,Oba spola,236
-2018,symptoms_signs_and_abnormal,Broj,Oba spola,12123
-2018,injuries_poisoning_and_consequences,Broj,Oba spola,5122
-2018,external_causes_of_mortality,Broj,Oba spola,16283
-2018,factors_influencing_health_status,Broj,Oba spola,805
-2018,unknown,Broj,Oba spola,848
-2018,Ukupno,Broj,Oba spola,2860
-2018,infectious_and_parasitic,Broj,Muškarci,1091
-2018,neoplasms,Broj,Muškarci,27009
-2018,diseases_of_the_blood,Broj,Muškarci,3144
-2018,endocrine_metabolic_and_nutritional,Broj,Muškarci,781
-2018,mental_and_behavioural_disorders,Broj,Muškarci,464
-2018,diseases_of_the_nervous,Broj,Muškarci,518
-2018,diseases_of_the_circulatory,Broj,Muškarci,1484
-2018,diseases_of_the_respiratory,Broj,Muškarci,812
-2018,diseases_of_the_digestive,Broj,Muškarci,14232
-2018,diseases_of_the_skin,Broj,Muškarci,1978
-2018,diseases_of_the_musculoskeletal,Broj,Muškarci,8473
-2018,diseases_of_the_genitourinary,Broj,Muškarci,341
-2018,certain_conditions_originating,Broj,Muškarci,330
-2018,congenital_malformations_deformations,Broj,Muškarci,1376
-2018,symptoms_signs_and_abnormal,Broj,Muškarci,279
-2018,injuries_poisoning_and_consequences,Broj,Muškarci,12777
-2018,external_causes_of_mortality,Broj,Muškarci,257
-2018,factors_influencing_health_status,Broj,Muškarci,5347
-2018,unknown,Broj,Muškarci,20
-2018,Ukupno,Broj,Muškarci,667
-2018,infectious_and_parasitic,Broj,Žene,48
-2018,neoplasms,Broj,Žene,161
-2018,diseases_of_the_blood,Broj,Žene,1
-2018,endocrine_metabolic_and_nutritional,Broj,Žene,16328
-2018,mental_and_behavioural_disorders,Broj,Žene,745
-2018,diseases_of_the_nervous,Broj,Žene,827
-2018,diseases_of_the_circulatory,Broj,Žene,17
-2018,diseases_of_the_respiratory,Broj,Žene,14
-2018,diseases_of_the_digestive,Broj,Žene,397
-2018,diseases_of_the_skin,Broj,Žene,1
-2018,diseases_of_the_musculoskeletal,Broj,Žene,188
-2018,diseases_of_the_genitourinary,Broj,Žene,43
-2018,pregnancy_childbirth_and_the,Broj,Žene,3031
-2018,certain_conditions_originating,Broj,Žene,1017
-2018,congenital_malformations_deformations,Broj,Žene,261
-2018,symptoms_signs_and_abnormal,Broj,Žene,1
-2018,injuries_poisoning_and_consequences,Broj,Žene,954
-2018,external_causes_of_mortality,Broj,Žene,30325
-2018,unknown,Broj,Žene,157
-2018,Ukupno,Broj,Žene,3288
-2019,infectious_and_parasitic,Broj,Oba spola,7
-2019,neoplasms,Broj,Oba spola,240
-2019,diseases_of_the_blood,Broj,Oba spola,37
-2019,endocrine_metabolic_and_nutritional,Broj,Oba spola,79
-2019,mental_and_behavioural_disorders,Broj,Oba spola,1
-2019,diseases_of_the_nervous,Broj,Oba spola,7943
-2019,diseases_of_the_eye,Broj,Oba spola,434
-2019,diseases_of_the_circulatory,Broj,Oba spola,540
-2019,diseases_of_the_respiratory,Broj,Oba spola,5
-2019,diseases_of_the_digestive,Broj,Oba spola,6
-2019,diseases_of_the_skin,Broj,Oba spola,200
-2019,diseases_of_the_musculoskeletal,Broj,Oba spola,0
-2019,diseases_of_the_genitourinary,Broj,Oba spola,109
-2019,pregnancy_childbirth_and_the,Broj,Oba spola,18
-2019,certain_conditions_originating,Broj,Oba spola,1637
-2019,congenital_malformations_deformations,Broj,Oba spola,768
-2019,symptoms_signs_and_abnormal,Broj,Oba spola,206
-2019,injuries_poisoning_and_consequences,Broj,Oba spola,527
-2019,external_causes_of_mortality,Broj,Oba spola,16202
-2019,factors_influencing_health_status,Broj,Oba spola,100
-2019,unknown,Broj,Oba spola,2059
-2019,Ukupno,Broj,Oba spola,13
-2019,infectious_and_parasitic,Broj,Muškarci,427
-2019,neoplasms,Broj,Muškarci,11
-2019,diseases_of_the_blood,Broj,Muškarci,82
-2019,endocrine_metabolic_and_nutritional,Broj,Muškarci,8385
-2019,mental_and_behavioural_disorders,Broj,Muškarci,311
-2019,diseases_of_the_nervous,Broj,Muškarci,287
-2019,diseases_of_the_eye,Broj,Muškarci,12
-2019,diseases_of_the_circulatory,Broj,Muškarci,8
-2019,diseases_of_the_respiratory,Broj,Muškarci,197
-2019,diseases_of_the_digestive,Broj,Muškarci,1
-2019,diseases_of_the_skin,Broj,Muškarci,79
-2019,diseases_of_the_musculoskeletal,Broj,Muškarci,25
-2019,diseases_of_the_genitourinary,Broj,Muškarci,1394
-2019,certain_conditions_originating,Broj,Muškarci,249
-2019,congenital_malformations_deformations,Broj,Muškarci,55
-2019,symptoms_signs_and_abnormal,Broj,Muškarci,1
-2019,injuries_poisoning_and_consequences,Broj,Muškarci,427
-2019,external_causes_of_mortality,Broj,Muškarci,14123
-2019,factors_influencing_health_status,Broj,Muškarci,263
-2019,unknown,Broj,Muškarci,5288
-2019,Ukupno,Broj,Muškarci,19
-2019,infectious_and_parasitic,Broj,Žene,862
-2019,neoplasms,Broj,Žene,66
-2019,diseases_of_the_blood,Broj,Žene,157
-2019,endocrine_metabolic_and_nutritional,Broj,Žene,1
-2019,mental_and_behavioural_disorders,Broj,Žene,16007
-2019,diseases_of_the_nervous,Broj,Žene,817
-2019,diseases_of_the_eye,Broj,Žene,820
-2019,diseases_of_the_circulatory,Broj,Žene,17
-2019,diseases_of_the_respiratory,Broj,Žene,10
-2019,diseases_of_the_digestive,Broj,Žene,219
-2019,diseases_of_the_skin,Broj,Žene,3
-2019,diseases_of_the_musculoskeletal,Broj,Žene,226
-2019,diseases_of_the_genitourinary,Broj,Žene,56
-2019,pregnancy_childbirth_and_the,Broj,Žene,2983
-2019,certain_conditions_originating,Broj,Žene,984
-2019,congenital_malformations_deformations,Broj,Žene,242
-2019,symptoms_signs_and_abnormal,Broj,Žene,1
-2019,injuries_poisoning_and_consequences,Broj,Žene,1790
-2019,external_causes_of_mortality,Broj,Žene,30831
-2019,factors_influencing_health_status,Broj,Žene,160
-2019,unknown,Broj,Žene,3201
-2019,Ukupno,Broj,Žene,11
+Year,Spol,CAUSE_OF_DEATH,UNIT_MEASURE,Value
+1999,Oba spola,neoplasms,Broj,4591
+1999,Oba spola,diseases_of_the_circulatory,Broj,15911
+1999,Oba spola,diseases_of_the_respiratory,Broj,866
+1999,Oba spola,diseases_of_the_digestive,Broj,709
+1999,Oba spola,symptoms_signs_and_abnormal,Broj,2552
+1999,Oba spola,injuries_poisoning_and_consequences,Broj,1022
+1999,Oba spola,Ukupno,Broj,25651
+1999,Muškarci,neoplasms,Broj,2752
+1999,Muškarci,diseases_of_the_circulatory,Broj,77
+1999,Muškarci,diseases_of_the_respiratory,Broj,498
+1999,Muškarci,diseases_of_the_digestive,Broj,445
+1999,Muškarci,symptoms_signs_and_abnormal,Broj,1347
+1999,Muškarci,injuries_poisoning_and_consequences,Broj,786
+1999,Muškarci,Ukupno,Broj,13528
+1999,Žene,neoplasms,Broj,1839
+1999,Žene,diseases_of_the_circulatory,Broj,8211
+1999,Žene,diseases_of_the_respiratory,Broj,368
+1999,Žene,diseases_of_the_digestive,Broj,264
+1999,Žene,symptoms_signs_and_abnormal,Broj,1205
+1999,Žene,injuries_poisoning_and_consequences,Broj,236
+1999,Žene,Ukupno,Broj,12123
+2000,Oba spola,neoplasms,Broj,5122
+2000,Oba spola,diseases_of_the_circulatory,Broj,16283
+2000,Oba spola,diseases_of_the_respiratory,Broj,805
+2000,Oba spola,diseases_of_the_digestive,Broj,848
+2000,Oba spola,symptoms_signs_and_abnormal,Broj,2860
+2000,Oba spola,injuries_poisoning_and_consequences,Broj,1091
+2000,Oba spola,Ukupno,Broj,27009
+2000,Muškarci,neoplasms,Broj,3144
+2000,Muškarci,diseases_of_the_circulatory,Broj,781
+2000,Muškarci,diseases_of_the_respiratory,Broj,464
+2000,Muškarci,diseases_of_the_digestive,Broj,518
+2000,Muškarci,symptoms_signs_and_abnormal,Broj,1484
+2000,Muškarci,injuries_poisoning_and_consequences,Broj,812
+2000,Muškarci,Ukupno,Broj,14232
+2000,Žene,neoplasms,Broj,1978
+2000,Žene,diseases_of_the_circulatory,Broj,8473
+2000,Žene,diseases_of_the_respiratory,Broj,341
+2000,Žene,diseases_of_the_digestive,Broj,330
+2000,Žene,symptoms_signs_and_abnormal,Broj,1376
+2000,Žene,injuries_poisoning_and_consequences,Broj,279
+2000,Žene,Ukupno,Broj,12777
+2001,Oba spola,infectious_and_parasitic,Broj,257
+2001,Oba spola,neoplasms,Broj,5347
+2001,Oba spola,diseases_of_the_blood,Broj,20
+2001,Oba spola,endocrine_metabolic_and_nutritional,Broj,667
+2001,Oba spola,mental_and_behavioural_disorders,Broj,48
+2001,Oba spola,diseases_of_the_nervous,Broj,161
+2001,Oba spola,diseases_of_the_eye,Broj,1
+2001,Oba spola,diseases_of_the_circulatory,Broj,16328
+2001,Oba spola,diseases_of_the_respiratory,Broj,745
+2001,Oba spola,diseases_of_the_digestive,Broj,827
+2001,Oba spola,diseases_of_the_skin,Broj,17
+2001,Oba spola,diseases_of_the_musculoskeletal,Broj,14
+2001,Oba spola,diseases_of_the_genitourinary,Broj,397
+2001,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2001,Oba spola,certain_conditions_originating,Broj,188
+2001,Oba spola,congenital_malformations_deformations,Broj,43
+2001,Oba spola,symptoms_signs_and_abnormal,Broj,3031
+2001,Oba spola,injuries_poisoning_and_consequences,Broj,1017
+2001,Oba spola,external_causes_of_mortality,Broj,261
+2001,Oba spola,factors_influencing_health_status,Broj,1
+2001,Oba spola,unknown,Broj,954
+2001,Oba spola,Ukupno,Broj,30325
+2001,Muškarci,infectious_and_parasitic,Broj,157
+2001,Muškarci,neoplasms,Broj,3288
+2001,Muškarci,diseases_of_the_blood,Broj,7
+2001,Muškarci,endocrine_metabolic_and_nutritional,Broj,240
+2001,Muškarci,mental_and_behavioural_disorders,Broj,37
+2001,Muškarci,diseases_of_the_nervous,Broj,79
+2001,Muškarci,diseases_of_the_eye,Broj,1
+2001,Muškarci,diseases_of_the_circulatory,Broj,7943
+2001,Muškarci,diseases_of_the_respiratory,Broj,434
+2001,Muškarci,diseases_of_the_digestive,Broj,540
+2001,Muškarci,diseases_of_the_skin,Broj,5
+2001,Muškarci,diseases_of_the_musculoskeletal,Broj,6
+2001,Muškarci,diseases_of_the_genitourinary,Broj,200
+2001,Muškarci,pregnancy_childbirth_and_the,Broj,0
+2001,Muškarci,certain_conditions_originating,Broj,109
+2001,Muškarci,congenital_malformations_deformations,Broj,18
+2001,Muškarci,symptoms_signs_and_abnormal,Broj,1637
+2001,Muškarci,injuries_poisoning_and_consequences,Broj,768
+2001,Muškarci,external_causes_of_mortality,Broj,206
+2001,Muškarci,unknown,Broj,527
+2001,Muškarci,Ukupno,Broj,16202
+2001,Žene,infectious_and_parasitic,Broj,100
+2001,Žene,neoplasms,Broj,2059
+2001,Žene,diseases_of_the_blood,Broj,13
+2001,Žene,endocrine_metabolic_and_nutritional,Broj,427
+2001,Žene,mental_and_behavioural_disorders,Broj,11
+2001,Žene,diseases_of_the_nervous,Broj,82
+2001,Žene,diseases_of_the_circulatory,Broj,8385
+2001,Žene,diseases_of_the_respiratory,Broj,311
+2001,Žene,diseases_of_the_digestive,Broj,287
+2001,Žene,diseases_of_the_skin,Broj,12
+2001,Žene,diseases_of_the_musculoskeletal,Broj,8
+2001,Žene,diseases_of_the_genitourinary,Broj,197
+2001,Žene,pregnancy_childbirth_and_the,Broj,1
+2001,Žene,certain_conditions_originating,Broj,79
+2001,Žene,congenital_malformations_deformations,Broj,25
+2001,Žene,symptoms_signs_and_abnormal,Broj,1394
+2001,Žene,injuries_poisoning_and_consequences,Broj,249
+2001,Žene,external_causes_of_mortality,Broj,55
+2001,Žene,factors_influencing_health_status,Broj,1
+2001,Žene,unknown,Broj,427
+2001,Žene,Ukupno,Broj,14123
+2002,Oba spola,infectious_and_parasitic,Broj,263
+2002,Oba spola,neoplasms,Broj,5288
+2002,Oba spola,diseases_of_the_blood,Broj,19
+2002,Oba spola,endocrine_metabolic_and_nutritional,Broj,862
+2002,Oba spola,mental_and_behavioural_disorders,Broj,66
+2002,Oba spola,diseases_of_the_nervous,Broj,157
+2002,Oba spola,diseases_of_the_eye,Broj,1
+2002,Oba spola,diseases_of_the_circulatory,Broj,16007
+2002,Oba spola,diseases_of_the_respiratory,Broj,817
+2002,Oba spola,diseases_of_the_digestive,Broj,820
+2002,Oba spola,diseases_of_the_skin,Broj,17
+2002,Oba spola,diseases_of_the_musculoskeletal,Broj,10
+2002,Oba spola,diseases_of_the_genitourinary,Broj,219
+2002,Oba spola,pregnancy_childbirth_and_the,Broj,3
+2002,Oba spola,certain_conditions_originating,Broj,226
+2002,Oba spola,congenital_malformations_deformations,Broj,56
+2002,Oba spola,symptoms_signs_and_abnormal,Broj,2983
+2002,Oba spola,injuries_poisoning_and_consequences,Broj,984
+2002,Oba spola,external_causes_of_mortality,Broj,242
+2002,Oba spola,factors_influencing_health_status,Broj,1
+2002,Oba spola,unknown,Broj,1790
+2002,Oba spola,Ukupno,Broj,30831
+2002,Muškarci,infectious_and_parasitic,Broj,160
+2002,Muškarci,neoplasms,Broj,3201
+2002,Muškarci,diseases_of_the_blood,Broj,11
+2002,Muškarci,endocrine_metabolic_and_nutritional,Broj,300
+2002,Muškarci,mental_and_behavioural_disorders,Broj,39
+2002,Muškarci,diseases_of_the_nervous,Broj,87
+2002,Muškarci,diseases_of_the_eye,Broj,1
+2002,Muškarci,diseases_of_the_circulatory,Broj,7544
+2002,Muškarci,diseases_of_the_respiratory,Broj,478
+2002,Muškarci,diseases_of_the_digestive,Broj,495
+2002,Muškarci,diseases_of_the_skin,Broj,3
+2002,Muškarci,diseases_of_the_musculoskeletal,Broj,2
+2002,Muškarci,diseases_of_the_genitourinary,Broj,120
+2002,Muškarci,pregnancy_childbirth_and_the,Broj,0
+2002,Muškarci,certain_conditions_originating,Broj,128
+2002,Muškarci,congenital_malformations_deformations,Broj,32
+2002,Muškarci,symptoms_signs_and_abnormal,Broj,1535
+2002,Muškarci,injuries_poisoning_and_consequences,Broj,751
+2002,Muškarci,external_causes_of_mortality,Broj,180
+2002,Muškarci,factors_influencing_health_status,Broj,1
+2002,Muškarci,unknown,Broj,965
+2002,Muškarci,Ukupno,Broj,16033
+2002,Žene,infectious_and_parasitic,Broj,103
+2002,Žene,neoplasms,Broj,2087
+2002,Žene,diseases_of_the_blood,Broj,8
+2002,Žene,endocrine_metabolic_and_nutritional,Broj,562
+2002,Žene,mental_and_behavioural_disorders,Broj,27
+2002,Žene,diseases_of_the_nervous,Broj,70
+2002,Žene,diseases_of_the_circulatory,Broj,8463
+2002,Žene,diseases_of_the_respiratory,Broj,339
+2002,Žene,diseases_of_the_digestive,Broj,325
+2002,Žene,diseases_of_the_skin,Broj,14
+2002,Žene,diseases_of_the_musculoskeletal,Broj,8
+2002,Žene,diseases_of_the_genitourinary,Broj,99
+2002,Žene,pregnancy_childbirth_and_the,Broj,3
+2002,Žene,certain_conditions_originating,Broj,98
+2002,Žene,congenital_malformations_deformations,Broj,24
+2002,Žene,symptoms_signs_and_abnormal,Broj,1448
+2002,Žene,injuries_poisoning_and_consequences,Broj,233
+2002,Žene,external_causes_of_mortality,Broj,62
+2002,Žene,unknown,Broj,825
+2002,Žene,Ukupno,Broj,14798
+2003,Oba spola,neoplasms,Broj,5771
+2003,Oba spola,diseases_of_the_circulatory,Broj,1699
+2003,Oba spola,diseases_of_the_respiratory,Broj,876
+2003,Oba spola,diseases_of_the_digestive,Broj,810
+2003,Oba spola,symptoms_signs_and_abnormal,Broj,3166
+2003,Oba spola,injuries_poisoning_and_consequences,Broj,950
+2003,Oba spola,unknown,Broj,770
+2003,Oba spola,Ukupno,Broj,29333
+2003,Muškarci,neoplasms,Broj,3499
+2003,Muškarci,diseases_of_the_circulatory,Broj,8001
+2003,Muškarci,diseases_of_the_respiratory,Broj,542
+2003,Muškarci,diseases_of_the_digestive,Broj,499
+2003,Muškarci,symptoms_signs_and_abnormal,Broj,1612
+2003,Muškarci,injuries_poisoning_and_consequences,Broj,706
+2003,Muškarci,unknown,Broj,424
+2003,Muškarci,Ukupno,Broj,15283
+2003,Žene,neoplasms,Broj,2272
+2003,Žene,diseases_of_the_circulatory,Broj,8989
+2003,Žene,diseases_of_the_respiratory,Broj,334
+2003,Žene,diseases_of_the_digestive,Broj,311
+2003,Žene,symptoms_signs_and_abnormal,Broj,1554
+2003,Žene,injuries_poisoning_and_consequences,Broj,244
+2003,Žene,unknown,Broj,346
+2003,Žene,Ukupno,Broj,14050
+2004,Oba spola,infectious_and_parasitic,Broj,255
+2004,Oba spola,neoplasms,Broj,5709
+2004,Oba spola,diseases_of_the_blood,Broj,31
+2004,Oba spola,endocrine_metabolic_and_nutritional,Broj,993
+2004,Oba spola,mental_and_behavioural_disorders,Broj,104
+2004,Oba spola,diseases_of_the_nervous,Broj,251
+2004,Oba spola,diseases_of_the_circulatory,Broj,177
+2004,Oba spola,diseases_of_the_respiratory,Broj,907
+2004,Oba spola,diseases_of_the_digestive,Broj,839
+2004,Oba spola,diseases_of_the_skin,Broj,11
+2004,Oba spola,diseases_of_the_musculoskeletal,Broj,16
+2004,Oba spola,diseases_of_the_genitourinary,Broj,467
+2004,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2004,Oba spola,certain_conditions_originating,Broj,163
+2004,Oba spola,congenital_malformations_deformations,Broj,42
+2004,Oba spola,symptoms_signs_and_abnormal,Broj,2723
+2004,Oba spola,injuries_poisoning_and_consequences,Broj,920
+2004,Oba spola,external_causes_of_mortality,Broj,273
+2004,Oba spola,factors_influencing_health_status,Broj,1
+2004,Oba spola,unknown,Broj,1210
+2004,Oba spola,Ukupno,Broj,32616
+2004,Muškarci,infectious_and_parasitic,Broj,152
+2004,Muškarci,neoplasms,Broj,3398
+2004,Muškarci,diseases_of_the_blood,Broj,10
+2004,Muškarci,endocrine_metabolic_and_nutritional,Broj,377
+2004,Muškarci,mental_and_behavioural_disorders,Broj,80
+2004,Muškarci,diseases_of_the_nervous,Broj,126
+2004,Muškarci,diseases_of_the_circulatory,Broj,8262
+2004,Muškarci,diseases_of_the_respiratory,Broj,551
+2004,Muškarci,diseases_of_the_digestive,Broj,498
+2004,Muškarci,diseases_of_the_skin,Broj,2
+2004,Muškarci,diseases_of_the_musculoskeletal,Broj,9
+2004,Muškarci,diseases_of_the_genitourinary,Broj,248
+2004,Muškarci,certain_conditions_originating,Broj,101
+2004,Muškarci,congenital_malformations_deformations,Broj,26
+2004,Muškarci,symptoms_signs_and_abnormal,Broj,1399
+2004,Muškarci,injuries_poisoning_and_consequences,Broj,691
+2004,Muškarci,external_causes_of_mortality,Broj,198
+2004,Muškarci,factors_influencing_health_status,Broj,1
+2004,Muškarci,unknown,Broj,651
+2004,Muškarci,Ukupno,Broj,16780
+2004,Žene,infectious_and_parasitic,Broj,103
+2004,Žene,neoplasms,Broj,2311
+2004,Žene,diseases_of_the_blood,Broj,21
+2004,Žene,endocrine_metabolic_and_nutritional,Broj,616
+2004,Žene,mental_and_behavioural_disorders,Broj,24
+2004,Žene,diseases_of_the_nervous,Broj,125
+2004,Žene,diseases_of_the_circulatory,Broj,9438
+2004,Žene,diseases_of_the_respiratory,Broj,356
+2004,Žene,diseases_of_the_digestive,Broj,341
+2004,Žene,diseases_of_the_skin,Broj,9
+2004,Žene,diseases_of_the_musculoskeletal,Broj,7
+2004,Žene,diseases_of_the_genitourinary,Broj,219
+2004,Žene,pregnancy_childbirth_and_the,Broj,1
+2004,Žene,certain_conditions_originating,Broj,62
+2004,Žene,congenital_malformations_deformations,Broj,16
+2004,Žene,symptoms_signs_and_abnormal,Broj,1324
+2004,Žene,injuries_poisoning_and_consequences,Broj,229
+2004,Žene,external_causes_of_mortality,Broj,75
+2004,Žene,unknown,Broj,559
+2004,Žene,Ukupno,Broj,15836
+2005,Oba spola,neoplasms,Broj,6255
+2005,Oba spola,diseases_of_the_circulatory,Broj,17915
+2005,Oba spola,diseases_of_the_respiratory,Broj,1242
+2005,Oba spola,diseases_of_the_digestive,Broj,818
+2005,Oba spola,symptoms_signs_and_abnormal,Broj,2394
+2005,Oba spola,injuries_poisoning_and_consequences,Broj,952
+2005,Oba spola,Ukupno,Broj,29576
+2005,Muškarci,neoplasms,Broj,3766
+2005,Muškarci,diseases_of_the_circulatory,Broj,8559
+2005,Muškarci,diseases_of_the_respiratory,Broj,726
+2005,Muškarci,diseases_of_the_digestive,Broj,491
+2005,Muškarci,symptoms_signs_and_abnormal,Broj,1312
+2005,Muškarci,injuries_poisoning_and_consequences,Broj,718
+2005,Muškarci,Ukupno,Broj,15572
+2005,Žene,neoplasms,Broj,2489
+2005,Žene,diseases_of_the_circulatory,Broj,9356
+2005,Žene,diseases_of_the_respiratory,Broj,516
+2005,Žene,diseases_of_the_digestive,Broj,327
+2005,Žene,symptoms_signs_and_abnormal,Broj,1082
+2005,Žene,injuries_poisoning_and_consequences,Broj,234
+2005,Žene,Ukupno,Broj,14004
+2006,Oba spola,infectious_and_parasitic,Broj,237
+2006,Oba spola,neoplasms,Broj,6252
+2006,Oba spola,diseases_of_the_blood,Broj,20
+2006,Oba spola,endocrine_metabolic_and_nutritional,Broj,1537
+2006,Oba spola,mental_and_behavioural_disorders,Broj,118
+2006,Oba spola,diseases_of_the_nervous,Broj,298
+2006,Oba spola,diseases_of_the_eye,Broj,1
+2006,Oba spola,diseases_of_the_circulatory,Broj,16967
+2006,Oba spola,diseases_of_the_respiratory,Broj,1132
+2006,Oba spola,diseases_of_the_digestive,Broj,826
+2006,Oba spola,diseases_of_the_skin,Broj,11
+2006,Oba spola,diseases_of_the_musculoskeletal,Broj,16
+2006,Oba spola,diseases_of_the_genitourinary,Broj,547
+2006,Oba spola,pregnancy_childbirth_and_the,Broj,3
+2006,Oba spola,certain_conditions_originating,Broj,185
+2006,Oba spola,congenital_malformations_deformations,Broj,56
+2006,Oba spola,symptoms_signs_and_abnormal,Broj,2744
+2006,Oba spola,injuries_poisoning_and_consequences,Broj,1017
+2006,Oba spola,external_causes_of_mortality,Broj,212
+2006,Oba spola,factors_influencing_health_status,Broj,1
+2006,Oba spola,unknown,Broj,1041
+2006,Oba spola,Ukupno,Broj,33221
+2006,Muškarci,infectious_and_parasitic,Broj,147
+2006,Muškarci,neoplasms,Broj,3697
+2006,Muškarci,diseases_of_the_blood,Broj,9
+2006,Muškarci,endocrine_metabolic_and_nutritional,Broj,598
+2006,Muškarci,mental_and_behavioural_disorders,Broj,88
+2006,Muškarci,diseases_of_the_nervous,Broj,174
+2006,Muškarci,diseases_of_the_circulatory,Broj,7941
+2006,Muškarci,diseases_of_the_respiratory,Broj,677
+2006,Muškarci,diseases_of_the_digestive,Broj,493
+2006,Muškarci,diseases_of_the_skin,Broj,6
+2006,Muškarci,diseases_of_the_musculoskeletal,Broj,3
+2006,Muškarci,diseases_of_the_genitourinary,Broj,293
+2006,Muškarci,certain_conditions_originating,Broj,118
+2006,Muškarci,congenital_malformations_deformations,Broj,32
+2006,Muškarci,symptoms_signs_and_abnormal,Broj,1527
+2006,Muškarci,injuries_poisoning_and_consequences,Broj,775
+2006,Muškarci,external_causes_of_mortality,Broj,152
+2006,Muškarci,unknown,Broj,578
+2006,Muškarci,Ukupno,Broj,17308
+2006,Žene,infectious_and_parasitic,Broj,90
+2006,Žene,neoplasms,Broj,2555
+2006,Žene,diseases_of_the_blood,Broj,11
+2006,Žene,endocrine_metabolic_and_nutritional,Broj,939
+2006,Žene,mental_and_behavioural_disorders,Broj,30
+2006,Žene,diseases_of_the_nervous,Broj,124
+2006,Žene,diseases_of_the_eye,Broj,1
+2006,Žene,diseases_of_the_circulatory,Broj,9026
+2006,Žene,diseases_of_the_respiratory,Broj,455
+2006,Žene,diseases_of_the_digestive,Broj,333
+2006,Žene,diseases_of_the_skin,Broj,5
+2006,Žene,diseases_of_the_musculoskeletal,Broj,13
+2006,Žene,diseases_of_the_genitourinary,Broj,254
+2006,Žene,pregnancy_childbirth_and_the,Broj,3
+2006,Žene,certain_conditions_originating,Broj,67
+2006,Žene,congenital_malformations_deformations,Broj,24
+2006,Žene,symptoms_signs_and_abnormal,Broj,1217
+2006,Žene,injuries_poisoning_and_consequences,Broj,242
+2006,Žene,external_causes_of_mortality,Broj,60
+2006,Žene,factors_influencing_health_status,Broj,1
+2006,Žene,unknown,Broj,463
+2006,Žene,Ukupno,Broj,15913
+2007,Oba spola,infectious_and_parasitic,Broj,250
+2007,Oba spola,neoplasms,Broj,6713
+2007,Oba spola,diseases_of_the_blood,Broj,54
+2007,Oba spola,endocrine_metabolic_and_nutritional,Broj,1582
+2007,Oba spola,mental_and_behavioural_disorders,Broj,162
+2007,Oba spola,diseases_of_the_nervous,Broj,317
+2007,Oba spola,diseases_of_the_eye,Broj,1
+2007,Oba spola,diseases_of_the_circulatory,Broj,18516
+2007,Oba spola,diseases_of_the_respiratory,Broj,1145
+2007,Oba spola,diseases_of_the_digestive,Broj,924
+2007,Oba spola,diseases_of_the_skin,Broj,10
+2007,Oba spola,diseases_of_the_musculoskeletal,Broj,32
+2007,Oba spola,diseases_of_the_genitourinary,Broj,558
+2007,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2007,Oba spola,certain_conditions_originating,Broj,133
+2007,Oba spola,congenital_malformations_deformations,Broj,54
+2007,Oba spola,symptoms_signs_and_abnormal,Broj,2219
+2007,Oba spola,injuries_poisoning_and_consequences,Broj,1030
+2007,Oba spola,external_causes_of_mortality,Broj,267
+2007,Oba spola,unknown,Broj,1076
+2007,Oba spola,Ukupno,Broj,35044
+2007,Muškarci,infectious_and_parasitic,Broj,164
+2007,Muškarci,neoplasms,Broj,3983
+2007,Muškarci,diseases_of_the_blood,Broj,22
+2007,Muškarci,endocrine_metabolic_and_nutritional,Broj,609
+2007,Muškarci,mental_and_behavioural_disorders,Broj,113
+2007,Muškarci,diseases_of_the_nervous,Broj,161
+2007,Muškarci,diseases_of_the_eye,Broj,1
+2007,Muškarci,diseases_of_the_circulatory,Broj,8697
+2007,Muškarci,diseases_of_the_respiratory,Broj,664
+2007,Muškarci,diseases_of_the_digestive,Broj,570
+2007,Muškarci,diseases_of_the_skin,Broj,4
+2007,Muškarci,diseases_of_the_musculoskeletal,Broj,9
+2007,Muškarci,diseases_of_the_genitourinary,Broj,320
+2007,Muškarci,pregnancy_childbirth_and_the,Broj,0
+2007,Muškarci,certain_conditions_originating,Broj,79
+2007,Muškarci,congenital_malformations_deformations,Broj,28
+2007,Muškarci,symptoms_signs_and_abnormal,Broj,1143
+2007,Muškarci,injuries_poisoning_and_consequences,Broj,766
+2007,Muškarci,external_causes_of_mortality,Broj,199
+2007,Muškarci,unknown,Broj,622
+2007,Muškarci,Ukupno,Broj,18154
+2007,Žene,infectious_and_parasitic,Broj,86
+2007,Žene,neoplasms,Broj,273
+2007,Žene,diseases_of_the_blood,Broj,32
+2007,Žene,endocrine_metabolic_and_nutritional,Broj,973
+2007,Žene,mental_and_behavioural_disorders,Broj,49
+2007,Žene,diseases_of_the_nervous,Broj,156
+2007,Žene,diseases_of_the_circulatory,Broj,9819
+2007,Žene,diseases_of_the_respiratory,Broj,481
+2007,Žene,diseases_of_the_digestive,Broj,354
+2007,Žene,diseases_of_the_skin,Broj,6
+2007,Žene,diseases_of_the_musculoskeletal,Broj,23
+2007,Žene,diseases_of_the_genitourinary,Broj,238
+2007,Žene,pregnancy_childbirth_and_the,Broj,1
+2007,Žene,certain_conditions_originating,Broj,54
+2007,Žene,congenital_malformations_deformations,Broj,26
+2007,Žene,symptoms_signs_and_abnormal,Broj,1076
+2007,Žene,injuries_poisoning_and_consequences,Broj,264
+2007,Žene,external_causes_of_mortality,Broj,68
+2007,Žene,unknown,Broj,454
+2007,Žene,Ukupno,Broj,16890
+2008,Oba spola,infectious_and_parasitic,Broj,275
+2008,Oba spola,neoplasms,Broj,6734
+2008,Oba spola,diseases_of_the_blood,Broj,37
+2008,Oba spola,endocrine_metabolic_and_nutritional,Broj,1563
+2008,Oba spola,mental_and_behavioural_disorders,Broj,169
+2008,Oba spola,diseases_of_the_nervous,Broj,287
+2008,Oba spola,diseases_of_the_eye,Broj,1
+2008,Oba spola,diseases_of_the_circulatory,Broj,17988
+2008,Oba spola,diseases_of_the_respiratory,Broj,1035
+2008,Oba spola,diseases_of_the_digestive,Broj,846
+2008,Oba spola,diseases_of_the_skin,Broj,10
+2008,Oba spola,diseases_of_the_musculoskeletal,Broj,40
+2008,Oba spola,diseases_of_the_genitourinary,Broj,571
+2008,Oba spola,pregnancy_childbirth_and_the,Broj,4
+2008,Oba spola,certain_conditions_originating,Broj,136
+2008,Oba spola,congenital_malformations_deformations,Broj,61
+2008,Oba spola,symptoms_signs_and_abnormal,Broj,2028
+2008,Oba spola,injuries_poisoning_and_consequences,Broj,1200
+2008,Oba spola,external_causes_of_mortality,Broj,2
+2008,Oba spola,unknown,Broj,1039
+2008,Oba spola,Ukupno,Broj,34026
+2008,Muškarci,infectious_and_parasitic,Broj,170
+2008,Muškarci,neoplasms,Broj,4053
+2008,Muškarci,diseases_of_the_blood,Broj,16
+2008,Muškarci,endocrine_metabolic_and_nutritional,Broj,618
+2008,Muškarci,mental_and_behavioural_disorders,Broj,127
+2008,Muškarci,diseases_of_the_nervous,Broj,167
+2008,Muškarci,diseases_of_the_circulatory,Broj,8385
+2008,Muškarci,diseases_of_the_respiratory,Broj,627
+2008,Muškarci,diseases_of_the_digestive,Broj,512
+2008,Muškarci,diseases_of_the_skin,Broj,3
+2008,Muškarci,diseases_of_the_musculoskeletal,Broj,14
+2008,Muškarci,diseases_of_the_genitourinary,Broj,306
+2008,Muškarci,certain_conditions_originating,Broj,75
+2008,Muškarci,congenital_malformations_deformations,Broj,32
+2008,Muškarci,symptoms_signs_and_abnormal,Broj,1052
+2008,Muškarci,injuries_poisoning_and_consequences,Broj,942
+2008,Muškarci,external_causes_of_mortality,Broj,2
+2008,Muškarci,unknown,Broj,586
+2008,Muškarci,Ukupno,Broj,17687
+2008,Žene,infectious_and_parasitic,Broj,105
+2008,Žene,neoplasms,Broj,2681
+2008,Žene,diseases_of_the_blood,Broj,21
+2008,Žene,endocrine_metabolic_and_nutritional,Broj,945
+2008,Žene,mental_and_behavioural_disorders,Broj,42
+2008,Žene,diseases_of_the_nervous,Broj,120
+2008,Žene,diseases_of_the_eye,Broj,1
+2008,Žene,diseases_of_the_circulatory,Broj,9603
+2008,Žene,diseases_of_the_respiratory,Broj,408
+2008,Žene,diseases_of_the_digestive,Broj,334
+2008,Žene,diseases_of_the_skin,Broj,7
+2008,Žene,diseases_of_the_musculoskeletal,Broj,26
+2008,Žene,diseases_of_the_genitourinary,Broj,265
+2008,Žene,pregnancy_childbirth_and_the,Broj,4
+2008,Žene,certain_conditions_originating,Broj,61
+2008,Žene,congenital_malformations_deformations,Broj,29
+2008,Žene,symptoms_signs_and_abnormal,Broj,976
+2008,Žene,injuries_poisoning_and_consequences,Broj,258
+2008,Žene,unknown,Broj,453
+2008,Žene,Ukupno,Broj,16339
+2009,Oba spola,infectious_and_parasitic,Broj,287
+2009,Oba spola,neoplasms,Broj,697
+2009,Oba spola,diseases_of_the_blood,Broj,41
+2009,Oba spola,endocrine_metabolic_and_nutritional,Broj,1999
+2009,Oba spola,mental_and_behavioural_disorders,Broj,191
+2009,Oba spola,diseases_of_the_nervous,Broj,319
+2009,Oba spola,diseases_of_the_circulatory,Broj,18295
+2009,Oba spola,diseases_of_the_respiratory,Broj,1133
+2009,Oba spola,diseases_of_the_digestive,Broj,936
+2009,Oba spola,diseases_of_the_skin,Broj,9
+2009,Oba spola,diseases_of_the_musculoskeletal,Broj,35
+2009,Oba spola,diseases_of_the_genitourinary,Broj,588
+2009,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2009,Oba spola,certain_conditions_originating,Broj,144
+2009,Oba spola,congenital_malformations_deformations,Broj,61
+2009,Oba spola,symptoms_signs_and_abnormal,Broj,1985
+2009,Oba spola,injuries_poisoning_and_consequences,Broj,1256
+2009,Oba spola,external_causes_of_mortality,Broj,2
+2009,Oba spola,factors_influencing_health_status,Broj,2
+2009,Oba spola,unknown,Broj,650
+2009,Oba spola,Ukupno,Broj,34904
+2009,Muškarci,infectious_and_parasitic,Broj,180
+2009,Muškarci,neoplasms,Broj,4118
+2009,Muškarci,diseases_of_the_blood,Broj,17
+2009,Muškarci,endocrine_metabolic_and_nutritional,Broj,766
+2009,Muškarci,mental_and_behavioural_disorders,Broj,127
+2009,Muškarci,diseases_of_the_nervous,Broj,167
+2009,Muškarci,diseases_of_the_circulatory,Broj,8586
+2009,Muškarci,diseases_of_the_respiratory,Broj,644
+2009,Muškarci,diseases_of_the_digestive,Broj,559
+2009,Muškarci,diseases_of_the_skin,Broj,4
+2009,Muškarci,diseases_of_the_musculoskeletal,Broj,8
+2009,Muškarci,diseases_of_the_genitourinary,Broj,299
+2009,Muškarci,certain_conditions_originating,Broj,76
+2009,Muškarci,congenital_malformations_deformations,Broj,31
+2009,Muškarci,symptoms_signs_and_abnormal,Broj,1012
+2009,Muškarci,injuries_poisoning_and_consequences,Broj,941
+2009,Muškarci,external_causes_of_mortality,Broj,2
+2009,Muškarci,factors_influencing_health_status,Broj,1
+2009,Muškarci,unknown,Broj,346
+2009,Muškarci,Ukupno,Broj,17884
+2009,Žene,infectious_and_parasitic,Broj,107
+2009,Žene,neoplasms,Broj,2852
+2009,Žene,diseases_of_the_blood,Broj,24
+2009,Žene,endocrine_metabolic_and_nutritional,Broj,1233
+2009,Žene,mental_and_behavioural_disorders,Broj,64
+2009,Žene,diseases_of_the_nervous,Broj,152
+2009,Žene,diseases_of_the_circulatory,Broj,9709
+2009,Žene,diseases_of_the_respiratory,Broj,489
+2009,Žene,diseases_of_the_digestive,Broj,377
+2009,Žene,diseases_of_the_skin,Broj,5
+2009,Žene,diseases_of_the_musculoskeletal,Broj,27
+2009,Žene,diseases_of_the_genitourinary,Broj,289
+2009,Žene,pregnancy_childbirth_and_the,Broj,1
+2009,Žene,certain_conditions_originating,Broj,68
+2009,Žene,congenital_malformations_deformations,Broj,30
+2009,Žene,symptoms_signs_and_abnormal,Broj,973
+2009,Žene,injuries_poisoning_and_consequences,Broj,315
+2009,Žene,factors_influencing_health_status,Broj,1
+2009,Žene,unknown,Broj,304
+2009,Žene,Ukupno,Broj,17020
+2010,Oba spola,infectious_and_parasitic,Broj,285
+2010,Oba spola,neoplasms,Broj,6973
+2010,Oba spola,diseases_of_the_blood,Broj,45
+2010,Oba spola,endocrine_metabolic_and_nutritional,Broj,1903
+2010,Oba spola,mental_and_behavioural_disorders,Broj,171
+2010,Oba spola,diseases_of_the_nervous,Broj,350
+2010,Oba spola,diseases_of_the_eye,Broj,2
+2010,Oba spola,diseases_of_the_circulatory,Broj,18805
+2010,Oba spola,diseases_of_the_respiratory,Broj,1145
+2010,Oba spola,diseases_of_the_digestive,Broj,918
+2010,Oba spola,diseases_of_the_skin,Broj,14
+2010,Oba spola,diseases_of_the_musculoskeletal,Broj,42
+2010,Oba spola,diseases_of_the_genitourinary,Broj,577
+2010,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2010,Oba spola,certain_conditions_originating,Broj,138
+2010,Oba spola,congenital_malformations_deformations,Broj,63
+2010,Oba spola,symptoms_signs_and_abnormal,Broj,1916
+2010,Oba spola,injuries_poisoning_and_consequences,Broj,1117
+2010,Oba spola,external_causes_of_mortality,Broj,15
+2010,Oba spola,factors_influencing_health_status,Broj,0
+2010,Oba spola,unknown,Broj,638
+2010,Oba spola,Ukupno,Broj,35118
+2010,Muškarci,infectious_and_parasitic,Broj,183
+2010,Muškarci,neoplasms,Broj,4059
+2010,Muškarci,diseases_of_the_blood,Broj,17
+2010,Muškarci,endocrine_metabolic_and_nutritional,Broj,729
+2010,Muškarci,mental_and_behavioural_disorders,Broj,118
+2010,Muškarci,diseases_of_the_nervous,Broj,178
+2010,Muškarci,diseases_of_the_eye,Broj,1
+2010,Muškarci,diseases_of_the_circulatory,Broj,8699
+2010,Muškarci,diseases_of_the_respiratory,Broj,681
+2010,Muškarci,diseases_of_the_digestive,Broj,544
+2010,Muškarci,diseases_of_the_skin,Broj,5
+2010,Muškarci,diseases_of_the_musculoskeletal,Broj,16
+2010,Muškarci,diseases_of_the_genitourinary,Broj,296
+2010,Muškarci,certain_conditions_originating,Broj,76
+2010,Muškarci,congenital_malformations_deformations,Broj,37
+2010,Muškarci,symptoms_signs_and_abnormal,Broj,1008
+2010,Muškarci,injuries_poisoning_and_consequences,Broj,878
+2010,Muškarci,external_causes_of_mortality,Broj,11
+2010,Muškarci,unknown,Broj,364
+2010,Muškarci,Ukupno,Broj,17900
+2010,Žene,infectious_and_parasitic,Broj,102
+2010,Žene,neoplasms,Broj,2914
+2010,Žene,diseases_of_the_blood,Broj,28
+2010,Žene,endocrine_metabolic_and_nutritional,Broj,1174
+2010,Žene,mental_and_behavioural_disorders,Broj,53
+2010,Žene,diseases_of_the_nervous,Broj,172
+2010,Žene,diseases_of_the_eye,Broj,1
+2010,Žene,diseases_of_the_circulatory,Broj,10106
+2010,Žene,diseases_of_the_respiratory,Broj,464
+2010,Žene,diseases_of_the_digestive,Broj,374
+2010,Žene,diseases_of_the_skin,Broj,9
+2010,Žene,diseases_of_the_musculoskeletal,Broj,26
+2010,Žene,diseases_of_the_genitourinary,Broj,281
+2010,Žene,pregnancy_childbirth_and_the,Broj,1
+2010,Žene,certain_conditions_originating,Broj,62
+2010,Žene,congenital_malformations_deformations,Broj,26
+2010,Žene,symptoms_signs_and_abnormal,Broj,908
+2010,Žene,injuries_poisoning_and_consequences,Broj,239
+2010,Žene,external_causes_of_mortality,Broj,4
+2010,Žene,unknown,Broj,274
+2010,Žene,Ukupno,Broj,17218
+2011,Oba spola,infectious_and_parasitic,Broj,298
+2011,Oba spola,neoplasms,Broj,7214
+2011,Oba spola,diseases_of_the_blood,Broj,59
+2011,Oba spola,endocrine_metabolic_and_nutritional,Broj,194
+2011,Oba spola,mental_and_behavioural_disorders,Broj,161
+2011,Oba spola,diseases_of_the_nervous,Broj,410
+2011,Oba spola,diseases_of_the_circulatory,Broj,18468
+2011,Oba spola,diseases_of_the_respiratory,Broj,1281
+2011,Oba spola,diseases_of_the_digestive,Broj,874
+2011,Oba spola,diseases_of_the_skin,Broj,12
+2011,Oba spola,diseases_of_the_musculoskeletal,Broj,45
+2011,Oba spola,diseases_of_the_genitourinary,Broj,551
+2011,Oba spola,pregnancy_childbirth_and_the,Broj,2
+2011,Oba spola,certain_conditions_originating,Broj,118
+2011,Oba spola,congenital_malformations_deformations,Broj,58
+2011,Oba spola,symptoms_signs_and_abnormal,Broj,1665
+2011,Oba spola,injuries_poisoning_and_consequences,Broj,1162
+2011,Oba spola,external_causes_of_mortality,Broj,14
+2011,Oba spola,factors_influencing_health_status,Broj,1
+2011,Oba spola,unknown,Broj,695
+2011,Oba spola,Ukupno,Broj,35028
+2011,Muškarci,infectious_and_parasitic,Broj,192
+2011,Muškarci,neoplasms,Broj,4316
+2011,Muškarci,diseases_of_the_blood,Broj,20
+2011,Muškarci,endocrine_metabolic_and_nutritional,Broj,761
+2011,Muškarci,mental_and_behavioural_disorders,Broj,89
+2011,Muškarci,diseases_of_the_nervous,Broj,213
+2011,Muškarci,diseases_of_the_circulatory,Broj,8542
+2011,Muškarci,diseases_of_the_respiratory,Broj,725
+2011,Muškarci,diseases_of_the_digestive,Broj,543
+2011,Muškarci,diseases_of_the_skin,Broj,2
+2011,Muškarci,diseases_of_the_musculoskeletal,Broj,12
+2011,Muškarci,diseases_of_the_genitourinary,Broj,302
+2011,Muškarci,certain_conditions_originating,Broj,67
+2011,Muškarci,congenital_malformations_deformations,Broj,30
+2011,Muškarci,symptoms_signs_and_abnormal,Broj,829
+2011,Muškarci,injuries_poisoning_and_consequences,Broj,930
+2011,Muškarci,external_causes_of_mortality,Broj,13
+2011,Muškarci,factors_influencing_health_status,Broj,1
+2011,Muškarci,unknown,Broj,378
+2011,Muškarci,Ukupno,Broj,17965
+2011,Žene,infectious_and_parasitic,Broj,106
+2011,Žene,neoplasms,Broj,2898
+2011,Žene,diseases_of_the_blood,Broj,39
+2011,Žene,endocrine_metabolic_and_nutritional,Broj,1179
+2011,Žene,mental_and_behavioural_disorders,Broj,72
+2011,Žene,diseases_of_the_nervous,Broj,197
+2011,Žene,diseases_of_the_circulatory,Broj,9926
+2011,Žene,diseases_of_the_respiratory,Broj,556
+2011,Žene,diseases_of_the_digestive,Broj,331
+2011,Žene,diseases_of_the_skin,Broj,10
+2011,Žene,diseases_of_the_musculoskeletal,Broj,33
+2011,Žene,diseases_of_the_genitourinary,Broj,249
+2011,Žene,pregnancy_childbirth_and_the,Broj,2
+2011,Žene,certain_conditions_originating,Broj,51
+2011,Žene,congenital_malformations_deformations,Broj,28
+2011,Žene,symptoms_signs_and_abnormal,Broj,836
+2011,Žene,injuries_poisoning_and_consequences,Broj,232
+2011,Žene,external_causes_of_mortality,Broj,1
+2011,Žene,unknown,Broj,317
+2011,Žene,Ukupno,Broj,17063
+2012,Oba spola,infectious_and_parasitic,Broj,344
+2012,Oba spola,neoplasms,Broj,7598
+2012,Oba spola,diseases_of_the_blood,Broj,47
+2012,Oba spola,endocrine_metabolic_and_nutritional,Broj,1926
+2012,Oba spola,mental_and_behavioural_disorders,Broj,160
+2012,Oba spola,diseases_of_the_nervous,Broj,409
+2012,Oba spola,diseases_of_the_eye,Broj,1
+2012,Oba spola,diseases_of_the_circulatory,Broj,19252
+2012,Oba spola,diseases_of_the_respiratory,Broj,1266
+2012,Oba spola,diseases_of_the_digestive,Broj,978
+2012,Oba spola,diseases_of_the_skin,Broj,13
+2012,Oba spola,diseases_of_the_musculoskeletal,Broj,54
+2012,Oba spola,diseases_of_the_genitourinary,Broj,601
+2012,Oba spola,pregnancy_childbirth_and_the,Broj,3
+2012,Oba spola,certain_conditions_originating,Broj,111
+2012,Oba spola,congenital_malformations_deformations,Broj,40
+2012,Oba spola,symptoms_signs_and_abnormal,Broj,1207
+2012,Oba spola,injuries_poisoning_and_consequences,Broj,1067
+2012,Oba spola,unknown,Broj,740
+2012,Oba spola,Ukupno,Broj,35817
+2012,Muškarci,infectious_and_parasitic,Broj,185
+2012,Muškarci,neoplasms,Broj,4458
+2012,Muškarci,diseases_of_the_blood,Broj,25
+2012,Muškarci,endocrine_metabolic_and_nutritional,Broj,785
+2012,Muškarci,mental_and_behavioural_disorders,Broj,109
+2012,Muškarci,diseases_of_the_nervous,Broj,207
+2012,Muškarci,diseases_of_the_circulatory,Broj,906
+2012,Muškarci,diseases_of_the_respiratory,Broj,754
+2012,Muškarci,diseases_of_the_digestive,Broj,588
+2012,Muškarci,diseases_of_the_skin,Broj,6
+2012,Muškarci,diseases_of_the_musculoskeletal,Broj,15
+2012,Muškarci,diseases_of_the_genitourinary,Broj,303
+2012,Muškarci,pregnancy_childbirth_and_the,Broj,0
+2012,Muškarci,certain_conditions_originating,Broj,67
+2012,Muškarci,congenital_malformations_deformations,Broj,26
+2012,Muškarci,symptoms_signs_and_abnormal,Broj,609
+2012,Muškarci,injuries_poisoning_and_consequences,Broj,830
+2012,Muškarci,unknown,Broj,409
+2012,Muškarci,Ukupno,Broj,18436
+2012,Žene,infectious_and_parasitic,Broj,159
+2012,Žene,neoplasms,Broj,314
+2012,Žene,diseases_of_the_blood,Broj,22
+2012,Žene,endocrine_metabolic_and_nutritional,Broj,1141
+2012,Žene,mental_and_behavioural_disorders,Broj,51
+2012,Žene,diseases_of_the_nervous,Broj,202
+2012,Žene,diseases_of_the_eye,Broj,1
+2012,Žene,diseases_of_the_circulatory,Broj,10192
+2012,Žene,diseases_of_the_respiratory,Broj,512
+2012,Žene,diseases_of_the_digestive,Broj,390
+2012,Žene,diseases_of_the_skin,Broj,7
+2012,Žene,diseases_of_the_musculoskeletal,Broj,39
+2012,Žene,diseases_of_the_genitourinary,Broj,298
+2012,Žene,pregnancy_childbirth_and_the,Broj,3
+2012,Žene,certain_conditions_originating,Broj,44
+2012,Žene,congenital_malformations_deformations,Broj,14
+2012,Žene,symptoms_signs_and_abnormal,Broj,598
+2012,Žene,injuries_poisoning_and_consequences,Broj,237
+2012,Žene,unknown,Broj,331
+2012,Žene,Ukupno,Broj,17381
+2013,Oba spola,infectious_and_parasitic,Broj,268
+2013,Oba spola,neoplasms,Broj,7506
+2013,Oba spola,diseases_of_the_blood,Broj,50
+2013,Oba spola,endocrine_metabolic_and_nutritional,Broj,197
+2013,Oba spola,mental_and_behavioural_disorders,Broj,192
+2013,Oba spola,diseases_of_the_nervous,Broj,382
+2013,Oba spola,diseases_of_the_circulatory,Broj,18186
+2013,Oba spola,diseases_of_the_respiratory,Broj,1428
+2013,Oba spola,diseases_of_the_digestive,Broj,955
+2013,Oba spola,diseases_of_the_skin,Broj,31
+2013,Oba spola,diseases_of_the_musculoskeletal,Broj,57
+2013,Oba spola,diseases_of_the_genitourinary,Broj,581
+2013,Oba spola,certain_conditions_originating,Broj,101
+2013,Oba spola,congenital_malformations_deformations,Broj,38
+2013,Oba spola,symptoms_signs_and_abnormal,Broj,2107
+2013,Oba spola,injuries_poisoning_and_consequences,Broj,1024
+2013,Oba spola,external_causes_of_mortality,Broj,4
+2013,Oba spola,unknown,Broj,782
+2013,Oba spola,Ukupno,Broj,35662
+2013,Muškarci,infectious_and_parasitic,Broj,165
+2013,Muškarci,neoplasms,Broj,4384
+2013,Muškarci,diseases_of_the_blood,Broj,20
+2013,Muškarci,endocrine_metabolic_and_nutritional,Broj,820
+2013,Muškarci,mental_and_behavioural_disorders,Broj,101
+2013,Muškarci,diseases_of_the_nervous,Broj,198
+2013,Muškarci,diseases_of_the_circulatory,Broj,8458
+2013,Muškarci,diseases_of_the_respiratory,Broj,827
+2013,Muškarci,diseases_of_the_digestive,Broj,526
+2013,Muškarci,diseases_of_the_skin,Broj,12
+2013,Muškarci,diseases_of_the_musculoskeletal,Broj,18
+2013,Muškarci,diseases_of_the_genitourinary,Broj,304
+2013,Muškarci,certain_conditions_originating,Broj,62
+2013,Muškarci,congenital_malformations_deformations,Broj,19
+2013,Muškarci,symptoms_signs_and_abnormal,Broj,1112
+2013,Muškarci,injuries_poisoning_and_consequences,Broj,794
+2013,Muškarci,external_causes_of_mortality,Broj,4
+2013,Muškarci,unknown,Broj,393
+2013,Muškarci,Ukupno,Broj,18217
+2013,Žene,infectious_and_parasitic,Broj,103
+2013,Žene,neoplasms,Broj,3122
+2013,Žene,diseases_of_the_blood,Broj,30
+2013,Žene,endocrine_metabolic_and_nutritional,Broj,115
+2013,Žene,mental_and_behavioural_disorders,Broj,91
+2013,Žene,diseases_of_the_nervous,Broj,184
+2013,Žene,diseases_of_the_circulatory,Broj,9728
+2013,Žene,diseases_of_the_respiratory,Broj,601
+2013,Žene,diseases_of_the_digestive,Broj,429
+2013,Žene,diseases_of_the_skin,Broj,19
+2013,Žene,diseases_of_the_musculoskeletal,Broj,39
+2013,Žene,diseases_of_the_genitourinary,Broj,277
+2013,Žene,certain_conditions_originating,Broj,39
+2013,Žene,congenital_malformations_deformations,Broj,19
+2013,Žene,symptoms_signs_and_abnormal,Broj,995
+2013,Žene,injuries_poisoning_and_consequences,Broj,230
+2013,Žene,unknown,Broj,389
+2013,Žene,Ukupno,Broj,17445
+2014,Oba spola,infectious_and_parasitic,Broj,291
+2014,Oba spola,neoplasms,Broj,7821
+2014,Oba spola,diseases_of_the_blood,Broj,42
+2014,Oba spola,endocrine_metabolic_and_nutritional,Broj,2267
+2014,Oba spola,mental_and_behavioural_disorders,Broj,225
+2014,Oba spola,diseases_of_the_nervous,Broj,396
+2014,Oba spola,diseases_of_the_eye,Broj,6
+2014,Oba spola,diseases_of_the_circulatory,Broj,1793
+2014,Oba spola,diseases_of_the_respiratory,Broj,1409
+2014,Oba spola,diseases_of_the_digestive,Broj,949
+2014,Oba spola,diseases_of_the_skin,Broj,32
+2014,Oba spola,diseases_of_the_musculoskeletal,Broj,61
+2014,Oba spola,diseases_of_the_genitourinary,Broj,536
+2014,Oba spola,certain_conditions_originating,Broj,85
+2014,Oba spola,congenital_malformations_deformations,Broj,49
+2014,Oba spola,symptoms_signs_and_abnormal,Broj,2241
+2014,Oba spola,injuries_poisoning_and_consequences,Broj,1032
+2014,Oba spola,external_causes_of_mortality,Broj,17
+2014,Oba spola,factors_influencing_health_status,Broj,1
+2014,Oba spola,unknown,Broj,590
+2014,Oba spola,Ukupno,Broj,35980
+2014,Muškarci,infectious_and_parasitic,Broj,164
+2014,Muškarci,neoplasms,Broj,4569
+2014,Muškarci,diseases_of_the_blood,Broj,14
+2014,Muškarci,endocrine_metabolic_and_nutritional,Broj,925
+2014,Muškarci,mental_and_behavioural_disorders,Broj,142
+2014,Muškarci,diseases_of_the_nervous,Broj,207
+2014,Muškarci,diseases_of_the_circulatory,Broj,8336
+2014,Muškarci,diseases_of_the_respiratory,Broj,840
+2014,Muškarci,diseases_of_the_digestive,Broj,545
+2014,Muškarci,diseases_of_the_skin,Broj,16
+2014,Muškarci,diseases_of_the_musculoskeletal,Broj,16
+2014,Muškarci,diseases_of_the_genitourinary,Broj,260
+2014,Muškarci,certain_conditions_originating,Broj,42
+2014,Muškarci,congenital_malformations_deformations,Broj,20
+2014,Muškarci,symptoms_signs_and_abnormal,Broj,1132
+2014,Muškarci,injuries_poisoning_and_consequences,Broj,795
+2014,Muškarci,external_causes_of_mortality,Broj,10
+2014,Muškarci,unknown,Broj,327
+2014,Muškarci,Ukupno,Broj,18360
+2014,Žene,infectious_and_parasitic,Broj,127
+2014,Žene,neoplasms,Broj,3252
+2014,Žene,diseases_of_the_blood,Broj,28
+2014,Žene,endocrine_metabolic_and_nutritional,Broj,1342
+2014,Žene,mental_and_behavioural_disorders,Broj,83
+2014,Žene,diseases_of_the_nervous,Broj,189
+2014,Žene,diseases_of_the_eye,Broj,6
+2014,Žene,diseases_of_the_circulatory,Broj,9594
+2014,Žene,diseases_of_the_respiratory,Broj,569
+2014,Žene,diseases_of_the_digestive,Broj,404
+2014,Žene,diseases_of_the_skin,Broj,16
+2014,Žene,diseases_of_the_musculoskeletal,Broj,45
+2014,Žene,diseases_of_the_genitourinary,Broj,276
+2014,Žene,certain_conditions_originating,Broj,43
+2014,Žene,congenital_malformations_deformations,Broj,29
+2014,Žene,symptoms_signs_and_abnormal,Broj,1109
+2014,Žene,injuries_poisoning_and_consequences,Broj,237
+2014,Žene,external_causes_of_mortality,Broj,7
+2014,Žene,factors_influencing_health_status,Broj,1
+2014,Žene,unknown,Broj,263
+2014,Žene,Ukupno,Broj,17620
+2015,Oba spola,infectious_and_parasitic,Broj,370
+2015,Oba spola,neoplasms,Broj,7956
+2015,Oba spola,diseases_of_the_blood,Broj,55
+2015,Oba spola,endocrine_metabolic_and_nutritional,Broj,2025
+2015,Oba spola,mental_and_behavioural_disorders,Broj,188
+2015,Oba spola,diseases_of_the_nervous,Broj,447
+2015,Oba spola,diseases_of_the_eye,Broj,1
+2015,Oba spola,diseases_of_the_circulatory,Broj,19713
+2015,Oba spola,diseases_of_the_respiratory,Broj,1718
+2015,Oba spola,diseases_of_the_digestive,Broj,988
+2015,Oba spola,diseases_of_the_skin,Broj,42
+2015,Oba spola,diseases_of_the_musculoskeletal,Broj,55
+2015,Oba spola,diseases_of_the_genitourinary,Broj,684
+2015,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2015,Oba spola,certain_conditions_originating,Broj,126
+2015,Oba spola,congenital_malformations_deformations,Broj,31
+2015,Oba spola,symptoms_signs_and_abnormal,Broj,2098
+2015,Oba spola,injuries_poisoning_and_consequences,Broj,1103
+2015,Oba spola,external_causes_of_mortality,Broj,8
+2015,Oba spola,unknown,Broj,541
+2015,Oba spola,Ukupno,Broj,38150
+2015,Muškarci,infectious_and_parasitic,Broj,207
+2015,Muškarci,neoplasms,Broj,4525
+2015,Muškarci,diseases_of_the_blood,Broj,19
+2015,Muškarci,endocrine_metabolic_and_nutritional,Broj,856
+2015,Muškarci,mental_and_behavioural_disorders,Broj,102
+2015,Muškarci,diseases_of_the_nervous,Broj,241
+2015,Muškarci,diseases_of_the_circulatory,Broj,9012
+2015,Muškarci,diseases_of_the_respiratory,Broj,972
+2015,Muškarci,diseases_of_the_digestive,Broj,571
+2015,Muškarci,diseases_of_the_skin,Broj,16
+2015,Muškarci,diseases_of_the_musculoskeletal,Broj,21
+2015,Muškarci,diseases_of_the_genitourinary,Broj,331
+2015,Muškarci,certain_conditions_originating,Broj,67
+2015,Muškarci,congenital_malformations_deformations,Broj,15
+2015,Muškarci,symptoms_signs_and_abnormal,Broj,1102
+2015,Muškarci,injuries_poisoning_and_consequences,Broj,840
+2015,Muškarci,external_causes_of_mortality,Broj,5
+2015,Muškarci,unknown,Broj,317
+2015,Muškarci,Ukupno,Broj,19219
+2015,Žene,infectious_and_parasitic,Broj,163
+2015,Žene,neoplasms,Broj,3431
+2015,Žene,diseases_of_the_blood,Broj,36
+2015,Žene,endocrine_metabolic_and_nutritional,Broj,1169
+2015,Žene,mental_and_behavioural_disorders,Broj,86
+2015,Žene,diseases_of_the_nervous,Broj,206
+2015,Žene,diseases_of_the_eye,Broj,1
+2015,Žene,diseases_of_the_circulatory,Broj,10701
+2015,Žene,diseases_of_the_respiratory,Broj,746
+2015,Žene,diseases_of_the_digestive,Broj,417
+2015,Žene,diseases_of_the_skin,Broj,26
+2015,Žene,diseases_of_the_musculoskeletal,Broj,34
+2015,Žene,diseases_of_the_genitourinary,Broj,353
+2015,Žene,pregnancy_childbirth_and_the,Broj,1
+2015,Žene,certain_conditions_originating,Broj,59
+2015,Žene,congenital_malformations_deformations,Broj,16
+2015,Žene,symptoms_signs_and_abnormal,Broj,996
+2015,Žene,injuries_poisoning_and_consequences,Broj,263
+2015,Žene,external_causes_of_mortality,Broj,3
+2015,Žene,unknown,Broj,224
+2015,Žene,Ukupno,Broj,18931
+2016,Oba spola,infectious_and_parasitic,Broj,412
+2016,Oba spola,neoplasms,Broj,7761
+2016,Oba spola,diseases_of_the_blood,Broj,54
+2016,Oba spola,endocrine_metabolic_and_nutritional,Broj,1961
+2016,Oba spola,mental_and_behavioural_disorders,Broj,226
+2016,Oba spola,diseases_of_the_nervous,Broj,386
+2016,Oba spola,diseases_of_the_eye,Broj,8
+2016,Oba spola,diseases_of_the_circulatory,Broj,18959
+2016,Oba spola,diseases_of_the_respiratory,Broj,1487
+2016,Oba spola,diseases_of_the_digestive,Broj,1077
+2016,Oba spola,diseases_of_the_skin,Broj,35
+2016,Oba spola,diseases_of_the_musculoskeletal,Broj,46
+2016,Oba spola,diseases_of_the_genitourinary,Broj,696
+2016,Oba spola,pregnancy_childbirth_and_the,Broj,1
+2016,Oba spola,certain_conditions_originating,Broj,117
+2016,Oba spola,congenital_malformations_deformations,Broj,16
+2016,Oba spola,symptoms_signs_and_abnormal,Broj,1730
+2016,Oba spola,injuries_poisoning_and_consequences,Broj,1040
+2016,Oba spola,external_causes_of_mortality,Broj,14
+2016,Oba spola,unknown,Broj,545
+2016,Oba spola,Ukupno,Broj,36571
+2016,Muškarci,infectious_and_parasitic,Broj,214
+2016,Muškarci,neoplasms,Broj,4464
+2016,Muškarci,diseases_of_the_blood,Broj,22
+2016,Muškarci,endocrine_metabolic_and_nutritional,Broj,789
+2016,Muškarci,mental_and_behavioural_disorders,Broj,141
+2016,Muškarci,diseases_of_the_nervous,Broj,213
+2016,Muškarci,diseases_of_the_eye,Broj,6
+2016,Muškarci,diseases_of_the_circulatory,Broj,878
+2016,Muškarci,diseases_of_the_respiratory,Broj,879
+2016,Muškarci,diseases_of_the_digestive,Broj,619
+2016,Muškarci,diseases_of_the_skin,Broj,16
+2016,Muškarci,diseases_of_the_musculoskeletal,Broj,9
+2016,Muškarci,diseases_of_the_genitourinary,Broj,345
+2016,Muškarci,certain_conditions_originating,Broj,74
+2016,Muškarci,congenital_malformations_deformations,Broj,9
+2016,Muškarci,symptoms_signs_and_abnormal,Broj,872
+2016,Muškarci,injuries_poisoning_and_consequences,Broj,783
+2016,Muškarci,external_causes_of_mortality,Broj,11
+2016,Muškarci,unknown,Broj,296
+2016,Muškarci,Ukupno,Broj,18542
+2016,Žene,infectious_and_parasitic,Broj,198
+2016,Žene,neoplasms,Broj,3297
+2016,Žene,diseases_of_the_blood,Broj,32
+2016,Žene,endocrine_metabolic_and_nutritional,Broj,1172
+2016,Žene,mental_and_behavioural_disorders,Broj,85
+2016,Žene,diseases_of_the_nervous,Broj,173
+2016,Žene,diseases_of_the_eye,Broj,2
+2016,Žene,diseases_of_the_circulatory,Broj,10179
+2016,Žene,diseases_of_the_respiratory,Broj,608
+2016,Žene,diseases_of_the_digestive,Broj,458
+2016,Žene,diseases_of_the_skin,Broj,19
+2016,Žene,diseases_of_the_musculoskeletal,Broj,37
+2016,Žene,diseases_of_the_genitourinary,Broj,351
+2016,Žene,pregnancy_childbirth_and_the,Broj,1
+2016,Žene,certain_conditions_originating,Broj,43
+2016,Žene,congenital_malformations_deformations,Broj,7
+2016,Žene,symptoms_signs_and_abnormal,Broj,858
+2016,Žene,injuries_poisoning_and_consequences,Broj,257
+2016,Žene,external_causes_of_mortality,Broj,3
+2016,Žene,unknown,Broj,249
+2016,Žene,Ukupno,Broj,18029
+2017,Oba spola,infectious_and_parasitic,Broj,395
+2017,Oba spola,neoplasms,Broj,8136
+2017,Oba spola,diseases_of_the_blood,Broj,69
+2017,Oba spola,endocrine_metabolic_and_nutritional,Broj,217
+2017,Oba spola,mental_and_behavioural_disorders,Broj,265
+2017,Oba spola,diseases_of_the_nervous,Broj,382
+2017,Oba spola,diseases_of_the_eye,Broj,5
+2017,Oba spola,diseases_of_the_circulatory,Broj,19207
+2017,Oba spola,diseases_of_the_respiratory,Broj,1579
+2017,Oba spola,diseases_of_the_digestive,Broj,1007
+2017,Oba spola,diseases_of_the_skin,Broj,44
+2017,Oba spola,diseases_of_the_musculoskeletal,Broj,44
+2017,Oba spola,diseases_of_the_genitourinary,Broj,587
+2017,Oba spola,certain_conditions_originating,Broj,136
+2017,Oba spola,congenital_malformations_deformations,Broj,27
+2017,Oba spola,symptoms_signs_and_abnormal,Broj,2294
+2017,Oba spola,injuries_poisoning_and_consequences,Broj,1067
+2017,Oba spola,external_causes_of_mortality,Broj,15
+2017,Oba spola,unknown,Broj,550
+2017,Oba spola,Ukupno,Broj,37979
+2017,Muškarci,infectious_and_parasitic,Broj,209
+2017,Muškarci,neoplasms,Broj,4632
+2017,Muškarci,diseases_of_the_blood,Broj,25
+2017,Muškarci,endocrine_metabolic_and_nutritional,Broj,885
+2017,Muškarci,mental_and_behavioural_disorders,Broj,147
+2017,Muškarci,diseases_of_the_nervous,Broj,193
+2017,Muškarci,diseases_of_the_eye,Broj,2
+2017,Muškarci,diseases_of_the_circulatory,Broj,888
+2017,Muškarci,diseases_of_the_respiratory,Broj,936
+2017,Muškarci,diseases_of_the_digestive,Broj,570
+2017,Muškarci,diseases_of_the_skin,Broj,12
+2017,Muškarci,diseases_of_the_musculoskeletal,Broj,17
+2017,Muškarci,diseases_of_the_genitourinary,Broj,299
+2017,Muškarci,certain_conditions_originating,Broj,75
+2017,Muškarci,congenital_malformations_deformations,Broj,16
+2017,Muškarci,symptoms_signs_and_abnormal,Broj,1168
+2017,Muškarci,injuries_poisoning_and_consequences,Broj,780
+2017,Muškarci,external_causes_of_mortality,Broj,9
+2017,Muškarci,unknown,Broj,331
+2017,Muškarci,Ukupno,Broj,19186
+2017,Žene,infectious_and_parasitic,Broj,186
+2017,Žene,neoplasms,Broj,3504
+2017,Žene,diseases_of_the_blood,Broj,44
+2017,Žene,endocrine_metabolic_and_nutritional,Broj,1285
+2017,Žene,mental_and_behavioural_disorders,Broj,118
+2017,Žene,diseases_of_the_nervous,Broj,189
+2017,Žene,diseases_of_the_eye,Broj,3
+2017,Žene,diseases_of_the_circulatory,Broj,10327
+2017,Žene,diseases_of_the_respiratory,Broj,643
+2017,Žene,diseases_of_the_digestive,Broj,437
+2017,Žene,diseases_of_the_skin,Broj,32
+2017,Žene,diseases_of_the_musculoskeletal,Broj,27
+2017,Žene,diseases_of_the_genitourinary,Broj,288
+2017,Žene,certain_conditions_originating,Broj,61
+2017,Žene,congenital_malformations_deformations,Broj,Vrijednost
+2017,Žene,symptoms_signs_and_abnormal,Broj,4591
+2017,Žene,injuries_poisoning_and_consequences,Broj,15911
+2017,Žene,external_causes_of_mortality,Broj,866
+2017,Žene,unknown,Broj,709
+2017,Žene,Ukupno,Broj,2552
+2018,Oba spola,infectious_and_parasitic,Broj,1022
+2018,Oba spola,neoplasms,Broj,25651
+2018,Oba spola,diseases_of_the_blood,Broj,2752
+2018,Oba spola,endocrine_metabolic_and_nutritional,Broj,77
+2018,Oba spola,mental_and_behavioural_disorders,Broj,498
+2018,Oba spola,diseases_of_the_nervous,Broj,445
+2018,Oba spola,diseases_of_the_circulatory,Broj,1347
+2018,Oba spola,diseases_of_the_respiratory,Broj,786
+2018,Oba spola,diseases_of_the_digestive,Broj,13528
+2018,Oba spola,diseases_of_the_skin,Broj,1839
+2018,Oba spola,diseases_of_the_musculoskeletal,Broj,8211
+2018,Oba spola,diseases_of_the_genitourinary,Broj,368
+2018,Oba spola,pregnancy_childbirth_and_the,Broj,264
+2018,Oba spola,certain_conditions_originating,Broj,1205
+2018,Oba spola,congenital_malformations_deformations,Broj,236
+2018,Oba spola,symptoms_signs_and_abnormal,Broj,12123
+2018,Oba spola,injuries_poisoning_and_consequences,Broj,5122
+2018,Oba spola,external_causes_of_mortality,Broj,16283
+2018,Oba spola,factors_influencing_health_status,Broj,805
+2018,Oba spola,unknown,Broj,848
+2018,Oba spola,Ukupno,Broj,2860
+2018,Muškarci,infectious_and_parasitic,Broj,1091
+2018,Muškarci,neoplasms,Broj,27009
+2018,Muškarci,diseases_of_the_blood,Broj,3144
+2018,Muškarci,endocrine_metabolic_and_nutritional,Broj,781
+2018,Muškarci,mental_and_behavioural_disorders,Broj,464
+2018,Muškarci,diseases_of_the_nervous,Broj,518
+2018,Muškarci,diseases_of_the_circulatory,Broj,1484
+2018,Muškarci,diseases_of_the_respiratory,Broj,812
+2018,Muškarci,diseases_of_the_digestive,Broj,14232
+2018,Muškarci,diseases_of_the_skin,Broj,1978
+2018,Muškarci,diseases_of_the_musculoskeletal,Broj,8473
+2018,Muškarci,diseases_of_the_genitourinary,Broj,341
+2018,Muškarci,certain_conditions_originating,Broj,330
+2018,Muškarci,congenital_malformations_deformations,Broj,1376
+2018,Muškarci,symptoms_signs_and_abnormal,Broj,279
+2018,Muškarci,injuries_poisoning_and_consequences,Broj,12777
+2018,Muškarci,external_causes_of_mortality,Broj,257
+2018,Muškarci,factors_influencing_health_status,Broj,5347
+2018,Muškarci,unknown,Broj,20
+2018,Muškarci,Ukupno,Broj,667
+2018,Žene,infectious_and_parasitic,Broj,48
+2018,Žene,neoplasms,Broj,161
+2018,Žene,diseases_of_the_blood,Broj,1
+2018,Žene,endocrine_metabolic_and_nutritional,Broj,16328
+2018,Žene,mental_and_behavioural_disorders,Broj,745
+2018,Žene,diseases_of_the_nervous,Broj,827
+2018,Žene,diseases_of_the_circulatory,Broj,17
+2018,Žene,diseases_of_the_respiratory,Broj,14
+2018,Žene,diseases_of_the_digestive,Broj,397
+2018,Žene,diseases_of_the_skin,Broj,1
+2018,Žene,diseases_of_the_musculoskeletal,Broj,188
+2018,Žene,diseases_of_the_genitourinary,Broj,43
+2018,Žene,pregnancy_childbirth_and_the,Broj,3031
+2018,Žene,certain_conditions_originating,Broj,1017
+2018,Žene,congenital_malformations_deformations,Broj,261
+2018,Žene,symptoms_signs_and_abnormal,Broj,1
+2018,Žene,injuries_poisoning_and_consequences,Broj,954
+2018,Žene,external_causes_of_mortality,Broj,30325
+2018,Žene,unknown,Broj,157
+2018,Žene,Ukupno,Broj,3288
+2019,Oba spola,infectious_and_parasitic,Broj,7
+2019,Oba spola,neoplasms,Broj,240
+2019,Oba spola,diseases_of_the_blood,Broj,37
+2019,Oba spola,endocrine_metabolic_and_nutritional,Broj,79
+2019,Oba spola,mental_and_behavioural_disorders,Broj,1
+2019,Oba spola,diseases_of_the_nervous,Broj,7943
+2019,Oba spola,diseases_of_the_eye,Broj,434
+2019,Oba spola,diseases_of_the_circulatory,Broj,540
+2019,Oba spola,diseases_of_the_respiratory,Broj,5
+2019,Oba spola,diseases_of_the_digestive,Broj,6
+2019,Oba spola,diseases_of_the_skin,Broj,200
+2019,Oba spola,diseases_of_the_musculoskeletal,Broj,0
+2019,Oba spola,diseases_of_the_genitourinary,Broj,109
+2019,Oba spola,pregnancy_childbirth_and_the,Broj,18
+2019,Oba spola,certain_conditions_originating,Broj,1637
+2019,Oba spola,congenital_malformations_deformations,Broj,768
+2019,Oba spola,symptoms_signs_and_abnormal,Broj,206
+2019,Oba spola,injuries_poisoning_and_consequences,Broj,527
+2019,Oba spola,external_causes_of_mortality,Broj,16202
+2019,Oba spola,factors_influencing_health_status,Broj,100
+2019,Oba spola,unknown,Broj,2059
+2019,Oba spola,Ukupno,Broj,13
+2019,Muškarci,infectious_and_parasitic,Broj,427
+2019,Muškarci,neoplasms,Broj,11
+2019,Muškarci,diseases_of_the_blood,Broj,82
+2019,Muškarci,endocrine_metabolic_and_nutritional,Broj,8385
+2019,Muškarci,mental_and_behavioural_disorders,Broj,311
+2019,Muškarci,diseases_of_the_nervous,Broj,287
+2019,Muškarci,diseases_of_the_eye,Broj,12
+2019,Muškarci,diseases_of_the_circulatory,Broj,8
+2019,Muškarci,diseases_of_the_respiratory,Broj,197
+2019,Muškarci,diseases_of_the_digestive,Broj,1
+2019,Muškarci,diseases_of_the_skin,Broj,79
+2019,Muškarci,diseases_of_the_musculoskeletal,Broj,25
+2019,Muškarci,diseases_of_the_genitourinary,Broj,1394
+2019,Muškarci,certain_conditions_originating,Broj,249
+2019,Muškarci,congenital_malformations_deformations,Broj,55
+2019,Muškarci,symptoms_signs_and_abnormal,Broj,1
+2019,Muškarci,injuries_poisoning_and_consequences,Broj,427
+2019,Muškarci,external_causes_of_mortality,Broj,14123
+2019,Muškarci,factors_influencing_health_status,Broj,263
+2019,Muškarci,unknown,Broj,5288
+2019,Muškarci,Ukupno,Broj,19
+2019,Žene,infectious_and_parasitic,Broj,862
+2019,Žene,neoplasms,Broj,66
+2019,Žene,diseases_of_the_blood,Broj,157
+2019,Žene,endocrine_metabolic_and_nutritional,Broj,1
+2019,Žene,mental_and_behavioural_disorders,Broj,16007
+2019,Žene,diseases_of_the_nervous,Broj,817
+2019,Žene,diseases_of_the_eye,Broj,820
+2019,Žene,diseases_of_the_circulatory,Broj,17
+2019,Žene,diseases_of_the_respiratory,Broj,10
+2019,Žene,diseases_of_the_digestive,Broj,219
+2019,Žene,diseases_of_the_skin,Broj,3
+2019,Žene,diseases_of_the_musculoskeletal,Broj,226
+2019,Žene,diseases_of_the_genitourinary,Broj,56
+2019,Žene,pregnancy_childbirth_and_the,Broj,2983
+2019,Žene,certain_conditions_originating,Broj,984
+2019,Žene,congenital_malformations_deformations,Broj,242
+2019,Žene,symptoms_signs_and_abnormal,Broj,1
+2019,Žene,injuries_poisoning_and_consequences,Broj,1790
+2019,Žene,external_causes_of_mortality,Broj,30831
+2019,Žene,factors_influencing_health_status,Broj,160
+2019,Žene,unknown,Broj,3201
+2019,Žene,Ukupno,Broj,11

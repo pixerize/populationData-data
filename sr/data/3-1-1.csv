@@ -1,1132 +1,1132 @@
-Year,CAUSE_OF_DEATH,UNIT_MEASURE,Пол,Value
-1999,neoplasms,Број,Оба пола,4591
-1999,diseases_of_the_circulatory,Број,Оба пола,15911
-1999,diseases_of_the_respiratory,Број,Оба пола,866
-1999,diseases_of_the_digestive,Број,Оба пола,709
-1999,symptoms_signs_and_abnormal,Број,Оба пола,2552
-1999,injuries_poisoning_and_consequences,Број,Оба пола,1022
-1999,Укупно,Број,Оба пола,25651
-1999,neoplasms,Број,Мушкарци,2752
-1999,diseases_of_the_circulatory,Број,Мушкарци,77
-1999,diseases_of_the_respiratory,Број,Мушкарци,498
-1999,diseases_of_the_digestive,Број,Мушкарци,445
-1999,symptoms_signs_and_abnormal,Број,Мушкарци,1347
-1999,injuries_poisoning_and_consequences,Број,Мушкарци,786
-1999,Укупно,Број,Мушкарци,13528
-1999,neoplasms,Број,Жене,1839
-1999,diseases_of_the_circulatory,Број,Жене,8211
-1999,diseases_of_the_respiratory,Број,Жене,368
-1999,diseases_of_the_digestive,Број,Жене,264
-1999,symptoms_signs_and_abnormal,Број,Жене,1205
-1999,injuries_poisoning_and_consequences,Број,Жене,236
-1999,Укупно,Број,Жене,12123
-2000,neoplasms,Број,Оба пола,5122
-2000,diseases_of_the_circulatory,Број,Оба пола,16283
-2000,diseases_of_the_respiratory,Број,Оба пола,805
-2000,diseases_of_the_digestive,Број,Оба пола,848
-2000,symptoms_signs_and_abnormal,Број,Оба пола,2860
-2000,injuries_poisoning_and_consequences,Број,Оба пола,1091
-2000,Укупно,Број,Оба пола,27009
-2000,neoplasms,Број,Мушкарци,3144
-2000,diseases_of_the_circulatory,Број,Мушкарци,781
-2000,diseases_of_the_respiratory,Број,Мушкарци,464
-2000,diseases_of_the_digestive,Број,Мушкарци,518
-2000,symptoms_signs_and_abnormal,Број,Мушкарци,1484
-2000,injuries_poisoning_and_consequences,Број,Мушкарци,812
-2000,Укупно,Број,Мушкарци,14232
-2000,neoplasms,Број,Жене,1978
-2000,diseases_of_the_circulatory,Број,Жене,8473
-2000,diseases_of_the_respiratory,Број,Жене,341
-2000,diseases_of_the_digestive,Број,Жене,330
-2000,symptoms_signs_and_abnormal,Број,Жене,1376
-2000,injuries_poisoning_and_consequences,Број,Жене,279
-2000,Укупно,Број,Жене,12777
-2001,infectious_and_parasitic,Број,Оба пола,257
-2001,neoplasms,Број,Оба пола,5347
-2001,diseases_of_the_blood,Број,Оба пола,20
-2001,endocrine_metabolic_and_nutritional,Број,Оба пола,667
-2001,mental_and_behavioural_disorders,Број,Оба пола,48
-2001,diseases_of_the_nervous,Број,Оба пола,161
-2001,diseases_of_the_eye,Број,Оба пола,1
-2001,diseases_of_the_circulatory,Број,Оба пола,16328
-2001,diseases_of_the_respiratory,Број,Оба пола,745
-2001,diseases_of_the_digestive,Број,Оба пола,827
-2001,diseases_of_the_skin,Број,Оба пола,17
-2001,diseases_of_the_musculoskeletal,Број,Оба пола,14
-2001,diseases_of_the_genitourinary,Број,Оба пола,397
-2001,pregnancy_childbirth_and_the,Број,Оба пола,1
-2001,certain_conditions_originating,Број,Оба пола,188
-2001,congenital_malformations_deformations,Број,Оба пола,43
-2001,symptoms_signs_and_abnormal,Број,Оба пола,3031
-2001,injuries_poisoning_and_consequences,Број,Оба пола,1017
-2001,external_causes_of_mortality,Број,Оба пола,261
-2001,factors_influencing_health_status,Број,Оба пола,1
-2001,unknown,Број,Оба пола,954
-2001,Укупно,Број,Оба пола,30325
-2001,infectious_and_parasitic,Број,Мушкарци,157
-2001,neoplasms,Број,Мушкарци,3288
-2001,diseases_of_the_blood,Број,Мушкарци,7
-2001,endocrine_metabolic_and_nutritional,Број,Мушкарци,240
-2001,mental_and_behavioural_disorders,Број,Мушкарци,37
-2001,diseases_of_the_nervous,Број,Мушкарци,79
-2001,diseases_of_the_eye,Број,Мушкарци,1
-2001,diseases_of_the_circulatory,Број,Мушкарци,7943
-2001,diseases_of_the_respiratory,Број,Мушкарци,434
-2001,diseases_of_the_digestive,Број,Мушкарци,540
-2001,diseases_of_the_skin,Број,Мушкарци,5
-2001,diseases_of_the_musculoskeletal,Број,Мушкарци,6
-2001,diseases_of_the_genitourinary,Број,Мушкарци,200
-2001,pregnancy_childbirth_and_the,Број,Мушкарци,0
-2001,certain_conditions_originating,Број,Мушкарци,109
-2001,congenital_malformations_deformations,Број,Мушкарци,18
-2001,symptoms_signs_and_abnormal,Број,Мушкарци,1637
-2001,injuries_poisoning_and_consequences,Број,Мушкарци,768
-2001,external_causes_of_mortality,Број,Мушкарци,206
-2001,unknown,Број,Мушкарци,527
-2001,Укупно,Број,Мушкарци,16202
-2001,infectious_and_parasitic,Број,Жене,100
-2001,neoplasms,Број,Жене,2059
-2001,diseases_of_the_blood,Број,Жене,13
-2001,endocrine_metabolic_and_nutritional,Број,Жене,427
-2001,mental_and_behavioural_disorders,Број,Жене,11
-2001,diseases_of_the_nervous,Број,Жене,82
-2001,diseases_of_the_circulatory,Број,Жене,8385
-2001,diseases_of_the_respiratory,Број,Жене,311
-2001,diseases_of_the_digestive,Број,Жене,287
-2001,diseases_of_the_skin,Број,Жене,12
-2001,diseases_of_the_musculoskeletal,Број,Жене,8
-2001,diseases_of_the_genitourinary,Број,Жене,197
-2001,pregnancy_childbirth_and_the,Број,Жене,1
-2001,certain_conditions_originating,Број,Жене,79
-2001,congenital_malformations_deformations,Број,Жене,25
-2001,symptoms_signs_and_abnormal,Број,Жене,1394
-2001,injuries_poisoning_and_consequences,Број,Жене,249
-2001,external_causes_of_mortality,Број,Жене,55
-2001,factors_influencing_health_status,Број,Жене,1
-2001,unknown,Број,Жене,427
-2001,Укупно,Број,Жене,14123
-2002,infectious_and_parasitic,Број,Оба пола,263
-2002,neoplasms,Број,Оба пола,5288
-2002,diseases_of_the_blood,Број,Оба пола,19
-2002,endocrine_metabolic_and_nutritional,Број,Оба пола,862
-2002,mental_and_behavioural_disorders,Број,Оба пола,66
-2002,diseases_of_the_nervous,Број,Оба пола,157
-2002,diseases_of_the_eye,Број,Оба пола,1
-2002,diseases_of_the_circulatory,Број,Оба пола,16007
-2002,diseases_of_the_respiratory,Број,Оба пола,817
-2002,diseases_of_the_digestive,Број,Оба пола,820
-2002,diseases_of_the_skin,Број,Оба пола,17
-2002,diseases_of_the_musculoskeletal,Број,Оба пола,10
-2002,diseases_of_the_genitourinary,Број,Оба пола,219
-2002,pregnancy_childbirth_and_the,Број,Оба пола,3
-2002,certain_conditions_originating,Број,Оба пола,226
-2002,congenital_malformations_deformations,Број,Оба пола,56
-2002,symptoms_signs_and_abnormal,Број,Оба пола,2983
-2002,injuries_poisoning_and_consequences,Број,Оба пола,984
-2002,external_causes_of_mortality,Број,Оба пола,242
-2002,factors_influencing_health_status,Број,Оба пола,1
-2002,unknown,Број,Оба пола,1790
-2002,Укупно,Број,Оба пола,30831
-2002,infectious_and_parasitic,Број,Мушкарци,160
-2002,neoplasms,Број,Мушкарци,3201
-2002,diseases_of_the_blood,Број,Мушкарци,11
-2002,endocrine_metabolic_and_nutritional,Број,Мушкарци,300
-2002,mental_and_behavioural_disorders,Број,Мушкарци,39
-2002,diseases_of_the_nervous,Број,Мушкарци,87
-2002,diseases_of_the_eye,Број,Мушкарци,1
-2002,diseases_of_the_circulatory,Број,Мушкарци,7544
-2002,diseases_of_the_respiratory,Број,Мушкарци,478
-2002,diseases_of_the_digestive,Број,Мушкарци,495
-2002,diseases_of_the_skin,Број,Мушкарци,3
-2002,diseases_of_the_musculoskeletal,Број,Мушкарци,2
-2002,diseases_of_the_genitourinary,Број,Мушкарци,120
-2002,pregnancy_childbirth_and_the,Број,Мушкарци,0
-2002,certain_conditions_originating,Број,Мушкарци,128
-2002,congenital_malformations_deformations,Број,Мушкарци,32
-2002,symptoms_signs_and_abnormal,Број,Мушкарци,1535
-2002,injuries_poisoning_and_consequences,Број,Мушкарци,751
-2002,external_causes_of_mortality,Број,Мушкарци,180
-2002,factors_influencing_health_status,Број,Мушкарци,1
-2002,unknown,Број,Мушкарци,965
-2002,Укупно,Број,Мушкарци,16033
-2002,infectious_and_parasitic,Број,Жене,103
-2002,neoplasms,Број,Жене,2087
-2002,diseases_of_the_blood,Број,Жене,8
-2002,endocrine_metabolic_and_nutritional,Број,Жене,562
-2002,mental_and_behavioural_disorders,Број,Жене,27
-2002,diseases_of_the_nervous,Број,Жене,70
-2002,diseases_of_the_circulatory,Број,Жене,8463
-2002,diseases_of_the_respiratory,Број,Жене,339
-2002,diseases_of_the_digestive,Број,Жене,325
-2002,diseases_of_the_skin,Број,Жене,14
-2002,diseases_of_the_musculoskeletal,Број,Жене,8
-2002,diseases_of_the_genitourinary,Број,Жене,99
-2002,pregnancy_childbirth_and_the,Број,Жене,3
-2002,certain_conditions_originating,Број,Жене,98
-2002,congenital_malformations_deformations,Број,Жене,24
-2002,symptoms_signs_and_abnormal,Број,Жене,1448
-2002,injuries_poisoning_and_consequences,Број,Жене,233
-2002,external_causes_of_mortality,Број,Жене,62
-2002,unknown,Број,Жене,825
-2002,Укупно,Број,Жене,14798
-2003,neoplasms,Број,Оба пола,5771
-2003,diseases_of_the_circulatory,Број,Оба пола,1699
-2003,diseases_of_the_respiratory,Број,Оба пола,876
-2003,diseases_of_the_digestive,Број,Оба пола,810
-2003,symptoms_signs_and_abnormal,Број,Оба пола,3166
-2003,injuries_poisoning_and_consequences,Број,Оба пола,950
-2003,unknown,Број,Оба пола,770
-2003,Укупно,Број,Оба пола,29333
-2003,neoplasms,Број,Мушкарци,3499
-2003,diseases_of_the_circulatory,Број,Мушкарци,8001
-2003,diseases_of_the_respiratory,Број,Мушкарци,542
-2003,diseases_of_the_digestive,Број,Мушкарци,499
-2003,symptoms_signs_and_abnormal,Број,Мушкарци,1612
-2003,injuries_poisoning_and_consequences,Број,Мушкарци,706
-2003,unknown,Број,Мушкарци,424
-2003,Укупно,Број,Мушкарци,15283
-2003,neoplasms,Број,Жене,2272
-2003,diseases_of_the_circulatory,Број,Жене,8989
-2003,diseases_of_the_respiratory,Број,Жене,334
-2003,diseases_of_the_digestive,Број,Жене,311
-2003,symptoms_signs_and_abnormal,Број,Жене,1554
-2003,injuries_poisoning_and_consequences,Број,Жене,244
-2003,unknown,Број,Жене,346
-2003,Укупно,Број,Жене,14050
-2004,infectious_and_parasitic,Број,Оба пола,255
-2004,neoplasms,Број,Оба пола,5709
-2004,diseases_of_the_blood,Број,Оба пола,31
-2004,endocrine_metabolic_and_nutritional,Број,Оба пола,993
-2004,mental_and_behavioural_disorders,Број,Оба пола,104
-2004,diseases_of_the_nervous,Број,Оба пола,251
-2004,diseases_of_the_circulatory,Број,Оба пола,177
-2004,diseases_of_the_respiratory,Број,Оба пола,907
-2004,diseases_of_the_digestive,Број,Оба пола,839
-2004,diseases_of_the_skin,Број,Оба пола,11
-2004,diseases_of_the_musculoskeletal,Број,Оба пола,16
-2004,diseases_of_the_genitourinary,Број,Оба пола,467
-2004,pregnancy_childbirth_and_the,Број,Оба пола,1
-2004,certain_conditions_originating,Број,Оба пола,163
-2004,congenital_malformations_deformations,Број,Оба пола,42
-2004,symptoms_signs_and_abnormal,Број,Оба пола,2723
-2004,injuries_poisoning_and_consequences,Број,Оба пола,920
-2004,external_causes_of_mortality,Број,Оба пола,273
-2004,factors_influencing_health_status,Број,Оба пола,1
-2004,unknown,Број,Оба пола,1210
-2004,Укупно,Број,Оба пола,32616
-2004,infectious_and_parasitic,Број,Мушкарци,152
-2004,neoplasms,Број,Мушкарци,3398
-2004,diseases_of_the_blood,Број,Мушкарци,10
-2004,endocrine_metabolic_and_nutritional,Број,Мушкарци,377
-2004,mental_and_behavioural_disorders,Број,Мушкарци,80
-2004,diseases_of_the_nervous,Број,Мушкарци,126
-2004,diseases_of_the_circulatory,Број,Мушкарци,8262
-2004,diseases_of_the_respiratory,Број,Мушкарци,551
-2004,diseases_of_the_digestive,Број,Мушкарци,498
-2004,diseases_of_the_skin,Број,Мушкарци,2
-2004,diseases_of_the_musculoskeletal,Број,Мушкарци,9
-2004,diseases_of_the_genitourinary,Број,Мушкарци,248
-2004,certain_conditions_originating,Број,Мушкарци,101
-2004,congenital_malformations_deformations,Број,Мушкарци,26
-2004,symptoms_signs_and_abnormal,Број,Мушкарци,1399
-2004,injuries_poisoning_and_consequences,Број,Мушкарци,691
-2004,external_causes_of_mortality,Број,Мушкарци,198
-2004,factors_influencing_health_status,Број,Мушкарци,1
-2004,unknown,Број,Мушкарци,651
-2004,Укупно,Број,Мушкарци,16780
-2004,infectious_and_parasitic,Број,Жене,103
-2004,neoplasms,Број,Жене,2311
-2004,diseases_of_the_blood,Број,Жене,21
-2004,endocrine_metabolic_and_nutritional,Број,Жене,616
-2004,mental_and_behavioural_disorders,Број,Жене,24
-2004,diseases_of_the_nervous,Број,Жене,125
-2004,diseases_of_the_circulatory,Број,Жене,9438
-2004,diseases_of_the_respiratory,Број,Жене,356
-2004,diseases_of_the_digestive,Број,Жене,341
-2004,diseases_of_the_skin,Број,Жене,9
-2004,diseases_of_the_musculoskeletal,Број,Жене,7
-2004,diseases_of_the_genitourinary,Број,Жене,219
-2004,pregnancy_childbirth_and_the,Број,Жене,1
-2004,certain_conditions_originating,Број,Жене,62
-2004,congenital_malformations_deformations,Број,Жене,16
-2004,symptoms_signs_and_abnormal,Број,Жене,1324
-2004,injuries_poisoning_and_consequences,Број,Жене,229
-2004,external_causes_of_mortality,Број,Жене,75
-2004,unknown,Број,Жене,559
-2004,Укупно,Број,Жене,15836
-2005,neoplasms,Број,Оба пола,6255
-2005,diseases_of_the_circulatory,Број,Оба пола,17915
-2005,diseases_of_the_respiratory,Број,Оба пола,1242
-2005,diseases_of_the_digestive,Број,Оба пола,818
-2005,symptoms_signs_and_abnormal,Број,Оба пола,2394
-2005,injuries_poisoning_and_consequences,Број,Оба пола,952
-2005,Укупно,Број,Оба пола,29576
-2005,neoplasms,Број,Мушкарци,3766
-2005,diseases_of_the_circulatory,Број,Мушкарци,8559
-2005,diseases_of_the_respiratory,Број,Мушкарци,726
-2005,diseases_of_the_digestive,Број,Мушкарци,491
-2005,symptoms_signs_and_abnormal,Број,Мушкарци,1312
-2005,injuries_poisoning_and_consequences,Број,Мушкарци,718
-2005,Укупно,Број,Мушкарци,15572
-2005,neoplasms,Број,Жене,2489
-2005,diseases_of_the_circulatory,Број,Жене,9356
-2005,diseases_of_the_respiratory,Број,Жене,516
-2005,diseases_of_the_digestive,Број,Жене,327
-2005,symptoms_signs_and_abnormal,Број,Жене,1082
-2005,injuries_poisoning_and_consequences,Број,Жене,234
-2005,Укупно,Број,Жене,14004
-2006,infectious_and_parasitic,Број,Оба пола,237
-2006,neoplasms,Број,Оба пола,6252
-2006,diseases_of_the_blood,Број,Оба пола,20
-2006,endocrine_metabolic_and_nutritional,Број,Оба пола,1537
-2006,mental_and_behavioural_disorders,Број,Оба пола,118
-2006,diseases_of_the_nervous,Број,Оба пола,298
-2006,diseases_of_the_eye,Број,Оба пола,1
-2006,diseases_of_the_circulatory,Број,Оба пола,16967
-2006,diseases_of_the_respiratory,Број,Оба пола,1132
-2006,diseases_of_the_digestive,Број,Оба пола,826
-2006,diseases_of_the_skin,Број,Оба пола,11
-2006,diseases_of_the_musculoskeletal,Број,Оба пола,16
-2006,diseases_of_the_genitourinary,Број,Оба пола,547
-2006,pregnancy_childbirth_and_the,Број,Оба пола,3
-2006,certain_conditions_originating,Број,Оба пола,185
-2006,congenital_malformations_deformations,Број,Оба пола,56
-2006,symptoms_signs_and_abnormal,Број,Оба пола,2744
-2006,injuries_poisoning_and_consequences,Број,Оба пола,1017
-2006,external_causes_of_mortality,Број,Оба пола,212
-2006,factors_influencing_health_status,Број,Оба пола,1
-2006,unknown,Број,Оба пола,1041
-2006,Укупно,Број,Оба пола,33221
-2006,infectious_and_parasitic,Број,Мушкарци,147
-2006,neoplasms,Број,Мушкарци,3697
-2006,diseases_of_the_blood,Број,Мушкарци,9
-2006,endocrine_metabolic_and_nutritional,Број,Мушкарци,598
-2006,mental_and_behavioural_disorders,Број,Мушкарци,88
-2006,diseases_of_the_nervous,Број,Мушкарци,174
-2006,diseases_of_the_circulatory,Број,Мушкарци,7941
-2006,diseases_of_the_respiratory,Број,Мушкарци,677
-2006,diseases_of_the_digestive,Број,Мушкарци,493
-2006,diseases_of_the_skin,Број,Мушкарци,6
-2006,diseases_of_the_musculoskeletal,Број,Мушкарци,3
-2006,diseases_of_the_genitourinary,Број,Мушкарци,293
-2006,certain_conditions_originating,Број,Мушкарци,118
-2006,congenital_malformations_deformations,Број,Мушкарци,32
-2006,symptoms_signs_and_abnormal,Број,Мушкарци,1527
-2006,injuries_poisoning_and_consequences,Број,Мушкарци,775
-2006,external_causes_of_mortality,Број,Мушкарци,152
-2006,unknown,Број,Мушкарци,578
-2006,Укупно,Број,Мушкарци,17308
-2006,infectious_and_parasitic,Број,Жене,90
-2006,neoplasms,Број,Жене,2555
-2006,diseases_of_the_blood,Број,Жене,11
-2006,endocrine_metabolic_and_nutritional,Број,Жене,939
-2006,mental_and_behavioural_disorders,Број,Жене,30
-2006,diseases_of_the_nervous,Број,Жене,124
-2006,diseases_of_the_eye,Број,Жене,1
-2006,diseases_of_the_circulatory,Број,Жене,9026
-2006,diseases_of_the_respiratory,Број,Жене,455
-2006,diseases_of_the_digestive,Број,Жене,333
-2006,diseases_of_the_skin,Број,Жене,5
-2006,diseases_of_the_musculoskeletal,Број,Жене,13
-2006,diseases_of_the_genitourinary,Број,Жене,254
-2006,pregnancy_childbirth_and_the,Број,Жене,3
-2006,certain_conditions_originating,Број,Жене,67
-2006,congenital_malformations_deformations,Број,Жене,24
-2006,symptoms_signs_and_abnormal,Број,Жене,1217
-2006,injuries_poisoning_and_consequences,Број,Жене,242
-2006,external_causes_of_mortality,Број,Жене,60
-2006,factors_influencing_health_status,Број,Жене,1
-2006,unknown,Број,Жене,463
-2006,Укупно,Број,Жене,15913
-2007,infectious_and_parasitic,Број,Оба пола,250
-2007,neoplasms,Број,Оба пола,6713
-2007,diseases_of_the_blood,Број,Оба пола,54
-2007,endocrine_metabolic_and_nutritional,Број,Оба пола,1582
-2007,mental_and_behavioural_disorders,Број,Оба пола,162
-2007,diseases_of_the_nervous,Број,Оба пола,317
-2007,diseases_of_the_eye,Број,Оба пола,1
-2007,diseases_of_the_circulatory,Број,Оба пола,18516
-2007,diseases_of_the_respiratory,Број,Оба пола,1145
-2007,diseases_of_the_digestive,Број,Оба пола,924
-2007,diseases_of_the_skin,Број,Оба пола,10
-2007,diseases_of_the_musculoskeletal,Број,Оба пола,32
-2007,diseases_of_the_genitourinary,Број,Оба пола,558
-2007,pregnancy_childbirth_and_the,Број,Оба пола,1
-2007,certain_conditions_originating,Број,Оба пола,133
-2007,congenital_malformations_deformations,Број,Оба пола,54
-2007,symptoms_signs_and_abnormal,Број,Оба пола,2219
-2007,injuries_poisoning_and_consequences,Број,Оба пола,1030
-2007,external_causes_of_mortality,Број,Оба пола,267
-2007,unknown,Број,Оба пола,1076
-2007,Укупно,Број,Оба пола,35044
-2007,infectious_and_parasitic,Број,Мушкарци,164
-2007,neoplasms,Број,Мушкарци,3983
-2007,diseases_of_the_blood,Број,Мушкарци,22
-2007,endocrine_metabolic_and_nutritional,Број,Мушкарци,609
-2007,mental_and_behavioural_disorders,Број,Мушкарци,113
-2007,diseases_of_the_nervous,Број,Мушкарци,161
-2007,diseases_of_the_eye,Број,Мушкарци,1
-2007,diseases_of_the_circulatory,Број,Мушкарци,8697
-2007,diseases_of_the_respiratory,Број,Мушкарци,664
-2007,diseases_of_the_digestive,Број,Мушкарци,570
-2007,diseases_of_the_skin,Број,Мушкарци,4
-2007,diseases_of_the_musculoskeletal,Број,Мушкарци,9
-2007,diseases_of_the_genitourinary,Број,Мушкарци,320
-2007,pregnancy_childbirth_and_the,Број,Мушкарци,0
-2007,certain_conditions_originating,Број,Мушкарци,79
-2007,congenital_malformations_deformations,Број,Мушкарци,28
-2007,symptoms_signs_and_abnormal,Број,Мушкарци,1143
-2007,injuries_poisoning_and_consequences,Број,Мушкарци,766
-2007,external_causes_of_mortality,Број,Мушкарци,199
-2007,unknown,Број,Мушкарци,622
-2007,Укупно,Број,Мушкарци,18154
-2007,infectious_and_parasitic,Број,Жене,86
-2007,neoplasms,Број,Жене,273
-2007,diseases_of_the_blood,Број,Жене,32
-2007,endocrine_metabolic_and_nutritional,Број,Жене,973
-2007,mental_and_behavioural_disorders,Број,Жене,49
-2007,diseases_of_the_nervous,Број,Жене,156
-2007,diseases_of_the_circulatory,Број,Жене,9819
-2007,diseases_of_the_respiratory,Број,Жене,481
-2007,diseases_of_the_digestive,Број,Жене,354
-2007,diseases_of_the_skin,Број,Жене,6
-2007,diseases_of_the_musculoskeletal,Број,Жене,23
-2007,diseases_of_the_genitourinary,Број,Жене,238
-2007,pregnancy_childbirth_and_the,Број,Жене,1
-2007,certain_conditions_originating,Број,Жене,54
-2007,congenital_malformations_deformations,Број,Жене,26
-2007,symptoms_signs_and_abnormal,Број,Жене,1076
-2007,injuries_poisoning_and_consequences,Број,Жене,264
-2007,external_causes_of_mortality,Број,Жене,68
-2007,unknown,Број,Жене,454
-2007,Укупно,Број,Жене,16890
-2008,infectious_and_parasitic,Број,Оба пола,275
-2008,neoplasms,Број,Оба пола,6734
-2008,diseases_of_the_blood,Број,Оба пола,37
-2008,endocrine_metabolic_and_nutritional,Број,Оба пола,1563
-2008,mental_and_behavioural_disorders,Број,Оба пола,169
-2008,diseases_of_the_nervous,Број,Оба пола,287
-2008,diseases_of_the_eye,Број,Оба пола,1
-2008,diseases_of_the_circulatory,Број,Оба пола,17988
-2008,diseases_of_the_respiratory,Број,Оба пола,1035
-2008,diseases_of_the_digestive,Број,Оба пола,846
-2008,diseases_of_the_skin,Број,Оба пола,10
-2008,diseases_of_the_musculoskeletal,Број,Оба пола,40
-2008,diseases_of_the_genitourinary,Број,Оба пола,571
-2008,pregnancy_childbirth_and_the,Број,Оба пола,4
-2008,certain_conditions_originating,Број,Оба пола,136
-2008,congenital_malformations_deformations,Број,Оба пола,61
-2008,symptoms_signs_and_abnormal,Број,Оба пола,2028
-2008,injuries_poisoning_and_consequences,Број,Оба пола,1200
-2008,external_causes_of_mortality,Број,Оба пола,2
-2008,unknown,Број,Оба пола,1039
-2008,Укупно,Број,Оба пола,34026
-2008,infectious_and_parasitic,Број,Мушкарци,170
-2008,neoplasms,Број,Мушкарци,4053
-2008,diseases_of_the_blood,Број,Мушкарци,16
-2008,endocrine_metabolic_and_nutritional,Број,Мушкарци,618
-2008,mental_and_behavioural_disorders,Број,Мушкарци,127
-2008,diseases_of_the_nervous,Број,Мушкарци,167
-2008,diseases_of_the_circulatory,Број,Мушкарци,8385
-2008,diseases_of_the_respiratory,Број,Мушкарци,627
-2008,diseases_of_the_digestive,Број,Мушкарци,512
-2008,diseases_of_the_skin,Број,Мушкарци,3
-2008,diseases_of_the_musculoskeletal,Број,Мушкарци,14
-2008,diseases_of_the_genitourinary,Број,Мушкарци,306
-2008,certain_conditions_originating,Број,Мушкарци,75
-2008,congenital_malformations_deformations,Број,Мушкарци,32
-2008,symptoms_signs_and_abnormal,Број,Мушкарци,1052
-2008,injuries_poisoning_and_consequences,Број,Мушкарци,942
-2008,external_causes_of_mortality,Број,Мушкарци,2
-2008,unknown,Број,Мушкарци,586
-2008,Укупно,Број,Мушкарци,17687
-2008,infectious_and_parasitic,Број,Жене,105
-2008,neoplasms,Број,Жене,2681
-2008,diseases_of_the_blood,Број,Жене,21
-2008,endocrine_metabolic_and_nutritional,Број,Жене,945
-2008,mental_and_behavioural_disorders,Број,Жене,42
-2008,diseases_of_the_nervous,Број,Жене,120
-2008,diseases_of_the_eye,Број,Жене,1
-2008,diseases_of_the_circulatory,Број,Жене,9603
-2008,diseases_of_the_respiratory,Број,Жене,408
-2008,diseases_of_the_digestive,Број,Жене,334
-2008,diseases_of_the_skin,Број,Жене,7
-2008,diseases_of_the_musculoskeletal,Број,Жене,26
-2008,diseases_of_the_genitourinary,Број,Жене,265
-2008,pregnancy_childbirth_and_the,Број,Жене,4
-2008,certain_conditions_originating,Број,Жене,61
-2008,congenital_malformations_deformations,Број,Жене,29
-2008,symptoms_signs_and_abnormal,Број,Жене,976
-2008,injuries_poisoning_and_consequences,Број,Жене,258
-2008,unknown,Број,Жене,453
-2008,Укупно,Број,Жене,16339
-2009,infectious_and_parasitic,Број,Оба пола,287
-2009,neoplasms,Број,Оба пола,697
-2009,diseases_of_the_blood,Број,Оба пола,41
-2009,endocrine_metabolic_and_nutritional,Број,Оба пола,1999
-2009,mental_and_behavioural_disorders,Број,Оба пола,191
-2009,diseases_of_the_nervous,Број,Оба пола,319
-2009,diseases_of_the_circulatory,Број,Оба пола,18295
-2009,diseases_of_the_respiratory,Број,Оба пола,1133
-2009,diseases_of_the_digestive,Број,Оба пола,936
-2009,diseases_of_the_skin,Број,Оба пола,9
-2009,diseases_of_the_musculoskeletal,Број,Оба пола,35
-2009,diseases_of_the_genitourinary,Број,Оба пола,588
-2009,pregnancy_childbirth_and_the,Број,Оба пола,1
-2009,certain_conditions_originating,Број,Оба пола,144
-2009,congenital_malformations_deformations,Број,Оба пола,61
-2009,symptoms_signs_and_abnormal,Број,Оба пола,1985
-2009,injuries_poisoning_and_consequences,Број,Оба пола,1256
-2009,external_causes_of_mortality,Број,Оба пола,2
-2009,factors_influencing_health_status,Број,Оба пола,2
-2009,unknown,Број,Оба пола,650
-2009,Укупно,Број,Оба пола,34904
-2009,infectious_and_parasitic,Број,Мушкарци,180
-2009,neoplasms,Број,Мушкарци,4118
-2009,diseases_of_the_blood,Број,Мушкарци,17
-2009,endocrine_metabolic_and_nutritional,Број,Мушкарци,766
-2009,mental_and_behavioural_disorders,Број,Мушкарци,127
-2009,diseases_of_the_nervous,Број,Мушкарци,167
-2009,diseases_of_the_circulatory,Број,Мушкарци,8586
-2009,diseases_of_the_respiratory,Број,Мушкарци,644
-2009,diseases_of_the_digestive,Број,Мушкарци,559
-2009,diseases_of_the_skin,Број,Мушкарци,4
-2009,diseases_of_the_musculoskeletal,Број,Мушкарци,8
-2009,diseases_of_the_genitourinary,Број,Мушкарци,299
-2009,certain_conditions_originating,Број,Мушкарци,76
-2009,congenital_malformations_deformations,Број,Мушкарци,31
-2009,symptoms_signs_and_abnormal,Број,Мушкарци,1012
-2009,injuries_poisoning_and_consequences,Број,Мушкарци,941
-2009,external_causes_of_mortality,Број,Мушкарци,2
-2009,factors_influencing_health_status,Број,Мушкарци,1
-2009,unknown,Број,Мушкарци,346
-2009,Укупно,Број,Мушкарци,17884
-2009,infectious_and_parasitic,Број,Жене,107
-2009,neoplasms,Број,Жене,2852
-2009,diseases_of_the_blood,Број,Жене,24
-2009,endocrine_metabolic_and_nutritional,Број,Жене,1233
-2009,mental_and_behavioural_disorders,Број,Жене,64
-2009,diseases_of_the_nervous,Број,Жене,152
-2009,diseases_of_the_circulatory,Број,Жене,9709
-2009,diseases_of_the_respiratory,Број,Жене,489
-2009,diseases_of_the_digestive,Број,Жене,377
-2009,diseases_of_the_skin,Број,Жене,5
-2009,diseases_of_the_musculoskeletal,Број,Жене,27
-2009,diseases_of_the_genitourinary,Број,Жене,289
-2009,pregnancy_childbirth_and_the,Број,Жене,1
-2009,certain_conditions_originating,Број,Жене,68
-2009,congenital_malformations_deformations,Број,Жене,30
-2009,symptoms_signs_and_abnormal,Број,Жене,973
-2009,injuries_poisoning_and_consequences,Број,Жене,315
-2009,factors_influencing_health_status,Број,Жене,1
-2009,unknown,Број,Жене,304
-2009,Укупно,Број,Жене,17020
-2010,infectious_and_parasitic,Број,Оба пола,285
-2010,neoplasms,Број,Оба пола,6973
-2010,diseases_of_the_blood,Број,Оба пола,45
-2010,endocrine_metabolic_and_nutritional,Број,Оба пола,1903
-2010,mental_and_behavioural_disorders,Број,Оба пола,171
-2010,diseases_of_the_nervous,Број,Оба пола,350
-2010,diseases_of_the_eye,Број,Оба пола,2
-2010,diseases_of_the_circulatory,Број,Оба пола,18805
-2010,diseases_of_the_respiratory,Број,Оба пола,1145
-2010,diseases_of_the_digestive,Број,Оба пола,918
-2010,diseases_of_the_skin,Број,Оба пола,14
-2010,diseases_of_the_musculoskeletal,Број,Оба пола,42
-2010,diseases_of_the_genitourinary,Број,Оба пола,577
-2010,pregnancy_childbirth_and_the,Број,Оба пола,1
-2010,certain_conditions_originating,Број,Оба пола,138
-2010,congenital_malformations_deformations,Број,Оба пола,63
-2010,symptoms_signs_and_abnormal,Број,Оба пола,1916
-2010,injuries_poisoning_and_consequences,Број,Оба пола,1117
-2010,external_causes_of_mortality,Број,Оба пола,15
-2010,factors_influencing_health_status,Број,Оба пола,0
-2010,unknown,Број,Оба пола,638
-2010,Укупно,Број,Оба пола,35118
-2010,infectious_and_parasitic,Број,Мушкарци,183
-2010,neoplasms,Број,Мушкарци,4059
-2010,diseases_of_the_blood,Број,Мушкарци,17
-2010,endocrine_metabolic_and_nutritional,Број,Мушкарци,729
-2010,mental_and_behavioural_disorders,Број,Мушкарци,118
-2010,diseases_of_the_nervous,Број,Мушкарци,178
-2010,diseases_of_the_eye,Број,Мушкарци,1
-2010,diseases_of_the_circulatory,Број,Мушкарци,8699
-2010,diseases_of_the_respiratory,Број,Мушкарци,681
-2010,diseases_of_the_digestive,Број,Мушкарци,544
-2010,diseases_of_the_skin,Број,Мушкарци,5
-2010,diseases_of_the_musculoskeletal,Број,Мушкарци,16
-2010,diseases_of_the_genitourinary,Број,Мушкарци,296
-2010,certain_conditions_originating,Број,Мушкарци,76
-2010,congenital_malformations_deformations,Број,Мушкарци,37
-2010,symptoms_signs_and_abnormal,Број,Мушкарци,1008
-2010,injuries_poisoning_and_consequences,Број,Мушкарци,878
-2010,external_causes_of_mortality,Број,Мушкарци,11
-2010,unknown,Број,Мушкарци,364
-2010,Укупно,Број,Мушкарци,17900
-2010,infectious_and_parasitic,Број,Жене,102
-2010,neoplasms,Број,Жене,2914
-2010,diseases_of_the_blood,Број,Жене,28
-2010,endocrine_metabolic_and_nutritional,Број,Жене,1174
-2010,mental_and_behavioural_disorders,Број,Жене,53
-2010,diseases_of_the_nervous,Број,Жене,172
-2010,diseases_of_the_eye,Број,Жене,1
-2010,diseases_of_the_circulatory,Број,Жене,10106
-2010,diseases_of_the_respiratory,Број,Жене,464
-2010,diseases_of_the_digestive,Број,Жене,374
-2010,diseases_of_the_skin,Број,Жене,9
-2010,diseases_of_the_musculoskeletal,Број,Жене,26
-2010,diseases_of_the_genitourinary,Број,Жене,281
-2010,pregnancy_childbirth_and_the,Број,Жене,1
-2010,certain_conditions_originating,Број,Жене,62
-2010,congenital_malformations_deformations,Број,Жене,26
-2010,symptoms_signs_and_abnormal,Број,Жене,908
-2010,injuries_poisoning_and_consequences,Број,Жене,239
-2010,external_causes_of_mortality,Број,Жене,4
-2010,unknown,Број,Жене,274
-2010,Укупно,Број,Жене,17218
-2011,infectious_and_parasitic,Број,Оба пола,298
-2011,neoplasms,Број,Оба пола,7214
-2011,diseases_of_the_blood,Број,Оба пола,59
-2011,endocrine_metabolic_and_nutritional,Број,Оба пола,194
-2011,mental_and_behavioural_disorders,Број,Оба пола,161
-2011,diseases_of_the_nervous,Број,Оба пола,410
-2011,diseases_of_the_circulatory,Број,Оба пола,18468
-2011,diseases_of_the_respiratory,Број,Оба пола,1281
-2011,diseases_of_the_digestive,Број,Оба пола,874
-2011,diseases_of_the_skin,Број,Оба пола,12
-2011,diseases_of_the_musculoskeletal,Број,Оба пола,45
-2011,diseases_of_the_genitourinary,Број,Оба пола,551
-2011,pregnancy_childbirth_and_the,Број,Оба пола,2
-2011,certain_conditions_originating,Број,Оба пола,118
-2011,congenital_malformations_deformations,Број,Оба пола,58
-2011,symptoms_signs_and_abnormal,Број,Оба пола,1665
-2011,injuries_poisoning_and_consequences,Број,Оба пола,1162
-2011,external_causes_of_mortality,Број,Оба пола,14
-2011,factors_influencing_health_status,Број,Оба пола,1
-2011,unknown,Број,Оба пола,695
-2011,Укупно,Број,Оба пола,35028
-2011,infectious_and_parasitic,Број,Мушкарци,192
-2011,neoplasms,Број,Мушкарци,4316
-2011,diseases_of_the_blood,Број,Мушкарци,20
-2011,endocrine_metabolic_and_nutritional,Број,Мушкарци,761
-2011,mental_and_behavioural_disorders,Број,Мушкарци,89
-2011,diseases_of_the_nervous,Број,Мушкарци,213
-2011,diseases_of_the_circulatory,Број,Мушкарци,8542
-2011,diseases_of_the_respiratory,Број,Мушкарци,725
-2011,diseases_of_the_digestive,Број,Мушкарци,543
-2011,diseases_of_the_skin,Број,Мушкарци,2
-2011,diseases_of_the_musculoskeletal,Број,Мушкарци,12
-2011,diseases_of_the_genitourinary,Број,Мушкарци,302
-2011,certain_conditions_originating,Број,Мушкарци,67
-2011,congenital_malformations_deformations,Број,Мушкарци,30
-2011,symptoms_signs_and_abnormal,Број,Мушкарци,829
-2011,injuries_poisoning_and_consequences,Број,Мушкарци,930
-2011,external_causes_of_mortality,Број,Мушкарци,13
-2011,factors_influencing_health_status,Број,Мушкарци,1
-2011,unknown,Број,Мушкарци,378
-2011,Укупно,Број,Мушкарци,17965
-2011,infectious_and_parasitic,Број,Жене,106
-2011,neoplasms,Број,Жене,2898
-2011,diseases_of_the_blood,Број,Жене,39
-2011,endocrine_metabolic_and_nutritional,Број,Жене,1179
-2011,mental_and_behavioural_disorders,Број,Жене,72
-2011,diseases_of_the_nervous,Број,Жене,197
-2011,diseases_of_the_circulatory,Број,Жене,9926
-2011,diseases_of_the_respiratory,Број,Жене,556
-2011,diseases_of_the_digestive,Број,Жене,331
-2011,diseases_of_the_skin,Број,Жене,10
-2011,diseases_of_the_musculoskeletal,Број,Жене,33
-2011,diseases_of_the_genitourinary,Број,Жене,249
-2011,pregnancy_childbirth_and_the,Број,Жене,2
-2011,certain_conditions_originating,Број,Жене,51
-2011,congenital_malformations_deformations,Број,Жене,28
-2011,symptoms_signs_and_abnormal,Број,Жене,836
-2011,injuries_poisoning_and_consequences,Број,Жене,232
-2011,external_causes_of_mortality,Број,Жене,1
-2011,unknown,Број,Жене,317
-2011,Укупно,Број,Жене,17063
-2012,infectious_and_parasitic,Број,Оба пола,344
-2012,neoplasms,Број,Оба пола,7598
-2012,diseases_of_the_blood,Број,Оба пола,47
-2012,endocrine_metabolic_and_nutritional,Број,Оба пола,1926
-2012,mental_and_behavioural_disorders,Број,Оба пола,160
-2012,diseases_of_the_nervous,Број,Оба пола,409
-2012,diseases_of_the_eye,Број,Оба пола,1
-2012,diseases_of_the_circulatory,Број,Оба пола,19252
-2012,diseases_of_the_respiratory,Број,Оба пола,1266
-2012,diseases_of_the_digestive,Број,Оба пола,978
-2012,diseases_of_the_skin,Број,Оба пола,13
-2012,diseases_of_the_musculoskeletal,Број,Оба пола,54
-2012,diseases_of_the_genitourinary,Број,Оба пола,601
-2012,pregnancy_childbirth_and_the,Број,Оба пола,3
-2012,certain_conditions_originating,Број,Оба пола,111
-2012,congenital_malformations_deformations,Број,Оба пола,40
-2012,symptoms_signs_and_abnormal,Број,Оба пола,1207
-2012,injuries_poisoning_and_consequences,Број,Оба пола,1067
-2012,unknown,Број,Оба пола,740
-2012,Укупно,Број,Оба пола,35817
-2012,infectious_and_parasitic,Број,Мушкарци,185
-2012,neoplasms,Број,Мушкарци,4458
-2012,diseases_of_the_blood,Број,Мушкарци,25
-2012,endocrine_metabolic_and_nutritional,Број,Мушкарци,785
-2012,mental_and_behavioural_disorders,Број,Мушкарци,109
-2012,diseases_of_the_nervous,Број,Мушкарци,207
-2012,diseases_of_the_circulatory,Број,Мушкарци,906
-2012,diseases_of_the_respiratory,Број,Мушкарци,754
-2012,diseases_of_the_digestive,Број,Мушкарци,588
-2012,diseases_of_the_skin,Број,Мушкарци,6
-2012,diseases_of_the_musculoskeletal,Број,Мушкарци,15
-2012,diseases_of_the_genitourinary,Број,Мушкарци,303
-2012,pregnancy_childbirth_and_the,Број,Мушкарци,0
-2012,certain_conditions_originating,Број,Мушкарци,67
-2012,congenital_malformations_deformations,Број,Мушкарци,26
-2012,symptoms_signs_and_abnormal,Број,Мушкарци,609
-2012,injuries_poisoning_and_consequences,Број,Мушкарци,830
-2012,unknown,Број,Мушкарци,409
-2012,Укупно,Број,Мушкарци,18436
-2012,infectious_and_parasitic,Број,Жене,159
-2012,neoplasms,Број,Жене,314
-2012,diseases_of_the_blood,Број,Жене,22
-2012,endocrine_metabolic_and_nutritional,Број,Жене,1141
-2012,mental_and_behavioural_disorders,Број,Жене,51
-2012,diseases_of_the_nervous,Број,Жене,202
-2012,diseases_of_the_eye,Број,Жене,1
-2012,diseases_of_the_circulatory,Број,Жене,10192
-2012,diseases_of_the_respiratory,Број,Жене,512
-2012,diseases_of_the_digestive,Број,Жене,390
-2012,diseases_of_the_skin,Број,Жене,7
-2012,diseases_of_the_musculoskeletal,Број,Жене,39
-2012,diseases_of_the_genitourinary,Број,Жене,298
-2012,pregnancy_childbirth_and_the,Број,Жене,3
-2012,certain_conditions_originating,Број,Жене,44
-2012,congenital_malformations_deformations,Број,Жене,14
-2012,symptoms_signs_and_abnormal,Број,Жене,598
-2012,injuries_poisoning_and_consequences,Број,Жене,237
-2012,unknown,Број,Жене,331
-2012,Укупно,Број,Жене,17381
-2013,infectious_and_parasitic,Број,Оба пола,268
-2013,neoplasms,Број,Оба пола,7506
-2013,diseases_of_the_blood,Број,Оба пола,50
-2013,endocrine_metabolic_and_nutritional,Број,Оба пола,197
-2013,mental_and_behavioural_disorders,Број,Оба пола,192
-2013,diseases_of_the_nervous,Број,Оба пола,382
-2013,diseases_of_the_circulatory,Број,Оба пола,18186
-2013,diseases_of_the_respiratory,Број,Оба пола,1428
-2013,diseases_of_the_digestive,Број,Оба пола,955
-2013,diseases_of_the_skin,Број,Оба пола,31
-2013,diseases_of_the_musculoskeletal,Број,Оба пола,57
-2013,diseases_of_the_genitourinary,Број,Оба пола,581
-2013,certain_conditions_originating,Број,Оба пола,101
-2013,congenital_malformations_deformations,Број,Оба пола,38
-2013,symptoms_signs_and_abnormal,Број,Оба пола,2107
-2013,injuries_poisoning_and_consequences,Број,Оба пола,1024
-2013,external_causes_of_mortality,Број,Оба пола,4
-2013,unknown,Број,Оба пола,782
-2013,Укупно,Број,Оба пола,35662
-2013,infectious_and_parasitic,Број,Мушкарци,165
-2013,neoplasms,Број,Мушкарци,4384
-2013,diseases_of_the_blood,Број,Мушкарци,20
-2013,endocrine_metabolic_and_nutritional,Број,Мушкарци,820
-2013,mental_and_behavioural_disorders,Број,Мушкарци,101
-2013,diseases_of_the_nervous,Број,Мушкарци,198
-2013,diseases_of_the_circulatory,Број,Мушкарци,8458
-2013,diseases_of_the_respiratory,Број,Мушкарци,827
-2013,diseases_of_the_digestive,Број,Мушкарци,526
-2013,diseases_of_the_skin,Број,Мушкарци,12
-2013,diseases_of_the_musculoskeletal,Број,Мушкарци,18
-2013,diseases_of_the_genitourinary,Број,Мушкарци,304
-2013,certain_conditions_originating,Број,Мушкарци,62
-2013,congenital_malformations_deformations,Број,Мушкарци,19
-2013,symptoms_signs_and_abnormal,Број,Мушкарци,1112
-2013,injuries_poisoning_and_consequences,Број,Мушкарци,794
-2013,external_causes_of_mortality,Број,Мушкарци,4
-2013,unknown,Број,Мушкарци,393
-2013,Укупно,Број,Мушкарци,18217
-2013,infectious_and_parasitic,Број,Жене,103
-2013,neoplasms,Број,Жене,3122
-2013,diseases_of_the_blood,Број,Жене,30
-2013,endocrine_metabolic_and_nutritional,Број,Жене,115
-2013,mental_and_behavioural_disorders,Број,Жене,91
-2013,diseases_of_the_nervous,Број,Жене,184
-2013,diseases_of_the_circulatory,Број,Жене,9728
-2013,diseases_of_the_respiratory,Број,Жене,601
-2013,diseases_of_the_digestive,Број,Жене,429
-2013,diseases_of_the_skin,Број,Жене,19
-2013,diseases_of_the_musculoskeletal,Број,Жене,39
-2013,diseases_of_the_genitourinary,Број,Жене,277
-2013,certain_conditions_originating,Број,Жене,39
-2013,congenital_malformations_deformations,Број,Жене,19
-2013,symptoms_signs_and_abnormal,Број,Жене,995
-2013,injuries_poisoning_and_consequences,Број,Жене,230
-2013,unknown,Број,Жене,389
-2013,Укупно,Број,Жене,17445
-2014,infectious_and_parasitic,Број,Оба пола,291
-2014,neoplasms,Број,Оба пола,7821
-2014,diseases_of_the_blood,Број,Оба пола,42
-2014,endocrine_metabolic_and_nutritional,Број,Оба пола,2267
-2014,mental_and_behavioural_disorders,Број,Оба пола,225
-2014,diseases_of_the_nervous,Број,Оба пола,396
-2014,diseases_of_the_eye,Број,Оба пола,6
-2014,diseases_of_the_circulatory,Број,Оба пола,1793
-2014,diseases_of_the_respiratory,Број,Оба пола,1409
-2014,diseases_of_the_digestive,Број,Оба пола,949
-2014,diseases_of_the_skin,Број,Оба пола,32
-2014,diseases_of_the_musculoskeletal,Број,Оба пола,61
-2014,diseases_of_the_genitourinary,Број,Оба пола,536
-2014,certain_conditions_originating,Број,Оба пола,85
-2014,congenital_malformations_deformations,Број,Оба пола,49
-2014,symptoms_signs_and_abnormal,Број,Оба пола,2241
-2014,injuries_poisoning_and_consequences,Број,Оба пола,1032
-2014,external_causes_of_mortality,Број,Оба пола,17
-2014,factors_influencing_health_status,Број,Оба пола,1
-2014,unknown,Број,Оба пола,590
-2014,Укупно,Број,Оба пола,35980
-2014,infectious_and_parasitic,Број,Мушкарци,164
-2014,neoplasms,Број,Мушкарци,4569
-2014,diseases_of_the_blood,Број,Мушкарци,14
-2014,endocrine_metabolic_and_nutritional,Број,Мушкарци,925
-2014,mental_and_behavioural_disorders,Број,Мушкарци,142
-2014,diseases_of_the_nervous,Број,Мушкарци,207
-2014,diseases_of_the_circulatory,Број,Мушкарци,8336
-2014,diseases_of_the_respiratory,Број,Мушкарци,840
-2014,diseases_of_the_digestive,Број,Мушкарци,545
-2014,diseases_of_the_skin,Број,Мушкарци,16
-2014,diseases_of_the_musculoskeletal,Број,Мушкарци,16
-2014,diseases_of_the_genitourinary,Број,Мушкарци,260
-2014,certain_conditions_originating,Број,Мушкарци,42
-2014,congenital_malformations_deformations,Број,Мушкарци,20
-2014,symptoms_signs_and_abnormal,Број,Мушкарци,1132
-2014,injuries_poisoning_and_consequences,Број,Мушкарци,795
-2014,external_causes_of_mortality,Број,Мушкарци,10
-2014,unknown,Број,Мушкарци,327
-2014,Укупно,Број,Мушкарци,18360
-2014,infectious_and_parasitic,Број,Жене,127
-2014,neoplasms,Број,Жене,3252
-2014,diseases_of_the_blood,Број,Жене,28
-2014,endocrine_metabolic_and_nutritional,Број,Жене,1342
-2014,mental_and_behavioural_disorders,Број,Жене,83
-2014,diseases_of_the_nervous,Број,Жене,189
-2014,diseases_of_the_eye,Број,Жене,6
-2014,diseases_of_the_circulatory,Број,Жене,9594
-2014,diseases_of_the_respiratory,Број,Жене,569
-2014,diseases_of_the_digestive,Број,Жене,404
-2014,diseases_of_the_skin,Број,Жене,16
-2014,diseases_of_the_musculoskeletal,Број,Жене,45
-2014,diseases_of_the_genitourinary,Број,Жене,276
-2014,certain_conditions_originating,Број,Жене,43
-2014,congenital_malformations_deformations,Број,Жене,29
-2014,symptoms_signs_and_abnormal,Број,Жене,1109
-2014,injuries_poisoning_and_consequences,Број,Жене,237
-2014,external_causes_of_mortality,Број,Жене,7
-2014,factors_influencing_health_status,Број,Жене,1
-2014,unknown,Број,Жене,263
-2014,Укупно,Број,Жене,17620
-2015,infectious_and_parasitic,Број,Оба пола,370
-2015,neoplasms,Број,Оба пола,7956
-2015,diseases_of_the_blood,Број,Оба пола,55
-2015,endocrine_metabolic_and_nutritional,Број,Оба пола,2025
-2015,mental_and_behavioural_disorders,Број,Оба пола,188
-2015,diseases_of_the_nervous,Број,Оба пола,447
-2015,diseases_of_the_eye,Број,Оба пола,1
-2015,diseases_of_the_circulatory,Број,Оба пола,19713
-2015,diseases_of_the_respiratory,Број,Оба пола,1718
-2015,diseases_of_the_digestive,Број,Оба пола,988
-2015,diseases_of_the_skin,Број,Оба пола,42
-2015,diseases_of_the_musculoskeletal,Број,Оба пола,55
-2015,diseases_of_the_genitourinary,Број,Оба пола,684
-2015,pregnancy_childbirth_and_the,Број,Оба пола,1
-2015,certain_conditions_originating,Број,Оба пола,126
-2015,congenital_malformations_deformations,Број,Оба пола,31
-2015,symptoms_signs_and_abnormal,Број,Оба пола,2098
-2015,injuries_poisoning_and_consequences,Број,Оба пола,1103
-2015,external_causes_of_mortality,Број,Оба пола,8
-2015,unknown,Број,Оба пола,541
-2015,Укупно,Број,Оба пола,38150
-2015,infectious_and_parasitic,Број,Мушкарци,207
-2015,neoplasms,Број,Мушкарци,4525
-2015,diseases_of_the_blood,Број,Мушкарци,19
-2015,endocrine_metabolic_and_nutritional,Број,Мушкарци,856
-2015,mental_and_behavioural_disorders,Број,Мушкарци,102
-2015,diseases_of_the_nervous,Број,Мушкарци,241
-2015,diseases_of_the_circulatory,Број,Мушкарци,9012
-2015,diseases_of_the_respiratory,Број,Мушкарци,972
-2015,diseases_of_the_digestive,Број,Мушкарци,571
-2015,diseases_of_the_skin,Број,Мушкарци,16
-2015,diseases_of_the_musculoskeletal,Број,Мушкарци,21
-2015,diseases_of_the_genitourinary,Број,Мушкарци,331
-2015,certain_conditions_originating,Број,Мушкарци,67
-2015,congenital_malformations_deformations,Број,Мушкарци,15
-2015,symptoms_signs_and_abnormal,Број,Мушкарци,1102
-2015,injuries_poisoning_and_consequences,Број,Мушкарци,840
-2015,external_causes_of_mortality,Број,Мушкарци,5
-2015,unknown,Број,Мушкарци,317
-2015,Укупно,Број,Мушкарци,19219
-2015,infectious_and_parasitic,Број,Жене,163
-2015,neoplasms,Број,Жене,3431
-2015,diseases_of_the_blood,Број,Жене,36
-2015,endocrine_metabolic_and_nutritional,Број,Жене,1169
-2015,mental_and_behavioural_disorders,Број,Жене,86
-2015,diseases_of_the_nervous,Број,Жене,206
-2015,diseases_of_the_eye,Број,Жене,1
-2015,diseases_of_the_circulatory,Број,Жене,10701
-2015,diseases_of_the_respiratory,Број,Жене,746
-2015,diseases_of_the_digestive,Број,Жене,417
-2015,diseases_of_the_skin,Број,Жене,26
-2015,diseases_of_the_musculoskeletal,Број,Жене,34
-2015,diseases_of_the_genitourinary,Број,Жене,353
-2015,pregnancy_childbirth_and_the,Број,Жене,1
-2015,certain_conditions_originating,Број,Жене,59
-2015,congenital_malformations_deformations,Број,Жене,16
-2015,symptoms_signs_and_abnormal,Број,Жене,996
-2015,injuries_poisoning_and_consequences,Број,Жене,263
-2015,external_causes_of_mortality,Број,Жене,3
-2015,unknown,Број,Жене,224
-2015,Укупно,Број,Жене,18931
-2016,infectious_and_parasitic,Број,Оба пола,412
-2016,neoplasms,Број,Оба пола,7761
-2016,diseases_of_the_blood,Број,Оба пола,54
-2016,endocrine_metabolic_and_nutritional,Број,Оба пола,1961
-2016,mental_and_behavioural_disorders,Број,Оба пола,226
-2016,diseases_of_the_nervous,Број,Оба пола,386
-2016,diseases_of_the_eye,Број,Оба пола,8
-2016,diseases_of_the_circulatory,Број,Оба пола,18959
-2016,diseases_of_the_respiratory,Број,Оба пола,1487
-2016,diseases_of_the_digestive,Број,Оба пола,1077
-2016,diseases_of_the_skin,Број,Оба пола,35
-2016,diseases_of_the_musculoskeletal,Број,Оба пола,46
-2016,diseases_of_the_genitourinary,Број,Оба пола,696
-2016,pregnancy_childbirth_and_the,Број,Оба пола,1
-2016,certain_conditions_originating,Број,Оба пола,117
-2016,congenital_malformations_deformations,Број,Оба пола,16
-2016,symptoms_signs_and_abnormal,Број,Оба пола,1730
-2016,injuries_poisoning_and_consequences,Број,Оба пола,1040
-2016,external_causes_of_mortality,Број,Оба пола,14
-2016,unknown,Број,Оба пола,545
-2016,Укупно,Број,Оба пола,36571
-2016,infectious_and_parasitic,Број,Мушкарци,214
-2016,neoplasms,Број,Мушкарци,4464
-2016,diseases_of_the_blood,Број,Мушкарци,22
-2016,endocrine_metabolic_and_nutritional,Број,Мушкарци,789
-2016,mental_and_behavioural_disorders,Број,Мушкарци,141
-2016,diseases_of_the_nervous,Број,Мушкарци,213
-2016,diseases_of_the_eye,Број,Мушкарци,6
-2016,diseases_of_the_circulatory,Број,Мушкарци,878
-2016,diseases_of_the_respiratory,Број,Мушкарци,879
-2016,diseases_of_the_digestive,Број,Мушкарци,619
-2016,diseases_of_the_skin,Број,Мушкарци,16
-2016,diseases_of_the_musculoskeletal,Број,Мушкарци,9
-2016,diseases_of_the_genitourinary,Број,Мушкарци,345
-2016,certain_conditions_originating,Број,Мушкарци,74
-2016,congenital_malformations_deformations,Број,Мушкарци,9
-2016,symptoms_signs_and_abnormal,Број,Мушкарци,872
-2016,injuries_poisoning_and_consequences,Број,Мушкарци,783
-2016,external_causes_of_mortality,Број,Мушкарци,11
-2016,unknown,Број,Мушкарци,296
-2016,Укупно,Број,Мушкарци,18542
-2016,infectious_and_parasitic,Број,Жене,198
-2016,neoplasms,Број,Жене,3297
-2016,diseases_of_the_blood,Број,Жене,32
-2016,endocrine_metabolic_and_nutritional,Број,Жене,1172
-2016,mental_and_behavioural_disorders,Број,Жене,85
-2016,diseases_of_the_nervous,Број,Жене,173
-2016,diseases_of_the_eye,Број,Жене,2
-2016,diseases_of_the_circulatory,Број,Жене,10179
-2016,diseases_of_the_respiratory,Број,Жене,608
-2016,diseases_of_the_digestive,Број,Жене,458
-2016,diseases_of_the_skin,Број,Жене,19
-2016,diseases_of_the_musculoskeletal,Број,Жене,37
-2016,diseases_of_the_genitourinary,Број,Жене,351
-2016,pregnancy_childbirth_and_the,Број,Жене,1
-2016,certain_conditions_originating,Број,Жене,43
-2016,congenital_malformations_deformations,Број,Жене,7
-2016,symptoms_signs_and_abnormal,Број,Жене,858
-2016,injuries_poisoning_and_consequences,Број,Жене,257
-2016,external_causes_of_mortality,Број,Жене,3
-2016,unknown,Број,Жене,249
-2016,Укупно,Број,Жене,18029
-2017,infectious_and_parasitic,Број,Оба пола,395
-2017,neoplasms,Број,Оба пола,8136
-2017,diseases_of_the_blood,Број,Оба пола,69
-2017,endocrine_metabolic_and_nutritional,Број,Оба пола,217
-2017,mental_and_behavioural_disorders,Број,Оба пола,265
-2017,diseases_of_the_nervous,Број,Оба пола,382
-2017,diseases_of_the_eye,Број,Оба пола,5
-2017,diseases_of_the_circulatory,Број,Оба пола,19207
-2017,diseases_of_the_respiratory,Број,Оба пола,1579
-2017,diseases_of_the_digestive,Број,Оба пола,1007
-2017,diseases_of_the_skin,Број,Оба пола,44
-2017,diseases_of_the_musculoskeletal,Број,Оба пола,44
-2017,diseases_of_the_genitourinary,Број,Оба пола,587
-2017,certain_conditions_originating,Број,Оба пола,136
-2017,congenital_malformations_deformations,Број,Оба пола,27
-2017,symptoms_signs_and_abnormal,Број,Оба пола,2294
-2017,injuries_poisoning_and_consequences,Број,Оба пола,1067
-2017,external_causes_of_mortality,Број,Оба пола,15
-2017,unknown,Број,Оба пола,550
-2017,Укупно,Број,Оба пола,37979
-2017,infectious_and_parasitic,Број,Мушкарци,209
-2017,neoplasms,Број,Мушкарци,4632
-2017,diseases_of_the_blood,Број,Мушкарци,25
-2017,endocrine_metabolic_and_nutritional,Број,Мушкарци,885
-2017,mental_and_behavioural_disorders,Број,Мушкарци,147
-2017,diseases_of_the_nervous,Број,Мушкарци,193
-2017,diseases_of_the_eye,Број,Мушкарци,2
-2017,diseases_of_the_circulatory,Број,Мушкарци,888
-2017,diseases_of_the_respiratory,Број,Мушкарци,936
-2017,diseases_of_the_digestive,Број,Мушкарци,570
-2017,diseases_of_the_skin,Број,Мушкарци,12
-2017,diseases_of_the_musculoskeletal,Број,Мушкарци,17
-2017,diseases_of_the_genitourinary,Број,Мушкарци,299
-2017,certain_conditions_originating,Број,Мушкарци,75
-2017,congenital_malformations_deformations,Број,Мушкарци,16
-2017,symptoms_signs_and_abnormal,Број,Мушкарци,1168
-2017,injuries_poisoning_and_consequences,Број,Мушкарци,780
-2017,external_causes_of_mortality,Број,Мушкарци,9
-2017,unknown,Број,Мушкарци,331
-2017,Укупно,Број,Мушкарци,19186
-2017,infectious_and_parasitic,Број,Жене,186
-2017,neoplasms,Број,Жене,3504
-2017,diseases_of_the_blood,Број,Жене,44
-2017,endocrine_metabolic_and_nutritional,Број,Жене,1285
-2017,mental_and_behavioural_disorders,Број,Жене,118
-2017,diseases_of_the_nervous,Број,Жене,189
-2017,diseases_of_the_eye,Број,Жене,3
-2017,diseases_of_the_circulatory,Број,Жене,10327
-2017,diseases_of_the_respiratory,Број,Жене,643
-2017,diseases_of_the_digestive,Број,Жене,437
-2017,diseases_of_the_skin,Број,Жене,32
-2017,diseases_of_the_musculoskeletal,Број,Жене,27
-2017,diseases_of_the_genitourinary,Број,Жене,288
-2017,certain_conditions_originating,Број,Жене,61
-2017,congenital_malformations_deformations,Број,Жене,Вриједност
-2017,symptoms_signs_and_abnormal,Број,Жене,4591
-2017,injuries_poisoning_and_consequences,Број,Жене,15911
-2017,external_causes_of_mortality,Број,Жене,866
-2017,unknown,Број,Жене,709
-2017,Укупно,Број,Жене,2552
-2018,infectious_and_parasitic,Број,Оба пола,1022
-2018,neoplasms,Број,Оба пола,25651
-2018,diseases_of_the_blood,Број,Оба пола,2752
-2018,endocrine_metabolic_and_nutritional,Број,Оба пола,77
-2018,mental_and_behavioural_disorders,Број,Оба пола,498
-2018,diseases_of_the_nervous,Број,Оба пола,445
-2018,diseases_of_the_circulatory,Број,Оба пола,1347
-2018,diseases_of_the_respiratory,Број,Оба пола,786
-2018,diseases_of_the_digestive,Број,Оба пола,13528
-2018,diseases_of_the_skin,Број,Оба пола,1839
-2018,diseases_of_the_musculoskeletal,Број,Оба пола,8211
-2018,diseases_of_the_genitourinary,Број,Оба пола,368
-2018,pregnancy_childbirth_and_the,Број,Оба пола,264
-2018,certain_conditions_originating,Број,Оба пола,1205
-2018,congenital_malformations_deformations,Број,Оба пола,236
-2018,symptoms_signs_and_abnormal,Број,Оба пола,12123
-2018,injuries_poisoning_and_consequences,Број,Оба пола,5122
-2018,external_causes_of_mortality,Број,Оба пола,16283
-2018,factors_influencing_health_status,Број,Оба пола,805
-2018,unknown,Број,Оба пола,848
-2018,Укупно,Број,Оба пола,2860
-2018,infectious_and_parasitic,Број,Мушкарци,1091
-2018,neoplasms,Број,Мушкарци,27009
-2018,diseases_of_the_blood,Број,Мушкарци,3144
-2018,endocrine_metabolic_and_nutritional,Број,Мушкарци,781
-2018,mental_and_behavioural_disorders,Број,Мушкарци,464
-2018,diseases_of_the_nervous,Број,Мушкарци,518
-2018,diseases_of_the_circulatory,Број,Мушкарци,1484
-2018,diseases_of_the_respiratory,Број,Мушкарци,812
-2018,diseases_of_the_digestive,Број,Мушкарци,14232
-2018,diseases_of_the_skin,Број,Мушкарци,1978
-2018,diseases_of_the_musculoskeletal,Број,Мушкарци,8473
-2018,diseases_of_the_genitourinary,Број,Мушкарци,341
-2018,certain_conditions_originating,Број,Мушкарци,330
-2018,congenital_malformations_deformations,Број,Мушкарци,1376
-2018,symptoms_signs_and_abnormal,Број,Мушкарци,279
-2018,injuries_poisoning_and_consequences,Број,Мушкарци,12777
-2018,external_causes_of_mortality,Број,Мушкарци,257
-2018,factors_influencing_health_status,Број,Мушкарци,5347
-2018,unknown,Број,Мушкарци,20
-2018,Укупно,Број,Мушкарци,667
-2018,infectious_and_parasitic,Број,Жене,48
-2018,neoplasms,Број,Жене,161
-2018,diseases_of_the_blood,Број,Жене,1
-2018,endocrine_metabolic_and_nutritional,Број,Жене,16328
-2018,mental_and_behavioural_disorders,Број,Жене,745
-2018,diseases_of_the_nervous,Број,Жене,827
-2018,diseases_of_the_circulatory,Број,Жене,17
-2018,diseases_of_the_respiratory,Број,Жене,14
-2018,diseases_of_the_digestive,Број,Жене,397
-2018,diseases_of_the_skin,Број,Жене,1
-2018,diseases_of_the_musculoskeletal,Број,Жене,188
-2018,diseases_of_the_genitourinary,Број,Жене,43
-2018,pregnancy_childbirth_and_the,Број,Жене,3031
-2018,certain_conditions_originating,Број,Жене,1017
-2018,congenital_malformations_deformations,Број,Жене,261
-2018,symptoms_signs_and_abnormal,Број,Жене,1
-2018,injuries_poisoning_and_consequences,Број,Жене,954
-2018,external_causes_of_mortality,Број,Жене,30325
-2018,unknown,Број,Жене,157
-2018,Укупно,Број,Жене,3288
-2019,infectious_and_parasitic,Број,Оба пола,7
-2019,neoplasms,Број,Оба пола,240
-2019,diseases_of_the_blood,Број,Оба пола,37
-2019,endocrine_metabolic_and_nutritional,Број,Оба пола,79
-2019,mental_and_behavioural_disorders,Број,Оба пола,1
-2019,diseases_of_the_nervous,Број,Оба пола,7943
-2019,diseases_of_the_eye,Број,Оба пола,434
-2019,diseases_of_the_circulatory,Број,Оба пола,540
-2019,diseases_of_the_respiratory,Број,Оба пола,5
-2019,diseases_of_the_digestive,Број,Оба пола,6
-2019,diseases_of_the_skin,Број,Оба пола,200
-2019,diseases_of_the_musculoskeletal,Број,Оба пола,0
-2019,diseases_of_the_genitourinary,Број,Оба пола,109
-2019,pregnancy_childbirth_and_the,Број,Оба пола,18
-2019,certain_conditions_originating,Број,Оба пола,1637
-2019,congenital_malformations_deformations,Број,Оба пола,768
-2019,symptoms_signs_and_abnormal,Број,Оба пола,206
-2019,injuries_poisoning_and_consequences,Број,Оба пола,527
-2019,external_causes_of_mortality,Број,Оба пола,16202
-2019,factors_influencing_health_status,Број,Оба пола,100
-2019,unknown,Број,Оба пола,2059
-2019,Укупно,Број,Оба пола,13
-2019,infectious_and_parasitic,Број,Мушкарци,427
-2019,neoplasms,Број,Мушкарци,11
-2019,diseases_of_the_blood,Број,Мушкарци,82
-2019,endocrine_metabolic_and_nutritional,Број,Мушкарци,8385
-2019,mental_and_behavioural_disorders,Број,Мушкарци,311
-2019,diseases_of_the_nervous,Број,Мушкарци,287
-2019,diseases_of_the_eye,Број,Мушкарци,12
-2019,diseases_of_the_circulatory,Број,Мушкарци,8
-2019,diseases_of_the_respiratory,Број,Мушкарци,197
-2019,diseases_of_the_digestive,Број,Мушкарци,1
-2019,diseases_of_the_skin,Број,Мушкарци,79
-2019,diseases_of_the_musculoskeletal,Број,Мушкарци,25
-2019,diseases_of_the_genitourinary,Број,Мушкарци,1394
-2019,certain_conditions_originating,Број,Мушкарци,249
-2019,congenital_malformations_deformations,Број,Мушкарци,55
-2019,symptoms_signs_and_abnormal,Број,Мушкарци,1
-2019,injuries_poisoning_and_consequences,Број,Мушкарци,427
-2019,external_causes_of_mortality,Број,Мушкарци,14123
-2019,factors_influencing_health_status,Број,Мушкарци,263
-2019,unknown,Број,Мушкарци,5288
-2019,Укупно,Број,Мушкарци,19
-2019,infectious_and_parasitic,Број,Жене,862
-2019,neoplasms,Број,Жене,66
-2019,diseases_of_the_blood,Број,Жене,157
-2019,endocrine_metabolic_and_nutritional,Број,Жене,1
-2019,mental_and_behavioural_disorders,Број,Жене,16007
-2019,diseases_of_the_nervous,Број,Жене,817
-2019,diseases_of_the_eye,Број,Жене,820
-2019,diseases_of_the_circulatory,Број,Жене,17
-2019,diseases_of_the_respiratory,Број,Жене,10
-2019,diseases_of_the_digestive,Број,Жене,219
-2019,diseases_of_the_skin,Број,Жене,3
-2019,diseases_of_the_musculoskeletal,Број,Жене,226
-2019,diseases_of_the_genitourinary,Број,Жене,56
-2019,pregnancy_childbirth_and_the,Број,Жене,2983
-2019,certain_conditions_originating,Број,Жене,984
-2019,congenital_malformations_deformations,Број,Жене,242
-2019,symptoms_signs_and_abnormal,Број,Жене,1
-2019,injuries_poisoning_and_consequences,Број,Жене,1790
-2019,external_causes_of_mortality,Број,Жене,30831
-2019,factors_influencing_health_status,Број,Жене,160
-2019,unknown,Број,Жене,3201
-2019,Укупно,Број,Жене,11
+Year,Пол,CAUSE_OF_DEATH,UNIT_MEASURE,Value
+1999,Оба пола,neoplasms,Број,4591
+1999,Оба пола,diseases_of_the_circulatory,Број,15911
+1999,Оба пола,diseases_of_the_respiratory,Број,866
+1999,Оба пола,diseases_of_the_digestive,Број,709
+1999,Оба пола,symptoms_signs_and_abnormal,Број,2552
+1999,Оба пола,injuries_poisoning_and_consequences,Број,1022
+1999,Оба пола,Укупно,Број,25651
+1999,Мушкарци,neoplasms,Број,2752
+1999,Мушкарци,diseases_of_the_circulatory,Број,77
+1999,Мушкарци,diseases_of_the_respiratory,Број,498
+1999,Мушкарци,diseases_of_the_digestive,Број,445
+1999,Мушкарци,symptoms_signs_and_abnormal,Број,1347
+1999,Мушкарци,injuries_poisoning_and_consequences,Број,786
+1999,Мушкарци,Укупно,Број,13528
+1999,Жене,neoplasms,Број,1839
+1999,Жене,diseases_of_the_circulatory,Број,8211
+1999,Жене,diseases_of_the_respiratory,Број,368
+1999,Жене,diseases_of_the_digestive,Број,264
+1999,Жене,symptoms_signs_and_abnormal,Број,1205
+1999,Жене,injuries_poisoning_and_consequences,Број,236
+1999,Жене,Укупно,Број,12123
+2000,Оба пола,neoplasms,Број,5122
+2000,Оба пола,diseases_of_the_circulatory,Број,16283
+2000,Оба пола,diseases_of_the_respiratory,Број,805
+2000,Оба пола,diseases_of_the_digestive,Број,848
+2000,Оба пола,symptoms_signs_and_abnormal,Број,2860
+2000,Оба пола,injuries_poisoning_and_consequences,Број,1091
+2000,Оба пола,Укупно,Број,27009
+2000,Мушкарци,neoplasms,Број,3144
+2000,Мушкарци,diseases_of_the_circulatory,Број,781
+2000,Мушкарци,diseases_of_the_respiratory,Број,464
+2000,Мушкарци,diseases_of_the_digestive,Број,518
+2000,Мушкарци,symptoms_signs_and_abnormal,Број,1484
+2000,Мушкарци,injuries_poisoning_and_consequences,Број,812
+2000,Мушкарци,Укупно,Број,14232
+2000,Жене,neoplasms,Број,1978
+2000,Жене,diseases_of_the_circulatory,Број,8473
+2000,Жене,diseases_of_the_respiratory,Број,341
+2000,Жене,diseases_of_the_digestive,Број,330
+2000,Жене,symptoms_signs_and_abnormal,Број,1376
+2000,Жене,injuries_poisoning_and_consequences,Број,279
+2000,Жене,Укупно,Број,12777
+2001,Оба пола,infectious_and_parasitic,Број,257
+2001,Оба пола,neoplasms,Број,5347
+2001,Оба пола,diseases_of_the_blood,Број,20
+2001,Оба пола,endocrine_metabolic_and_nutritional,Број,667
+2001,Оба пола,mental_and_behavioural_disorders,Број,48
+2001,Оба пола,diseases_of_the_nervous,Број,161
+2001,Оба пола,diseases_of_the_eye,Број,1
+2001,Оба пола,diseases_of_the_circulatory,Број,16328
+2001,Оба пола,diseases_of_the_respiratory,Број,745
+2001,Оба пола,diseases_of_the_digestive,Број,827
+2001,Оба пола,diseases_of_the_skin,Број,17
+2001,Оба пола,diseases_of_the_musculoskeletal,Број,14
+2001,Оба пола,diseases_of_the_genitourinary,Број,397
+2001,Оба пола,pregnancy_childbirth_and_the,Број,1
+2001,Оба пола,certain_conditions_originating,Број,188
+2001,Оба пола,congenital_malformations_deformations,Број,43
+2001,Оба пола,symptoms_signs_and_abnormal,Број,3031
+2001,Оба пола,injuries_poisoning_and_consequences,Број,1017
+2001,Оба пола,external_causes_of_mortality,Број,261
+2001,Оба пола,factors_influencing_health_status,Број,1
+2001,Оба пола,unknown,Број,954
+2001,Оба пола,Укупно,Број,30325
+2001,Мушкарци,infectious_and_parasitic,Број,157
+2001,Мушкарци,neoplasms,Број,3288
+2001,Мушкарци,diseases_of_the_blood,Број,7
+2001,Мушкарци,endocrine_metabolic_and_nutritional,Број,240
+2001,Мушкарци,mental_and_behavioural_disorders,Број,37
+2001,Мушкарци,diseases_of_the_nervous,Број,79
+2001,Мушкарци,diseases_of_the_eye,Број,1
+2001,Мушкарци,diseases_of_the_circulatory,Број,7943
+2001,Мушкарци,diseases_of_the_respiratory,Број,434
+2001,Мушкарци,diseases_of_the_digestive,Број,540
+2001,Мушкарци,diseases_of_the_skin,Број,5
+2001,Мушкарци,diseases_of_the_musculoskeletal,Број,6
+2001,Мушкарци,diseases_of_the_genitourinary,Број,200
+2001,Мушкарци,pregnancy_childbirth_and_the,Број,0
+2001,Мушкарци,certain_conditions_originating,Број,109
+2001,Мушкарци,congenital_malformations_deformations,Број,18
+2001,Мушкарци,symptoms_signs_and_abnormal,Број,1637
+2001,Мушкарци,injuries_poisoning_and_consequences,Број,768
+2001,Мушкарци,external_causes_of_mortality,Број,206
+2001,Мушкарци,unknown,Број,527
+2001,Мушкарци,Укупно,Број,16202
+2001,Жене,infectious_and_parasitic,Број,100
+2001,Жене,neoplasms,Број,2059
+2001,Жене,diseases_of_the_blood,Број,13
+2001,Жене,endocrine_metabolic_and_nutritional,Број,427
+2001,Жене,mental_and_behavioural_disorders,Број,11
+2001,Жене,diseases_of_the_nervous,Број,82
+2001,Жене,diseases_of_the_circulatory,Број,8385
+2001,Жене,diseases_of_the_respiratory,Број,311
+2001,Жене,diseases_of_the_digestive,Број,287
+2001,Жене,diseases_of_the_skin,Број,12
+2001,Жене,diseases_of_the_musculoskeletal,Број,8
+2001,Жене,diseases_of_the_genitourinary,Број,197
+2001,Жене,pregnancy_childbirth_and_the,Број,1
+2001,Жене,certain_conditions_originating,Број,79
+2001,Жене,congenital_malformations_deformations,Број,25
+2001,Жене,symptoms_signs_and_abnormal,Број,1394
+2001,Жене,injuries_poisoning_and_consequences,Број,249
+2001,Жене,external_causes_of_mortality,Број,55
+2001,Жене,factors_influencing_health_status,Број,1
+2001,Жене,unknown,Број,427
+2001,Жене,Укупно,Број,14123
+2002,Оба пола,infectious_and_parasitic,Број,263
+2002,Оба пола,neoplasms,Број,5288
+2002,Оба пола,diseases_of_the_blood,Број,19
+2002,Оба пола,endocrine_metabolic_and_nutritional,Број,862
+2002,Оба пола,mental_and_behavioural_disorders,Број,66
+2002,Оба пола,diseases_of_the_nervous,Број,157
+2002,Оба пола,diseases_of_the_eye,Број,1
+2002,Оба пола,diseases_of_the_circulatory,Број,16007
+2002,Оба пола,diseases_of_the_respiratory,Број,817
+2002,Оба пола,diseases_of_the_digestive,Број,820
+2002,Оба пола,diseases_of_the_skin,Број,17
+2002,Оба пола,diseases_of_the_musculoskeletal,Број,10
+2002,Оба пола,diseases_of_the_genitourinary,Број,219
+2002,Оба пола,pregnancy_childbirth_and_the,Број,3
+2002,Оба пола,certain_conditions_originating,Број,226
+2002,Оба пола,congenital_malformations_deformations,Број,56
+2002,Оба пола,symptoms_signs_and_abnormal,Број,2983
+2002,Оба пола,injuries_poisoning_and_consequences,Број,984
+2002,Оба пола,external_causes_of_mortality,Број,242
+2002,Оба пола,factors_influencing_health_status,Број,1
+2002,Оба пола,unknown,Број,1790
+2002,Оба пола,Укупно,Број,30831
+2002,Мушкарци,infectious_and_parasitic,Број,160
+2002,Мушкарци,neoplasms,Број,3201
+2002,Мушкарци,diseases_of_the_blood,Број,11
+2002,Мушкарци,endocrine_metabolic_and_nutritional,Број,300
+2002,Мушкарци,mental_and_behavioural_disorders,Број,39
+2002,Мушкарци,diseases_of_the_nervous,Број,87
+2002,Мушкарци,diseases_of_the_eye,Број,1
+2002,Мушкарци,diseases_of_the_circulatory,Број,7544
+2002,Мушкарци,diseases_of_the_respiratory,Број,478
+2002,Мушкарци,diseases_of_the_digestive,Број,495
+2002,Мушкарци,diseases_of_the_skin,Број,3
+2002,Мушкарци,diseases_of_the_musculoskeletal,Број,2
+2002,Мушкарци,diseases_of_the_genitourinary,Број,120
+2002,Мушкарци,pregnancy_childbirth_and_the,Број,0
+2002,Мушкарци,certain_conditions_originating,Број,128
+2002,Мушкарци,congenital_malformations_deformations,Број,32
+2002,Мушкарци,symptoms_signs_and_abnormal,Број,1535
+2002,Мушкарци,injuries_poisoning_and_consequences,Број,751
+2002,Мушкарци,external_causes_of_mortality,Број,180
+2002,Мушкарци,factors_influencing_health_status,Број,1
+2002,Мушкарци,unknown,Број,965
+2002,Мушкарци,Укупно,Број,16033
+2002,Жене,infectious_and_parasitic,Број,103
+2002,Жене,neoplasms,Број,2087
+2002,Жене,diseases_of_the_blood,Број,8
+2002,Жене,endocrine_metabolic_and_nutritional,Број,562
+2002,Жене,mental_and_behavioural_disorders,Број,27
+2002,Жене,diseases_of_the_nervous,Број,70
+2002,Жене,diseases_of_the_circulatory,Број,8463
+2002,Жене,diseases_of_the_respiratory,Број,339
+2002,Жене,diseases_of_the_digestive,Број,325
+2002,Жене,diseases_of_the_skin,Број,14
+2002,Жене,diseases_of_the_musculoskeletal,Број,8
+2002,Жене,diseases_of_the_genitourinary,Број,99
+2002,Жене,pregnancy_childbirth_and_the,Број,3
+2002,Жене,certain_conditions_originating,Број,98
+2002,Жене,congenital_malformations_deformations,Број,24
+2002,Жене,symptoms_signs_and_abnormal,Број,1448
+2002,Жене,injuries_poisoning_and_consequences,Број,233
+2002,Жене,external_causes_of_mortality,Број,62
+2002,Жене,unknown,Број,825
+2002,Жене,Укупно,Број,14798
+2003,Оба пола,neoplasms,Број,5771
+2003,Оба пола,diseases_of_the_circulatory,Број,1699
+2003,Оба пола,diseases_of_the_respiratory,Број,876
+2003,Оба пола,diseases_of_the_digestive,Број,810
+2003,Оба пола,symptoms_signs_and_abnormal,Број,3166
+2003,Оба пола,injuries_poisoning_and_consequences,Број,950
+2003,Оба пола,unknown,Број,770
+2003,Оба пола,Укупно,Број,29333
+2003,Мушкарци,neoplasms,Број,3499
+2003,Мушкарци,diseases_of_the_circulatory,Број,8001
+2003,Мушкарци,diseases_of_the_respiratory,Број,542
+2003,Мушкарци,diseases_of_the_digestive,Број,499
+2003,Мушкарци,symptoms_signs_and_abnormal,Број,1612
+2003,Мушкарци,injuries_poisoning_and_consequences,Број,706
+2003,Мушкарци,unknown,Број,424
+2003,Мушкарци,Укупно,Број,15283
+2003,Жене,neoplasms,Број,2272
+2003,Жене,diseases_of_the_circulatory,Број,8989
+2003,Жене,diseases_of_the_respiratory,Број,334
+2003,Жене,diseases_of_the_digestive,Број,311
+2003,Жене,symptoms_signs_and_abnormal,Број,1554
+2003,Жене,injuries_poisoning_and_consequences,Број,244
+2003,Жене,unknown,Број,346
+2003,Жене,Укупно,Број,14050
+2004,Оба пола,infectious_and_parasitic,Број,255
+2004,Оба пола,neoplasms,Број,5709
+2004,Оба пола,diseases_of_the_blood,Број,31
+2004,Оба пола,endocrine_metabolic_and_nutritional,Број,993
+2004,Оба пола,mental_and_behavioural_disorders,Број,104
+2004,Оба пола,diseases_of_the_nervous,Број,251
+2004,Оба пола,diseases_of_the_circulatory,Број,177
+2004,Оба пола,diseases_of_the_respiratory,Број,907
+2004,Оба пола,diseases_of_the_digestive,Број,839
+2004,Оба пола,diseases_of_the_skin,Број,11
+2004,Оба пола,diseases_of_the_musculoskeletal,Број,16
+2004,Оба пола,diseases_of_the_genitourinary,Број,467
+2004,Оба пола,pregnancy_childbirth_and_the,Број,1
+2004,Оба пола,certain_conditions_originating,Број,163
+2004,Оба пола,congenital_malformations_deformations,Број,42
+2004,Оба пола,symptoms_signs_and_abnormal,Број,2723
+2004,Оба пола,injuries_poisoning_and_consequences,Број,920
+2004,Оба пола,external_causes_of_mortality,Број,273
+2004,Оба пола,factors_influencing_health_status,Број,1
+2004,Оба пола,unknown,Број,1210
+2004,Оба пола,Укупно,Број,32616
+2004,Мушкарци,infectious_and_parasitic,Број,152
+2004,Мушкарци,neoplasms,Број,3398
+2004,Мушкарци,diseases_of_the_blood,Број,10
+2004,Мушкарци,endocrine_metabolic_and_nutritional,Број,377
+2004,Мушкарци,mental_and_behavioural_disorders,Број,80
+2004,Мушкарци,diseases_of_the_nervous,Број,126
+2004,Мушкарци,diseases_of_the_circulatory,Број,8262
+2004,Мушкарци,diseases_of_the_respiratory,Број,551
+2004,Мушкарци,diseases_of_the_digestive,Број,498
+2004,Мушкарци,diseases_of_the_skin,Број,2
+2004,Мушкарци,diseases_of_the_musculoskeletal,Број,9
+2004,Мушкарци,diseases_of_the_genitourinary,Број,248
+2004,Мушкарци,certain_conditions_originating,Број,101
+2004,Мушкарци,congenital_malformations_deformations,Број,26
+2004,Мушкарци,symptoms_signs_and_abnormal,Број,1399
+2004,Мушкарци,injuries_poisoning_and_consequences,Број,691
+2004,Мушкарци,external_causes_of_mortality,Број,198
+2004,Мушкарци,factors_influencing_health_status,Број,1
+2004,Мушкарци,unknown,Број,651
+2004,Мушкарци,Укупно,Број,16780
+2004,Жене,infectious_and_parasitic,Број,103
+2004,Жене,neoplasms,Број,2311
+2004,Жене,diseases_of_the_blood,Број,21
+2004,Жене,endocrine_metabolic_and_nutritional,Број,616
+2004,Жене,mental_and_behavioural_disorders,Број,24
+2004,Жене,diseases_of_the_nervous,Број,125
+2004,Жене,diseases_of_the_circulatory,Број,9438
+2004,Жене,diseases_of_the_respiratory,Број,356
+2004,Жене,diseases_of_the_digestive,Број,341
+2004,Жене,diseases_of_the_skin,Број,9
+2004,Жене,diseases_of_the_musculoskeletal,Број,7
+2004,Жене,diseases_of_the_genitourinary,Број,219
+2004,Жене,pregnancy_childbirth_and_the,Број,1
+2004,Жене,certain_conditions_originating,Број,62
+2004,Жене,congenital_malformations_deformations,Број,16
+2004,Жене,symptoms_signs_and_abnormal,Број,1324
+2004,Жене,injuries_poisoning_and_consequences,Број,229
+2004,Жене,external_causes_of_mortality,Број,75
+2004,Жене,unknown,Број,559
+2004,Жене,Укупно,Број,15836
+2005,Оба пола,neoplasms,Број,6255
+2005,Оба пола,diseases_of_the_circulatory,Број,17915
+2005,Оба пола,diseases_of_the_respiratory,Број,1242
+2005,Оба пола,diseases_of_the_digestive,Број,818
+2005,Оба пола,symptoms_signs_and_abnormal,Број,2394
+2005,Оба пола,injuries_poisoning_and_consequences,Број,952
+2005,Оба пола,Укупно,Број,29576
+2005,Мушкарци,neoplasms,Број,3766
+2005,Мушкарци,diseases_of_the_circulatory,Број,8559
+2005,Мушкарци,diseases_of_the_respiratory,Број,726
+2005,Мушкарци,diseases_of_the_digestive,Број,491
+2005,Мушкарци,symptoms_signs_and_abnormal,Број,1312
+2005,Мушкарци,injuries_poisoning_and_consequences,Број,718
+2005,Мушкарци,Укупно,Број,15572
+2005,Жене,neoplasms,Број,2489
+2005,Жене,diseases_of_the_circulatory,Број,9356
+2005,Жене,diseases_of_the_respiratory,Број,516
+2005,Жене,diseases_of_the_digestive,Број,327
+2005,Жене,symptoms_signs_and_abnormal,Број,1082
+2005,Жене,injuries_poisoning_and_consequences,Број,234
+2005,Жене,Укупно,Број,14004
+2006,Оба пола,infectious_and_parasitic,Број,237
+2006,Оба пола,neoplasms,Број,6252
+2006,Оба пола,diseases_of_the_blood,Број,20
+2006,Оба пола,endocrine_metabolic_and_nutritional,Број,1537
+2006,Оба пола,mental_and_behavioural_disorders,Број,118
+2006,Оба пола,diseases_of_the_nervous,Број,298
+2006,Оба пола,diseases_of_the_eye,Број,1
+2006,Оба пола,diseases_of_the_circulatory,Број,16967
+2006,Оба пола,diseases_of_the_respiratory,Број,1132
+2006,Оба пола,diseases_of_the_digestive,Број,826
+2006,Оба пола,diseases_of_the_skin,Број,11
+2006,Оба пола,diseases_of_the_musculoskeletal,Број,16
+2006,Оба пола,diseases_of_the_genitourinary,Број,547
+2006,Оба пола,pregnancy_childbirth_and_the,Број,3
+2006,Оба пола,certain_conditions_originating,Број,185
+2006,Оба пола,congenital_malformations_deformations,Број,56
+2006,Оба пола,symptoms_signs_and_abnormal,Број,2744
+2006,Оба пола,injuries_poisoning_and_consequences,Број,1017
+2006,Оба пола,external_causes_of_mortality,Број,212
+2006,Оба пола,factors_influencing_health_status,Број,1
+2006,Оба пола,unknown,Број,1041
+2006,Оба пола,Укупно,Број,33221
+2006,Мушкарци,infectious_and_parasitic,Број,147
+2006,Мушкарци,neoplasms,Број,3697
+2006,Мушкарци,diseases_of_the_blood,Број,9
+2006,Мушкарци,endocrine_metabolic_and_nutritional,Број,598
+2006,Мушкарци,mental_and_behavioural_disorders,Број,88
+2006,Мушкарци,diseases_of_the_nervous,Број,174
+2006,Мушкарци,diseases_of_the_circulatory,Број,7941
+2006,Мушкарци,diseases_of_the_respiratory,Број,677
+2006,Мушкарци,diseases_of_the_digestive,Број,493
+2006,Мушкарци,diseases_of_the_skin,Број,6
+2006,Мушкарци,diseases_of_the_musculoskeletal,Број,3
+2006,Мушкарци,diseases_of_the_genitourinary,Број,293
+2006,Мушкарци,certain_conditions_originating,Број,118
+2006,Мушкарци,congenital_malformations_deformations,Број,32
+2006,Мушкарци,symptoms_signs_and_abnormal,Број,1527
+2006,Мушкарци,injuries_poisoning_and_consequences,Број,775
+2006,Мушкарци,external_causes_of_mortality,Број,152
+2006,Мушкарци,unknown,Број,578
+2006,Мушкарци,Укупно,Број,17308
+2006,Жене,infectious_and_parasitic,Број,90
+2006,Жене,neoplasms,Број,2555
+2006,Жене,diseases_of_the_blood,Број,11
+2006,Жене,endocrine_metabolic_and_nutritional,Број,939
+2006,Жене,mental_and_behavioural_disorders,Број,30
+2006,Жене,diseases_of_the_nervous,Број,124
+2006,Жене,diseases_of_the_eye,Број,1
+2006,Жене,diseases_of_the_circulatory,Број,9026
+2006,Жене,diseases_of_the_respiratory,Број,455
+2006,Жене,diseases_of_the_digestive,Број,333
+2006,Жене,diseases_of_the_skin,Број,5
+2006,Жене,diseases_of_the_musculoskeletal,Број,13
+2006,Жене,diseases_of_the_genitourinary,Број,254
+2006,Жене,pregnancy_childbirth_and_the,Број,3
+2006,Жене,certain_conditions_originating,Број,67
+2006,Жене,congenital_malformations_deformations,Број,24
+2006,Жене,symptoms_signs_and_abnormal,Број,1217
+2006,Жене,injuries_poisoning_and_consequences,Број,242
+2006,Жене,external_causes_of_mortality,Број,60
+2006,Жене,factors_influencing_health_status,Број,1
+2006,Жене,unknown,Број,463
+2006,Жене,Укупно,Број,15913
+2007,Оба пола,infectious_and_parasitic,Број,250
+2007,Оба пола,neoplasms,Број,6713
+2007,Оба пола,diseases_of_the_blood,Број,54
+2007,Оба пола,endocrine_metabolic_and_nutritional,Број,1582
+2007,Оба пола,mental_and_behavioural_disorders,Број,162
+2007,Оба пола,diseases_of_the_nervous,Број,317
+2007,Оба пола,diseases_of_the_eye,Број,1
+2007,Оба пола,diseases_of_the_circulatory,Број,18516
+2007,Оба пола,diseases_of_the_respiratory,Број,1145
+2007,Оба пола,diseases_of_the_digestive,Број,924
+2007,Оба пола,diseases_of_the_skin,Број,10
+2007,Оба пола,diseases_of_the_musculoskeletal,Број,32
+2007,Оба пола,diseases_of_the_genitourinary,Број,558
+2007,Оба пола,pregnancy_childbirth_and_the,Број,1
+2007,Оба пола,certain_conditions_originating,Број,133
+2007,Оба пола,congenital_malformations_deformations,Број,54
+2007,Оба пола,symptoms_signs_and_abnormal,Број,2219
+2007,Оба пола,injuries_poisoning_and_consequences,Број,1030
+2007,Оба пола,external_causes_of_mortality,Број,267
+2007,Оба пола,unknown,Број,1076
+2007,Оба пола,Укупно,Број,35044
+2007,Мушкарци,infectious_and_parasitic,Број,164
+2007,Мушкарци,neoplasms,Број,3983
+2007,Мушкарци,diseases_of_the_blood,Број,22
+2007,Мушкарци,endocrine_metabolic_and_nutritional,Број,609
+2007,Мушкарци,mental_and_behavioural_disorders,Број,113
+2007,Мушкарци,diseases_of_the_nervous,Број,161
+2007,Мушкарци,diseases_of_the_eye,Број,1
+2007,Мушкарци,diseases_of_the_circulatory,Број,8697
+2007,Мушкарци,diseases_of_the_respiratory,Број,664
+2007,Мушкарци,diseases_of_the_digestive,Број,570
+2007,Мушкарци,diseases_of_the_skin,Број,4
+2007,Мушкарци,diseases_of_the_musculoskeletal,Број,9
+2007,Мушкарци,diseases_of_the_genitourinary,Број,320
+2007,Мушкарци,pregnancy_childbirth_and_the,Број,0
+2007,Мушкарци,certain_conditions_originating,Број,79
+2007,Мушкарци,congenital_malformations_deformations,Број,28
+2007,Мушкарци,symptoms_signs_and_abnormal,Број,1143
+2007,Мушкарци,injuries_poisoning_and_consequences,Број,766
+2007,Мушкарци,external_causes_of_mortality,Број,199
+2007,Мушкарци,unknown,Број,622
+2007,Мушкарци,Укупно,Број,18154
+2007,Жене,infectious_and_parasitic,Број,86
+2007,Жене,neoplasms,Број,273
+2007,Жене,diseases_of_the_blood,Број,32
+2007,Жене,endocrine_metabolic_and_nutritional,Број,973
+2007,Жене,mental_and_behavioural_disorders,Број,49
+2007,Жене,diseases_of_the_nervous,Број,156
+2007,Жене,diseases_of_the_circulatory,Број,9819
+2007,Жене,diseases_of_the_respiratory,Број,481
+2007,Жене,diseases_of_the_digestive,Број,354
+2007,Жене,diseases_of_the_skin,Број,6
+2007,Жене,diseases_of_the_musculoskeletal,Број,23
+2007,Жене,diseases_of_the_genitourinary,Број,238
+2007,Жене,pregnancy_childbirth_and_the,Број,1
+2007,Жене,certain_conditions_originating,Број,54
+2007,Жене,congenital_malformations_deformations,Број,26
+2007,Жене,symptoms_signs_and_abnormal,Број,1076
+2007,Жене,injuries_poisoning_and_consequences,Број,264
+2007,Жене,external_causes_of_mortality,Број,68
+2007,Жене,unknown,Број,454
+2007,Жене,Укупно,Број,16890
+2008,Оба пола,infectious_and_parasitic,Број,275
+2008,Оба пола,neoplasms,Број,6734
+2008,Оба пола,diseases_of_the_blood,Број,37
+2008,Оба пола,endocrine_metabolic_and_nutritional,Број,1563
+2008,Оба пола,mental_and_behavioural_disorders,Број,169
+2008,Оба пола,diseases_of_the_nervous,Број,287
+2008,Оба пола,diseases_of_the_eye,Број,1
+2008,Оба пола,diseases_of_the_circulatory,Број,17988
+2008,Оба пола,diseases_of_the_respiratory,Број,1035
+2008,Оба пола,diseases_of_the_digestive,Број,846
+2008,Оба пола,diseases_of_the_skin,Број,10
+2008,Оба пола,diseases_of_the_musculoskeletal,Број,40
+2008,Оба пола,diseases_of_the_genitourinary,Број,571
+2008,Оба пола,pregnancy_childbirth_and_the,Број,4
+2008,Оба пола,certain_conditions_originating,Број,136
+2008,Оба пола,congenital_malformations_deformations,Број,61
+2008,Оба пола,symptoms_signs_and_abnormal,Број,2028
+2008,Оба пола,injuries_poisoning_and_consequences,Број,1200
+2008,Оба пола,external_causes_of_mortality,Број,2
+2008,Оба пола,unknown,Број,1039
+2008,Оба пола,Укупно,Број,34026
+2008,Мушкарци,infectious_and_parasitic,Број,170
+2008,Мушкарци,neoplasms,Број,4053
+2008,Мушкарци,diseases_of_the_blood,Број,16
+2008,Мушкарци,endocrine_metabolic_and_nutritional,Број,618
+2008,Мушкарци,mental_and_behavioural_disorders,Број,127
+2008,Мушкарци,diseases_of_the_nervous,Број,167
+2008,Мушкарци,diseases_of_the_circulatory,Број,8385
+2008,Мушкарци,diseases_of_the_respiratory,Број,627
+2008,Мушкарци,diseases_of_the_digestive,Број,512
+2008,Мушкарци,diseases_of_the_skin,Број,3
+2008,Мушкарци,diseases_of_the_musculoskeletal,Број,14
+2008,Мушкарци,diseases_of_the_genitourinary,Број,306
+2008,Мушкарци,certain_conditions_originating,Број,75
+2008,Мушкарци,congenital_malformations_deformations,Број,32
+2008,Мушкарци,symptoms_signs_and_abnormal,Број,1052
+2008,Мушкарци,injuries_poisoning_and_consequences,Број,942
+2008,Мушкарци,external_causes_of_mortality,Број,2
+2008,Мушкарци,unknown,Број,586
+2008,Мушкарци,Укупно,Број,17687
+2008,Жене,infectious_and_parasitic,Број,105
+2008,Жене,neoplasms,Број,2681
+2008,Жене,diseases_of_the_blood,Број,21
+2008,Жене,endocrine_metabolic_and_nutritional,Број,945
+2008,Жене,mental_and_behavioural_disorders,Број,42
+2008,Жене,diseases_of_the_nervous,Број,120
+2008,Жене,diseases_of_the_eye,Број,1
+2008,Жене,diseases_of_the_circulatory,Број,9603
+2008,Жене,diseases_of_the_respiratory,Број,408
+2008,Жене,diseases_of_the_digestive,Број,334
+2008,Жене,diseases_of_the_skin,Број,7
+2008,Жене,diseases_of_the_musculoskeletal,Број,26
+2008,Жене,diseases_of_the_genitourinary,Број,265
+2008,Жене,pregnancy_childbirth_and_the,Број,4
+2008,Жене,certain_conditions_originating,Број,61
+2008,Жене,congenital_malformations_deformations,Број,29
+2008,Жене,symptoms_signs_and_abnormal,Број,976
+2008,Жене,injuries_poisoning_and_consequences,Број,258
+2008,Жене,unknown,Број,453
+2008,Жене,Укупно,Број,16339
+2009,Оба пола,infectious_and_parasitic,Број,287
+2009,Оба пола,neoplasms,Број,697
+2009,Оба пола,diseases_of_the_blood,Број,41
+2009,Оба пола,endocrine_metabolic_and_nutritional,Број,1999
+2009,Оба пола,mental_and_behavioural_disorders,Број,191
+2009,Оба пола,diseases_of_the_nervous,Број,319
+2009,Оба пола,diseases_of_the_circulatory,Број,18295
+2009,Оба пола,diseases_of_the_respiratory,Број,1133
+2009,Оба пола,diseases_of_the_digestive,Број,936
+2009,Оба пола,diseases_of_the_skin,Број,9
+2009,Оба пола,diseases_of_the_musculoskeletal,Број,35
+2009,Оба пола,diseases_of_the_genitourinary,Број,588
+2009,Оба пола,pregnancy_childbirth_and_the,Број,1
+2009,Оба пола,certain_conditions_originating,Број,144
+2009,Оба пола,congenital_malformations_deformations,Број,61
+2009,Оба пола,symptoms_signs_and_abnormal,Број,1985
+2009,Оба пола,injuries_poisoning_and_consequences,Број,1256
+2009,Оба пола,external_causes_of_mortality,Број,2
+2009,Оба пола,factors_influencing_health_status,Број,2
+2009,Оба пола,unknown,Број,650
+2009,Оба пола,Укупно,Број,34904
+2009,Мушкарци,infectious_and_parasitic,Број,180
+2009,Мушкарци,neoplasms,Број,4118
+2009,Мушкарци,diseases_of_the_blood,Број,17
+2009,Мушкарци,endocrine_metabolic_and_nutritional,Број,766
+2009,Мушкарци,mental_and_behavioural_disorders,Број,127
+2009,Мушкарци,diseases_of_the_nervous,Број,167
+2009,Мушкарци,diseases_of_the_circulatory,Број,8586
+2009,Мушкарци,diseases_of_the_respiratory,Број,644
+2009,Мушкарци,diseases_of_the_digestive,Број,559
+2009,Мушкарци,diseases_of_the_skin,Број,4
+2009,Мушкарци,diseases_of_the_musculoskeletal,Број,8
+2009,Мушкарци,diseases_of_the_genitourinary,Број,299
+2009,Мушкарци,certain_conditions_originating,Број,76
+2009,Мушкарци,congenital_malformations_deformations,Број,31
+2009,Мушкарци,symptoms_signs_and_abnormal,Број,1012
+2009,Мушкарци,injuries_poisoning_and_consequences,Број,941
+2009,Мушкарци,external_causes_of_mortality,Број,2
+2009,Мушкарци,factors_influencing_health_status,Број,1
+2009,Мушкарци,unknown,Број,346
+2009,Мушкарци,Укупно,Број,17884
+2009,Жене,infectious_and_parasitic,Број,107
+2009,Жене,neoplasms,Број,2852
+2009,Жене,diseases_of_the_blood,Број,24
+2009,Жене,endocrine_metabolic_and_nutritional,Број,1233
+2009,Жене,mental_and_behavioural_disorders,Број,64
+2009,Жене,diseases_of_the_nervous,Број,152
+2009,Жене,diseases_of_the_circulatory,Број,9709
+2009,Жене,diseases_of_the_respiratory,Број,489
+2009,Жене,diseases_of_the_digestive,Број,377
+2009,Жене,diseases_of_the_skin,Број,5
+2009,Жене,diseases_of_the_musculoskeletal,Број,27
+2009,Жене,diseases_of_the_genitourinary,Број,289
+2009,Жене,pregnancy_childbirth_and_the,Број,1
+2009,Жене,certain_conditions_originating,Број,68
+2009,Жене,congenital_malformations_deformations,Број,30
+2009,Жене,symptoms_signs_and_abnormal,Број,973
+2009,Жене,injuries_poisoning_and_consequences,Број,315
+2009,Жене,factors_influencing_health_status,Број,1
+2009,Жене,unknown,Број,304
+2009,Жене,Укупно,Број,17020
+2010,Оба пола,infectious_and_parasitic,Број,285
+2010,Оба пола,neoplasms,Број,6973
+2010,Оба пола,diseases_of_the_blood,Број,45
+2010,Оба пола,endocrine_metabolic_and_nutritional,Број,1903
+2010,Оба пола,mental_and_behavioural_disorders,Број,171
+2010,Оба пола,diseases_of_the_nervous,Број,350
+2010,Оба пола,diseases_of_the_eye,Број,2
+2010,Оба пола,diseases_of_the_circulatory,Број,18805
+2010,Оба пола,diseases_of_the_respiratory,Број,1145
+2010,Оба пола,diseases_of_the_digestive,Број,918
+2010,Оба пола,diseases_of_the_skin,Број,14
+2010,Оба пола,diseases_of_the_musculoskeletal,Број,42
+2010,Оба пола,diseases_of_the_genitourinary,Број,577
+2010,Оба пола,pregnancy_childbirth_and_the,Број,1
+2010,Оба пола,certain_conditions_originating,Број,138
+2010,Оба пола,congenital_malformations_deformations,Број,63
+2010,Оба пола,symptoms_signs_and_abnormal,Број,1916
+2010,Оба пола,injuries_poisoning_and_consequences,Број,1117
+2010,Оба пола,external_causes_of_mortality,Број,15
+2010,Оба пола,factors_influencing_health_status,Број,0
+2010,Оба пола,unknown,Број,638
+2010,Оба пола,Укупно,Број,35118
+2010,Мушкарци,infectious_and_parasitic,Број,183
+2010,Мушкарци,neoplasms,Број,4059
+2010,Мушкарци,diseases_of_the_blood,Број,17
+2010,Мушкарци,endocrine_metabolic_and_nutritional,Број,729
+2010,Мушкарци,mental_and_behavioural_disorders,Број,118
+2010,Мушкарци,diseases_of_the_nervous,Број,178
+2010,Мушкарци,diseases_of_the_eye,Број,1
+2010,Мушкарци,diseases_of_the_circulatory,Број,8699
+2010,Мушкарци,diseases_of_the_respiratory,Број,681
+2010,Мушкарци,diseases_of_the_digestive,Број,544
+2010,Мушкарци,diseases_of_the_skin,Број,5
+2010,Мушкарци,diseases_of_the_musculoskeletal,Број,16
+2010,Мушкарци,diseases_of_the_genitourinary,Број,296
+2010,Мушкарци,certain_conditions_originating,Број,76
+2010,Мушкарци,congenital_malformations_deformations,Број,37
+2010,Мушкарци,symptoms_signs_and_abnormal,Број,1008
+2010,Мушкарци,injuries_poisoning_and_consequences,Број,878
+2010,Мушкарци,external_causes_of_mortality,Број,11
+2010,Мушкарци,unknown,Број,364
+2010,Мушкарци,Укупно,Број,17900
+2010,Жене,infectious_and_parasitic,Број,102
+2010,Жене,neoplasms,Број,2914
+2010,Жене,diseases_of_the_blood,Број,28
+2010,Жене,endocrine_metabolic_and_nutritional,Број,1174
+2010,Жене,mental_and_behavioural_disorders,Број,53
+2010,Жене,diseases_of_the_nervous,Број,172
+2010,Жене,diseases_of_the_eye,Број,1
+2010,Жене,diseases_of_the_circulatory,Број,10106
+2010,Жене,diseases_of_the_respiratory,Број,464
+2010,Жене,diseases_of_the_digestive,Број,374
+2010,Жене,diseases_of_the_skin,Број,9
+2010,Жене,diseases_of_the_musculoskeletal,Број,26
+2010,Жене,diseases_of_the_genitourinary,Број,281
+2010,Жене,pregnancy_childbirth_and_the,Број,1
+2010,Жене,certain_conditions_originating,Број,62
+2010,Жене,congenital_malformations_deformations,Број,26
+2010,Жене,symptoms_signs_and_abnormal,Број,908
+2010,Жене,injuries_poisoning_and_consequences,Број,239
+2010,Жене,external_causes_of_mortality,Број,4
+2010,Жене,unknown,Број,274
+2010,Жене,Укупно,Број,17218
+2011,Оба пола,infectious_and_parasitic,Број,298
+2011,Оба пола,neoplasms,Број,7214
+2011,Оба пола,diseases_of_the_blood,Број,59
+2011,Оба пола,endocrine_metabolic_and_nutritional,Број,194
+2011,Оба пола,mental_and_behavioural_disorders,Број,161
+2011,Оба пола,diseases_of_the_nervous,Број,410
+2011,Оба пола,diseases_of_the_circulatory,Број,18468
+2011,Оба пола,diseases_of_the_respiratory,Број,1281
+2011,Оба пола,diseases_of_the_digestive,Број,874
+2011,Оба пола,diseases_of_the_skin,Број,12
+2011,Оба пола,diseases_of_the_musculoskeletal,Број,45
+2011,Оба пола,diseases_of_the_genitourinary,Број,551
+2011,Оба пола,pregnancy_childbirth_and_the,Број,2
+2011,Оба пола,certain_conditions_originating,Број,118
+2011,Оба пола,congenital_malformations_deformations,Број,58
+2011,Оба пола,symptoms_signs_and_abnormal,Број,1665
+2011,Оба пола,injuries_poisoning_and_consequences,Број,1162
+2011,Оба пола,external_causes_of_mortality,Број,14
+2011,Оба пола,factors_influencing_health_status,Број,1
+2011,Оба пола,unknown,Број,695
+2011,Оба пола,Укупно,Број,35028
+2011,Мушкарци,infectious_and_parasitic,Број,192
+2011,Мушкарци,neoplasms,Број,4316
+2011,Мушкарци,diseases_of_the_blood,Број,20
+2011,Мушкарци,endocrine_metabolic_and_nutritional,Број,761
+2011,Мушкарци,mental_and_behavioural_disorders,Број,89
+2011,Мушкарци,diseases_of_the_nervous,Број,213
+2011,Мушкарци,diseases_of_the_circulatory,Број,8542
+2011,Мушкарци,diseases_of_the_respiratory,Број,725
+2011,Мушкарци,diseases_of_the_digestive,Број,543
+2011,Мушкарци,diseases_of_the_skin,Број,2
+2011,Мушкарци,diseases_of_the_musculoskeletal,Број,12
+2011,Мушкарци,diseases_of_the_genitourinary,Број,302
+2011,Мушкарци,certain_conditions_originating,Број,67
+2011,Мушкарци,congenital_malformations_deformations,Број,30
+2011,Мушкарци,symptoms_signs_and_abnormal,Број,829
+2011,Мушкарци,injuries_poisoning_and_consequences,Број,930
+2011,Мушкарци,external_causes_of_mortality,Број,13
+2011,Мушкарци,factors_influencing_health_status,Број,1
+2011,Мушкарци,unknown,Број,378
+2011,Мушкарци,Укупно,Број,17965
+2011,Жене,infectious_and_parasitic,Број,106
+2011,Жене,neoplasms,Број,2898
+2011,Жене,diseases_of_the_blood,Број,39
+2011,Жене,endocrine_metabolic_and_nutritional,Број,1179
+2011,Жене,mental_and_behavioural_disorders,Број,72
+2011,Жене,diseases_of_the_nervous,Број,197
+2011,Жене,diseases_of_the_circulatory,Број,9926
+2011,Жене,diseases_of_the_respiratory,Број,556
+2011,Жене,diseases_of_the_digestive,Број,331
+2011,Жене,diseases_of_the_skin,Број,10
+2011,Жене,diseases_of_the_musculoskeletal,Број,33
+2011,Жене,diseases_of_the_genitourinary,Број,249
+2011,Жене,pregnancy_childbirth_and_the,Број,2
+2011,Жене,certain_conditions_originating,Број,51
+2011,Жене,congenital_malformations_deformations,Број,28
+2011,Жене,symptoms_signs_and_abnormal,Број,836
+2011,Жене,injuries_poisoning_and_consequences,Број,232
+2011,Жене,external_causes_of_mortality,Број,1
+2011,Жене,unknown,Број,317
+2011,Жене,Укупно,Број,17063
+2012,Оба пола,infectious_and_parasitic,Број,344
+2012,Оба пола,neoplasms,Број,7598
+2012,Оба пола,diseases_of_the_blood,Број,47
+2012,Оба пола,endocrine_metabolic_and_nutritional,Број,1926
+2012,Оба пола,mental_and_behavioural_disorders,Број,160
+2012,Оба пола,diseases_of_the_nervous,Број,409
+2012,Оба пола,diseases_of_the_eye,Број,1
+2012,Оба пола,diseases_of_the_circulatory,Број,19252
+2012,Оба пола,diseases_of_the_respiratory,Број,1266
+2012,Оба пола,diseases_of_the_digestive,Број,978
+2012,Оба пола,diseases_of_the_skin,Број,13
+2012,Оба пола,diseases_of_the_musculoskeletal,Број,54
+2012,Оба пола,diseases_of_the_genitourinary,Број,601
+2012,Оба пола,pregnancy_childbirth_and_the,Број,3
+2012,Оба пола,certain_conditions_originating,Број,111
+2012,Оба пола,congenital_malformations_deformations,Број,40
+2012,Оба пола,symptoms_signs_and_abnormal,Број,1207
+2012,Оба пола,injuries_poisoning_and_consequences,Број,1067
+2012,Оба пола,unknown,Број,740
+2012,Оба пола,Укупно,Број,35817
+2012,Мушкарци,infectious_and_parasitic,Број,185
+2012,Мушкарци,neoplasms,Број,4458
+2012,Мушкарци,diseases_of_the_blood,Број,25
+2012,Мушкарци,endocrine_metabolic_and_nutritional,Број,785
+2012,Мушкарци,mental_and_behavioural_disorders,Број,109
+2012,Мушкарци,diseases_of_the_nervous,Број,207
+2012,Мушкарци,diseases_of_the_circulatory,Број,906
+2012,Мушкарци,diseases_of_the_respiratory,Број,754
+2012,Мушкарци,diseases_of_the_digestive,Број,588
+2012,Мушкарци,diseases_of_the_skin,Број,6
+2012,Мушкарци,diseases_of_the_musculoskeletal,Број,15
+2012,Мушкарци,diseases_of_the_genitourinary,Број,303
+2012,Мушкарци,pregnancy_childbirth_and_the,Број,0
+2012,Мушкарци,certain_conditions_originating,Број,67
+2012,Мушкарци,congenital_malformations_deformations,Број,26
+2012,Мушкарци,symptoms_signs_and_abnormal,Број,609
+2012,Мушкарци,injuries_poisoning_and_consequences,Број,830
+2012,Мушкарци,unknown,Број,409
+2012,Мушкарци,Укупно,Број,18436
+2012,Жене,infectious_and_parasitic,Број,159
+2012,Жене,neoplasms,Број,314
+2012,Жене,diseases_of_the_blood,Број,22
+2012,Жене,endocrine_metabolic_and_nutritional,Број,1141
+2012,Жене,mental_and_behavioural_disorders,Број,51
+2012,Жене,diseases_of_the_nervous,Број,202
+2012,Жене,diseases_of_the_eye,Број,1
+2012,Жене,diseases_of_the_circulatory,Број,10192
+2012,Жене,diseases_of_the_respiratory,Број,512
+2012,Жене,diseases_of_the_digestive,Број,390
+2012,Жене,diseases_of_the_skin,Број,7
+2012,Жене,diseases_of_the_musculoskeletal,Број,39
+2012,Жене,diseases_of_the_genitourinary,Број,298
+2012,Жене,pregnancy_childbirth_and_the,Број,3
+2012,Жене,certain_conditions_originating,Број,44
+2012,Жене,congenital_malformations_deformations,Број,14
+2012,Жене,symptoms_signs_and_abnormal,Број,598
+2012,Жене,injuries_poisoning_and_consequences,Број,237
+2012,Жене,unknown,Број,331
+2012,Жене,Укупно,Број,17381
+2013,Оба пола,infectious_and_parasitic,Број,268
+2013,Оба пола,neoplasms,Број,7506
+2013,Оба пола,diseases_of_the_blood,Број,50
+2013,Оба пола,endocrine_metabolic_and_nutritional,Број,197
+2013,Оба пола,mental_and_behavioural_disorders,Број,192
+2013,Оба пола,diseases_of_the_nervous,Број,382
+2013,Оба пола,diseases_of_the_circulatory,Број,18186
+2013,Оба пола,diseases_of_the_respiratory,Број,1428
+2013,Оба пола,diseases_of_the_digestive,Број,955
+2013,Оба пола,diseases_of_the_skin,Број,31
+2013,Оба пола,diseases_of_the_musculoskeletal,Број,57
+2013,Оба пола,diseases_of_the_genitourinary,Број,581
+2013,Оба пола,certain_conditions_originating,Број,101
+2013,Оба пола,congenital_malformations_deformations,Број,38
+2013,Оба пола,symptoms_signs_and_abnormal,Број,2107
+2013,Оба пола,injuries_poisoning_and_consequences,Број,1024
+2013,Оба пола,external_causes_of_mortality,Број,4
+2013,Оба пола,unknown,Број,782
+2013,Оба пола,Укупно,Број,35662
+2013,Мушкарци,infectious_and_parasitic,Број,165
+2013,Мушкарци,neoplasms,Број,4384
+2013,Мушкарци,diseases_of_the_blood,Број,20
+2013,Мушкарци,endocrine_metabolic_and_nutritional,Број,820
+2013,Мушкарци,mental_and_behavioural_disorders,Број,101
+2013,Мушкарци,diseases_of_the_nervous,Број,198
+2013,Мушкарци,diseases_of_the_circulatory,Број,8458
+2013,Мушкарци,diseases_of_the_respiratory,Број,827
+2013,Мушкарци,diseases_of_the_digestive,Број,526
+2013,Мушкарци,diseases_of_the_skin,Број,12
+2013,Мушкарци,diseases_of_the_musculoskeletal,Број,18
+2013,Мушкарци,diseases_of_the_genitourinary,Број,304
+2013,Мушкарци,certain_conditions_originating,Број,62
+2013,Мушкарци,congenital_malformations_deformations,Број,19
+2013,Мушкарци,symptoms_signs_and_abnormal,Број,1112
+2013,Мушкарци,injuries_poisoning_and_consequences,Број,794
+2013,Мушкарци,external_causes_of_mortality,Број,4
+2013,Мушкарци,unknown,Број,393
+2013,Мушкарци,Укупно,Број,18217
+2013,Жене,infectious_and_parasitic,Број,103
+2013,Жене,neoplasms,Број,3122
+2013,Жене,diseases_of_the_blood,Број,30
+2013,Жене,endocrine_metabolic_and_nutritional,Број,115
+2013,Жене,mental_and_behavioural_disorders,Број,91
+2013,Жене,diseases_of_the_nervous,Број,184
+2013,Жене,diseases_of_the_circulatory,Број,9728
+2013,Жене,diseases_of_the_respiratory,Број,601
+2013,Жене,diseases_of_the_digestive,Број,429
+2013,Жене,diseases_of_the_skin,Број,19
+2013,Жене,diseases_of_the_musculoskeletal,Број,39
+2013,Жене,diseases_of_the_genitourinary,Број,277
+2013,Жене,certain_conditions_originating,Број,39
+2013,Жене,congenital_malformations_deformations,Број,19
+2013,Жене,symptoms_signs_and_abnormal,Број,995
+2013,Жене,injuries_poisoning_and_consequences,Број,230
+2013,Жене,unknown,Број,389
+2013,Жене,Укупно,Број,17445
+2014,Оба пола,infectious_and_parasitic,Број,291
+2014,Оба пола,neoplasms,Број,7821
+2014,Оба пола,diseases_of_the_blood,Број,42
+2014,Оба пола,endocrine_metabolic_and_nutritional,Број,2267
+2014,Оба пола,mental_and_behavioural_disorders,Број,225
+2014,Оба пола,diseases_of_the_nervous,Број,396
+2014,Оба пола,diseases_of_the_eye,Број,6
+2014,Оба пола,diseases_of_the_circulatory,Број,1793
+2014,Оба пола,diseases_of_the_respiratory,Број,1409
+2014,Оба пола,diseases_of_the_digestive,Број,949
+2014,Оба пола,diseases_of_the_skin,Број,32
+2014,Оба пола,diseases_of_the_musculoskeletal,Број,61
+2014,Оба пола,diseases_of_the_genitourinary,Број,536
+2014,Оба пола,certain_conditions_originating,Број,85
+2014,Оба пола,congenital_malformations_deformations,Број,49
+2014,Оба пола,symptoms_signs_and_abnormal,Број,2241
+2014,Оба пола,injuries_poisoning_and_consequences,Број,1032
+2014,Оба пола,external_causes_of_mortality,Број,17
+2014,Оба пола,factors_influencing_health_status,Број,1
+2014,Оба пола,unknown,Број,590
+2014,Оба пола,Укупно,Број,35980
+2014,Мушкарци,infectious_and_parasitic,Број,164
+2014,Мушкарци,neoplasms,Број,4569
+2014,Мушкарци,diseases_of_the_blood,Број,14
+2014,Мушкарци,endocrine_metabolic_and_nutritional,Број,925
+2014,Мушкарци,mental_and_behavioural_disorders,Број,142
+2014,Мушкарци,diseases_of_the_nervous,Број,207
+2014,Мушкарци,diseases_of_the_circulatory,Број,8336
+2014,Мушкарци,diseases_of_the_respiratory,Број,840
+2014,Мушкарци,diseases_of_the_digestive,Број,545
+2014,Мушкарци,diseases_of_the_skin,Број,16
+2014,Мушкарци,diseases_of_the_musculoskeletal,Број,16
+2014,Мушкарци,diseases_of_the_genitourinary,Број,260
+2014,Мушкарци,certain_conditions_originating,Број,42
+2014,Мушкарци,congenital_malformations_deformations,Број,20
+2014,Мушкарци,symptoms_signs_and_abnormal,Број,1132
+2014,Мушкарци,injuries_poisoning_and_consequences,Број,795
+2014,Мушкарци,external_causes_of_mortality,Број,10
+2014,Мушкарци,unknown,Број,327
+2014,Мушкарци,Укупно,Број,18360
+2014,Жене,infectious_and_parasitic,Број,127
+2014,Жене,neoplasms,Број,3252
+2014,Жене,diseases_of_the_blood,Број,28
+2014,Жене,endocrine_metabolic_and_nutritional,Број,1342
+2014,Жене,mental_and_behavioural_disorders,Број,83
+2014,Жене,diseases_of_the_nervous,Број,189
+2014,Жене,diseases_of_the_eye,Број,6
+2014,Жене,diseases_of_the_circulatory,Број,9594
+2014,Жене,diseases_of_the_respiratory,Број,569
+2014,Жене,diseases_of_the_digestive,Број,404
+2014,Жене,diseases_of_the_skin,Број,16
+2014,Жене,diseases_of_the_musculoskeletal,Број,45
+2014,Жене,diseases_of_the_genitourinary,Број,276
+2014,Жене,certain_conditions_originating,Број,43
+2014,Жене,congenital_malformations_deformations,Број,29
+2014,Жене,symptoms_signs_and_abnormal,Број,1109
+2014,Жене,injuries_poisoning_and_consequences,Број,237
+2014,Жене,external_causes_of_mortality,Број,7
+2014,Жене,factors_influencing_health_status,Број,1
+2014,Жене,unknown,Број,263
+2014,Жене,Укупно,Број,17620
+2015,Оба пола,infectious_and_parasitic,Број,370
+2015,Оба пола,neoplasms,Број,7956
+2015,Оба пола,diseases_of_the_blood,Број,55
+2015,Оба пола,endocrine_metabolic_and_nutritional,Број,2025
+2015,Оба пола,mental_and_behavioural_disorders,Број,188
+2015,Оба пола,diseases_of_the_nervous,Број,447
+2015,Оба пола,diseases_of_the_eye,Број,1
+2015,Оба пола,diseases_of_the_circulatory,Број,19713
+2015,Оба пола,diseases_of_the_respiratory,Број,1718
+2015,Оба пола,diseases_of_the_digestive,Број,988
+2015,Оба пола,diseases_of_the_skin,Број,42
+2015,Оба пола,diseases_of_the_musculoskeletal,Број,55
+2015,Оба пола,diseases_of_the_genitourinary,Број,684
+2015,Оба пола,pregnancy_childbirth_and_the,Број,1
+2015,Оба пола,certain_conditions_originating,Број,126
+2015,Оба пола,congenital_malformations_deformations,Број,31
+2015,Оба пола,symptoms_signs_and_abnormal,Број,2098
+2015,Оба пола,injuries_poisoning_and_consequences,Број,1103
+2015,Оба пола,external_causes_of_mortality,Број,8
+2015,Оба пола,unknown,Број,541
+2015,Оба пола,Укупно,Број,38150
+2015,Мушкарци,infectious_and_parasitic,Број,207
+2015,Мушкарци,neoplasms,Број,4525
+2015,Мушкарци,diseases_of_the_blood,Број,19
+2015,Мушкарци,endocrine_metabolic_and_nutritional,Број,856
+2015,Мушкарци,mental_and_behavioural_disorders,Број,102
+2015,Мушкарци,diseases_of_the_nervous,Број,241
+2015,Мушкарци,diseases_of_the_circulatory,Број,9012
+2015,Мушкарци,diseases_of_the_respiratory,Број,972
+2015,Мушкарци,diseases_of_the_digestive,Број,571
+2015,Мушкарци,diseases_of_the_skin,Број,16
+2015,Мушкарци,diseases_of_the_musculoskeletal,Број,21
+2015,Мушкарци,diseases_of_the_genitourinary,Број,331
+2015,Мушкарци,certain_conditions_originating,Број,67
+2015,Мушкарци,congenital_malformations_deformations,Број,15
+2015,Мушкарци,symptoms_signs_and_abnormal,Број,1102
+2015,Мушкарци,injuries_poisoning_and_consequences,Број,840
+2015,Мушкарци,external_causes_of_mortality,Број,5
+2015,Мушкарци,unknown,Број,317
+2015,Мушкарци,Укупно,Број,19219
+2015,Жене,infectious_and_parasitic,Број,163
+2015,Жене,neoplasms,Број,3431
+2015,Жене,diseases_of_the_blood,Број,36
+2015,Жене,endocrine_metabolic_and_nutritional,Број,1169
+2015,Жене,mental_and_behavioural_disorders,Број,86
+2015,Жене,diseases_of_the_nervous,Број,206
+2015,Жене,diseases_of_the_eye,Број,1
+2015,Жене,diseases_of_the_circulatory,Број,10701
+2015,Жене,diseases_of_the_respiratory,Број,746
+2015,Жене,diseases_of_the_digestive,Број,417
+2015,Жене,diseases_of_the_skin,Број,26
+2015,Жене,diseases_of_the_musculoskeletal,Број,34
+2015,Жене,diseases_of_the_genitourinary,Број,353
+2015,Жене,pregnancy_childbirth_and_the,Број,1
+2015,Жене,certain_conditions_originating,Број,59
+2015,Жене,congenital_malformations_deformations,Број,16
+2015,Жене,symptoms_signs_and_abnormal,Број,996
+2015,Жене,injuries_poisoning_and_consequences,Број,263
+2015,Жене,external_causes_of_mortality,Број,3
+2015,Жене,unknown,Број,224
+2015,Жене,Укупно,Број,18931
+2016,Оба пола,infectious_and_parasitic,Број,412
+2016,Оба пола,neoplasms,Број,7761
+2016,Оба пола,diseases_of_the_blood,Број,54
+2016,Оба пола,endocrine_metabolic_and_nutritional,Број,1961
+2016,Оба пола,mental_and_behavioural_disorders,Број,226
+2016,Оба пола,diseases_of_the_nervous,Број,386
+2016,Оба пола,diseases_of_the_eye,Број,8
+2016,Оба пола,diseases_of_the_circulatory,Број,18959
+2016,Оба пола,diseases_of_the_respiratory,Број,1487
+2016,Оба пола,diseases_of_the_digestive,Број,1077
+2016,Оба пола,diseases_of_the_skin,Број,35
+2016,Оба пола,diseases_of_the_musculoskeletal,Број,46
+2016,Оба пола,diseases_of_the_genitourinary,Број,696
+2016,Оба пола,pregnancy_childbirth_and_the,Број,1
+2016,Оба пола,certain_conditions_originating,Број,117
+2016,Оба пола,congenital_malformations_deformations,Број,16
+2016,Оба пола,symptoms_signs_and_abnormal,Број,1730
+2016,Оба пола,injuries_poisoning_and_consequences,Број,1040
+2016,Оба пола,external_causes_of_mortality,Број,14
+2016,Оба пола,unknown,Број,545
+2016,Оба пола,Укупно,Број,36571
+2016,Мушкарци,infectious_and_parasitic,Број,214
+2016,Мушкарци,neoplasms,Број,4464
+2016,Мушкарци,diseases_of_the_blood,Број,22
+2016,Мушкарци,endocrine_metabolic_and_nutritional,Број,789
+2016,Мушкарци,mental_and_behavioural_disorders,Број,141
+2016,Мушкарци,diseases_of_the_nervous,Број,213
+2016,Мушкарци,diseases_of_the_eye,Број,6
+2016,Мушкарци,diseases_of_the_circulatory,Број,878
+2016,Мушкарци,diseases_of_the_respiratory,Број,879
+2016,Мушкарци,diseases_of_the_digestive,Број,619
+2016,Мушкарци,diseases_of_the_skin,Број,16
+2016,Мушкарци,diseases_of_the_musculoskeletal,Број,9
+2016,Мушкарци,diseases_of_the_genitourinary,Број,345
+2016,Мушкарци,certain_conditions_originating,Број,74
+2016,Мушкарци,congenital_malformations_deformations,Број,9
+2016,Мушкарци,symptoms_signs_and_abnormal,Број,872
+2016,Мушкарци,injuries_poisoning_and_consequences,Број,783
+2016,Мушкарци,external_causes_of_mortality,Број,11
+2016,Мушкарци,unknown,Број,296
+2016,Мушкарци,Укупно,Број,18542
+2016,Жене,infectious_and_parasitic,Број,198
+2016,Жене,neoplasms,Број,3297
+2016,Жене,diseases_of_the_blood,Број,32
+2016,Жене,endocrine_metabolic_and_nutritional,Број,1172
+2016,Жене,mental_and_behavioural_disorders,Број,85
+2016,Жене,diseases_of_the_nervous,Број,173
+2016,Жене,diseases_of_the_eye,Број,2
+2016,Жене,diseases_of_the_circulatory,Број,10179
+2016,Жене,diseases_of_the_respiratory,Број,608
+2016,Жене,diseases_of_the_digestive,Број,458
+2016,Жене,diseases_of_the_skin,Број,19
+2016,Жене,diseases_of_the_musculoskeletal,Број,37
+2016,Жене,diseases_of_the_genitourinary,Број,351
+2016,Жене,pregnancy_childbirth_and_the,Број,1
+2016,Жене,certain_conditions_originating,Број,43
+2016,Жене,congenital_malformations_deformations,Број,7
+2016,Жене,symptoms_signs_and_abnormal,Број,858
+2016,Жене,injuries_poisoning_and_consequences,Број,257
+2016,Жене,external_causes_of_mortality,Број,3
+2016,Жене,unknown,Број,249
+2016,Жене,Укупно,Број,18029
+2017,Оба пола,infectious_and_parasitic,Број,395
+2017,Оба пола,neoplasms,Број,8136
+2017,Оба пола,diseases_of_the_blood,Број,69
+2017,Оба пола,endocrine_metabolic_and_nutritional,Број,217
+2017,Оба пола,mental_and_behavioural_disorders,Број,265
+2017,Оба пола,diseases_of_the_nervous,Број,382
+2017,Оба пола,diseases_of_the_eye,Број,5
+2017,Оба пола,diseases_of_the_circulatory,Број,19207
+2017,Оба пола,diseases_of_the_respiratory,Број,1579
+2017,Оба пола,diseases_of_the_digestive,Број,1007
+2017,Оба пола,diseases_of_the_skin,Број,44
+2017,Оба пола,diseases_of_the_musculoskeletal,Број,44
+2017,Оба пола,diseases_of_the_genitourinary,Број,587
+2017,Оба пола,certain_conditions_originating,Број,136
+2017,Оба пола,congenital_malformations_deformations,Број,27
+2017,Оба пола,symptoms_signs_and_abnormal,Број,2294
+2017,Оба пола,injuries_poisoning_and_consequences,Број,1067
+2017,Оба пола,external_causes_of_mortality,Број,15
+2017,Оба пола,unknown,Број,550
+2017,Оба пола,Укупно,Број,37979
+2017,Мушкарци,infectious_and_parasitic,Број,209
+2017,Мушкарци,neoplasms,Број,4632
+2017,Мушкарци,diseases_of_the_blood,Број,25
+2017,Мушкарци,endocrine_metabolic_and_nutritional,Број,885
+2017,Мушкарци,mental_and_behavioural_disorders,Број,147
+2017,Мушкарци,diseases_of_the_nervous,Број,193
+2017,Мушкарци,diseases_of_the_eye,Број,2
+2017,Мушкарци,diseases_of_the_circulatory,Број,888
+2017,Мушкарци,diseases_of_the_respiratory,Број,936
+2017,Мушкарци,diseases_of_the_digestive,Број,570
+2017,Мушкарци,diseases_of_the_skin,Број,12
+2017,Мушкарци,diseases_of_the_musculoskeletal,Број,17
+2017,Мушкарци,diseases_of_the_genitourinary,Број,299
+2017,Мушкарци,certain_conditions_originating,Број,75
+2017,Мушкарци,congenital_malformations_deformations,Број,16
+2017,Мушкарци,symptoms_signs_and_abnormal,Број,1168
+2017,Мушкарци,injuries_poisoning_and_consequences,Број,780
+2017,Мушкарци,external_causes_of_mortality,Број,9
+2017,Мушкарци,unknown,Број,331
+2017,Мушкарци,Укупно,Број,19186
+2017,Жене,infectious_and_parasitic,Број,186
+2017,Жене,neoplasms,Број,3504
+2017,Жене,diseases_of_the_blood,Број,44
+2017,Жене,endocrine_metabolic_and_nutritional,Број,1285
+2017,Жене,mental_and_behavioural_disorders,Број,118
+2017,Жене,diseases_of_the_nervous,Број,189
+2017,Жене,diseases_of_the_eye,Број,3
+2017,Жене,diseases_of_the_circulatory,Број,10327
+2017,Жене,diseases_of_the_respiratory,Број,643
+2017,Жене,diseases_of_the_digestive,Број,437
+2017,Жене,diseases_of_the_skin,Број,32
+2017,Жене,diseases_of_the_musculoskeletal,Број,27
+2017,Жене,diseases_of_the_genitourinary,Број,288
+2017,Жене,certain_conditions_originating,Број,61
+2017,Жене,congenital_malformations_deformations,Број,Вриједност
+2017,Жене,symptoms_signs_and_abnormal,Број,4591
+2017,Жене,injuries_poisoning_and_consequences,Број,15911
+2017,Жене,external_causes_of_mortality,Број,866
+2017,Жене,unknown,Број,709
+2017,Жене,Укупно,Број,2552
+2018,Оба пола,infectious_and_parasitic,Број,1022
+2018,Оба пола,neoplasms,Број,25651
+2018,Оба пола,diseases_of_the_blood,Број,2752
+2018,Оба пола,endocrine_metabolic_and_nutritional,Број,77
+2018,Оба пола,mental_and_behavioural_disorders,Број,498
+2018,Оба пола,diseases_of_the_nervous,Број,445
+2018,Оба пола,diseases_of_the_circulatory,Број,1347
+2018,Оба пола,diseases_of_the_respiratory,Број,786
+2018,Оба пола,diseases_of_the_digestive,Број,13528
+2018,Оба пола,diseases_of_the_skin,Број,1839
+2018,Оба пола,diseases_of_the_musculoskeletal,Број,8211
+2018,Оба пола,diseases_of_the_genitourinary,Број,368
+2018,Оба пола,pregnancy_childbirth_and_the,Број,264
+2018,Оба пола,certain_conditions_originating,Број,1205
+2018,Оба пола,congenital_malformations_deformations,Број,236
+2018,Оба пола,symptoms_signs_and_abnormal,Број,12123
+2018,Оба пола,injuries_poisoning_and_consequences,Број,5122
+2018,Оба пола,external_causes_of_mortality,Број,16283
+2018,Оба пола,factors_influencing_health_status,Број,805
+2018,Оба пола,unknown,Број,848
+2018,Оба пола,Укупно,Број,2860
+2018,Мушкарци,infectious_and_parasitic,Број,1091
+2018,Мушкарци,neoplasms,Број,27009
+2018,Мушкарци,diseases_of_the_blood,Број,3144
+2018,Мушкарци,endocrine_metabolic_and_nutritional,Број,781
+2018,Мушкарци,mental_and_behavioural_disorders,Број,464
+2018,Мушкарци,diseases_of_the_nervous,Број,518
+2018,Мушкарци,diseases_of_the_circulatory,Број,1484
+2018,Мушкарци,diseases_of_the_respiratory,Број,812
+2018,Мушкарци,diseases_of_the_digestive,Број,14232
+2018,Мушкарци,diseases_of_the_skin,Број,1978
+2018,Мушкарци,diseases_of_the_musculoskeletal,Број,8473
+2018,Мушкарци,diseases_of_the_genitourinary,Број,341
+2018,Мушкарци,certain_conditions_originating,Број,330
+2018,Мушкарци,congenital_malformations_deformations,Број,1376
+2018,Мушкарци,symptoms_signs_and_abnormal,Број,279
+2018,Мушкарци,injuries_poisoning_and_consequences,Број,12777
+2018,Мушкарци,external_causes_of_mortality,Број,257
+2018,Мушкарци,factors_influencing_health_status,Број,5347
+2018,Мушкарци,unknown,Број,20
+2018,Мушкарци,Укупно,Број,667
+2018,Жене,infectious_and_parasitic,Број,48
+2018,Жене,neoplasms,Број,161
+2018,Жене,diseases_of_the_blood,Број,1
+2018,Жене,endocrine_metabolic_and_nutritional,Број,16328
+2018,Жене,mental_and_behavioural_disorders,Број,745
+2018,Жене,diseases_of_the_nervous,Број,827
+2018,Жене,diseases_of_the_circulatory,Број,17
+2018,Жене,diseases_of_the_respiratory,Број,14
+2018,Жене,diseases_of_the_digestive,Број,397
+2018,Жене,diseases_of_the_skin,Број,1
+2018,Жене,diseases_of_the_musculoskeletal,Број,188
+2018,Жене,diseases_of_the_genitourinary,Број,43
+2018,Жене,pregnancy_childbirth_and_the,Број,3031
+2018,Жене,certain_conditions_originating,Број,1017
+2018,Жене,congenital_malformations_deformations,Број,261
+2018,Жене,symptoms_signs_and_abnormal,Број,1
+2018,Жене,injuries_poisoning_and_consequences,Број,954
+2018,Жене,external_causes_of_mortality,Број,30325
+2018,Жене,unknown,Број,157
+2018,Жене,Укупно,Број,3288
+2019,Оба пола,infectious_and_parasitic,Број,7
+2019,Оба пола,neoplasms,Број,240
+2019,Оба пола,diseases_of_the_blood,Број,37
+2019,Оба пола,endocrine_metabolic_and_nutritional,Број,79
+2019,Оба пола,mental_and_behavioural_disorders,Број,1
+2019,Оба пола,diseases_of_the_nervous,Број,7943
+2019,Оба пола,diseases_of_the_eye,Број,434
+2019,Оба пола,diseases_of_the_circulatory,Број,540
+2019,Оба пола,diseases_of_the_respiratory,Број,5
+2019,Оба пола,diseases_of_the_digestive,Број,6
+2019,Оба пола,diseases_of_the_skin,Број,200
+2019,Оба пола,diseases_of_the_musculoskeletal,Број,0
+2019,Оба пола,diseases_of_the_genitourinary,Број,109
+2019,Оба пола,pregnancy_childbirth_and_the,Број,18
+2019,Оба пола,certain_conditions_originating,Број,1637
+2019,Оба пола,congenital_malformations_deformations,Број,768
+2019,Оба пола,symptoms_signs_and_abnormal,Број,206
+2019,Оба пола,injuries_poisoning_and_consequences,Број,527
+2019,Оба пола,external_causes_of_mortality,Број,16202
+2019,Оба пола,factors_influencing_health_status,Број,100
+2019,Оба пола,unknown,Број,2059
+2019,Оба пола,Укупно,Број,13
+2019,Мушкарци,infectious_and_parasitic,Број,427
+2019,Мушкарци,neoplasms,Број,11
+2019,Мушкарци,diseases_of_the_blood,Број,82
+2019,Мушкарци,endocrine_metabolic_and_nutritional,Број,8385
+2019,Мушкарци,mental_and_behavioural_disorders,Број,311
+2019,Мушкарци,diseases_of_the_nervous,Број,287
+2019,Мушкарци,diseases_of_the_eye,Број,12
+2019,Мушкарци,diseases_of_the_circulatory,Број,8
+2019,Мушкарци,diseases_of_the_respiratory,Број,197
+2019,Мушкарци,diseases_of_the_digestive,Број,1
+2019,Мушкарци,diseases_of_the_skin,Број,79
+2019,Мушкарци,diseases_of_the_musculoskeletal,Број,25
+2019,Мушкарци,diseases_of_the_genitourinary,Број,1394
+2019,Мушкарци,certain_conditions_originating,Број,249
+2019,Мушкарци,congenital_malformations_deformations,Број,55
+2019,Мушкарци,symptoms_signs_and_abnormal,Број,1
+2019,Мушкарци,injuries_poisoning_and_consequences,Број,427
+2019,Мушкарци,external_causes_of_mortality,Број,14123
+2019,Мушкарци,factors_influencing_health_status,Број,263
+2019,Мушкарци,unknown,Број,5288
+2019,Мушкарци,Укупно,Број,19
+2019,Жене,infectious_and_parasitic,Број,862
+2019,Жене,neoplasms,Број,66
+2019,Жене,diseases_of_the_blood,Број,157
+2019,Жене,endocrine_metabolic_and_nutritional,Број,1
+2019,Жене,mental_and_behavioural_disorders,Број,16007
+2019,Жене,diseases_of_the_nervous,Број,817
+2019,Жене,diseases_of_the_eye,Број,820
+2019,Жене,diseases_of_the_circulatory,Број,17
+2019,Жене,diseases_of_the_respiratory,Број,10
+2019,Жене,diseases_of_the_digestive,Број,219
+2019,Жене,diseases_of_the_skin,Број,3
+2019,Жене,diseases_of_the_musculoskeletal,Број,226
+2019,Жене,diseases_of_the_genitourinary,Број,56
+2019,Жене,pregnancy_childbirth_and_the,Број,2983
+2019,Жене,certain_conditions_originating,Број,984
+2019,Жене,congenital_malformations_deformations,Број,242
+2019,Жене,symptoms_signs_and_abnormal,Број,1
+2019,Жене,injuries_poisoning_and_consequences,Број,1790
+2019,Жене,external_causes_of_mortality,Број,30831
+2019,Жене,factors_influencing_health_status,Број,160
+2019,Жене,unknown,Број,3201
+2019,Жене,Укупно,Број,11
