@@ -1,85 +1,85 @@
-Year,UNIT_MEASURE,Ентитет,UNIT_MEASUREMENT,Пол,Value
-1971,%,BiH,total_support_ratio,Оба пола,65.4
-1971,%,BiH,total_support_ratio,Мушкарци,67.9
-1971,%,BiH,total_support_ratio,Жене,63.0
-1981,%,BiH,total_support_ratio,Оба пола,52.3
-1981,%,BiH,total_support_ratio,Мушкарци,53.0
-1981,%,BiH,total_support_ratio,Жене,51.6
-1991,%,BiH,total_support_ratio,Оба пола,48.3
-1991,%,BiH,total_support_ratio,Мушкарци,46.8
-1991,%,BiH,total_support_ratio,Жене,49.7
-2013,%,BiH,total_support_ratio,Оба пола,42.1
-2013,%,BiH,total_support_ratio,Мушкарци,39.2
-2013,%,BiH,total_support_ratio,Жене,44.9
-1971,%,BiH,young_age_support_ratio,Оба пола,57.0
-1971,%,BiH,young_age_support_ratio,Мушкарци,60.2
-1971,%,BiH,young_age_support_ratio,Жене,53.9
-1981,%,BiH,young_age_support_ratio,Оба пола,42.5
-1981,%,BiH,young_age_support_ratio,Мушкарци,44.5
-1981,%,BiH,young_age_support_ratio,Жене,40.6
-1991,%,BiH,young_age_support_ratio,Оба пола,35.6
-1991,%,BiH,young_age_support_ratio,Мушкарци,36.6
-1991,%,BiH,young_age_support_ratio,Жене,34.6
-2013,%,BiH,young_age_support_ratio,Оба пола,21.9
-2013,%,BiH,young_age_support_ratio,Мушкарци,22.4
-2013,%,BiH,young_age_support_ratio,Жене,21.3
-1971,%,BiH,old_age_support_ratio,Оба пола,8.4
-1971,%,BiH,old_age_support_ratio,Мушкарци,7.7
-1971,%,BiH,old_age_support_ratio,Жене,9.1
-1981,%,BiH,old_age_support_ratio,Оба пола,9.8
-1981,%,BiH,old_age_support_ratio,Мушкарци,8.5
-1981,%,BiH,old_age_support_ratio,Жене,11.0
-1991,%,BiH,old_age_support_ratio,Оба пола,12.7
-1991,%,BiH,old_age_support_ratio,Мушкарци,10.1
-1991,%,BiH,old_age_support_ratio,Жене,15.2
-2013,%,BiH,old_age_support_ratio,Оба пола,20.2
-2013,%,BiH,old_age_support_ratio,Мушкарци,16.8
-2013,%,BiH,old_age_support_ratio,Жене,23.6
-1971,%,BiH,older_persons_to_youth_ratio,Оба пола,14.8
-1971,%,BiH,older_persons_to_youth_ratio,Мушкарци,12.8
-1971,%,BiH,older_persons_to_youth_ratio,Жене,16.9
-1981,%,BiH,older_persons_to_youth_ratio,Оба пола,23.1
-1981,%,BiH,older_persons_to_youth_ratio,Мушкарци,19.2
-1981,%,BiH,older_persons_to_youth_ratio,Жене,27.2
-1991,%,BiH,older_persons_to_youth_ratio,Оба пола,35.6
-1991,%,BiH,older_persons_to_youth_ratio,Мушкарци,27.7
-1991,%,BiH,older_persons_to_youth_ratio,Жене,43.8
-2013,%,BiH,older_persons_to_youth_ratio,Оба пола,92.3
-2013,%,BiH,older_persons_to_youth_ratio,Мушкарци,75.0
-2013,%,BiH,older_persons_to_youth_ratio,Жене,110.6
-2013,%,Федерација БиХ,total_support_ratio,Оба пола,40.8
-2013,%,Федерација БиХ,total_support_ratio,Мушкарци,38.4
-2013,%,Федерација БиХ,total_support_ratio,Жене,43.1
-2013,%,Федерација БиХ,young_age_support_ratio,Оба пола,22.6
-2013,%,Федерација БиХ,young_age_support_ratio,Мушкарци,23.3
-2013,%,Федерација БиХ,young_age_support_ratio,Жене,22.0
-2013,%,Федерација БиХ,old_age_support_ratio,Оба пола,18.1
-2013,%,Федерација БиХ,old_age_support_ratio,Мушкарци,15.1
-2013,%,Федерација БиХ,old_age_support_ratio,Жене,21.1
-2013,%,Федерација БиХ,older_persons_to_youth_ratio,Оба пола,80.1
-2013,%,Федерација БиХ,older_persons_to_youth_ratio,Мушкарци,65.0
-2013,%,Федерација БиХ,older_persons_to_youth_ratio,Жене,96.1
-2013,%,Република Српска,total_support_ratio,Оба пола,44.4
-2013,%,Република Српска,total_support_ratio,Мушкарци,40.6
-2013,%,Република Српска,total_support_ratio,Жене,48.2
-2013,%,Република Српска,young_age_support_ratio,Оба пола,20.4
-2013,%,Република Српска,young_age_support_ratio,Мушкарци,20.8
-2013,%,Република Српска,young_age_support_ratio,Жене,20.1
-2013,%,Република Српска,old_age_support_ratio,Оба пола,24.0
-2013,%,Република Српска,old_age_support_ratio,Мушкарци,19.8
-2013,%,Република Српска,old_age_support_ratio,Жене,28.2
-2013,%,Република Српска,older_persons_to_youth_ratio,Оба пола,117.4
-2013,%,Република Српска,older_persons_to_youth_ratio,Мушкарци,95.6
-2013,%,Република Српска,older_persons_to_youth_ratio,Жене,140.3
-2013,%,Брчко Дистрикт БиХ,total_support_ratio,Оба пола,43.3
-2013,%,Брчко Дистрикт БиХ,total_support_ratio,Мушкарци,40.6
-2013,%,Брчко Дистрикт БиХ,total_support_ratio,Жене,46.0
-2013,%,Брчко Дистрикт БиХ,young_age_support_ratio,Оба пола,22.4
-2013,%,Брчко Дистрикт БиХ,young_age_support_ratio,Мушкарци,23.3
-2013,%,Брчко Дистрикт БиХ,young_age_support_ratio,Жене,21.6
-2013,%,Брчко Дистрикт БиХ,old_age_support_ratio,Оба пола,20.8
-2013,%,Брчко Дистрикт БиХ,old_age_support_ratio,Мушкарци,17.3
-2013,%,Брчко Дистрикт БиХ,old_age_support_ratio,Жене,24.4
-2013,%,Брчко Дистрикт БиХ,older_persons_to_youth_ratio,Оба пола,92.8
-2013,%,Брчко Дистрикт БиХ,older_persons_to_youth_ratio,Мушкарци,74.5
-2013,%,Брчко Дистрикт БиХ,older_persons_to_youth_ratio,Жене,112.7
+Year,UNIT_MEASURE,UNIT_MEASUREMENT,Пол,Ентитет,Value
+1971,%,total_support_ratio,Оба пола,BiH,65.4
+1971,%,total_support_ratio,Мушкарци,BiH,67.9
+1971,%,total_support_ratio,Жене,BiH,63.0
+1981,%,total_support_ratio,Оба пола,BiH,52.3
+1981,%,total_support_ratio,Мушкарци,BiH,53.0
+1981,%,total_support_ratio,Жене,BiH,51.6
+1991,%,total_support_ratio,Оба пола,BiH,48.3
+1991,%,total_support_ratio,Мушкарци,BiH,46.8
+1991,%,total_support_ratio,Жене,BiH,49.7
+2013,%,total_support_ratio,Оба пола,BiH,42.1
+2013,%,total_support_ratio,Мушкарци,BiH,39.2
+2013,%,total_support_ratio,Жене,BiH,44.9
+1971,%,young_age_support_ratio,Оба пола,BiH,57.0
+1971,%,young_age_support_ratio,Мушкарци,BiH,60.2
+1971,%,young_age_support_ratio,Жене,BiH,53.9
+1981,%,young_age_support_ratio,Оба пола,BiH,42.5
+1981,%,young_age_support_ratio,Мушкарци,BiH,44.5
+1981,%,young_age_support_ratio,Жене,BiH,40.6
+1991,%,young_age_support_ratio,Оба пола,BiH,35.6
+1991,%,young_age_support_ratio,Мушкарци,BiH,36.6
+1991,%,young_age_support_ratio,Жене,BiH,34.6
+2013,%,young_age_support_ratio,Оба пола,BiH,21.9
+2013,%,young_age_support_ratio,Мушкарци,BiH,22.4
+2013,%,young_age_support_ratio,Жене,BiH,21.3
+1971,%,old_age_support_ratio,Оба пола,BiH,8.4
+1971,%,old_age_support_ratio,Мушкарци,BiH,7.7
+1971,%,old_age_support_ratio,Жене,BiH,9.1
+1981,%,old_age_support_ratio,Оба пола,BiH,9.8
+1981,%,old_age_support_ratio,Мушкарци,BiH,8.5
+1981,%,old_age_support_ratio,Жене,BiH,11.0
+1991,%,old_age_support_ratio,Оба пола,BiH,12.7
+1991,%,old_age_support_ratio,Мушкарци,BiH,10.1
+1991,%,old_age_support_ratio,Жене,BiH,15.2
+2013,%,old_age_support_ratio,Оба пола,BiH,20.2
+2013,%,old_age_support_ratio,Мушкарци,BiH,16.8
+2013,%,old_age_support_ratio,Жене,BiH,23.6
+1971,%,older_persons_to_youth_ratio,Оба пола,BiH,14.8
+1971,%,older_persons_to_youth_ratio,Мушкарци,BiH,12.8
+1971,%,older_persons_to_youth_ratio,Жене,BiH,16.9
+1981,%,older_persons_to_youth_ratio,Оба пола,BiH,23.1
+1981,%,older_persons_to_youth_ratio,Мушкарци,BiH,19.2
+1981,%,older_persons_to_youth_ratio,Жене,BiH,27.2
+1991,%,older_persons_to_youth_ratio,Оба пола,BiH,35.6
+1991,%,older_persons_to_youth_ratio,Мушкарци,BiH,27.7
+1991,%,older_persons_to_youth_ratio,Жене,BiH,43.8
+2013,%,older_persons_to_youth_ratio,Оба пола,BiH,92.3
+2013,%,older_persons_to_youth_ratio,Мушкарци,BiH,75.0
+2013,%,older_persons_to_youth_ratio,Жене,BiH,110.6
+2013,%,total_support_ratio,Оба пола,Федерација БиХ,40.8
+2013,%,total_support_ratio,Мушкарци,Федерација БиХ,38.4
+2013,%,total_support_ratio,Жене,Федерација БиХ,43.1
+2013,%,young_age_support_ratio,Оба пола,Федерација БиХ,22.6
+2013,%,young_age_support_ratio,Мушкарци,Федерација БиХ,23.3
+2013,%,young_age_support_ratio,Жене,Федерација БиХ,22.0
+2013,%,old_age_support_ratio,Оба пола,Федерација БиХ,18.1
+2013,%,old_age_support_ratio,Мушкарци,Федерација БиХ,15.1
+2013,%,old_age_support_ratio,Жене,Федерација БиХ,21.1
+2013,%,older_persons_to_youth_ratio,Оба пола,Федерација БиХ,80.1
+2013,%,older_persons_to_youth_ratio,Мушкарци,Федерација БиХ,65.0
+2013,%,older_persons_to_youth_ratio,Жене,Федерација БиХ,96.1
+2013,%,total_support_ratio,Оба пола,Република Српска,44.4
+2013,%,total_support_ratio,Мушкарци,Република Српска,40.6
+2013,%,total_support_ratio,Жене,Република Српска,48.2
+2013,%,young_age_support_ratio,Оба пола,Република Српска,20.4
+2013,%,young_age_support_ratio,Мушкарци,Република Српска,20.8
+2013,%,young_age_support_ratio,Жене,Република Српска,20.1
+2013,%,old_age_support_ratio,Оба пола,Република Српска,24.0
+2013,%,old_age_support_ratio,Мушкарци,Република Српска,19.8
+2013,%,old_age_support_ratio,Жене,Република Српска,28.2
+2013,%,older_persons_to_youth_ratio,Оба пола,Република Српска,117.4
+2013,%,older_persons_to_youth_ratio,Мушкарци,Република Српска,95.6
+2013,%,older_persons_to_youth_ratio,Жене,Република Српска,140.3
+2013,%,total_support_ratio,Оба пола,Брчко Дистрикт БиХ,43.3
+2013,%,total_support_ratio,Мушкарци,Брчко Дистрикт БиХ,40.6
+2013,%,total_support_ratio,Жене,Брчко Дистрикт БиХ,46.0
+2013,%,young_age_support_ratio,Оба пола,Брчко Дистрикт БиХ,22.4
+2013,%,young_age_support_ratio,Мушкарци,Брчко Дистрикт БиХ,23.3
+2013,%,young_age_support_ratio,Жене,Брчко Дистрикт БиХ,21.6
+2013,%,old_age_support_ratio,Оба пола,Брчко Дистрикт БиХ,20.8
+2013,%,old_age_support_ratio,Мушкарци,Брчко Дистрикт БиХ,17.3
+2013,%,old_age_support_ratio,Жене,Брчко Дистрикт БиХ,24.4
+2013,%,older_persons_to_youth_ratio,Оба пола,Брчко Дистрикт БиХ,92.8
+2013,%,older_persons_to_youth_ratio,Мушкарци,Брчко Дистрикт БиХ,74.5
+2013,%,older_persons_to_youth_ratio,Жене,Брчко Дистрикт БиХ,112.7

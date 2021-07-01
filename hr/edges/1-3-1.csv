@@ -1,3 +1,3 @@
 From,To
-Entitet,UNIT_MEASUREMENT
 UNIT_MEASUREMENT,Spol
+Spol,Entitet

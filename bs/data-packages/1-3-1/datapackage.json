@@ -21,20 +21,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Entitet"
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -60,6 +46,20 @@
               ]
             },
             "title": "Spol"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko Distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
           },
           {
             "name": "Value",

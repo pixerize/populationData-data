@@ -3053,19 +3053,6 @@
             "type": "string"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -3086,6 +3073,19 @@
                 "_T",
                 "M",
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             }

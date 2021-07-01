@@ -3295,20 +3295,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "Entity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко Дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Ентитет"
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -3334,6 +3320,20 @@
               ]
             },
             "title": "Пол"
+          },
+          {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Федерација БиХ",
+                "Република Српска",
+                "Брчко Дистрикт БиХ",
+                ""
+              ]
+            },
+            "title": "Ентитет"
           },
           {
             "name": "Value",
