@@ -1,58 +1,42 @@
 Year,AGE,Administrative area,UNIT_MEASURE,Value
 1997,13 - 14,Federation of BiH,Number,11
 1997,15 - 19,Federation of BiH,Number,3128
-1997,13 - 14,Republika Srpska,Number,0
-1997,15 - 19,Republika Srpska,Number,0
-1997,13 - 14,Brčko District of BiH,Number,0
-1997,15 - 19,Brčko District of BiH,Number,0
 1997,13 - 14,BiH,Number,11
 1997,15 - 19,BiH,Number,3128
 1998,13 - 14,Federation of BiH,Number,2
 1998,15 - 19,Federation of BiH,Number,2395
 1998,13 - 14,Republika Srpska,Number,0
 1998,15 - 19,Republika Srpska,Number,796
-1998,13 - 14,Brčko District of BiH,Number,0
-1998,15 - 19,Brčko District of BiH,Number,0
 1998,13 - 14,BiH,Number,2
 1998,15 - 19,BiH,Number,3191
 1999,13 - 14,Federation of BiH,Number,0
 1999,15 - 19,Federation of BiH,Number,2073
 1999,13 - 14,Republika Srpska,Number,1
 1999,15 - 19,Republika Srpska,Number,907
-1999,13 - 14,Brčko District of BiH,Number,0
-1999,15 - 19,Brčko District of BiH,Number,0
 1999,13 - 14,BiH,Number,1
 1999,15 - 19,BiH,Number,2980
 2000,13 - 14,Federation of BiH,Number,3
 2000,15 - 19,Federation of BiH,Number,1806
 2000,13 - 14,Republika Srpska,Number,1
 2000,15 - 19,Republika Srpska,Number,722
-2000,13 - 14,Brčko District of BiH,Number,0
-2000,15 - 19,Brčko District of BiH,Number,0
 2000,13 - 14,BiH,Number,4
 2000,15 - 19,BiH,Number,2528
 2001,13 - 14,Federation of BiH,Number,13
 2001,15 - 19,Federation of BiH,Number,1679
 2001,13 - 14,Republika Srpska,Number,2
 2001,15 - 19,Republika Srpska,Number,938
-2001,13 - 14,Brčko District of BiH,Number,0
-2001,15 - 19,Brčko District of BiH,Number,0
 2001,13 - 14,BiH,Number,15
 2001,15 - 19,BiH,Number,2617
 2002,13 - 14,Federation of BiH,Number,10
 2002,15 - 19,Federation of BiH,Number,1561
 2002,13 - 14,Republika Srpska,Number,4
 2002,15 - 19,Republika Srpska,Number,787
-2002,13 - 14,Brčko District of BiH,Number,0
-2002,15 - 19,Brčko District of BiH,Number,0
 2002,13 - 14,BiH,Number,14
 2002,15 - 19,BiH,Number,2348
 2003,13 - 14,Federation of BiH,Number,9
 2003,15 - 19,Federation of BiH,Number,1457
 2003,13 - 14,Republika Srpska,Number,0
 2003,15 - 19,Republika Srpska,Number,688
-2003,13 - 14,Brčko District of BiH,Number,0
-2003,15 - 19,Brčko District of BiH,Number,0
 2003,13 - 14,BiH,Number,9
 2003,15 - 19,BiH,Number,2145
 2004,13 - 14,Federation of BiH,Number,7
@@ -183,232 +167,3 @@ Year,AGE,Administrative area,UNIT_MEASURE,Value
 2019,15 - 19,Brčko District of BiH,Number,42
 2019,13 - 14,BiH,Number,4
 2019,15 - 19,BiH,Number,845
-1997,13 - 14,Federation of BiH,Number,11
-1997,15 - 19,Federation of BiH,Number,3128
-1997,13 - 14,Republika Srpska,Number,0
-1997,15 - 19,Republika Srpska,Number,0
-1997,13 - 14,Brčko District of BiH,Number,0
-1997,15 - 19,Brčko District of BiH,Number,0
-1997,13 - 14,BiH,Number,11
-1997,15 - 19,BiH,Number,3128
-1998,13 - 14,Federation of BiH,Number,2
-1998,15 - 19,Federation of BiH,Number,2395
-1998,13 - 14,Republika Srpska,Number,0
-1998,15 - 19,Republika Srpska,Number,796
-1998,13 - 14,Brčko District of BiH,Number,0
-1998,15 - 19,Brčko District of BiH,Number,0
-1998,13 - 14,BiH,Number,2
-1998,15 - 19,BiH,Number,3191
-1999,13 - 14,Federation of BiH,Number,0
-1999,15 - 19,Federation of BiH,Number,2073
-1999,13 - 14,Republika Srpska,Number,1
-1999,15 - 19,Republika Srpska,Number,907
-1999,13 - 14,Brčko District of BiH,Number,0
-1999,15 - 19,Brčko District of BiH,Number,0
-1999,13 - 14,BiH,Number,1
-1999,15 - 19,BiH,Number,2980
-2000,13 - 14,Federation of BiH,Number,3
-2000,15 - 19,Federation of BiH,Number,1806
-2000,13 - 14,Republika Srpska,Number,1
-2000,15 - 19,Republika Srpska,Number,722
-2000,13 - 14,Brčko District of BiH,Number,0
-2000,15 - 19,Brčko District of BiH,Number,0
-2000,13 - 14,BiH,Number,4
-2000,15 - 19,BiH,Number,2528
-2001,13 - 14,Federation of BiH,Number,13
-2001,15 - 19,Federation of BiH,Number,1679
-2001,13 - 14,Republika Srpska,Number,2
-2001,15 - 19,Republika Srpska,Number,938
-2001,13 - 14,Brčko District of BiH,Number,0
-2001,15 - 19,Brčko District of BiH,Number,0
-2001,13 - 14,BiH,Number,15
-2001,15 - 19,BiH,Number,2617
-2002,13 - 14,Federation of BiH,Number,10
-2002,15 - 19,Federation of BiH,Number,1561
-2002,13 - 14,Republika Srpska,Number,4
-2002,15 - 19,Republika Srpska,Number,787
-2002,13 - 14,Brčko District of BiH,Number,0
-2002,15 - 19,Brčko District of BiH,Number,0
-2002,13 - 14,BiH,Number,14
-2002,15 - 19,BiH,Number,2348
-2003,13 - 14,Federation of BiH,Number,9
-2003,15 - 19,Federation of BiH,Number,1457
-2003,13 - 14,Republika Srpska,Number,0
-2003,15 - 19,Republika Srpska,Number,688
-2003,13 - 14,Brčko District of BiH,Number,0
-2003,15 - 19,Brčko District of BiH,Number,0
-2003,13 - 14,BiH,Number,9
-2003,15 - 19,BiH,Number,2145
-2004,13 - 14,Federation of BiH,Number,7
-2004,15 - 19,Federation of BiH,Number,1396
-2004,13 - 14,Republika Srpska,Number,4
-2004,15 - 19,Republika Srpska,Number,697
-2004,13 - 14,Brčko District of BiH,Number,1
-2004,15 - 19,Brčko District of BiH,Number,43
-2004,13 - 14,BiH,Number,12
-2004,15 - 19,BiH,Number,2136
-2005,13 - 14,Federation of BiH,Number,2
-2005,15 - 19,Federation of BiH,Number,1296
-2005,13 - 14,Republika Srpska,Number,3
-2005,15 - 19,Republika Srpska,Number,659
-2005,13 - 14,Brčko District of BiH,Number,1
-2005,15 - 19,Brčko District of BiH,Number,52
-2005,13 - 14,BiH,Number,6
-2005,15 - 19,BiH,Number,2007
-2006,13 - 14,Federation of BiH,Number,4
-2006,15 - 19,Federation of BiH,Number,1399
-2006,13 - 14,Republika Srpska,Number,3
-2006,15 - 19,Republika Srpska,Number,586
-2006,13 - 14,Brčko District of BiH,Number,1
-2006,15 - 19,Brčko District of BiH,Number,57
-2006,13 - 14,BiH,Number,8
-2006,15 - 19,BiH,Number,2042
-2007,13 - 14,Federation of BiH,Number,2
-2007,15 - 19,Federation of BiH,Number,1357
-2007,13 - 14,Republika Srpska,Number,3
-2007,15 - 19,Republika Srpska,Number,557
-2007,13 - 14,Brčko District of BiH,Number,2
-2007,15 - 19,Brčko District of BiH,Number,57
-2007,13 - 14,BiH,Number,7
-2007,15 - 19,BiH,Number,1971
-2008,13 - 14,Federation of BiH,Number,2
-2008,15 - 19,Federation of BiH,Number,1507
-2008,13 - 14,Republika Srpska,Number,4
-2008,15 - 19,Republika Srpska,Number,536
-2008,13 - 14,Brčko District of BiH,Number,7
-2008,15 - 19,Brčko District of BiH,Number,53
-2008,13 - 14,BiH,Number,13
-2008,15 - 19,BiH,Number,2096
-2009,13 - 14,Federation of BiH,Number,4
-2009,15 - 19,Federation of BiH,Number,1411
-2009,13 - 14,Republika Srpska,Number,3
-2009,15 - 19,Republika Srpska,Number,499
-2009,13 - 14,Brčko District of BiH,Number,5
-2009,15 - 19,Brčko District of BiH,Number,58
-2009,13 - 14,BiH,Number,12
-2009,15 - 19,BiH,Number,1968
-2010,13 - 14,Federation of BiH,Number,5
-2010,15 - 19,Federation of BiH,Number,1285
-2010,13 - 14,Republika Srpska,Number,0
-2010,15 - 19,Republika Srpska,Number,436
-2010,13 - 14,Brčko District of BiH,Number,3
-2010,15 - 19,Brčko District of BiH,Number,64
-2010,13 - 14,BiH,Number,8
-2010,15 - 19,BiH,Number,1785
-2011,13 - 14,Federation of BiH,Number,5
-2011,15 - 19,Federation of BiH,Number,1136
-2011,13 - 14,Republika Srpska,Number,0
-2011,15 - 19,Republika Srpska,Number,407
-2011,13 - 14,Brčko District of BiH,Number,4
-2011,15 - 19,Brčko District of BiH,Number,71
-2011,13 - 14,BiH,Number,9
-2011,15 - 19,BiH,Number,1614
-2012,13 - 14,Federation of BiH,Number,2
-2012,15 - 19,Federation of BiH,Number,1040
-2012,13 - 14,Republika Srpska,Number,1
-2012,15 - 19,Republika Srpska,Number,452
-2012,13 - 14,Brčko District of BiH,Number,2
-2012,15 - 19,Brčko District of BiH,Number,54
-2012,13 - 14,BiH,Number,5
-2012,15 - 19,BiH,Number,1546
-2013,13 - 14,Federation of BiH,Number,4
-2013,15 - 19,Federation of BiH,Number,950
-2013,13 - 14,Republika Srpska,Number,0
-2013,15 - 19,Republika Srpska,Number,376
-2013,13 - 14,Brčko District of BiH,Number,1
-2013,15 - 19,Brčko District of BiH,Number,56
-2013,13 - 14,BiH,Number,5
-2013,15 - 19,BiH,Number,1382
-2014,13 - 14,Federation of BiH,Number,3
-2014,15 - 19,Federation of BiH,Number,932
-2014,13 - 14,Republika Srpska,Number,0
-2014,15 - 19,Republika Srpska,Number,362
-2014,13 - 14,Brčko District of BiH,Number,1
-2014,15 - 19,Brčko District of BiH,Number,48
-2014,13 - 14,BiH,Number,4
-2014,15 - 19,BiH,Number,1342
-2015,13 - 14,Federation of BiH,Number,3
-2015,15 - 19,Federation of BiH,Number,948
-2015,13 - 14,Republika Srpska,Number,1
-2015,15 - 19,Republika Srpska,Number,311
-2015,13 - 14,Brčko District of BiH,Number,1
-2015,15 - 19,Brčko District of BiH,Number,55
-2015,13 - 14,BiH,Number,5
-2015,15 - 19,BiH,Number,1314
-2016,13 - 14,Federation of BiH,Number,3
-2016,15 - 19,Federation of BiH,Number,906
-2016,13 - 14,Republika Srpska,Number,1
-2016,15 - 19,Republika Srpska,Number,337
-2016,13 - 14,Brčko District of BiH,Number,0
-2016,15 - 19,Brčko District of BiH,Number,45
-2016,13 - 14,BiH,Number,4
-2016,15 - 19,BiH,Number,1288
-2017,13 - 14,Federation of BiH,Number,6
-2017,15 - 19,Federation of BiH,Number,734
-2017,13 - 14,Republika Srpska,Number,0
-2017,15 - 19,Republika Srpska,Number,280
-2017,13 - 14,Brčko District of BiH,Number,4
-2017,15 - 19,Brčko District of BiH,Number,50
-2017,13 - 14,BiH,Number,10
-2017,15 - 19,BiH,Number,1064
-2018,13 - 14,Federation of BiH,Number,4
-2018,15 - 19,Federation of BiH,Number,643
-2018,13 - 14,Republika Srpska,Number,1
-2018,15 - 19,Republika Srpska,Number,219
-2018,13 - 14,Brčko District of BiH,Number,0
-2018,15 - 19,Brčko District of BiH,Number,35
-2018,13 - 14,BiH,Number,5
-2018,15 - 19,BiH,Number,897
-2019,13 - 14,Federation of BiH,Number,1
-2019,15 - 19,Federation of BiH,Number,580
-2019,13 - 14,Republika Srpska,Number,1
-2019,15 - 19,Republika Srpska,Number,223
-2019,13 - 14,Brčko District of BiH,Number,2
-2019,15 - 19,Brčko District of BiH,Number,42
-2019,13 - 14,BiH,Number,4
-2019,15 - 19,BiH,Number,845
-1997,13 - 14,Federation of BiH,Number,11
-1997,15 - 19,Federation of BiH,Number,3128
-1997,13 - 14,Republika Srpska,Number,0
-1997,15 - 19,Republika Srpska,Number,0
-1997,13 - 14,Brčko District of BiH,Number,0
-1997,15 - 19,Brčko District of BiH,Number,0
-1997,13 - 14,BiH,Number,11
-1997,15 - 19,BiH,Number,3128
-1998,13 - 14,Federation of BiH,Number,2
-1998,15 - 19,Federation of BiH,Number,2395
-1998,13 - 14,Republika Srpska,Number,0
-1998,15 - 19,Republika Srpska,Number,796
-1998,13 - 14,Brčko District of BiH,Number,0
-1998,15 - 19,Brčko District of BiH,Number,0
-1998,13 - 14,BiH,Number,2
-1998,15 - 19,BiH,Number,3191
-1999,13 - 14,Federation of BiH,Number,0
-1999,15 - 19,Federation of BiH,Number,2073
-1999,13 - 14,Republika Srpska,Number,1
-1999,15 - 19,Republika Srpska,Number,907
-1999,13 - 14,Brčko District of BiH,Number,0
-1999,15 - 19,Brčko District of BiH,Number,0
-1999,13 - 14,BiH,Number,1
-1999,15 - 19,BiH,Number,2980
-2000,13 - 14,Federation of BiH,Number,3
-2000,15 - 19,Federation of BiH,Number,1806
-2000,13 - 14,Republika Srpska,Number,1
-2000,15 - 19,Republika Srpska,Number,722
-2000,13 - 14,Brčko District of BiH,Number,0
-2000,15 - 19,Brčko District of BiH,Number,0
-2000,13 - 14,BiH,Number,4
-2000,15 - 19,BiH,Number,2528
-2001,13 - 14,Federation of BiH,Number,13
-2001,15 - 19,Federation of BiH,Number,1679
-2001,13 - 14,Republika Srpska,Number,2
-2001,15 - 19,Republika Srpska,Number,938
-2001,13 - 14,Brčko District of BiH,Number,0
-2001,15 - 19,Brčko District of BiH,Number,0
-2001,13 - 14,BiH,Number,15
-2001,15 - 19,BiH,Number,2617
-2002,13 - 14,Federation of BiH,Number,10
-2002,15 - 19,Federation of BiH,Number,1561
-2002,13 - 14,Republika Srpska,Number,4
-2002,15 - 19,Republika Srpska,Number,787
-2002,13 - 14,Brčko District of BiH,Number,0
