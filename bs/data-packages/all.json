@@ -1373,19 +1373,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -1398,6 +1385,19 @@
               ]
             },
             "title": "UNIT_MEASUREMENT"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "Value",

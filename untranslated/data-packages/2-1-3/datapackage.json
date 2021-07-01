@@ -19,18 +19,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -39,6 +27,18 @@
                 "young_age_support_ratio",
                 "old_age_support_ratio",
                 "older_persons_to_youth_ratio",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }

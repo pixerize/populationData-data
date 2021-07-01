@@ -21,19 +21,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "UNIT_MEASUREMENT",
             "type": "string",
             "constraints": {
@@ -46,6 +33,19 @@
               ]
             },
             "title": "UNIT_MEASUREMENT"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "Value",
