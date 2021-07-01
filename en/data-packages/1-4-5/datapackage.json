@@ -17,8 +17,7 @@
               "enum": [
                 "",
                 "13 - 14",
-                "15 - 19",
-                "Age"
+                "15 - 19"
               ]
             },
             "title": "Age"
@@ -31,7 +30,6 @@
                 "",
                 "Brčko District of BiH",
                 "BiH",
-                "Administrative area",
                 "Federation of BiH",
                 "Republika Srpska"
               ]
@@ -45,12 +43,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

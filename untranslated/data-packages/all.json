@@ -596,7 +596,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "AGE",
@@ -605,7 +605,6 @@
               "enum": [
                 "13 - 14",
                 "15 - 19",
-                "AGE",
                 ""
               ]
             }
@@ -619,7 +618,6 @@
                 "RS",
                 "BD",
                 "BiH",
-                "Entity",
                 ""
               ]
             }
@@ -630,7 +628,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
