@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "estimated_number_of_population",
                 "neoplasms",
                 "diseases_of_the_circulatory",
                 "diseases_of_the_respiratory",

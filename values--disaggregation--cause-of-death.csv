@@ -11,7 +11,6 @@ diseases_of_the_nervous,(G00-G99) Diseases of the nervous system,diseases_of_the
 diseases_of_the_respiratory,(J00-J99) Diseases of the respiratory system,diseases_of_the_respiratory,diseases_of_the_respiratory,diseases_of_the_respiratory,4,2
 diseases_of_the_skin,(L00-L99) Diseases of the skin and subcutaneous tissue,diseases_of_the_skin,diseases_of_the_skin,diseases_of_the_skin,4,2
 endocrine_metabolic_and_nutritional,(E00-E90) Endocrine metabolic and nutritional diseases,endocrine_metabolic_and_nutritional,endocrine_metabolic_and_nutritional,endocrine_metabolic_and_nutritional,4,2
-estimated_number_of_population,Estimated number of population,estimated_number_of_population,estimated_number_of_population,estimated_number_of_population,1,1
 external_causes_of_mortality,(V01-Y98) External causes of mortality,external_causes_of_mortality,external_causes_of_mortality,external_causes_of_mortality,4,2
 factors_influencing_health_status,(Z00-Z99) Factors influencing health status and contract with health services,factors_influencing_health_status,factors_influencing_health_status,factors_influencing_health_status,4,2
 infectious_and_parasitic,(A00-B99) Infectious and parasitic diseases,infectious_and_parasitic,infectious_and_parasitic,infectious_and_parasitic,4,2

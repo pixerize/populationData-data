@@ -1,22 +1,16 @@
 Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
-1996,estimated_number_of_population,Број,3645000.0
-1997,estimated_number_of_population,Број,3738000.0
-1998,estimated_number_of_population,Број,3653000.0
-1999,estimated_number_of_population,Број,3725000.0
 1999,neoplasms,Број,123.0
 1999,diseases_of_the_circulatory,Број,427.0
 1999,diseases_of_the_respiratory,Број,23.25
 1999,diseases_of_the_digestive,Број,19.0
 1999,symptoms_signs_and_abnormal,Број,68.51
 1999,injuries_poisoning_and_consequences,Број,27.44
-2000,estimated_number_of_population,Број,3781000.0
 2000,neoplasms,Број,135.0
 2000,diseases_of_the_circulatory,Број,431.0
 2000,diseases_of_the_respiratory,Број,21.29
 2000,diseases_of_the_digestive,Број,22.0
 2000,symptoms_signs_and_abnormal,Број,75.64
 2000,injuries_poisoning_and_consequences,Број,28.85
-2001,estimated_number_of_population,Број,3798000.0
 2000,infectious_and_parasitic,Број,6.77
 2000,neoplasms,Број,141.0
 2000,diseases_of_the_blood,Број,0.53
@@ -36,7 +30,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2000,external_causes_of_mortality,Број,6.87
 2000,factors_influencing_health_status,Број,0.03
 2000,unknown,Број,25.12
-2002,estimated_number_of_population,Број,3828000.0
 2002,infectious_and_parasitic,Број,6.87
 2002,neoplasms,Број,138.0
 2002,diseases_of_the_blood,Број,0.5
@@ -56,7 +49,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,external_causes_of_mortality,Број,6.32
 2002,factors_influencing_health_status,Број,0.03
 2002,unknown,Број,46.76
-2003,estimated_number_of_population,Број,3832000.0
 2003,neoplasms,Број,151.0
 2003,diseases_of_the_circulatory,Број,443.0
 2003,diseases_of_the_respiratory,Број,22.86
@@ -64,7 +56,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,symptoms_signs_and_abnormal,Број,82.62
 2003,injuries_poisoning_and_consequences,Број,24.79
 2003,unknown,Број,20.09
-2004,estimated_number_of_population,Број,3842000.0
 2004,infectious_and_parasitic,Број,6.64
 2004,neoplasms,Број,149.0
 2004,diseases_of_the_blood,Број,0.81
@@ -83,21 +74,18 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,external_causes_of_mortality,Број,7.11
 2004,factors_influencing_health_status,Број,0.03
 2004,unknown,Број,31.49
-2005,estimated_number_of_population,Број,3843000.0
 2005,neoplasms,Број,163.0
 2005,diseases_of_the_circulatory,Број,466.0
 2005,diseases_of_the_respiratory,Број,32.32
 2005,diseases_of_the_digestive,Број,21.0
 2005,symptoms_signs_and_abnormal,Број,62.3
 2005,injuries_poisoning_and_consequences,Број,24.77
-2005,estimated_number_of_population,Број,159.0
 2005,neoplasms,Број,3.14
 2005,diseases_of_the_circulatory,Број,10.19
 2005,diseases_of_the_respiratory,Број,512.0
 2005,diseases_of_the_digestive,Број,390.0
 2005,symptoms_signs_and_abnormal,Број,62.3
 2005,injuries_poisoning_and_consequences,Број,24.77
-2006,estimated_number_of_population,Број,3843000.0
 2006,infectious_and_parasitic,Број,6.17
 2006,neoplasms,Број,163.0
 2006,diseases_of_the_blood,Број,0.52
@@ -117,7 +105,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,external_causes_of_mortality,Број,5.52
 2006,factors_influencing_health_status,Број,0.03
 2006,unknown,Број,27.09
-2007,estimated_number_of_population,Број,3842000.0
 2007,infectious_and_parasitic,Број,6.51
 2007,neoplasms,Број,175.0
 2007,diseases_of_the_blood,Број,1.41
@@ -137,7 +124,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,injuries_poisoning_and_consequences,Број,26.81
 2007,external_causes_of_mortality,Број,6.95
 2007,unknown,Број,28.01
-2008,estimated_number_of_population,Број,3842000.0
 2008,infectious_and_parasitic,Број,7.16
 2008,neoplasms,Број,175.0
 2008,diseases_of_the_blood,Број,0.96
@@ -157,7 +143,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,injuries_poisoning_and_consequences,Број,31.23
 2008,external_causes_of_mortality,Број,0.05
 2008,unknown,Број,27.04
-2009,estimated_number_of_population,Број,3843000.0
 2009,infectious_and_parasitic,Број,7.47
 2009,neoplasms,Број,181.0
 2009,diseases_of_the_blood,Број,1.07
@@ -177,7 +162,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,external_causes_of_mortality,Број,0.05
 2009,factors_influencing_health_status,Број,0.05
 2009,unknown,Број,16.91
-2010,estimated_number_of_population,Број,3843000.0
 2010,infectious_and_parasitic,Број,7.42
 2010,neoplasms,Број,181.0
 2010,diseases_of_the_blood,Број,1.17
@@ -197,7 +181,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,injuries_poisoning_and_consequences,Број,29.07
 2010,external_causes_of_mortality,Број,0.39
 2010,unknown,Број,16.6
-2011,estimated_number_of_population,Број,3840000.0
 2011,infectious_and_parasitic,Број,7.76
 2011,neoplasms,Број,188.0
 2011,diseases_of_the_blood,Број,1.54
@@ -217,7 +200,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,external_causes_of_mortality,Број,0.36
 2011,factors_influencing_health_status,Број,0.03
 2011,unknown,Број,18.1
-2012,estimated_number_of_population,Број,3836000.0
 2012,infectious_and_parasitic,Број,8.97
 2012,neoplasms,Број,198.0
 2012,diseases_of_the_blood,Број,1.23
@@ -236,7 +218,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,symptoms_signs_and_abnormal,Број,31.47
 2012,injuries_poisoning_and_consequences,Број,27.82
 2012,unknown,Број,19.29
-2013,estimated_number_of_population,Број,3531000.0
 2013,infectious_and_parasitic,Број,7.59
 2013,neoplasms,Број,213.0
 2013,diseases_of_the_blood,Број,1.42
@@ -255,7 +236,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,injuries_poisoning_and_consequences,Број,29.0
 2013,external_causes_of_mortality,Број,0.11
 2013,unknown,Број,22.15
-2014,estimated_number_of_population,Број,3526000.0
 2014,infectious_and_parasitic,Број,8.25
 2014,neoplasms,Број,222.0
 2014,diseases_of_the_blood,Број,1.19
@@ -276,7 +256,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,external_causes_of_mortality,Број,0.48
 2014,factors_influencing_health_status,Број,0.03
 2014,unknown,Број,16.73
-2015,estimated_number_of_population,Број,3518000.0
 2015,infectious_and_parasitic,Број,10.52
 2015,neoplasms,Број,226.0
 2015,diseases_of_the_blood,Број,1.56
@@ -296,7 +275,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,injuries_poisoning_and_consequences,Број,31.35
 2015,external_causes_of_mortality,Број,0.23
 2015,unknown,Број,15.38
-2016,estimated_number_of_population,Број,3511000.0
 2016,infectious_and_parasitic,Број,11.73
 2016,neoplasms,Број,221.0
 2016,diseases_of_the_blood,Број,1.54
@@ -316,7 +294,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,injuries_poisoning_and_consequences,Број,29.62
 2016,external_causes_of_mortality,Број,0.4
 2016,unknown,Број,15.52
-2017,estimated_number_of_population,Број,3504000.0
 2017,infectious_and_parasitic,Број,11.27
 2017,neoplasms,Број,232.0
 2017,diseases_of_the_blood,Број,1.97
@@ -336,7 +313,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,injuries_poisoning_and_consequences,Број,30.45
 2017,external_causes_of_mortality,Број,0.43
 2017,unknown,Број,15.7
-2018,estimated_number_of_population,Број,3496000.0
 2018,infectious_and_parasitic,Број,12.67
 2018,neoplasms,Број,225.0
 2018,diseases_of_the_blood,Број,2.06

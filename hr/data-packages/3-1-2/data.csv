@@ -1,22 +1,16 @@
 Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
-1996,estimated_number_of_population,Broj,3645000.0
-1997,estimated_number_of_population,Broj,3738000.0
-1998,estimated_number_of_population,Broj,3653000.0
-1999,estimated_number_of_population,Broj,3725000.0
 1999,neoplasms,Broj,123.0
 1999,diseases_of_the_circulatory,Broj,427.0
 1999,diseases_of_the_respiratory,Broj,23.25
 1999,diseases_of_the_digestive,Broj,19.0
 1999,symptoms_signs_and_abnormal,Broj,68.51
 1999,injuries_poisoning_and_consequences,Broj,27.44
-2000,estimated_number_of_population,Broj,3781000.0
 2000,neoplasms,Broj,135.0
 2000,diseases_of_the_circulatory,Broj,431.0
 2000,diseases_of_the_respiratory,Broj,21.29
 2000,diseases_of_the_digestive,Broj,22.0
 2000,symptoms_signs_and_abnormal,Broj,75.64
 2000,injuries_poisoning_and_consequences,Broj,28.85
-2001,estimated_number_of_population,Broj,3798000.0
 2000,infectious_and_parasitic,Broj,6.77
 2000,neoplasms,Broj,141.0
 2000,diseases_of_the_blood,Broj,0.53
@@ -36,7 +30,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2000,external_causes_of_mortality,Broj,6.87
 2000,factors_influencing_health_status,Broj,0.03
 2000,unknown,Broj,25.12
-2002,estimated_number_of_population,Broj,3828000.0
 2002,infectious_and_parasitic,Broj,6.87
 2002,neoplasms,Broj,138.0
 2002,diseases_of_the_blood,Broj,0.5
@@ -56,7 +49,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,external_causes_of_mortality,Broj,6.32
 2002,factors_influencing_health_status,Broj,0.03
 2002,unknown,Broj,46.76
-2003,estimated_number_of_population,Broj,3832000.0
 2003,neoplasms,Broj,151.0
 2003,diseases_of_the_circulatory,Broj,443.0
 2003,diseases_of_the_respiratory,Broj,22.86
@@ -64,7 +56,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,symptoms_signs_and_abnormal,Broj,82.62
 2003,injuries_poisoning_and_consequences,Broj,24.79
 2003,unknown,Broj,20.09
-2004,estimated_number_of_population,Broj,3842000.0
 2004,infectious_and_parasitic,Broj,6.64
 2004,neoplasms,Broj,149.0
 2004,diseases_of_the_blood,Broj,0.81
@@ -83,21 +74,18 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,external_causes_of_mortality,Broj,7.11
 2004,factors_influencing_health_status,Broj,0.03
 2004,unknown,Broj,31.49
-2005,estimated_number_of_population,Broj,3843000.0
 2005,neoplasms,Broj,163.0
 2005,diseases_of_the_circulatory,Broj,466.0
 2005,diseases_of_the_respiratory,Broj,32.32
 2005,diseases_of_the_digestive,Broj,21.0
 2005,symptoms_signs_and_abnormal,Broj,62.3
 2005,injuries_poisoning_and_consequences,Broj,24.77
-2005,estimated_number_of_population,Broj,159.0
 2005,neoplasms,Broj,3.14
 2005,diseases_of_the_circulatory,Broj,10.19
 2005,diseases_of_the_respiratory,Broj,512.0
 2005,diseases_of_the_digestive,Broj,390.0
 2005,symptoms_signs_and_abnormal,Broj,62.3
 2005,injuries_poisoning_and_consequences,Broj,24.77
-2006,estimated_number_of_population,Broj,3843000.0
 2006,infectious_and_parasitic,Broj,6.17
 2006,neoplasms,Broj,163.0
 2006,diseases_of_the_blood,Broj,0.52
@@ -117,7 +105,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,external_causes_of_mortality,Broj,5.52
 2006,factors_influencing_health_status,Broj,0.03
 2006,unknown,Broj,27.09
-2007,estimated_number_of_population,Broj,3842000.0
 2007,infectious_and_parasitic,Broj,6.51
 2007,neoplasms,Broj,175.0
 2007,diseases_of_the_blood,Broj,1.41
@@ -137,7 +124,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,injuries_poisoning_and_consequences,Broj,26.81
 2007,external_causes_of_mortality,Broj,6.95
 2007,unknown,Broj,28.01
-2008,estimated_number_of_population,Broj,3842000.0
 2008,infectious_and_parasitic,Broj,7.16
 2008,neoplasms,Broj,175.0
 2008,diseases_of_the_blood,Broj,0.96
@@ -157,7 +143,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,injuries_poisoning_and_consequences,Broj,31.23
 2008,external_causes_of_mortality,Broj,0.05
 2008,unknown,Broj,27.04
-2009,estimated_number_of_population,Broj,3843000.0
 2009,infectious_and_parasitic,Broj,7.47
 2009,neoplasms,Broj,181.0
 2009,diseases_of_the_blood,Broj,1.07
@@ -177,7 +162,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,external_causes_of_mortality,Broj,0.05
 2009,factors_influencing_health_status,Broj,0.05
 2009,unknown,Broj,16.91
-2010,estimated_number_of_population,Broj,3843000.0
 2010,infectious_and_parasitic,Broj,7.42
 2010,neoplasms,Broj,181.0
 2010,diseases_of_the_blood,Broj,1.17
@@ -197,7 +181,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,injuries_poisoning_and_consequences,Broj,29.07
 2010,external_causes_of_mortality,Broj,0.39
 2010,unknown,Broj,16.6
-2011,estimated_number_of_population,Broj,3840000.0
 2011,infectious_and_parasitic,Broj,7.76
 2011,neoplasms,Broj,188.0
 2011,diseases_of_the_blood,Broj,1.54
@@ -217,7 +200,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,external_causes_of_mortality,Broj,0.36
 2011,factors_influencing_health_status,Broj,0.03
 2011,unknown,Broj,18.1
-2012,estimated_number_of_population,Broj,3836000.0
 2012,infectious_and_parasitic,Broj,8.97
 2012,neoplasms,Broj,198.0
 2012,diseases_of_the_blood,Broj,1.23
@@ -236,7 +218,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,symptoms_signs_and_abnormal,Broj,31.47
 2012,injuries_poisoning_and_consequences,Broj,27.82
 2012,unknown,Broj,19.29
-2013,estimated_number_of_population,Broj,3531000.0
 2013,infectious_and_parasitic,Broj,7.59
 2013,neoplasms,Broj,213.0
 2013,diseases_of_the_blood,Broj,1.42
@@ -255,7 +236,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,injuries_poisoning_and_consequences,Broj,29.0
 2013,external_causes_of_mortality,Broj,0.11
 2013,unknown,Broj,22.15
-2014,estimated_number_of_population,Broj,3526000.0
 2014,infectious_and_parasitic,Broj,8.25
 2014,neoplasms,Broj,222.0
 2014,diseases_of_the_blood,Broj,1.19
@@ -276,7 +256,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,external_causes_of_mortality,Broj,0.48
 2014,factors_influencing_health_status,Broj,0.03
 2014,unknown,Broj,16.73
-2015,estimated_number_of_population,Broj,3518000.0
 2015,infectious_and_parasitic,Broj,10.52
 2015,neoplasms,Broj,226.0
 2015,diseases_of_the_blood,Broj,1.56
@@ -296,7 +275,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,injuries_poisoning_and_consequences,Broj,31.35
 2015,external_causes_of_mortality,Broj,0.23
 2015,unknown,Broj,15.38
-2016,estimated_number_of_population,Broj,3511000.0
 2016,infectious_and_parasitic,Broj,11.73
 2016,neoplasms,Broj,221.0
 2016,diseases_of_the_blood,Broj,1.54
@@ -316,7 +294,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,injuries_poisoning_and_consequences,Broj,29.62
 2016,external_causes_of_mortality,Broj,0.4
 2016,unknown,Broj,15.52
-2017,estimated_number_of_population,Broj,3504000.0
 2017,infectious_and_parasitic,Broj,11.27
 2017,neoplasms,Broj,232.0
 2017,diseases_of_the_blood,Broj,1.97
@@ -336,7 +313,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,injuries_poisoning_and_consequences,Broj,30.45
 2017,external_causes_of_mortality,Broj,0.43
 2017,unknown,Broj,15.7
-2018,estimated_number_of_population,Broj,3496000.0
 2018,infectious_and_parasitic,Broj,12.67
 2018,neoplasms,Broj,225.0
 2018,diseases_of_the_blood,Broj,2.06
