@@ -237,7 +237,7 @@ number_birth_rate: Number per 1,000 population
 infant_(up_to_12_months_of_age)_mortality_rate: Infant (up to 12 months of age) mortality rate
 VITAL_STATISTICS: Vital statistics
 UNIT_MEASUREMENT: Unit of measurement
-children_pre_woman: Number of children per woman
+children_pre_woman: Number of children per woman 15-49
 boys_to_girls: Boys to 100 girls
 no_education: No education
 post_secondary_school_specialisation: Post-secondary school specialisation
