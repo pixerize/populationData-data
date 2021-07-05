@@ -24,12 +24,7 @@
             "title": "Sex"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MEASUREMENT",
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +35,12 @@
                 "Young-age support ratio"
               ]
             },
-            "title": "Unit of measurement"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
