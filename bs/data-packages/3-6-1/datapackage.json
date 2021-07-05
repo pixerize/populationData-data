@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FBiH",
+                "Federacija BiH",
                 "Republika Srpska",
                 "BiH",
                 "Brčko Distrikt BiH",

@@ -839,7 +839,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -1118,7 +1118,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -1201,7 +1201,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BD",
                 ""
@@ -1346,7 +1346,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BD",
                 ""
@@ -1456,7 +1456,7 @@
                 "Donji Vakuf",
                 "Donji Žabar",
                 "Drvar",
-                "Foča - FBiH",
+                "Foča - FBIH",
                 "Foča - RS",
                 "Fojnica",
                 "Gacko",
@@ -1492,7 +1492,7 @@
                 "Kozarska Dubica",
                 "Kreševo",
                 "Krupa Na Uni",
-                "Kupres - FBiH",
+                "Kupres - FBIH",
                 "Kupres - RS",
                 "Laktaši",
                 "Livno",
@@ -1517,7 +1517,7 @@
                 "Orašje",
                 "Osmaci",
                 "Oštra Luka",
-                "Pale - FBiH",
+                "Pale - FBIH",
                 "Pale - RS",
                 "Pelagićevo",
                 "Petrovac",
@@ -1548,7 +1548,7 @@
                 "Tomislavgrad",
                 "Travnik",
                 "Trebinje",
-                "Trnovo - FBiH",
+                "Trnovo - FBIH",
                 "Trnovo - RS",
                 "Tuzla",
                 "Ugljevik",
@@ -1602,7 +1602,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 ""
               ]
@@ -1917,7 +1917,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BD",
                 ""
@@ -2099,7 +2099,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -2214,7 +2214,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBiH",
+                "FBIH",
                 "BD",
                 ""
               ]
@@ -2445,7 +2445,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 "BD",
                 ""
               ]
@@ -2484,7 +2484,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -2574,7 +2574,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -2875,7 +2875,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBiH",
+                "FBIH",
                 "BD",
                 ""
               ]
@@ -3096,7 +3096,7 @@
             "constraints": {
               "enum": [
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -3134,7 +3134,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -3171,7 +3171,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 ""
               ]
@@ -3263,7 +3263,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BiH",
                 "BD",
@@ -3431,7 +3431,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 ""
               ]
             }
@@ -3468,7 +3468,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BD",
                 ""
@@ -3560,7 +3560,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FBiH",
+                "FBIH",
                 "RS",
                 ""
               ]
@@ -3643,7 +3643,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 "BD",
                 ""
               ]
@@ -3872,7 +3872,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBiH",
+                "FBIH",
                 "RS",
                 "BD",
                 ""
@@ -3912,7 +3912,7 @@
               "enum": [
                 "BiH",
                 "RS",
-                "FBiH",
+                "FBIH",
                 "BD",
                 ""
               ]

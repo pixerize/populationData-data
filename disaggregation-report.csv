@@ -4,10 +4,10 @@ BIRTHS,Vital statistics,Births,Births,Births,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,2,22
 EDUCATION,Educational level,EDUCATION,EDUCATION,EDUCATION,1,8
 ENROLMENT,Type of educational institution,ENROLMENT,ENROLMENT,ENROLMENT,1,4
-Entity,Administrative area,Entitet,Ентитет,Entitet,50,5
+Entity,Administrative area,Entitet,Ентитет,Entitet,50,4
 MICS_NUMBER,Method,MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,1,3
 Municipality,Municipality,Municipality,Municipality,Municipality,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,1,8
 SEX,Sex,Spol,Пол,Spol,34,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,TYPE_OF_DEPENDENCY_RATIO,TYPE_OF_DEPENDENCY_RATIO,TYPE_OF_DEPENDENCY_RATIO,2,4
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,75,13
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,75,12
