@@ -1,22 +1,16 @@
 Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
-1996,estimated_number_of_population,NUMBER,3645000.00
-1997,estimated_number_of_population,NUMBER,3738000.00
-1998,estimated_number_of_population,NUMBER,3653000.00
-1999,estimated_number_of_population,NUMBER,3725000.00
 1999,neoplasms,NUMBER,123.00
 1999,diseases_of_the_circulatory,NUMBER,427.00
 1999,diseases_of_the_respiratory,NUMBER,23.25
 1999,diseases_of_the_digestive,NUMBER,19.00
 1999,symptoms_signs_and_abnormal,NUMBER,68.51
 1999,injuries_poisoning_and_consequences,NUMBER,27.44
-2000,estimated_number_of_population,NUMBER,3781000.00
 2000,neoplasms,NUMBER,135.00
 2000,diseases_of_the_circulatory,NUMBER,431.00
 2000,diseases_of_the_respiratory,NUMBER,21.29
 2000,diseases_of_the_digestive,NUMBER,22.00
 2000,symptoms_signs_and_abnormal,NUMBER,75.64
 2000,injuries_poisoning_and_consequences,NUMBER,28.85
-2001,estimated_number_of_population,NUMBER,3798000.00
 2000,infectious_and_parasitic,NUMBER,6.77
 2000,neoplasms,NUMBER,141.00
 2000,diseases_of_the_blood,NUMBER,0.53
@@ -36,7 +30,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2000,external_causes_of_mortality,NUMBER,6.87
 2000,factors_influencing_health_status,NUMBER,0.03
 2000,unknown,NUMBER,25.12
-2002,estimated_number_of_population,NUMBER,3828000.00
 2002,infectious_and_parasitic,NUMBER,6.87
 2002,neoplasms,NUMBER,138.00
 2002,diseases_of_the_blood,NUMBER,0.50
@@ -56,7 +49,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,external_causes_of_mortality,NUMBER,6.32
 2002,factors_influencing_health_status,NUMBER,0.03
 2002,unknown,NUMBER,46.76
-2003,estimated_number_of_population,NUMBER,3832000.00
 2003,neoplasms,NUMBER,151.00
 2003,diseases_of_the_circulatory,NUMBER,443.00
 2003,diseases_of_the_respiratory,NUMBER,22.86
@@ -64,7 +56,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,symptoms_signs_and_abnormal,NUMBER,82.62
 2003,injuries_poisoning_and_consequences,NUMBER,24.79
 2003,unknown,NUMBER,20.09
-2004,estimated_number_of_population,NUMBER,3842000.00
 2004,infectious_and_parasitic,NUMBER,6.64
 2004,neoplasms,NUMBER,149.00
 2004,diseases_of_the_blood,NUMBER,0.81
@@ -83,21 +74,18 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,external_causes_of_mortality,NUMBER,7.11
 2004,factors_influencing_health_status,NUMBER,0.03
 2004,unknown,NUMBER,31.49
-2005,estimated_number_of_population,NUMBER,3843000.00
 2005,neoplasms,NUMBER,163.00
 2005,diseases_of_the_circulatory,NUMBER,466.00
 2005,diseases_of_the_respiratory,NUMBER,32.32
 2005,diseases_of_the_digestive,NUMBER,21.00
 2005,symptoms_signs_and_abnormal,NUMBER,62.30
 2005,injuries_poisoning_and_consequences,NUMBER,24.77
-2005,estimated_number_of_population,NUMBER,159.00
 2005,neoplasms,NUMBER,3.14
 2005,diseases_of_the_circulatory,NUMBER,10.19
 2005,diseases_of_the_respiratory,NUMBER,512.00
 2005,diseases_of_the_digestive,NUMBER,390.00
 2005,symptoms_signs_and_abnormal,NUMBER,62.30
 2005,injuries_poisoning_and_consequences,NUMBER,24.77
-2006,estimated_number_of_population,NUMBER,3843000.00
 2006,infectious_and_parasitic,NUMBER,6.17
 2006,neoplasms,NUMBER,163.00
 2006,diseases_of_the_blood,NUMBER,0.52
@@ -117,7 +105,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,external_causes_of_mortality,NUMBER,5.52
 2006,factors_influencing_health_status,NUMBER,0.03
 2006,unknown,NUMBER,27.09
-2007,estimated_number_of_population,NUMBER,3842000.00
 2007,infectious_and_parasitic,NUMBER,6.51
 2007,neoplasms,NUMBER,175.00
 2007,diseases_of_the_blood,NUMBER,1.41
@@ -137,7 +124,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,injuries_poisoning_and_consequences,NUMBER,26.81
 2007,external_causes_of_mortality,NUMBER,6.95
 2007,unknown,NUMBER,28.01
-2008,estimated_number_of_population,NUMBER,3842000.00
 2008,infectious_and_parasitic,NUMBER,7.16
 2008,neoplasms,NUMBER,175.00
 2008,diseases_of_the_blood,NUMBER,0.96
@@ -157,7 +143,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,injuries_poisoning_and_consequences,NUMBER,31.23
 2008,external_causes_of_mortality,NUMBER,0.05
 2008,unknown,NUMBER,27.04
-2009,estimated_number_of_population,NUMBER,3843000.00
 2009,infectious_and_parasitic,NUMBER,7.47
 2009,neoplasms,NUMBER,181.00
 2009,diseases_of_the_blood,NUMBER,1.07
@@ -177,7 +162,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,external_causes_of_mortality,NUMBER,0.05
 2009,factors_influencing_health_status,NUMBER,0.05
 2009,unknown,NUMBER,16.91
-2010,estimated_number_of_population,NUMBER,3843000.00
 2010,infectious_and_parasitic,NUMBER,7.42
 2010,neoplasms,NUMBER,181.00
 2010,diseases_of_the_blood,NUMBER,1.17
@@ -197,7 +181,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,injuries_poisoning_and_consequences,NUMBER,29.07
 2010,external_causes_of_mortality,NUMBER,0.39
 2010,unknown,NUMBER,16.60
-2011,estimated_number_of_population,NUMBER,3840000.00
 2011,infectious_and_parasitic,NUMBER,7.76
 2011,neoplasms,NUMBER,188.00
 2011,diseases_of_the_blood,NUMBER,1.54
@@ -217,7 +200,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,external_causes_of_mortality,NUMBER,0.36
 2011,factors_influencing_health_status,NUMBER,0.03
 2011,unknown,NUMBER,18.10
-2012,estimated_number_of_population,NUMBER,3836000.00
 2012,infectious_and_parasitic,NUMBER,8.97
 2012,neoplasms,NUMBER,198.00
 2012,diseases_of_the_blood,NUMBER,1.23
@@ -236,7 +218,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,symptoms_signs_and_abnormal,NUMBER,31.47
 2012,injuries_poisoning_and_consequences,NUMBER,27.82
 2012,unknown,NUMBER,19.29
-2013,estimated_number_of_population,NUMBER,3531000.00
 2013,infectious_and_parasitic,NUMBER,7.59
 2013,neoplasms,NUMBER,213.00
 2013,diseases_of_the_blood,NUMBER,1.42
@@ -255,7 +236,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,injuries_poisoning_and_consequences,NUMBER,29.00
 2013,external_causes_of_mortality,NUMBER,0.11
 2013,unknown,NUMBER,22.15
-2014,estimated_number_of_population,NUMBER,3526000.00
 2014,infectious_and_parasitic,NUMBER,8.25
 2014,neoplasms,NUMBER,222.00
 2014,diseases_of_the_blood,NUMBER,1.19
@@ -276,7 +256,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,external_causes_of_mortality,NUMBER,0.48
 2014,factors_influencing_health_status,NUMBER,0.03
 2014,unknown,NUMBER,16.73
-2015,estimated_number_of_population,NUMBER,3518000.00
 2015,infectious_and_parasitic,NUMBER,10.52
 2015,neoplasms,NUMBER,226.00
 2015,diseases_of_the_blood,NUMBER,1.56
@@ -296,7 +275,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,injuries_poisoning_and_consequences,NUMBER,31.35
 2015,external_causes_of_mortality,NUMBER,0.23
 2015,unknown,NUMBER,15.38
-2016,estimated_number_of_population,NUMBER,3511000.00
 2016,infectious_and_parasitic,NUMBER,11.73
 2016,neoplasms,NUMBER,221.00
 2016,diseases_of_the_blood,NUMBER,1.54
@@ -316,7 +294,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,injuries_poisoning_and_consequences,NUMBER,29.62
 2016,external_causes_of_mortality,NUMBER,0.40
 2016,unknown,NUMBER,15.52
-2017,estimated_number_of_population,NUMBER,3504000.00
 2017,infectious_and_parasitic,NUMBER,11.27
 2017,neoplasms,NUMBER,232.00
 2017,diseases_of_the_blood,NUMBER,1.97
@@ -336,7 +313,6 @@ Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,injuries_poisoning_and_consequences,NUMBER,30.45
 2017,external_causes_of_mortality,NUMBER,0.43
 2017,unknown,NUMBER,15.70
-2018,estimated_number_of_population,NUMBER,3496000.00
 2018,infectious_and_parasitic,NUMBER,12.67
 2018,neoplasms,NUMBER,225.00
 2018,diseases_of_the_blood,NUMBER,2.06
