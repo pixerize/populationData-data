@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,UNIT_MEASUREMENT,Пол,Ентитет,Value
+Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,Пол,Ентитет,Value
 1971,%,total_support_ratio,Оба пола,BiH,65.4
 1971,%,total_support_ratio,Мушкарци,BiH,67.9
 1971,%,total_support_ratio,Жене,BiH,63.0

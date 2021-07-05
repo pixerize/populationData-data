@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "UNIT_MEASUREMENT",
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
