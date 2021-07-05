@@ -9,10 +9,6 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entity,Value
 2011,_%,modern_methods,FBIH,10
 2011,_%,modern_methods,RS,16.8
 2011,_%,modern_methods,BD,14.5
-2012,_%,modern_methods,BiH,12
-2012,_%,modern_methods,FBIH,10
-2012,_%,modern_methods,RS,16.8
-2012,_%,modern_methods,BD,14.5
 2000,_%,all_methods,BiH,48
 2000,_%,all_methods,FBIH,48.7
 2000,_%,all_methods,RS,45.1
@@ -24,10 +20,6 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entity,Value
 2011,_%,all_methods,FBIH,43.1
 2011,_%,all_methods,RS,53.7
 2011,_%,all_methods,BD,24.7
-2012,_%,all_methods,BiH,45.8
-2012,_%,all_methods,FBIH,43.1
-2012,_%,all_methods,RS,53.7
-2012,_%,all_methods,BD,24.7
 2000,_%,traditional_methods,FBIH,32.9
 2000,_%,traditional_methods,RS,29.4
 2006,_%,traditional_methods,BiH,24.5
@@ -38,7 +30,3 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entity,Value
 2011,_%,traditional_methods,FBIH,33.1
 2011,_%,traditional_methods,RS,36.9
 2011,_%,traditional_methods,BD,10.2
-2012,_%,traditional_methods,BiH,34
-2012,_%,traditional_methods,FBIH,33.1
-2012,_%,traditional_methods,RS,36.9
-2012,_%,traditional_methods,BD,10.2
