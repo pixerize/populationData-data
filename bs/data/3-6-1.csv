@@ -9,10 +9,6 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entitet,Value
 2011,% od ukupnog broja,modern_methods,Federacija BiH,10.0
 2011,% od ukupnog broja,modern_methods,Republika Srpska,16.8
 2011,% od ukupnog broja,modern_methods,Brčko Distrikt BiH,14.5
-2012,% od ukupnog broja,modern_methods,BiH,12.0
-2012,% od ukupnog broja,modern_methods,Federacija BiH,10.0
-2012,% od ukupnog broja,modern_methods,Republika Srpska,16.8
-2012,% od ukupnog broja,modern_methods,Brčko Distrikt BiH,14.5
 2000,% od ukupnog broja,all_methods,BiH,48.0
 2000,% od ukupnog broja,all_methods,Federacija BiH,48.7
 2000,% od ukupnog broja,all_methods,Republika Srpska,45.1
@@ -24,10 +20,6 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entitet,Value
 2011,% od ukupnog broja,all_methods,Federacija BiH,43.1
 2011,% od ukupnog broja,all_methods,Republika Srpska,53.7
 2011,% od ukupnog broja,all_methods,Brčko Distrikt BiH,24.7
-2012,% od ukupnog broja,all_methods,BiH,45.8
-2012,% od ukupnog broja,all_methods,Federacija BiH,43.1
-2012,% od ukupnog broja,all_methods,Republika Srpska,53.7
-2012,% od ukupnog broja,all_methods,Brčko Distrikt BiH,24.7
 2000,% od ukupnog broja,traditional_methods,Federacija BiH,32.9
 2000,% od ukupnog broja,traditional_methods,Republika Srpska,29.4
 2006,% od ukupnog broja,traditional_methods,BiH,24.5
@@ -38,7 +30,3 @@ Year,UNIT_MEASURE,MICS_NUMBER,Entitet,Value
 2011,% od ukupnog broja,traditional_methods,Federacija BiH,33.1
 2011,% od ukupnog broja,traditional_methods,Republika Srpska,36.9
 2011,% od ukupnog broja,traditional_methods,Brčko Distrikt BiH,10.2
-2012,% od ukupnog broja,traditional_methods,BiH,34.0
-2012,% od ukupnog broja,traditional_methods,Federacija BiH,33.1
-2012,% od ukupnog broja,traditional_methods,Republika Srpska,36.9
-2012,% od ukupnog broja,traditional_methods,Brčko Distrikt BiH,10.2
