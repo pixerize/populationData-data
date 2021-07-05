@@ -1,34 +1,34 @@
 Year,Sex,UNIT_MEASURE,Value
-2020,Both sexes,_%,10.9
-2025,Both sexes,_%,11.9
-2030,Both sexes,_%,13.1
-2035,Both sexes,_%,14.5
-2040,Both sexes,_%,16.0
-2045,Both sexes,_%,17.5
-2050,Both sexes,_%,18.8
-2055,Both sexes,_%,19.8
-2060,Both sexes,_%,20.7
-2065,Both sexes,_%,21.5
-2070,Both sexes,_%,22.2
-2020,M,_%,11.4
-2025,M,_%,12.5
-2030,M,_%,13.8
-2035,M,_%,15.3
-2040,M,_%,16.9
-2045,M,_%,18.5
-2050,M,_%,19.8
-2055,M,_%,20.9
-2060,M,_%,21.9
-2065,M,_%,22.6
-2070,M,_%,23.1
-2020,F,_%,10.52
-2025,F,_%,11.42
-2030,F,_%,12.48
-2035,F,_%,13.75
-2040,F,_%,15.19
-2045,F,_%,16.66
-2050,F,_%,17.9
-2055,F,_%,18.93
-2060,F,_%,19.79
-2065,F,_%,20.64
-2070,F,_%,21.5
+2020,Both sexes,"Number per 1,000 population",10.9
+2025,Both sexes,"Number per 1,000 population",11.9
+2030,Both sexes,"Number per 1,000 population",13.1
+2035,Both sexes,"Number per 1,000 population",14.5
+2040,Both sexes,"Number per 1,000 population",16.0
+2045,Both sexes,"Number per 1,000 population",17.5
+2050,Both sexes,"Number per 1,000 population",18.8
+2055,Both sexes,"Number per 1,000 population",19.8
+2060,Both sexes,"Number per 1,000 population",20.7
+2065,Both sexes,"Number per 1,000 population",21.5
+2070,Both sexes,"Number per 1,000 population",22.2
+2020,M,"Number per 1,000 population",11.4
+2025,M,"Number per 1,000 population",12.5
+2030,M,"Number per 1,000 population",13.8
+2035,M,"Number per 1,000 population",15.3
+2040,M,"Number per 1,000 population",16.9
+2045,M,"Number per 1,000 population",18.5
+2050,M,"Number per 1,000 population",19.8
+2055,M,"Number per 1,000 population",20.9
+2060,M,"Number per 1,000 population",21.9
+2065,M,"Number per 1,000 population",22.6
+2070,M,"Number per 1,000 population",23.1
+2020,F,"Number per 1,000 population",10.52
+2025,F,"Number per 1,000 population",11.42
+2030,F,"Number per 1,000 population",12.48
+2035,F,"Number per 1,000 population",13.75
+2040,F,"Number per 1,000 population",15.19
+2045,F,"Number per 1,000 population",16.66
+2050,F,"Number per 1,000 population",17.9
+2055,F,"Number per 1,000 population",18.93
+2060,F,"Number per 1,000 population",19.79
+2065,F,"Number per 1,000 population",20.64
+2070,F,"Number per 1,000 population",21.5
