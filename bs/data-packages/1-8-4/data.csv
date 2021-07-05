@@ -1,92 +1,92 @@
 Year,UNIT_MEASURE,Entitet,Value
-1971,Broj,BiH,88.2
-1981,Broj,BiH,93.3
-1991,Broj,BiH,56.3
-1997,Broj,BiH,79.0
-1998,Broj,BiH,87.7
-1999,Broj,BiH,88.8
-2000,Broj,BiH,88.1
-2001,Broj,BiH,104.7
-2002,Broj,BiH,112.9
-2003,Broj,BiH,92.5
-2004,Broj,BiH,68.4
-2005,Broj,BiH,81.3
-2006,Broj,BiH,77.2
-2007,Broj,BiH,77.7
-2008,Broj,BiH,61.8
-2009,Broj,BiH,68.0
-2010,Broj,BiH,85.8
-2011,Broj,BiH,120.5
-2012,Broj,BiH,125.8
-2013,Broj,BiH,148.1
-2014,Broj,BiH,144.1
-2015,Broj,BiH,150.5
-2016,Broj,BiH,143.9
-2017,Broj,BiH,151.3
-2018,Broj,BiH,155.2
-2019,Broj,BiH,147.2
-1996,Broj,Federacija BiH,25.7
-1997,Broj,Federacija BiH,68.4
-1998,Broj,Federacija BiH,77.9
-1999,Broj,Federacija BiH,84.1
-2000,Broj,Federacija BiH,84.9
-2001,Broj,Federacija BiH,100.8
-2002,Broj,Federacija BiH,110.5
-2003,Broj,Federacija BiH,89.6
-2004,Broj,Federacija BiH,62.6
-2005,Broj,Federacija BiH,70.9
-2006,Broj,Federacija BiH,71.7
-2007,Broj,Federacija BiH,69.6
-2008,Broj,Federacija BiH,62.9
-2009,Broj,Federacija BiH,58.9
-2010,Broj,Federacija BiH,76.5
-2011,Broj,Federacija BiH,97.0
-2012,Broj,Federacija BiH,97.5
-2013,Broj,Federacija BiH,119.8
-2014,Broj,Federacija BiH,110.2
-2015,Broj,Federacija BiH,115.8
-2016,Broj,Federacija BiH,113.0
-2017,Broj,Federacija BiH,132.8
-2018,Broj,Federacija BiH,139.6
-2019,Broj,Federacija BiH,136.4
-1997,Broj,Republika Srpska,95.1
-1998,Broj,Republika Srpska,102.1
-1999,Broj,Republika Srpska,93.5
-2000,Broj,Republika Srpska,92.6
-2001,Broj,Republika Srpska,115.6
-2002,Broj,Republika Srpska,117.2
-2003,Broj,Republika Srpska,109.9
-2004,Broj,Republika Srpska,89.2
-2005,Broj,Republika Srpska,105.9
-2006,Broj,Republika Srpska,76.7
-2007,Broj,Republika Srpska,84.0
-2008,Broj,Republika Srpska,49.5
-2009,Broj,Republika Srpska,74.2
-2010,Broj,Republika Srpska,89.6
-2011,Broj,Republika Srpska,152.7
-2012,Broj,Republika Srpska,164.9
-2013,Broj,Republika Srpska,192.4
-2014,Broj,Republika Srpska,189.9
-2015,Broj,Republika Srpska,193.9
-2016,Broj,Republika Srpska,184.3
-2017,Broj,Republika Srpska,165.4
-2018,Broj,Republika Srpska,161.4
-2019,Broj,Republika Srpska,158.0
-2002,Broj,Brčko Distrikt BiH,90.1
-2003,Broj,Brčko Distrikt BiH,122.1
-2004,Broj,Brčko Distrikt BiH,122.8
-2005,Broj,Brčko Distrikt BiH,127.1
-2006,Broj,Brčko Distrikt BiH,135.2
-2007,Broj,Brčko Distrikt BiH,132.0
-2008,Broj,Brčko Distrikt BiH,120.6
-2009,Broj,Brčko Distrikt BiH,207.5
-2010,Broj,Brčko Distrikt BiH,249.2
-2011,Broj,Brčko Distrikt BiH,324.6
-2012,Broj,Brčko Distrikt BiH,335.7
-2013,Broj,Brčko Distrikt BiH,307.1
-2014,Broj,Brčko Distrikt BiH,378.6
-2015,Broj,Brčko Distrikt BiH,464.2
-2016,Broj,Brčko Distrikt BiH,442.6
-2017,Broj,Brčko Distrikt BiH,410.9
-2018,Broj,Brčko Distrikt BiH,471.5
-2019,Broj,Brčko Distrikt BiH,312.2
+1971,no_per_1000_marriages,BiH,88.2
+1981,no_per_1000_marriages,BiH,93.3
+1991,no_per_1000_marriages,BiH,56.3
+1997,no_per_1000_marriages,BiH,79.0
+1998,no_per_1000_marriages,BiH,87.7
+1999,no_per_1000_marriages,BiH,88.8
+2000,no_per_1000_marriages,BiH,88.1
+2001,no_per_1000_marriages,BiH,104.7
+2002,no_per_1000_marriages,BiH,112.9
+2003,no_per_1000_marriages,BiH,92.5
+2004,no_per_1000_marriages,BiH,68.4
+2005,no_per_1000_marriages,BiH,81.3
+2006,no_per_1000_marriages,BiH,77.2
+2007,no_per_1000_marriages,BiH,77.7
+2008,no_per_1000_marriages,BiH,61.8
+2009,no_per_1000_marriages,BiH,68.0
+2010,no_per_1000_marriages,BiH,85.8
+2011,no_per_1000_marriages,BiH,120.5
+2012,no_per_1000_marriages,BiH,125.8
+2013,no_per_1000_marriages,BiH,148.1
+2014,no_per_1000_marriages,BiH,144.1
+2015,no_per_1000_marriages,BiH,150.5
+2016,no_per_1000_marriages,BiH,143.9
+2017,no_per_1000_marriages,BiH,151.3
+2018,no_per_1000_marriages,BiH,155.2
+2019,no_per_1000_marriages,BiH,147.2
+1996,no_per_1000_marriages,Federacija BiH,25.7
+1997,no_per_1000_marriages,Federacija BiH,68.4
+1998,no_per_1000_marriages,Federacija BiH,77.9
+1999,no_per_1000_marriages,Federacija BiH,84.1
+2000,no_per_1000_marriages,Federacija BiH,84.9
+2001,no_per_1000_marriages,Federacija BiH,100.8
+2002,no_per_1000_marriages,Federacija BiH,110.5
+2003,no_per_1000_marriages,Federacija BiH,89.6
+2004,no_per_1000_marriages,Federacija BiH,62.6
+2005,no_per_1000_marriages,Federacija BiH,70.9
+2006,no_per_1000_marriages,Federacija BiH,71.7
+2007,no_per_1000_marriages,Federacija BiH,69.6
+2008,no_per_1000_marriages,Federacija BiH,62.9
+2009,no_per_1000_marriages,Federacija BiH,58.9
+2010,no_per_1000_marriages,Federacija BiH,76.5
+2011,no_per_1000_marriages,Federacija BiH,97.0
+2012,no_per_1000_marriages,Federacija BiH,97.5
+2013,no_per_1000_marriages,Federacija BiH,119.8
+2014,no_per_1000_marriages,Federacija BiH,110.2
+2015,no_per_1000_marriages,Federacija BiH,115.8
+2016,no_per_1000_marriages,Federacija BiH,113.0
+2017,no_per_1000_marriages,Federacija BiH,132.8
+2018,no_per_1000_marriages,Federacija BiH,139.6
+2019,no_per_1000_marriages,Federacija BiH,136.4
+1997,no_per_1000_marriages,Republika Srpska,95.1
+1998,no_per_1000_marriages,Republika Srpska,102.1
+1999,no_per_1000_marriages,Republika Srpska,93.5
+2000,no_per_1000_marriages,Republika Srpska,92.6
+2001,no_per_1000_marriages,Republika Srpska,115.6
+2002,no_per_1000_marriages,Republika Srpska,117.2
+2003,no_per_1000_marriages,Republika Srpska,109.9
+2004,no_per_1000_marriages,Republika Srpska,89.2
+2005,no_per_1000_marriages,Republika Srpska,105.9
+2006,no_per_1000_marriages,Republika Srpska,76.7
+2007,no_per_1000_marriages,Republika Srpska,84.0
+2008,no_per_1000_marriages,Republika Srpska,49.5
+2009,no_per_1000_marriages,Republika Srpska,74.2
+2010,no_per_1000_marriages,Republika Srpska,89.6
+2011,no_per_1000_marriages,Republika Srpska,152.7
+2012,no_per_1000_marriages,Republika Srpska,164.9
+2013,no_per_1000_marriages,Republika Srpska,192.4
+2014,no_per_1000_marriages,Republika Srpska,189.9
+2015,no_per_1000_marriages,Republika Srpska,193.9
+2016,no_per_1000_marriages,Republika Srpska,184.3
+2017,no_per_1000_marriages,Republika Srpska,165.4
+2018,no_per_1000_marriages,Republika Srpska,161.4
+2019,no_per_1000_marriages,Republika Srpska,158.0
+2002,no_per_1000_marriages,Brčko Distrikt BiH,90.1
+2003,no_per_1000_marriages,Brčko Distrikt BiH,122.1
+2004,no_per_1000_marriages,Brčko Distrikt BiH,122.8
+2005,no_per_1000_marriages,Brčko Distrikt BiH,127.1
+2006,no_per_1000_marriages,Brčko Distrikt BiH,135.2
+2007,no_per_1000_marriages,Brčko Distrikt BiH,132.0
+2008,no_per_1000_marriages,Brčko Distrikt BiH,120.6
+2009,no_per_1000_marriages,Brčko Distrikt BiH,207.5
+2010,no_per_1000_marriages,Brčko Distrikt BiH,249.2
+2011,no_per_1000_marriages,Brčko Distrikt BiH,324.6
+2012,no_per_1000_marriages,Brčko Distrikt BiH,335.7
+2013,no_per_1000_marriages,Brčko Distrikt BiH,307.1
+2014,no_per_1000_marriages,Brčko Distrikt BiH,378.6
+2015,no_per_1000_marriages,Brčko Distrikt BiH,464.2
+2016,no_per_1000_marriages,Brčko Distrikt BiH,442.6
+2017,no_per_1000_marriages,Brčko Distrikt BiH,410.9
+2018,no_per_1000_marriages,Brčko Distrikt BiH,471.5
+2019,no_per_1000_marriages,Brčko Distrikt BiH,312.2
