@@ -21,6 +21,17 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Entitet"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

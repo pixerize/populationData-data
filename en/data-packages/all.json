@@ -308,6 +308,17 @@
       "schema": {
         "fields": [
           {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BiH"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

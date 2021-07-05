@@ -19,6 +19,16 @@
             "type": "string"
           },
           {
+            "name": "Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
