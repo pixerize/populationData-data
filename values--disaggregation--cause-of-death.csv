@@ -17,7 +17,7 @@ infectious_and_parasitic,(A00-B99) Infectious and parasitic diseases,infectious_
 injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequences of external causes",injuries_poisoning_and_consequences,injuries_poisoning_and_consequences,injuries_poisoning_and_consequences,4,2
 mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,mental_and_behavioural_disorders,mental_and_behavioural_disorders,mental_and_behavioural_disorders,4,2
 neoplasms,"(C00-C97,D00-D48) Neoplasms",neoplasms,neoplasms,neoplasms,4,2
-pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium",pregnancy_childbirth_and_the,pregnancy_childbirth_and_the,pregnancy_childbirth_and_the,4,2
+pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium",pregnancy_childbirth_and_the,pregnancy_childbirth_and_the,pregnancy_childbirth_and_the,3,2
 symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",symptoms_signs_and_abnormal,symptoms_signs_and_abnormal,symptoms_signs_and_abnormal,4,2
 total,Total,Ukupno,Укупно,Ukupno,3,1
 unknown,Unknown,unknown,unknown,unknown,4,2
