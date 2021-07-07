@@ -2311,41 +2311,6 @@
       "title": "Udio stanovništva koje koristi (a) sanitarne usluge kojima se sigurno upravlja i (b) pranje ruku sapunom i vodom"
     },
     {
-      "path": "1-c-7/data.csv",
-      "name": "1-c-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_Measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                ""
-              ]
-            },
-            "title": "UNIT_Measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-c-7-title"
-    },
-    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -4350,6 +4315,30 @@
         ]
       },
       "title": "Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava"
+    },
+    {
+      "path": "1-c-7/data.csv",
+      "name": "1-c-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.1-c-7-title"
     }
   ]
 }

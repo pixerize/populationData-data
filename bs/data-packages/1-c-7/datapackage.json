@@ -12,23 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
-            "name": "UNIT_Measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                ""
-              ]
-            },
-            "title": "UNIT_Measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

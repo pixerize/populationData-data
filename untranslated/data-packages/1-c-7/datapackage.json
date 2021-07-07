@@ -12,21 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_Measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
