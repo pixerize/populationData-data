@@ -38,8 +38,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"1\"",
-                "\"2\"",
+                "a",
+                "b",
                 ""
               ]
             },

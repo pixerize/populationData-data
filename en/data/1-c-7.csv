@@ -1,19 +1,19 @@
 Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
-2013,Number,Both sexes,"""1""",Banja Luka,185042
-2013,Number,F,"""1""",Banja Luka,95894
-2013,Number,M,"""1""",Banja Luka,89148
-2013,Number,Both sexes,"""1""",Bijeljina,107715
-2013,Number,F,"""1""",Bijeljina,54888
-2013,Number,M,"""1""",Bijeljina,52827
-2013,Number,Both sexes,"""1""",Bosanska Krupa,25545
-2013,Number,F,"""1""",Bosanska Krupa,12997
-2013,Number,M,"""1""",Bosanska Krupa,12548
-2013,Number,Both sexes,"""2""",Banja Luka,9610
-2013,Number,F,"""2""",Banja Luka,4712
-2013,Number,M,"""2""",Banja Luka,4898
-2013,Number,Both sexes,"""2""",Bijeljina,5080
-2013,Number,F,"""2""",Bijeljina,2443
-2013,Number,M,"""2""",Bijeljina,2637
-2013,Number,Both sexes,"""2""",Bosanska Krupa,1423
-2013,Number,F,"""2""",Bosanska Krupa,688
-2013,Number,M,"""2""",Bosanska Krupa,735
+2013,Number,Both sexes,a,Banja Luka,185042
+2013,Number,F,a,Banja Luka,95894
+2013,Number,M,a,Banja Luka,89148
+2013,Number,Both sexes,a,Bijeljina,107715
+2013,Number,F,a,Bijeljina,54888
+2013,Number,M,a,Bijeljina,52827
+2013,Number,Both sexes,a,Bosanska Krupa,25545
+2013,Number,F,a,Bosanska Krupa,12997
+2013,Number,M,a,Bosanska Krupa,12548
+2013,Number,Both sexes,b,Banja Luka,9610
+2013,Number,F,b,Banja Luka,4712
+2013,Number,M,b,Banja Luka,4898
+2013,Number,Both sexes,b,Bijeljina,5080
+2013,Number,F,b,Bijeljina,2443
+2013,Number,M,b,Bijeljina,2637
+2013,Number,Both sexes,b,Bosanska Krupa,1423
+2013,Number,F,b,Bosanska Krupa,688
+2013,Number,M,b,Bosanska Krupa,735
