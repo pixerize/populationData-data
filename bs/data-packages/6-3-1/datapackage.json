@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",

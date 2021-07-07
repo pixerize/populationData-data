@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Spol,AGE,Entitet,Value
+Year,UNIT_MEASURE,SPOL,AGE,Entitet,Value
 2013,Broj,Oba spola,0-4,Federacija BiH,114843
 2013,Broj,Oba spola,5-9,Federacija BiH,116052
 2013,Broj,Oba spola,10-14,Federacija BiH,126053
@@ -25,58 +25,58 @@ Year,UNIT_MEASURE,Spol,AGE,Entitet,Value
 2013,Broj,Oba spola,15-64,Federacija BiH,1576326
 2013,Broj,Oba spola,65+,Federacija BiH,285946
 2013,Broj,Oba spola,75+,Federacija BiH,116532
-2013,Broj,Muškarci,0-4,Federacija BiH,59017
-2013,Broj,Muškarci,5-9,Federacija BiH,59633
-2013,Broj,Muškarci,10-14,Federacija BiH,64493
-2013,Broj,Muškarci,15-19,Federacija BiH,83298
-2013,Broj,Muškarci,20-24,Federacija BiH,77103
-2013,Broj,Muškarci,25-29,Federacija BiH,84119
-2013,Broj,Muškarci,30-34,Federacija BiH,81932
-2013,Broj,Muškarci,35-39,Federacija BiH,78939
-2013,Broj,Muškarci,40-44,Federacija BiH,77122
-2013,Broj,Muškarci,45-49,Federacija BiH,82594
-2013,Broj,Muškarci,50-54,Federacija BiH,85303
-2013,Broj,Muškarci,55-59,Federacija BiH,75568
-2013,Broj,Muškarci,60-64,Federacija BiH,59899
-2013,Broj,Muškarci,65-69,Federacija BiH,39438
-2013,Broj,Muškarci,70-74,Federacija BiH,34445
-2013,Broj,Muškarci,75-79,Federacija BiH,26695
-2013,Broj,Muškarci,80-84,Federacija BiH,13493
-2013,Broj,Muškarci,85+,Federacija BiH,4902
-2013,Broj,Muškarci,Unknown,Federacija BiH,0
-2013,Broj,Muškarci,Total,Federacija BiH,1087993
-2013,Broj,Muškarci,0-14,Federacija BiH,183143
-2013,Broj,Muškarci,15-29,Federacija BiH,244520
-2013,Broj,Muškarci,15-49,Federacija BiH,565107
-2013,Broj,Muškarci,15-64,Federacija BiH,785877
-2013,Broj,Muškarci,65+,Federacija BiH,118973
-2013,Broj,Muškarci,75+,Federacija BiH,45090
-2013,Broj,Žene,0-4,Federacija BiH,55826
-2013,Broj,Žene,5-9,Federacija BiH,56419
-2013,Broj,Žene,10-14,Federacija BiH,61560
-2013,Broj,Žene,15-19,Federacija BiH,78583
-2013,Broj,Žene,20-24,Federacija BiH,73799
-2013,Broj,Žene,25-29,Federacija BiH,80084
-2013,Broj,Žene,30-34,Federacija BiH,79056
-2013,Broj,Žene,35-39,Federacija BiH,78776
-2013,Broj,Žene,40-44,Federacija BiH,77708
-2013,Broj,Žene,45-49,Federacija BiH,84515
-2013,Broj,Žene,50-54,Federacija BiH,88693
-2013,Broj,Žene,55-59,Federacija BiH,80521
-2013,Broj,Žene,60-64,Federacija BiH,68714
-2013,Broj,Žene,65-69,Federacija BiH,48953
-2013,Broj,Žene,70-74,Federacija BiH,46578
-2013,Broj,Žene,75-79,Federacija BiH,38918
-2013,Broj,Žene,80-84,Federacija BiH,21734
-2013,Broj,Žene,85+,Federacija BiH,10790
-2013,Broj,Žene,Unknown,Federacija BiH,0
-2013,Broj,Žene,Total,Federacija BiH,1131227
-2013,Broj,Žene,0-14,Federacija BiH,173805
-2013,Broj,Žene,15-29,Federacija BiH,232466
-2013,Broj,Žene,15-49,Federacija BiH,552521
-2013,Broj,Žene,15-64,Federacija BiH,790449
-2013,Broj,Žene,65+,Federacija BiH,166973
-2013,Broj,Žene,75+,Federacija BiH,71442
+2013,Broj,M,0-4,Federacija BiH,59017
+2013,Broj,M,5-9,Federacija BiH,59633
+2013,Broj,M,10-14,Federacija BiH,64493
+2013,Broj,M,15-19,Federacija BiH,83298
+2013,Broj,M,20-24,Federacija BiH,77103
+2013,Broj,M,25-29,Federacija BiH,84119
+2013,Broj,M,30-34,Federacija BiH,81932
+2013,Broj,M,35-39,Federacija BiH,78939
+2013,Broj,M,40-44,Federacija BiH,77122
+2013,Broj,M,45-49,Federacija BiH,82594
+2013,Broj,M,50-54,Federacija BiH,85303
+2013,Broj,M,55-59,Federacija BiH,75568
+2013,Broj,M,60-64,Federacija BiH,59899
+2013,Broj,M,65-69,Federacija BiH,39438
+2013,Broj,M,70-74,Federacija BiH,34445
+2013,Broj,M,75-79,Federacija BiH,26695
+2013,Broj,M,80-84,Federacija BiH,13493
+2013,Broj,M,85+,Federacija BiH,4902
+2013,Broj,M,Unknown,Federacija BiH,0
+2013,Broj,M,Total,Federacija BiH,1087993
+2013,Broj,M,0-14,Federacija BiH,183143
+2013,Broj,M,15-29,Federacija BiH,244520
+2013,Broj,M,15-49,Federacija BiH,565107
+2013,Broj,M,15-64,Federacija BiH,785877
+2013,Broj,M,65+,Federacija BiH,118973
+2013,Broj,M,75+,Federacija BiH,45090
+2013,Broj,Ž,0-4,Federacija BiH,55826
+2013,Broj,Ž,5-9,Federacija BiH,56419
+2013,Broj,Ž,10-14,Federacija BiH,61560
+2013,Broj,Ž,15-19,Federacija BiH,78583
+2013,Broj,Ž,20-24,Federacija BiH,73799
+2013,Broj,Ž,25-29,Federacija BiH,80084
+2013,Broj,Ž,30-34,Federacija BiH,79056
+2013,Broj,Ž,35-39,Federacija BiH,78776
+2013,Broj,Ž,40-44,Federacija BiH,77708
+2013,Broj,Ž,45-49,Federacija BiH,84515
+2013,Broj,Ž,50-54,Federacija BiH,88693
+2013,Broj,Ž,55-59,Federacija BiH,80521
+2013,Broj,Ž,60-64,Federacija BiH,68714
+2013,Broj,Ž,65-69,Federacija BiH,48953
+2013,Broj,Ž,70-74,Federacija BiH,46578
+2013,Broj,Ž,75-79,Federacija BiH,38918
+2013,Broj,Ž,80-84,Federacija BiH,21734
+2013,Broj,Ž,85+,Federacija BiH,10790
+2013,Broj,Ž,Unknown,Federacija BiH,0
+2013,Broj,Ž,Total,Federacija BiH,1131227
+2013,Broj,Ž,0-14,Federacija BiH,173805
+2013,Broj,Ž,15-29,Federacija BiH,232466
+2013,Broj,Ž,15-49,Federacija BiH,552521
+2013,Broj,Ž,15-64,Federacija BiH,790449
+2013,Broj,Ž,65+,Federacija BiH,166973
+2013,Broj,Ž,75+,Federacija BiH,71442
 2013,Broj,Oba spola,0-4,Republika Srpska,55056
 2013,Broj,Oba spola,5-9,Republika Srpska,56616
 2013,Broj,Oba spola,10-14,Republika Srpska,62018
@@ -103,58 +103,58 @@ Year,UNIT_MEASURE,Spol,AGE,Entitet,Value
 2013,Broj,Oba spola,15-64,Republika Srpska,850819
 2013,Broj,Oba spola,65+,Republika Srpska,203914
 2013,Broj,Oba spola,75+,Republika Srpska,86571
-2013,Broj,Muškarci,0-4,Republika Srpska,28247
-2013,Broj,Muškarci,5-9,Republika Srpska,29013
-2013,Broj,Muškarci,10-14,Republika Srpska,31749
-2013,Broj,Muškarci,15-19,Republika Srpska,38883
-2013,Broj,Muškarci,20-24,Republika Srpska,37252
-2013,Broj,Muškarci,25-29,Republika Srpska,42221
-2013,Broj,Muškarci,30-34,Republika Srpska,43747
-2013,Broj,Muškarci,35-39,Republika Srpska,44081
-2013,Broj,Muškarci,40-44,Republika Srpska,41347
-2013,Broj,Muškarci,45-49,Republika Srpska,44057
-2013,Broj,Muškarci,50-54,Republika Srpska,47525
-2013,Broj,Muškarci,55-59,Republika Srpska,47146
-2013,Broj,Muškarci,60-64,Republika Srpska,42672
-2013,Broj,Muškarci,65-69,Republika Srpska,27882
-2013,Broj,Muškarci,70-74,Republika Srpska,23950
-2013,Broj,Muškarci,75-79,Republika Srpska,19565
-2013,Broj,Muškarci,80-84,Republika Srpska,9763
-2013,Broj,Muškarci,85+,Republika Srpska,3927
-2013,Broj,Muškarci,Unknown,Republika Srpska,0
-2013,Broj,Muškarci,Total,Republika Srpska,603027
-2013,Broj,Muškarci,0-14,Republika Srpska,89009
-2013,Broj,Muškarci,15-29,Republika Srpska,118356
-2013,Broj,Muškarci,15-49,Republika Srpska,291588
-2013,Broj,Muškarci,15-64,Republika Srpska,428931
-2013,Broj,Muškarci,65+,Republika Srpska,85087
-2013,Broj,Muškarci,75+,Republika Srpska,33255
-2013,Broj,Žene,0-4,Republika Srpska,26809
-2013,Broj,Žene,5-9,Republika Srpska,27603
-2013,Broj,Žene,10-14,Republika Srpska,30269
-2013,Broj,Žene,15-19,Republika Srpska,36655
-2013,Broj,Žene,20-24,Republika Srpska,34966
-2013,Broj,Žene,25-29,Republika Srpska,40165
-2013,Broj,Žene,30-34,Republika Srpska,41907
-2013,Broj,Žene,35-39,Republika Srpska,41364
-2013,Broj,Žene,40-44,Republika Srpska,38816
-2013,Broj,Žene,45-49,Republika Srpska,43189
-2013,Broj,Žene,50-54,Republika Srpska,48481
-2013,Broj,Žene,55-59,Republika Srpska,49527
-2013,Broj,Žene,60-64,Republika Srpska,46818
-2013,Broj,Žene,65-69,Republika Srpska,33388
-2013,Broj,Žene,70-74,Republika Srpska,32123
-2013,Broj,Žene,75-79,Republika Srpska,29226
-2013,Broj,Žene,80-84,Republika Srpska,16246
-2013,Broj,Žene,85+,Republika Srpska,7844
-2013,Broj,Žene,Unknown,Republika Srpska,0
-2013,Broj,Žene,Total,Republika Srpska,625396
-2013,Broj,Žene,0-14,Republika Srpska,84681
-2013,Broj,Žene,15-29,Republika Srpska,111786
-2013,Broj,Žene,15-49,Republika Srpska,277062
-2013,Broj,Žene,15-64,Republika Srpska,421888
-2013,Broj,Žene,65+,Republika Srpska,118827
-2013,Broj,Žene,75+,Republika Srpska,53316
+2013,Broj,M,0-4,Republika Srpska,28247
+2013,Broj,M,5-9,Republika Srpska,29013
+2013,Broj,M,10-14,Republika Srpska,31749
+2013,Broj,M,15-19,Republika Srpska,38883
+2013,Broj,M,20-24,Republika Srpska,37252
+2013,Broj,M,25-29,Republika Srpska,42221
+2013,Broj,M,30-34,Republika Srpska,43747
+2013,Broj,M,35-39,Republika Srpska,44081
+2013,Broj,M,40-44,Republika Srpska,41347
+2013,Broj,M,45-49,Republika Srpska,44057
+2013,Broj,M,50-54,Republika Srpska,47525
+2013,Broj,M,55-59,Republika Srpska,47146
+2013,Broj,M,60-64,Republika Srpska,42672
+2013,Broj,M,65-69,Republika Srpska,27882
+2013,Broj,M,70-74,Republika Srpska,23950
+2013,Broj,M,75-79,Republika Srpska,19565
+2013,Broj,M,80-84,Republika Srpska,9763
+2013,Broj,M,85+,Republika Srpska,3927
+2013,Broj,M,Unknown,Republika Srpska,0
+2013,Broj,M,Total,Republika Srpska,603027
+2013,Broj,M,0-14,Republika Srpska,89009
+2013,Broj,M,15-29,Republika Srpska,118356
+2013,Broj,M,15-49,Republika Srpska,291588
+2013,Broj,M,15-64,Republika Srpska,428931
+2013,Broj,M,65+,Republika Srpska,85087
+2013,Broj,M,75+,Republika Srpska,33255
+2013,Broj,Ž,0-4,Republika Srpska,26809
+2013,Broj,Ž,5-9,Republika Srpska,27603
+2013,Broj,Ž,10-14,Republika Srpska,30269
+2013,Broj,Ž,15-19,Republika Srpska,36655
+2013,Broj,Ž,20-24,Republika Srpska,34966
+2013,Broj,Ž,25-29,Republika Srpska,40165
+2013,Broj,Ž,30-34,Republika Srpska,41907
+2013,Broj,Ž,35-39,Republika Srpska,41364
+2013,Broj,Ž,40-44,Republika Srpska,38816
+2013,Broj,Ž,45-49,Republika Srpska,43189
+2013,Broj,Ž,50-54,Republika Srpska,48481
+2013,Broj,Ž,55-59,Republika Srpska,49527
+2013,Broj,Ž,60-64,Republika Srpska,46818
+2013,Broj,Ž,65-69,Republika Srpska,33388
+2013,Broj,Ž,70-74,Republika Srpska,32123
+2013,Broj,Ž,75-79,Republika Srpska,29226
+2013,Broj,Ž,80-84,Republika Srpska,16246
+2013,Broj,Ž,85+,Republika Srpska,7844
+2013,Broj,Ž,Unknown,Republika Srpska,0
+2013,Broj,Ž,Total,Republika Srpska,625396
+2013,Broj,Ž,0-14,Republika Srpska,84681
+2013,Broj,Ž,15-29,Republika Srpska,111786
+2013,Broj,Ž,15-49,Republika Srpska,277062
+2013,Broj,Ž,15-64,Republika Srpska,421888
+2013,Broj,Ž,65+,Republika Srpska,118827
+2013,Broj,Ž,75+,Republika Srpska,53316
 2013,Broj,Oba spola,0-4,Brčko Distrikt BiH,4165
 2013,Broj,Oba spola,5-9,Brčko Distrikt BiH,4312
 2013,Broj,Oba spola,10-14,Brčko Distrikt BiH,4604
@@ -181,55 +181,55 @@ Year,UNIT_MEASURE,Spol,AGE,Entitet,Value
 2013,Broj,Oba spola,15-64,Brčko Distrikt BiH,58299
 2013,Broj,Oba spola,65+,Brčko Distrikt BiH,12136
 2013,Broj,Oba spola,75+,Brčko Distrikt BiH,4869
-2013,Broj,Muškarci,0-4,Brčko Distrikt BiH,2178
-2013,Broj,Muškarci,5-9,Brčko Distrikt BiH,2235
-2013,Broj,Muškarci,10-14,Brčko Distrikt BiH,2411
-2013,Broj,Muškarci,15-19,Brčko Distrikt BiH,2719
-2013,Broj,Muškarci,20-24,Brčko Distrikt BiH,2528
-2013,Broj,Muškarci,25-29,Brčko Distrikt BiH,2908
-2013,Broj,Muškarci,30-34,Brčko Distrikt BiH,2914
-2013,Broj,Muškarci,35-39,Brčko Distrikt BiH,3125
-2013,Broj,Muškarci,40-44,Brčko Distrikt BiH,3126
-2013,Broj,Muškarci,45-49,Brčko Distrikt BiH,3436
-2013,Broj,Muškarci,50-54,Brčko Distrikt BiH,3325
-2013,Broj,Muškarci,55-59,Brčko Distrikt BiH,2862
-2013,Broj,Muškarci,60-64,Brčko Distrikt BiH,2399
-2013,Broj,Muškarci,65-69,Brčko Distrikt BiH,1746
-2013,Broj,Muškarci,70-74,Brčko Distrikt BiH,1459
-2013,Broj,Muškarci,75-79,Brčko Distrikt BiH,1143
-2013,Broj,Muškarci,80-84,Brčko Distrikt BiH,513
-2013,Broj,Muškarci,85+,Brčko Distrikt BiH,223
-2013,Broj,Muškarci,Unknown,Brčko Distrikt BiH,0
-2013,Broj,Muškarci,Total,Brčko Distrikt BiH,41250
-2013,Broj,Muškarci,0-14,Brčko Distrikt BiH,6824
-2013,Broj,Muškarci,15-29,Brčko Distrikt BiH,8155
-2013,Broj,Muškarci,15-49,Brčko Distrikt BiH,20756
-2013,Broj,Muškarci,15-64,Brčko Distrikt BiH,29342
-2013,Broj,Muškarci,65+,Brčko Distrikt BiH,5084
-2013,Broj,Muškarci,75+,Brčko Distrikt BiH,1879
-2013,Broj,Žene,0-4,Brčko Distrikt BiH,1987
-2013,Broj,Žene,5-9,Brčko Distrikt BiH,2077
-2013,Broj,Žene,10-14,Brčko Distrikt BiH,2193
-2013,Broj,Žene,15-19,Brčko Distrikt BiH,2604
-2013,Broj,Žene,20-24,Brčko Distrikt BiH,2408
-2013,Broj,Žene,25-29,Brčko Distrikt BiH,2821
-2013,Broj,Žene,30-34,Brčko Distrikt BiH,3077
-2013,Broj,Žene,35-39,Brčko Distrikt BiH,2981
-2013,Broj,Žene,40-44,Brčko Distrikt BiH,3019
-2013,Broj,Žene,45-49,Brčko Distrikt BiH,3137
-2013,Broj,Žene,50-54,Brčko Distrikt BiH,3248
-2013,Broj,Žene,55-59,Brčko Distrikt BiH,2913
-2013,Broj,Žene,60-64,Brčko Distrikt BiH,2749
-2013,Broj,Žene,65-69,Brčko Distrikt BiH,2162
-2013,Broj,Žene,70-74,Brčko Distrikt BiH,1900
-2013,Broj,Žene,75-79,Brčko Distrikt BiH,1720
-2013,Broj,Žene,80-84,Brčko Distrikt BiH,887
-2013,Broj,Žene,85+,Brčko Distrikt BiH,383
-2013,Broj,Žene,Unknown,Brčko Distrikt BiH,0
-2013,Broj,Žene,Total,Brčko Distrikt BiH,42266
-2013,Broj,Žene,0-14,Brčko Distrikt BiH,6257
-2013,Broj,Žene,15-29,Brčko Distrikt BiH,7833
-2013,Broj,Žene,15-49,Brčko Distrikt BiH,20047
-2013,Broj,Žene,15-64,Brčko Distrikt BiH,28957
-2013,Broj,Žene,65+,Brčko Distrikt BiH,7052
-2013,Broj,Žene,75+,Brčko Distrikt BiH,2990
+2013,Broj,M,0-4,Brčko Distrikt BiH,2178
+2013,Broj,M,5-9,Brčko Distrikt BiH,2235
+2013,Broj,M,10-14,Brčko Distrikt BiH,2411
+2013,Broj,M,15-19,Brčko Distrikt BiH,2719
+2013,Broj,M,20-24,Brčko Distrikt BiH,2528
+2013,Broj,M,25-29,Brčko Distrikt BiH,2908
+2013,Broj,M,30-34,Brčko Distrikt BiH,2914
+2013,Broj,M,35-39,Brčko Distrikt BiH,3125
+2013,Broj,M,40-44,Brčko Distrikt BiH,3126
+2013,Broj,M,45-49,Brčko Distrikt BiH,3436
+2013,Broj,M,50-54,Brčko Distrikt BiH,3325
+2013,Broj,M,55-59,Brčko Distrikt BiH,2862
+2013,Broj,M,60-64,Brčko Distrikt BiH,2399
+2013,Broj,M,65-69,Brčko Distrikt BiH,1746
+2013,Broj,M,70-74,Brčko Distrikt BiH,1459
+2013,Broj,M,75-79,Brčko Distrikt BiH,1143
+2013,Broj,M,80-84,Brčko Distrikt BiH,513
+2013,Broj,M,85+,Brčko Distrikt BiH,223
+2013,Broj,M,Unknown,Brčko Distrikt BiH,0
+2013,Broj,M,Total,Brčko Distrikt BiH,41250
+2013,Broj,M,0-14,Brčko Distrikt BiH,6824
+2013,Broj,M,15-29,Brčko Distrikt BiH,8155
+2013,Broj,M,15-49,Brčko Distrikt BiH,20756
+2013,Broj,M,15-64,Brčko Distrikt BiH,29342
+2013,Broj,M,65+,Brčko Distrikt BiH,5084
+2013,Broj,M,75+,Brčko Distrikt BiH,1879
+2013,Broj,Ž,0-4,Brčko Distrikt BiH,1987
+2013,Broj,Ž,5-9,Brčko Distrikt BiH,2077
+2013,Broj,Ž,10-14,Brčko Distrikt BiH,2193
+2013,Broj,Ž,15-19,Brčko Distrikt BiH,2604
+2013,Broj,Ž,20-24,Brčko Distrikt BiH,2408
+2013,Broj,Ž,25-29,Brčko Distrikt BiH,2821
+2013,Broj,Ž,30-34,Brčko Distrikt BiH,3077
+2013,Broj,Ž,35-39,Brčko Distrikt BiH,2981
+2013,Broj,Ž,40-44,Brčko Distrikt BiH,3019
+2013,Broj,Ž,45-49,Brčko Distrikt BiH,3137
+2013,Broj,Ž,50-54,Brčko Distrikt BiH,3248
+2013,Broj,Ž,55-59,Brčko Distrikt BiH,2913
+2013,Broj,Ž,60-64,Brčko Distrikt BiH,2749
+2013,Broj,Ž,65-69,Brčko Distrikt BiH,2162
+2013,Broj,Ž,70-74,Brčko Distrikt BiH,1900
+2013,Broj,Ž,75-79,Brčko Distrikt BiH,1720
+2013,Broj,Ž,80-84,Brčko Distrikt BiH,887
+2013,Broj,Ž,85+,Brčko Distrikt BiH,383
+2013,Broj,Ž,Unknown,Brčko Distrikt BiH,0
+2013,Broj,Ž,Total,Brčko Distrikt BiH,42266
+2013,Broj,Ž,0-14,Brčko Distrikt BiH,6257
+2013,Broj,Ž,15-29,Brčko Distrikt BiH,7833
+2013,Broj,Ž,15-49,Brčko Distrikt BiH,20047
+2013,Broj,Ž,15-64,Brčko Distrikt BiH,28957
+2013,Broj,Ž,65+,Brčko Distrikt BiH,7052
+2013,Broj,Ž,75+,Brčko Distrikt BiH,2990

@@ -1,4 +1,4 @@
-Year,Spol,AGE,UNIT_MEASURE,Value
+Year,SPOL,AGE,UNIT_MEASURE,Value
 2013,Oba spola,0-14,Broj,4525.0
 2013,Oba spola,15-19,Broj,2886.0
 2013,Oba spola,20-29,Broj,6398.0
@@ -13,31 +13,31 @@ Year,Spol,AGE,UNIT_MEASURE,Value
 2013,Oba spola,50-59,% od ukupnog broja,19.5522652
 2013,Oba spola,60-64,% od ukupnog broja,11.7524434
 2013,Oba spola,65+,% od ukupnog broja,50.3298669
-2013,Muškarci,0-14,Broj,2606.0
-2013,Muškarci,15-19,Broj,1641.0
-2013,Muškarci,20-29,Broj,3821.0
-2013,Muškarci,30-49,Broj,25762.0
-2013,Muškarci,50-59,Broj,30653.0
-2013,Muškarci,60-64,Broj,16157.0
-2013,Muškarci,65+,Broj,52335.0
-2013,Muškarci,0-14,% od ukupnog broja,1.959766873
-2013,Muškarci,15-19,% od ukupnog broja,1.234066554
-2013,Muškarci,20-29,% od ukupnog broja,2.873472457
-2013,Muškarci,30-49,% od ukupnog broja,19.37356646
-2013,Muškarci,50-59,% od ukupnog broja,23.05170145
-2013,Muškarci,60-64,% od ukupnog broja,12.15040421
-2013,Muškarci,65+,% od ukupnog broja,39.357022
-2013,Žene,0-14,Broj,1919.0
-2013,Žene,15-19,Broj,1245.0
-2013,Žene,20-29,Broj,2577.0
-2013,Žene,30-49,Broj,14434.0
-2013,Žene,50-59,Broj,26842.0
-2013,Žene,60-64,Broj,18402.0
-2013,Žene,65+,Broj,95664.0
-2013,Žene,0-14,% od ukupnog broja,1.191311312
-2013,Žene,15-19,% od ukupnog broja,0.772893477
-2013,Žene,20-29,% od ukupnog broja,1.599796378
-2013,Žene,30-49,% od ukupnog broja,8.960597953
-2013,Žene,50-59,% od ukupnog broja,16.66345921
-2013,Žene,60-64,% od ukupnog broja,11.42392431
-2013,Žene,65+,% od ukupnog broja,59.38801736
+2013,M,0-14,Broj,2606.0
+2013,M,15-19,Broj,1641.0
+2013,M,20-29,Broj,3821.0
+2013,M,30-49,Broj,25762.0
+2013,M,50-59,Broj,30653.0
+2013,M,60-64,Broj,16157.0
+2013,M,65+,Broj,52335.0
+2013,M,0-14,% od ukupnog broja,1.959766873
+2013,M,15-19,% od ukupnog broja,1.234066554
+2013,M,20-29,% od ukupnog broja,2.873472457
+2013,M,30-49,% od ukupnog broja,19.37356646
+2013,M,50-59,% od ukupnog broja,23.05170145
+2013,M,60-64,% od ukupnog broja,12.15040421
+2013,M,65+,% od ukupnog broja,39.357022
+2013,Ž,0-14,Broj,1919.0
+2013,Ž,15-19,Broj,1245.0
+2013,Ž,20-29,Broj,2577.0
+2013,Ž,30-49,Broj,14434.0
+2013,Ž,50-59,Broj,26842.0
+2013,Ž,60-64,Broj,18402.0
+2013,Ž,65+,Broj,95664.0
+2013,Ž,0-14,% od ukupnog broja,1.191311312
+2013,Ž,15-19,% od ukupnog broja,0.772893477
+2013,Ž,20-29,% od ukupnog broja,1.599796378
+2013,Ž,30-49,% od ukupnog broja,8.960597953
+2013,Ž,50-59,% od ukupnog broja,16.66345921
+2013,Ž,60-64,% od ukupnog broja,11.42392431
+2013,Ž,65+,% od ukupnog broja,59.38801736

@@ -1,4 +1,4 @@
-Year,Spol,UNIT_MEASURE,Value
+Year,SPOL,UNIT_MEASURE,Value
 2020,Oba spola,number_birth_rate,10.9
 2025,Oba spola,number_birth_rate,11.9
 2030,Oba spola,number_birth_rate,13.1
@@ -10,25 +10,25 @@ Year,Spol,UNIT_MEASURE,Value
 2060,Oba spola,number_birth_rate,20.7
 2065,Oba spola,number_birth_rate,21.5
 2070,Oba spola,number_birth_rate,22.2
-2020,Muškarci,number_birth_rate,11.4
-2025,Muškarci,number_birth_rate,12.5
-2030,Muškarci,number_birth_rate,13.8
-2035,Muškarci,number_birth_rate,15.3
-2040,Muškarci,number_birth_rate,16.9
-2045,Muškarci,number_birth_rate,18.5
-2050,Muškarci,number_birth_rate,19.8
-2055,Muškarci,number_birth_rate,20.9
-2060,Muškarci,number_birth_rate,21.9
-2065,Muškarci,number_birth_rate,22.6
-2070,Muškarci,number_birth_rate,23.1
-2020,Žene,number_birth_rate,10.52
-2025,Žene,number_birth_rate,11.42
-2030,Žene,number_birth_rate,12.48
-2035,Žene,number_birth_rate,13.75
-2040,Žene,number_birth_rate,15.19
-2045,Žene,number_birth_rate,16.66
-2050,Žene,number_birth_rate,17.9
-2055,Žene,number_birth_rate,18.93
-2060,Žene,number_birth_rate,19.79
-2065,Žene,number_birth_rate,20.64
-2070,Žene,number_birth_rate,21.5
+2020,M,number_birth_rate,11.4
+2025,M,number_birth_rate,12.5
+2030,M,number_birth_rate,13.8
+2035,M,number_birth_rate,15.3
+2040,M,number_birth_rate,16.9
+2045,M,number_birth_rate,18.5
+2050,M,number_birth_rate,19.8
+2055,M,number_birth_rate,20.9
+2060,M,number_birth_rate,21.9
+2065,M,number_birth_rate,22.6
+2070,M,number_birth_rate,23.1
+2020,Ž,number_birth_rate,10.52
+2025,Ž,number_birth_rate,11.42
+2030,Ž,number_birth_rate,12.48
+2035,Ž,number_birth_rate,13.75
+2040,Ž,number_birth_rate,15.19
+2045,Ž,number_birth_rate,16.66
+2050,Ž,number_birth_rate,17.9
+2055,Ž,number_birth_rate,18.93
+2060,Ž,number_birth_rate,19.79
+2065,Ž,number_birth_rate,20.64
+2070,Ž,number_birth_rate,21.5

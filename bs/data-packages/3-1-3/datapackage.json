@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 "Oba spola",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",

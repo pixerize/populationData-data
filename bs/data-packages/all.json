@@ -28,12 +28,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -126,12 +126,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Value",
@@ -168,12 +168,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -232,12 +232,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "UNIT_MEASURE",
@@ -363,12 +363,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -532,12 +532,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "UNIT_MEASURE",
@@ -720,12 +720,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -1040,12 +1040,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -1277,7 +1277,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -1328,12 +1328,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "EDUCATION",
@@ -1402,12 +1402,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Value",
@@ -1487,12 +1487,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -1747,12 +1747,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1794,12 +1794,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -1875,12 +1875,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1921,12 +1921,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2038,13 +2038,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 "Oba spola",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -2095,12 +2095,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2152,12 +2152,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2416,12 +2416,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2517,12 +2517,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "ENROLMENT",
@@ -2568,12 +2568,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2717,12 +2717,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2859,12 +2859,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -2993,12 +2993,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
@@ -3139,12 +3139,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -3195,12 +3195,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "CAUSE_OF_DEATH",
@@ -3288,12 +3288,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -3610,12 +3610,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -3670,12 +3670,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Value",
@@ -4026,12 +4026,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -4082,12 +4082,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "Entity",
@@ -4138,12 +4138,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "BIRTHS",
@@ -4284,12 +4284,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "SPOL"
           },
           {
             "name": "AGE",
