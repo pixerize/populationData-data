@@ -1,25 +1,19 @@
 Year,UNIT_MEASURE,Spol,Godine,Municipality,Value
-2013,Broj,Oba spola,Total,Banja Luka,185042
-2013,Broj,Oba spola,0-4,Banja Luka,9610
-2013,Broj,Žene,Total,Banja Luka,95894
-2013,Broj,Žene,0-4,Banja Luka,4712
-2013,Broj,Muškarci,Total,Banja Luka,89148
-2013,Broj,Muškarci,0-4,Banja Luka,4898
-2013,Broj,Oba spola,Total,Bijeljina,107715
-2013,Broj,Oba spola,0-4,Bijeljina,5080
-2013,Broj,Žene,Total,Bijeljina,54888
-2013,Broj,Žene,0-4,Bijeljina,2443
-2013,Broj,Muškarci,Total,Bijeljina,52827
-2013,Broj,Muškarci,0-4,Bijeljina,2637
-2013,Broj,Oba spola,Total,Bosanska Krupa,25545
-2013,Broj,Oba spola,0-4,Bosanska Krupa,1423
-2013,Broj,Žene,Total,Bosanska Krupa,12997
-2013,Broj,Žene,0-4,Bosanska Krupa,688
-2013,Broj,Muškarci,Total,Bosanska Krupa,12548
-2013,Broj,Muškarci,0-4,Bosanska Krupa,735
-2013,Broj,Oba spola,Total,Bosanski Petrovac,7328
-2013,Broj,Oba spola,0-4,Bosanski Petrovac,249
-2013,Broj,Žene,Total,Bosanski Petrovac,3650
-2013,Broj,Žene,0-4,Bosanski Petrovac,123
-2013,Broj,Muškarci,Total,Bosanski Petrovac,3678
-2013,Broj,Muškarci,0-4,Bosanski Petrovac,126
+2013,Broj,Oba spola,1,Banja Luka,185042
+2013,Broj,Oba spola,2,Banja Luka,9610
+2013,Broj,Žene,1,Banja Luka,95894
+2013,Broj,Žene,2,Banja Luka,4712
+2013,Broj,Muškarci,1,Banja Luka,89148
+2013,Broj,Muškarci,2,Banja Luka,4898
+2013,Broj,Oba spola,1,Bijeljina,107715
+2013,Broj,Oba spola,2,Bijeljina,5080
+2013,Broj,Žene,1,Bijeljina,54888
+2013,Broj,Žene,2,Bijeljina,2443
+2013,Broj,Muškarci,1,Bijeljina,52827
+2013,Broj,Muškarci,2,Bijeljina,2637
+2013,Broj,Oba spola,1,Bosanska Krupa,25545
+2013,Broj,Oba spola,2,Bosanska Krupa,1423
+2013,Broj,Žene,1,Bosanska Krupa,12997
+2013,Broj,Žene,2,Bosanska Krupa,688
+2013,Broj,Muškarci,1,Bosanska Krupa,12548
+2013,Broj,Muškarci,2,Bosanska Krupa,735

@@ -2326,8 +2326,8 @@
             "constraints": {
               "enum": [
                 "",
-                "0-4",
-                "Total"
+                "1",
+                "2"
               ]
             },
             "title": "Age"
@@ -2340,8 +2340,7 @@
                 "",
                 "Banja Luka",
                 "Bijeljina",
-                "Bosanska Krupa",
-                "Bosanski Petrovac"
+                "Bosanska Krupa"
               ]
             },
             "title": "Municipality"

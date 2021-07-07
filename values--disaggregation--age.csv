@@ -2,9 +2,9 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 0-14,0-14,0-14,0-14,0-14,27,4
 0-15,0-15,0-15,0-15,0-15,1,1
 0-18,0-18,0-18,0-18,0-18,6,1
-0-4,0-4,0-4,0-4,0-4,457,6
+0-4,0-4,0-4,0-4,0-4,445,5
 0,0,0,0,0,21,3
-1,1,1,1,1,21,3
+1,1,1,1,1,30,4
 10-14,10-14,10-14,10-14,10-14,452,6
 10,10,10,10,10,21,3
 100-104,100-104,100-104,100-104,100-104,14,3
@@ -54,7 +54,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 18-24,18-24,18-24,18-24,18-24,3,1
 18,18,18,18,18,21,3
 19,19,19,19,19,21,3
-2,2,2,2,2,21,3
+2,2,2,2,2,30,4
 20-24,20-24,20-24,20-24,20-24,453,7
 20-29,20-29,20-29,20-29,20-29,6,1
 20,20,20,20,20,21,3
@@ -175,5 +175,5 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 98,98,98,98,98,12,2
 99,99,99,99,99,12,2
 _ALL,All,_ALL,_ALL,_ALL,3,1
-Total,Total,Total,Total,Total,474,7
+Total,Total,Total,Total,Total,462,6
 Unknown,Unknown,Unknown,Unknown,Unknown,30,4

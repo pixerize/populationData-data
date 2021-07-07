@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "0-4",
+                "1",
+                "2",
                 ""
               ]
             }
@@ -49,7 +49,6 @@
                 "Banja Luka",
                 "Bijeljina",
                 "Bosanska Krupa",
-                "Bosanski Petrovac",
                 ""
               ]
             }
