@@ -1,9 +1,9 @@
 Year,UNIT_MEASURE,Entitet,Value
-2006,% od ukupnog broja,BiH,60.5
-2006,% od ukupnog broja,Federacija BiH,59.0
-2006,% od ukupnog broja,Republika Srpska,63.6
-2006,% od ukupnog broja,Brčko Distrikt BiH,52.0
-2011,% od ukupnog broja,BiH,84.0
-2011,% od ukupnog broja,Federacija BiH,81.5
-2011,% od ukupnog broja,Republika Srpska,88.9
-2011,% od ukupnog broja,Brčko Distrikt BiH,65.3
+2006,_%,BiH,60.5
+2006,_%,Federacija BiH,59.0
+2006,_%,Republika Srpska,63.6
+2006,_%,Brčko Distrikt BiH,52.0
+2011,_%,BiH,84.0
+2011,_%,Federacija BiH,81.5
+2011,_%,Republika Srpska,88.9
+2011,_%,Brčko Distrikt BiH,65.3
