@@ -4315,30 +4315,6 @@
         ]
       },
       "title": "Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava"
-    },
-    {
-      "path": "1-c-7/data.csv",
-      "name": "1-c-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.1-c-7-title"
     }
   ]
 }

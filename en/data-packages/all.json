@@ -4315,30 +4315,6 @@
         ]
       },
       "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
-    },
-    {
-      "path": "1-c-7/data.csv",
-      "name": "1-c-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "New indicator"
     }
   ]
 }
