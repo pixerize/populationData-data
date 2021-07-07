@@ -2331,19 +2331,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Žene",
-                "Muškarci",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
@@ -2355,6 +2342,19 @@
               ]
             },
             "title": "AGE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Žene",
+                "Muškarci",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "Municipality",

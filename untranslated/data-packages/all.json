@@ -2170,18 +2170,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
@@ -2189,6 +2177,18 @@
                 "Total",
                 "0-4",
                 "5-9",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "F",
+                "M",
                 ""
               ]
             }
