@@ -36,11 +36,11 @@ loading: Učitavanje
 loading_map: Učitavanje mape
 national_metadata: Metapodaci
 national_metadata_blurb: " "
-global_metadata: Globalni metapodaci
-global_metadata_blurb: Ova tabela pruža informacije o metapodacima za SDG indikatore kako ih je definisala Statistička komisija UN-a. Kompletne globalne metapodatke pruža Odjel za statistiku UN-a.
+global_metadata: Metapodaci
 edit: Uredi
 edit_data: Uredi podatke
 edit_metadata: Uredi metapodatke
-data_not_available: Ovi podaci nisu dostupni. Odaberite alternativne podatke za prikaz.
-previous: Prethodni indikator
-next: Sljedeći indikator
+previous: Prethodni stat
+next: Sljedeći stat
+data_not_available: Ovi podaci nisu na raspolaganju. Odaberite dodatne podkategorije.
+unit: Jedinica
