@@ -2,4 +2,280 @@ Year: Godina
 Sex: Spol
 Month: Mjesec
 Value: Vrijednost
-Entity: "Administrativno područje"
+FBIH: Federacija BiH
+RS: Republika Srpska
+BD: Brčko distrikt BiH
+Bothsex: Oba spola
+Male: M
+Female: Ž
+AGE: Starosna dob
+KG: Kilogrami
+NUMBER: Broj
+UNIT_MEASURE: Mjerna jedinica
+USD: USD
+_%: "% od ukupno"
+Type: Vrsta
+Age: Starosna dob
+all: Svi
+BIRTHS: Vitalna statistika
+LIVE_BIRTH: Živorođeni
+DEATHS: Smrtni slučajevi
+NATURAL_CHANGE: Prirodno kretanje
+total_support_ratio: Ukupan omjer ekonomske podrške
+young_age_support_ratio: Omjer ekonomske podrške mladima
+old_age_support_ratio: Omjer ekonomske podrške starijim osobama
+older_persons_to_youth_ratio: Omjer starijih i mladih
+_ALL: Svi
+FERTILITY_RATE: Stopa fertiliteta
+total_fertility_rate: Ukupna stopa fertiliteta
+age_specific_fertility_rates: Stope fertiliteta prema dobi
+total_millions: Ukupno (u milionima)
+enrolment_in_pre_school: Predškolski odgoj i obrazovanje
+enrolment_in_primary_school_education: Osnovna škola
+enrolment_in_high_school_education: Srednja škola
+enrolment_in_higher_education: Visoko obrazovanje /univerzitet
+ENROLMENT: Vrsta obrazovne ustanove
+per_capita: Po glavi stanovnika
+real_gdp_growth: Rast realnog BDP-a
+total_millions: Ukupno (u milionima)
+QUANTITY: Količina
+households_in_poverty: "Domaćinstva u siromaštvu (%)"
+population_in_poverty: "Stanovništvo u siromaštvu (%)"
+males_in_poverty: "Muškarci u siromaštvu (%)"
+females_in_poverty: "Žene u siromaštvu (%)"
+POVERTY_RATE: Stopa siromaštva
+active_labour_force: "Aktivna (radna snaga) kao % radno sposobnog stanovništva"
+employed_as_of_working: "Zaposleni kao % radno sposobnog stanovništva"
+unemployed_as_of_working: "Nezaposleni kao % radno sposobnog stanovništva"
+unemployed_as_of_labour: "Nezaposleni kao % radne snage"
+inactive_as_of_working: "Neaktivni kao % radno sposobnog stanovništva"
+ACTIVITY_RATES: Stope aktivnosti
+total_15: Ukupno 15+
+no_education: Bez obrazovanja
+incomplete_primary_education: Nepotpuno osnovno obrazovanje
+primary_school: Osnovna škola
+secondary_school: Srednja škola
+higher_school_and_first_grade_of_faculty: Visoko obrazovanje i prva godina fakulteta
+advanced_schools_faculty_academy_university: Napredne škole /fakultet /akademija /univerzitet
+unknown: Nepoznato
+total_illiterate: Ukupno nepismeni
+of_total_for_age_group: "% od ukupno za starosnu grupu"
+CAUSE_OF_DEATH: Uzrok smrti (prema šiframa bolesti po MKB-10)
+infectious_and_parasitic: "(A00-B99) Zarazne i parazitarne bolesti"
+neoplasms: "(C00-C97,D00-D48) Neoplazme"
+diseases_of_the_blood: "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema"
+endocrine_metabolic_and_nutritional: "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma"
+mental_and_behavioural_disorders: "(F00-F99) Duševni poremećaji i poremećaji ponašanja"
+diseases_of_the_nervous: "(G00-G99) Bolesti nervnog sistema"
+diseases_of_the_eye: "(H00-H93) Bolesti oka, uha i adneksa"
+diseases_of_the_circulatory: "(I00-I99) Bolesti cirkulacijskog sistema"
+diseases_of_the_respiratory: "(J00-J99) Bolesti respiratornog sistema"
+diseases_of_the_digestive: "(K00-K93) Bolesti digestivnog sistema"
+diseases_of_the_skin: "(L00-L99) Bolesti kože i potkožnog tkiva" 
+diseases_of_the_musculoskeletal: "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva"
+diseases_of_the_genitourinary: "(N00-N99) Bolesti genitalno-urinarnog sistema"
+pregnancy_childbirth_and_the: "(O00-O99) Trudnoća, porođaj i postporođajni period"
+certain_conditions_originating: "(P00-P96) Određena stanja nastala u perinatalnom periodu"
+congenital_malformations_deformations: "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti"
+symptoms_signs_and_abnormal: "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani"
+injuries_poisoning_and_consequences: "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom"
+external_causes_of_mortality: "(V01-Y98) Vanjski uzroci smrtnosti"
+factors_influencing_health_status: "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom"
+total: Ukupno
+EDUCATION: Nivo obrazovanja
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Žene koje su doživjele bilo koji oblik nasilja u dobi od 15 godina (bilo kada)
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever): Žene koje su doživjele bilo koji oblik nasilja od partnera nakon navršenih 15 godina života (bilo kada)
+women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele bilo koji oblik nasilja od partnera nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_18-24_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 18-24 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_25-34_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 25-34 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_35-44_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 35-44 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_45-54_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 45-54 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_55-64_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 55-64 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_65+_years_of_age: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – u dobi 65+ 
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_urban_areas: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – urbana područja
+women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever)_-_rural_areas: Žene koje su doživjele bilo koji oblik nasilja nakon navršenih 15 godina života (bilo kada) – ruralna područja
+women_who_have_experienced_psychological_violence_after_the_age_of_15_(ever): Žene koje su doživjele psihološko nasilje nakon navršenih 15 godina života (bilo kada)
+women_who_have_experienced_psychological_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele psihološko nasilje nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(ever): Žene koje su doživjele psihološko nasilje od intimnog partnera (sadašnjeg ili bivšeg) (bilo kada)
+women_who_have_experienced_psychological_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months): Žene koje su doživjele psihološko nasilje od intimnog partnera (sadašnjeg ili bivšeg) (u proteklih 12 mjeseci)
+women_who_have_experienced_psychological_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever): Žene koje su doživjele psihološko nasilje od srodnika ili člana porodice (osim intimnog partnera) (bilo kada)
+women_who_have_experienced_psychological_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever): Žene koje su doživjele psihološko nasilje u široj zajednici (ne od srodnika ili intimnog partnera) (bilo kada)
+women_who_have_experienced_physical_violence_after_the_age_of_15_(ever): Žene koje su doživjele fizičko nasilje nakon navršenih 15 godina života (bilo kada)
+women_who_have_experienced_physical_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele fizičko nasilje nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(ever): Žene koje su doživjele fizičko nasilje od intimnog partnera (sadašnjeg ili bivšeg) (bilo kada)
+women_who_have_experienced_physical_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months): Žene koje su doživjele fizičko nasilje od intimnog partnera (sadašnjeg ili bivšeg) (u proteklih 12 mjeseci)
+women_who_have_experienced_physical_violence_by_relatives_or_family_(other_than_intimate_partner)_(ever): Žene koje su doživjele fizičko nasilje od srodnika ili člana porodice (osim intimnog partnera) (bilo kada)
+women_who_have_experienced_physical_violence_in_broader_community_(not_relatives_or_intimate_partner)_(ever): Žene koje su doživjele fizičko nasilje u široj zajednici (ne od srodnika ili intimnog partnera) (bilo kada)
+women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(ever): Žene koje su doživjele fizičko nasilje u široj zajednici (ne od intimnog partnera) (bilo kada)
+women_who_have_experienced_physical_violence_in_broader_community_(not_intimate_partner)_(past_12_months): Žene koje su doživjele fizičko nasilje u široj zajednici (ne od intimnog partnera) (u proteklih 12 mjeseci)
+women_who_have_experienced_sexual_violence_after_the_age_of_15_(ever): Žene koje su doživjele seksualno nasilje nakon navršenih 15 godina života (bilo kada)
+women_who_have_experienced_sexual_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele seksualno nasilje nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(ever): Žene koje su doživjele seksualno nasilje od intimnog partnera (sadašnjeg ili bivšeg) (bilo kada)
+women_who_have_experienced_sexual_violence_by_intimate_partner_(current_or_former_partner)_(past_12_months): Žene koje su doživjele seksualno nasilje od intimnog partnera (sadašnjeg ili bivšeg) (u proteklih 12 mjeseci)
+women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(ever): Žene koje su doživjele seksualno nasilje u široj zajednici (ne od intimnog partnera) (bilo kada)
+women_who_have_experienced_sexual_violence_in_broader_community_(not_intimate_partner)_(past_12_months): Žene koje su doživjele seksualno nasilje u široj zajednici (ne od intimnog partnera) (u proteklih 12 mjeseci)
+women_who_have_experienced_sexual_harassment_after_the_age_of_15_(ever): Žene koje su doživjele seksualno zlostavljanje nakon navršenih 15 godina života (bilo kada) 
+women_who_have_experienced_sexual_harassment_after_the_age_of_15_(past_12_months): Žene koje su doživjele seksualno zlostavljanje nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+women_who_have_experienced_economic_violence_after_the_age_of_15_(ever): Žene koje su doživjele ekonomsko nasilje nakon navršenih 15 godina života (bilo kada)
+women_who_have_experienced_economic_violence_after_the_age_of_15_(past_12_months): Žene koje su doživjele ekonomsko nasilje nakon navršenih 15 godina života (u proteklih 12 mjeseci)
+FORM_OF_VIOLENCE: Oblik nasilja
+SURVEY_IMPLEMENTED_BY: Istraživanje proveo
+_%_labour: "% radne snage"
+estimated_number_of_population: Procjena stanovništva
+STILLBIRTH_RATE: Stopa mrtvorođenih
+per_1000: Na 1.000 živorođenih
+number_of_stillbirths: Broj mrtvorođenih
+health_indicators: Indikatori zdravlja
+number_of_new_cases_of_cervical_cancer: Broj novih slučajeva raka grlića materice
+number_of_new_cases_of_cervical_cancer_per_100000_female_population: Broj novih slučajeva raka dojke na 100.000 žena
+number_of_new_cases_of_female_breast_cancer_per_100000: Broj novih slučajeva raka dojke kod žena na 100.000 žena
+number_of_new_cases_of_female_breast_cancer: Broj novih slučajeva raka dojke kod žena 
+number_of_new_cases_of_syphilis: Broj novih slučajeva sifilisa
+number_of_new_cases_of_gonorrhea: Broj novih slučajeva gonoreje
+number_of_new_cases_of_AIDS_clinically_diagnosed: Broj novih slučajeva klinički dijagnosticiranog AIDS-a
+number_of_new_cases_of_HIV: Broj novih slučajeva HIV infekcije
+number_of_new_cases_of_HIV_per_100000_population: Broj novih slučajeva HIV infekcije na 100.000 stanovnika
+number_of_caesarean_sections: Broj carskih rezova
+number_of_caesarean_sections_per_1000_live_births: Broj carskih rezova na 1.000 živorođenih
+number_of_beds_in_hospitals: Broj bolničkih kreveta
+number_of_beds_in_hospitals_per_100000_population: Broj bolničkih kreveta na 100.000 stanovnika
+number_of_medical_doctors_providing_health_care_in_public_institutions: Broj doktora medicine koji pružaju zdravstvene usluge u javnim ustanovama
+number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population: Broj doktora medicine koji pružaju zdravstvene usluge u javnim ustanovama na 100.000 stanovnika
+number_of_general_practitioners: Broj doktora opće medicine
+number_of_population_per_general_practitioner: Broj stanovnika na jednog doktora opće medicine
+number_of_midwives: Broj babica
+total_population_(as_per_Public_Health_Institute_or_NSO_reports): Ukupno stanovništvo (prema izvještajima Zavoda za javno zdravstvo ili Zavoda/Agencije za statistiku)
+male_population: Muško stanovništvo
+female_population: Žensko stanovništvo
+contraceptive_prevalence_rate_(total): Stopa prevalencije kontracepcije (ukupno)
+contraceptive_prevalence_rate_(traditional_methods): Stopa prevalencije kontracepcije (tradicionalne metode)
+contraceptive_prevalence_rate_(modern_methods): Stopa prevalencije kontracepcije (savremene metode)
+unmet_need_for_family_planning: Neostvarena potreba za planiranjem porodice
+satisfied_demand_for_family_planning: Zadovoljena potražnja za planiranjem porodice
+skilled_attendant_at_delivery: Porođaj u prisustvu stručne osobe 
+institutional_deliveries: Porođaj u zdravstvenoj ustanovi
+marriage_before_age_15_(women_15-49): Brak prije navršenih 15 godina (žene u dobi 15-49)
+marriage_before_age_15_(men_15-49): Brak prije navršenih 15 godina (muškarci u dobi 15-49)
+marriage_before_age_18_(women_20-49): Brak prije navršenih 18 godina (žene u dobi 20-49)
+marriage_before_age_18_(men_20-49): Brak prije navršenih 18 godina (žene u dobi 20-49)
+young_women_aged_15-19_years_currently_married_or_in_union: Mlade žene u dobi 15-19 koje su trenutno u braku ili vanbračnoj zajednici
+young_men_aged_15-19_years_currently_married_or_in_union: Mladi muškarci u dobi 15-19 koji su trenutno u braku ili vanbračnoj zajednici
+husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49): Suprug/ partner ima pravo udariti ili tući svoju suprugu/partnericu (žene u dobi 15-49)
+husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49): Suprug/ partner ima pravo udariti ili tući svoju suprugu/partnericu (muškarci u dobi 15-49)
+comprehensive_knowledge_about_hiv_prevention_(women_15-49): Sveobuhvatno znanje o prevenciji HIV-a (žene u dobi 15-49)
+comprehensive_knowledge_about_hiv_prevention_(men_15-49): Sveobuhvatno znanje o prevenciji HIV-a (muškarci u dobi 15-49)
+comprehensive_knowledge_about_hiv_prevention_(women_15-24): Sveobuhvatno znanje o prevenciji HIV-a (žene u dobi 15-24)
+comprehensive_knowledge_about_hiv_prevention_(men_15-24): Sveobuhvatno znanje o prevenciji HIV-a (muškarci u dobi 15-24)
+accepting_attitudes_towards_people_living_with_hiv_(women_15-49): Stavovi prihvatanja osoba koje žive sa HIV-om (žene u dobi 15-49)
+accepting_attitudes_towards_people_living_with_hiv_(men_15-49): Stavovi prihvatanja osoba koje žive sa HIV-om (muškarci u dobi 15-49)
+women_aged_15-24_who_have_never_had_sex_: Žene u dobi 15-24 koje nikad nisu imale spolni odnos
+men_aged_15-24_who_have_never_had_sex_: Muškarci u dobi 15-24 koji nikad nisu imali spolni odnos
+sex_before_age_15_(women_15-19-24): Spolni odnos prije navršenih 15 godina (žene u dobi 15-19-24)
+sex_before_age_15_(men_15-24): Spolni odnos prije navršenih 15 godina (muškarci u dobi 15-24)
+sex_with_multiple_partners_(women_15-49): Spolni odnos sa više partnera (žene u dobi 15-49)
+sex_with_multiple_partners_(men_15-49): Spolni odnos sa više partnera (muškarci u dobi 15-49)
+condom_use_during_sex_with_multiple_partners_(women_15-49): Upotreba kondoma prilikom spolnih odnosa sa više partnera (žene u dobi 15-49)
+condom_use_during_sex_with_multiple_partners_(men_15-49): Upotreba kondoma prilikom spolnih odnosa sa više partnera (muškarci u dobi 15-49)
+sex_with_non-regular_partners_(women_15-24): Spolni odnos s neredovnim partnerima (žene u dobi 15-24)
+sex_with_non-regular_partners_(men_15-24): Spolni odnos s neredovnim partnerima (muškarci u dobi 15-24)
+condom_use_with_non-regular_partners_(women_15-24): Upotreba kondoma sa neredovnim partnerima (žene u dobi 15-24)
+condom_use_with_non-regular_partners_(men_15-24): Upotreba kondoma sa neredovnim partnerima (muškarci u dobi 15-24)
+life_satisfaction_(women_15-24): Zadovoljstvo životom (žene u dobi 15-24)
+life_satisfaction_(men_15-24): Zadovoljstvo životom (muškarci u dobi 15-24)
+happiness_(women_15-24): Sreća (žene u dobi 15-24)
+happiness_(men_15-24): Sreća (žene u dobi 15-24)
+tobacco_use_(women_15-49): Korištenje duhana (žene u dobi 15-49)
+tobacco_use_(men_15-49): Korištenje duhana (muškarci u dobi 15-49)
+alcohol_use_(women_15-49): Korištenje alkohola (žene u dobi 15-49)
+alcohol_use_(men_15-49): Korištenje alkohola (muškarci u dobi 15-49)
+MICS_NUMBER: Metoda
+all_methods: Sve metode
+modern_methods: Savremene metode
+traditional_methods: Tradicionalne metode
+MICS_INDICATORS: Indikatori istraživanja višestrukih pokazatelja
+SOURCE_OF_WATER: Izvor vode
+piped_water_in_the_dwelling_unit_connected_to_community_scheme: Tekuća voda u stambenoj jedinici koja se dovodi putem vodovodnih cijevi priključenih na vodovodnu mrežu u zajednici
+piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system: Tekuća voda u stambenoj jedinici koja se dovodi putem vodovodnih cijevi priključenih na ruralni ili lokalni sistem vodosnabdijevanja
+piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system: Tekuća voda u stambenoj jedinici koja se dovodi putem vodovodnih cijevi priključenih na vlastiti sistem vodosnabdijevanja
+drinking_fountain_connected_to_community_scheme: Javna česma priključena na vodovodnu mrežu u zajednici
+drinking_fountain_connected_to_own_pump_water_scheme: Javna česma priključena na vlastiti sistem vodosnabdijevanja
+street_drinking_fountain: Javna česma na ulici
+dug_well: Iskopani bunar
+drilled_(pipe)_well: Izbušeni bunar (sa vodovodnim cijevima)
+artesian_well: Arteški bunar
+regulated_water_spring: Uređeni izvor vode
+container_(water_tank)_: Kontejner (cisterna)
+bottled_water_from_shop: Flaširana voda iz prodavnice
+other: Drugo
+public_sewage: Javna kanalizacija
+closed_septic_tank: Zatvorena septička jama
+closed_septic_tank_with_overflow: Zatvorena septička jama sa preljevom
+other_arrangements: Druga rješenja
+no_sewage: Bez kanalizacije
+SOURCE_OF_WATER: Izvor vode
+TYPE_OF_SEWAGE: Vrsta kanalizacije
+TYPE_OF_TOILET: Vrsta toaleta
+persons_with_disabilities: Osobe s invaliditetom
+GRAND_TOTAL: Sveukupno
+persons_without_disabilities: Osobe s invaliditetom
+status_unknown: Status nepoznat
+married_couple_without_children: Bračni par bez djece 
+consensual_couple_without_children: Konsenzualni par bez djece
+married_couple_with_children: Bračni par sa djecom
+consensual_couple_with_children: Konsenzualni par sa djecom
+mother_with_children: Majka sa djecom
+father_with_children: Otac sa djecom
+non-family/single_households: Jednočlano domaćinstvo/bez porodice
+non-family/multi-person_households: Višečlano domaćinstvo/bez porodice
+TYPE_OF_FAMILY/HOUSEHOLD: Vrsta porodice /domaćinstva
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE:  Broj domaćinstava
+average_number_of_hh_members: Prosječan broj članova domaćinstva
+single_household: "1 član"
+2_members: "2 člana"
+3_members: "3 člana"
+4_members: "4 člana"
+5_members: "5 članova"
+6_members: "6 članova"
+7_members: "7 članova"
+8+_members: "8+ članova"
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Veličina domaćinstva 
+DIVORCES: Razvod braka
+divorce_rate_(per_1,000_marriages): Stopa razvoda brakova (na 1.000 brakova)
+number_of_divorces: Broj razvoda brakova
+MARRIAGES: Brakovi
+marriage_rate: Stopa sklopljenih brakova
+number_of_marriages: Broj sklopljenih brakova
+MARTIAL_STATUS: Bračno stanje
+never_married: Nikad nisu sklopili brak
+informal_union: Neformalna zajednica
+married: U braku
+divorced: Razveden/a
+widowed: Udovac/udovica
+INFANT_MORTALITY: Smrtnost dojenčadi (do navršene prve godine života) stopa smrtnosti dojenčadi
+number_of_infant_deaths: Broj smrtnih slučajeva među dojenčadi 
+AGE_OF_MOTHER: Starosna dob majke
+MARRIAGE_BIRTH: Brak i porođaj 
+in_marriage_birth: Porođaj u braku
+out_of_marriage_birth: Porođaj izvan braka
+unknown_marital_status_birth: Porođaj pri nepoznatom bračnom statusu
+AGE_GROUP_OF_WOMEN: Starosna grupa žena
+BIRTH: Rađanje
+gave_birth: Rađale
+did_not_give_birth: Nisu rađale
+crude_death_rate: Sirova stopa smrtnosti
+DEATH: Smrt
+crude_birth_rate: Sirova stopa nataliteta
+BIRTHS_AND_DEATHS: Rođenje i smrt
+live_births: Živorođeni
+deaths: Smrt
+natural_increase: Prirodni priraštaj
+mean_age: Srednja dob
+number_birth_rate: Broj na 1.000 stanovnika
+infant_(up_to_12_months_of_age)_mortality_rate: Stopa smrtnosti dojenčadi (do navršene prve godine života
+VITAL_STATISTICS: Vitalna statistika
+UNIT_MEASUREMENT: Mjerna jedinica
+children_pre_woman: Broj djece po ženi 
+boys_to_girls: Dječaci na 100 djevojčica
+no_education: Bez obrazovanja
+post_secondary_school_specialisation: Specijalizacija nakon završene srednje škole
