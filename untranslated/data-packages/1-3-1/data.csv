@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,SEX,Entity,Value
+Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,SEX,ADMIN_AREA,Value
 1971,%,total_support_ratio,_T,BiH,65.4
 1971,%,total_support_ratio,M,BiH,67.9
 1971,%,total_support_ratio,F,BiH,63.0

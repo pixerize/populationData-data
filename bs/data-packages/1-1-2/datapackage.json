@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "SPOL"
+            "title": "Spol"
           },
           {
             "name": "AGE",
@@ -132,7 +132,7 @@
             "title": "Starosna dob"
           },
           {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -142,7 +142,7 @@
                 ""
               ]
             },
-            "title": "Entity"
+            "title": "Test"
           },
           {
             "name": "Value",

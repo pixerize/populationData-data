@@ -34,7 +34,7 @@
             "title": "MICS_NUMBER"
           },
           {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [

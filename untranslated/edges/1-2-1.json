@@ -1,1 +1,1 @@
-{"From":["SEX","Entity"],"To":["Entity","BIRTHS"]}
+{"From":["SEX","ADMIN_AREA"],"To":["ADMIN_AREA","BIRTHS"]}

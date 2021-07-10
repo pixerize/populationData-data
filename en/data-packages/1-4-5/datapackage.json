@@ -11,19 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "13 - 14",
-                "15 - 19"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,6 +23,18 @@
               ]
             },
             "title": "Administrative area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "13 - 14",
+                "15 - 19"
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
