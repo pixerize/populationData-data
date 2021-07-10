@@ -1,35 +1,35 @@
-Year,UNIT_MEASURE,Entitet,Value
-1999,Broj,Republika Srpska,3401.0
-2000,Broj,Republika Srpska,3508.0
-2001,Broj,Republika Srpska,3689.0
-2002,Broj,Republika Srpska,3815.0
-2003,Broj,Republika Srpska,3636.0
-2004,Broj,Republika Srpska,3316.0
-2005,Broj,Republika Srpska,3625.11
-2006,Broj,Republika Srpska,3091.45
-2007,Broj,Federacija BiH,4656.72
-2007,Broj,Republika Srpska,2680.96
-2008,Broj,Federacija BiH,4654.39
-2008,Broj,Republika Srpska,2465.66
-2009,Broj,Federacija BiH,4416.16
-2009,Broj,Republika Srpska,2281.68
-2010,Broj,Federacija BiH,4219.6
-2010,Broj,Republika Srpska,2187.84
-2011,Broj,Federacija BiH,4531.53
-2011,Broj,Republika Srpska,2156.36
-2012,Broj,Federacija BiH,3943.13
-2012,Broj,Republika Srpska,2098.81
-2013,Broj,Federacija BiH,3514.59
-2013,Broj,Republika Srpska,2081.09
-2014,Broj,Federacija BiH,3482.45
-2014,Broj,Republika Srpska,2074.91
-2015,Broj,Federacija BiH,3468.57
-2015,Broj,Republika Srpska,1704.05
-2016,Broj,Federacija BiH,3263.66
-2016,Broj,Republika Srpska,1651.24
-2017,Broj,Federacija BiH,2994.82
-2017,Broj,Republika Srpska,1723.49
-2018,Broj,Federacija BiH,2752.17
-2018,Broj,Republika Srpska,1713.29
-2019,Broj,Federacija BiH,2508.7
-2018,Broj,Brčko Distrikt BiH,2774.47
+Year,UNIT_MEASURE,Entity,Value
+1999,Broj,RS,3401.0
+2000,Broj,RS,3508.0
+2001,Broj,RS,3689.0
+2002,Broj,RS,3815.0
+2003,Broj,RS,3636.0
+2004,Broj,RS,3316.0
+2005,Broj,RS,3625.11
+2006,Broj,RS,3091.45
+2007,Broj,FBIH,4656.72
+2007,Broj,RS,2680.96
+2008,Broj,FBIH,4654.39
+2008,Broj,RS,2465.66
+2009,Broj,FBIH,4416.16
+2009,Broj,RS,2281.68
+2010,Broj,FBIH,4219.6
+2010,Broj,RS,2187.84
+2011,Broj,FBIH,4531.53
+2011,Broj,RS,2156.36
+2012,Broj,FBIH,3943.13
+2012,Broj,RS,2098.81
+2013,Broj,FBIH,3514.59
+2013,Broj,RS,2081.09
+2014,Broj,FBIH,3482.45
+2014,Broj,RS,2074.91
+2015,Broj,FBIH,3468.57
+2015,Broj,RS,1704.05
+2016,Broj,FBIH,3263.66
+2016,Broj,RS,1651.24
+2017,Broj,FBIH,2994.82
+2017,Broj,RS,1723.49
+2018,Broj,FBIH,2752.17
+2018,Broj,RS,1713.29
+2019,Broj,FBIH,2508.7
+2018,Broj,BD,2774.47

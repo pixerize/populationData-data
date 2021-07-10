@@ -43,12 +43,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",

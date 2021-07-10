@@ -25,12 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",

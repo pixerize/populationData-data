@@ -5,42 +5,42 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 1999,Oba spola,diseases_of_the_digestive,Broj,709
 1999,Oba spola,symptoms_signs_and_abnormal,Broj,2552
 1999,Oba spola,injuries_poisoning_and_consequences,Broj,1022
-1999,Oba spola,Ukupno,Broj,25651
+1999,Oba spola,total,Broj,25651
 1999,M,neoplasms,Broj,2752
 1999,M,diseases_of_the_circulatory,Broj,7700
 1999,M,diseases_of_the_respiratory,Broj,498
 1999,M,diseases_of_the_digestive,Broj,445
 1999,M,symptoms_signs_and_abnormal,Broj,1347
 1999,M,injuries_poisoning_and_consequences,Broj,786
-1999,M,Ukupno,Broj,13528
+1999,M,total,Broj,13528
 1999,Ž,neoplasms,Broj,1839
 1999,Ž,diseases_of_the_circulatory,Broj,8211
 1999,Ž,diseases_of_the_respiratory,Broj,368
 1999,Ž,diseases_of_the_digestive,Broj,264
 1999,Ž,symptoms_signs_and_abnormal,Broj,1205
 1999,Ž,injuries_poisoning_and_consequences,Broj,236
-1999,Ž,Ukupno,Broj,12123
+1999,Ž,total,Broj,12123
 2000,Oba spola,neoplasms,Broj,5122
 2000,Oba spola,diseases_of_the_circulatory,Broj,16283
 2000,Oba spola,diseases_of_the_respiratory,Broj,805
 2000,Oba spola,diseases_of_the_digestive,Broj,848
 2000,Oba spola,symptoms_signs_and_abnormal,Broj,2860
 2000,Oba spola,injuries_poisoning_and_consequences,Broj,1091
-2000,Oba spola,Ukupno,Broj,27009
+2000,Oba spola,total,Broj,27009
 2000,M,neoplasms,Broj,3144
 2000,M,diseases_of_the_circulatory,Broj,7810
 2000,M,diseases_of_the_respiratory,Broj,464
 2000,M,diseases_of_the_digestive,Broj,518
 2000,M,symptoms_signs_and_abnormal,Broj,1484
 2000,M,injuries_poisoning_and_consequences,Broj,812
-2000,M,Ukupno,Broj,14232
+2000,M,total,Broj,14232
 2000,Ž,neoplasms,Broj,1978
 2000,Ž,diseases_of_the_circulatory,Broj,8473
 2000,Ž,diseases_of_the_respiratory,Broj,341
 2000,Ž,diseases_of_the_digestive,Broj,330
 2000,Ž,symptoms_signs_and_abnormal,Broj,1376
 2000,Ž,injuries_poisoning_and_consequences,Broj,279
-2000,Ž,Ukupno,Broj,12777
+2000,Ž,total,Broj,12777
 2001,Oba spola,infectious_and_parasitic,Broj,257
 2001,Oba spola,neoplasms,Broj,5347
 2001,Oba spola,diseases_of_the_blood,Broj,20
@@ -62,7 +62,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2001,Oba spola,external_causes_of_mortality,Broj,261
 2001,Oba spola,factors_influencing_health_status,Broj,1
 2001,Oba spola,unknown,Broj,954
-2001,Oba spola,Ukupno,Broj,30325
+2001,Oba spola,total,Broj,30325
 2001,M,infectious_and_parasitic,Broj,157
 2001,M,neoplasms,Broj,3288
 2001,M,diseases_of_the_blood,Broj,7
@@ -82,7 +82,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2001,M,injuries_poisoning_and_consequences,Broj,768
 2001,M,external_causes_of_mortality,Broj,206
 2001,M,unknown,Broj,527
-2001,M,Ukupno,Broj,16202
+2001,M,total,Broj,16202
 2001,Ž,infectious_and_parasitic,Broj,100
 2001,Ž,neoplasms,Broj,2059
 2001,Ž,diseases_of_the_blood,Broj,13
@@ -103,7 +103,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2001,Ž,external_causes_of_mortality,Broj,55
 2001,Ž,factors_influencing_health_status,Broj,1
 2001,Ž,unknown,Broj,427
-2001,Ž,Ukupno,Broj,14123
+2001,Ž,total,Broj,14123
 2002,Oba spola,infectious_and_parasitic,Broj,263
 2002,Oba spola,neoplasms,Broj,5288
 2002,Oba spola,diseases_of_the_blood,Broj,19
@@ -125,7 +125,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,Oba spola,external_causes_of_mortality,Broj,242
 2002,Oba spola,factors_influencing_health_status,Broj,1
 2002,Oba spola,unknown,Broj,1790
-2002,Oba spola,Ukupno,Broj,30831
+2002,Oba spola,total,Broj,30831
 2002,M,infectious_and_parasitic,Broj,160
 2002,M,neoplasms,Broj,3201
 2002,M,diseases_of_the_blood,Broj,11
@@ -146,7 +146,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,M,external_causes_of_mortality,Broj,180
 2002,M,factors_influencing_health_status,Broj,1
 2002,M,unknown,Broj,965
-2002,M,Ukupno,Broj,16033
+2002,M,total,Broj,16033
 2002,Ž,infectious_and_parasitic,Broj,103
 2002,Ž,neoplasms,Broj,2087
 2002,Ž,diseases_of_the_blood,Broj,8
@@ -166,7 +166,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2002,Ž,injuries_poisoning_and_consequences,Broj,233
 2002,Ž,external_causes_of_mortality,Broj,62
 2002,Ž,unknown,Broj,825
-2002,Ž,Ukupno,Broj,14798
+2002,Ž,total,Broj,14798
 2003,Oba spola,neoplasms,Broj,5771
 2003,Oba spola,diseases_of_the_circulatory,Broj,16990
 2003,Oba spola,diseases_of_the_respiratory,Broj,876
@@ -174,7 +174,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,Oba spola,symptoms_signs_and_abnormal,Broj,3166
 2003,Oba spola,injuries_poisoning_and_consequences,Broj,950
 2003,Oba spola,unknown,Broj,770
-2003,Oba spola,Ukupno,Broj,29333
+2003,Oba spola,total,Broj,29333
 2003,M,neoplasms,Broj,3499
 2003,M,diseases_of_the_circulatory,Broj,8001
 2003,M,diseases_of_the_respiratory,Broj,542
@@ -182,7 +182,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,M,symptoms_signs_and_abnormal,Broj,1612
 2003,M,injuries_poisoning_and_consequences,Broj,706
 2003,M,unknown,Broj,424
-2003,M,Ukupno,Broj,15283
+2003,M,total,Broj,15283
 2003,Ž,neoplasms,Broj,2272
 2003,Ž,diseases_of_the_circulatory,Broj,8989
 2003,Ž,diseases_of_the_respiratory,Broj,334
@@ -190,7 +190,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2003,Ž,symptoms_signs_and_abnormal,Broj,1554
 2003,Ž,injuries_poisoning_and_consequences,Broj,244
 2003,Ž,unknown,Broj,346
-2003,Ž,Ukupno,Broj,14050
+2003,Ž,total,Broj,14050
 2004,Oba spola,infectious_and_parasitic,Broj,255
 2004,Oba spola,neoplasms,Broj,5709
 2004,Oba spola,diseases_of_the_blood,Broj,31
@@ -211,7 +211,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,Oba spola,external_causes_of_mortality,Broj,273
 2004,Oba spola,factors_influencing_health_status,Broj,1
 2004,Oba spola,unknown,Broj,1210
-2004,Oba spola,Ukupno,Broj,32616
+2004,Oba spola,total,Broj,32616
 2004,M,infectious_and_parasitic,Broj,152
 2004,M,neoplasms,Broj,3398
 2004,M,diseases_of_the_blood,Broj,10
@@ -231,7 +231,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,M,external_causes_of_mortality,Broj,198
 2004,M,factors_influencing_health_status,Broj,1
 2004,M,unknown,Broj,651
-2004,M,Ukupno,Broj,16780
+2004,M,total,Broj,16780
 2004,Ž,infectious_and_parasitic,Broj,103
 2004,Ž,neoplasms,Broj,2311
 2004,Ž,diseases_of_the_blood,Broj,21
@@ -251,28 +251,28 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2004,Ž,injuries_poisoning_and_consequences,Broj,229
 2004,Ž,external_causes_of_mortality,Broj,75
 2004,Ž,unknown,Broj,559
-2004,Ž,Ukupno,Broj,15836
+2004,Ž,total,Broj,15836
 2005,Oba spola,neoplasms,Broj,6255
 2005,Oba spola,diseases_of_the_circulatory,Broj,17915
 2005,Oba spola,diseases_of_the_respiratory,Broj,1242
 2005,Oba spola,diseases_of_the_digestive,Broj,818
 2005,Oba spola,symptoms_signs_and_abnormal,Broj,2394
 2005,Oba spola,injuries_poisoning_and_consequences,Broj,952
-2005,Oba spola,Ukupno,Broj,29576
+2005,Oba spola,total,Broj,29576
 2005,M,neoplasms,Broj,3766
 2005,M,diseases_of_the_circulatory,Broj,8559
 2005,M,diseases_of_the_respiratory,Broj,726
 2005,M,diseases_of_the_digestive,Broj,491
 2005,M,symptoms_signs_and_abnormal,Broj,1312
 2005,M,injuries_poisoning_and_consequences,Broj,718
-2005,M,Ukupno,Broj,15572
+2005,M,total,Broj,15572
 2005,Ž,neoplasms,Broj,2489
 2005,Ž,diseases_of_the_circulatory,Broj,9356
 2005,Ž,diseases_of_the_respiratory,Broj,516
 2005,Ž,diseases_of_the_digestive,Broj,327
 2005,Ž,symptoms_signs_and_abnormal,Broj,1082
 2005,Ž,injuries_poisoning_and_consequences,Broj,234
-2005,Ž,Ukupno,Broj,14004
+2005,Ž,total,Broj,14004
 2006,Oba spola,infectious_and_parasitic,Broj,237
 2006,Oba spola,neoplasms,Broj,6252
 2006,Oba spola,diseases_of_the_blood,Broj,20
@@ -294,7 +294,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,Oba spola,external_causes_of_mortality,Broj,212
 2006,Oba spola,factors_influencing_health_status,Broj,1
 2006,Oba spola,unknown,Broj,1041
-2006,Oba spola,Ukupno,Broj,33221
+2006,Oba spola,total,Broj,33221
 2006,M,infectious_and_parasitic,Broj,147
 2006,M,neoplasms,Broj,3697
 2006,M,diseases_of_the_blood,Broj,9
@@ -313,7 +313,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,M,injuries_poisoning_and_consequences,Broj,775
 2006,M,external_causes_of_mortality,Broj,152
 2006,M,unknown,Broj,578
-2006,M,Ukupno,Broj,17308
+2006,M,total,Broj,17308
 2006,Ž,infectious_and_parasitic,Broj,90
 2006,Ž,neoplasms,Broj,2555
 2006,Ž,diseases_of_the_blood,Broj,11
@@ -335,7 +335,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2006,Ž,external_causes_of_mortality,Broj,60
 2006,Ž,factors_influencing_health_status,Broj,1
 2006,Ž,unknown,Broj,463
-2006,Ž,Ukupno,Broj,15913
+2006,Ž,total,Broj,15913
 2007,Oba spola,infectious_and_parasitic,Broj,250
 2007,Oba spola,neoplasms,Broj,6713
 2007,Oba spola,diseases_of_the_blood,Broj,54
@@ -356,7 +356,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,Oba spola,injuries_poisoning_and_consequences,Broj,1030
 2007,Oba spola,external_causes_of_mortality,Broj,267
 2007,Oba spola,unknown,Broj,1076
-2007,Oba spola,Ukupno,Broj,35044
+2007,Oba spola,total,Broj,35044
 2007,M,infectious_and_parasitic,Broj,164
 2007,M,neoplasms,Broj,3983
 2007,M,diseases_of_the_blood,Broj,22
@@ -376,7 +376,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,M,injuries_poisoning_and_consequences,Broj,766
 2007,M,external_causes_of_mortality,Broj,199
 2007,M,unknown,Broj,622
-2007,M,Ukupno,Broj,18154
+2007,M,total,Broj,18154
 2007,Ž,infectious_and_parasitic,Broj,86
 2007,Ž,neoplasms,Broj,2730
 2007,Ž,diseases_of_the_blood,Broj,32
@@ -396,7 +396,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2007,Ž,injuries_poisoning_and_consequences,Broj,264
 2007,Ž,external_causes_of_mortality,Broj,68
 2007,Ž,unknown,Broj,454
-2007,Ž,Ukupno,Broj,16890
+2007,Ž,total,Broj,16890
 2008,Oba spola,infectious_and_parasitic,Broj,275
 2008,Oba spola,neoplasms,Broj,6734
 2008,Oba spola,diseases_of_the_blood,Broj,37
@@ -417,7 +417,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,Oba spola,injuries_poisoning_and_consequences,Broj,1200
 2008,Oba spola,external_causes_of_mortality,Broj,2
 2008,Oba spola,unknown,Broj,1039
-2008,Oba spola,Ukupno,Broj,34026
+2008,Oba spola,total,Broj,34026
 2008,M,infectious_and_parasitic,Broj,170
 2008,M,neoplasms,Broj,4053
 2008,M,diseases_of_the_blood,Broj,16
@@ -436,7 +436,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,M,injuries_poisoning_and_consequences,Broj,942
 2008,M,external_causes_of_mortality,Broj,2
 2008,M,unknown,Broj,586
-2008,M,Ukupno,Broj,17687
+2008,M,total,Broj,17687
 2008,Ž,infectious_and_parasitic,Broj,105
 2008,Ž,neoplasms,Broj,2681
 2008,Ž,diseases_of_the_blood,Broj,21
@@ -456,7 +456,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2008,Ž,symptoms_signs_and_abnormal,Broj,976
 2008,Ž,injuries_poisoning_and_consequences,Broj,258
 2008,Ž,unknown,Broj,453
-2008,Ž,Ukupno,Broj,16339
+2008,Ž,total,Broj,16339
 2009,Oba spola,infectious_and_parasitic,Broj,287
 2009,Oba spola,neoplasms,Broj,6970
 2009,Oba spola,diseases_of_the_blood,Broj,41
@@ -477,7 +477,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,Oba spola,external_causes_of_mortality,Broj,2
 2009,Oba spola,factors_influencing_health_status,Broj,2
 2009,Oba spola,unknown,Broj,650
-2009,Oba spola,Ukupno,Broj,34904
+2009,Oba spola,total,Broj,34904
 2009,M,infectious_and_parasitic,Broj,180
 2009,M,neoplasms,Broj,4118
 2009,M,diseases_of_the_blood,Broj,17
@@ -497,7 +497,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,M,external_causes_of_mortality,Broj,2
 2009,M,factors_influencing_health_status,Broj,1
 2009,M,unknown,Broj,346
-2009,M,Ukupno,Broj,17884
+2009,M,total,Broj,17884
 2009,Ž,infectious_and_parasitic,Broj,107
 2009,Ž,neoplasms,Broj,2852
 2009,Ž,diseases_of_the_blood,Broj,24
@@ -517,7 +517,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2009,Ž,injuries_poisoning_and_consequences,Broj,315
 2009,Ž,factors_influencing_health_status,Broj,1
 2009,Ž,unknown,Broj,304
-2009,Ž,Ukupno,Broj,17020
+2009,Ž,total,Broj,17020
 2010,Oba spola,infectious_and_parasitic,Broj,285
 2010,Oba spola,neoplasms,Broj,6973
 2010,Oba spola,diseases_of_the_blood,Broj,45
@@ -538,7 +538,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,Oba spola,injuries_poisoning_and_consequences,Broj,1117
 2010,Oba spola,external_causes_of_mortality,Broj,15
 2010,Oba spola,unknown,Broj,638
-2010,Oba spola,Ukupno,Broj,35118
+2010,Oba spola,total,Broj,35118
 2010,M,infectious_and_parasitic,Broj,183
 2010,M,neoplasms,Broj,4059
 2010,M,diseases_of_the_blood,Broj,17
@@ -558,7 +558,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,M,injuries_poisoning_and_consequences,Broj,878
 2010,M,external_causes_of_mortality,Broj,11
 2010,M,unknown,Broj,364
-2010,M,Ukupno,Broj,17900
+2010,M,total,Broj,17900
 2010,Ž,infectious_and_parasitic,Broj,102
 2010,Ž,neoplasms,Broj,2914
 2010,Ž,diseases_of_the_blood,Broj,28
@@ -579,7 +579,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2010,Ž,injuries_poisoning_and_consequences,Broj,239
 2010,Ž,external_causes_of_mortality,Broj,4
 2010,Ž,unknown,Broj,274
-2010,Ž,Ukupno,Broj,17218
+2010,Ž,total,Broj,17218
 2011,Oba spola,infectious_and_parasitic,Broj,298
 2011,Oba spola,neoplasms,Broj,7214
 2011,Oba spola,diseases_of_the_blood,Broj,59
@@ -600,7 +600,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,Oba spola,external_causes_of_mortality,Broj,14
 2011,Oba spola,factors_influencing_health_status,Broj,1
 2011,Oba spola,unknown,Broj,695
-2011,Oba spola,Ukupno,Broj,35028
+2011,Oba spola,total,Broj,35028
 2011,M,infectious_and_parasitic,Broj,192
 2011,M,neoplasms,Broj,4316
 2011,M,diseases_of_the_blood,Broj,20
@@ -620,7 +620,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,M,external_causes_of_mortality,Broj,13
 2011,M,factors_influencing_health_status,Broj,1
 2011,M,unknown,Broj,378
-2011,M,Ukupno,Broj,17965
+2011,M,total,Broj,17965
 2011,Ž,infectious_and_parasitic,Broj,106
 2011,Ž,neoplasms,Broj,2898
 2011,Ž,diseases_of_the_blood,Broj,39
@@ -640,7 +640,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2011,Ž,injuries_poisoning_and_consequences,Broj,232
 2011,Ž,external_causes_of_mortality,Broj,1
 2011,Ž,unknown,Broj,317
-2011,Ž,Ukupno,Broj,17063
+2011,Ž,total,Broj,17063
 2012,Oba spola,infectious_and_parasitic,Broj,344
 2012,Oba spola,neoplasms,Broj,7598
 2012,Oba spola,diseases_of_the_blood,Broj,47
@@ -660,7 +660,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,Oba spola,symptoms_signs_and_abnormal,Broj,1207
 2012,Oba spola,injuries_poisoning_and_consequences,Broj,1067
 2012,Oba spola,unknown,Broj,740
-2012,Oba spola,Ukupno,Broj,35817
+2012,Oba spola,total,Broj,35817
 2012,M,infectious_and_parasitic,Broj,185
 2012,M,neoplasms,Broj,4458
 2012,M,diseases_of_the_blood,Broj,25
@@ -678,7 +678,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,M,symptoms_signs_and_abnormal,Broj,609
 2012,M,injuries_poisoning_and_consequences,Broj,830
 2012,M,unknown,Broj,409
-2012,M,Ukupno,Broj,18436
+2012,M,total,Broj,18436
 2012,Ž,infectious_and_parasitic,Broj,159
 2012,Ž,neoplasms,Broj,3140
 2012,Ž,diseases_of_the_blood,Broj,22
@@ -698,7 +698,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2012,Ž,symptoms_signs_and_abnormal,Broj,598
 2012,Ž,injuries_poisoning_and_consequences,Broj,237
 2012,Ž,unknown,Broj,331
-2012,Ž,Ukupno,Broj,17381
+2012,Ž,total,Broj,17381
 2013,Oba spola,infectious_and_parasitic,Broj,268
 2013,Oba spola,neoplasms,Broj,7506
 2013,Oba spola,diseases_of_the_blood,Broj,50
@@ -717,7 +717,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,Oba spola,injuries_poisoning_and_consequences,Broj,1024
 2013,Oba spola,external_causes_of_mortality,Broj,4
 2013,Oba spola,unknown,Broj,782
-2013,Oba spola,Ukupno,Broj,35662
+2013,Oba spola,total,Broj,35662
 2013,M,infectious_and_parasitic,Broj,165
 2013,M,neoplasms,Broj,4384
 2013,M,diseases_of_the_blood,Broj,20
@@ -736,7 +736,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,M,injuries_poisoning_and_consequences,Broj,794
 2013,M,external_causes_of_mortality,Broj,4
 2013,M,unknown,Broj,393
-2013,M,Ukupno,Broj,18217
+2013,M,total,Broj,18217
 2013,Ž,infectious_and_parasitic,Broj,103
 2013,Ž,neoplasms,Broj,3122
 2013,Ž,diseases_of_the_blood,Broj,30
@@ -754,7 +754,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2013,Ž,symptoms_signs_and_abnormal,Broj,995
 2013,Ž,injuries_poisoning_and_consequences,Broj,230
 2013,Ž,unknown,Broj,389
-2013,Ž,Ukupno,Broj,17445
+2013,Ž,total,Broj,17445
 2014,Oba spola,infectious_and_parasitic,Broj,291
 2014,Oba spola,neoplasms,Broj,7821
 2014,Oba spola,diseases_of_the_blood,Broj,42
@@ -775,7 +775,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,Oba spola,external_causes_of_mortality,Broj,17
 2014,Oba spola,factors_influencing_health_status,Broj,1
 2014,Oba spola,unknown,Broj,590
-2014,Oba spola,Ukupno,Broj,35980
+2014,Oba spola,total,Broj,35980
 2014,M,infectious_and_parasitic,Broj,164
 2014,M,neoplasms,Broj,4569
 2014,M,diseases_of_the_blood,Broj,14
@@ -794,7 +794,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,M,injuries_poisoning_and_consequences,Broj,795
 2014,M,external_causes_of_mortality,Broj,10
 2014,M,unknown,Broj,327
-2014,M,Ukupno,Broj,18360
+2014,M,total,Broj,18360
 2014,Ž,infectious_and_parasitic,Broj,127
 2014,Ž,neoplasms,Broj,3252
 2014,Ž,diseases_of_the_blood,Broj,28
@@ -815,7 +815,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2014,Ž,external_causes_of_mortality,Broj,7
 2014,Ž,factors_influencing_health_status,Broj,1
 2014,Ž,unknown,Broj,263
-2014,Ž,Ukupno,Broj,17620
+2014,Ž,total,Broj,17620
 2015,Oba spola,infectious_and_parasitic,Broj,370
 2015,Oba spola,neoplasms,Broj,7956
 2015,Oba spola,diseases_of_the_blood,Broj,55
@@ -836,7 +836,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,Oba spola,injuries_poisoning_and_consequences,Broj,1103
 2015,Oba spola,external_causes_of_mortality,Broj,8
 2015,Oba spola,unknown,Broj,541
-2015,Oba spola,Ukupno,Broj,38150
+2015,Oba spola,total,Broj,38150
 2015,M,infectious_and_parasitic,Broj,207
 2015,M,neoplasms,Broj,4525
 2015,M,diseases_of_the_blood,Broj,19
@@ -855,7 +855,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,M,injuries_poisoning_and_consequences,Broj,840
 2015,M,external_causes_of_mortality,Broj,5
 2015,M,unknown,Broj,317
-2015,M,Ukupno,Broj,19219
+2015,M,total,Broj,19219
 2015,Ž,infectious_and_parasitic,Broj,163
 2015,Ž,neoplasms,Broj,3431
 2015,Ž,diseases_of_the_blood,Broj,36
@@ -876,7 +876,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2015,Ž,injuries_poisoning_and_consequences,Broj,263
 2015,Ž,external_causes_of_mortality,Broj,3
 2015,Ž,unknown,Broj,224
-2015,Ž,Ukupno,Broj,18931
+2015,Ž,total,Broj,18931
 2016,Oba spola,infectious_and_parasitic,Broj,412
 2016,Oba spola,neoplasms,Broj,7761
 2016,Oba spola,diseases_of_the_blood,Broj,54
@@ -897,7 +897,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,Oba spola,injuries_poisoning_and_consequences,Broj,1040
 2016,Oba spola,external_causes_of_mortality,Broj,14
 2016,Oba spola,unknown,Broj,545
-2016,Oba spola,Ukupno,Broj,36571
+2016,Oba spola,total,Broj,36571
 2016,M,infectious_and_parasitic,Broj,214
 2016,M,neoplasms,Broj,4464
 2016,M,diseases_of_the_blood,Broj,22
@@ -917,7 +917,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,M,injuries_poisoning_and_consequences,Broj,783
 2016,M,external_causes_of_mortality,Broj,11
 2016,M,unknown,Broj,296
-2016,M,Ukupno,Broj,18542
+2016,M,total,Broj,18542
 2016,Ž,infectious_and_parasitic,Broj,198
 2016,Ž,neoplasms,Broj,3297
 2016,Ž,diseases_of_the_blood,Broj,32
@@ -938,7 +938,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2016,Ž,injuries_poisoning_and_consequences,Broj,257
 2016,Ž,external_causes_of_mortality,Broj,3
 2016,Ž,unknown,Broj,249
-2016,Ž,Ukupno,Broj,18029
+2016,Ž,total,Broj,18029
 2017,Oba spola,infectious_and_parasitic,Broj,395
 2017,Oba spola,neoplasms,Broj,8136
 2017,Oba spola,diseases_of_the_blood,Broj,69
@@ -958,7 +958,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,Oba spola,injuries_poisoning_and_consequences,Broj,1067
 2017,Oba spola,external_causes_of_mortality,Broj,15
 2017,Oba spola,unknown,Broj,550
-2017,Oba spola,Ukupno,Broj,37979
+2017,Oba spola,total,Broj,37979
 2017,M,infectious_and_parasitic,Broj,209
 2017,M,neoplasms,Broj,4632
 2017,M,diseases_of_the_blood,Broj,25
@@ -978,7 +978,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,M,injuries_poisoning_and_consequences,Broj,780
 2017,M,external_causes_of_mortality,Broj,9
 2017,M,unknown,Broj,331
-2017,M,Ukupno,Broj,19186
+2017,M,total,Broj,19186
 2017,Ž,infectious_and_parasitic,Broj,186
 2017,Ž,neoplasms,Broj,3504
 2017,Ž,diseases_of_the_blood,Broj,44
@@ -998,7 +998,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2017,Ž,injuries_poisoning_and_consequences,Broj,287
 2017,Ž,external_causes_of_mortality,Broj,6
 2017,Ž,unknown,Broj,219
-2017,Ž,Ukupno,Broj,18793
+2017,Ž,total,Broj,18793
 2018,Oba spola,infectious_and_parasitic,Broj,443
 2018,Oba spola,neoplasms,Broj,7881
 2018,Oba spola,diseases_of_the_blood,Broj,72
@@ -1019,7 +1019,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2018,Oba spola,external_causes_of_mortality,Broj,11
 2018,Oba spola,factors_influencing_health_status,Broj,1
 2018,Oba spola,unknown,Broj,470
-2018,Oba spola,Ukupno,Broj,37744
+2018,Oba spola,total,Broj,37744
 2018,M,infectious_and_parasitic,Broj,243
 2018,M,neoplasms,Broj,4606
 2018,M,diseases_of_the_blood,Broj,27
@@ -1039,7 +1039,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2018,M,external_causes_of_mortality,Broj,9
 2018,M,factors_influencing_health_status,Broj,1
 2018,M,unknown,Broj,247
-2018,M,Ukupno,Broj,19007
+2018,M,total,Broj,19007
 2018,Ž,infectious_and_parasitic,Broj,200
 2018,Ž,neoplasms,Broj,3275
 2018,Ž,diseases_of_the_blood,Broj,45
@@ -1059,7 +1059,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2018,Ž,injuries_poisoning_and_consequences,Broj,242
 2018,Ž,external_causes_of_mortality,Broj,2
 2018,Ž,unknown,Broj,223
-2018,Ž,Ukupno,Broj,18737
+2018,Ž,total,Broj,18737
 2019,Oba spola,infectious_and_parasitic,Broj,451
 2019,Oba spola,neoplasms,Broj,8053
 2019,Oba spola,diseases_of_the_blood,Broj,90
@@ -1081,7 +1081,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2019,Oba spola,external_causes_of_mortality,Broj,9
 2019,Oba spola,factors_influencing_health_status,Broj,10
 2019,Oba spola,unknown,Broj,583
-2019,Oba spola,Ukupno,Broj,38829
+2019,Oba spola,total,Broj,38829
 2019,M,infectious_and_parasitic,Broj,241
 2019,M,neoplasms,Broj,4606
 2019,M,diseases_of_the_blood,Broj,30
@@ -1102,7 +1102,7 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2019,M,external_causes_of_mortality,Broj,8
 2019,M,factors_influencing_health_status,Broj,7
 2019,M,unknown,Broj,349
-2019,M,Ukupno,Broj,19787
+2019,M,total,Broj,19787
 2019,Ž,infectious_and_parasitic,Broj,210
 2019,Ž,neoplasms,Broj,3447
 2019,Ž,diseases_of_the_blood,Broj,60
@@ -1124,4 +1124,4 @@ Year,SPOL,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 2019,Ž,external_causes_of_mortality,Broj,1
 2019,Ž,factors_influencing_health_status,Broj,3
 2019,Ž,unknown,Broj,234
-2019,Ž,Ukupno,Broj,19042
+2019,Ž,total,Broj,19042

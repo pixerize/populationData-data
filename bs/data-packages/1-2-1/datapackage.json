@@ -39,26 +39,26 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
+                "LIVE_BIRTH",
+                "DEATHS",
                 "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",

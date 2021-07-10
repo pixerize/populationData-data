@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",

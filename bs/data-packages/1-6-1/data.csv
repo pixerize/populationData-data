@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Entitet,Value
+Year,UNIT_MEASURE,Entity,Value
 1971,number_birth_rate,BiH,6.6
 1972,number_birth_rate,BiH,7.0
 1973,number_birth_rate,BiH,6.4
@@ -44,67 +44,67 @@ Year,UNIT_MEASURE,Entitet,Value
 2017,number_birth_rate,BiH,10.8
 2018,number_birth_rate,BiH,10.8
 2019,number_birth_rate,BiH,11.1
-1996,number_birth_rate,Federacija BiH,6.3
-1997,number_birth_rate,Federacija BiH,6.9
-1998,number_birth_rate,Federacija BiH,7.3
-1999,number_birth_rate,Federacija BiH,7.1
-2000,number_birth_rate,Federacija BiH,7.4
-2001,number_birth_rate,Federacija BiH,7.3
-2002,number_birth_rate,Federacija BiH,7.4
-2003,number_birth_rate,Federacija BiH,7.9
-2004,number_birth_rate,Federacija BiH,7.9
-2005,number_birth_rate,Federacija BiH,8.3
-2006,number_birth_rate,Federacija BiH,8.0
-2007,number_birth_rate,Federacija BiH,8.7
-2008,number_birth_rate,Federacija BiH,8.3
-2009,number_birth_rate,Federacija BiH,8.3
-2010,number_birth_rate,Federacija BiH,8.6
-2011,number_birth_rate,Federacija BiH,8.8
-2012,number_birth_rate,Federacija BiH,8.7
-2013,number_birth_rate,Federacija BiH,8.9
-2014,number_birth_rate,Federacija BiH,8.7
-2015,number_birth_rate,Federacija BiH,9.8
-2016,number_birth_rate,Federacija BiH,9.6
-2017,number_birth_rate,Federacija BiH,9.9
-2018,number_birth_rate,Federacija BiH,9.8
-2019,number_birth_rate,Federacija BiH,10.1
-1996,number_birth_rate,Republika Srpska,8.9
-1997,number_birth_rate,Republika Srpska,9.6
-1998,number_birth_rate,Republika Srpska,10.1
-1999,number_birth_rate,Republika Srpska,10.2
-2000,number_birth_rate,Republika Srpska,10.8
-2001,number_birth_rate,Republika Srpska,10.8
-2002,number_birth_rate,Republika Srpska,10.9
-2003,number_birth_rate,Republika Srpska,10.9
-2004,number_birth_rate,Republika Srpska,11.0
-2005,number_birth_rate,Republika Srpska,11.6
-2006,number_birth_rate,Republika Srpska,11.2
-2007,number_birth_rate,Republika Srpska,12.0
-2008,number_birth_rate,Republika Srpska,11.4
-2009,number_birth_rate,Republika Srpska,11.7
-2010,number_birth_rate,Republika Srpska,11.5
-2011,number_birth_rate,Republika Srpska,11.6
-2012,number_birth_rate,Republika Srpska,11.8
-2013,number_birth_rate,Republika Srpska,11.9
-2014,number_birth_rate,Republika Srpska,12.3
-2015,number_birth_rate,Republika Srpska,13.0
-2016,number_birth_rate,Republika Srpska,12.1
-2017,number_birth_rate,Republika Srpska,12.7
-2018,number_birth_rate,Republika Srpska,12.9
-2019,number_birth_rate,Republika Srpska,13.2
-2004,number_birth_rate,Brčko Distrikt BiH,10.5
-2005,number_birth_rate,Brčko Distrikt BiH,11.0
-2006,number_birth_rate,Brčko Distrikt BiH,9.8
-2007,number_birth_rate,Brčko Distrikt BiH,10.8
-2008,number_birth_rate,Brčko Distrikt BiH,11.8
-2009,number_birth_rate,Brčko Distrikt BiH,12.1
-2010,number_birth_rate,Brčko Distrikt BiH,12.0
-2011,number_birth_rate,Brčko Distrikt BiH,12.6
-2012,number_birth_rate,Brčko Distrikt BiH,12.2
-2013,number_birth_rate,Brčko Distrikt BiH,11.2
-2014,number_birth_rate,Brčko Distrikt BiH,12.0
-2015,number_birth_rate,Brčko Distrikt BiH,13.4
-2016,number_birth_rate,Brčko Distrikt BiH,11.9
-2017,number_birth_rate,Brčko Distrikt BiH,13.2
-2018,number_birth_rate,Brčko Distrikt BiH,12.4
-2019,number_birth_rate,Brčko Distrikt BiH,13.6
+1996,number_birth_rate,FBIH,6.3
+1997,number_birth_rate,FBIH,6.9
+1998,number_birth_rate,FBIH,7.3
+1999,number_birth_rate,FBIH,7.1
+2000,number_birth_rate,FBIH,7.4
+2001,number_birth_rate,FBIH,7.3
+2002,number_birth_rate,FBIH,7.4
+2003,number_birth_rate,FBIH,7.9
+2004,number_birth_rate,FBIH,7.9
+2005,number_birth_rate,FBIH,8.3
+2006,number_birth_rate,FBIH,8.0
+2007,number_birth_rate,FBIH,8.7
+2008,number_birth_rate,FBIH,8.3
+2009,number_birth_rate,FBIH,8.3
+2010,number_birth_rate,FBIH,8.6
+2011,number_birth_rate,FBIH,8.8
+2012,number_birth_rate,FBIH,8.7
+2013,number_birth_rate,FBIH,8.9
+2014,number_birth_rate,FBIH,8.7
+2015,number_birth_rate,FBIH,9.8
+2016,number_birth_rate,FBIH,9.6
+2017,number_birth_rate,FBIH,9.9
+2018,number_birth_rate,FBIH,9.8
+2019,number_birth_rate,FBIH,10.1
+1996,number_birth_rate,RS,8.9
+1997,number_birth_rate,RS,9.6
+1998,number_birth_rate,RS,10.1
+1999,number_birth_rate,RS,10.2
+2000,number_birth_rate,RS,10.8
+2001,number_birth_rate,RS,10.8
+2002,number_birth_rate,RS,10.9
+2003,number_birth_rate,RS,10.9
+2004,number_birth_rate,RS,11.0
+2005,number_birth_rate,RS,11.6
+2006,number_birth_rate,RS,11.2
+2007,number_birth_rate,RS,12.0
+2008,number_birth_rate,RS,11.4
+2009,number_birth_rate,RS,11.7
+2010,number_birth_rate,RS,11.5
+2011,number_birth_rate,RS,11.6
+2012,number_birth_rate,RS,11.8
+2013,number_birth_rate,RS,11.9
+2014,number_birth_rate,RS,12.3
+2015,number_birth_rate,RS,13.0
+2016,number_birth_rate,RS,12.1
+2017,number_birth_rate,RS,12.7
+2018,number_birth_rate,RS,12.9
+2019,number_birth_rate,RS,13.2
+2004,number_birth_rate,BD,10.5
+2005,number_birth_rate,BD,11.0
+2006,number_birth_rate,BD,9.8
+2007,number_birth_rate,BD,10.8
+2008,number_birth_rate,BD,11.8
+2009,number_birth_rate,BD,12.1
+2010,number_birth_rate,BD,12.0
+2011,number_birth_rate,BD,12.6
+2012,number_birth_rate,BD,12.2
+2013,number_birth_rate,BD,11.2
+2014,number_birth_rate,BD,12.0
+2015,number_birth_rate,BD,13.4
+2016,number_birth_rate,BD,11.9
+2017,number_birth_rate,BD,13.2
+2018,number_birth_rate,BD,12.4
+2019,number_birth_rate,BD,13.6

@@ -41,13 +41,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -84,13 +84,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -181,26 +181,26 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
+                "LIVE_BIRTH",
+                "DEATHS",
                 "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
@@ -326,7 +326,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -579,13 +579,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -622,13 +622,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -671,14 +671,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
+                "FBIH",
                 "BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -895,12 +895,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -992,13 +992,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1150,13 +1150,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1193,11 +1193,11 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1237,7 +1237,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1285,13 +1285,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1444,13 +1444,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1710,12 +1710,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -1996,13 +1996,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2052,13 +2052,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2209,13 +2209,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2251,12 +2251,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2274,7 +2274,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2293,13 +2293,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2336,13 +2336,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2378,13 +2378,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2434,13 +2434,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2480,7 +2480,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2632,13 +2632,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2675,12 +2675,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2774,12 +2774,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2816,13 +2816,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2907,13 +2907,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -2945,13 +2945,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3060,13 +3060,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3102,13 +3102,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3152,13 +3152,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3213,7 +3213,7 @@
                 "diseases_of_the_digestive",
                 "symptoms_signs_and_abnormal",
                 "injuries_poisoning_and_consequences",
-                "Ukupno",
+                "total",
                 "infectious_and_parasitic",
                 "diseases_of_the_blood",
                 "endocrine_metabolic_and_nutritional",
@@ -3301,13 +3301,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3343,12 +3343,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3385,12 +3385,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3427,12 +3427,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3528,14 +3528,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 "BiH",
-                "Brčko Distrikt BiH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3572,13 +3572,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3623,13 +3623,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3712,12 +3712,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
+                "RS",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3754,13 +3754,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3814,12 +3814,12 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3855,12 +3855,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
+                "FBIH",
+                "RS",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3945,13 +3945,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -3988,13 +3988,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -4039,13 +4039,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4095,13 +4095,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4150,13 +4150,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
+                "LIVE_BIRTH",
+                "DEATHS",
                 "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "BIRTHS"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4198,13 +4198,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",
@@ -4241,13 +4241,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "RS",
+                "FBIH",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",

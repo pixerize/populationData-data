@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,SPOL,Entitet,Value
+Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,SPOL,Entity,Value
 1971,%,total_support_ratio,Oba spola,BiH,65.4
 1971,%,total_support_ratio,M,BiH,67.9
 1971,%,total_support_ratio,Ž,BiH,63.0
@@ -47,39 +47,39 @@ Year,UNIT_MEASURE,TYPE_OF_DEPENDENCY_RATIO,SPOL,Entitet,Value
 2013,%,older_persons_to_youth_ratio,Oba spola,BiH,92.3
 2013,%,older_persons_to_youth_ratio,M,BiH,75.0
 2013,%,older_persons_to_youth_ratio,Ž,BiH,110.6
-2013,%,total_support_ratio,Oba spola,Federacija BiH,40.8
-2013,%,total_support_ratio,M,Federacija BiH,38.4
-2013,%,total_support_ratio,Ž,Federacija BiH,43.1
-2013,%,young_age_support_ratio,Oba spola,Federacija BiH,22.6
-2013,%,young_age_support_ratio,M,Federacija BiH,23.3
-2013,%,young_age_support_ratio,Ž,Federacija BiH,22.0
-2013,%,old_age_support_ratio,Oba spola,Federacija BiH,18.1
-2013,%,old_age_support_ratio,M,Federacija BiH,15.1
-2013,%,old_age_support_ratio,Ž,Federacija BiH,21.1
-2013,%,older_persons_to_youth_ratio,Oba spola,Federacija BiH,80.1
-2013,%,older_persons_to_youth_ratio,M,Federacija BiH,65.0
-2013,%,older_persons_to_youth_ratio,Ž,Federacija BiH,96.1
-2013,%,total_support_ratio,Oba spola,Republika Srpska,44.4
-2013,%,total_support_ratio,M,Republika Srpska,40.6
-2013,%,total_support_ratio,Ž,Republika Srpska,48.2
-2013,%,young_age_support_ratio,Oba spola,Republika Srpska,20.4
-2013,%,young_age_support_ratio,M,Republika Srpska,20.8
-2013,%,young_age_support_ratio,Ž,Republika Srpska,20.1
-2013,%,old_age_support_ratio,Oba spola,Republika Srpska,24.0
-2013,%,old_age_support_ratio,M,Republika Srpska,19.8
-2013,%,old_age_support_ratio,Ž,Republika Srpska,28.2
-2013,%,older_persons_to_youth_ratio,Oba spola,Republika Srpska,117.4
-2013,%,older_persons_to_youth_ratio,M,Republika Srpska,95.6
-2013,%,older_persons_to_youth_ratio,Ž,Republika Srpska,140.3
-2013,%,total_support_ratio,Oba spola,Brčko Distrikt BiH,43.3
-2013,%,total_support_ratio,M,Brčko Distrikt BiH,40.6
-2013,%,total_support_ratio,Ž,Brčko Distrikt BiH,46.0
-2013,%,young_age_support_ratio,Oba spola,Brčko Distrikt BiH,22.4
-2013,%,young_age_support_ratio,M,Brčko Distrikt BiH,23.3
-2013,%,young_age_support_ratio,Ž,Brčko Distrikt BiH,21.6
-2013,%,old_age_support_ratio,Oba spola,Brčko Distrikt BiH,20.8
-2013,%,old_age_support_ratio,M,Brčko Distrikt BiH,17.3
-2013,%,old_age_support_ratio,Ž,Brčko Distrikt BiH,24.4
-2013,%,older_persons_to_youth_ratio,Oba spola,Brčko Distrikt BiH,92.8
-2013,%,older_persons_to_youth_ratio,M,Brčko Distrikt BiH,74.5
-2013,%,older_persons_to_youth_ratio,Ž,Brčko Distrikt BiH,112.7
+2013,%,total_support_ratio,Oba spola,FBIH,40.8
+2013,%,total_support_ratio,M,FBIH,38.4
+2013,%,total_support_ratio,Ž,FBIH,43.1
+2013,%,young_age_support_ratio,Oba spola,FBIH,22.6
+2013,%,young_age_support_ratio,M,FBIH,23.3
+2013,%,young_age_support_ratio,Ž,FBIH,22.0
+2013,%,old_age_support_ratio,Oba spola,FBIH,18.1
+2013,%,old_age_support_ratio,M,FBIH,15.1
+2013,%,old_age_support_ratio,Ž,FBIH,21.1
+2013,%,older_persons_to_youth_ratio,Oba spola,FBIH,80.1
+2013,%,older_persons_to_youth_ratio,M,FBIH,65.0
+2013,%,older_persons_to_youth_ratio,Ž,FBIH,96.1
+2013,%,total_support_ratio,Oba spola,RS,44.4
+2013,%,total_support_ratio,M,RS,40.6
+2013,%,total_support_ratio,Ž,RS,48.2
+2013,%,young_age_support_ratio,Oba spola,RS,20.4
+2013,%,young_age_support_ratio,M,RS,20.8
+2013,%,young_age_support_ratio,Ž,RS,20.1
+2013,%,old_age_support_ratio,Oba spola,RS,24.0
+2013,%,old_age_support_ratio,M,RS,19.8
+2013,%,old_age_support_ratio,Ž,RS,28.2
+2013,%,older_persons_to_youth_ratio,Oba spola,RS,117.4
+2013,%,older_persons_to_youth_ratio,M,RS,95.6
+2013,%,older_persons_to_youth_ratio,Ž,RS,140.3
+2013,%,total_support_ratio,Oba spola,BD,43.3
+2013,%,total_support_ratio,M,BD,40.6
+2013,%,total_support_ratio,Ž,BD,46.0
+2013,%,young_age_support_ratio,Oba spola,BD,22.4
+2013,%,young_age_support_ratio,M,BD,23.3
+2013,%,young_age_support_ratio,Ž,BD,21.6
+2013,%,old_age_support_ratio,Oba spola,BD,20.8
+2013,%,old_age_support_ratio,M,BD,17.3
+2013,%,old_age_support_ratio,Ž,BD,24.4
+2013,%,older_persons_to_youth_ratio,Oba spola,BD,92.8
+2013,%,older_persons_to_youth_ratio,M,BD,74.5
+2013,%,older_persons_to_youth_ratio,Ž,BD,112.7

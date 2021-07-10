@@ -21,13 +21,13 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",

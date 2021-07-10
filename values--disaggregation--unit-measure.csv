@@ -1,7 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _%,% of total,_%,_%,_%,1057,16
 %,%,%,%,%,119,7
-Age,Age,Starost,Старост,Starost,38,5
+Age,Age,Age,Старост,Starost,38,5
 BAM,BAM,BAM,BAM,BAM,5,2
 boys_to_girls,Number of boys to 100 girls,boys_to_girls,boys_to_girls,boys_to_girls,4,1
 children_pre_woman,Number of children per woman 15-49,children_pre_woman,children_pre_woman,children_pre_woman,10,2

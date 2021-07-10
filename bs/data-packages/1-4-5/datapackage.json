@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
+                "FBIH",
                 "BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "RS",
+                "BD",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "UNIT_MEASURE",

@@ -1,20 +1,20 @@
-Year,UNIT_MEASURE,Entitet,Value
-2005,Broj,Republika Srpska,47.28
-2006,Broj,Republika Srpska,44.67
-2007,Broj,Federacija BiH,43.82
-2007,Broj,Republika Srpska,53.73
-2008,Broj,Federacija BiH,35.76
-2008,Broj,Republika Srpska,57.88
-2009,Broj,Federacija BiH,47.12
-2009,Broj,Republika Srpska,54.71
-2010,Broj,Federacija BiH,38.95
-2010,Broj,Republika Srpska,55.88
-2011,Broj,Federacija BiH,35.14
-2011,Broj,Republika Srpska,59.01
-2012,Broj,Federacija BiH,41.44
-2013,Broj,Federacija BiH,26.08
-2014,Broj,Federacija BiH,17.67
-2015,Broj,Federacija BiH,45.75
-2016,Broj,Federacija BiH,51.07
-2016,Broj,Republika Srpska,75.83
-2017,Broj,Federacija BiH,49.6
+Year,UNIT_MEASURE,Entity,Value
+2005,Broj,RS,47.28
+2006,Broj,RS,44.67
+2007,Broj,FBIH,43.82
+2007,Broj,RS,53.73
+2008,Broj,FBIH,35.76
+2008,Broj,RS,57.88
+2009,Broj,FBIH,47.12
+2009,Broj,RS,54.71
+2010,Broj,FBIH,38.95
+2010,Broj,RS,55.88
+2011,Broj,FBIH,35.14
+2011,Broj,RS,59.01
+2012,Broj,FBIH,41.44
+2013,Broj,FBIH,26.08
+2014,Broj,FBIH,17.67
+2015,Broj,FBIH,45.75
+2016,Broj,FBIH,51.07
+2016,Broj,RS,75.83
+2017,Broj,FBIH,49.6

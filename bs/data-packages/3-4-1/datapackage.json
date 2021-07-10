@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
+                "FBIH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Entity"
           },
           {
             "name": "Value",

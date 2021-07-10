@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
+                "LIVE_BIRTH",
+                "DEATHS",
                 "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "BIRTHS"
           },
           {
             "name": "UNIT_MEASURE",
