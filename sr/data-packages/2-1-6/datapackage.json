@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-6",
-  "title": "global_indicators.2-1-6-title"
+  "title": "Пројектована сирова стопа морталитета"
 }

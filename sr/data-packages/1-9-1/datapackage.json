@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
+                "1 члан",
+                "2 члана",
+                "3 члана",
+                "4 члана",
+                "5 чланова",
+                "6 чланова",
+                "7 чланова",
+                "8+ чланова",
                 ""
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Величина домаћинства"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "1-9-1",
-  "title": "global_indicators.1-9-1-title"
+  "title": "Домаћинства"
 }

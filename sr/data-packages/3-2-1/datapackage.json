@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "ADMIN_AREA",
@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "Ентитет"
+            "title": "Административно подручје"
           },
           {
             "name": "Value",
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Стопа смртности испод пет година"
+  "title": "Рак грлића материце"
 }

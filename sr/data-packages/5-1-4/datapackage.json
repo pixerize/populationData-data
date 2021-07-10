@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_ALL",
+                "Сви",
                 "10-14",
                 "15-19",
                 "20-24",
@@ -56,7 +56,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -69,5 +69,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-4",
-  "title": "global_indicators.5-1-4-title"
+  "title": "Неписмено становништво у доби изнад 10 година, према старосној групи и полу"
 }

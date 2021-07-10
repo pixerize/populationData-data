@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "AGE",
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-3",
-  "title": "global_indicators.1-4-3-title"
+  "title": "Стопа фертилитета према доби"
 }

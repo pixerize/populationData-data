@@ -18,15 +18,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-1",
-  "title": "global_indicators.1-7-1-title"
+  "title": "Очекивана дужина живота при рођењу, према полу"
 }

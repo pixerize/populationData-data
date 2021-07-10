@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -38,14 +38,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
+                "Предшколски одгој и образовање",
+                "Основна школа",
+                "Средња школа",
+                "Високо образовање /универзитет",
                 ""
               ]
             },
-            "title": "ENROLMENT"
+            "title": "Врста образовне установе"
           },
           {
             "name": "Value",
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "global_indicators.5-1-2-title"
+  "title": "Становништво уписано у формалне образовне установе, према полу и врсти образовне установе"
 }

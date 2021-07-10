@@ -18,17 +18,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "Укупан омјер економске подршке",
+                "Омјер економске подршке младима",
+                "Омјер економске подршке старијим лицима",
+                "Омјер старијих и младих",
                 ""
               ]
             },
@@ -40,8 +40,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-3",
-  "title": "global_indicators.2-1-3-title"
+  "title": "Пројектоване стопе зависности, према полу"
 }

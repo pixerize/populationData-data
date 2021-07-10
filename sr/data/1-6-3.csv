@@ -1,4 +1,4 @@
-Year,Пол,Ентитет,UNIT_MEASURE,Value
+Year,Пол,Административно подручје,UNIT_MEASURE,Value
 1971,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,22.0
 1981,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,17.2
 1991,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,14.9
@@ -26,54 +26,54 @@ Year,Пол,Ентитет,UNIT_MEASURE,Value
 2017,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
 2018,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,6.2
 2019,Оба пола,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
-1996,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,14.8
-1997,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,14.6
-1998,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,12.9
-1999,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,11.2
-2000,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,10.8
-2001,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,8.2
-2002,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,10.4
-2003,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,8.4
-2004,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,8.3
-2005,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,7.5
-2006,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,9.0
-2007,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,7.5
-2008,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,7.4
-2009,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.4
-2010,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,7.2
-2011,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
-2012,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.6
-2013,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.9
-2014,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,4.7
-2015,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
-2016,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,7.1
-2017,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
-2018,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.0
-2019,Мушкарци,BiH,NO_PER_1000_LIVE_BIRTHS,6.9
-1996,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,13.2
-1997,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,10.0
-1998,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,8.9
-1999,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,9.1
-2000,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,8.5
-2001,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,7.0
-2002,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,8.3
-2003,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
-2004,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.0
-2005,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,5.9
-2006,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,5.9
-2007,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
-2008,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.3
-2009,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
-2010,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,5.6
-2011,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,4.8
-2012,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,4.2
-2013,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,4.8
-2014,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,5.6
-2015,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
-2016,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,4.6
-2017,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.3
-2018,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
-2019,Жене,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
+1996,M,BiH,NO_PER_1000_LIVE_BIRTHS,14.8
+1997,M,BiH,NO_PER_1000_LIVE_BIRTHS,14.6
+1998,M,BiH,NO_PER_1000_LIVE_BIRTHS,12.9
+1999,M,BiH,NO_PER_1000_LIVE_BIRTHS,11.2
+2000,M,BiH,NO_PER_1000_LIVE_BIRTHS,10.8
+2001,M,BiH,NO_PER_1000_LIVE_BIRTHS,8.2
+2002,M,BiH,NO_PER_1000_LIVE_BIRTHS,10.4
+2003,M,BiH,NO_PER_1000_LIVE_BIRTHS,8.4
+2004,M,BiH,NO_PER_1000_LIVE_BIRTHS,8.3
+2005,M,BiH,NO_PER_1000_LIVE_BIRTHS,7.5
+2006,M,BiH,NO_PER_1000_LIVE_BIRTHS,9.0
+2007,M,BiH,NO_PER_1000_LIVE_BIRTHS,7.5
+2008,M,BiH,NO_PER_1000_LIVE_BIRTHS,7.4
+2009,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.4
+2010,M,BiH,NO_PER_1000_LIVE_BIRTHS,7.2
+2011,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
+2012,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.6
+2013,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.9
+2014,M,BiH,NO_PER_1000_LIVE_BIRTHS,4.7
+2015,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
+2016,M,BiH,NO_PER_1000_LIVE_BIRTHS,7.1
+2017,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
+2018,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.0
+2019,M,BiH,NO_PER_1000_LIVE_BIRTHS,6.9
+1996,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,13.2
+1997,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,10.0
+1998,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,8.9
+1999,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,9.1
+2000,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,8.5
+2001,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,7.0
+2002,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,8.3
+2003,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.7
+2004,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.0
+2005,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,5.9
+2006,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,5.9
+2007,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
+2008,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.3
+2009,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
+2010,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,5.6
+2011,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,4.8
+2012,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,4.2
+2013,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,4.8
+2014,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,5.6
+2015,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.1
+2016,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,4.6
+2017,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.3
+2018,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
+2019,Ж,BiH,NO_PER_1000_LIVE_BIRTHS,6.5
 1996,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,13.8
 1997,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,13.0
 1998,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,12.1
@@ -98,52 +98,52 @@ Year,Пол,Ентитет,UNIT_MEASURE,Value
 2017,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.2
 2018,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.4
 2019,Оба пола,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.3
-1997,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,15.4
-1998,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,14.4
-1999,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,12.2
-2000,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,12.5
-2001,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.6
-2002,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,11.6
-2003,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
-2004,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.3
-2005,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.0
-2006,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,11.3
-2007,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
-2008,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.4
-2009,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.3
-2010,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.1
-2011,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.7
-2012,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
-2013,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
-2014,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
-2015,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
-2016,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
-2017,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
-2018,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.3
-2019,Мушкарци,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
-1997,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.3
-1998,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.7
-1999,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
-2000,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
-2001,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.2
-2002,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
-2003,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.2
-2004,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.7
-2005,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
-2006,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.5
-2007,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
-2008,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.5
-2009,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.8
-2010,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
-2011,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,5.5
-2012,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,5.2
-2013,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
-2014,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.6
-2015,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.4
-2016,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.4
-2017,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.8
-2018,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.4
-2019,Жене,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.0
+1997,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,15.4
+1998,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,14.4
+1999,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,12.2
+2000,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,12.5
+2001,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.6
+2002,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,11.6
+2003,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
+2004,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.3
+2005,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.0
+2006,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,11.3
+2007,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
+2008,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.4
+2009,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.3
+2010,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.1
+2011,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.7
+2012,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
+2013,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
+2014,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
+2015,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
+2016,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
+2017,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.5
+2018,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.3
+2019,M,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
+1997,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.3
+1998,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.7
+1999,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,10.1
+2000,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
+2001,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.2
+2002,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.5
+2003,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.2
+2004,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.7
+2005,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
+2006,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.5
+2007,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.6
+2008,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.5
+2009,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.8
+2010,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
+2011,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,5.5
+2012,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,5.2
+2013,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.2
+2014,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.6
+2015,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.4
+2016,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,6.4
+2017,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,7.8
+2018,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,8.4
+2019,Ж,Федерација БиХ,NO_PER_1000_LIVE_BIRTHS,9.0
 1996,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,14.6
 1997,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,11.3
 1998,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,8.3
@@ -168,99 +168,99 @@ Year,Пол,Ентитет,UNIT_MEASURE,Value
 2017,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.8
 2018,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.8
 2019,Оба пола,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.6
-1996,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,15.5
-1997,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,13.0
-1998,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.5
-1999,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.2
-2000,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.8
-2001,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.8
-2002,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,8.3
-2003,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.9
-2004,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.8
-2005,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
-2006,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.8
-2007,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.5
-2008,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
-2009,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.2
-2010,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.9
-2011,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.2
-2012,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.9
-2013,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.3
-2014,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.3
-2015,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.9
-2016,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.4
-2017,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.7
-2018,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.4
-2019,Мушкарци,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.4
-1996,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,13.6
-1997,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.6
-1998,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.0
-1999,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.2
-2000,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.7
-2001,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.8
-2002,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.0
-2003,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.3
-2004,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.5
-2005,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.4
-2006,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.7
-2007,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.1
-2008,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.1
-2009,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.4
-2010,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.8
-2011,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.7
-2012,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.5
-2013,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.6
-2014,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.0
-2015,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
-2016,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.3
-2017,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.9
-2018,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.2
-2019,Жене,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.8
-2004,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2005,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2006,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2007,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2008,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2009,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2010,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2011,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2012,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2013,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2014,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2015,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2016,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2017,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2018,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2019,Оба пола,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2004,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2005,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2006,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2007,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2008,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2009,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2010,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2011,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2012,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2013,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2014,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2015,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2016,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2017,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2018,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2019,Мушкарци,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2004,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2005,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2006,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2007,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2008,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2009,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2010,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2011,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2012,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2013,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2014,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2015,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2016,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2017,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2018,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
-2019,Жене,Брчко Дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+1996,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,15.5
+1997,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,13.0
+1998,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.5
+1999,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.2
+2000,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.8
+2001,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.8
+2002,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,8.3
+2003,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.9
+2004,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.8
+2005,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
+2006,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.8
+2007,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.5
+2008,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
+2009,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.2
+2010,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.9
+2011,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,5.2
+2012,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.9
+2013,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.3
+2014,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.3
+2015,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.9
+2016,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.4
+2017,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.7
+2018,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.4
+2019,M,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.4
+1996,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,13.6
+1997,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,9.6
+1998,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.0
+1999,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,7.2
+2000,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.7
+2001,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.8
+2002,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.0
+2003,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,6.3
+2004,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.5
+2005,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.4
+2006,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.7
+2007,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.1
+2008,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.1
+2009,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.4
+2010,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.8
+2011,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.7
+2012,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.5
+2013,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.6
+2014,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,4.0
+2015,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,3.8
+2016,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.3
+2017,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.9
+2018,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,2.2
+2019,Ж,Република Српска,NO_PER_1000_LIVE_BIRTHS,1.8
+2004,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2005,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2006,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2007,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2008,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2009,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2010,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2011,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2012,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2013,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2014,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2015,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2016,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2017,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2018,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2019,Оба пола,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2004,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2005,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2006,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2007,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2008,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2009,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2010,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2011,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2012,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2013,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2014,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2015,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2016,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2017,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2018,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2019,M,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2004,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2005,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2006,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2007,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2008,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2009,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2010,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2011,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2012,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2013,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2014,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2015,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2016,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2017,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2018,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0
+2019,Ж,Брчко дистрикт БиХ,NO_PER_1000_LIVE_BIRTHS,0.0

@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -38,18 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "Непотпуно основно образовање",
+                "Основна школа",
+                "Средња школа",
+                "Високо образовање и прва година факултета",
+                "Напредне школе /факултет /академија /универзитет",
+                "Непознато",
+                "Без образовања",
+                "Специјализација након завршене средње школе",
                 ""
               ]
             },
-            "title": "EDUCATION"
+            "title": "Ниво образовања"
           },
           {
             "name": "Value",
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Постојали или не законски оквири су за промоцију, провођење и надгледање једнакост и недискриминацију на основу пола"
+  "title": "Становништво у доби изнад 15 година, према достигнутом нивоу образовања и полу"
 }

@@ -18,15 +18,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -77,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-6",
-  "title": "global_indicators.1-1-6-title"
+  "title": "Пирамида становништва према старосној групи и полу"
 }

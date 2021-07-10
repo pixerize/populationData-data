@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -33,18 +33,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
-                "Natural change",
+                "Живорођени",
+                "Смртни случајеви",
+                "Природно кретање",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "Витална статистика"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-4",
-  "title": "global_indicators.2-1-4-title"
+  "title": "Пројектована витална статистика, према полу"
 }
