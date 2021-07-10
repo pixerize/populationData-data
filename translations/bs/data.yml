@@ -5,6 +5,7 @@ Value: Vrijednost
 Entity: Administrativno područje
 FBIH: Federacija BiH
 RS: Republika Srpska
+BD: Brčko distrikt BiH
 Bothsex: Oba spola
 Male: M
 Female: Ž
@@ -231,14 +232,14 @@ non-family/multi-person_households: Višečlano domaćinstvo/bez porodice
 TYPE_OF_FAMILY/HOUSEHOLD: Vrsta porodice /domaćinstva
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE:  Broj domaćinstava
 average_number_of_hh_members: Prosječan broj članova domaćinstva
-single_household: 1 član
-2_members: 2 člana
-3_members: 3 člana
-4_members: 4 člana
-5_members: 5 članova
-6_members: 6 članova
-7_members: 7 članova
-8+_members: 8+ članova
+single_household: "1 član"
+2_members: "2 člana"
+3_members: "3 člana"
+4_members: "4 člana"
+5_members: "5 članova"
+6_members: "6 članova"
+7_members: "7 članova"
+8+_members: "8+ članova"
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Veličina domaćinstva 
 DIVORCES: Razvod braka
 divorce_rate_(per_1,000_marriages): Stopa razvoda brakova (na 1.000 brakova)
@@ -279,4 +280,3 @@ children_pre_woman: Broj djece po ženi
 boys_to_girls: Dječaci na 100 djevojčica
 no_education: Bez obrazovanja
 post_secondary_school_specialisation: Specijalizacija nakon završene srednje škole
-BD: Brčko distrikt BiH
