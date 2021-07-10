@@ -143,30 +143,30 @@ Year,UNIT_MEASURE,SPOL,Entitet,Births,Value
 2017,Broj,Ž,BiH,Deaths,18793
 2018,Broj,Ž,BiH,Deaths,18737
 2019,Broj,Ž,BiH,Deaths,19787
-1996,Broj,Oba spola,BiH,Natural change,21442
-1997,Broj,Oba spola,BiH,Natural change,20522
-1998,Broj,Oba spola,BiH,Natural change,16328
-1999,Broj,Oba spola,BiH,Natural change,13827
-2000,Broj,Oba spola,BiH,Natural change,9081
-2001,Broj,Oba spola,BiH,Natural change,7392
-2002,Broj,Oba spola,BiH,Natural change,5432
-2003,Broj,Oba spola,BiH,Natural change,3477
-2004,Broj,Oba spola,BiH,Natural change,2535
-2005,Broj,Oba spola,BiH,Natural change,225
-2006,Broj,Oba spola,BiH,Natural change,812
-2007,Broj,Oba spola,BiH,Natural change,-1209
-2008,Broj,Oba spola,BiH,Natural change,150
-2009,Broj,Oba spola,BiH,Natural change,-354
-2010,Broj,Oba spola,BiH,Natural change,-1590
-2011,Broj,Oba spola,BiH,Natural change,-3217
-2012,Broj,Oba spola,BiH,Natural change,-3270
-2013,Broj,Oba spola,BiH,Natural change,-4978
-2014,Broj,Oba spola,BiH,Natural change,-5712
-2015,Broj,Oba spola,BiH,Natural change,-8380
-2016,Broj,Oba spola,BiH,Natural change,-6388
-2017,Broj,Oba spola,BiH,Natural change,-7779
-2018,Broj,Oba spola,BiH,Natural change,-8277
-2019,Broj,Oba spola,BiH,Natural change,-10469
+1996,Broj,Oba spola,BiH,NATURAL_CHANGE,21442
+1997,Broj,Oba spola,BiH,NATURAL_CHANGE,20522
+1998,Broj,Oba spola,BiH,NATURAL_CHANGE,16328
+1999,Broj,Oba spola,BiH,NATURAL_CHANGE,13827
+2000,Broj,Oba spola,BiH,NATURAL_CHANGE,9081
+2001,Broj,Oba spola,BiH,NATURAL_CHANGE,7392
+2002,Broj,Oba spola,BiH,NATURAL_CHANGE,5432
+2003,Broj,Oba spola,BiH,NATURAL_CHANGE,3477
+2004,Broj,Oba spola,BiH,NATURAL_CHANGE,2535
+2005,Broj,Oba spola,BiH,NATURAL_CHANGE,225
+2006,Broj,Oba spola,BiH,NATURAL_CHANGE,812
+2007,Broj,Oba spola,BiH,NATURAL_CHANGE,-1209
+2008,Broj,Oba spola,BiH,NATURAL_CHANGE,150
+2009,Broj,Oba spola,BiH,NATURAL_CHANGE,-354
+2010,Broj,Oba spola,BiH,NATURAL_CHANGE,-1590
+2011,Broj,Oba spola,BiH,NATURAL_CHANGE,-3217
+2012,Broj,Oba spola,BiH,NATURAL_CHANGE,-3270
+2013,Broj,Oba spola,BiH,NATURAL_CHANGE,-4978
+2014,Broj,Oba spola,BiH,NATURAL_CHANGE,-5712
+2015,Broj,Oba spola,BiH,NATURAL_CHANGE,-8380
+2016,Broj,Oba spola,BiH,NATURAL_CHANGE,-6388
+2017,Broj,Oba spola,BiH,NATURAL_CHANGE,-7779
+2018,Broj,Oba spola,BiH,NATURAL_CHANGE,-8277
+2019,Broj,Oba spola,BiH,NATURAL_CHANGE,-10469
 1997,Broj,Oba spola,Federacija BiH,Live birth,34304
 1998,Broj,Oba spola,Federacija BiH,Live birth,31480
 1999,Broj,Oba spola,Federacija BiH,Live birth,27964
@@ -305,29 +305,29 @@ Year,UNIT_MEASURE,SPOL,Entitet,Births,Value
 2017,Broj,Ž,Federacija BiH,Deaths,10710
 2018,Broj,Ž,Federacija BiH,Deaths,10686
 2019,Broj,Ž,Federacija BiH,Deaths,10884
-1997,Broj,Oba spola,Federacija BiH,Natural change,19601
-1998,Broj,Oba spola,Federacija BiH,Natural change,16169
-1999,Broj,Oba spola,Federacija BiH,Natural change,12448
-2000,Broj,Oba spola,Federacija BiH,Natural change,8387
-2001,Broj,Oba spola,Federacija BiH,Natural change,7262
-2002,Broj,Oba spola,Federacija BiH,Natural change,6263
-2003,Broj,Oba spola,Federacija BiH,Natural change,5119
-2004,Broj,Oba spola,Federacija BiH,Natural change,4128
-2005,Broj,Oba spola,Federacija BiH,Natural change,2835
-2006,Broj,Oba spola,Federacija BiH,Natural change,3105
-2007,Broj,Oba spola,Federacija BiH,Natural change,2435
-2008,Broj,Oba spola,Federacija BiH,Natural change,3614
-2009,Broj,Oba spola,Federacija BiH,Natural change,3084
-2010,Broj,Oba spola,Federacija BiH,Natural change,2126
-2011,Broj,Oba spola,Federacija BiH,Natural change,1249
-2012,Broj,Oba spola,Federacija BiH,Natural change,851
-2013,Broj,Oba spola,Federacija BiH,Natural change,-124
-2014,Broj,Oba spola,Federacija BiH,Natural change,-150
-2015,Broj,Oba spola,Federacija BiH,Natural change,-2116
-2016,Broj,Oba spola,Federacija BiH,Natural change,-1450
-2017,Broj,Oba spola,Federacija BiH,Natural change,-1865
-2018,Broj,Oba spola,Federacija BiH,Natural change,-2543
-2019,Broj,Oba spola,Federacija BiH,Natural change,-4005
+1997,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,19601
+1998,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,16169
+1999,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,12448
+2000,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,8387
+2001,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,7262
+2002,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,6263
+2003,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,5119
+2004,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,4128
+2005,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,2835
+2006,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,3105
+2007,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,2435
+2008,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,3614
+2009,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,3084
+2010,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,2126
+2011,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,1249
+2012,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,851
+2013,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-124
+2014,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-150
+2015,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-2116
+2016,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-1450
+2017,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-1865
+2018,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-2543
+2019,Broj,Oba spola,Federacija BiH,NATURAL_CHANGE,-4005
 1996,Broj,Oba spola,Republika Srpska,Live birth,12263
 1997,Broj,Oba spola,Republika Srpska,Live birth,13757
 1998,Broj,Oba spola,Republika Srpska,Live birth,13527
@@ -472,30 +472,30 @@ Year,UNIT_MEASURE,SPOL,Entitet,Births,Value
 2017,Broj,Ž,Republika Srpska,Deaths,7300
 2018,Broj,Ž,Republika Srpska,Deaths,7314
 2019,Broj,Ž,Republika Srpska,Deaths,7328
-1996,Broj,Oba spola,Republika Srpska,Natural change,1332
-1997,Broj,Oba spola,Republika Srpska,Natural change,2002
-1998,Broj,Oba spola,Republika Srpska,Natural change,1404
-1999,Broj,Oba spola,Republika Srpska,Natural change,2348
-2000,Broj,Oba spola,Republika Srpska,Natural change,1231
-2001,Broj,Oba spola,Republika Srpska,Natural change,767
-2002,Broj,Oba spola,Republika Srpska,Natural change,-644
-2003,Broj,Oba spola,Republika Srpska,Natural change,-2451
-2004,Broj,Oba spola,Republika Srpska,Natural change,-2454
-2005,Broj,Oba spola,Republika Srpska,Natural change,-3480
-2006,Broj,Oba spola,Republika Srpska,Natural change,-2708
-2007,Broj,Oba spola,Republika Srpska,Natural change,-4036
-2008,Broj,Oba spola,Republika Srpska,Natural change,-3303
-2009,Broj,Oba spola,Republika Srpska,Natural change,-3172
-2010,Broj,Oba spola,Republika Srpska,Natural change,-3370
-2011,Broj,Oba spola,Republika Srpska,Natural change,-4097
-2012,Broj,Oba spola,Republika Srpska,Natural change,-3818
-2013,Broj,Oba spola,Republika Srpska,Natural change,-4468
-2014,Broj,Oba spola,Republika Srpska,Natural change,-5074
-2015,Broj,Oba spola,Republika Srpska,Natural change,-5702
-2016,Broj,Oba spola,Republika Srpska,Natural change,-4518
-2017,Broj,Oba spola,Republika Srpska,Natural change,-5324
-2018,Broj,Oba spola,Republika Srpska,Natural change,-5195
-2019,Broj,Oba spola,Republika Srpska,Natural change,-5807
+1996,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,1332
+1997,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,2002
+1998,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,1404
+1999,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,2348
+2000,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,1231
+2001,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,767
+2002,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-644
+2003,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-2451
+2004,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-2454
+2005,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-3480
+2006,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-2708
+2007,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-4036
+2008,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-3303
+2009,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-3172
+2010,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-3370
+2011,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-4097
+2012,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-3818
+2013,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-4468
+2014,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-5074
+2015,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-5702
+2016,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-4518
+2017,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-5324
+2018,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-5195
+2019,Broj,Oba spola,Republika Srpska,NATURAL_CHANGE,-5807
 2002,Broj,Oba spola,Brčko Distrikt BiH,Live birth,898
 2003,Broj,Oba spola,Brčko Distrikt BiH,Live birth,987
 2004,Broj,Oba spola,Brčko Distrikt BiH,Live birth,984
@@ -604,21 +604,21 @@ Year,UNIT_MEASURE,SPOL,Entitet,Births,Value
 2017,Broj,Ž,Brčko Distrikt BiH,Deaths,548
 2018,Broj,Ž,Brčko Distrikt BiH,Deaths,517
 2019,Broj,Ž,Brčko Distrikt BiH,Deaths,567
-2002,Broj,Oba spola,Brčko Distrikt BiH,Natural change,222
-2003,Broj,Oba spola,Brčko Distrikt BiH,Natural change,216
-2004,Broj,Oba spola,Brčko Distrikt BiH,Natural change,193
-2005,Broj,Oba spola,Brčko Distrikt BiH,Natural change,147
-2006,Broj,Oba spola,Brčko Distrikt BiH,Natural change,170
-2007,Broj,Oba spola,Brčko Distrikt BiH,Natural change,158
-2008,Broj,Oba spola,Brčko Distrikt BiH,Natural change,15
-2009,Broj,Oba spola,Brčko Distrikt BiH,Natural change,21
-2010,Broj,Oba spola,Brčko Distrikt BiH,Natural change,10
-2011,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-49
-2012,Broj,Oba spola,Brčko Distrikt BiH,Natural change,41
-2013,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-40
-2014,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-81
-2015,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-182
-2016,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-112
-2017,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-203
-2018,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-171
-2019,Broj,Oba spola,Brčko Distrikt BiH,Natural change,-233
+2002,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,222
+2003,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,216
+2004,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,193
+2005,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,147
+2006,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,170
+2007,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,158
+2008,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,15
+2009,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,21
+2010,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,10
+2011,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-49
+2012,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,41
+2013,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-40
+2014,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-81
+2015,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-182
+2016,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-112
+2017,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-203
+2018,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-171
+2019,Broj,Oba spola,Brčko Distrikt BiH,NATURAL_CHANGE,-233

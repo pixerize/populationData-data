@@ -54,7 +54,7 @@
               "enum": [
                 "Live birth",
                 "Deaths",
-                "Natural change",
+                "NATURAL_CHANGE",
                 ""
               ]
             },
