@@ -1,5 +1,5 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-ADMIN_AREA,Administrative area,Test,Ентитет,Entitet,50,4
+ADMIN_AREA,Administrative area,Admin. podrucje,Ентитет,Entitet,50,4
 AGE,AGE,AGE,Године,Godine,17,178
 BIRTHS,Vital statistics,Vitalna statistika,Births,Births,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),CAUSE_OF_DEATH,CAUSE_OF_DEATH,2,22
