@@ -18,15 +18,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-1",
-  "title": "global_indicators.1-7-1-title"
+  "title": "Očekivana dužina života pri rođenju, prema spolu"
 }

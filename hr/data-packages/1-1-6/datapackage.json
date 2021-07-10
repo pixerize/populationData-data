@@ -18,15 +18,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -77,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-6",
-  "title": "global_indicators.1-1-6-title"
+  "title": "Piramida stanovništva prema dobnoj skupini i spolu"
 }

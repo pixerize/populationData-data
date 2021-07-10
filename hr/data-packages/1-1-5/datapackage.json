@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Municipality",
@@ -225,5 +225,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-5",
-  "title": "global_indicators.1-1-5-title"
+  "title": "Stanovništvo prema općini, dobnoj skupini i spolu"
 }

@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Stopa smrtnosti samoubistava"
+  "title": "Carski rez na 1.000 živorođenih"
 }

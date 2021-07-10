@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Entitet,Value
+Year,UNIT_MEASURE,ADMIN_AREA,Value
 1971,no_per_1000_marriages,BiH,88.2
 1981,no_per_1000_marriages,BiH,93.3
 1991,no_per_1000_marriages,BiH,56.3
@@ -72,21 +72,21 @@ Year,UNIT_MEASURE,Entitet,Value
 2017,no_per_1000_marriages,Republika Srpska,165.4
 2018,no_per_1000_marriages,Republika Srpska,161.4
 2019,no_per_1000_marriages,Republika Srpska,158.0
-2002,no_per_1000_marriages,Brčko Distrikt BiH,90.1
-2003,no_per_1000_marriages,Brčko Distrikt BiH,122.1
-2004,no_per_1000_marriages,Brčko Distrikt BiH,122.8
-2005,no_per_1000_marriages,Brčko Distrikt BiH,127.1
-2006,no_per_1000_marriages,Brčko Distrikt BiH,135.2
-2007,no_per_1000_marriages,Brčko Distrikt BiH,132.0
-2008,no_per_1000_marriages,Brčko Distrikt BiH,120.6
-2009,no_per_1000_marriages,Brčko Distrikt BiH,207.5
-2010,no_per_1000_marriages,Brčko Distrikt BiH,249.2
-2011,no_per_1000_marriages,Brčko Distrikt BiH,324.6
-2012,no_per_1000_marriages,Brčko Distrikt BiH,335.7
-2013,no_per_1000_marriages,Brčko Distrikt BiH,307.1
-2014,no_per_1000_marriages,Brčko Distrikt BiH,378.6
-2015,no_per_1000_marriages,Brčko Distrikt BiH,464.2
-2016,no_per_1000_marriages,Brčko Distrikt BiH,442.6
-2017,no_per_1000_marriages,Brčko Distrikt BiH,410.9
-2018,no_per_1000_marriages,Brčko Distrikt BiH,471.5
-2019,no_per_1000_marriages,Brčko Distrikt BiH,312.2
+2002,no_per_1000_marriages,Brčko distrikt BiH,90.1
+2003,no_per_1000_marriages,Brčko distrikt BiH,122.1
+2004,no_per_1000_marriages,Brčko distrikt BiH,122.8
+2005,no_per_1000_marriages,Brčko distrikt BiH,127.1
+2006,no_per_1000_marriages,Brčko distrikt BiH,135.2
+2007,no_per_1000_marriages,Brčko distrikt BiH,132.0
+2008,no_per_1000_marriages,Brčko distrikt BiH,120.6
+2009,no_per_1000_marriages,Brčko distrikt BiH,207.5
+2010,no_per_1000_marriages,Brčko distrikt BiH,249.2
+2011,no_per_1000_marriages,Brčko distrikt BiH,324.6
+2012,no_per_1000_marriages,Brčko distrikt BiH,335.7
+2013,no_per_1000_marriages,Brčko distrikt BiH,307.1
+2014,no_per_1000_marriages,Brčko distrikt BiH,378.6
+2015,no_per_1000_marriages,Brčko distrikt BiH,464.2
+2016,no_per_1000_marriages,Brčko distrikt BiH,442.6
+2017,no_per_1000_marriages,Brčko distrikt BiH,410.9
+2018,no_per_1000_marriages,Brčko distrikt BiH,471.5
+2019,no_per_1000_marriages,Brčko distrikt BiH,312.2

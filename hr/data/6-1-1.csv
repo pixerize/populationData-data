@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Entitet,Value
+Year,UNIT_MEASURE,ADMIN_AREA,Value
 1997,BAM,BiH,6752
 1998,BAM,BiH,7650
 1999,BAM,BiH,8604
@@ -68,26 +68,26 @@ Year,UNIT_MEASURE,Entitet,Value
 2017,BAM,Republika Srpska,10077
 2018,BAM,Republika Srpska,10680
 2019,BAM,Republika Srpska,11251
-2000,BAM,Brčko Distrikt BiH,154
-2001,BAM,Brčko Distrikt BiH,213
-2002,BAM,Brčko Distrikt BiH,291
-2003,BAM,Brčko Distrikt BiH,318
-2004,BAM,Brčko Distrikt BiH,374
-2005,BAM,Brčko Distrikt BiH,448
-2006,BAM,Brčko Distrikt BiH,470
-2007,BAM,Brčko Distrikt BiH,553
-2008,BAM,Brčko Distrikt BiH,586
-2009,BAM,Brčko Distrikt BiH,555
-2010,BAM,Brčko Distrikt BiH,568
-2011,BAM,Brčko Distrikt BiH,601
-2012,BAM,Brčko Distrikt BiH,595
-2013,BAM,Brčko Distrikt BiH,607
-2014,BAM,Brčko Distrikt BiH,644
-2015,BAM,Brčko Distrikt BiH,696
-2016,BAM,Brčko Distrikt BiH,734
-2017,BAM,Brčko Distrikt BiH,760
-2018,BAM,Brčko Distrikt BiH,781
-2019,BAM,Brčko Distrikt BiH,865
+2000,BAM,Brčko distrikt BiH,154
+2001,BAM,Brčko distrikt BiH,213
+2002,BAM,Brčko distrikt BiH,291
+2003,BAM,Brčko distrikt BiH,318
+2004,BAM,Brčko distrikt BiH,374
+2005,BAM,Brčko distrikt BiH,448
+2006,BAM,Brčko distrikt BiH,470
+2007,BAM,Brčko distrikt BiH,553
+2008,BAM,Brčko distrikt BiH,586
+2009,BAM,Brčko distrikt BiH,555
+2010,BAM,Brčko distrikt BiH,568
+2011,BAM,Brčko distrikt BiH,601
+2012,BAM,Brčko distrikt BiH,595
+2013,BAM,Brčko distrikt BiH,607
+2014,BAM,Brčko distrikt BiH,644
+2015,BAM,Brčko distrikt BiH,696
+2016,BAM,Brčko distrikt BiH,734
+2017,BAM,Brčko distrikt BiH,760
+2018,BAM,Brčko distrikt BiH,781
+2019,BAM,Brčko distrikt BiH,865
 1997,EUR,BiH,3424
 1998,EUR,BiH,3879
 1999,EUR,BiH,4399
@@ -111,26 +111,26 @@ Year,UNIT_MEASURE,Entitet,Value
 2017,EUR,BiH,16043
 2018,EUR,BiH,17100
 2019,EUR,BiH,18047
-1997,Američki dolar,BiH,3894
-1998,Američki dolar,BiH,4343
-1999,Američki dolar,BiH,4691
-2000,Američki dolar,BiH,4536
-2001,Američki dolar,BiH,4795
-2002,Američki dolar,BiH,5610
-2003,Američki dolar,BiH,7097
-2004,Američki dolar,BiH,8567
-2005,Američki dolar,BiH,11221
-2006,Američki dolar,BiH,12865
-2007,Američki dolar,BiH,15773
-2008,Američki dolar,BiH,19093
-2009,Američki dolar,BiH,17628
-2010,Američki dolar,BiH,17174
-2011,Američki dolar,BiH,18655
-2012,Američki dolar,BiH,17222
-2013,Američki dolar,BiH,18173
-2014,Američki dolar,BiH,18566
-2015,Američki dolar,BiH,16220
-2016,Američki dolar,BiH,16914
-2017,Američki dolar,BiH,18079
-2018,Američki dolar,BiH,20177
-2019,Američki dolar,BiH,20201
+1997,USD,BiH,3894
+1998,USD,BiH,4343
+1999,USD,BiH,4691
+2000,USD,BiH,4536
+2001,USD,BiH,4795
+2002,USD,BiH,5610
+2003,USD,BiH,7097
+2004,USD,BiH,8567
+2005,USD,BiH,11221
+2006,USD,BiH,12865
+2007,USD,BiH,15773
+2008,USD,BiH,19093
+2009,USD,BiH,17628
+2010,USD,BiH,17174
+2011,USD,BiH,18655
+2012,USD,BiH,17222
+2013,USD,BiH,18173
+2014,USD,BiH,18566
+2015,USD,BiH,16220
+2016,USD,BiH,16914
+2017,USD,BiH,18079
+2018,USD,BiH,20177
+2019,USD,BiH,20201

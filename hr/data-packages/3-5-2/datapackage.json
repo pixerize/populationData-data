@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -27,11 +27,11 @@
               "enum": [
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-2",
-  "title": "Potrošnja alkohola po stanovniku (starosti od 15 i više godina) u kalendarskoj godini u litrima čistog alkohola"
+  "title": "Bolnički kreveti na 100.000 stanovnika"
 }

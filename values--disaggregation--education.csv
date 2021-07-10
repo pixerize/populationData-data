@@ -1,9 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-advanced_schools_faculty_academy_university,Advanced schools / faculty / academy / university,Napredne škole /fakultet /akademija /univerzitet,advanced_schools_faculty_academy_university,advanced_schools_faculty_academy_university,6,1
-higher_school_and_first_grade_of_faculty,Higher school and first grade of faculty,Visoko obrazovanje i prva godina fakulteta,higher_school_and_first_grade_of_faculty,higher_school_and_first_grade_of_faculty,6,1
-incomplete_primary_education,Incomplete primary education,Nepotpuno osnovno obrazovanje,incomplete_primary_education,incomplete_primary_education,6,1
-no_education,No education,Bez obrazovanja,no_education,no_education,6,1
-post_secondary_school_specialisation,Post-secondary school specialisation,Specijalizacija nakon završene srednje škole,post_secondary_school_specialisation,post_secondary_school_specialisation,6,1
-primary_school,Primary school,Osnovna škola,primary_school,primary_school,6,1
-secondary_school,Secondary school,Srednja škola,secondary_school,secondary_school,6,1
-unknown,Unknown,Nepoznato,unknown,unknown,6,1
+advanced_schools_faculty_academy_university,Advanced schools / faculty / academy / university,Napredne škole /fakultet /akademija /univerzitet,advanced_schools_faculty_academy_university,Napredne škole /fakultet /akademija /sveučilište,6,1
+higher_school_and_first_grade_of_faculty,Higher school and first grade of faculty,Visoko obrazovanje i prva godina fakulteta,higher_school_and_first_grade_of_faculty,Visoko obrazovanje i prva godina fakulteta,6,1
+incomplete_primary_education,Incomplete primary education,Nepotpuno osnovno obrazovanje,incomplete_primary_education,Nepotpuno osnovno obrazovanje,6,1
+no_education,No education,Bez obrazovanja,no_education,Bez obrazovanja,6,1
+post_secondary_school_specialisation,Post-secondary school specialisation,Specijalizacija nakon završene srednje škole,post_secondary_school_specialisation,Specijalizacija nakon završene srednje škole,6,1
+primary_school,Primary school,Osnovna škola,primary_school,Osnovna škola,6,1
+secondary_school,Secondary school,Srednja škola,secondary_school,Srednja škola,6,1
+unknown,Unknown,Nepoznato,unknown,Nepoznato,6,1

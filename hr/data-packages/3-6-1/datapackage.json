@@ -18,20 +18,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
-                "all_methods",
-                "traditional_methods",
+                "Suvremene metode",
+                "Sve metode",
+                "Tradicionalne metode",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Metoda"
           },
           {
             "name": "ADMIN_AREA",
@@ -41,11 +41,11 @@
                 "Federacija BiH",
                 "Republika Srpska",
                 "BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "3-6-1",
-  "title": "Stopa smrtnosti zbog povreda u drumskom saobraćaju"
+  "title": "Stopa prevalencije kontracepcije"
 }

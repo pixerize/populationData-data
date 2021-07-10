@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -75,7 +75,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -88,5 +88,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-2",
-  "title": "Rasprostranjenost umjerene ili ozbiljne prehrambene nesigurnosti među stanovništvom, na osnovu Skale iskustva u pogledu nesigurnosti hrane (FIES)"
+  "title": "Projicirano stanovništvo, prema starosnoj grupi i spolu"
 }

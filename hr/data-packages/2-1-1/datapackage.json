@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -163,7 +163,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -176,5 +176,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-1",
-  "title": "Rasprostranjenot podhranjenosti"
+  "title": "Projicirano stanovništvo, prema dobi i spolu"
 }

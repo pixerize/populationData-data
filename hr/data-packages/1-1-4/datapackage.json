@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -67,7 +67,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -76,11 +76,11 @@
               "enum": [
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -93,5 +93,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-4",
-  "title": "global_indicators.1-1-4-title"
+  "title": "Stanovništvo po entitetima, dobnoj skupini i spolu"
 }

@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
+  "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kad)"
 }

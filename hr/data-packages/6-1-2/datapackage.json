@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -42,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "global_indicators.6-1-2-title"
+  "title": "Bruto domaći proizvod – po glavi stanovništva"
 }

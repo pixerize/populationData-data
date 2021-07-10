@@ -1,100 +1,100 @@
-Year,Spol,Births,UNIT_MEASURE,Value
-2020,Oba spola,Live birth,Broj,29511.0
-2020,Oba spola,Deaths,Broj,37517.0
-2020,Oba spola,Natural change,Broj,-8006.0
-2025,Oba spola,Live birth,Broj,26090.0
-2025,Oba spola,Deaths,Broj,39013.0
-2025,Oba spola,Natural change,Broj,-12924.0
-2030,Oba spola,Live birth,Broj,22815.0
-2030,Oba spola,Deaths,Broj,40539.0
-2030,Oba spola,Natural change,Broj,-17724.0
-2035,Oba spola,Live birth,Broj,20041.0
-2035,Oba spola,Deaths,Broj,42144.0
-2035,Oba spola,Natural change,Broj,-22103.0
-2040,Oba spola,Live birth,Broj,18095.0
-2040,Oba spola,Deaths,Broj,43514.0
-2040,Oba spola,Natural change,Broj,-25419.0
-2045,Oba spola,Live birth,Broj,16461.0
-2045,Oba spola,Deaths,Broj,44097.0
-2045,Oba spola,Natural change,Broj,-27635.0
-2050,Oba spola,Live birth,Broj,14955.0
-2050,Oba spola,Deaths,Broj,43537.0
-2050,Oba spola,Natural change,Broj,-28582.0
-2055,Oba spola,Live birth,Broj,13510.0
-2055,Oba spola,Deaths,Broj,42130.0
-2055,Oba spola,Natural change,Broj,-28620.0
-2060,Oba spola,Live birth,Broj,12120.0
-2060,Oba spola,Deaths,Broj,40129.0
-2060,Oba spola,Natural change,Broj,-28009.0
-2065,Oba spola,Live birth,Broj,10861.0
-2065,Oba spola,Deaths,Broj,37783.0
-2065,Oba spola,Natural change,Broj,-26921.0
-2070,Oba spola,Live birth,Broj,9813.0
-2070,Oba spola,Deaths,Broj,35279.0
-2070,Oba spola,Natural change,Broj,-25466.0
-2020,Muškarci,Live birth,Broj,15198.1
-2020,Muškarci,Deaths,Broj,19067.38
-2020,Muškarci,Natural change,Broj,-3869.28
-2025,Muškarci,Live birth,Broj,13436.14
-2025,Muškarci,Deaths,Broj,19749.42
-2025,Muškarci,Natural change,Broj,-6313.28
-2030,Muškarci,Live birth,Broj,11749.71
-2030,Muškarci,Deaths,Broj,20415.9
-2030,Muškarci,Natural change,Broj,-8666.19
-2035,Muškarci,Live birth,Broj,10321.36
-2035,Muškarci,Deaths,Broj,21109.52
-2035,Muškarci,Natural change,Broj,-10788.16
-2040,Muškarci,Live birth,Broj,9318.9
-2040,Muškarci,Deaths,Broj,21636.31
-2040,Muškarci,Natural change,Broj,-12317.42
-2045,Muškarci,Live birth,Broj,8477.6
-2045,Muškarci,Deaths,Broj,21687.35
-2045,Muškarci,Natural change,Broj,-13209.75
-2050,Muškarci,Live birth,Broj,7701.99
-2050,Muškarci,Deaths,Broj,21195.41
-2050,Muškarci,Natural change,Broj,-13493.42
-2055,Muškarci,Live birth,Broj,6957.74
-2055,Muškarci,Deaths,Broj,20338.32
-2055,Muškarci,Natural change,Broj,-13380.59
-2060,Muškarci,Live birth,Broj,6241.95
-2060,Muškarci,Deaths,Broj,19207.75
-2060,Muškarci,Natural change,Broj,-12965.8
-2065,Muškarci,Live birth,Broj,5593.5
-2065,Muškarci,Deaths,Broj,17838.31
-2065,Muškarci,Natural change,Broj,-12244.81
-2070,Muškarci,Live birth,Broj,5053.93
-2070,Muškarci,Deaths,Broj,16375.72
-2070,Muškarci,Natural change,Broj,-11321.79
-2020,Žene,Live birth,Broj,14312.78
-2020,Žene,Deaths,Broj,18449.39
-2020,Žene,Natural change,Broj,-4136.61
-2025,Žene,Live birth,Broj,12653.45
-2025,Žene,Deaths,Broj,19263.68
-2025,Žene,Natural change,Broj,-6610.23
-2030,Žene,Live birth,Broj,11065.26
-2030,Žene,Deaths,Broj,20122.9
-2030,Žene,Natural change,Broj,-9057.64
-2035,Žene,Live birth,Broj,9720.12
-2035,Žene,Deaths,Broj,21034.49
-2035,Žene,Natural change,Broj,-11314.37
-2040,Žene,Live birth,Broj,8776.05
-2040,Žene,Deaths,Broj,21877.98
-2040,Žene,Natural change,Broj,-13101.93
-2045,Žene,Live birth,Broj,7983.76
-2045,Žene,Deaths,Broj,22409.28
-2045,Žene,Natural change,Broj,-14425.52
-2050,Žene,Live birth,Broj,7253.33
-2050,Žene,Deaths,Broj,22341.66
-2050,Žene,Natural change,Broj,-15088.33
-2055,Žene,Live birth,Broj,6552.43
-2055,Žene,Deaths,Broj,21791.64
-2055,Žene,Natural change,Broj,-15239.21
-2060,Žene,Live birth,Broj,5878.35
-2060,Žene,Deaths,Broj,20921.08
-2060,Žene,Natural change,Broj,-15042.73
-2065,Žene,Live birth,Broj,5267.66
-2065,Žene,Deaths,Broj,19944.35
-2065,Žene,Natural change,Broj,-14676.69
-2070,Žene,Live birth,Broj,4759.53
-2070,Žene,Deaths,Broj,18903.51
-2070,Žene,Natural change,Broj,-14143.98
+Year,Spol,Vitalna statistika,UNIT_MEASURE,Value
+2020,Oba spola,Živorođeni,Broj,29511.0
+2020,Oba spola,Smrtni slučajevi,Broj,37517.0
+2020,Oba spola,Prirodno kretanje,Broj,-8006.0
+2025,Oba spola,Živorođeni,Broj,26090.0
+2025,Oba spola,Smrtni slučajevi,Broj,39013.0
+2025,Oba spola,Prirodno kretanje,Broj,-12924.0
+2030,Oba spola,Živorođeni,Broj,22815.0
+2030,Oba spola,Smrtni slučajevi,Broj,40539.0
+2030,Oba spola,Prirodno kretanje,Broj,-17724.0
+2035,Oba spola,Živorođeni,Broj,20041.0
+2035,Oba spola,Smrtni slučajevi,Broj,42144.0
+2035,Oba spola,Prirodno kretanje,Broj,-22103.0
+2040,Oba spola,Živorođeni,Broj,18095.0
+2040,Oba spola,Smrtni slučajevi,Broj,43514.0
+2040,Oba spola,Prirodno kretanje,Broj,-25419.0
+2045,Oba spola,Živorođeni,Broj,16461.0
+2045,Oba spola,Smrtni slučajevi,Broj,44097.0
+2045,Oba spola,Prirodno kretanje,Broj,-27635.0
+2050,Oba spola,Živorođeni,Broj,14955.0
+2050,Oba spola,Smrtni slučajevi,Broj,43537.0
+2050,Oba spola,Prirodno kretanje,Broj,-28582.0
+2055,Oba spola,Živorođeni,Broj,13510.0
+2055,Oba spola,Smrtni slučajevi,Broj,42130.0
+2055,Oba spola,Prirodno kretanje,Broj,-28620.0
+2060,Oba spola,Živorođeni,Broj,12120.0
+2060,Oba spola,Smrtni slučajevi,Broj,40129.0
+2060,Oba spola,Prirodno kretanje,Broj,-28009.0
+2065,Oba spola,Živorođeni,Broj,10861.0
+2065,Oba spola,Smrtni slučajevi,Broj,37783.0
+2065,Oba spola,Prirodno kretanje,Broj,-26921.0
+2070,Oba spola,Živorođeni,Broj,9813.0
+2070,Oba spola,Smrtni slučajevi,Broj,35279.0
+2070,Oba spola,Prirodno kretanje,Broj,-25466.0
+2020,M,Živorođeni,Broj,15198.1
+2020,M,Smrtni slučajevi,Broj,19067.38
+2020,M,Prirodno kretanje,Broj,-3869.28
+2025,M,Živorođeni,Broj,13436.14
+2025,M,Smrtni slučajevi,Broj,19749.42
+2025,M,Prirodno kretanje,Broj,-6313.28
+2030,M,Živorođeni,Broj,11749.71
+2030,M,Smrtni slučajevi,Broj,20415.9
+2030,M,Prirodno kretanje,Broj,-8666.19
+2035,M,Živorođeni,Broj,10321.36
+2035,M,Smrtni slučajevi,Broj,21109.52
+2035,M,Prirodno kretanje,Broj,-10788.16
+2040,M,Živorođeni,Broj,9318.9
+2040,M,Smrtni slučajevi,Broj,21636.31
+2040,M,Prirodno kretanje,Broj,-12317.42
+2045,M,Živorođeni,Broj,8477.6
+2045,M,Smrtni slučajevi,Broj,21687.35
+2045,M,Prirodno kretanje,Broj,-13209.75
+2050,M,Živorođeni,Broj,7701.99
+2050,M,Smrtni slučajevi,Broj,21195.41
+2050,M,Prirodno kretanje,Broj,-13493.42
+2055,M,Živorođeni,Broj,6957.74
+2055,M,Smrtni slučajevi,Broj,20338.32
+2055,M,Prirodno kretanje,Broj,-13380.59
+2060,M,Živorođeni,Broj,6241.95
+2060,M,Smrtni slučajevi,Broj,19207.75
+2060,M,Prirodno kretanje,Broj,-12965.8
+2065,M,Živorođeni,Broj,5593.5
+2065,M,Smrtni slučajevi,Broj,17838.31
+2065,M,Prirodno kretanje,Broj,-12244.81
+2070,M,Živorođeni,Broj,5053.93
+2070,M,Smrtni slučajevi,Broj,16375.72
+2070,M,Prirodno kretanje,Broj,-11321.79
+2020,Ž,Živorođeni,Broj,14312.78
+2020,Ž,Smrtni slučajevi,Broj,18449.39
+2020,Ž,Prirodno kretanje,Broj,-4136.61
+2025,Ž,Živorođeni,Broj,12653.45
+2025,Ž,Smrtni slučajevi,Broj,19263.68
+2025,Ž,Prirodno kretanje,Broj,-6610.23
+2030,Ž,Živorođeni,Broj,11065.26
+2030,Ž,Smrtni slučajevi,Broj,20122.9
+2030,Ž,Prirodno kretanje,Broj,-9057.64
+2035,Ž,Živorođeni,Broj,9720.12
+2035,Ž,Smrtni slučajevi,Broj,21034.49
+2035,Ž,Prirodno kretanje,Broj,-11314.37
+2040,Ž,Živorođeni,Broj,8776.05
+2040,Ž,Smrtni slučajevi,Broj,21877.98
+2040,Ž,Prirodno kretanje,Broj,-13101.93
+2045,Ž,Živorođeni,Broj,7983.76
+2045,Ž,Smrtni slučajevi,Broj,22409.28
+2045,Ž,Prirodno kretanje,Broj,-14425.52
+2050,Ž,Živorođeni,Broj,7253.33
+2050,Ž,Smrtni slučajevi,Broj,22341.66
+2050,Ž,Prirodno kretanje,Broj,-15088.33
+2055,Ž,Živorođeni,Broj,6552.43
+2055,Ž,Smrtni slučajevi,Broj,21791.64
+2055,Ž,Prirodno kretanje,Broj,-15239.21
+2060,Ž,Živorođeni,Broj,5878.35
+2060,Ž,Smrtni slučajevi,Broj,20921.08
+2060,Ž,Prirodno kretanje,Broj,-15042.73
+2065,Ž,Živorođeni,Broj,5267.66
+2065,Ž,Smrtni slučajevi,Broj,19944.35
+2065,Ž,Prirodno kretanje,Broj,-14676.69
+2070,Ž,Živorođeni,Broj,4759.53
+2070,Ž,Smrtni slučajevi,Broj,18903.51
+2070,Ž,Prirodno kretanje,Broj,-14143.98

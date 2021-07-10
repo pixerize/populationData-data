@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Spol,Entitet,Value
+Year,UNIT_MEASURE,Spol,ADMIN_AREA,Value
 1996,NO_PER_1000_LIVE_BIRTHS,Oba spola,BiH,5.82
 1997,NO_PER_1000_LIVE_BIRTHS,Oba spola,BiH,4.96
 1998,NO_PER_1000_LIVE_BIRTHS,Oba spola,BiH,4.49
@@ -69,14 +69,14 @@ Year,UNIT_MEASURE,Spol,Entitet,Value
 2017,NO_PER_1000_LIVE_BIRTHS,Oba spola,Republika Srpska,1.82
 2018,NO_PER_1000_LIVE_BIRTHS,Oba spola,Republika Srpska,1.88
 2019,NO_PER_1000_LIVE_BIRTHS,Oba spola,Republika Srpska,1.4
-2004,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,10.2
-2005,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,11.3
-2006,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,5.5
-2007,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,4.1
-2008,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,8.8
-2009,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,12.9
-2010,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,16.4
-2011,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,12.2
-2012,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,13.5
-2013,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,4.5
-2014,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko Distrikt BiH,2.2
+2004,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,10.2
+2005,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,11.3
+2006,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,5.5
+2007,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,4.1
+2008,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,8.8
+2009,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,12.9
+2010,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,16.4
+2011,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,12.2
+2012,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,13.5
+2013,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,4.5
+2014,NO_PER_1000_LIVE_BIRTHS,Oba spola,Brčko distrikt BiH,2.2

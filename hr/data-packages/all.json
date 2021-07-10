@@ -20,7 +20,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -28,8 +28,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -43,11 +43,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -56,7 +56,7 @@
           }
         ]
       },
-      "title": "Direktni ekonomski gubitak uzrokovan nesrećama u odnosu na globalni bruto domaći proizvod (BDP)"
+      "title": "Prosječna dob stanovništva, prema spolu"
     },
     {
       "path": "1-6-1/data.csv",
@@ -76,7 +76,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -86,11 +86,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -99,7 +99,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-1-title"
+      "title": "Sirova stopa smrtnosti"
     },
     {
       "path": "5-1-5/data.csv",
@@ -119,15 +119,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -140,7 +140,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-5-title"
+      "title": "Stanovništvo u dobi od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema spolu"
     },
     {
       "path": "1-2-1/data.csv",
@@ -160,7 +160,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -168,8 +168,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -183,24 +183,24 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
-                "Natural change",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
@@ -209,7 +209,7 @@
           }
         ]
       },
-      "title": "Udio stanovništva koja živi ispod nacionalne linije siromaštva, po polu i starosti"
+      "title": "Vitalna statistika prema spolu"
     },
     {
       "path": "2-1-2/data.csv",
@@ -232,8 +232,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -242,7 +242,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -286,7 +286,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -295,7 +295,7 @@
           }
         ]
       },
-      "title": "Rasprostranjenost umjerene ili ozbiljne prehrambene nesigurnosti među stanovništvom, na osnovu Skale iskustva u pogledu nesigurnosti hrane (FIES)"
+      "title": "Projicirano stanovništvo, prema starosnoj grupi i spolu"
     },
     {
       "path": "1-4-2/data.csv",
@@ -315,7 +315,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -326,7 +326,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -335,7 +335,7 @@
           }
         ]
       },
-      "title": "Udio ukupne populacije odraslih osoba koje imaju sigurna zemljišna prava, (a) sa zakonski priznatom dokumentacijom, i (b) koji smatraju da su njihova zemljišna prava sigurna, po spolu i vrsti prava na zemlji"
+      "title": "Ukupna stopa fertiliteta"
     },
     {
       "path": "2-1-1/data.csv",
@@ -355,7 +355,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -363,8 +363,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -500,7 +500,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -509,7 +509,7 @@
           }
         ]
       },
-      "title": "Rasprostranjenot podhranjenosti"
+      "title": "Projicirano stanovništvo, prema dobi i spolu"
     },
     {
       "path": "2-1-5/data.csv",
@@ -532,8 +532,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -542,7 +542,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -551,7 +551,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-5-title"
+      "title": "Projicirana sirova stopa nataliteta"
     },
     {
       "path": "1-8-4/data.csv",
@@ -571,7 +571,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -581,11 +581,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -594,7 +594,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-4-title"
+      "title": "Stopa razvoda braka (na 1.000 brakova)"
     },
     {
       "path": "1-4-4/data.csv",
@@ -614,7 +614,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -624,11 +624,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -637,7 +637,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-4-title"
+      "title": "Odnos spolova pri rođenju"
     },
     {
       "path": "1-4-5/data.csv",
@@ -664,7 +664,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -674,16 +674,16 @@
                 "Federacija BiH",
                 "BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -692,7 +692,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-5-title"
+      "title": "Porođaj majki u tinejdžerskoj dobi, prema dobnoj skupini"
     },
     {
       "path": "1-1-1/data.csv",
@@ -712,7 +712,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -720,8 +720,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -858,7 +858,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -867,7 +867,7 @@
           }
         ]
       },
-      "title": "Procenat stanovništva koji žive ispod međunarodne linije siromaštva po polu, starosti, statusu zaposlenja i geografskoj lokaciji (urbano/ruralno)"
+      "title": "Stanovništvo prema dobi i spolu"
     },
     {
       "path": "3-3-4/data.csv",
@@ -887,7 +887,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -900,7 +900,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -931,36 +931,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_genitourinary",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                "diseases_of_the_musculoskeletal",
-                "pregnancy_childbirth_and_the",
+                "„(C00-C97,D00-D48) Neoplazme“",
+                "„(I00-I99) Bolesti cirkulacijskog sustava“",
+                "„(J00-J99) Bolesti respiratornog sustava“",
+                "„(K00-K93) Bolesti digestivnog sustava“",
+                "„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",
+                "„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",
+                "„(A00-B99) Zarazne i parazitarne bolesti“",
+                "„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",
+                "„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",
+                "„(F00-F99) Duševni poremećaji i poremećaji ponašanja“",
+                "„(G00-G99) Bolesti nervnog sustava“",
+                "„(H00-H93) Bolesti oka, uha i adneksa\"",
+                "„(L00-L99) Bolesti kože i potkožnog tkiva“",
+                "„(N00-N99) Bolesti genitalno-urinarnog sustava“",
+                "„(P00-P96) Određena stanja nastala u perinatalnom periodu“",
+                "„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",
+                "„(V01-Y98) Vanjski uzroci mortaliteta“",
+                "„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“",
+                "Nepoznato",
+                "„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“",
+                "„(O00-O99) Trudnoća, porođaj i postporođajni period“",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -969,7 +969,7 @@
           }
         ]
       },
-      "title": "Udio poroda uz prisustvo kvalifikovanih zdravstvenih radnika"
+      "title": "Projicirana na 100.000 stanovnika"
     },
     {
       "path": "1-8-2/data.csv",
@@ -994,16 +994,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1012,7 +1012,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-2-title"
+      "title": "Stopa sklapanja braka"
     },
     {
       "path": "1-1-2/data.csv",
@@ -1032,7 +1032,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1040,8 +1040,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1143,7 +1143,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -1152,11 +1152,11 @@
               "enum": [
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1165,7 +1165,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-2-title"
+      "title": "Stanovništvo po entitetima, prema dobi i spolu"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1185,7 +1185,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1197,7 +1197,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1206,7 +1206,7 @@
           }
         ]
       },
-      "title": "Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, karcinomu, dijabetesu ili hroničnim respiratornim bolestima"
+      "title": "Carski rez"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1226,7 +1226,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1237,7 +1237,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1246,7 +1246,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-3-title"
+      "title": "Rast realnog BDP-a"
     },
     {
       "path": "3-1-4/data.csv",
@@ -1266,7 +1266,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1287,11 +1287,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1300,7 +1300,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-4-title"
+      "title": "Stopa mrtvorođenih"
     },
     {
       "path": "5-1-1/data.csv",
@@ -1320,7 +1320,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1328,8 +1328,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1340,18 +1340,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje i prva godina fakulteta",
+                "Napredne škole /fakultet /akademija /sveučilište",
+                "Nepoznato",
+                "Bez obrazovanja",
+                "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "EDUCATION"
+            "title": "Razina obrazovanja"
           },
           {
             "name": "Value",
@@ -1360,7 +1360,7 @@
           }
         ]
       },
-      "title": "Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola"
+      "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutoj razini obrazovanja i spolu"
     },
     {
       "path": "2-1-3/data.csv",
@@ -1380,17 +1380,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Support Ratio",
-                "Young-age support ratio",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -1402,8 +1402,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1416,7 +1416,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-3-title"
+      "title": "Projicirane stope ovisnosti, prema spolu"
     },
     {
       "path": "3-6-2/data.csv",
@@ -1436,7 +1436,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1446,11 +1446,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1459,7 +1459,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-2-title"
+      "title": "Neostvarena potreba za planiranjem obitelji"
     },
     {
       "path": "1-1-5/data.csv",
@@ -1479,7 +1479,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1487,8 +1487,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1521,7 +1521,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Municipality",
@@ -1682,7 +1682,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-5-title"
+      "title": "Stanovništvo prema općini, dobnoj skupini i spolu"
     },
     {
       "path": "3-3-3/data.csv",
@@ -1702,7 +1702,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1715,7 +1715,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -1747,8 +1747,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1757,7 +1757,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1766,7 +1766,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-6-title"
+      "title": "Projicirana sirova stopa mortaliteta"
     },
     {
       "path": "1-1-3/data.csv",
@@ -1786,7 +1786,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1794,8 +1794,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1843,7 +1843,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -1852,7 +1852,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-3-title"
+      "title": "Stanovništvo prema dobnoj skupini i spolu"
     },
     {
       "path": "2-1-7/data.csv",
@@ -1875,8 +1875,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1885,7 +1885,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1894,7 +1894,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-7-title"
+      "title": "Projicirana prosječna dob stanovništva"
     },
     {
       "path": "1-1-6/data.csv",
@@ -1914,15 +1914,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1960,7 +1960,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -1969,7 +1969,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-6-title"
+      "title": "Piramida stanovništva prema dobnoj skupini i spolu"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1989,7 +1989,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1998,11 +1998,11 @@
               "enum": [
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2011,7 +2011,7 @@
           }
         ]
       },
-      "title": "Potrošnja alkohola po stanovniku (starosti od 15 i više godina) u kalendarskoj godini u litrima čistog alkohola"
+      "title": "Bolnički kreveti na 100.000 stanovnika"
     },
     {
       "path": "3-1-3/data.csv",
@@ -2031,15 +2031,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 "Oba spola",
                 ""
               ]
@@ -2054,11 +2054,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2067,7 +2067,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-3-title"
+      "title": "Mrtvorođeni"
     },
     {
       "path": "6-3-3/data.csv",
@@ -2087,7 +2087,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2095,8 +2095,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2116,7 +2116,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2125,7 +2125,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-3-3-title"
+      "title": "Stopa nezaposlenosti (postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi), prema dobnoj skupini i spolu)"
     },
     {
       "path": "5-1-3/data.csv",
@@ -2145,15 +2145,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2172,7 +2172,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2181,7 +2181,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-3-title"
+      "title": "Stanovništvo u dobi od 25-64 godine upisano u neformalno obrazovanje odraslih, prema dobi i spolu"
     },
     {
       "path": "1-4-1/data.csv",
@@ -2201,7 +2201,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2211,11 +2211,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2224,7 +2224,7 @@
           }
         ]
       },
-      "title": "Udio stanovništva koji žive u domaćinstvima sa pristupom osnovnim uslugama"
+      "title": "Sirova stopa nataliteta"
     },
     {
       "path": "3-3-5/data.csv",
@@ -2244,7 +2244,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2256,7 +2256,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2285,7 +2285,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2295,11 +2295,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2308,7 +2308,7 @@
           }
         ]
       },
-      "title": "Udio stanovništva koje koristi (a) sanitarne usluge kojima se sigurno upravlja i (b) pranje ruku sapunom i vodom"
+      "title": "Kućanstva koja žive u relativnom siromaštvu"
     },
     {
       "path": "6-1-1/data.csv",
@@ -2328,7 +2328,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2338,11 +2338,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2351,7 +2351,7 @@
           }
         ]
       },
-      "title": "Udio stanovništva koji koristi usluge bezbijednog upravljanja pitkom vodom"
+      "title": "Bruto domaći proizvod - ukupno (u milijunima)"
     },
     {
       "path": "3-5-6/data.csv",
@@ -2371,7 +2371,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2380,11 +2380,11 @@
               "enum": [
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2393,7 +2393,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-6-title"
+      "title": "Broj stanovnika na jednog doktora opće medicine"
     },
     {
       "path": "6-2-2/data.csv",
@@ -2416,8 +2416,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2426,7 +2426,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2436,11 +2436,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2449,7 +2449,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-2-title"
+      "title": "Stanovništvo koje živi u relativnom siromaštvu, prema spolu"
     },
     {
       "path": "6-1-2/data.csv",
@@ -2469,7 +2469,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2480,7 +2480,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2489,7 +2489,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-2-title"
+      "title": "Bruto domaći proizvod – po glavi stanovništva"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2509,7 +2509,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2517,8 +2517,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2529,14 +2529,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
+                "Predškolski odgoj i obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje /sveučilište",
                 ""
               ]
             },
-            "title": "ENROLMENT"
+            "title": "Vrsta obrazovne ustanove"
           },
           {
             "name": "Value",
@@ -2545,7 +2545,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-2-title"
+      "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
     },
     {
       "path": "3-7-1/data.csv",
@@ -2568,8 +2568,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2590,12 +2590,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -2604,7 +2604,7 @@
           }
         ]
       },
-      "title": "Udio žena reproduktivnog uzrasta (u dobi od 15 do 49 godina) koji su svoju potrebu za planiranje porodice zadovoljile sa modernim metodama"
+      "title": "Osobe s invaliditetom prema dobi i spolu"
     },
     {
       "path": "3-5-5/data.csv",
@@ -2624,7 +2624,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2634,11 +2634,11 @@
                 "BiH",
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2647,7 +2647,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-5-title"
+      "title": "Doktori opće medicine"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2667,7 +2667,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2680,7 +2680,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2709,7 +2709,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2717,8 +2717,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2738,7 +2738,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2747,7 +2747,7 @@
           }
         ]
       },
-      "title": "Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode"
+      "title": "Omjer zaposlenosti i broja stanovnika (postotak zaposlenog stanovništva u radno sposobnom stanovništvu (15-64), prema dobnoj skupini i spolu)"
     },
     {
       "path": "3-2-4/data.csv",
@@ -2767,7 +2767,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2779,7 +2779,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2808,7 +2808,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -2818,11 +2818,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2831,7 +2831,7 @@
           }
         ]
       },
-      "title": "Broj smrti, nestalih osoba i direktno pogođenih lica pripisanih katastrofama na 100.000 stanovnika"
+      "title": "Prosječna dob majki pri prvom porođaju"
     },
     {
       "path": "1-1-4/data.csv",
@@ -2851,7 +2851,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2859,8 +2859,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2900,7 +2900,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -2909,11 +2909,11 @@
               "enum": [
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -2922,7 +2922,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-4-title"
+      "title": "Stanovništvo po entitetima, dobnoj skupini i spolu"
     },
     {
       "path": "1-8-1/data.csv",
@@ -2947,16 +2947,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -2965,7 +2965,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-1-title"
+      "title": "Brak"
     },
     {
       "path": "5-1-4/data.csv",
@@ -2985,7 +2985,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2993,8 +2993,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3005,7 +3005,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_ALL",
+                "Svi",
                 "10-14",
                 "15-19",
                 "20-24",
@@ -3023,7 +3023,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -3032,7 +3032,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-4-title"
+      "title": "Nepismeno stanovništvo u dobi iznad 10 godina, prema dobnoj skupini i spolu"
     },
     {
       "path": "1-8-3/data.csv",
@@ -3052,7 +3052,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3062,11 +3062,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3075,7 +3075,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-3-title"
+      "title": "Razvod braka"
     },
     {
       "path": "3-5-4/data.csv",
@@ -3095,7 +3095,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3104,11 +3104,11 @@
               "enum": [
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3117,7 +3117,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-4-title"
+      "title": "Doktori medicine u javnim ustanovama na 100.000 stanovnika"
     },
     {
       "path": "1-5-4/data.csv",
@@ -3139,8 +3139,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3154,16 +3154,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3172,7 +3172,7 @@
           }
         ]
       },
-      "title": "Udio lokalnih samouprava koje usvajaju i sprovode strategije za smanjenje rizika od katastrofa u skladu sa nacionalnim strategijama za smanjenje rizika od katastrofa"
+      "title": "Prosječna dob prilikom sklapanja prvog braka, prema spolu"
     },
     {
       "path": "3-1-1/data.csv",
@@ -3195,8 +3195,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3207,37 +3207,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
+                "„(C00-C97,D00-D48) Neoplazme“",
+                "„(I00-I99) Bolesti cirkulacijskog sustava“",
+                "„(J00-J99) Bolesti respiratornog sustava“",
+                "„(K00-K93) Bolesti digestivnog sustava“",
+                "„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",
+                "„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",
                 "Ukupno",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
+                "„(A00-B99) Zarazne i parazitarne bolesti“",
+                "„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",
+                "„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",
+                "„(F00-F99) Duševni poremećaji i poremećaji ponašanja“",
+                "„(G00-G99) Bolesti nervnog sustava“",
+                "„(H00-H93) Bolesti oka, uha i adneksa\"",
+                "„(L00-L99) Bolesti kože i potkožnog tkiva“",
+                "„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“",
+                "„(N00-N99) Bolesti genitalno-urinarnog sustava“",
+                "„(O00-O99) Trudnoća, porođaj i postporođajni period“",
+                "„(P00-P96) Određena stanja nastala u perinatalnom periodu“",
+                "„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",
+                "„(V01-Y98) Vanjski uzroci mortaliteta“",
+                "„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3246,7 +3246,7 @@
           }
         ]
       },
-      "title": "Stopa smrtnosti majki"
+      "title": "Smrt prema uzroku smrti i spolu"
     },
     {
       "path": "1-3-1/data.csv",
@@ -3266,17 +3266,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Support Ratio",
-                "Young-age support ratio",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -3288,8 +3288,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3303,11 +3303,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3316,7 +3316,7 @@
           }
         ]
       },
-      "title": "Procenat stanovništva pokrivenih sistemima socijalne zaštite, po polu, razlikovanju djece, nezaposlenih lica, starijih osoba, osoba sa invaliditetom, trudnica, novorođenčadi, žrtava povrede na radu i siromašnih i ranjivih"
+      "title": "Omjer ovisnosti prema spolu"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3336,7 +3336,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3348,7 +3348,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3377,7 +3377,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3390,7 +3390,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3419,7 +3419,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3432,7 +3432,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3441,7 +3441,7 @@
           }
         ]
       },
-      "title": "Broj novih HIV infekcija na 1.000 neinficiranih stanovnika, po polu, starosti i ključnim populacijama"
+      "title": "Incidencija sifilisa"
     },
     {
       "path": "1-9-1/data.csv",
@@ -3463,23 +3463,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
                 ""
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Veličina kućanstva"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3488,7 +3488,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-9-1-title"
+      "title": "Kućanstva"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3508,20 +3508,20 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
-                "all_methods",
-                "traditional_methods",
+                "Suvremene metode",
+                "Sve metode",
+                "Tradicionalne metode",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Metoda"
           },
           {
             "name": "ADMIN_AREA",
@@ -3531,11 +3531,11 @@
                 "Federacija BiH",
                 "Republika Srpska",
                 "BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3544,7 +3544,7 @@
           }
         ]
       },
-      "title": "Stopa smrtnosti zbog povreda u drumskom saobraćaju"
+      "title": "Stopa prevalencije kontracepcije"
     },
     {
       "path": "1-2-2/data.csv",
@@ -3564,7 +3564,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3574,11 +3574,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3587,7 +3587,7 @@
           }
         ]
       },
-      "title": "Udio muškaraca, žena i djece svih dobnih skupina koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama"
+      "title": "Stopa prirodnog rasta"
     },
     {
       "path": "1-6-2/data.csv",
@@ -3610,8 +3610,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3625,16 +3625,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3643,7 +3643,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-2-title"
+      "title": "Smrtnost dojenčadi (do navršene prve godine života), prema spolu"
     },
     {
       "path": "1-7-1/data.csv",
@@ -3663,15 +3663,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3684,7 +3684,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-1-title"
+      "title": "Očekivana dužina života pri rođenju, prema spolu"
     },
     {
       "path": "3-2-1/data.csv",
@@ -3704,7 +3704,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3717,7 +3717,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3726,7 +3726,7 @@
           }
         ]
       },
-      "title": "Stopa smrtnosti ispod pet godina"
+      "title": "Rak vrata maternice"
     },
     {
       "path": "3-6-3/data.csv",
@@ -3746,7 +3746,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3756,11 +3756,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3769,7 +3769,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-3-title"
+      "title": "Zadovoljena potražnja za planiranjem obitelji"
     },
     {
       "path": "4-1-1/data.csv",
@@ -3789,7 +3789,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -3806,7 +3806,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -3819,7 +3819,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3828,7 +3828,7 @@
           }
         ]
       },
-      "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
+      "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kad)"
     },
     {
       "path": "3-4-2/data.csv",
@@ -3848,7 +3848,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3860,7 +3860,7 @@
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3869,7 +3869,7 @@
           }
         ]
       },
-      "title": "Stopa smrtnosti samoubistava"
+      "title": "Carski rez na 1.000 živorođenih"
     },
     {
       "path": "1-4-3/data.csv",
@@ -3889,7 +3889,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -3908,7 +3908,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -3917,7 +3917,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-3-title"
+      "title": "Stopa fertiliteta prema dobi"
     },
     {
       "path": "3-5-3/data.csv",
@@ -3937,7 +3937,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3947,11 +3947,11 @@
                 "BiH",
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -3960,7 +3960,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-3-title"
+      "title": "Doktori medicine u javnim ustanovama"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3980,7 +3980,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -3990,11 +3990,11 @@
                 "BiH",
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -4003,7 +4003,7 @@
           }
         ]
       },
-      "title": "Pokrivanje intervencijskih tretmana (farmakološke, psihosocijalne,rehabilitacione i naknadne usluge) za poremećaje upotrebe supstanci"
+      "title": "Bolnički kreveti"
     },
     {
       "path": "1-5-3/data.csv",
@@ -4026,8 +4026,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4041,16 +4041,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4059,7 +4059,7 @@
           }
         ]
       },
-      "title": "Broj zemalja koje usvajaju i implementiraju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai Okvirom za smanjenje rizika od katastrofa 2015-2030"
+      "title": "Prosječna dob smrti, prema spolu"
     },
     {
       "path": "1-6-3/data.csv",
@@ -4082,8 +4082,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4097,16 +4097,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4115,7 +4115,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-3-title"
+      "title": "Smrtnost dojenčadi (do navršene prve godine života)"
     },
     {
       "path": "2-1-4/data.csv",
@@ -4138,8 +4138,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4150,18 +4150,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
-                "Natural change",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "Vitalna statistika"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4170,7 +4170,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-4-title"
+      "title": "Projicirana vitalna statistika, prema spolu"
     },
     {
       "path": "3-6-4/data.csv",
@@ -4190,7 +4190,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -4200,11 +4200,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -4213,7 +4213,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-4-title"
+      "title": "Porođaj u nazočnosti stručne osobe"
     },
     {
       "path": "3-5-7/data.csv",
@@ -4233,7 +4233,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -4243,11 +4243,11 @@
                 "BiH",
                 "Republika Srpska",
                 "Federacija BiH",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -4256,7 +4256,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-7-title"
+      "title": "Primalje"
     },
     {
       "path": "6-3-1/data.csv",
@@ -4276,7 +4276,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -4284,8 +4284,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4305,7 +4305,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -4314,7 +4314,7 @@
           }
         ]
       },
-      "title": "Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava"
+      "title": "Stopa učešća radne snage (postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu (15-64), prema dobnoj skupini i spolu)"
     }
   ]
 }

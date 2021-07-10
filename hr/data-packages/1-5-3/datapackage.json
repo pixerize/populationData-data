@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -36,16 +36,16 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-3",
-  "title": "Broj zemalja koje usvajaju i implementiraju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai Okvirom za smanjenje rizika od katastrofa 2015-2030"
+  "title": "Prosječna dob smrti, prema spolu"
 }

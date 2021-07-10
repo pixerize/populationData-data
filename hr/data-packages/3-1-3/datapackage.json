@@ -18,15 +18,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 "Oba spola",
                 ""
               ]
@@ -41,11 +41,11 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "Value",
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-3",
-  "title": "global_indicators.3-1-3-title"
+  "title": "Mrtvorođeni"
 }

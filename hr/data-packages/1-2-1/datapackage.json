@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -41,24 +41,24 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Live birth",
-                "Deaths",
-                "Natural change",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "Births"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
@@ -71,5 +71,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Udio stanovništva koja živi ispod nacionalne linije siromaštva, po polu i starosti"
+  "title": "Vitalna statistika prema spolu"
 }

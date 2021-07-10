@@ -1,5 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-old_age_support_ratio,Old-age support ratio,Omjer ekonomske podrške starijim osobama,old_age_support_ratio,Old-age support ratio,15,2
-older_persons_to_youth_ratio,Older persons to youth ratio,Omjer starijih i mladih,older_persons_to_youth_ratio,Older persons to youth ratio,15,2
-total_support_ratio,Total support ratio,Ukupan omjer ekonomske podrške,total_support_ratio,Total Support Ratio,15,2
-young_age_support_ratio,Young-age support ratio,Omjer ekonomske podrške mladima,young_age_support_ratio,Young-age support ratio,15,2
+old_age_support_ratio,Old-age support ratio,Omjer ekonomske podrške starijim osobama,old_age_support_ratio,Omjer gospodarske potpore starijim osobama,15,2
+older_persons_to_youth_ratio,Older persons to youth ratio,Omjer starijih i mladih,older_persons_to_youth_ratio,Omjer starijih i mladih,15,2
+total_support_ratio,Total support ratio,Ukupan omjer ekonomske podrške,total_support_ratio,Ukupan omjer gospodarske potpore,15,2
+young_age_support_ratio,Young-age support ratio,Omjer ekonomske podrške mladima,young_age_support_ratio,Omjer gospodarske potpore mladima,15,2

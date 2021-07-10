@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -38,18 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje i prva godina fakulteta",
+                "Napredne škole /fakultet /akademija /sveučilište",
+                "Nepoznato",
+                "Bez obrazovanja",
+                "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "EDUCATION"
+            "title": "Razina obrazovanja"
           },
           {
             "name": "Value",
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola"
+  "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutoj razini obrazovanja i spolu"
 }

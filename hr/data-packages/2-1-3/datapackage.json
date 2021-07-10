@@ -18,17 +18,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Support Ratio",
-                "Young-age support ratio",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -40,8 +40,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-3",
-  "title": "global_indicators.2-1-3-title"
+  "title": "Projicirane stope ovisnosti, prema spolu"
 }

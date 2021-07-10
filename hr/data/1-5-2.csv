@@ -1,61 +1,61 @@
-Year,UNIT_MEASURE,Spol,Entitet,Value
-2004,Starost,Oba spola,BiH,37.8
-2007,Starost,Oba spola,BiH,38.3
-2011,Starost,Oba spola,BiH,39.7
-2013,Starost,Oba spola,BiH,39.5
-2015,Starost,Oba spola,BiH,41.9
-2004,Starost,Oba spola,Federacija BiH,36.4
-2007,Starost,Oba spola,Federacija BiH,37.0
-2011,Starost,Oba spola,Federacija BiH,38.5
-2013,Starost,Oba spola,Federacija BiH,38.5
-2015,Starost,Oba spola,Federacija BiH,40.7
-2004,Starost,Oba spola,Republika Srpska,40.1
-2007,Starost,Oba spola,Republika Srpska,40.8
-2011,Starost,Oba spola,Republika Srpska,42.0
-2013,Starost,Oba spola,Republika Srpska,41.4
-2015,Starost,Oba spola,Republika Srpska,44.4
-2004,Starost,Oba spola,Brčko Distrikt BiH,38.3
-2007,Starost,Oba spola,Brčko Distrikt BiH,39.5
-2011,Starost,Oba spola,Brčko Distrikt BiH,40.4
-2013,Starost,Oba spola,Brčko Distrikt BiH,39.7
-2015,Starost,Oba spola,Brčko Distrikt BiH,40.8
-2004,Starost,Muškarci,BiH,36.8
-2007,Starost,Muškarci,BiH,37.2
-2011,Starost,Muškarci,BiH,38.6
-2013,Starost,Muškarci,BiH,38.2
-2015,Starost,Muškarci,BiH,40.5
-2004,Starost,Muškarci,Federacija BiH,35.6
-2007,Starost,Muškarci,Federacija BiH,35.8
-2011,Starost,Muškarci,Federacija BiH,37.6
-2013,Starost,Muškarci,Federacija BiH,37.2
-2015,Starost,Muškarci,Federacija BiH,39.2
-2004,Starost,Muškarci,Republika Srpska,39.0
-2007,Starost,Muškarci,Republika Srpska,39.6
-2011,Starost,Muškarci,Republika Srpska,40.5
-2013,Starost,Muškarci,Republika Srpska,40.0
-2015,Starost,Muškarci,Republika Srpska,43.0
-2004,Starost,Muškarci,Brčko Distrikt BiH,37.2
-2007,Starost,Muškarci,Brčko Distrikt BiH,38.7
-2011,Starost,Muškarci,Brčko Distrikt BiH,39.2
-2013,Starost,Muškarci,Brčko Distrikt BiH,38.4
-2015,Starost,Muškarci,Brčko Distrikt BiH,39.8
-2004,Starost,Žene,BiH,38.7
-2007,Starost,Žene,BiH,39.4
-2011,Starost,Žene,BiH,40.8
-2013,Starost,Žene,BiH,40.7
-2015,Starost,Žene,BiH,43.3
-2004,Starost,Žene,Federacija BiH,37.2
-2007,Starost,Žene,Federacija BiH,38.1
-2011,Starost,Žene,Federacija BiH,39.4
-2013,Starost,Žene,Federacija BiH,39.7
-2015,Starost,Žene,Federacija BiH,42.2
-2004,Starost,Žene,Republika Srpska,41.1
-2007,Starost,Žene,Republika Srpska,42.0
-2011,Starost,Žene,Republika Srpska,43.6
-2013,Starost,Žene,Republika Srpska,42.7
-2015,Starost,Žene,Republika Srpska,45.7
-2004,Starost,Žene,Brčko Distrikt BiH,39.3
-2007,Starost,Žene,Brčko Distrikt BiH,40.2
-2011,Starost,Žene,Brčko Distrikt BiH,41.7
-2013,Starost,Žene,Brčko Distrikt BiH,40.9
-2015,Starost,Žene,Brčko Distrikt BiH,41.7
+Year,UNIT_MEASURE,Spol,ADMIN_AREA,Value
+2004,Starosna dob,Oba spola,BiH,37.8
+2007,Starosna dob,Oba spola,BiH,38.3
+2011,Starosna dob,Oba spola,BiH,39.7
+2013,Starosna dob,Oba spola,BiH,39.5
+2015,Starosna dob,Oba spola,BiH,41.9
+2004,Starosna dob,Oba spola,Federacija BiH,36.4
+2007,Starosna dob,Oba spola,Federacija BiH,37.0
+2011,Starosna dob,Oba spola,Federacija BiH,38.5
+2013,Starosna dob,Oba spola,Federacija BiH,38.5
+2015,Starosna dob,Oba spola,Federacija BiH,40.7
+2004,Starosna dob,Oba spola,Republika Srpska,40.1
+2007,Starosna dob,Oba spola,Republika Srpska,40.8
+2011,Starosna dob,Oba spola,Republika Srpska,42.0
+2013,Starosna dob,Oba spola,Republika Srpska,41.4
+2015,Starosna dob,Oba spola,Republika Srpska,44.4
+2004,Starosna dob,Oba spola,Brčko distrikt BiH,38.3
+2007,Starosna dob,Oba spola,Brčko distrikt BiH,39.5
+2011,Starosna dob,Oba spola,Brčko distrikt BiH,40.4
+2013,Starosna dob,Oba spola,Brčko distrikt BiH,39.7
+2015,Starosna dob,Oba spola,Brčko distrikt BiH,40.8
+2004,Starosna dob,M,BiH,36.8
+2007,Starosna dob,M,BiH,37.2
+2011,Starosna dob,M,BiH,38.6
+2013,Starosna dob,M,BiH,38.2
+2015,Starosna dob,M,BiH,40.5
+2004,Starosna dob,M,Federacija BiH,35.6
+2007,Starosna dob,M,Federacija BiH,35.8
+2011,Starosna dob,M,Federacija BiH,37.6
+2013,Starosna dob,M,Federacija BiH,37.2
+2015,Starosna dob,M,Federacija BiH,39.2
+2004,Starosna dob,M,Republika Srpska,39.0
+2007,Starosna dob,M,Republika Srpska,39.6
+2011,Starosna dob,M,Republika Srpska,40.5
+2013,Starosna dob,M,Republika Srpska,40.0
+2015,Starosna dob,M,Republika Srpska,43.0
+2004,Starosna dob,M,Brčko distrikt BiH,37.2
+2007,Starosna dob,M,Brčko distrikt BiH,38.7
+2011,Starosna dob,M,Brčko distrikt BiH,39.2
+2013,Starosna dob,M,Brčko distrikt BiH,38.4
+2015,Starosna dob,M,Brčko distrikt BiH,39.8
+2004,Starosna dob,Ž,BiH,38.7
+2007,Starosna dob,Ž,BiH,39.4
+2011,Starosna dob,Ž,BiH,40.8
+2013,Starosna dob,Ž,BiH,40.7
+2015,Starosna dob,Ž,BiH,43.3
+2004,Starosna dob,Ž,Federacija BiH,37.2
+2007,Starosna dob,Ž,Federacija BiH,38.1
+2011,Starosna dob,Ž,Federacija BiH,39.4
+2013,Starosna dob,Ž,Federacija BiH,39.7
+2015,Starosna dob,Ž,Federacija BiH,42.2
+2004,Starosna dob,Ž,Republika Srpska,41.1
+2007,Starosna dob,Ž,Republika Srpska,42.0
+2011,Starosna dob,Ž,Republika Srpska,43.6
+2013,Starosna dob,Ž,Republika Srpska,42.7
+2015,Starosna dob,Ž,Republika Srpska,45.7
+2004,Starosna dob,Ž,Brčko distrikt BiH,39.3
+2007,Starosna dob,Ž,Brčko distrikt BiH,40.2
+2011,Starosna dob,Ž,Brčko distrikt BiH,41.7
+2013,Starosna dob,Ž,Brčko distrikt BiH,40.9
+2015,Starosna dob,Ž,Brčko distrikt BiH,41.7

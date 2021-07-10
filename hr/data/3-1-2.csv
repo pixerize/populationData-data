@@ -1,347 +1,347 @@
-Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
-1999,neoplasms,Broj,123.0
-1999,diseases_of_the_circulatory,Broj,427.0
-1999,diseases_of_the_respiratory,Broj,23.25
-1999,diseases_of_the_digestive,Broj,19.0
-1999,symptoms_signs_and_abnormal,Broj,68.51
-1999,injuries_poisoning_and_consequences,Broj,27.44
-2000,neoplasms,Broj,135.0
-2000,diseases_of_the_circulatory,Broj,431.0
-2000,diseases_of_the_respiratory,Broj,21.29
-2000,diseases_of_the_digestive,Broj,22.0
-2000,symptoms_signs_and_abnormal,Broj,75.64
-2000,injuries_poisoning_and_consequences,Broj,28.85
-2000,infectious_and_parasitic,Broj,6.77
-2000,neoplasms,Broj,141.0
-2000,diseases_of_the_blood,Broj,0.53
-2000,endocrine_metabolic_and_nutritional,Broj,18.0
-2000,mental_and_behavioural_disorders,Broj,1.26
-2000,diseases_of_the_nervous,Broj,4.0
-2000,diseases_of_the_eye,Broj,0.03
-2000,diseases_of_the_circulatory,Broj,430.0
-2000,diseases_of_the_respiratory,Broj,19.62
-2000,diseases_of_the_digestive,Broj,22.0
-2000,diseases_of_the_skin,Broj,0.45
-2000,diseases_of_the_genitourinary,Broj,10.45
-2000,certain_conditions_originating,Broj,4.95
-2000,congenital_malformations_deformations,Broj,1.13
-2000,symptoms_signs_and_abnormal,Broj,79.81
-2000,injuries_poisoning_and_consequences,Broj,26.78
-2000,external_causes_of_mortality,Broj,6.87
-2000,factors_influencing_health_status,Broj,0.03
-2000,unknown,Broj,25.12
-2002,infectious_and_parasitic,Broj,6.87
-2002,neoplasms,Broj,138.0
-2002,diseases_of_the_blood,Broj,0.5
-2002,endocrine_metabolic_and_nutritional,Broj,23.0
-2002,mental_and_behavioural_disorders,Broj,1.72
-2002,diseases_of_the_nervous,Broj,4.0
-2002,diseases_of_the_eye,Broj,0.03
-2002,diseases_of_the_circulatory,Broj,418.0
-2002,diseases_of_the_respiratory,Broj,21.34
-2002,diseases_of_the_digestive,Broj,21.0
-2002,diseases_of_the_skin,Broj,0.44
-2002,diseases_of_the_genitourinary,Broj,5.72
-2002,certain_conditions_originating,Broj,5.9
-2002,congenital_malformations_deformations,Broj,1.46
-2002,symptoms_signs_and_abnormal,Broj,77.93
-2002,injuries_poisoning_and_consequences,Broj,25.71
-2002,external_causes_of_mortality,Broj,6.32
-2002,factors_influencing_health_status,Broj,0.03
-2002,unknown,Broj,46.76
-2003,neoplasms,Broj,151.0
-2003,diseases_of_the_circulatory,Broj,443.0
-2003,diseases_of_the_respiratory,Broj,22.86
-2003,diseases_of_the_digestive,Broj,21.0
-2003,symptoms_signs_and_abnormal,Broj,82.62
-2003,injuries_poisoning_and_consequences,Broj,24.79
-2003,unknown,Broj,20.09
-2004,infectious_and_parasitic,Broj,6.64
-2004,neoplasms,Broj,149.0
-2004,diseases_of_the_blood,Broj,0.81
-2004,endocrine_metabolic_and_nutritional,Broj,26.0
-2004,mental_and_behavioural_disorders,Broj,2.71
-2004,diseases_of_the_nervous,Broj,7.0
-2004,diseases_of_the_circulatory,Broj,461.0
-2004,diseases_of_the_respiratory,Broj,23.61
-2004,diseases_of_the_digestive,Broj,22.0
-2004,diseases_of_the_skin,Broj,0.29
-2004,diseases_of_the_genitourinary,Broj,12.16
-2004,certain_conditions_originating,Broj,4.24
-2004,congenital_malformations_deformations,Broj,1.09
-2004,symptoms_signs_and_abnormal,Broj,70.87
-2004,injuries_poisoning_and_consequences,Broj,23.95
-2004,external_causes_of_mortality,Broj,7.11
-2004,factors_influencing_health_status,Broj,0.03
-2004,unknown,Broj,31.49
-2005,neoplasms,Broj,163.0
-2005,diseases_of_the_circulatory,Broj,466.0
-2005,diseases_of_the_respiratory,Broj,32.32
-2005,diseases_of_the_digestive,Broj,21.0
-2005,symptoms_signs_and_abnormal,Broj,62.3
-2005,injuries_poisoning_and_consequences,Broj,24.77
-2005,neoplasms,Broj,3.14
-2005,diseases_of_the_circulatory,Broj,10.19
-2005,diseases_of_the_respiratory,Broj,512.0
-2005,diseases_of_the_digestive,Broj,390.0
-2005,symptoms_signs_and_abnormal,Broj,62.3
-2005,injuries_poisoning_and_consequences,Broj,24.77
-2006,infectious_and_parasitic,Broj,6.17
-2006,neoplasms,Broj,163.0
-2006,diseases_of_the_blood,Broj,0.52
-2006,endocrine_metabolic_and_nutritional,Broj,40.0
-2006,mental_and_behavioural_disorders,Broj,3.07
-2006,diseases_of_the_nervous,Broj,8.0
-2006,diseases_of_the_eye,Broj,0.03
-2006,diseases_of_the_circulatory,Broj,442.0
-2006,diseases_of_the_respiratory,Broj,29.46
-2006,diseases_of_the_digestive,Broj,21.0
-2006,diseases_of_the_skin,Broj,0.29
-2006,diseases_of_the_genitourinary,Broj,14.23
-2006,certain_conditions_originating,Broj,4.81
-2006,congenital_malformations_deformations,Broj,1.46
-2006,symptoms_signs_and_abnormal,Broj,71.4
-2006,injuries_poisoning_and_consequences,Broj,26.46
-2006,external_causes_of_mortality,Broj,5.52
-2006,factors_influencing_health_status,Broj,0.03
-2006,unknown,Broj,27.09
-2007,infectious_and_parasitic,Broj,6.51
-2007,neoplasms,Broj,175.0
-2007,diseases_of_the_blood,Broj,1.41
-2007,endocrine_metabolic_and_nutritional,Broj,41.0
-2007,mental_and_behavioural_disorders,Broj,4.22
-2007,diseases_of_the_nervous,Broj,8.0
-2007,diseases_of_the_eye,Broj,0.03
-2007,diseases_of_the_circulatory,Broj,482.0
-2007,diseases_of_the_respiratory,Broj,29.8
-2007,diseases_of_the_digestive,Broj,24.0
-2007,diseases_of_the_skin,Broj,0.26
-2007,diseases_of_the_musculoskeletal,Broj,1.0
-2007,diseases_of_the_genitourinary,Broj,14.52
-2007,certain_conditions_originating,Broj,3.46
-2007,congenital_malformations_deformations,Broj,1.41
-2007,symptoms_signs_and_abnormal,Broj,57.76
-2007,injuries_poisoning_and_consequences,Broj,26.81
-2007,external_causes_of_mortality,Broj,6.95
-2007,unknown,Broj,28.01
-2008,infectious_and_parasitic,Broj,7.16
-2008,neoplasms,Broj,175.0
-2008,diseases_of_the_blood,Broj,0.96
-2008,endocrine_metabolic_and_nutritional,Broj,41.0
-2008,mental_and_behavioural_disorders,Broj,4.4
-2008,diseases_of_the_nervous,Broj,7.0
-2008,diseases_of_the_eye,Broj,0.03
-2008,diseases_of_the_circulatory,Broj,468.0
-2008,diseases_of_the_respiratory,Broj,26.94
-2008,diseases_of_the_digestive,Broj,22.0
-2008,diseases_of_the_skin,Broj,0.26
-2008,diseases_of_the_musculoskeletal,Broj,1.0
-2008,diseases_of_the_genitourinary,Broj,14.86
-2008,certain_conditions_originating,Broj,3.54
-2008,congenital_malformations_deformations,Broj,1.59
-2008,symptoms_signs_and_abnormal,Broj,52.79
-2008,injuries_poisoning_and_consequences,Broj,31.23
-2008,external_causes_of_mortality,Broj,0.05
-2008,unknown,Broj,27.04
-2009,infectious_and_parasitic,Broj,7.47
-2009,neoplasms,Broj,181.0
-2009,diseases_of_the_blood,Broj,1.07
-2009,endocrine_metabolic_and_nutritional,Broj,52.0
-2009,mental_and_behavioural_disorders,Broj,4.97
-2009,diseases_of_the_nervous,Broj,8.0
-2009,diseases_of_the_circulatory,Broj,476.0
-2009,diseases_of_the_respiratory,Broj,29.48
-2009,diseases_of_the_digestive,Broj,24.0
-2009,diseases_of_the_skin,Broj,0.23
-2009,diseases_of_the_musculoskeletal,Broj,1.0
-2009,diseases_of_the_genitourinary,Broj,15.3
-2009,certain_conditions_originating,Broj,3.75
-2009,congenital_malformations_deformations,Broj,1.59
-2009,symptoms_signs_and_abnormal,Broj,51.65
-2009,injuries_poisoning_and_consequences,Broj,32.68
-2009,external_causes_of_mortality,Broj,0.05
-2009,factors_influencing_health_status,Broj,0.05
-2009,unknown,Broj,16.91
-2010,infectious_and_parasitic,Broj,7.42
-2010,neoplasms,Broj,181.0
-2010,diseases_of_the_blood,Broj,1.17
-2010,endocrine_metabolic_and_nutritional,Broj,50.0
-2010,mental_and_behavioural_disorders,Broj,4.45
-2010,diseases_of_the_nervous,Broj,9.0
-2010,diseases_of_the_eye,Broj,0.05
-2010,diseases_of_the_circulatory,Broj,489.0
-2010,diseases_of_the_respiratory,Broj,29.79
-2010,diseases_of_the_digestive,Broj,24.0
-2010,diseases_of_the_skin,Broj,0.36
-2010,diseases_of_the_musculoskeletal,Broj,1.0
-2010,diseases_of_the_genitourinary,Broj,15.01
-2010,certain_conditions_originating,Broj,3.59
-2010,congenital_malformations_deformations,Broj,1.64
-2010,symptoms_signs_and_abnormal,Broj,49.86
-2010,injuries_poisoning_and_consequences,Broj,29.07
-2010,external_causes_of_mortality,Broj,0.39
-2010,unknown,Broj,16.6
-2011,infectious_and_parasitic,Broj,7.76
-2011,neoplasms,Broj,188.0
-2011,diseases_of_the_blood,Broj,1.54
-2011,endocrine_metabolic_and_nutritional,Broj,51.0
-2011,mental_and_behavioural_disorders,Broj,4.19
-2011,diseases_of_the_nervous,Broj,11.0
-2011,diseases_of_the_circulatory,Broj,481.0
-2011,diseases_of_the_respiratory,Broj,33.36
-2011,diseases_of_the_digestive,Broj,23.0
-2011,diseases_of_the_skin,Broj,0.31
-2011,diseases_of_the_musculoskeletal,Broj,1.0
-2011,diseases_of_the_genitourinary,Broj,14.35
-2011,certain_conditions_originating,Broj,3.07
-2011,congenital_malformations_deformations,Broj,1.51
-2011,symptoms_signs_and_abnormal,Broj,43.36
-2011,injuries_poisoning_and_consequences,Broj,30.26
-2011,external_causes_of_mortality,Broj,0.36
-2011,factors_influencing_health_status,Broj,0.03
-2011,unknown,Broj,18.1
-2012,infectious_and_parasitic,Broj,8.97
-2012,neoplasms,Broj,198.0
-2012,diseases_of_the_blood,Broj,1.23
-2012,endocrine_metabolic_and_nutritional,Broj,50.0
-2012,mental_and_behavioural_disorders,Broj,4.17
-2012,diseases_of_the_nervous,Broj,11.0
-2012,diseases_of_the_eye,Broj,0.03
-2012,diseases_of_the_circulatory,Broj,502.0
-2012,diseases_of_the_respiratory,Broj,33.0
-2012,diseases_of_the_digestive,Broj,25.0
-2012,diseases_of_the_skin,Broj,0.34
-2012,diseases_of_the_musculoskeletal,Broj,1.0
-2012,diseases_of_the_genitourinary,Broj,15.67
-2012,certain_conditions_originating,Broj,2.89
-2012,congenital_malformations_deformations,Broj,1.04
-2012,symptoms_signs_and_abnormal,Broj,31.47
-2012,injuries_poisoning_and_consequences,Broj,27.82
-2012,unknown,Broj,19.29
-2013,infectious_and_parasitic,Broj,7.59
-2013,neoplasms,Broj,213.0
-2013,diseases_of_the_blood,Broj,1.42
-2013,endocrine_metabolic_and_nutritional,Broj,56.0
-2013,mental_and_behavioural_disorders,Broj,5.44
-2013,diseases_of_the_nervous,Broj,11.0
-2013,diseases_of_the_circulatory,Broj,515.0
-2013,diseases_of_the_respiratory,Broj,40.44
-2013,diseases_of_the_digestive,Broj,27.0
-2013,diseases_of_the_skin,Broj,0.88
-2013,diseases_of_the_musculoskeletal,Broj,2.0
-2013,diseases_of_the_genitourinary,Broj,16.45
-2013,certain_conditions_originating,Broj,2.86
-2013,congenital_malformations_deformations,Broj,1.08
-2013,symptoms_signs_and_abnormal,Broj,59.67
-2013,injuries_poisoning_and_consequences,Broj,29.0
-2013,external_causes_of_mortality,Broj,0.11
-2013,unknown,Broj,22.15
-2014,infectious_and_parasitic,Broj,8.25
-2014,neoplasms,Broj,222.0
-2014,diseases_of_the_blood,Broj,1.19
-2014,endocrine_metabolic_and_nutritional,Broj,64.0
-2014,mental_and_behavioural_disorders,Broj,6.38
-2014,diseases_of_the_nervous,Broj,11.0
-2014,diseases_of_the_eye,Broj,0.17
-2014,diseases_of_the_circulatory,Broj,509.0
-2014,diseases_of_the_respiratory,Broj,39.96
-2014,diseases_of_the_digestive,Broj,27.0
-2014,diseases_of_the_skin,Broj,0.91
-2014,diseases_of_the_musculoskeletal,Broj,2.0
-2014,diseases_of_the_genitourinary,Broj,15.2
-2014,certain_conditions_originating,Broj,2.41
-2014,congenital_malformations_deformations,Broj,1.39
-2014,symptoms_signs_and_abnormal,Broj,63.56
-2014,injuries_poisoning_and_consequences,Broj,29.27
-2014,external_causes_of_mortality,Broj,0.48
-2014,factors_influencing_health_status,Broj,0.03
-2014,unknown,Broj,16.73
-2015,infectious_and_parasitic,Broj,10.52
-2015,neoplasms,Broj,226.0
-2015,diseases_of_the_blood,Broj,1.56
-2015,endocrine_metabolic_and_nutritional,Broj,58.0
-2015,mental_and_behavioural_disorders,Broj,5.34
-2015,diseases_of_the_nervous,Broj,13.0
-2015,diseases_of_the_eye,Broj,0.03
-2015,diseases_of_the_circulatory,Broj,560.0
-2015,diseases_of_the_respiratory,Broj,48.83
-2015,diseases_of_the_digestive,Broj,28.0
-2015,diseases_of_the_skin,Broj,1.19
-2015,diseases_of_the_musculoskeletal,Broj,2.0
-2015,diseases_of_the_genitourinary,Broj,19.44
-2015,certain_conditions_originating,Broj,3.58
-2015,congenital_malformations_deformations,Broj,0.88
-2015,symptoms_signs_and_abnormal,Broj,59.64
-2015,injuries_poisoning_and_consequences,Broj,31.35
-2015,external_causes_of_mortality,Broj,0.23
-2015,unknown,Broj,15.38
-2016,infectious_and_parasitic,Broj,11.73
-2016,neoplasms,Broj,221.0
-2016,diseases_of_the_blood,Broj,1.54
-2016,endocrine_metabolic_and_nutritional,Broj,56.0
-2016,mental_and_behavioural_disorders,Broj,6.44
-2016,diseases_of_the_nervous,Broj,11.0
-2016,diseases_of_the_eye,Broj,0.23
-2016,diseases_of_the_circulatory,Broj,540.0
-2016,diseases_of_the_respiratory,Broj,42.35
-2016,diseases_of_the_digestive,Broj,31.0
-2016,diseases_of_the_skin,Broj,1.0
-2016,diseases_of_the_musculoskeletal,Broj,1.0
-2016,diseases_of_the_genitourinary,Broj,19.82
-2016,certain_conditions_originating,Broj,3.33
-2016,congenital_malformations_deformations,Broj,0.46
-2016,symptoms_signs_and_abnormal,Broj,49.27
-2016,injuries_poisoning_and_consequences,Broj,29.62
-2016,external_causes_of_mortality,Broj,0.4
-2016,unknown,Broj,15.52
-2017,infectious_and_parasitic,Broj,11.27
-2017,neoplasms,Broj,232.0
-2017,diseases_of_the_blood,Broj,1.97
-2017,endocrine_metabolic_and_nutritional,Broj,62.0
-2017,mental_and_behavioural_disorders,Broj,7.56
-2017,diseases_of_the_nervous,Broj,11.0
-2017,diseases_of_the_eye,Broj,0.14
-2017,diseases_of_the_circulatory,Broj,548.0
-2017,diseases_of_the_respiratory,Broj,45.06
-2017,diseases_of_the_digestive,Broj,29.0
-2017,diseases_of_the_skin,Broj,1.26
-2017,diseases_of_the_musculoskeletal,Broj,1.0
-2017,diseases_of_the_genitourinary,Broj,16.75
-2017,certain_conditions_originating,Broj,3.88
-2017,congenital_malformations_deformations,Broj,0.77
-2017,symptoms_signs_and_abnormal,Broj,65.47
-2017,injuries_poisoning_and_consequences,Broj,30.45
-2017,external_causes_of_mortality,Broj,0.43
-2017,unknown,Broj,15.7
-2018,infectious_and_parasitic,Broj,12.67
-2018,neoplasms,Broj,225.0
-2018,diseases_of_the_blood,Broj,2.06
-2018,endocrine_metabolic_and_nutritional,Broj,60.0
-2018,mental_and_behavioural_disorders,Broj,6.75
-2018,diseases_of_the_nervous,Broj,10.0
-2018,diseases_of_the_circulatory,Broj,538.0
-2018,diseases_of_the_respiratory,Broj,53.09
-2018,diseases_of_the_digestive,Broj,30.0
-2018,diseases_of_the_skin,Broj,1.14
-2018,diseases_of_the_musculoskeletal,Broj,2.0
-2018,diseases_of_the_genitourinary,Broj,18.05
-2018,certain_conditions_originating,Broj,3.83
-2018,congenital_malformations_deformations,Broj,0.74
-2018,symptoms_signs_and_abnormal,Broj,73.83
-2018,injuries_poisoning_and_consequences,Broj,29.03
-2018,external_causes_of_mortality,Broj,0.31
-2018,factors_influencing_health_status,Broj,0.03
-2018,unknown,Broj,13.44
-2001,pregnancy_childbirth_and_the,Broj,0.03
-2002,pregnancy_childbirth_and_the,Broj,0.08
-2004,pregnancy_childbirth_and_the,Broj,0.03
-2006,pregnancy_childbirth_and_the,Broj,0.08
-2007,pregnancy_childbirth_and_the,Broj,0.03
-2008,pregnancy_childbirth_and_the,Broj,0.1
-2009,pregnancy_childbirth_and_the,Broj,0.03
-2010,pregnancy_childbirth_and_the,Broj,0.03
-2011,pregnancy_childbirth_and_the,Broj,0.05
-2012,pregnancy_childbirth_and_the,Broj,0.08
-2015,pregnancy_childbirth_and_the,Broj,0.03
-2016,pregnancy_childbirth_and_the,Broj,0.03
-2018,pregnancy_childbirth_and_the,Broj,0.03
+Year,Uzrok smrti (prema šiframa bolesti po MKB-10),UNIT_MEASURE,Value
+1999,"„(C00-C97,D00-D48) Neoplazme“",Broj,123.0
+1999,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,427.0
+1999,„(J00-J99) Bolesti respiratornog sustava“,Broj,23.25
+1999,„(K00-K93) Bolesti digestivnog sustava“,Broj,19.0
+1999,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,68.51
+1999,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,27.44
+2000,"„(C00-C97,D00-D48) Neoplazme“",Broj,135.0
+2000,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,431.0
+2000,„(J00-J99) Bolesti respiratornog sustava“,Broj,21.29
+2000,„(K00-K93) Bolesti digestivnog sustava“,Broj,22.0
+2000,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,75.64
+2000,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,28.85
+2000,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,6.77
+2000,"„(C00-C97,D00-D48) Neoplazme“",Broj,141.0
+2000,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,0.53
+2000,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,18.0
+2000,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,1.26
+2000,„(G00-G99) Bolesti nervnog sustava“,Broj,4.0
+2000,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2000,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,430.0
+2000,„(J00-J99) Bolesti respiratornog sustava“,Broj,19.62
+2000,„(K00-K93) Bolesti digestivnog sustava“,Broj,22.0
+2000,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.45
+2000,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,10.45
+2000,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,4.95
+2000,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.13
+2000,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,79.81
+2000,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,26.78
+2000,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,6.87
+2000,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2000,Nepoznato,Broj,25.12
+2002,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,6.87
+2002,"„(C00-C97,D00-D48) Neoplazme“",Broj,138.0
+2002,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,0.5
+2002,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,23.0
+2002,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,1.72
+2002,„(G00-G99) Bolesti nervnog sustava“,Broj,4.0
+2002,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2002,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,418.0
+2002,„(J00-J99) Bolesti respiratornog sustava“,Broj,21.34
+2002,„(K00-K93) Bolesti digestivnog sustava“,Broj,21.0
+2002,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.44
+2002,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,5.72
+2002,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,5.9
+2002,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.46
+2002,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,77.93
+2002,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,25.71
+2002,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,6.32
+2002,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2002,Nepoznato,Broj,46.76
+2003,"„(C00-C97,D00-D48) Neoplazme“",Broj,151.0
+2003,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,443.0
+2003,„(J00-J99) Bolesti respiratornog sustava“,Broj,22.86
+2003,„(K00-K93) Bolesti digestivnog sustava“,Broj,21.0
+2003,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,82.62
+2003,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,24.79
+2003,Nepoznato,Broj,20.09
+2004,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,6.64
+2004,"„(C00-C97,D00-D48) Neoplazme“",Broj,149.0
+2004,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,0.81
+2004,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,26.0
+2004,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,2.71
+2004,„(G00-G99) Bolesti nervnog sustava“,Broj,7.0
+2004,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,461.0
+2004,„(J00-J99) Bolesti respiratornog sustava“,Broj,23.61
+2004,„(K00-K93) Bolesti digestivnog sustava“,Broj,22.0
+2004,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.29
+2004,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,12.16
+2004,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,4.24
+2004,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.09
+2004,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,70.87
+2004,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,23.95
+2004,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,7.11
+2004,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2004,Nepoznato,Broj,31.49
+2005,"„(C00-C97,D00-D48) Neoplazme“",Broj,163.0
+2005,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,466.0
+2005,„(J00-J99) Bolesti respiratornog sustava“,Broj,32.32
+2005,„(K00-K93) Bolesti digestivnog sustava“,Broj,21.0
+2005,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,62.3
+2005,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,24.77
+2005,"„(C00-C97,D00-D48) Neoplazme“",Broj,3.14
+2005,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,10.19
+2005,„(J00-J99) Bolesti respiratornog sustava“,Broj,512.0
+2005,„(K00-K93) Bolesti digestivnog sustava“,Broj,390.0
+2005,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,62.3
+2005,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,24.77
+2006,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,6.17
+2006,"„(C00-C97,D00-D48) Neoplazme“",Broj,163.0
+2006,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,0.52
+2006,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,40.0
+2006,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,3.07
+2006,„(G00-G99) Bolesti nervnog sustava“,Broj,8.0
+2006,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2006,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,442.0
+2006,„(J00-J99) Bolesti respiratornog sustava“,Broj,29.46
+2006,„(K00-K93) Bolesti digestivnog sustava“,Broj,21.0
+2006,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.29
+2006,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,14.23
+2006,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,4.81
+2006,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.46
+2006,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,71.4
+2006,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,26.46
+2006,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,5.52
+2006,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2006,Nepoznato,Broj,27.09
+2007,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,6.51
+2007,"„(C00-C97,D00-D48) Neoplazme“",Broj,175.0
+2007,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.41
+2007,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,41.0
+2007,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.22
+2007,„(G00-G99) Bolesti nervnog sustava“,Broj,8.0
+2007,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2007,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,482.0
+2007,„(J00-J99) Bolesti respiratornog sustava“,Broj,29.8
+2007,„(K00-K93) Bolesti digestivnog sustava“,Broj,24.0
+2007,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.26
+2007,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2007,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,14.52
+2007,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.46
+2007,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.41
+2007,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,57.76
+2007,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,26.81
+2007,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,6.95
+2007,Nepoznato,Broj,28.01
+2008,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,7.16
+2008,"„(C00-C97,D00-D48) Neoplazme“",Broj,175.0
+2008,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,0.96
+2008,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,41.0
+2008,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.4
+2008,„(G00-G99) Bolesti nervnog sustava“,Broj,7.0
+2008,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2008,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,468.0
+2008,„(J00-J99) Bolesti respiratornog sustava“,Broj,26.94
+2008,„(K00-K93) Bolesti digestivnog sustava“,Broj,22.0
+2008,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.26
+2008,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2008,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,14.86
+2008,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.54
+2008,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.59
+2008,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,52.79
+2008,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,31.23
+2008,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.05
+2008,Nepoznato,Broj,27.04
+2009,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,7.47
+2009,"„(C00-C97,D00-D48) Neoplazme“",Broj,181.0
+2009,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.07
+2009,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,52.0
+2009,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.97
+2009,„(G00-G99) Bolesti nervnog sustava“,Broj,8.0
+2009,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,476.0
+2009,„(J00-J99) Bolesti respiratornog sustava“,Broj,29.48
+2009,„(K00-K93) Bolesti digestivnog sustava“,Broj,24.0
+2009,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.23
+2009,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2009,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,15.3
+2009,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.75
+2009,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.59
+2009,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,51.65
+2009,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,32.68
+2009,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.05
+2009,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.05
+2009,Nepoznato,Broj,16.91
+2010,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,7.42
+2010,"„(C00-C97,D00-D48) Neoplazme“",Broj,181.0
+2010,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.17
+2010,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,50.0
+2010,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.45
+2010,„(G00-G99) Bolesti nervnog sustava“,Broj,9.0
+2010,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.05
+2010,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,489.0
+2010,„(J00-J99) Bolesti respiratornog sustava“,Broj,29.79
+2010,„(K00-K93) Bolesti digestivnog sustava“,Broj,24.0
+2010,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.36
+2010,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2010,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,15.01
+2010,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.59
+2010,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.64
+2010,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,49.86
+2010,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,29.07
+2010,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.39
+2010,Nepoznato,Broj,16.6
+2011,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,7.76
+2011,"„(C00-C97,D00-D48) Neoplazme“",Broj,188.0
+2011,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.54
+2011,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,51.0
+2011,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.19
+2011,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2011,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,481.0
+2011,„(J00-J99) Bolesti respiratornog sustava“,Broj,33.36
+2011,„(K00-K93) Bolesti digestivnog sustava“,Broj,23.0
+2011,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.31
+2011,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2011,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,14.35
+2011,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.07
+2011,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.51
+2011,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,43.36
+2011,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,30.26
+2011,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.36
+2011,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2011,Nepoznato,Broj,18.1
+2012,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,8.97
+2012,"„(C00-C97,D00-D48) Neoplazme“",Broj,198.0
+2012,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.23
+2012,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,50.0
+2012,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,4.17
+2012,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2012,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2012,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,502.0
+2012,„(J00-J99) Bolesti respiratornog sustava“,Broj,33.0
+2012,„(K00-K93) Bolesti digestivnog sustava“,Broj,25.0
+2012,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.34
+2012,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2012,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,15.67
+2012,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,2.89
+2012,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.04
+2012,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,31.47
+2012,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,27.82
+2012,Nepoznato,Broj,19.29
+2013,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,7.59
+2013,"„(C00-C97,D00-D48) Neoplazme“",Broj,213.0
+2013,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.42
+2013,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,56.0
+2013,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,5.44
+2013,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2013,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,515.0
+2013,„(J00-J99) Bolesti respiratornog sustava“,Broj,40.44
+2013,„(K00-K93) Bolesti digestivnog sustava“,Broj,27.0
+2013,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.88
+2013,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,2.0
+2013,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,16.45
+2013,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,2.86
+2013,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.08
+2013,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,59.67
+2013,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,29.0
+2013,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.11
+2013,Nepoznato,Broj,22.15
+2014,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,8.25
+2014,"„(C00-C97,D00-D48) Neoplazme“",Broj,222.0
+2014,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.19
+2014,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,64.0
+2014,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,6.38
+2014,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2014,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.17
+2014,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,509.0
+2014,„(J00-J99) Bolesti respiratornog sustava“,Broj,39.96
+2014,„(K00-K93) Bolesti digestivnog sustava“,Broj,27.0
+2014,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,0.91
+2014,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,2.0
+2014,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,15.2
+2014,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,2.41
+2014,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,1.39
+2014,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,63.56
+2014,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,29.27
+2014,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.48
+2014,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2014,Nepoznato,Broj,16.73
+2015,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,10.52
+2015,"„(C00-C97,D00-D48) Neoplazme“",Broj,226.0
+2015,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.56
+2015,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,58.0
+2015,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,5.34
+2015,„(G00-G99) Bolesti nervnog sustava“,Broj,13.0
+2015,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.03
+2015,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,560.0
+2015,„(J00-J99) Bolesti respiratornog sustava“,Broj,48.83
+2015,„(K00-K93) Bolesti digestivnog sustava“,Broj,28.0
+2015,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,1.19
+2015,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,2.0
+2015,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,19.44
+2015,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.58
+2015,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,0.88
+2015,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,59.64
+2015,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,31.35
+2015,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.23
+2015,Nepoznato,Broj,15.38
+2016,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,11.73
+2016,"„(C00-C97,D00-D48) Neoplazme“",Broj,221.0
+2016,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.54
+2016,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,56.0
+2016,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,6.44
+2016,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2016,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.23
+2016,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,540.0
+2016,„(J00-J99) Bolesti respiratornog sustava“,Broj,42.35
+2016,„(K00-K93) Bolesti digestivnog sustava“,Broj,31.0
+2016,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,1.0
+2016,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2016,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,19.82
+2016,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.33
+2016,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,0.46
+2016,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,49.27
+2016,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,29.62
+2016,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.4
+2016,Nepoznato,Broj,15.52
+2017,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,11.27
+2017,"„(C00-C97,D00-D48) Neoplazme“",Broj,232.0
+2017,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,1.97
+2017,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,62.0
+2017,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,7.56
+2017,„(G00-G99) Bolesti nervnog sustava“,Broj,11.0
+2017,"„(H00-H93) Bolesti oka, uha i adneksa""",Broj,0.14
+2017,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,548.0
+2017,„(J00-J99) Bolesti respiratornog sustava“,Broj,45.06
+2017,„(K00-K93) Bolesti digestivnog sustava“,Broj,29.0
+2017,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,1.26
+2017,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,1.0
+2017,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,16.75
+2017,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.88
+2017,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,0.77
+2017,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,65.47
+2017,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,30.45
+2017,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.43
+2017,Nepoznato,Broj,15.7
+2018,„(A00-B99) Zarazne i parazitarne bolesti“,Broj,12.67
+2018,"„(C00-C97,D00-D48) Neoplazme“",Broj,225.0
+2018,"„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",Broj,2.06
+2018,"„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",Broj,60.0
+2018,„(F00-F99) Duševni poremećaji i poremećaji ponašanja“,Broj,6.75
+2018,„(G00-G99) Bolesti nervnog sustava“,Broj,10.0
+2018,„(I00-I99) Bolesti cirkulacijskog sustava“,Broj,538.0
+2018,„(J00-J99) Bolesti respiratornog sustava“,Broj,53.09
+2018,„(K00-K93) Bolesti digestivnog sustava“,Broj,30.0
+2018,„(L00-L99) Bolesti kože i potkožnog tkiva“,Broj,1.14
+2018,„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“,Broj,2.0
+2018,„(N00-N99) Bolesti genitalno-urinarnog sustava“,Broj,18.05
+2018,„(P00-P96) Određena stanja nastala u perinatalnom periodu“,Broj,3.83
+2018,"„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",Broj,0.74
+2018,"„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",Broj,73.83
+2018,"„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",Broj,29.03
+2018,„(V01-Y98) Vanjski uzroci mortaliteta“,Broj,0.31
+2018,„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“,Broj,0.03
+2018,Nepoznato,Broj,13.44
+2001,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2002,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.08
+2004,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2006,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.08
+2007,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2008,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.1
+2009,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2010,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2011,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.05
+2012,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.08
+2015,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2016,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03
+2018,"„(O00-O99) Trudnoća, porođaj i postporođajni period“",Broj,0.03

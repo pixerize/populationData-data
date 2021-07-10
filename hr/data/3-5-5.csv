@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Entitet,Value
+Year,UNIT_MEASURE,ADMIN_AREA,Value
 1999,Broj,BiH,352
 1999,Broj,Republika Srpska,352
 2000,Broj,BiH,341
@@ -53,4 +53,4 @@ Year,UNIT_MEASURE,Entitet,Value
 2018,Broj,Republika Srpska,670
 2019,Broj,BiH,873
 2019,Broj,Federacija BiH,873
-2018,Broj,Brčko Distrikt BiH,30
+2018,Broj,Brčko distrikt BiH,30

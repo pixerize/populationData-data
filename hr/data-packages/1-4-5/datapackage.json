@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
@@ -35,16 +35,16 @@
                 "Federacija BiH",
                 "BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-5",
-  "title": "global_indicators.1-4-5-title"
+  "title": "Porođaj majki u tinejdžerskoj dobi, prema dobnoj skupini"
 }
