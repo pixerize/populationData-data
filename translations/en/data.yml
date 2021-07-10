@@ -230,7 +230,7 @@ BIRTHS_AND_DEATHS: Births and deaths
 live_births: Live births
 deaths: Deaths
 natural_increase: Natural increase
-number_birth_rate: Number per 1,000 population
+number_birth_rate: Number per 1000 population
 infant_(up_to_12_months_of_age)_mortality_rate: Infant (up to 12 months of age) mortality rate
 VITAL_STATISTICS: Vital statistics
 UNIT_MEASUREMENT: Unit of measurement
@@ -239,5 +239,5 @@ boys_to_girls: Number of boys to 100 girls
 no_education: No education
 post_secondary_school_specialisation: Post-secondary school specialisation
 TYPE_OF_DEPENDENCY_RATIO: Type of dependency ratio
-NO_PER_1000_LIVE_BIRTHS: Number per 1,000 live births
-no_per_1000_marriages: Number per 1,000 marriages
+NO_PER_1000_LIVE_BIRTHS: Number per 1000 live births
+no_per_1000_marriages: Number per 1000 marriages

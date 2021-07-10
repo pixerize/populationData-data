@@ -278,7 +278,10 @@ number_birth_rate: Број на 1.000 становника
 infant_(up_to_12_months_of_age)_mortality_rate: Стопа смртности дојенчади (до навршене прве године живота)
 VITAL_STATISTICS: Витална статистика
 UNIT_MEASUREMENT: Мјерна јединица
-children_pre_woman: Број дјеце по жени
-boys_to_girls: Дјечаци на 100 дјевојчица
+children_pre_woman: Број дјеце по жени 15-49
+boys_to_girls: Број дјечака на 100 ђевојчица
 no_education: Без образовања
 post_secondary_school_specialisation: Специјализација након завршене средње школе
+TYPE_OF_DEPENDENCY_RATIO: Тип односа зависности
+NO_PER_1000_LIVE_BIRTHS: Број на 1000 живорођених
+no_per_1000_marriages: Број на 1000 бракова
