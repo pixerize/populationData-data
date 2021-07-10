@@ -5,7 +5,6 @@ Value: Vrijednost
 Entity: Administrativno područje
 FBIH: Federacija BiH
 RS: Republika Srpska
-BD: Brčko distrikt BiH
 Bothsex: Oba spola
 Male: M
 Female: Ž
@@ -280,3 +279,4 @@ children_pre_woman: Broj djece po ženi
 boys_to_girls: Dječaci na 100 djevojčica
 no_education: Bez obrazovanja
 post_secondary_school_specialisation: Specijalizacija nakon završene srednje škole
+BD: Brčko distrikt BiH
