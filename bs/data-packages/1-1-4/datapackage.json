@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -67,16 +67,16 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

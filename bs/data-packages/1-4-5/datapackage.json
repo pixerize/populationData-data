@@ -25,17 +25,17 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
+                "Federacija BiH",
                 "BiH",
-                "RS",
-                "BD",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -44,7 +44,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",

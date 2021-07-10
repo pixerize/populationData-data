@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },

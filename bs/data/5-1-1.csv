@@ -1,91 +1,91 @@
-Year,UNIT_MEASURE,SPOL,EDUCATION,Value
-1991,Broj,Oba spola,incomplete_primary_education,658356.0
-1991,_%,Oba spola,incomplete_primary_education,16.65
-1991,Broj,M,incomplete_primary_education,285421.0
-1991,_%,M,incomplete_primary_education,8.52
-1991,Broj,Ž,incomplete_primary_education,372935.0
-1991,_%,Ž,incomplete_primary_education,11.13
-1991,Broj,Oba spola,primary_school,818361.0
-1991,_%,Oba spola,primary_school,24.43
-1991,Broj,M,primary_school,421045.0
-1991,_%,M,primary_school,12.57
-1991,Broj,Ž,primary_school,397316.0
-1991,_%,Ž,primary_school,11.86
-1991,Broj,Oba spola,secondary_school,1092372.0
-1991,_%,Oba spola,secondary_school,32.61
-1991,Broj,M,secondary_school,671058.0
-1991,_%,M,secondary_school,20.03
-1991,Broj,Ž,secondary_school,421314.0
-1991,_%,Ž,secondary_school,12.58
-1991,Broj,Oba spola,higher_school_and_first_grade_of_faculty,92501.0
-1991,_%,Oba spola,higher_school_and_first_grade_of_faculty,2.76
-1991,Broj,M,higher_school_and_first_grade_of_faculty,56759.0
-1991,_%,M,higher_school_and_first_grade_of_faculty,1.69
-1991,Broj,Ž,higher_school_and_first_grade_of_faculty,35742.0
-1991,_%,Ž,higher_school_and_first_grade_of_faculty,1.07
-1991,Broj,Oba spola,advanced_schools_faculty_academy_university,122967.0
-1991,_%,Oba spola,advanced_schools_faculty_academy_university,3.67
-1991,Broj,M,advanced_schools_faculty_academy_university,77240.0
-1991,_%,M,advanced_schools_faculty_academy_university,2.31
-1991,Broj,Ž,advanced_schools_faculty_academy_university,45727.0
-1991,_%,Ž,advanced_schools_faculty_academy_university,1.37
-1991,Broj,Oba spola,unknown,93903.0
-1991,_%,Oba spola,unknown,2.8
-1991,Broj,M,unknown,47397.0
-1991,_%,M,unknown,1.41
-1991,Broj,Ž,unknown,46506.0
-1991,_%,Ž,unknown,1.39
-1991,Broj,Oba spola,no_education,471182.0
-1991,_%,Oba spola,no_education,14.07
-1991,Broj,M,no_education,98420.0
-1991,_%,M,no_education,2.94
-1991,Broj,Ž,no_education,372762.0
-1991,_%,Ž,no_education,11.13
-1991,Broj,Oba spola,post_secondary_school_specialisation,0.0
-1991,_%,Oba spola,post_secondary_school_specialisation,0.0
-1991,Broj,M,post_secondary_school_specialisation,0.0
-1991,_%,M,post_secondary_school_specialisation,0.0
-1991,Broj,Ž,post_secondary_school_specialisation,0.0
-1991,_%,Ž,post_secondary_school_specialisation,0.0
-2013,Broj,Oba spola,incomplete_primary_education,274036.0
-2013,_%,Oba spola,incomplete_primary_education,9.17
-2013,Broj,M,incomplete_primary_education,83216.0
-2013,_%,M,incomplete_primary_education,2.79
-2013,Broj,Ž,incomplete_primary_education,190820.0
-2013,_%,Ž,incomplete_primary_education,6.39
-2013,Broj,Oba spola,primary_school,640726.0
-2013,_%,Oba spola,primary_school,21.45
-2013,Broj,M,primary_school,274258.0
-2013,_%,M,primary_school,9.18
-2013,Broj,Ž,primary_school,366468.0
-2013,_%,Ž,primary_school,12.27
-2013,Broj,Oba spola,secondary_school,1525161.0
-2013,_%,Oba spola,secondary_school,51.05
-2013,Broj,M,secondary_school,864823.0
-2013,_%,M,secondary_school,28.95
-2013,Broj,Ž,secondary_school,660338.0
-2013,_%,Ž,secondary_school,22.1
-2013,Broj,Oba spola,higher_school_and_first_grade_of_faculty,94204.0
-2013,_%,Oba spola,higher_school_and_first_grade_of_faculty,3.15
-2013,Broj,M,higher_school_and_first_grade_of_faculty,51556.0
-2013,_%,M,higher_school_and_first_grade_of_faculty,1.73
-2013,Broj,Ž,higher_school_and_first_grade_of_faculty,42648.0
-2013,_%,Ž,higher_school_and_first_grade_of_faculty,1.43
-2013,Broj,Oba spola,advanced_schools_faculty_academy_university,285622.0
-2013,_%,Oba spola,advanced_schools_faculty_academy_university,9.56
-2013,Broj,M,advanced_schools_faculty_academy_university,137543.0
-2013,_%,M,advanced_schools_faculty_academy_university,4.6
-2013,Broj,Ž,advanced_schools_faculty_academy_university,148079.0
-2013,_%,Ž,advanced_schools_faculty_academy_university,4.96
-2013,Broj,Oba spola,no_education,146078.0
-2013,_%,Oba spola,no_education,4.89
-2013,Broj,M,no_education,24021.0
-2013,_%,M,no_education,0.8
-2013,Broj,Ž,no_education,122057.0
-2013,_%,Ž,no_education,4.09
-2013,Broj,Oba spola,post_secondary_school_specialisation,21613.0
-2013,_%,Oba spola,post_secondary_school_specialisation,0.72
-2013,Broj,M,post_secondary_school_specialisation,17877.0
-2013,_%,M,post_secondary_school_specialisation,0.6
-2013,Broj,Ž,post_secondary_school_specialisation,3736.0
-2013,_%,Ž,post_secondary_school_specialisation,0.13
+Year,UNIT_MEASURE,SPOL,Nivo obrazovanja,Value
+1991,Broj,Oba spola,Nepotpuno osnovno obrazovanje,658356.0
+1991,% od ukupno,Oba spola,Nepotpuno osnovno obrazovanje,16.65
+1991,Broj,M,Nepotpuno osnovno obrazovanje,285421.0
+1991,% od ukupno,M,Nepotpuno osnovno obrazovanje,8.52
+1991,Broj,Ž,Nepotpuno osnovno obrazovanje,372935.0
+1991,% od ukupno,Ž,Nepotpuno osnovno obrazovanje,11.13
+1991,Broj,Oba spola,Osnovna škola,818361.0
+1991,% od ukupno,Oba spola,Osnovna škola,24.43
+1991,Broj,M,Osnovna škola,421045.0
+1991,% od ukupno,M,Osnovna škola,12.57
+1991,Broj,Ž,Osnovna škola,397316.0
+1991,% od ukupno,Ž,Osnovna škola,11.86
+1991,Broj,Oba spola,Srednja škola,1092372.0
+1991,% od ukupno,Oba spola,Srednja škola,32.61
+1991,Broj,M,Srednja škola,671058.0
+1991,% od ukupno,M,Srednja škola,20.03
+1991,Broj,Ž,Srednja škola,421314.0
+1991,% od ukupno,Ž,Srednja škola,12.58
+1991,Broj,Oba spola,Visoko obrazovanje i prva godina fakulteta,92501.0
+1991,% od ukupno,Oba spola,Visoko obrazovanje i prva godina fakulteta,2.76
+1991,Broj,M,Visoko obrazovanje i prva godina fakulteta,56759.0
+1991,% od ukupno,M,Visoko obrazovanje i prva godina fakulteta,1.69
+1991,Broj,Ž,Visoko obrazovanje i prva godina fakulteta,35742.0
+1991,% od ukupno,Ž,Visoko obrazovanje i prva godina fakulteta,1.07
+1991,Broj,Oba spola,Napredne škole /fakultet /akademija /univerzitet,122967.0
+1991,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /univerzitet,3.67
+1991,Broj,M,Napredne škole /fakultet /akademija /univerzitet,77240.0
+1991,% od ukupno,M,Napredne škole /fakultet /akademija /univerzitet,2.31
+1991,Broj,Ž,Napredne škole /fakultet /akademija /univerzitet,45727.0
+1991,% od ukupno,Ž,Napredne škole /fakultet /akademija /univerzitet,1.37
+1991,Broj,Oba spola,Nepoznato,93903.0
+1991,% od ukupno,Oba spola,Nepoznato,2.8
+1991,Broj,M,Nepoznato,47397.0
+1991,% od ukupno,M,Nepoznato,1.41
+1991,Broj,Ž,Nepoznato,46506.0
+1991,% od ukupno,Ž,Nepoznato,1.39
+1991,Broj,Oba spola,Bez obrazovanja,471182.0
+1991,% od ukupno,Oba spola,Bez obrazovanja,14.07
+1991,Broj,M,Bez obrazovanja,98420.0
+1991,% od ukupno,M,Bez obrazovanja,2.94
+1991,Broj,Ž,Bez obrazovanja,372762.0
+1991,% od ukupno,Ž,Bez obrazovanja,11.13
+1991,Broj,Oba spola,Specijalizacija nakon završene srednje škole,0.0
+1991,% od ukupno,Oba spola,Specijalizacija nakon završene srednje škole,0.0
+1991,Broj,M,Specijalizacija nakon završene srednje škole,0.0
+1991,% od ukupno,M,Specijalizacija nakon završene srednje škole,0.0
+1991,Broj,Ž,Specijalizacija nakon završene srednje škole,0.0
+1991,% od ukupno,Ž,Specijalizacija nakon završene srednje škole,0.0
+2013,Broj,Oba spola,Nepotpuno osnovno obrazovanje,274036.0
+2013,% od ukupno,Oba spola,Nepotpuno osnovno obrazovanje,9.17
+2013,Broj,M,Nepotpuno osnovno obrazovanje,83216.0
+2013,% od ukupno,M,Nepotpuno osnovno obrazovanje,2.79
+2013,Broj,Ž,Nepotpuno osnovno obrazovanje,190820.0
+2013,% od ukupno,Ž,Nepotpuno osnovno obrazovanje,6.39
+2013,Broj,Oba spola,Osnovna škola,640726.0
+2013,% od ukupno,Oba spola,Osnovna škola,21.45
+2013,Broj,M,Osnovna škola,274258.0
+2013,% od ukupno,M,Osnovna škola,9.18
+2013,Broj,Ž,Osnovna škola,366468.0
+2013,% od ukupno,Ž,Osnovna škola,12.27
+2013,Broj,Oba spola,Srednja škola,1525161.0
+2013,% od ukupno,Oba spola,Srednja škola,51.05
+2013,Broj,M,Srednja škola,864823.0
+2013,% od ukupno,M,Srednja škola,28.95
+2013,Broj,Ž,Srednja škola,660338.0
+2013,% od ukupno,Ž,Srednja škola,22.1
+2013,Broj,Oba spola,Visoko obrazovanje i prva godina fakulteta,94204.0
+2013,% od ukupno,Oba spola,Visoko obrazovanje i prva godina fakulteta,3.15
+2013,Broj,M,Visoko obrazovanje i prva godina fakulteta,51556.0
+2013,% od ukupno,M,Visoko obrazovanje i prva godina fakulteta,1.73
+2013,Broj,Ž,Visoko obrazovanje i prva godina fakulteta,42648.0
+2013,% od ukupno,Ž,Visoko obrazovanje i prva godina fakulteta,1.43
+2013,Broj,Oba spola,Napredne škole /fakultet /akademija /univerzitet,285622.0
+2013,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /univerzitet,9.56
+2013,Broj,M,Napredne škole /fakultet /akademija /univerzitet,137543.0
+2013,% od ukupno,M,Napredne škole /fakultet /akademija /univerzitet,4.6
+2013,Broj,Ž,Napredne škole /fakultet /akademija /univerzitet,148079.0
+2013,% od ukupno,Ž,Napredne škole /fakultet /akademija /univerzitet,4.96
+2013,Broj,Oba spola,Bez obrazovanja,146078.0
+2013,% od ukupno,Oba spola,Bez obrazovanja,4.89
+2013,Broj,M,Bez obrazovanja,24021.0
+2013,% od ukupno,M,Bez obrazovanja,0.8
+2013,Broj,Ž,Bez obrazovanja,122057.0
+2013,% od ukupno,Ž,Bez obrazovanja,4.09
+2013,Broj,Oba spola,Specijalizacija nakon završene srednje škole,21613.0
+2013,% od ukupno,Oba spola,Specijalizacija nakon završene srednje škole,0.72
+2013,Broj,M,Specijalizacija nakon završene srednje škole,17877.0
+2013,% od ukupno,M,Specijalizacija nakon završene srednje škole,0.6
+2013,Broj,Ž,Specijalizacija nakon završene srednje škole,3736.0
+2013,% od ukupno,Ž,Specijalizacija nakon završene srednje škole,0.13

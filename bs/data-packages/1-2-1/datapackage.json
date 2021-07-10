@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -39,9 +39,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -52,13 +52,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",

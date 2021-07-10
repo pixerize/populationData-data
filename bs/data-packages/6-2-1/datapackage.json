@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -26,9 +26,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

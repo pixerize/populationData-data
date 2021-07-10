@@ -18,30 +18,30 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
-                "all_methods",
-                "traditional_methods",
+                "Savremene metode",
+                "Sve metode",
+                "Tradicionalne metode",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Metoda"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 "BiH",
-                "BD",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

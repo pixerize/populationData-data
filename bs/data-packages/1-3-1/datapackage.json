@@ -18,17 +18,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "Ukupan omjer ekonomske podrške",
+                "Omjer ekonomske podrške mladima",
+                "Omjer ekonomske podrške starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -53,9 +53,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

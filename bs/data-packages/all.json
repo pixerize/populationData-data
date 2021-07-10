@@ -20,7 +20,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -41,9 +41,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -76,7 +76,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -84,9 +84,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -119,7 +119,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -160,7 +160,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -181,9 +181,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -194,13 +194,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
@@ -242,7 +242,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -286,7 +286,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -315,7 +315,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -355,7 +355,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -500,7 +500,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -542,7 +542,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -571,7 +571,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -579,9 +579,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -614,7 +614,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -622,9 +622,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -664,17 +664,17 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
+                "Federacija BiH",
                 "BiH",
-                "RS",
-                "BD",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -683,7 +683,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -712,7 +712,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -858,7 +858,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -887,7 +887,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -895,8 +895,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -931,36 +931,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_genitourinary",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                "diseases_of_the_musculoskeletal",
-                "pregnancy_childbirth_and_the",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
+                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
+                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
+                "(V01-Y98) Vanjski uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
+                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -992,9 +992,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -1003,7 +1003,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1032,7 +1032,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1143,16 +1143,16 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -1185,7 +1185,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -1193,7 +1193,7 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -1226,7 +1226,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -1266,7 +1266,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1285,9 +1285,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -1320,7 +1320,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1340,18 +1340,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje i prva godina fakulteta",
+                "Napredne škole /fakultet /akademija /univerzitet",
+                "Nepoznato",
+                "Bez obrazovanja",
+                "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "EDUCATION"
+            "title": "Nivo obrazovanja"
           },
           {
             "name": "Value",
@@ -1380,17 +1380,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "Ukupan omjer ekonomske podrške",
+                "Omjer ekonomske podrške mladima",
+                "Omjer ekonomske podrške starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -1436,7 +1436,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -1444,9 +1444,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -1479,7 +1479,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1521,7 +1521,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Municipality",
@@ -1702,7 +1702,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -1710,8 +1710,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },
@@ -1757,7 +1757,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1786,7 +1786,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1843,7 +1843,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -1885,7 +1885,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -1914,7 +1914,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -1960,7 +1960,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -1989,16 +1989,16 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2031,7 +2031,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2052,9 +2052,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2087,7 +2087,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2116,7 +2116,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2145,7 +2145,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2172,7 +2172,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2201,7 +2201,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2209,9 +2209,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2244,15 +2244,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -2274,7 +2274,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
@@ -2285,7 +2285,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2293,9 +2293,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2328,7 +2328,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2336,9 +2336,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2371,16 +2371,16 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2426,7 +2426,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2434,9 +2434,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2469,7 +2469,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2509,7 +2509,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2529,14 +2529,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
+                "Predškolski odgoj i obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje /univerzitet",
                 ""
               ]
             },
-            "title": "ENROLMENT"
+            "title": "Vrsta obrazovne ustanove"
           },
           {
             "name": "Value",
@@ -2590,12 +2590,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -2624,7 +2624,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2632,9 +2632,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2667,7 +2667,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2675,8 +2675,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -2709,7 +2709,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2738,7 +2738,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -2767,15 +2767,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -2808,7 +2808,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -2816,9 +2816,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2851,7 +2851,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2900,16 +2900,16 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2945,9 +2945,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -2956,7 +2956,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -2985,7 +2985,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -3005,7 +3005,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_ALL",
+                "Svi",
                 "10-14",
                 "15-19",
                 "20-24",
@@ -3023,7 +3023,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -3052,7 +3052,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3060,9 +3060,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3095,16 +3095,16 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3152,9 +3152,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3163,7 +3163,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3207,37 +3207,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "total",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
+                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "Ukupno",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
+                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
+                "(V01-Y98) Vanjski uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3266,17 +3266,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "Ukupan omjer ekonomske podrške",
+                "Omjer ekonomske podrške mladima",
+                "Omjer ekonomske podrške starijim osobama",
+                "Omjer starijih i mladih",
                 ""
               ]
             },
@@ -3301,9 +3301,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3336,15 +3336,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -3377,7 +3377,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3385,8 +3385,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -3419,7 +3419,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3427,8 +3427,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },
@@ -3463,23 +3463,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
                 ""
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Veličina domaćinstva"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3508,30 +3508,30 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
-                "all_methods",
-                "traditional_methods",
+                "Savremene metode",
+                "Sve metode",
+                "Tradicionalne metode",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Metoda"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 "BiH",
-                "BD",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3564,7 +3564,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3572,9 +3572,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3623,9 +3623,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3634,7 +3634,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -3663,7 +3663,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -3704,7 +3704,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3712,8 +3712,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
+                "Republika Srpska",
+                "Federacija BiH",
                 ""
               ]
             },
@@ -3746,7 +3746,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3754,9 +3754,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3789,7 +3789,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -3806,7 +3806,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
@@ -3814,8 +3814,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },
@@ -3848,15 +3848,15 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },
@@ -3889,7 +3889,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -3908,7 +3908,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -3937,7 +3937,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3945,9 +3945,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -3980,7 +3980,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -3988,9 +3988,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -4039,9 +4039,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -4050,7 +4050,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4095,9 +4095,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -4106,7 +4106,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4150,18 +4150,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vitalna statistika"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -4190,7 +4190,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -4198,9 +4198,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -4233,7 +4233,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
@@ -4241,9 +4241,9 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -4276,7 +4276,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -4305,7 +4305,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",

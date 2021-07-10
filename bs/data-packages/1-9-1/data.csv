@@ -1,33 +1,33 @@
-Year,NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,UNIT_MEASURE,Value
-1971,single_household,Broj,82305
-1971,2_members,Broj,97312
-1971,3_members,Broj,125680
-1971,4_members,Broj,174650
-1971,5_members,Broj,134703
-1971,6_members,Broj,94479
-1971,7_members,Broj,60558
-1971,8+_members,Broj,78858
-1981,single_household,Broj,97423
-1981,2_members,Broj,143225
-1981,3_members,Broj,181500
-1981,4_members,Broj,264179
-1981,5_members,Broj,151073
-1981,6_members,Broj,90453
-1981,7_members,Broj,48831
-1981,8+_members,Broj,54005
-1991,single_household,Broj,130222
-1991,2_members,Broj,201096
-1991,3_members,Broj,229788
-1991,4_members,Broj,347705
-1991,5_members,Broj,156474
-1991,6_members,Broj,78561
-1991,7_members,Broj,33655
-1991,8+_members,Broj,29597
-2013,single_household,Broj,217613
-2013,2_members,Broj,277191
-2013,3_members,Broj,232169
-2013,4_members,Broj,238625
-2013,5_members,Broj,107229
-2013,6_members,Broj,49859
-2013,7_members,Broj,18818
-2013,8+_members,Broj,14232
+Year,Veličina domaćinstva,UNIT_MEASURE,Value
+1971,1 član,Broj,82305
+1971,2 člana,Broj,97312
+1971,3 člana,Broj,125680
+1971,4 člana,Broj,174650
+1971,5 članova,Broj,134703
+1971,6 članova,Broj,94479
+1971,7 članova,Broj,60558
+1971,8+ članova,Broj,78858
+1981,1 član,Broj,97423
+1981,2 člana,Broj,143225
+1981,3 člana,Broj,181500
+1981,4 člana,Broj,264179
+1981,5 članova,Broj,151073
+1981,6 članova,Broj,90453
+1981,7 članova,Broj,48831
+1981,8+ članova,Broj,54005
+1991,1 član,Broj,130222
+1991,2 člana,Broj,201096
+1991,3 člana,Broj,229788
+1991,4 člana,Broj,347705
+1991,5 članova,Broj,156474
+1991,6 članova,Broj,78561
+1991,7 članova,Broj,33655
+1991,8+ članova,Broj,29597
+2013,1 član,Broj,217613
+2013,2 člana,Broj,277191
+2013,3 člana,Broj,232169
+2013,4 člana,Broj,238625
+2013,5 članova,Broj,107229
+2013,6 članova,Broj,49859
+2013,7 članova,Broj,18818
+2013,8+ članova,Broj,14232

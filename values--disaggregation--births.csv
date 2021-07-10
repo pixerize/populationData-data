@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-DEATHS,Deaths,DEATHS,Deaths,Deaths,15,2
-LIVE_BIRTH,Live births,LIVE_BIRTH,Live birth,Live birth,15,2
-NATURAL_CHANGE,Natural change,NATURAL_CHANGE,Natural change,Natural change,7,2
+DEATHS,Deaths,Smrtni slučajevi,Deaths,Deaths,15,2
+LIVE_BIRTH,Live births,Živorođeni,Live birth,Live birth,15,2
+NATURAL_CHANGE,Natural change,Prirodno kretanje,Natural change,Natural change,7,2

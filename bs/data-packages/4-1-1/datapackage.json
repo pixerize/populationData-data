@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Entity",
@@ -43,8 +43,8 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },

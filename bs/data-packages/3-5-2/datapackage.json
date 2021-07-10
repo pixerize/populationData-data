@@ -18,16 +18,16 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
-                "FBIH",
-                "BD",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

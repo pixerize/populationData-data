@@ -18,7 +18,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_ALL",
+                "Svi",
                 "10-14",
                 "15-19",
                 "20-24",
@@ -56,7 +56,7 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
