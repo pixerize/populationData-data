@@ -11,28 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
+                "Both sexes",
                 "M",
-                "Both sexes"
+                "F",
+                ""
               ]
             },
             "title": "Sex"
@@ -43,14 +34,23 @@
             "title": "Unit of measure"
           },
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska",
+                "Brčko District of BiH",
+                ""
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

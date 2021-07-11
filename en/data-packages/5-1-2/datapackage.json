@@ -11,31 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "High school",
-                "Higher school/University",
-                "Pre-school",
-                "Primary school"
-              ]
-            },
-            "title": "Type of educational institution"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -43,14 +21,36 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "ENROLMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pre-school",
+                "Primary school",
+                "High school",
+                "Higher school/University",
+                ""
+              ]
+            },
+            "title": "Type of educational institution"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

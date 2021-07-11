@@ -11,49 +11,54 @@
       "schema": {
         "fields": [
           {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "(P00-P96) Certain conditions originating in the perinatal period",
-                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
-                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
-                "(I00-I99) Diseases of the circulatory system",
-                "(K00-K93) Diseases of the digestive system",
-                "(H00-H93) Diseases of the eye, ear and adnexa",
-                "(N00-N99) Diseases of the genitourinary system",
-                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
-                "(G00-G99) Diseases of the nervous system",
-                "(J00-J99) Diseases of the respiratory system",
-                "(L00-L99) Diseases of the skin and subcutaneous tissue",
-                "(E00-E90) Endocrine metabolic and nutritional diseases",
-                "(V01-Y98) External causes of mortality",
-                "(Z00-Z99) Factors influencing health status and contract with health services",
-                "(A00-B99) Infectious and parasitic diseases",
-                "(S00-T98) Injuries, poisoning and consequences of external causes",
-                "(F00-F99) Mental and behavioural disorders",
-                "(C00-C97,D00-D48) Neoplasms",
-                "(O00-O99) Pregnancy, childbirth and the puerperium",
-                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Cause of death (as per ICD-10 codes)"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
+                "Both sexes",
                 "M",
-                "Both sexes"
+                "F",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "CAUSE_OF_DEATH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(C00-C97,D00-D48) Neoplasms",
+                "(I00-I99) Diseases of the circulatory system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "Total",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(F00-F99) Mental and behavioural disorders",
+                "(G00-G99) Diseases of the nervous system",
+                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(V01-Y98) External causes of mortality",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "UNIT_MEASURE",
@@ -64,11 +69,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

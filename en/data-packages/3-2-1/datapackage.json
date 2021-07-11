@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,14 +21,22 @@
             "title": "Unit of measure"
           },
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federation of BiH",
+                ""
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

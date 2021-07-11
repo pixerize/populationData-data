@@ -11,35 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "No education",
-                "Post-secondary school specialisation",
-                "Primary school",
-                "Secondary school",
-                "Unknown"
-              ]
-            },
-            "title": "Educational level"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -47,14 +21,40 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incomplete primary education",
+                "Primary school",
+                "Secondary school",
+                "Higher school and first grade of faculty",
+                "Advanced schools / faculty / academy / university",
+                "Unknown",
+                "No education",
+                "Post-secondary school specialisation",
+                ""
+              ]
+            },
+            "title": "Educational level"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
