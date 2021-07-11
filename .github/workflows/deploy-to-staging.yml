@@ -50,7 +50,7 @@ jobs:
         sleep 60
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/pixerize/populationData-site/dispatches \
+        curl -X POST https://api.github.com/repos/UNFPACOBIH/populationData-site/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
