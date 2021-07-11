@@ -69,7 +69,7 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/pixerize/sdg-translations.git
+    source: https://github.com/UNFPACOBIH/sdg-translations.git
     tag: master
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
