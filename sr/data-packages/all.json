@@ -1917,6 +1917,20 @@
             "title": "Мјерна јединица"
           },
           {
+            "name": "YEARS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Year 1971",
+                "Year 1981",
+                "Year 1991",
+                "Year 2013",
+                ""
+              ]
+            },
+            "title": "YEARS"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
