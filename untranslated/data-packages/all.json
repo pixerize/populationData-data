@@ -1792,7 +1792,7 @@
             "type": "string"
           },
           {
-            "name": "YEARS",
+            "name": "PYRAMID_YEAR",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1805,7 +1805,7 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
               "enum": [

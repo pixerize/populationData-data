@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "YEARS",
+            "name": "PYRAMID_YEAR",
             "type": "string",
             "constraints": {
               "enum": [
@@ -32,19 +32,19 @@
                 ""
               ]
             },
-            "title": "YEARS"
+            "title": "PYRAMID_YEAR"
           },
           {
-            "name": "SEX",
+            "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "PYRAMID_SEX"
           },
           {
             "name": "AGE",

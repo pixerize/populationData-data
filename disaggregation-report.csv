@@ -8,7 +8,8 @@ ENROLMENT,Type of educational institution,Vrsta obrazovne ustanove,Врста о
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Municipality,Municipality,Općina,Oпштина,Općina,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
-SEX,Sex,Spol,Пол,Spol,34,3
+PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,1,2
+PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,1,4
+SEX,Sex,Spol,Пол,Spol,33,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,75,12
-YEARS,Years,YEARS,YEARS,YEARS,1,4
