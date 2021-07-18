@@ -870,95 +870,6 @@
       "title": "Становништво према доби и полу"
     },
     {
-      "path": "1-1-7/data.csv",
-      "name": "1-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "PYRAMID_YEAR",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1971",
-                "1981",
-                "1991",
-                "2013",
-                ""
-              ]
-            },
-            "title": "PYRAMID_YEAR"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-7-title"
-    },
-    {
       "path": "3-3-4/data.csv",
       "name": "3-3-4",
       "profile": "tabular-data-resource",
@@ -2006,7 +1917,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "PYRAMID_YEAR",
+            "name": "YEARS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2017,19 +1928,19 @@
                 ""
               ]
             },
-            "title": "PYRAMID_YEAR"
+            "title": "YEARS"
           },
           {
-            "name": "PYRAMID_SEX",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
-            "title": "PYRAMID_SEX"
+            "title": "Пол"
           },
           {
             "name": "AGE",

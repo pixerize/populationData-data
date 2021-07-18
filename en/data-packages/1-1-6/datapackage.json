@@ -45,7 +45,7 @@
             "title": "Age"
           },
           {
-            "name": "PYRAMID_SEX",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,21 +54,7 @@
                 "M"
               ]
             },
-            "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "PYRAMID_YEAR",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1971",
-                "1981",
-                "1991",
-                "2013"
-              ]
-            },
-            "title": "PYRAMID_YEAR"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -79,6 +65,20 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "YEARS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1971",
+                "1981",
+                "1991",
+                "2013"
+              ]
+            },
+            "title": "Years"
           },
           {
             "name": "Year",

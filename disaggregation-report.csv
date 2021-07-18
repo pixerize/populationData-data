@@ -1,6 +1,6 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,Administrativna oblast,50,4
-AGE,AGE,AGE,Године,Godine,18,178
+AGE,AGE,AGE,Године,Godine,17,178
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),2,22
 EDUCATION,Educational level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,1,8
@@ -8,8 +8,7 @@ ENROLMENT,Type of educational institution,Vrsta obrazovne ustanove,Врста о
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Municipality,Municipality,Općina,Oпштина,Općina,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
-PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,PYRAMID_YEAR,2,4
-SEX,Sex,Spol,Пол,Spol,33,3
+SEX,Sex,Spol,Пол,Spol,34,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,76,12
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,75,12
+YEARS,Years,YEARS,YEARS,YEARS,1,4
