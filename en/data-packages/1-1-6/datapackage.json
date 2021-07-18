@@ -57,20 +57,6 @@
             "title": "Sex"
           },
           {
-            "name": "PYRAMID_YEARS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1971",
-                "1981",
-                "1991",
-                "2013"
-              ]
-            },
-            "title": "PYRAMID_YEARS"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

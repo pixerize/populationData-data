@@ -21,20 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "PYRAMID_YEARS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1971",
-                "1981",
-                "1991",
-                "2013",
-                ""
-              ]
-            },
-            "title": "PYRAMID_YEARS"
-          },
-          {
             "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
