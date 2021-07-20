@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 "95-99"
               ]
             },
-            "title": "Age"
+            "title": "PYRAMID_AGE"
           },
           {
             "name": "PYRAMID_SEX",

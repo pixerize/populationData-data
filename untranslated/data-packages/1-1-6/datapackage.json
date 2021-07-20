@@ -30,7 +30,7 @@
             }
           },
           {
-            "name": "AGE",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [

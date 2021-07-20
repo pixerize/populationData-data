@@ -1929,7 +1929,7 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1960,7 +1960,7 @@
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "PYRAMID_AGE"
           },
           {
             "name": "Value",

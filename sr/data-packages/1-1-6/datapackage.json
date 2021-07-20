@@ -33,7 +33,7 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "PYRAMID_AGE"
           },
           {
             "name": "Value",
