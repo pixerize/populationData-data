@@ -16,6 +16,11 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
@@ -26,11 +31,6 @@
               ]
             },
             "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
           },
           {
             "name": "PYRAMID_AGE",

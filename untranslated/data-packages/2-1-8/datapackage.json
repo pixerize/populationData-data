@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
@@ -24,10 +28,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "PYRAMID_AGE",
