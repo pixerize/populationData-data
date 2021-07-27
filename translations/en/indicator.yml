@@ -5,4 +5,4 @@ unit: Unit
 sources: Source
 national_metadata_blurb: " "
 national_metadata: Metadata
-dataset_size_warning: The chart could show data for up to 12 variables. Please remove some selections in your left-hand side menus for proper presentation.
+dataset_size_warning: The chart could show data for up to 40 variables. Please remove some selections in your left-hand side menus for proper presentation.
