@@ -3,146 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prosječna dob stanovništva, prema spolu"
-    },
-    {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Sirova stopa smrtnosti"
-    },
-    {
-      "path": "5-1-5/data.csv",
-      "name": "5-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo u dobi od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema spolu"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -212,8 +72,167 @@
       "title": "Vitalna statistika prema spolu"
     },
     {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje i prva godina fakulteta",
+                "Napredne škole /fakultet /akademija /univerzitet",
+                "Nepoznato",
+                "Bez obrazovanja",
+                "Specijalizacija nakon završene srednje škole",
+                ""
+              ]
+            },
+            "title": "Nivo obrazovanja"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutom nivou obrazovanja i spolu"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa prirodnog rasta"
+    },
+    {
+      "path": "2-1-3/data.csv",
+      "name": "2-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupan omjer ekonomske podrške",
+                "Omjer ekonomske podrške mladima",
+                "Omjer ekonomske podrške starijim osobama",
+                "Omjer starijih i mladih",
+                ""
+              ]
+            },
+            "title": "Tip odnosa zavisnosti"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Projicirane stope zavisnosti, prema spolu"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -240,12 +259,109 @@
             "title": "Spol"
           },
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Prosječna dob smrti, prema spolu"
+    },
+    {
+      "path": "3-2-3/data.csv",
+      "name": "3-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-2-3"
+    },
+    {
+      "path": "2-1-8/data.csv",
+      "name": "2-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "PYRAMID_SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "PYRAMID_SEX"
+          },
+          {
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -286,7 +402,7 @@
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "PYRAMID_AGE"
           },
           {
             "name": "Value",
@@ -295,11 +411,11 @@
           }
         ]
       },
-      "title": "Projicirano stanovništvo, prema starosnoj grupi i spolu"
+      "title": "Projicirana piramida stanovništva"
     },
     {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -323,6 +439,9 @@
             "constraints": {
               "enum": [
                 "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -335,7 +454,556 @@
           }
         ]
       },
-      "title": "Ukupna stopa fertiliteta"
+      "title": "Prosječna dob majki pri prvom porođaju"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Carski rez"
+    },
+    {
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Projicirana sirova stopa nataliteta"
+    },
+    {
+      "path": "1-9-1/data.csv",
+      "name": "1-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
+                ""
+              ]
+            },
+            "title": "Veličina domaćinstva"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Domaćinstva"
+    },
+    {
+      "path": "6-2-2/data.csv",
+      "name": "6-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo koje živi u relativnom siromaštvu, prema spolu"
+    },
+    {
+      "path": "6-3-3/data.csv",
+      "name": "6-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "65+",
+                "15 - 64",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa nezaposlenosti (postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi), prema starosnoj grupi i spolu)"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kada)"
+    },
+    {
+      "path": "3-6-4/data.csv",
+      "name": "3-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Porođaj u prisustvu stručne osobe"
+    },
+    {
+      "path": "3-5-3/data.csv",
+      "name": "3-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Doktori medicine u javnim ustanovama"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "CAUSE_OF_DEATH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
+                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "Ukupno",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
+                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
+                "(V01-Y98) Vanjski uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
+                ""
+              ]
+            },
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Smrt prema uzroku smrti i spolu"
+    },
+    {
+      "path": "1-1-3/data.csv",
+      "name": "1-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                "Unknown",
+                "Total",
+                "0-14",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo prema starosnoj grupi i spolu"
     },
     {
       "path": "2-1-1/data.csv",
@@ -512,8 +1180,786 @@
       "title": "Projicirano stanovništvo, prema dobi i spolu"
     },
     {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
+      "path": "1-8-3/data.csv",
+      "name": "1-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Razvod braka"
+    },
+    {
+      "path": "6-1-3/data.csv",
+      "name": "6-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Rast realnog BDP-a"
+    },
+    {
+      "path": "3-5-5/data.csv",
+      "name": "3-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Doktori opće medicine"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupan omjer ekonomske podrške",
+                "Omjer ekonomske podrške mladima",
+                "Omjer ekonomske podrške starijim osobama",
+                "Omjer starijih i mladih",
+                ""
+              ]
+            },
+            "title": "Tip odnosa zavisnosti"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Omjer zavisnosti prema spolu"
+    },
+    {
+      "path": "3-6-2/data.csv",
+      "name": "3-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Neostvarena potreba za planiranjem porodice"
+    },
+    {
+      "path": "3-5-6/data.csv",
+      "name": "3-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Broj stanovnika na jednog doktora opće medicine"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bolnički kreveti"
+    },
+    {
+      "path": "3-6-1/data.csv",
+      "name": "3-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "MICS_NUMBER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Savremene metode",
+                "Sve metode",
+                "Tradicionalne metode",
+                ""
+              ]
+            },
+            "title": "Metoda"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija BiH",
+                "Republika Srpska",
+                "BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa prevalencije kontracepcije"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ENROLMENT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Predškolski odgoj i obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje /univerzitet",
+                ""
+              ]
+            },
+            "title": "Vrsta obrazovne ustanove"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-3-2"
+    },
+    {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "0-18",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-119",
+                "120+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Projicirano stanovništvo, prema starosnoj grupi i spolu"
+    },
+    {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bolnički kreveti na 100.000 stanovnika"
+    },
+    {
+      "path": "1-1-6/data.csv",
+      "name": "1-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "PYRAMID_SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "PYRAMID_SEX"
+          },
+          {
+            "name": "PYRAMID_AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                ""
+              ]
+            },
+            "title": "PYRAMID_AGE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Piramida stanovništva prema starosnoj grupi i spolu"
+    },
+    {
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Smrtnost dojenčadi (do navršene prve godine života)"
+    },
+    {
+      "path": "5-1-5/data.csv",
+      "name": "5-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo u dobi od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema spolu"
+    },
+    {
+      "path": "2-1-6/data.csv",
+      "name": "2-1-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -551,7 +1997,459 @@
           }
         ]
       },
-      "title": "Projicirana sirova stopa nataliteta"
+      "title": "Projicirana sirova stopa mortaliteta"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Prosječna dob prilikom sklapanja prvog braka, prema spolu"
+    },
+    {
+      "path": "3-6-3/data.csv",
+      "name": "3-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Zadovoljena potražnja za planiranjem porodice"
+    },
+    {
+      "path": "3-5-4/data.csv",
+      "name": "3-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Doktori medicine u javnim ustanovama na 100.000 stanovnika"
+    },
+    {
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa fertiliteta prema dobi"
+    },
+    {
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ukupna stopa fertiliteta"
+    },
+    {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa sklapanja braka"
+    },
+    {
+      "path": "3-2-4/data.csv",
+      "name": "3-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-2-4"
+    },
+    {
+      "path": "1-6-2/data.csv",
+      "name": "1-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Smrtnost dojenčadi (do navršene prve godine života), prema spolu"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija BiH",
+                "Republika Srpska",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Carski rez na 1.000 živorođenih"
+    },
+    {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Sirova stopa smrtnosti"
     },
     {
       "path": "1-8-4/data.csv",
@@ -597,8 +2495,8 @@
       "title": "Stopa razvoda braka (na 1.000 brakova)"
     },
     {
-      "path": "1-4-4/data.csv",
-      "name": "1-4-4",
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -615,6 +2513,58 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-2-2"
+    },
+    {
+      "path": "3-1-4/data.csv",
+      "name": "3-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "ADMIN_AREA",
@@ -637,11 +2587,11 @@
           }
         ]
       },
-      "title": "Odnos spolova pri rođenju"
+      "title": "Stopa mrtvorođenih"
     },
     {
-      "path": "1-4-5/data.csv",
-      "name": "1-4-5",
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -655,24 +2605,72 @@
             "title": "Godina"
           },
           {
-            "name": "AGE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "13 - 14",
-                "15 - 19",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija BiH",
                 "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-3-4"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
                 "Republika Srpska",
                 "Brčko distrikt BiH",
                 ""
@@ -681,9 +2679,47 @@
             "title": "Administrativna oblast"
           },
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Prosječna dob stanovništva, prema spolu"
+    },
+    {
+      "path": "3-5-7/data.csv",
+      "name": "3-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
@@ -692,7 +2728,132 @@
           }
         ]
       },
-      "title": "Porođaj majki u tinejdžerskoj dobi, prema starosnoj grupi"
+      "title": "Babice"
+    },
+    {
+      "path": "3-3-5/data.csv",
+      "name": "3-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-3-5"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Incidenca sifilisa"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Republika Srpska",
+                "Federacija BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Rak grlića materice"
     },
     {
       "path": "1-1-1/data.csv",
@@ -870,8 +3031,8 @@
       "title": "Stanovništvo prema dobi i spolu"
     },
     {
-      "path": "3-3-4/data.csv",
-      "name": "3-3-4",
+      "path": "1-4-4/data.csv",
+      "name": "1-4-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -888,103 +3049,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-3-4"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
-                "(J00-J99) Bolesti respiratornog sistema",
-                "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
-                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
-                "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
-                "Nepoznato",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
-                ""
-              ]
-            },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirana na 100.000 stanovnika"
-    },
-    {
-      "path": "1-8-2/data.csv",
-      "name": "1-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
           },
           {
             "name": "ADMIN_AREA",
@@ -1001,9 +3065,85 @@
             "title": "Administrativna oblast"
           },
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Odnos spolova pri rođenju"
+    },
+    {
+      "path": "6-1-2/data.csv",
+      "name": "6-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bruto domaći proizvod – po glavi stanovništva"
+    },
+    {
+      "path": "1-7-1/data.csv",
+      "name": "1-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "Value",
@@ -1012,11 +3152,11 @@
           }
         ]
       },
-      "title": "Stopa sklapanja braka"
+      "title": "Očekivana dužina života pri rođenju, prema spolu"
     },
     {
-      "path": "1-1-2/data.csv",
-      "name": "1-1-2",
+      "path": "1-1-4/data.csv",
+      "name": "1-1-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1052,94 +3192,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "10",
-                "11",
-                "12",
-                "13",
-                "14",
-                "15",
-                "16",
-                "17",
-                "18",
-                "19",
-                "20",
-                "21",
-                "22",
-                "23",
-                "24",
-                "25",
-                "26",
-                "27",
-                "28",
-                "29",
-                "30",
-                "31",
-                "32",
-                "33",
-                "34",
-                "35",
-                "36",
-                "37",
-                "38",
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44",
-                "45",
-                "46",
-                "47",
-                "48",
-                "49",
-                "50",
-                "51",
-                "52",
-                "53",
-                "54",
-                "55",
-                "56",
-                "57",
-                "58",
-                "59",
-                "60",
-                "61",
-                "62",
-                "63",
-                "64",
-                "65",
-                "66",
-                "67",
-                "68",
-                "69",
-                "70",
-                "71",
-                "72",
-                "73",
-                "74",
-                "75",
-                "76",
-                "77",
-                "78",
-                "79",
-                "80",
-                "81",
-                "82",
-                "83",
-                "84",
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
                 "85+",
                 "Unknown",
                 "Total",
+                "0-14",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
                 ""
               ]
             },
@@ -1165,11 +3243,11 @@
           }
         ]
       },
-      "title": "Stanovništvo po entitetima, prema dobi i spolu"
+      "title": "Stanovništvo po entitetima, prema starosnoj grupi i spolu"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
+      "path": "1-4-5/data.csv",
+      "name": "1-4-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1183,74 +3261,48 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "AGE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "constraints": {
+              "enum": [
+                "13 - 14",
+                "15 - 19",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
                 "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Carski rez"
-    },
-    {
-      "path": "6-1-3/data.csv",
-      "name": "6-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
             "title": "Administrativna oblast"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Rast realnog BDP-a"
+      "title": "Porođaj majki u tinejdžerskoj dobi, prema starosnoj grupi"
     },
     {
-      "path": "3-1-4/data.csv",
-      "name": "3-1-4",
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1267,17 +3319,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "ADMIN_AREA",
@@ -1287,7 +3328,6 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko distrikt BiH",
                 ""
               ]
             },
@@ -1300,132 +3340,16 @@
           }
         ]
       },
-      "title": "Stopa mrtvorođenih"
+      "title": "3-3-3"
     },
     {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nepotpuno osnovno obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje i prva godina fakulteta",
-                "Napredne škole /fakultet /akademija /univerzitet",
-                "Nepoznato",
-                "Bez obrazovanja",
-                "Specijalizacija nakon završene srednje škole",
-                ""
-              ]
-            },
-            "title": "Nivo obrazovanja"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutom nivou obrazovanja i spolu"
-    },
-    {
-      "path": "2-1-3/data.csv",
-      "name": "2-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
-                "Omjer starijih i mladih",
-                ""
-              ]
-            },
-            "title": "Tip odnosa zavisnosti"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirane stope zavisnosti, prema spolu"
-    },
-    {
-      "path": "3-6-2/data.csv",
-      "name": "3-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
@@ -1459,7 +3383,164 @@
           }
         ]
       },
-      "title": "Neostvarena potreba za planiranjem porodice"
+      "title": "Domaćinstva koja žive u relativnom siromaštvu"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bruto domaći proizvod - ukupno (u milionima)"
+    },
+    {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Živorođeni",
+                "Smrtni slučajevi",
+                "Prirodno kretanje",
+                ""
+              ]
+            },
+            "title": "Vitalna statistika"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Projicirana vitalna statistika, prema spolu"
+    },
+    {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Osobe s invaliditetom prema starosnoj grupi i spolu"
     },
     {
       "path": "1-1-5/data.csv",
@@ -1685,8 +3766,8 @@
       "title": "Stanovništvo po općini, starosnoj grupi i spolu"
     },
     {
-      "path": "3-3-3/data.csv",
-      "name": "3-3-3",
+      "path": "1-8-1/data.csv",
+      "name": "1-8-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1698,11 +3779,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
@@ -1712,292 +3788,6 @@
                 "BiH",
                 "Federacija BiH",
                 "Republika Srpska",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-3-3"
-    },
-    {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirana sirova stopa mortaliteta"
-    },
-    {
-      "path": "1-1-3/data.csv",
-      "name": "1-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                "Unknown",
-                "Total",
-                "0-14",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo prema starosnoj grupi i spolu"
-    },
-    {
-      "path": "2-1-7/data.csv",
-      "name": "2-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirana prosječna dob stanovništva"
-    },
-    {
-      "path": "1-1-6/data.csv",
-      "name": "1-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "PYRAMID_AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                ""
-              ]
-            },
-            "title": "PYRAMID_AGE"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Piramida stanovništva prema starosnoj grupi i spolu"
-    },
-    {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
                 "Brčko distrikt BiH",
                 ""
               ]
@@ -2005,13 +3795,18 @@
             "title": "Administrativna oblast"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Bolnički kreveti na 100.000 stanovnika"
+      "title": "Brak"
     },
     {
       "path": "3-1-3/data.csv",
@@ -2068,64 +3863,6 @@
         ]
       },
       "title": "Mrtvorođeni"
-    },
-    {
-      "path": "6-3-3/data.csv",
-      "name": "6-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa nezaposlenosti (postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi), prema starosnoj grupi i spolu)"
     },
     {
       "path": "5-1-3/data.csv",
@@ -2227,177 +3964,8 @@
       "title": "Sirova stopa nataliteta"
     },
     {
-      "path": "3-3-5/data.csv",
-      "name": "3-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-3-5"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp949",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Domaćinstva koja žive u relativnom siromaštvu"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Bruto domaći proizvod - ukupno (u milionima)"
-    },
-    {
-      "path": "3-5-6/data.csv",
-      "name": "3-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj stanovnika na jednog doktora opće medicine"
-    },
-    {
-      "path": "6-2-2/data.csv",
-      "name": "6-2-2",
+      "path": "2-1-7/data.csv",
+      "name": "2-1-7",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2429,18 +3997,64 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Projicirana prosječna dob stanovništva"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
+                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
+                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
+                "(V01-Y98) Vanjski uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
+                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -2449,11 +4063,11 @@
           }
         ]
       },
-      "title": "Stanovništvo koje živi u relativnom siromaštvu, prema spolu"
+      "title": "Projicirana na 100.000 stanovnika"
     },
     {
-      "path": "6-1-2/data.csv",
-      "name": "6-1-2",
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2470,97 +4084,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Bruto domaći proizvod – po glavi stanovništva"
-    },
-    {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Predškolski odgoj i obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje /univerzitet",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovne ustanove"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
-    },
-    {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
           },
           {
             "name": "SEX",
@@ -2580,60 +4103,106 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+",
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84",
+                "85+",
+                "Unknown",
+                "Total",
                 ""
               ]
             },
             "title": "Starosna dob"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Osobe s invaliditetom prema starosnoj grupi i spolu"
-    },
-    {
-      "path": "3-5-5/data.csv",
-      "name": "3-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Republika Srpska",
                 "Federacija BiH",
+                "Republika Srpska",
                 "Brčko distrikt BiH",
                 ""
               ]
@@ -2647,49 +4216,7 @@
           }
         ]
       },
-      "title": "Doktori opće medicine"
-    },
-    {
-      "path": "3-3-2/data.csv",
-      "name": "3-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-3-2"
+      "title": "Stanovništvo po entitetima, prema dobi i spolu"
     },
     {
       "path": "6-3-2/data.csv",
@@ -2748,224 +4275,6 @@
         ]
       },
       "title": "Omjer zaposlenosti i broja stanovnika (postotak zaposlenog stanovništva u radno sposobnom stanovništvu (15-64), prema starosnoj grupi i spolu)"
-    },
-    {
-      "path": "3-2-4/data.csv",
-      "name": "3-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-2-4"
-    },
-    {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prosječna dob majki pri prvom porođaju"
-    },
-    {
-      "path": "1-1-4/data.csv",
-      "name": "1-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                "Unknown",
-                "Total",
-                "0-14",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo po entitetima, prema starosnoj grupi i spolu"
-    },
-    {
-      "path": "1-8-1/data.csv",
-      "name": "1-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Brak"
     },
     {
       "path": "5-1-4/data.csv",
@@ -3033,1315 +4342,6 @@
         ]
       },
       "title": "Nepismeno stanovništvo u dobi iznad 10 godina, prema starosnoj grupi i spolu"
-    },
-    {
-      "path": "1-8-3/data.csv",
-      "name": "1-8-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Razvod braka"
-    },
-    {
-      "path": "3-5-4/data.csv",
-      "name": "3-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Doktori medicine u javnim ustanovama na 100.000 stanovnika"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prosječna dob prilikom sklapanja prvog braka, prema spolu"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
-                "(J00-J99) Bolesti respiratornog sistema",
-                "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
-                "Ukupno",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
-                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
-                "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
-                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
-                "Nepoznato",
-                ""
-              ]
-            },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Smrt prema uzroku smrti i spolu"
-    },
-    {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
-                "Omjer starijih i mladih",
-                ""
-              ]
-            },
-            "title": "Tip odnosa zavisnosti"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Omjer zavisnosti prema spolu"
-    },
-    {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-2-2"
-    },
-    {
-      "path": "3-2-3/data.csv",
-      "name": "3-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-2-3"
-    },
-    {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Incidenca sifilisa"
-    },
-    {
-      "path": "1-9-1/data.csv",
-      "name": "1-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 član",
-                "2 člana",
-                "3 člana",
-                "4 člana",
-                "5 članova",
-                "6 članova",
-                "7 članova",
-                "8+ članova",
-                ""
-              ]
-            },
-            "title": "Veličina domaćinstva"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Domaćinstva"
-    },
-    {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Savremene metode",
-                "Sve metode",
-                "Tradicionalne metode",
-                ""
-              ]
-            },
-            "title": "Metoda"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa prevalencije kontracepcije"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa prirodnog rasta"
-    },
-    {
-      "path": "1-6-2/data.csv",
-      "name": "1-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Smrtnost dojenčadi (do navršene prve godine života), prema spolu"
-    },
-    {
-      "path": "1-7-1/data.csv",
-      "name": "1-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Očekivana dužina života pri rođenju, prema spolu"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Rak grlića materice"
-    },
-    {
-      "path": "3-6-3/data.csv",
-      "name": "3-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Zadovoljena potražnja za planiranjem porodice"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kada)"
-    },
-    {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Carski rez na 1.000 živorođenih"
-    },
-    {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa fertiliteta prema dobi"
-    },
-    {
-      "path": "2-1-8/data.csv",
-      "name": "2-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "PYRAMID_AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-14",
-                "0-18",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-119",
-                "120+",
-                ""
-              ]
-            },
-            "title": "PYRAMID_AGE"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirana piramida stanovništva"
-    },
-    {
-      "path": "3-5-3/data.csv",
-      "name": "3-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Doktori medicine u javnim ustanovama"
-    },
-    {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Bolnički kreveti"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prosječna dob smrti, prema spolu"
-    },
-    {
-      "path": "1-6-3/data.csv",
-      "name": "1-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Smrtnost dojenčadi (do navršene prve godine života)"
-    },
-    {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Smrtni slučajevi",
-                "Prirodno kretanje",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Projicirana vitalna statistika, prema spolu"
-    },
-    {
-      "path": "3-6-4/data.csv",
-      "name": "3-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Porođaj u prisustvu stručne osobe"
-    },
-    {
-      "path": "3-5-7/data.csv",
-      "name": "3-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Babice"
     },
     {
       "path": "6-3-1/data.csv",
