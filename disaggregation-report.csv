@@ -6,9 +6,8 @@ CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa 
 EDUCATION,Educational level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,1,8
 ENROLMENT,Type of educational institution,Vrsta obrazovne ustanove,Врста образовне установе,Vrsta obrazovne ustanove,1,4
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,1,34
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,1,2
 SEX,Sex,Spol,Пол,Spol,42,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,7,4
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,86,23
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,85,23

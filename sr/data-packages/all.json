@@ -612,53 +612,6 @@
       "title": "Пројектована сирова стопа наталитета"
     },
     {
-      "path": "1-9-1/data.csv",
-      "name": "1-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 члан",
-                "2 члана",
-                "3 члана",
-                "4 члана",
-                "5 чланова",
-                "6 чланова",
-                "7 чланова",
-                "8+ чланова",
-                ""
-              ]
-            },
-            "title": "Величина домаћинства"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "1-9-1"
-    },
-    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
