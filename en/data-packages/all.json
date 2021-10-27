@@ -656,7 +656,7 @@
           }
         ]
       },
-      "title": "Households"
+      "title": "1-9-1"
     },
     {
       "path": "7-1-1/data.csv",
@@ -825,7 +825,7 @@
           }
         ]
       },
-      "title": "1-7-2"
+      "title": "Projected population by age groups and sex"
     },
     {
       "path": "6-2-2/data.csv",
@@ -2148,7 +2148,7 @@
           }
         ]
       },
-      "title": "1-7-7"
+      "title": "Projected average age of population"
     },
     {
       "path": "1-7-6/data.csv",
@@ -2189,7 +2189,7 @@
           }
         ]
       },
-      "title": "1-7-6"
+      "title": "Projected crude death rate"
     },
     {
       "path": "5-1-5/data.csv",
@@ -2383,7 +2383,7 @@
           }
         ]
       },
-      "title": "1-7-4"
+      "title": "Projected vital statistics by sex"
     },
     {
       "path": "1-6-4/data.csv",
@@ -2439,7 +2439,7 @@
           }
         ]
       },
-      "title": "1-6-4"
+      "title": "Divorce rate"
     },
     {
       "path": "1-7-3/data.csv",
@@ -2480,7 +2480,7 @@
           }
         ]
       },
-      "title": "1-7-3"
+      "title": "Projected dependency ratios by sex"
     },
     {
       "path": "3-6-3/data.csv",
@@ -3748,7 +3748,7 @@
           }
         ]
       },
-      "title": "1-7-8"
+      "title": "Projected population pyramid"
     },
     {
       "path": "1-7-5/data.csv",
@@ -3789,7 +3789,7 @@
           }
         ]
       },
-      "title": "1-7-5"
+      "title": "Projected crude birth rate"
     },
     {
       "path": "6-1-1/data.csv",
@@ -4653,102 +4653,6 @@
         ]
       },
       "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
-    },
-    {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
-    },
-    {
-      "path": "1-8-4/data.csv",
-      "name": "1-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.1-8-4-title"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     }
   ]
 }

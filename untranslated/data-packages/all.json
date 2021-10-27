@@ -600,7 +600,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-9-1-title"
+      "title": "1-9-1"
     },
     {
       "path": "7-1-1/data.csv",
@@ -754,7 +754,7 @@
           }
         ]
       },
-      "title": "1-7-2"
+      "title": "global_indicators.1-7-2-title"
     },
     {
       "path": "6-2-2/data.csv",
@@ -1972,7 +1972,7 @@
           }
         ]
       },
-      "title": "1-7-7"
+      "title": "global_indicators.1-7-7-title"
     },
     {
       "path": "1-7-6/data.csv",
@@ -2009,7 +2009,7 @@
           }
         ]
       },
-      "title": "1-7-6"
+      "title": "global_indicators.1-7-6-title"
     },
     {
       "path": "5-1-5/data.csv",
@@ -2185,7 +2185,7 @@
           }
         ]
       },
-      "title": "1-7-4"
+      "title": "global_indicators.1-7-4-title"
     },
     {
       "path": "1-6-4/data.csv",
@@ -2236,7 +2236,7 @@
           }
         ]
       },
-      "title": "1-6-4"
+      "title": "global_indicators.1-6-4-title"
     },
     {
       "path": "1-7-3/data.csv",
@@ -2273,7 +2273,7 @@
           }
         ]
       },
-      "title": "1-7-3"
+      "title": "global_indicators.1-7-3-title"
     },
     {
       "path": "3-6-3/data.csv",
@@ -3433,7 +3433,7 @@
           }
         ]
       },
-      "title": "1-7-8"
+      "title": "global_indicators.1-7-8-title"
     },
     {
       "path": "1-7-5/data.csv",
@@ -3470,7 +3470,7 @@
           }
         ]
       },
-      "title": "1-7-5"
+      "title": "global_indicators.1-7-5-title"
     },
     {
       "path": "6-1-1/data.csv",
@@ -4267,94 +4267,6 @@
         ]
       },
       "title": "global_indicators.6-3-1-title"
-    },
-    {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-5-2-title"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-5-4-title"
-    },
-    {
-      "path": "1-8-4/data.csv",
-      "name": "1-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-8-4-title"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-5-3-title"
     }
   ]
 }
