@@ -230,7 +230,7 @@
           }
         ]
       },
-      "title": "Natural growth rate"
+      "title": "Total fertility rate"
     },
     {
       "path": "2-1-3/data.csv",
@@ -287,62 +287,6 @@
         ]
       },
       "title": "Projected dependency ratios by sex"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Average age at death by sex"
     },
     {
       "path": "3-2-3/data.csv",
@@ -472,6 +416,76 @@
       "title": "Projected population pyramid"
     },
     {
+      "path": "1-3-4/data.csv",
+      "name": "1-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Deaths by cause of death and sex"
+    },
+    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -512,7 +526,7 @@
           }
         ]
       },
-      "title": "Average age of mothers at first birth"
+      "title": "Life expectancy at birth by sex"
     },
     {
       "path": "3-4-1/data.csv",
@@ -703,6 +717,117 @@
       "title": "Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)"
     },
     {
+      "path": "1-3-3/data.csv",
+      "name": "1-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Infant (up to 12 months of age) mortality rate"
+    },
+    {
+      "path": "1-7-2/data.csv",
+      "name": "1-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-2"
+    },
+    {
       "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
@@ -815,6 +940,76 @@
         ]
       },
       "title": "Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)"
+    },
+    {
+      "path": "1-3-5/data.csv",
+      "name": "1-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Stillbirths by sex"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1036,92 +1231,6 @@
       "title": "Deaths by cause of death and sex"
     },
     {
-      "path": "1-1-3/data.csv",
-      "name": "1-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-14",
-                "0-4",
-                "10-14",
-                "100+",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                "15-19",
-                "15-29",
-                "15-49",
-                "15-64",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65+",
-                "65-69",
-                "70-74",
-                "75+",
-                "75-79",
-                "80-84",
-                "85+",
-                "85-89",
-                "90-94",
-                "95-99",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by age groups and sex"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -1336,7 +1445,7 @@
           }
         ]
       },
-      "title": "Divorces"
+      "title": "Population estimates by city/municipality, age groups and sex"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1489,7 +1598,7 @@
           }
         ]
       },
-      "title": "Dependency ratios by sex"
+      "title": "Crude death rate"
     },
     {
       "path": "3-6-2/data.csv",
@@ -1732,6 +1841,49 @@
       "title": "Population enrolled in formal educational institutions by sex and type of educational institution"
     },
     {
+      "path": "1-2-5/data.csv",
+      "name": "1-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Births by teenage mothers by age group"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -1902,81 +2054,6 @@
       "title": "Beds in hospitals per 100,000 population"
     },
     {
-      "path": "1-1-6/data.csv",
-      "name": "1-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "PYRAMID_AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-4",
-                "10-14",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-120",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99"
-              ]
-            },
-            "title": "PYRAMID_AGE"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            },
-            "title": "PYRAMID_SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population pyramid by age groups and sex"
-    },
-    {
       "path": "1-6-3/data.csv",
       "name": "1-6-3",
       "profile": "tabular-data-resource",
@@ -2030,7 +2107,89 @@
           }
         ]
       },
-      "title": "Infant (up to 12 months of age) mortality rate"
+      "title": "Divorces"
+    },
+    {
+      "path": "1-7-7/data.csv",
+      "name": "1-7-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-7"
+    },
+    {
+      "path": "1-7-6/data.csv",
+      "name": "1-7-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-6"
     },
     {
       "path": "5-1-5/data.csv",
@@ -2072,6 +2231,76 @@
         ]
       },
       "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
+    },
+    {
+      "path": "1-3-6/data.csv",
+      "name": "1-3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Stillbirth rate"
     },
     {
       "path": "2-1-6/data.csv",
@@ -2116,8 +2345,8 @@
       "title": "Projected crude death rate"
     },
     {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
+      "path": "1-7-4/data.csv",
+      "name": "1-7-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2125,20 +2354,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
           {
             "name": "SEX",
             "type": "string",
@@ -2168,7 +2383,104 @@
           }
         ]
       },
-      "title": "Average age at first marriage by sex"
+      "title": "1-7-4"
+    },
+    {
+      "path": "1-6-4/data.csv",
+      "name": "1-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-6-4"
+    },
+    {
+      "path": "1-7-3/data.csv",
+      "name": "1-7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-3"
     },
     {
       "path": "3-6-3/data.csv",
@@ -2301,7 +2613,7 @@
           }
         ]
       },
-      "title": "Age-specific fertility rate"
+      "title": "Average age at death by sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -2341,7 +2653,7 @@
           }
         ]
       },
-      "title": "Total Fertility rate"
+      "title": "Average age of population by sex"
     },
     {
       "path": "1-8-2/data.csv",
@@ -2384,7 +2696,7 @@
           }
         ]
       },
-      "title": "Marriage rate"
+      "title": "Population estimates by age groups and sex"
     },
     {
       "path": "3-2-4/data.csv",
@@ -2481,7 +2793,7 @@
           }
         ]
       },
-      "title": "Infant (up to 12 months of age) mortality by sex"
+      "title": "Marriage rate"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2525,6 +2837,49 @@
       "title": "Caesarean sections per 1,000 live births"
     },
     {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Age-specific fertility rate"
+    },
+    {
       "path": "1-6-1/data.csv",
       "name": "1-6-1",
       "profile": "tabular-data-resource",
@@ -2565,50 +2920,7 @@
           }
         ]
       },
-      "title": "Crude death rate"
-    },
-    {
-      "path": "1-8-4/data.csv",
-      "name": "1-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Divorce rate"
+      "title": "Marriages"
     },
     {
       "path": "3-2-2/data.csv",
@@ -2650,6 +2962,49 @@
         ]
       },
       "title": "3-2-2"
+    },
+    {
+      "path": "1-2-4/data.csv",
+      "name": "1-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Sex ratio at birth"
     },
     {
       "path": "3-1-4/data.csv",
@@ -2746,62 +3101,6 @@
         ]
       },
       "title": "3-3-4"
-    },
-    {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Average age of population by sex"
     },
     {
       "path": "3-5-7/data.csv",
@@ -3187,7 +3486,7 @@
           }
         ]
       },
-      "title": "Sex ratio at birth"
+      "title": "Average age at first marriage by sex"
     },
     {
       "path": "6-1-2/data.csv",
@@ -3268,98 +3567,7 @@
           }
         ]
       },
-      "title": "Life expectancy at birth by sex"
-    },
-    {
-      "path": "1-1-4/data.csv",
-      "name": "1-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-14",
-                "0-4",
-                "10-14",
-                "15-19",
-                "15-29",
-                "15-49",
-                "15-64",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65+",
-                "65-69",
-                "70-74",
-                "75+",
-                "75-79",
-                "80-84",
-                "85+",
-                "Total",
-                "Unknown"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by entity, age groups and sex"
+      "title": "Projected population by age and sex"
     },
     {
       "path": "1-4-5/data.csv",
@@ -3414,7 +3622,7 @@
           }
         ]
       },
-      "title": "Births by teenage mothers by age group"
+      "title": "Average age at the time of divorce by sex"
     },
     {
       "path": "3-3-3/data.csv",
@@ -3500,6 +3708,88 @@
         ]
       },
       "title": "Households living in relative poverty"
+    },
+    {
+      "path": "1-7-8/data.csv",
+      "name": "1-7-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-8"
+    },
+    {
+      "path": "1-7-5/data.csv",
+      "name": "1-7-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-7-5"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3659,229 +3949,6 @@
       "title": "Persons with disabilities by age groups and sex"
     },
     {
-      "path": "1-1-5/data.csv",
-      "name": "1-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-4",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-24",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                "Total"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Banja Luka",
-                "Banovići",
-                "Berkovići",
-                "Bihać",
-                "Bijeljina",
-                "Bileća",
-                "Bosanska Krupa",
-                "Bosanski Petrovac",
-                "Bosansko Grahovo",
-                "Bratunac",
-                "Breza",
-                "Brod",
-                "Brčko",
-                "Bugojno",
-                "Busovača",
-                "Bužim",
-                "Cazin",
-                "Derventa",
-                "Doboj",
-                "Doboj-Istok",
-                "Doboj-Jug",
-                "Dobretići",
-                "Domaljevac-Šamac",
-                "Donji Vakuf",
-                "Donji Žabar",
-                "Drvar",
-                "Fojnica",
-                "Foča - FBIH",
-                "Foča - RS",
-                "Gacko",
-                "Glamoč",
-                "Goražde",
-                "Gornji Vakuf-Uskoplje",
-                "Gradačac",
-                "Gradiška",
-                "Gračanica",
-                "Grude",
-                "Han Pijesak",
-                "Istočna Ilidža",
-                "Istočni Drvar",
-                "Istočni Mostar",
-                "Istočni Stari Grad",
-                "Istočno Novo Sarajevo",
-                "Jablanica",
-                "Jajce",
-                "Jezero",
-                "Kakanj",
-                "Kalesija",
-                "Kalinovik",
-                "Kiseljak",
-                "Kladanj",
-                "Ključ",
-                "Kneževo",
-                "Konjic",
-                "Kostajnica",
-                "Kotor Varoš",
-                "Kozarska Dubica",
-                "Kreševo",
-                "Krupa Na Uni",
-                "Kupres - FBIH",
-                "Kupres - RS",
-                "Laktaši",
-                "Livno",
-                "Ljubinje",
-                "Ljubuški",
-                "Lopare",
-                "Lukavac",
-                "Maglaj",
-                "Milići",
-                "Modriča",
-                "Mostar",
-                "Mrkonjić Grad",
-                "Neum",
-                "Nevesinje",
-                "Novi Grad",
-                "Novi Travnik",
-                "Novo Goražde",
-                "Odžak",
-                "Olovo",
-                "Orašje",
-                "Osmaci",
-                "Oštra Luka",
-                "Pale - FBIH",
-                "Pale - RS",
-                "Pelagićevo",
-                "Petrovac",
-                "Petrovo",
-                "Posušje",
-                "Prijedor",
-                "Prnjavor",
-                "Prozor",
-                "Ravno",
-                "Ribnik",
-                "Rogatica",
-                "Rudo",
-                "Sanski Most",
-                "Sapna",
-                "Sarajevo - Centar",
-                "Sarajevo - Hadžići",
-                "Sarajevo - Ilidža",
-                "Sarajevo - Ilijaš",
-                "Sarajevo - Novi Grad",
-                "Sarajevo - Novo Sarajevo",
-                "Sarajevo - Stari Grad",
-                "Sarajevo - Vogošća",
-                "Sokolac",
-                "Srbac",
-                "Srebrenica",
-                "Srebrenik",
-                "Stolac",
-                "Teočak",
-                "Teslić",
-                "Tešanj",
-                "Tomislavgrad",
-                "Travnik",
-                "Trebinje",
-                "Trnovo - FBIH",
-                "Trnovo - RS",
-                "Tuzla",
-                "Ugljevik",
-                "Usora",
-                "Vareš",
-                "Velika Kladuša",
-                "Visoko",
-                "Vitez",
-                "Višegrad",
-                "Vlasenica",
-                "Vukosavlje",
-                "Zavidovići",
-                "Zenica",
-                "Zvornik",
-                "Čajniče",
-                "Čapljina",
-                "Čelinac",
-                "Čelić",
-                "Čitluk",
-                "Šamac",
-                "Šekovići",
-                "Šipovo",
-                "Široki Brijeg",
-                "Žepče",
-                "Živinice"
-              ]
-            },
-            "title": "Municipality"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by municipality, age groups and sex"
-    },
-    {
       "path": "1-8-1/data.csv",
       "name": "1-8-1",
       "profile": "tabular-data-resource",
@@ -3922,7 +3989,7 @@
           }
         ]
       },
-      "title": "Marriages"
+      "title": "Population estimates by age and sex"
     },
     {
       "path": "3-1-3/data.csv",
@@ -4077,7 +4144,7 @@
           }
         ]
       },
-      "title": "Crude birth rate"
+      "title": "Average age of mothers at first birth"
     },
     {
       "path": "2-1-7/data.csv",
@@ -4393,6 +4460,76 @@
       "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
     },
     {
+      "path": "1-3-2/data.csv",
+      "name": "1-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Infant (up to 12 months of age) mortality by sex"
+    },
+    {
       "path": "5-1-4/data.csv",
       "name": "5-1-4",
       "profile": "tabular-data-resource",
@@ -4516,6 +4653,102 @@
         ]
       },
       "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    },
+    {
+      "path": "1-8-4/data.csv",
+      "name": "1-8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.1-8-4-title"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     }
   ]
 }
