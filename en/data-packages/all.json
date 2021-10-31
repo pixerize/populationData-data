@@ -127,7 +127,7 @@
           }
         ]
       },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
+      "title": "Crude birth rate"
     },
     {
       "path": "5-1-1/data.csv",
@@ -187,7 +187,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex"
+      "title": "Preschool institutions by ownership"
     },
     {
       "path": "1-2-2/data.csv",
@@ -230,7 +230,7 @@
           }
         ]
       },
-      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+      "title": "Total fertility rate"
     },
     {
       "path": "5-2-1/data.csv",
@@ -327,7 +327,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-3-title"
+      "title": "Population by municipality, age groups and sex"
     },
     {
       "path": "3-2-3/data.csv",
@@ -369,7 +369,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-3-title"
+      "title": "Cervical cancer incidence per 100,000 female population"
     },
     {
       "path": "1-3-4/data.csv",
@@ -439,7 +439,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-4-title"
+      "title": "Deaths by cause of death and sex"
     },
     {
       "path": "1-5-1/data.csv",
@@ -482,7 +482,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Life expectancy at birth by sex"
     },
     {
       "path": "2-4-2/data.csv",
@@ -524,7 +524,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-4-2-title"
+      "title": "Population over 15 years of age by city/municipality, educational attainment and sex"
     },
     {
       "path": "7-1-3/data.csv",
@@ -623,7 +623,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+      "title": "Caesarean sections"
     },
     {
       "path": "2-1-5/data.csv",
@@ -665,7 +665,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-5-title"
+      "title": "Female population by city/municipality and total number of live births"
     },
     {
       "path": "5-4-3/data.csv",
@@ -957,7 +957,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-3-title"
+      "title": "Infant (up to 12 months of age) mortality rate"
     },
     {
       "path": "1-7-2/data.csv",
@@ -998,7 +998,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-2-title"
+      "title": "Projected population by age groups and sex"
     },
     {
       "path": "5-7-3/data.csv",
@@ -1209,7 +1209,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-5-title"
+      "title": "Stillbirths by sex"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1268,7 +1268,7 @@
           }
         ]
       },
-      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+      "title": "Social protection beneficiaries by type of beneficiary"
     },
     {
       "path": "4-1-3/data.csv",
@@ -1370,7 +1370,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-4-title"
+      "title": "Skilled attendant at delivery"
     },
     {
       "path": "3-5-3/data.csv",
@@ -1413,7 +1413,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-3-title"
+      "title": "Medical doctors employed in health care institutions"
     },
     {
       "path": "3-1-1/data.csv",
@@ -1487,7 +1487,7 @@
           }
         ]
       },
-      "title": "Maternal mortality ratio"
+      "title": "Infant (up to 12 months of age) mortality by sex"
     },
     {
       "path": "2-1-1/data.csv",
@@ -1661,7 +1661,7 @@
           }
         ]
       },
-      "title": "Prevalence of undernourishment"
+      "title": "Population by age and sex"
     },
     {
       "path": "1-8-3/data.csv",
@@ -1704,7 +1704,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-3-title"
+      "title": "Population estimates by city/municipality, age groups and sex"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1744,7 +1744,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-3-title"
+      "title": "Real Gross Domestic Product (GDP) growth"
     },
     {
       "path": "3-5-5/data.csv",
@@ -1787,7 +1787,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-5-title"
+      "title": "Family medicine doctors employed in health care institutions"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1857,7 +1857,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+      "title": "Crude death rate"
     },
     {
       "path": "5-3-5/data.csv",
@@ -1941,7 +1941,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-2-title"
+      "title": "Unmet need for family planning"
     },
     {
       "path": "3-5-6/data.csv",
@@ -1983,7 +1983,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-6-title"
+      "title": "Family medicine doctors employed in health care institutions per 100,000 population"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2026,7 +2026,7 @@
           }
         ]
       },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+      "title": "Beds in hospitals"
     },
     {
       "path": "3-6-1/data.csv",
@@ -2082,7 +2082,7 @@
           }
         ]
       },
-      "title": "Death rate due to road traffic injuries"
+      "title": "Contraceptive prevalence rate"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2138,7 +2138,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-2-title"
+      "title": "Children in preschool institutions by sex"
     },
     {
       "path": "1-2-5/data.csv",
@@ -2181,7 +2181,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-5-title"
+      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2309,7 +2309,7 @@
           }
         ]
       },
-      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+      "title": "Population by age groups and sex"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2351,7 +2351,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Population by city/municipality, religion and sex"
     },
     {
       "path": "3-5-2/data.csv",
@@ -2393,7 +2393,7 @@
           }
         ]
       },
-      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Beds in hospitals per 100,000 population"
     },
     {
       "path": "5-4-1/data.csv",
@@ -2531,7 +2531,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-3-title"
+      "title": "Divorces"
     },
     {
       "path": "2-5-1/data.csv",
@@ -2573,7 +2573,7 @@
           }
         ]
       },
-      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+      "title": "Population over 15 years of age by city/municipality, educational attainment and sex"
     },
     {
       "path": "1-7-7/data.csv",
@@ -2614,7 +2614,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-7-title"
+      "title": "Projected average age of population"
     },
     {
       "path": "1-7-6/data.csv",
@@ -2655,7 +2655,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-6-title"
+      "title": "Projected crude death rate"
     },
     {
       "path": "1-3-6/data.csv",
@@ -2725,7 +2725,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-6-title"
+      "title": "Stillbirth rate"
     },
     {
       "path": "5-7-4/data.csv",
@@ -2808,7 +2808,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-6-title"
+      "title": "Dependency ratios by sex"
     },
     {
       "path": "1-7-4/data.csv",
@@ -2849,7 +2849,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-4-title"
+      "title": "Projected vital statistics by sex"
     },
     {
       "path": "5-6-1/data.csv",
@@ -2946,7 +2946,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-4-title"
+      "title": "Divorce rate"
     },
     {
       "path": "1-7-3/data.csv",
@@ -2987,7 +2987,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-3-title"
+      "title": "Projected dependency ratios by sex"
     },
     {
       "path": "3-6-3/data.csv",
@@ -3030,7 +3030,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-3-title"
+      "title": "Satisfied demand for family planning"
     },
     {
       "path": "3-5-4/data.csv",
@@ -3072,7 +3072,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-4-title"
+      "title": "Medical doctors employed in health care institutions per 100,000 population"
     },
     {
       "path": "5-6-3/data.csv",
@@ -3202,7 +3202,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-3-title"
+      "title": "Average age at death by sex"
     },
     {
       "path": "2-2-3/data.csv",
@@ -3244,7 +3244,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-3-title"
+      "title": "Population by city/municipality, mother tongue and sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -3284,7 +3284,7 @@
           }
         ]
       },
-      "title": "Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure"
+      "title": "Average age of population by sex"
     },
     {
       "path": "1-8-2/data.csv",
@@ -3327,7 +3327,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-2-title"
+      "title": "Population estimates by age groups and sex"
     },
     {
       "path": "3-2-4/data.csv",
@@ -3368,7 +3368,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-4-title"
+      "title": "Breast cancer incidence per 100,000 female population"
     },
     {
       "path": "1-6-2/data.csv",
@@ -3424,7 +3424,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-2-title"
+      "title": "Marriage rate"
     },
     {
       "path": "5-6-2/data.csv",
@@ -3506,7 +3506,7 @@
           }
         ]
       },
-      "title": "Suicide mortality rate"
+      "title": "Caesarean sections per 1,000 live births"
     },
     {
       "path": "5-6-4/data.csv",
@@ -3590,7 +3590,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-3-title"
+      "title": "Age-specific fertility rate"
     },
     {
       "path": "1-6-1/data.csv",
@@ -3633,7 +3633,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-1-title"
+      "title": "Marriages"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3674,7 +3674,7 @@
           }
         ]
       },
-      "title": "Neonatal mortality rate"
+      "title": "Breast cancer incidence"
     },
     {
       "path": "1-2-4/data.csv",
@@ -3717,7 +3717,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-4-title"
+      "title": "Sex ratio at birth"
     },
     {
       "path": "3-1-4/data.csv",
@@ -3771,7 +3771,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-4-title"
+      "title": "Stillbirths by sex"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3856,7 +3856,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-7-title"
+      "title": "Midwives employed in health care institutions"
     },
     {
       "path": "3-3-5/data.csv",
@@ -3980,7 +3980,7 @@
           }
         ]
       },
-      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+      "title": "Incidence of syphilis"
     },
     {
       "path": "2-3-2/data.csv",
@@ -4022,7 +4022,7 @@
           }
         ]
       },
-      "title": "Average income of small-scale food producers, by sex and indigenous status"
+      "title": "Households by city/municipality and agricultural activity"
     },
     {
       "path": "3-2-1/data.csv",
@@ -4064,7 +4064,7 @@
           }
         ]
       },
-      "title": "Under‐five mortality rate"
+      "title": "Cervical cancer incidence"
     },
     {
       "path": "5-3-2/data.csv",
@@ -4280,7 +4280,7 @@
           }
         ]
       },
-      "title": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
+      "title": "Vital statistics by sex (live births, deaths, natural change)"
     },
     {
       "path": "1-4-4/data.csv",
@@ -4323,7 +4323,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-4-title"
+      "title": "Average age at first marriage by sex"
     },
     {
       "path": "6-1-2/data.csv",
@@ -4363,7 +4363,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-2-title"
+      "title": "Gross Domestic Product (GDP) - Per capita"
     },
     {
       "path": "1-7-1/data.csv",
@@ -4404,7 +4404,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-1-title"
+      "title": "Projected population by age and sex"
     },
     {
       "path": "1-4-5/data.csv",
@@ -4459,7 +4459,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-5-title"
+      "title": "Average age at the time of divorce by sex"
     },
     {
       "path": "3-3-3/data.csv",
@@ -4601,7 +4601,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-8-title"
+      "title": "Projected population pyramid"
     },
     {
       "path": "1-7-5/data.csv",
@@ -4642,7 +4642,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-5-title"
+      "title": "Projected crude birth rate"
     },
     {
       "path": "2-4-1/data.csv",
@@ -4684,7 +4684,7 @@
           }
         ]
       },
-      "title": "Proportion of agricultural area under productive and sustainable agriculture"
+      "title": "Population over 10 years of age by city/municipality, literacy and sex"
     },
     {
       "path": "6-1-1/data.csv",
@@ -4727,7 +4727,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed drinking water services"
+      "title": "Gross Domestic Product (GDP) - Total (millions)"
     },
     {
       "path": "2-1-4/data.csv",
@@ -4782,7 +4782,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-4-title"
+      "title": "Population pyramid"
     },
     {
       "path": "3-7-1/data.csv",
@@ -4841,7 +4841,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Other"
     },
     {
       "path": "7-1-2/data.csv",
@@ -4942,7 +4942,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-8-1-title"
+      "title": "Population estimates by age and sex"
     },
     {
       "path": "3-1-3/data.csv",
@@ -4998,7 +4998,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-3-title"
+      "title": "Deaths by cause of death and sex"
     },
     {
       "path": "4-1-5/data.csv",
@@ -5140,7 +5140,7 @@
           }
         ]
       },
-      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+      "title": "Households by city/municipality and number of members"
     },
     {
       "path": "5-5-1/data.csv",
@@ -5237,7 +5237,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-3-title"
+      "title": "Children in nurseries by sex"
     },
     {
       "path": "5-3-4/data.csv",
@@ -5321,7 +5321,7 @@
           }
         ]
       },
-      "title": "Proportion of population living in households with access to basic services"
+      "title": "Average age of mothers at first birth"
     },
     {
       "path": "5-7-2/data.csv",
@@ -5459,7 +5459,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-5-title"
+      "title": "Stillbirth rate"
     },
     {
       "path": "2-2-1/data.csv",
@@ -5501,7 +5501,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Population by city/municipality, ethnicity/nationality and sex"
     },
     {
       "path": "3-1-2/data.csv",
@@ -5561,7 +5561,7 @@
           }
         ]
       },
-      "title": "Proportion of births attended by skilled health personnel"
+      "title": "Infant (up to 12 months of age) mortality rate"
     },
     {
       "path": "1-1-2/data.csv",
@@ -5714,7 +5714,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-2-title"
+      "title": "Natural growth rate"
     },
     {
       "path": "4-2-1/data.csv",
@@ -5843,7 +5843,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-2-title"
+      "title": "Infant (up to 12 months of age) mortality by sex"
     },
     {
       "path": "5-2-3/data.csv",
@@ -5951,7 +5951,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-4-title"
+      "title": "Childcare workers in preschool institutions by sex"
     },
     {
       "path": "7-2-1/data.csv",
