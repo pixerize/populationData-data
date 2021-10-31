@@ -1,24 +1,36 @@
-1-1-title: Census
-1-2-title: Vital statistics
-1-3-title: Dependency ratios
-1-4-title: Fertility
-1-5-title: Average age
-1-6-title: Mortality
-1-7-title: Life expectancy
-1-8-title: Marriages and divorces
+1-1-title: Natural change of population
+1-2-title: Fertility
+1-3-title: Mortality
+1-4-title: Average age of population
+1-5-title: Life expectancy
+1-6-title: Marriages and divorces
+1-7-title: Population projections 2019-2070
+1-8-title: Population estimates
 1-9-title: Households
-2-1-title: Population projections
+2-1-title: Demographic data
+2-2-title: Ethnicity/nationality, religion and mother tongue
+2-3-title: Households and families
+2-4-title: Educational characteristics
+2-5-title: Disability
 3-1-title: Mortality and causes of death
 3-2-title: Cancers
-3-3-title: Sexually-transmitted diseases (STDs)
-3-7-title: Family planning
+3-3-title: Sexually-transmitted diseases
 3-4-title: Caesarean sections
 3-5-title: Health care capacities
 3-6-title: Family planning
-3-7-title: Persons with disabilities 
-4-1-title: Any form of violence
-5-1-title: Education
+3-7-title: Other
+4-1-title: Social protection beneficiaries
+4-2-title: Social protection institutions
+5-1-title: Preschool education
+5-2-title: Primary school education
+5-3-title: High school education
+5-4-title: University education (1st level)
+5-5-title: University education (2st level)
+5-6-title: University education (3rd level)
+5-7-title: Other
 6-1-title: Gross domestic product (GDP)
-6-2-title: Relative poverty
-6-3-title: Labour force
-1-c-title: New Indicator title
+6-2-title: Gross Domestic Product (GDP) - Per capita
+6-3-title: Real Gross Domestic Product (GDP) growth
+7-1-title: Labour force
+7-2-title: Living standard
+8-1-title: Violence against women
