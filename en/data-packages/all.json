@@ -127,7 +127,7 @@
           }
         ]
       },
-      "title": "Crude birth rate"
+      "title": "Vital statistics by sex"
     },
     {
       "path": "5-1-1/data.csv",
@@ -230,7 +230,7 @@
           }
         ]
       },
-      "title": "Total fertility rate"
+      "title": "Natural growth rate"
     },
     {
       "path": "2-1-3/data.csv",
@@ -483,7 +483,7 @@
           }
         ]
       },
-      "title": "Deaths by cause of death and sex"
+      "title": "global_indicators.1-3-4-title"
     },
     {
       "path": "1-5-1/data.csv",
@@ -526,7 +526,7 @@
           }
         ]
       },
-      "title": "Life expectancy at birth by sex"
+      "title": "Average age of mothers at first birth"
     },
     {
       "path": "3-4-1/data.csv",
@@ -737,7 +737,7 @@
           }
         ]
       },
-      "title": "Infant (up to 12 months of age) mortality rate"
+      "title": "global_indicators.1-3-3-title"
     },
     {
       "path": "1-7-2/data.csv",
@@ -778,7 +778,7 @@
           }
         ]
       },
-      "title": "Projected population by age groups and sex"
+      "title": "global_indicators.1-7-2-title"
     },
     {
       "path": "6-2-2/data.csv",
@@ -962,7 +962,7 @@
           }
         ]
       },
-      "title": "Stillbirths by sex"
+      "title": "global_indicators.1-3-5-title"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1398,7 +1398,7 @@
           }
         ]
       },
-      "title": "Population estimates by city/municipality, age groups and sex"
+      "title": "Divorces"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1551,7 +1551,7 @@
           }
         ]
       },
-      "title": "Crude death rate"
+      "title": "Dependency ratios by sex"
     },
     {
       "path": "3-6-2/data.csv",
@@ -1834,7 +1834,7 @@
           }
         ]
       },
-      "title": "Births by teenage mothers by age group"
+      "title": "global_indicators.1-2-5-title"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2060,7 +2060,7 @@
           }
         ]
       },
-      "title": "Divorces"
+      "title": "Infant (up to 12 months of age) mortality rate"
     },
     {
       "path": "1-7-7/data.csv",
@@ -2101,7 +2101,7 @@
           }
         ]
       },
-      "title": "Projected average age of population"
+      "title": "global_indicators.1-7-7-title"
     },
     {
       "path": "1-7-6/data.csv",
@@ -2142,7 +2142,7 @@
           }
         ]
       },
-      "title": "Projected crude death rate"
+      "title": "global_indicators.1-7-6-title"
     },
     {
       "path": "5-1-5/data.csv",
@@ -2253,7 +2253,7 @@
           }
         ]
       },
-      "title": "Stillbirth rate"
+      "title": "global_indicators.1-3-6-title"
     },
     {
       "path": "2-1-6/data.csv",
@@ -2336,7 +2336,7 @@
           }
         ]
       },
-      "title": "Projected vital statistics by sex"
+      "title": "global_indicators.1-7-4-title"
     },
     {
       "path": "1-6-4/data.csv",
@@ -2392,7 +2392,7 @@
           }
         ]
       },
-      "title": "Divorce rate"
+      "title": "global_indicators.1-6-4-title"
     },
     {
       "path": "1-7-3/data.csv",
@@ -2433,7 +2433,7 @@
           }
         ]
       },
-      "title": "Projected dependency ratios by sex"
+      "title": "global_indicators.1-7-3-title"
     },
     {
       "path": "3-6-3/data.csv",
@@ -2566,7 +2566,7 @@
           }
         ]
       },
-      "title": "Average age at death by sex"
+      "title": "Age-specific fertility rate"
     },
     {
       "path": "1-4-2/data.csv",
@@ -2606,7 +2606,7 @@
           }
         ]
       },
-      "title": "Average age of population by sex"
+      "title": "Total Fertility rate"
     },
     {
       "path": "1-8-2/data.csv",
@@ -2649,7 +2649,7 @@
           }
         ]
       },
-      "title": "Population estimates by age groups and sex"
+      "title": "Marriage rate"
     },
     {
       "path": "3-2-4/data.csv",
@@ -2746,7 +2746,7 @@
           }
         ]
       },
-      "title": "Marriage rate"
+      "title": "Infant (up to 12 months of age) mortality by sex"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2830,7 +2830,7 @@
           }
         ]
       },
-      "title": "Age-specific fertility rate"
+      "title": "global_indicators.1-2-3-title"
     },
     {
       "path": "1-6-1/data.csv",
@@ -2873,7 +2873,7 @@
           }
         ]
       },
-      "title": "Marriages"
+      "title": "Crude death rate"
     },
     {
       "path": "3-2-2/data.csv",
@@ -2957,7 +2957,7 @@
           }
         ]
       },
-      "title": "Sex ratio at birth"
+      "title": "global_indicators.1-2-4-title"
     },
     {
       "path": "3-1-4/data.csv",
@@ -3396,7 +3396,7 @@
           }
         ]
       },
-      "title": "Vital statistics by sex"
+      "title": "Population by age and sex"
     },
     {
       "path": "1-4-4/data.csv",
@@ -3439,7 +3439,7 @@
           }
         ]
       },
-      "title": "Average age at first marriage by sex"
+      "title": "Sex ratio at birth"
     },
     {
       "path": "6-1-2/data.csv",
@@ -3520,7 +3520,7 @@
           }
         ]
       },
-      "title": "Projected population by age and sex"
+      "title": "Life expectancy at birth by sex"
     },
     {
       "path": "1-4-5/data.csv",
@@ -3575,7 +3575,7 @@
           }
         ]
       },
-      "title": "Average age at the time of divorce by sex"
+      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "3-3-3/data.csv",
@@ -3701,7 +3701,7 @@
           }
         ]
       },
-      "title": "Projected population pyramid"
+      "title": "global_indicators.1-7-8-title"
     },
     {
       "path": "1-7-5/data.csv",
@@ -3742,7 +3742,7 @@
           }
         ]
       },
-      "title": "Projected crude birth rate"
+      "title": "global_indicators.1-7-5-title"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3942,7 +3942,7 @@
           }
         ]
       },
-      "title": "Population estimates by age and sex"
+      "title": "Marriages"
     },
     {
       "path": "3-1-3/data.csv",
@@ -4097,7 +4097,7 @@
           }
         ]
       },
-      "title": "Average age of mothers at first birth"
+      "title": "Crude birth rate"
     },
     {
       "path": "2-1-7/data.csv",
@@ -4352,7 +4352,7 @@
           }
         ]
       },
-      "title": "Natural growth rate"
+      "title": "Population by entity, age and sex"
     },
     {
       "path": "6-3-2/data.csv",
@@ -4480,7 +4480,7 @@
           }
         ]
       },
-      "title": "Infant (up to 12 months of age) mortality by sex"
+      "title": "global_indicators.1-3-2-title"
     },
     {
       "path": "5-1-4/data.csv",
