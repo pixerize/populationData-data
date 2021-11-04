@@ -221,7 +221,7 @@
           }
         ]
       },
-      "title": "5-5-4"
+      "title": "global_indicators.5-5-4-title"
     },
     {
       "path": "2-1-3/data.csv",
@@ -242,19 +242,6 @@
             "type": "string"
           },
           {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -267,8 +254,187 @@
             }
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-24",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Banja Luka",
+                "Banovići",
+                "Berkovići",
+                "Bihać",
+                "Bijeljina",
+                "Bileća",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bosansko Grahovo",
+                "Bratunac",
+                "Brčko",
+                "Breza",
+                "Brod",
+                "Bugojno",
+                "Busovača",
+                "Bužim",
+                "Cazin",
+                "Sarajevo - Centar",
+                "Čajniče",
+                "Čapljina",
+                "Čelić",
+                "Čelinac",
+                "Čitluk",
+                "Derventa",
+                "Doboj",
+                "Doboj-Istok",
+                "Doboj-Jug",
+                "Dobretići",
+                "Domaljevac-Šamac",
+                "Donji Vakuf",
+                "Donji Žabar",
+                "Drvar",
+                "Foča - FBIH",
+                "Foča - RS",
+                "Fojnica",
+                "Gacko",
+                "Glamoč",
+                "Goražde",
+                "Gornji Vakuf-Uskoplje",
+                "Gračanica",
+                "Gradačac",
+                "Gradiška",
+                "Grude",
+                "Sarajevo - Hadžići",
+                "Han Pijesak",
+                "Sarajevo - Ilidža",
+                "Sarajevo - Ilijaš",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jablanica",
+                "Jajce",
+                "Jezero",
+                "Kakanj",
+                "Kalesija",
+                "Kalinovik",
+                "Kiseljak",
+                "Kladanj",
+                "Ključ",
+                "Kneževo",
+                "Konjic",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Kozarska Dubica",
+                "Kreševo",
+                "Krupa Na Uni",
+                "Kupres - FBIH",
+                "Kupres - RS",
+                "Laktaši",
+                "Livno",
+                "Lopare",
+                "Lukavac",
+                "Ljubinje",
+                "Ljubuški",
+                "Maglaj",
+                "Milići",
+                "Modriča",
+                "Mostar",
+                "Mrkonjić Grad",
+                "Neum",
+                "Nevesinje",
+                "Novi Grad",
+                "Sarajevo - Novi Grad",
+                "Novi Travnik",
+                "Novo Goražde",
+                "Sarajevo - Novo Sarajevo",
+                "Odžak",
+                "Olovo",
+                "Orašje",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale - FBIH",
+                "Pale - RS",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Posušje",
+                "Prijedor",
+                "Prnjavor",
+                "Prozor",
+                "Ravno",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sanski Most",
+                "Sapna",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Srebrenik",
+                "Sarajevo - Stari Grad",
+                "Stolac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
+                "Široki Brijeg",
+                "Teočak",
+                "Teslić",
+                "Tešanj",
+                "Tomislavgrad",
+                "Travnik",
+                "Trebinje",
+                "Trnovo - FBIH",
+                "Trnovo - RS",
+                "Tuzla",
+                "Ugljevik",
+                "Usora",
+                "Vareš",
+                "Velika Kladuša",
+                "Visoko",
+                "Višegrad",
+                "Vitez",
+                "Vlasenica",
+                "Sarajevo - Vogošća",
+                "Vukosavlje",
+                "Zavidovići",
+                "Zenica",
+                "Zvornik",
+                "Žepče",
+                "Živinice",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -418,7 +584,7 @@
           }
         ]
       },
-      "title": "4-1-2"
+      "title": "global_indicators.4-1-2-title"
     },
     {
       "path": "3-2-3/data.csv",
@@ -471,6 +637,18 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
@@ -582,7 +760,7 @@
           }
         ]
       },
-      "title": "5-3-3"
+      "title": "global_indicators.5-3-3-title"
     },
     {
       "path": "1-7-8/data.csv",
@@ -867,7 +1045,7 @@
           }
         ]
       },
-      "title": "5-5-2"
+      "title": "global_indicators.5-5-2-title"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1218,7 +1396,7 @@
           }
         ]
       },
-      "title": "5-5-3"
+      "title": "global_indicators.5-5-3-title"
     },
     {
       "path": "3-5-5/data.csv",
@@ -1294,7 +1472,7 @@
           }
         ]
       },
-      "title": "5-3-4"
+      "title": "global_indicators.5-3-4-title"
     },
     {
       "path": "3-5-1/data.csv",
@@ -1347,16 +1525,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
                 ""
               ]
             }
@@ -1366,8 +1541,26 @@
             "type": "string"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -1489,13 +1682,28 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "single_household",
+                "2_members",
+                "3_members",
+                "4_members",
+                "5_members",
+                "6_members",
+                "7_members",
+                "8+_members",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
                 ""
               ]
             }
@@ -1564,7 +1772,7 @@
           }
         ]
       },
-      "title": "4-1-4"
+      "title": "global_indicators.4-1-4-title"
     },
     {
       "path": "5-3-1/data.csv",
@@ -1601,7 +1809,7 @@
           }
         ]
       },
-      "title": "5-3-1"
+      "title": "global_indicators.5-3-1-title"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1618,6 +1826,10 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1630,23 +1842,10 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
-                "0-18",
-                "15-29",
-                "15-49",
-                "15-64",
-                "65+",
-                "75+",
-                "85+",
-                "100+",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -1670,8 +1869,17 @@
                 "100-104",
                 "105-109",
                 "110-114",
-                "115-119",
-                "120+",
+                "115-120",
+                "Unknown",
+                "Total",
+                "0-14",
+                "15-29",
+                "15-49",
+                "15-64",
+                "65+",
+                "75+",
+                "85+",
+                "100+",
                 ""
               ]
             }
@@ -1734,16 +1942,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGRICULTURAL_ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -1753,8 +1967,17 @@
             "type": "string"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -2000,7 +2223,7 @@
           }
         ]
       },
-      "title": "5-3-5"
+      "title": "global_indicators.5-3-5-title"
     },
     {
       "path": "3-6-4/data.csv",
@@ -2178,7 +2401,7 @@
           }
         ]
       },
-      "title": "5-4-3"
+      "title": "global_indicators.5-4-3-title"
     },
     {
       "path": "1-3-6/data.csv",
@@ -2320,7 +2543,7 @@
           }
         ]
       },
-      "title": "4-2-1"
+      "title": "global_indicators.4-2-1-title"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2738,28 +2961,29 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
                 "65+",
-                "15 - 64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBIH",
+                "RS",
                 ""
               ]
             }
@@ -2875,7 +3099,7 @@
           }
         ]
       },
-      "title": "4-1-3"
+      "title": "global_indicators.4-1-3-title"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2912,7 +3136,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "0",
                 "1",
                 "2",
@@ -3033,14 +3256,16 @@
                 "117",
                 "118",
                 "119",
-                "120+",
+                "120",
+                "Unknown",
+                "Total",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -3293,7 +3518,7 @@
           }
         ]
       },
-      "title": "5-5-1"
+      "title": "global_indicators.5-5-1-title"
     },
     {
       "path": "2-5-1/data.csv",
@@ -3310,7 +3535,7 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3322,8 +3547,44 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "_%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "type_of_disability",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3345,16 +3606,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
                 ""
               ]
             }
@@ -3364,8 +3622,26 @@
             "type": "string"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -3682,7 +3958,7 @@
           }
         ]
       },
-      "title": "5-4-1"
+      "title": "global_indicators.5-4-1-title"
     },
     {
       "path": "1-7-3/data.csv",
@@ -4167,7 +4443,7 @@
           }
         ]
       },
-      "title": "5-2-2"
+      "title": "global_indicators.5-2-2-title"
     },
     {
       "path": "1-4-2/data.csv",
@@ -4341,7 +4617,7 @@
           }
         ]
       },
-      "title": "5-2-1"
+      "title": "global_indicators.5-2-1-title"
     },
     {
       "path": "1-6-1/data.csv",
@@ -4491,7 +4767,7 @@
           }
         ]
       },
-      "title": "5-2-3"
+      "title": "global_indicators.5-2-3-title"
     },
     {
       "path": "3-3-3/data.csv",
@@ -4632,7 +4908,7 @@
           }
         ]
       },
-      "title": "4-1-5"
+      "title": "global_indicators.4-1-5-title"
     },
     {
       "path": "5-3-2/data.csv",
@@ -4669,7 +4945,7 @@
           }
         ]
       },
-      "title": "5-3-2"
+      "title": "global_indicators.5-3-2-title"
     },
     {
       "path": "2-1-4/data.csv",
@@ -4686,11 +4962,14 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
@@ -4698,24 +4977,41 @@
             }
           },
           {
-            "name": "BIRTHS",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4897,6 +5193,20 @@
               "enum": [
                 "M",
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64",
                 ""
               ]
             }
@@ -5383,7 +5693,7 @@
           }
         ]
       },
-      "title": "5-4-2"
+      "title": "global_indicators.5-4-2-title"
     },
     {
       "path": "2-1-6/data.csv",
@@ -5400,6 +5710,23 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -5412,8 +5739,17 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBIH",
+                "RS",
+                "BD",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

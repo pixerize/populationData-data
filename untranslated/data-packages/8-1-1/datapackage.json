@@ -19,28 +19,29 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
                 "65+",
-                "15 - 64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BiH",
+                "FBIH",
+                "RS",
                 ""
               ]
             }

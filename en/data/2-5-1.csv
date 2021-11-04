@@ -1,37 +1,43 @@
-Year,Sex,UNIT_MEASURE,Value
-2018,Both sexes,Number,41.6
-2020,Both sexes,Number,42.45
-2025,Both sexes,Number,44.5
-2030,Both sexes,Number,46.44
-2035,Both sexes,Number,48.27
-2040,Both sexes,Number,49.91
-2045,Both sexes,Number,51.31
-2050,Both sexes,Number,52.46
-2055,Both sexes,Number,53.39
-2060,Both sexes,Number,54.16
-2065,Both sexes,Number,54.77
-2070,Both sexes,Number,55.22
-2018,M,Number,40.31
-2020,M,Number,41.2
-2025,M,Number,43.3
-2030,M,Number,45.28
-2035,M,Number,47.12
-2040,M,Number,48.74
-2045,M,Number,50.1
-2050,M,Number,51.18
-2055,M,Number,52.03
-2060,M,Number,52.66
-2065,M,Number,53.1
-2070,M,Number,53.38
-2018,F,Number,42.84
-2020,F,Number,43.65
-2025,F,Number,45.62
-2030,F,Number,47.51
-2035,F,Number,49.32
-2040,F,Number,50.95
-2045,F,Number,52.36
-2050,F,Number,53.55
-2055,F,Number,54.55
-2060,F,Number,55.4
-2065,F,Number,56.13
-2070,F,Number,56.7
+Year,Municipality,Sex,AGE,UNIT_MEASURE,type_of_disability,Value
+2013,_T,0-14,Number,4525.0,,
+2013,_T,15-19,Number,2886.0,,
+2013,_T,20-29,Number,6398.0,,
+2013,_T,30-49,Number,40196.0,,
+2013,_T,50-59,Number,57495.0,,
+2013,_T,60-64,Number,34559.0,,
+2013,_T,65+,Number,147999.0,,
+2013,_T,0-14,% of total,1.538812071,,
+2013,_T,15-19,% of total,0.981439036,,
+2013,_T,20-29,% of total,2.175761244,,
+2013,_T,30-49,% of total,13.66941216,,
+2013,_T,50-59,% of total,19.5522652,,
+2013,_T,60-64,% of total,11.7524434,,
+2013,_T,65+,% of total,50.3298669,,
+2013,M,0-14,Number,2606.0,,
+2013,M,15-19,Number,1641.0,,
+2013,M,20-29,Number,3821.0,,
+2013,M,30-49,Number,25762.0,,
+2013,M,50-59,Number,30653.0,,
+2013,M,60-64,Number,16157.0,,
+2013,M,65+,Number,52335.0,,
+2013,M,0-14,% of total,1.959766873,,
+2013,M,15-19,% of total,1.234066554,,
+2013,M,20-29,% of total,2.873472457,,
+2013,M,30-49,% of total,19.37356646,,
+2013,M,50-59,% of total,23.05170145,,
+2013,M,60-64,% of total,12.15040421,,
+2013,M,65+,% of total,39.357022,,
+2013,F,0-14,Number,1919.0,,
+2013,F,15-19,Number,1245.0,,
+2013,F,20-29,Number,2577.0,,
+2013,F,30-49,Number,14434.0,,
+2013,F,50-59,Number,26842.0,,
+2013,F,60-64,Number,18402.0,,
+2013,F,65+,Number,95664.0,,
+2013,F,0-14,% of total,1.191311312,,
+2013,F,15-19,% of total,0.772893477,,
+2013,F,20-29,% of total,1.599796378,,
+2013,F,30-49,% of total,8.960597953,,
+2013,F,50-59,% of total,16.66345921,,
+2013,F,60-64,% of total,11.42392431,,
+2013,F,65+,% of total,59.38801736,,

@@ -12,21 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Općina"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,8 +31,28 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Nivo obrazovanja"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

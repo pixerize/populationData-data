@@ -242,7 +242,7 @@
           }
         ]
       },
-      "title": "5-5-4"
+      "title": "Students graduated in master and special studies by type of education"
     },
     {
       "path": "2-1-3/data.csv",
@@ -254,6 +254,187 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0-4",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-24",
+                "35-39",
+                "40-44",
+                "45-49",
+                "5-9",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Banja Luka",
+                "Banovići",
+                "Berkovići",
+                "Bihać",
+                "Bijeljina",
+                "Bileća",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bosansko Grahovo",
+                "Bratunac",
+                "Breza",
+                "Brod",
+                "Brčko",
+                "Bugojno",
+                "Busovača",
+                "Bužim",
+                "Cazin",
+                "Derventa",
+                "Doboj",
+                "Doboj-Istok",
+                "Doboj-Jug",
+                "Dobretići",
+                "Domaljevac-Šamac",
+                "Donji Vakuf",
+                "Donji Žabar",
+                "Drvar",
+                "Fojnica",
+                "Foča - FBIH",
+                "Foča - RS",
+                "Gacko",
+                "Glamoč",
+                "Goražde",
+                "Gornji Vakuf-Uskoplje",
+                "Gradačac",
+                "Gradiška",
+                "Gračanica",
+                "Grude",
+                "Han Pijesak",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jablanica",
+                "Jajce",
+                "Jezero",
+                "Kakanj",
+                "Kalesija",
+                "Kalinovik",
+                "Kiseljak",
+                "Kladanj",
+                "Ključ",
+                "Kneževo",
+                "Konjic",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Kozarska Dubica",
+                "Kreševo",
+                "Krupa Na Uni",
+                "Kupres - FBIH",
+                "Kupres - RS",
+                "Laktaši",
+                "Livno",
+                "Ljubinje",
+                "Ljubuški",
+                "Lopare",
+                "Lukavac",
+                "Maglaj",
+                "Milići",
+                "Modriča",
+                "Mostar",
+                "Mrkonjić Grad",
+                "Neum",
+                "Nevesinje",
+                "Novi Grad",
+                "Novi Travnik",
+                "Novo Goražde",
+                "Odžak",
+                "Olovo",
+                "Orašje",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale - FBIH",
+                "Pale - RS",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Posušje",
+                "Prijedor",
+                "Prnjavor",
+                "Prozor",
+                "Ravno",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sanski Most",
+                "Sapna",
+                "Sarajevo - Centar",
+                "Sarajevo - Hadžići",
+                "Sarajevo - Ilidža",
+                "Sarajevo - Ilijaš",
+                "Sarajevo - Novi Grad",
+                "Sarajevo - Novo Sarajevo",
+                "Sarajevo - Stari Grad",
+                "Sarajevo - Vogošća",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Srebrenik",
+                "Stolac",
+                "Teočak",
+                "Teslić",
+                "Tešanj",
+                "Tomislavgrad",
+                "Travnik",
+                "Trebinje",
+                "Trnovo - FBIH",
+                "Trnovo - RS",
+                "Tuzla",
+                "Ugljevik",
+                "Usora",
+                "Vareš",
+                "Velika Kladuša",
+                "Visoko",
+                "Vitez",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Zavidovići",
+                "Zenica",
+                "Zvornik",
+                "Čajniče",
+                "Čapljina",
+                "Čelinac",
+                "Čelić",
+                "Čitluk",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
+                "Široki Brijeg",
+                "Žepče",
+                "Živinice"
+              ]
+            },
+            "title": "Municipality"
+          },
           {
             "name": "SEX",
             "type": "string",
@@ -268,27 +449,13 @@
             "title": "Sex"
           },
           {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
-                "Total support ratio",
-                "Young-age support ratio"
-              ]
-            },
-            "title": "Type of dependency ratio"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -458,7 +625,7 @@
           }
         ]
       },
-      "title": "4-1-2"
+      "title": "Social protection beneficiaries by sex"
     },
     {
       "path": "3-2-3/data.csv",
@@ -509,7 +676,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -525,6 +692,19 @@
               ]
             },
             "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -639,7 +819,7 @@
           }
         ]
       },
-      "title": "5-3-3"
+      "title": "Children who completed high school by sex"
     },
     {
       "path": "1-7-8/data.csv",
@@ -950,7 +1130,7 @@
           }
         ]
       },
-      "title": "5-5-2"
+      "title": "Enrolled in master and specialist studies by type of education"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1332,7 +1512,7 @@
           }
         ]
       },
-      "title": "5-5-3"
+      "title": "Students graduated in master and special studies by sex"
     },
     {
       "path": "3-5-5/data.csv",
@@ -1416,7 +1596,7 @@
           }
         ]
       },
-      "title": "5-3-4"
+      "title": "Children who completed high school by type of school"
     },
     {
       "path": "3-5-1/data.csv",
@@ -1472,14 +1652,31 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
+                ""
               ]
             },
             "title": "Sex"
@@ -1491,12 +1688,12 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -1624,17 +1821,33 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
-            "title": "Sex"
+            "title": "Municipality"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number"
+              ]
+            },
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1712,7 +1925,7 @@
           }
         ]
       },
-      "title": "4-1-4"
+      "title": "Social protection services by type of beneficiary"
     },
     {
       "path": "5-3-1/data.csv",
@@ -1753,7 +1966,7 @@
           }
         ]
       },
-      "title": "5-3-1"
+      "title": "Children at the beginning of school year by sex"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1772,15 +1985,13 @@
               "enum": [
                 "",
                 "0-14",
-                "0-18",
                 "0-4",
                 "10-14",
                 "100+",
                 "100-104",
                 "105-109",
                 "110-114",
-                "115-119",
-                "120+",
+                "115-120",
                 "15-19",
                 "15-29",
                 "15-49",
@@ -1804,7 +2015,9 @@
                 "85+",
                 "85-89",
                 "90-94",
-                "95-99"
+                "95-99",
+                "Total",
+                "Unknown"
               ]
             },
             "title": "Age"
@@ -1894,17 +2107,24 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "AGRICULTURAL_ACTIVITY"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipality"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1912,13 +2132,23 @@
             "title": "Unit of measure"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -2190,7 +2420,7 @@
           }
         ]
       },
-      "title": "5-3-5"
+      "title": "Teachers in high schools by sex"
     },
     {
       "path": "3-6-4/data.csv",
@@ -2386,7 +2616,7 @@
           }
         ]
       },
-      "title": "5-4-3"
+      "title": "Graduated students by type of education"
     },
     {
       "path": "1-3-6/data.csv",
@@ -2542,7 +2772,7 @@
           }
         ]
       },
-      "title": "4-2-1"
+      "title": "Social protection institutions by type"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2980,33 +3210,34 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15 - 24",
-                "15 - 64",
                 "15+",
-                "25 - 49",
-                "50 - 64",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
                 "65+"
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3140,7 +3371,7 @@
           }
         ]
       },
-      "title": "4-1-3"
+      "title": "Social protection beneficiaries by type of institution"
     },
     {
       "path": "2-1-1/data.csv",
@@ -3183,7 +3414,7 @@
                 "118",
                 "119",
                 "12",
-                "120+",
+                "120",
                 "13",
                 "14",
                 "15",
@@ -3279,7 +3510,8 @@
                 "97",
                 "98",
                 "99",
-                "Total"
+                "Total",
+                "Unknown"
               ]
             },
             "title": "Age"
@@ -3304,7 +3536,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
@@ -3589,7 +3821,7 @@
           }
         ]
       },
-      "title": "5-5-1"
+      "title": "Enrolled in master and specialist studies by sex"
     },
     {
       "path": "2-5-1/data.csv",
@@ -3602,14 +3834,43 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "% of total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "_T"
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+"
               ]
             },
             "title": "Sex"
@@ -3628,6 +3889,16 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_disability",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "type_of_disability"
           }
         ]
       },
@@ -3644,14 +3915,31 @@
       "schema": {
         "fields": [
           {
+            "name": "EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Educational level"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
+                ""
               ]
             },
             "title": "Sex"
@@ -3663,12 +3951,12 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -4016,7 +4304,7 @@
           }
         ]
       },
-      "title": "5-4-1"
+      "title": "Enrolled in undergraduate studies by sex"
     },
     {
       "path": "1-7-3/data.csv",
@@ -4550,7 +4838,7 @@
           }
         ]
       },
-      "title": "5-2-2"
+      "title": "Children who completed primary school by sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -4742,7 +5030,7 @@
           }
         ]
       },
-      "title": "5-2-1"
+      "title": "Children at the beginning of school year by sex"
     },
     {
       "path": "1-6-1/data.csv",
@@ -4908,7 +5196,7 @@
           }
         ]
       },
-      "title": "5-2-3"
+      "title": "Teachers in primary schools by sex"
     },
     {
       "path": "3-3-3/data.csv",
@@ -5063,7 +5351,7 @@
           }
         ]
       },
-      "title": "4-1-5"
+      "title": "Child allowance beneficiaries"
     },
     {
       "path": "5-3-2/data.csv",
@@ -5104,7 +5392,7 @@
           }
         ]
       },
-      "title": "5-3-2"
+      "title": "Children at the beginning of school year by type of school"
     },
     {
       "path": "2-1-4/data.csv",
@@ -5117,30 +5405,50 @@
       "schema": {
         "fields": [
           {
-            "name": "BIRTHS",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Deaths",
-                "Live births",
-                "Natural change"
+                "0-4",
+                "10-14",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "5-9",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99"
               ]
             },
-            "title": "Vital statistics"
+            "title": "PYRAMID_AGE"
           },
           {
-            "name": "SEX",
+            "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "F",
-                "M",
-                "Both sexes"
+                "M"
               ]
             },
-            "title": "Sex"
+            "title": "PYRAMID_SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5149,7 +5457,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -5338,6 +5646,21 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64"
+              ]
+            },
+            "title": "Age"
+          },
           {
             "name": "SEX",
             "type": "string",
@@ -5892,7 +6215,7 @@
           }
         ]
       },
-      "title": "5-4-2"
+      "title": "Graduated students by sex"
     },
     {
       "path": "2-1-6/data.csv",
@@ -5905,6 +6228,20 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -5916,6 +6253,20 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",

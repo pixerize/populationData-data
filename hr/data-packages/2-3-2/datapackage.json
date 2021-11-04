@@ -12,21 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Općina"
+          },
+          {
+            "name": "AGRICULTURAL_ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "AGRICULTURAL_ACTIVITY"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,8 +41,18 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

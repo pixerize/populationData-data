@@ -16,39 +16,59 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Smrtni slučajevi",
-                "Prirodno kretanje",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
+            "name": "PYRAMID_SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "PYRAMID_SEX"
+          },
+          {
+            "name": "PYRAMID_AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                "5-9",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-120",
+                ""
+              ]
+            },
+            "title": "PYRAMID_AGE"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

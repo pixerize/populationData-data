@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,8 +27,44 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "_%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "type_of_disability",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

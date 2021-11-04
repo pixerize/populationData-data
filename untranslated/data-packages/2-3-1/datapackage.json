@@ -15,13 +15,28 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "single_household",
+                "2_members",
+                "3_members",
+                "4_members",
+                "5_members",
+                "6_members",
+                "7_members",
+                "8+_members",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
                 ""
               ]
             }

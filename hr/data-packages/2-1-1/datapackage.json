@@ -38,7 +38,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "0",
                 "1",
                 "2",
@@ -159,7 +158,9 @@
                 "117",
                 "118",
                 "119",
-                "120+",
+                "120",
+                "Unknown",
+                "Total",
                 ""
               ]
             },
@@ -167,7 +168,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

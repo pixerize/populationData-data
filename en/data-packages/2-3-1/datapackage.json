@@ -11,17 +11,33 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
-            "title": "Sex"
+            "title": "Municipality"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number"
+              ]
+            },
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",

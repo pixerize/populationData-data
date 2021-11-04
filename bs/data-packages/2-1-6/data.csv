@@ -1,34 +1,85 @@
-Year,Spol,UNIT_MEASURE,Value
-2020,Oba spola,Broj na 1.000 stanovnika,10.9
-2025,Oba spola,Broj na 1.000 stanovnika,11.9
-2030,Oba spola,Broj na 1.000 stanovnika,13.1
-2035,Oba spola,Broj na 1.000 stanovnika,14.5
-2040,Oba spola,Broj na 1.000 stanovnika,16.0
-2045,Oba spola,Broj na 1.000 stanovnika,17.5
-2050,Oba spola,Broj na 1.000 stanovnika,18.8
-2055,Oba spola,Broj na 1.000 stanovnika,19.8
-2060,Oba spola,Broj na 1.000 stanovnika,20.7
-2065,Oba spola,Broj na 1.000 stanovnika,21.5
-2070,Oba spola,Broj na 1.000 stanovnika,22.2
-2020,M,Broj na 1.000 stanovnika,11.4
-2025,M,Broj na 1.000 stanovnika,12.5
-2030,M,Broj na 1.000 stanovnika,13.8
-2035,M,Broj na 1.000 stanovnika,15.3
-2040,M,Broj na 1.000 stanovnika,16.9
-2045,M,Broj na 1.000 stanovnika,18.5
-2050,M,Broj na 1.000 stanovnika,19.8
-2055,M,Broj na 1.000 stanovnika,20.9
-2060,M,Broj na 1.000 stanovnika,21.9
-2065,M,Broj na 1.000 stanovnika,22.6
-2070,M,Broj na 1.000 stanovnika,23.1
-2020,Ž,Broj na 1.000 stanovnika,10.52
-2025,Ž,Broj na 1.000 stanovnika,11.42
-2030,Ž,Broj na 1.000 stanovnika,12.48
-2035,Ž,Broj na 1.000 stanovnika,13.75
-2040,Ž,Broj na 1.000 stanovnika,15.19
-2045,Ž,Broj na 1.000 stanovnika,16.66
-2050,Ž,Broj na 1.000 stanovnika,17.9
-2055,Ž,Broj na 1.000 stanovnika,18.93
-2060,Ž,Broj na 1.000 stanovnika,19.79
-2065,Ž,Broj na 1.000 stanovnika,20.64
-2070,Ž,Broj na 1.000 stanovnika,21.5
+Year,UNIT_MEASURE,Tip odnosa zavisnosti,Spol,Administrativna oblast,Value
+1971,%,Ukupan omjer ekonomske podrške,Oba spola,BiH,65.4
+1971,%,Ukupan omjer ekonomske podrške,M,BiH,67.9
+1971,%,Ukupan omjer ekonomske podrške,Ž,BiH,63.0
+1981,%,Ukupan omjer ekonomske podrške,Oba spola,BiH,52.3
+1981,%,Ukupan omjer ekonomske podrške,M,BiH,53.0
+1981,%,Ukupan omjer ekonomske podrške,Ž,BiH,51.6
+1991,%,Ukupan omjer ekonomske podrške,Oba spola,BiH,48.3
+1991,%,Ukupan omjer ekonomske podrške,M,BiH,46.8
+1991,%,Ukupan omjer ekonomske podrške,Ž,BiH,49.7
+2013,%,Ukupan omjer ekonomske podrške,Oba spola,BiH,42.1
+2013,%,Ukupan omjer ekonomske podrške,M,BiH,39.2
+2013,%,Ukupan omjer ekonomske podrške,Ž,BiH,44.9
+1971,%,Omjer ekonomske podrške mladima,Oba spola,BiH,57.0
+1971,%,Omjer ekonomske podrške mladima,M,BiH,60.2
+1971,%,Omjer ekonomske podrške mladima,Ž,BiH,53.9
+1981,%,Omjer ekonomske podrške mladima,Oba spola,BiH,42.5
+1981,%,Omjer ekonomske podrške mladima,M,BiH,44.5
+1981,%,Omjer ekonomske podrške mladima,Ž,BiH,40.6
+1991,%,Omjer ekonomske podrške mladima,Oba spola,BiH,35.6
+1991,%,Omjer ekonomske podrške mladima,M,BiH,36.6
+1991,%,Omjer ekonomske podrške mladima,Ž,BiH,34.6
+2013,%,Omjer ekonomske podrške mladima,Oba spola,BiH,21.9
+2013,%,Omjer ekonomske podrške mladima,M,BiH,22.4
+2013,%,Omjer ekonomske podrške mladima,Ž,BiH,21.3
+1971,%,Omjer ekonomske podrške starijim osobama,Oba spola,BiH,8.4
+1971,%,Omjer ekonomske podrške starijim osobama,M,BiH,7.7
+1971,%,Omjer ekonomske podrške starijim osobama,Ž,BiH,9.1
+1981,%,Omjer ekonomske podrške starijim osobama,Oba spola,BiH,9.8
+1981,%,Omjer ekonomske podrške starijim osobama,M,BiH,8.5
+1981,%,Omjer ekonomske podrške starijim osobama,Ž,BiH,11.0
+1991,%,Omjer ekonomske podrške starijim osobama,Oba spola,BiH,12.7
+1991,%,Omjer ekonomske podrške starijim osobama,M,BiH,10.1
+1991,%,Omjer ekonomske podrške starijim osobama,Ž,BiH,15.2
+2013,%,Omjer ekonomske podrške starijim osobama,Oba spola,BiH,20.2
+2013,%,Omjer ekonomske podrške starijim osobama,M,BiH,16.8
+2013,%,Omjer ekonomske podrške starijim osobama,Ž,BiH,23.6
+1971,%,Omjer starijih i mladih,Oba spola,BiH,14.8
+1971,%,Omjer starijih i mladih,M,BiH,12.8
+1971,%,Omjer starijih i mladih,Ž,BiH,16.9
+1981,%,Omjer starijih i mladih,Oba spola,BiH,23.1
+1981,%,Omjer starijih i mladih,M,BiH,19.2
+1981,%,Omjer starijih i mladih,Ž,BiH,27.2
+1991,%,Omjer starijih i mladih,Oba spola,BiH,35.6
+1991,%,Omjer starijih i mladih,M,BiH,27.7
+1991,%,Omjer starijih i mladih,Ž,BiH,43.8
+2013,%,Omjer starijih i mladih,Oba spola,BiH,92.3
+2013,%,Omjer starijih i mladih,M,BiH,75.0
+2013,%,Omjer starijih i mladih,Ž,BiH,110.6
+2013,%,Ukupan omjer ekonomske podrške,Oba spola,Federacija BiH,40.8
+2013,%,Ukupan omjer ekonomske podrške,M,Federacija BiH,38.4
+2013,%,Ukupan omjer ekonomske podrške,Ž,Federacija BiH,43.1
+2013,%,Omjer ekonomske podrške mladima,Oba spola,Federacija BiH,22.6
+2013,%,Omjer ekonomske podrške mladima,M,Federacija BiH,23.3
+2013,%,Omjer ekonomske podrške mladima,Ž,Federacija BiH,22.0
+2013,%,Omjer ekonomske podrške starijim osobama,Oba spola,Federacija BiH,18.1
+2013,%,Omjer ekonomske podrške starijim osobama,M,Federacija BiH,15.1
+2013,%,Omjer ekonomske podrške starijim osobama,Ž,Federacija BiH,21.1
+2013,%,Omjer starijih i mladih,Oba spola,Federacija BiH,80.1
+2013,%,Omjer starijih i mladih,M,Federacija BiH,65.0
+2013,%,Omjer starijih i mladih,Ž,Federacija BiH,96.1
+2013,%,Ukupan omjer ekonomske podrške,Oba spola,Republika Srpska,44.4
+2013,%,Ukupan omjer ekonomske podrške,M,Republika Srpska,40.6
+2013,%,Ukupan omjer ekonomske podrške,Ž,Republika Srpska,48.2
+2013,%,Omjer ekonomske podrške mladima,Oba spola,Republika Srpska,20.4
+2013,%,Omjer ekonomske podrške mladima,M,Republika Srpska,20.8
+2013,%,Omjer ekonomske podrške mladima,Ž,Republika Srpska,20.1
+2013,%,Omjer ekonomske podrške starijim osobama,Oba spola,Republika Srpska,24.0
+2013,%,Omjer ekonomske podrške starijim osobama,M,Republika Srpska,19.8
+2013,%,Omjer ekonomske podrške starijim osobama,Ž,Republika Srpska,28.2
+2013,%,Omjer starijih i mladih,Oba spola,Republika Srpska,117.4
+2013,%,Omjer starijih i mladih,M,Republika Srpska,95.6
+2013,%,Omjer starijih i mladih,Ž,Republika Srpska,140.3
+2013,%,Ukupan omjer ekonomske podrške,Oba spola,Brčko distrikt BiH,43.3
+2013,%,Ukupan omjer ekonomske podrške,M,Brčko distrikt BiH,40.6
+2013,%,Ukupan omjer ekonomske podrške,Ž,Brčko distrikt BiH,46.0
+2013,%,Omjer ekonomske podrške mladima,Oba spola,Brčko distrikt BiH,22.4
+2013,%,Omjer ekonomske podrške mladima,M,Brčko distrikt BiH,23.3
+2013,%,Omjer ekonomske podrške mladima,Ž,Brčko distrikt BiH,21.6
+2013,%,Omjer ekonomske podrške starijim osobama,Oba spola,Brčko distrikt BiH,20.8
+2013,%,Omjer ekonomske podrške starijim osobama,M,Brčko distrikt BiH,17.3
+2013,%,Omjer ekonomske podrške starijim osobama,Ž,Brčko distrikt BiH,24.4
+2013,%,Omjer starijih i mladih,Oba spola,Brčko distrikt BiH,92.8
+2013,%,Omjer starijih i mladih,M,Brčko distrikt BiH,74.5
+2013,%,Omjer starijih i mladih,Ž,Brčko distrikt BiH,112.7

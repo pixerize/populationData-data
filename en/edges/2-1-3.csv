@@ -1,2 +1,3 @@
 From,To
-Type of dependency ratio,Sex
+Sex,AGE
+AGE,Municipality

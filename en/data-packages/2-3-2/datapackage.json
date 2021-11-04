@@ -11,17 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "AGRICULTURAL_ACTIVITY"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Municipality"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,13 +36,23 @@
             "title": "Unit of measure"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

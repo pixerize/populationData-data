@@ -11,14 +11,43 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "% of total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "_T"
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+"
               ]
             },
             "title": "Sex"
@@ -37,6 +66,16 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_disability",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "type_of_disability"
           }
         ]
       }

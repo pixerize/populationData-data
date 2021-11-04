@@ -11,6 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -22,6 +36,20 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",

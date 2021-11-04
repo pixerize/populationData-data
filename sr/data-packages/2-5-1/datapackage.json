@@ -16,22 +16,61 @@
             "title": "Година"
           },
           {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "Oпштина"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             },
             "title": "Пол"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                "% од укупно",
+                ""
+              ]
+            },
+            "title": "Старосна доб"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_disability",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "type_of_disability"
           },
           {
             "name": "Value",

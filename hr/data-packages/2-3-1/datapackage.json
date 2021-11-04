@@ -16,17 +16,33 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Općina"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                ""
+              ]
+            },
+            "title": "Veličina kućanstva"
           },
           {
             "name": "UNIT_MEASURE",

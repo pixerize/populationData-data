@@ -1,1 +1,1 @@
-{"From":["TYPE_OF_DEPENDENCY_RATIO"],"To":["SEX"]}
+{"From":["SEX","AGE"],"To":["AGE","Municipality"]}

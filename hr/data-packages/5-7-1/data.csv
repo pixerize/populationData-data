@@ -1,19 +1,9 @@
-Year,UNIT_MEASURE,Spol,Value
-2010,% od ukupno,M,28.1
-2011,% od ukupno,M,29.2
-2012,% od ukupno,M,30.5
-2013,% od ukupno,M,27.4
-2014,% od ukupno,M,27.9
-2015,% od ukupno,M,29.2
-2016,% od ukupno,M,28.0
-2017,% od ukupno,M,24.5
-2018,% od ukupno,M,22.1
-2010,% od ukupno,Ž,28.0
-2011,% od ukupno,Ž,26.1
-2012,% od ukupno,Ž,26.2
-2013,% od ukupno,Ž,24.1
-2014,% od ukupno,Ž,24.0
-2015,% od ukupno,Ž,26.0
-2016,% od ukupno,Ž,24.7
-2017,% od ukupno,Ž,24.0
-2018,% od ukupno,Ž,21.1
+Year,UNIT_MEASURE,Spol,Godine,Value
+2016,% od ukupno,M,25-34,16.4
+2016,% od ukupno,Ž,25-34,16.8
+2016,% od ukupno,M,35-44,9.7
+2016,% od ukupno,Ž,35-45,8.8
+2016,% od ukupno,M,45-54,6.2
+2016,% od ukupno,Ž,45-54,5.6
+2016,% od ukupno,M,55-64,3.0
+2016,% od ukupno,Ž,55-64,2.2

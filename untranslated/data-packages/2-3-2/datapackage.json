@@ -12,16 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGRICULTURAL_ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -31,8 +37,17 @@
             "type": "string"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

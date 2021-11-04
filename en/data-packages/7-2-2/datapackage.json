@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -23,6 +23,19 @@
               ]
             },
             "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

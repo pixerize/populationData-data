@@ -12,21 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
-            "name": "SEX",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Oпштина"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,8 +31,28 @@
             "title": "Мјерна јединица"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Старосна доб"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

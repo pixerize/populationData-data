@@ -7,13 +7,26 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "UNIT_MEASURE",
