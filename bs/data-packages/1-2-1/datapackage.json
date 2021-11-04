@@ -21,19 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
@@ -48,21 +35,8 @@
             "title": "Administrativna oblast"
           },
           {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Smrtni slučajevi",
-                "Prirodno kretanje",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

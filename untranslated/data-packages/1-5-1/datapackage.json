@@ -19,14 +19,12 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "M",
+                "F",
                 ""
               ]
             }

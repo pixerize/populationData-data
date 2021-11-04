@@ -16,25 +16,6 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupan omjer gospodarske potpore",
-                "Omjer gospodarske potpore mladima",
-                "Omjer gospodarske potpore starijim osobama",
-                "Omjer starijih i mladih",
-                ""
-              ]
-            },
-            "title": "Tip odnosa zavisnosti"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -48,22 +29,45 @@
             "title": "Spol"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
+                "„(C00-C97,D00-D48) Neoplazme“",
+                "„(I00-I99) Bolesti cirkulacijskog sustava“",
+                "„(J00-J99) Bolesti respiratornog sustava“",
+                "„(K00-K93) Bolesti digestivnog sustava“",
+                "„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",
+                "„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",
+                "Ukupno",
+                "„(A00-B99) Zarazne i parazitarne bolesti“",
+                "„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",
+                "„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",
+                "„(F00-F99) Duševni poremećaji i poremećaji ponašanja“",
+                "„(G00-G99) Bolesti nervnog sustava“",
+                "„(H00-H93) Bolesti oka, uha i adneksa\"",
+                "„(L00-L99) Bolesti kože i potkožnog tkiva“",
+                "„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“",
+                "„(N00-N99) Bolesti genitalno-urinarnog sustava“",
+                "„(O00-O99) Trudnoća, porođaj i postporođajni period“",
+                "„(P00-P96) Određena stanja nastala u perinatalnom periodu“",
+                "„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",
+                "„(V01-Y98) Vanjski uzroci mortaliteta“",
+                "„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

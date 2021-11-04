@@ -16,9 +16,16 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SEX",
             "type": "string",
-            "title": "Мјерна јединица"
+            "constraints": {
+              "enum": [
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "ADMIN_AREA",
@@ -33,6 +40,11 @@
               ]
             },
             "title": "Административно подручје"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",

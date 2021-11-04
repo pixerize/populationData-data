@@ -1,15 +1,34 @@
-Year,UNIT_MEASURE,Sex,Value
-1960,Age,M,58.62
-1970,Age,M,63.78
-1981,Age,M,68.2
-1988,Age,M,69.2
-2013,Age,M,73.88
-2015,Age,M,73.7
-2018,Age,M,74.3
-1960,Age,F,61.46
-1970,Age,F,68.41
-1981,Age,F,73.5
-1988,Age,F,74.6
-2013,Age,F,78.88
-2015,Age,F,78.8
-2018,Age,F,79.0
+Year,Sex,UNIT_MEASURE,Value
+2020,Both sexes,Number per 1000 population,10.9
+2025,Both sexes,Number per 1000 population,11.9
+2030,Both sexes,Number per 1000 population,13.1
+2035,Both sexes,Number per 1000 population,14.5
+2040,Both sexes,Number per 1000 population,16.0
+2045,Both sexes,Number per 1000 population,17.5
+2050,Both sexes,Number per 1000 population,18.8
+2055,Both sexes,Number per 1000 population,19.8
+2060,Both sexes,Number per 1000 population,20.7
+2065,Both sexes,Number per 1000 population,21.5
+2070,Both sexes,Number per 1000 population,22.2
+2020,M,Number per 1000 population,11.4
+2025,M,Number per 1000 population,12.5
+2030,M,Number per 1000 population,13.8
+2035,M,Number per 1000 population,15.3
+2040,M,Number per 1000 population,16.9
+2045,M,Number per 1000 population,18.5
+2050,M,Number per 1000 population,19.8
+2055,M,Number per 1000 population,20.9
+2060,M,Number per 1000 population,21.9
+2065,M,Number per 1000 population,22.6
+2070,M,Number per 1000 population,23.1
+2020,F,Number per 1000 population,10.52
+2025,F,Number per 1000 population,11.42
+2030,F,Number per 1000 population,12.48
+2035,F,Number per 1000 population,13.75
+2040,F,Number per 1000 population,15.19
+2045,F,Number per 1000 population,16.66
+2050,F,Number per 1000 population,17.9
+2055,F,Number per 1000 population,18.93
+2060,F,Number per 1000 population,19.79
+2065,F,Number per 1000 population,20.64
+2070,F,Number per 1000 population,21.5

@@ -1,1 +1,1 @@
-{"From":["TYPE_OF_DEPENDENCY_RATIO","SEX"],"To":["SEX","ADMIN_AREA"]}
+{"From":["SEX"],"To":["CAUSE_OF_DEATH"]}

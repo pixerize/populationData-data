@@ -15,19 +15,32 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
               ]
             }
+          },
+          {
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LIVE_BIRTH",
+                "DEATHS",
+                "NATURAL_CHANGE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

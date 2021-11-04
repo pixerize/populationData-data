@@ -11,18 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "F",
+                "M"
               ]
             },
-            "title": "Administrative area"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

@@ -21,11 +21,27 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },

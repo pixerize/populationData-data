@@ -1,110 +1,91 @@
-Year,UNIT_MEASURE,Administrativna oblast,Value
-1971,Broj na 1.000 stanovnika,BiH,6.6
-1972,Broj na 1.000 stanovnika,BiH,7.0
-1973,Broj na 1.000 stanovnika,BiH,6.4
-1974,Broj na 1.000 stanovnika,BiH,6.0
-1975,Broj na 1.000 stanovnika,BiH,6.4
-1976,Broj na 1.000 stanovnika,BiH,6.2
-1977,Broj na 1.000 stanovnika,BiH,6.1
-1978,Broj na 1.000 stanovnika,BiH,6.3
-1979,Broj na 1.000 stanovnika,BiH,6.1
-1980,Broj na 1.000 stanovnika,BiH,6.4
-1981,Broj na 1.000 stanovnika,BiH,6.3
-1982,Broj na 1.000 stanovnika,BiH,6.4
-1983,Broj na 1.000 stanovnika,BiH,7.2
-1984,Broj na 1.000 stanovnika,BiH,6.9
-1985,Broj na 1.000 stanovnika,BiH,6.9
-1986,Broj na 1.000 stanovnika,BiH,6.9
-1987,Broj na 1.000 stanovnika,BiH,6.9
-1988,Broj na 1.000 stanovnika,BiH,6.9
-1989,Broj na 1.000 stanovnika,BiH,7.0
-1990,Broj na 1.000 stanovnika,BiH,6.7
-1991,Broj na 1.000 stanovnika,BiH,7.2
-1996,Broj na 1.000 stanovnika,BiH,6.9
-1997,Broj na 1.000 stanovnika,BiH,7.5
-1998,Broj na 1.000 stanovnika,BiH,7.9
-1999,Broj na 1.000 stanovnika,BiH,7.7
-2000,Broj na 1.000 stanovnika,BiH,8.1
-2001,Broj na 1.000 stanovnika,BiH,8.0
-2002,Broj na 1.000 stanovnika,BiH,7.9
-2003,Broj na 1.000 stanovnika,BiH,8.3
-2004,Broj na 1.000 stanovnika,BiH,8.5
-2005,Broj na 1.000 stanovnika,BiH,9.0
-2006,Broj na 1.000 stanovnika,BiH,8.6
-2007,Broj na 1.000 stanovnika,BiH,9.1
-2008,Broj na 1.000 stanovnika,BiH,8.9
-2009,Broj na 1.000 stanovnika,BiH,9.1
-2010,Broj na 1.000 stanovnika,BiH,9.1
-2011,Broj na 1.000 stanovnika,BiH,9.1
-2012,Broj na 1.000 stanovnika,BiH,9.3
-2013,Broj na 1.000 stanovnika,BiH,10.1
-2014,Broj na 1.000 stanovnika,BiH,10.2
-2015,Broj na 1.000 stanovnika,BiH,10.8
-2016,Broj na 1.000 stanovnika,BiH,10.4
-2017,Broj na 1.000 stanovnika,BiH,10.8
-2018,Broj na 1.000 stanovnika,BiH,10.8
-2019,Broj na 1.000 stanovnika,BiH,11.1
-1996,Broj na 1.000 stanovnika,Federacija BiH,6.3
-1997,Broj na 1.000 stanovnika,Federacija BiH,6.9
-1998,Broj na 1.000 stanovnika,Federacija BiH,7.3
-1999,Broj na 1.000 stanovnika,Federacija BiH,7.1
-2000,Broj na 1.000 stanovnika,Federacija BiH,7.4
-2001,Broj na 1.000 stanovnika,Federacija BiH,7.3
-2002,Broj na 1.000 stanovnika,Federacija BiH,7.4
-2003,Broj na 1.000 stanovnika,Federacija BiH,7.9
-2004,Broj na 1.000 stanovnika,Federacija BiH,7.9
-2005,Broj na 1.000 stanovnika,Federacija BiH,8.3
-2006,Broj na 1.000 stanovnika,Federacija BiH,8.0
-2007,Broj na 1.000 stanovnika,Federacija BiH,8.7
-2008,Broj na 1.000 stanovnika,Federacija BiH,8.3
-2009,Broj na 1.000 stanovnika,Federacija BiH,8.3
-2010,Broj na 1.000 stanovnika,Federacija BiH,8.6
-2011,Broj na 1.000 stanovnika,Federacija BiH,8.8
-2012,Broj na 1.000 stanovnika,Federacija BiH,8.7
-2013,Broj na 1.000 stanovnika,Federacija BiH,8.9
-2014,Broj na 1.000 stanovnika,Federacija BiH,8.7
-2015,Broj na 1.000 stanovnika,Federacija BiH,9.8
-2016,Broj na 1.000 stanovnika,Federacija BiH,9.6
-2017,Broj na 1.000 stanovnika,Federacija BiH,9.9
-2018,Broj na 1.000 stanovnika,Federacija BiH,9.8
-2019,Broj na 1.000 stanovnika,Federacija BiH,10.1
-1996,Broj na 1.000 stanovnika,Republika Srpska,8.9
-1997,Broj na 1.000 stanovnika,Republika Srpska,9.6
-1998,Broj na 1.000 stanovnika,Republika Srpska,10.1
-1999,Broj na 1.000 stanovnika,Republika Srpska,10.2
-2000,Broj na 1.000 stanovnika,Republika Srpska,10.8
-2001,Broj na 1.000 stanovnika,Republika Srpska,10.8
-2002,Broj na 1.000 stanovnika,Republika Srpska,10.9
-2003,Broj na 1.000 stanovnika,Republika Srpska,10.9
-2004,Broj na 1.000 stanovnika,Republika Srpska,11.0
-2005,Broj na 1.000 stanovnika,Republika Srpska,11.6
-2006,Broj na 1.000 stanovnika,Republika Srpska,11.2
-2007,Broj na 1.000 stanovnika,Republika Srpska,12.0
-2008,Broj na 1.000 stanovnika,Republika Srpska,11.4
-2009,Broj na 1.000 stanovnika,Republika Srpska,11.7
-2010,Broj na 1.000 stanovnika,Republika Srpska,11.5
-2011,Broj na 1.000 stanovnika,Republika Srpska,11.6
-2012,Broj na 1.000 stanovnika,Republika Srpska,11.8
-2013,Broj na 1.000 stanovnika,Republika Srpska,11.9
-2014,Broj na 1.000 stanovnika,Republika Srpska,12.3
-2015,Broj na 1.000 stanovnika,Republika Srpska,13.0
-2016,Broj na 1.000 stanovnika,Republika Srpska,12.1
-2017,Broj na 1.000 stanovnika,Republika Srpska,12.7
-2018,Broj na 1.000 stanovnika,Republika Srpska,12.9
-2019,Broj na 1.000 stanovnika,Republika Srpska,13.2
-2004,Broj na 1.000 stanovnika,Brčko distrikt BiH,10.5
-2005,Broj na 1.000 stanovnika,Brčko distrikt BiH,11.0
-2006,Broj na 1.000 stanovnika,Brčko distrikt BiH,9.8
-2007,Broj na 1.000 stanovnika,Brčko distrikt BiH,10.8
-2008,Broj na 1.000 stanovnika,Brčko distrikt BiH,11.8
-2009,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.1
-2010,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.0
-2011,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.6
-2012,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.2
-2013,Broj na 1.000 stanovnika,Brčko distrikt BiH,11.2
-2014,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.0
-2015,Broj na 1.000 stanovnika,Brčko distrikt BiH,13.4
-2016,Broj na 1.000 stanovnika,Brčko distrikt BiH,11.9
-2017,Broj na 1.000 stanovnika,Brčko distrikt BiH,13.2
-2018,Broj na 1.000 stanovnika,Brčko distrikt BiH,12.4
-2019,Broj na 1.000 stanovnika,Brčko distrikt BiH,13.6
+Year,Administrativna oblast,UNIT_MEASURE,Value
+1996,BiH,Broj,21107
+1997,BiH,Broj,23220
+1998,BiH,Broj,22398
+1999,BiH,Broj,22472
+2000,BiH,Broj,21897
+2001,BiH,Broj,20302
+2002,BiH,Broj,20122
+2003,BiH,Broj,20733
+2004,BiH,Broj,22252
+2005,BiH,Broj,21698
+2006,BiH,Broj,21501
+2007,BiH,Broj,23494
+2008,BiH,Broj,22151
+2009,BiH,Broj,20633
+2010,BiH,Broj,19541
+2011,BiH,Broj,19156
+2012,BiH,Broj,18235
+2013,BiH,Broj,17623
+2014,BiH,Broj,18643
+2015,BiH,Broj,19686
+2016,BiH,Broj,19265
+2017,BiH,Broj,19969
+2018,BiH,Broj,19911
+2019,BiH,Broj,18952
+1996,Federacija BiH,Broj,14692
+1997,Federacija BiH,Broj,16061
+1998,Federacija BiH,Broj,14921
+1999,Federacija BiH,Broj,14285
+2000,Federacija BiH,Broj,13894
+2001,Federacija BiH,Broj,12758
+2002,Federacija BiH,Broj,12889
+2003,Federacija BiH,Broj,13102
+2004,Federacija BiH,Broj,13695
+2005,Federacija BiH,Broj,13620
+2006,Federacija BiH,Broj,13012
+2007,Federacija BiH,Broj,14808
+2008,Federacija BiH,Broj,14909
+2009,Federacija BiH,Broj,13670
+2010,Federacija BiH,Broj,12988
+2011,Federacija BiH,Broj,12589
+2012,Federacija BiH,Broj,12060
+2013,Federacija BiH,Broj,11381
+2014,Federacija BiH,Broj,11982
+2015,Federacija BiH,Broj,12972
+2016,Federacija BiH,Broj,12790
+2017,Federacija BiH,Broj,12994
+2018,Federacija BiH,Broj,13061
+2019,Federacija BiH,Broj,12266
+1996,Republika Srpska,Broj,6227
+1997,Republika Srpska,Broj,6889
+1998,Republika Srpska,Broj,7186
+1999,Republika Srpska,Broj,7893
+2000,Republika Srpska,Broj,7642
+2001,Republika Srpska,Broj,7179
+2002,Republika Srpska,Broj,7233
+2003,Republika Srpska,Broj,6769
+2004,Republika Srpska,Broj,7143
+2005,Republika Srpska,Broj,6810
+2006,Republika Srpska,Broj,6860
+2007,Republika Srpska,Broj,7093
+2008,Republika Srpska,Broj,6401
+2009,Republika Srpska,Broj,6131
+2010,Republika Srpska,Broj,5767
+2011,Republika Srpska,Broj,5802
+2012,Republika Srpska,Broj,5326
+2013,Republika Srpska,Broj,5467
+2014,Republika Srpska,Broj,5823
+2015,Republika Srpska,Broj,5895
+2016,Republika Srpska,Broj,5563
+2017,Republika Srpska,Broj,5954
+2018,Republika Srpska,Broj,5966
+2019,Republika Srpska,Broj,5822
+2002,Brčko distrikt BiH,Broj,644
+2003,Brčko distrikt BiH,Broj,655
+2004,Brčko distrikt BiH,Broj,782
+2005,Brčko distrikt BiH,Broj,669
+2006,Brčko distrikt BiH,Broj,673
+2007,Brčko distrikt BiH,Broj,712
+2008,Brčko distrikt BiH,Broj,680
+2009,Brčko distrikt BiH,Broj,670
+2010,Brčko distrikt BiH,Broj,618
+2011,Brčko distrikt BiH,Broj,613
+2012,Brčko distrikt BiH,Broj,703
+2013,Brčko distrikt BiH,Broj,622
+2014,Brčko distrikt BiH,Broj,663
+2015,Brčko distrikt BiH,Broj,670
+2016,Brčko distrikt BiH,Broj,653
+2017,Brčko distrikt BiH,Broj,718
+2018,Brčko distrikt BiH,Broj,632
+2019,Brčko distrikt BiH,Broj,599

@@ -1,15 +1,34 @@
-Year,UNIT_MEASURE,Spol,Value
-1960,Starosna dob,M,58.62
-1970,Starosna dob,M,63.78
-1981,Starosna dob,M,68.2
-1988,Starosna dob,M,69.2
-2013,Starosna dob,M,73.88
-2015,Starosna dob,M,73.7
-2018,Starosna dob,M,74.3
-1960,Starosna dob,Ž,61.46
-1970,Starosna dob,Ž,68.41
-1981,Starosna dob,Ž,73.5
-1988,Starosna dob,Ž,74.6
-2013,Starosna dob,Ž,78.88
-2015,Starosna dob,Ž,78.8
-2018,Starosna dob,Ž,79.0
+Year,Spol,UNIT_MEASURE,Value
+2020,Oba spola,Broj na 1.000 stanovnika,10.9
+2025,Oba spola,Broj na 1.000 stanovnika,11.9
+2030,Oba spola,Broj na 1.000 stanovnika,13.1
+2035,Oba spola,Broj na 1.000 stanovnika,14.5
+2040,Oba spola,Broj na 1.000 stanovnika,16.0
+2045,Oba spola,Broj na 1.000 stanovnika,17.5
+2050,Oba spola,Broj na 1.000 stanovnika,18.8
+2055,Oba spola,Broj na 1.000 stanovnika,19.8
+2060,Oba spola,Broj na 1.000 stanovnika,20.7
+2065,Oba spola,Broj na 1.000 stanovnika,21.5
+2070,Oba spola,Broj na 1.000 stanovnika,22.2
+2020,M,Broj na 1.000 stanovnika,11.4
+2025,M,Broj na 1.000 stanovnika,12.5
+2030,M,Broj na 1.000 stanovnika,13.8
+2035,M,Broj na 1.000 stanovnika,15.3
+2040,M,Broj na 1.000 stanovnika,16.9
+2045,M,Broj na 1.000 stanovnika,18.5
+2050,M,Broj na 1.000 stanovnika,19.8
+2055,M,Broj na 1.000 stanovnika,20.9
+2060,M,Broj na 1.000 stanovnika,21.9
+2065,M,Broj na 1.000 stanovnika,22.6
+2070,M,Broj na 1.000 stanovnika,23.1
+2020,Ž,Broj na 1.000 stanovnika,10.52
+2025,Ž,Broj na 1.000 stanovnika,11.42
+2030,Ž,Broj na 1.000 stanovnika,12.48
+2035,Ž,Broj na 1.000 stanovnika,13.75
+2040,Ž,Broj na 1.000 stanovnika,15.19
+2045,Ž,Broj na 1.000 stanovnika,16.66
+2050,Ž,Broj na 1.000 stanovnika,17.9
+2055,Ž,Broj na 1.000 stanovnika,18.93
+2060,Ž,Broj na 1.000 stanovnika,19.79
+2065,Ž,Broj na 1.000 stanovnika,20.64
+2070,Ž,Broj na 1.000 stanovnika,21.5

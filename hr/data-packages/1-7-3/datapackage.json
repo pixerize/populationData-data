@@ -21,10 +21,25 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
+                "Omjer starijih i mladih",
+                ""
+              ]
+            },
+            "title": "Tip odnosa zavisnosti"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""

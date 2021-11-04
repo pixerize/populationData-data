@@ -1,85 +1,110 @@
-Year,UNIT_MEASURE,Type of dependency ratio,Sex,Administrative area,Value
-1971,%,Total support ratio,Both sexes,BiH,65.4
-1971,%,Total support ratio,M,BiH,67.9
-1971,%,Total support ratio,F,BiH,63.0
-1981,%,Total support ratio,Both sexes,BiH,52.3
-1981,%,Total support ratio,M,BiH,53.0
-1981,%,Total support ratio,F,BiH,51.6
-1991,%,Total support ratio,Both sexes,BiH,48.3
-1991,%,Total support ratio,M,BiH,46.8
-1991,%,Total support ratio,F,BiH,49.7
-2013,%,Total support ratio,Both sexes,BiH,42.1
-2013,%,Total support ratio,M,BiH,39.2
-2013,%,Total support ratio,F,BiH,44.9
-1971,%,Young-age support ratio,Both sexes,BiH,57.0
-1971,%,Young-age support ratio,M,BiH,60.2
-1971,%,Young-age support ratio,F,BiH,53.9
-1981,%,Young-age support ratio,Both sexes,BiH,42.5
-1981,%,Young-age support ratio,M,BiH,44.5
-1981,%,Young-age support ratio,F,BiH,40.6
-1991,%,Young-age support ratio,Both sexes,BiH,35.6
-1991,%,Young-age support ratio,M,BiH,36.6
-1991,%,Young-age support ratio,F,BiH,34.6
-2013,%,Young-age support ratio,Both sexes,BiH,21.9
-2013,%,Young-age support ratio,M,BiH,22.4
-2013,%,Young-age support ratio,F,BiH,21.3
-1971,%,Old-age support ratio,Both sexes,BiH,8.4
-1971,%,Old-age support ratio,M,BiH,7.7
-1971,%,Old-age support ratio,F,BiH,9.1
-1981,%,Old-age support ratio,Both sexes,BiH,9.8
-1981,%,Old-age support ratio,M,BiH,8.5
-1981,%,Old-age support ratio,F,BiH,11.0
-1991,%,Old-age support ratio,Both sexes,BiH,12.7
-1991,%,Old-age support ratio,M,BiH,10.1
-1991,%,Old-age support ratio,F,BiH,15.2
-2013,%,Old-age support ratio,Both sexes,BiH,20.2
-2013,%,Old-age support ratio,M,BiH,16.8
-2013,%,Old-age support ratio,F,BiH,23.6
-1971,%,Older persons to youth ratio,Both sexes,BiH,14.8
-1971,%,Older persons to youth ratio,M,BiH,12.8
-1971,%,Older persons to youth ratio,F,BiH,16.9
-1981,%,Older persons to youth ratio,Both sexes,BiH,23.1
-1981,%,Older persons to youth ratio,M,BiH,19.2
-1981,%,Older persons to youth ratio,F,BiH,27.2
-1991,%,Older persons to youth ratio,Both sexes,BiH,35.6
-1991,%,Older persons to youth ratio,M,BiH,27.7
-1991,%,Older persons to youth ratio,F,BiH,43.8
-2013,%,Older persons to youth ratio,Both sexes,BiH,92.3
-2013,%,Older persons to youth ratio,M,BiH,75.0
-2013,%,Older persons to youth ratio,F,BiH,110.6
-2013,%,Total support ratio,Both sexes,Federation of BiH,40.8
-2013,%,Total support ratio,M,Federation of BiH,38.4
-2013,%,Total support ratio,F,Federation of BiH,43.1
-2013,%,Young-age support ratio,Both sexes,Federation of BiH,22.6
-2013,%,Young-age support ratio,M,Federation of BiH,23.3
-2013,%,Young-age support ratio,F,Federation of BiH,22.0
-2013,%,Old-age support ratio,Both sexes,Federation of BiH,18.1
-2013,%,Old-age support ratio,M,Federation of BiH,15.1
-2013,%,Old-age support ratio,F,Federation of BiH,21.1
-2013,%,Older persons to youth ratio,Both sexes,Federation of BiH,80.1
-2013,%,Older persons to youth ratio,M,Federation of BiH,65.0
-2013,%,Older persons to youth ratio,F,Federation of BiH,96.1
-2013,%,Total support ratio,Both sexes,Republika Srpska,44.4
-2013,%,Total support ratio,M,Republika Srpska,40.6
-2013,%,Total support ratio,F,Republika Srpska,48.2
-2013,%,Young-age support ratio,Both sexes,Republika Srpska,20.4
-2013,%,Young-age support ratio,M,Republika Srpska,20.8
-2013,%,Young-age support ratio,F,Republika Srpska,20.1
-2013,%,Old-age support ratio,Both sexes,Republika Srpska,24.0
-2013,%,Old-age support ratio,M,Republika Srpska,19.8
-2013,%,Old-age support ratio,F,Republika Srpska,28.2
-2013,%,Older persons to youth ratio,Both sexes,Republika Srpska,117.4
-2013,%,Older persons to youth ratio,M,Republika Srpska,95.6
-2013,%,Older persons to youth ratio,F,Republika Srpska,140.3
-2013,%,Total support ratio,Both sexes,Brčko District of BiH,43.3
-2013,%,Total support ratio,M,Brčko District of BiH,40.6
-2013,%,Total support ratio,F,Brčko District of BiH,46.0
-2013,%,Young-age support ratio,Both sexes,Brčko District of BiH,22.4
-2013,%,Young-age support ratio,M,Brčko District of BiH,23.3
-2013,%,Young-age support ratio,F,Brčko District of BiH,21.6
-2013,%,Old-age support ratio,Both sexes,Brčko District of BiH,20.8
-2013,%,Old-age support ratio,M,Brčko District of BiH,17.3
-2013,%,Old-age support ratio,F,Brčko District of BiH,24.4
-2013,%,Older persons to youth ratio,Both sexes,Brčko District of BiH,92.8
-2013,%,Older persons to youth ratio,M,Brčko District of BiH,74.5
-2013,%,Older persons to youth ratio,F,Brčko District of BiH,112.7
+Year,UNIT_MEASURE,Administrative area,Value
+1971,Number per 1000 population,BiH,6.6
+1972,Number per 1000 population,BiH,7.0
+1973,Number per 1000 population,BiH,6.4
+1974,Number per 1000 population,BiH,6.0
+1975,Number per 1000 population,BiH,6.4
+1976,Number per 1000 population,BiH,6.2
+1977,Number per 1000 population,BiH,6.1
+1978,Number per 1000 population,BiH,6.3
+1979,Number per 1000 population,BiH,6.1
+1980,Number per 1000 population,BiH,6.4
+1981,Number per 1000 population,BiH,6.3
+1982,Number per 1000 population,BiH,6.4
+1983,Number per 1000 population,BiH,7.2
+1984,Number per 1000 population,BiH,6.9
+1985,Number per 1000 population,BiH,6.9
+1986,Number per 1000 population,BiH,6.9
+1987,Number per 1000 population,BiH,6.9
+1988,Number per 1000 population,BiH,6.9
+1989,Number per 1000 population,BiH,7.0
+1990,Number per 1000 population,BiH,6.7
+1991,Number per 1000 population,BiH,7.2
+1996,Number per 1000 population,BiH,6.9
+1997,Number per 1000 population,BiH,7.5
+1998,Number per 1000 population,BiH,7.9
+1999,Number per 1000 population,BiH,7.7
+2000,Number per 1000 population,BiH,8.1
+2001,Number per 1000 population,BiH,8.0
+2002,Number per 1000 population,BiH,7.9
+2003,Number per 1000 population,BiH,8.3
+2004,Number per 1000 population,BiH,8.5
+2005,Number per 1000 population,BiH,9.0
+2006,Number per 1000 population,BiH,8.6
+2007,Number per 1000 population,BiH,9.1
+2008,Number per 1000 population,BiH,8.9
+2009,Number per 1000 population,BiH,9.1
+2010,Number per 1000 population,BiH,9.1
+2011,Number per 1000 population,BiH,9.1
+2012,Number per 1000 population,BiH,9.3
+2013,Number per 1000 population,BiH,10.1
+2014,Number per 1000 population,BiH,10.2
+2015,Number per 1000 population,BiH,10.8
+2016,Number per 1000 population,BiH,10.4
+2017,Number per 1000 population,BiH,10.8
+2018,Number per 1000 population,BiH,10.8
+2019,Number per 1000 population,BiH,11.1
+1996,Number per 1000 population,Federation of BiH,6.3
+1997,Number per 1000 population,Federation of BiH,6.9
+1998,Number per 1000 population,Federation of BiH,7.3
+1999,Number per 1000 population,Federation of BiH,7.1
+2000,Number per 1000 population,Federation of BiH,7.4
+2001,Number per 1000 population,Federation of BiH,7.3
+2002,Number per 1000 population,Federation of BiH,7.4
+2003,Number per 1000 population,Federation of BiH,7.9
+2004,Number per 1000 population,Federation of BiH,7.9
+2005,Number per 1000 population,Federation of BiH,8.3
+2006,Number per 1000 population,Federation of BiH,8.0
+2007,Number per 1000 population,Federation of BiH,8.7
+2008,Number per 1000 population,Federation of BiH,8.3
+2009,Number per 1000 population,Federation of BiH,8.3
+2010,Number per 1000 population,Federation of BiH,8.6
+2011,Number per 1000 population,Federation of BiH,8.8
+2012,Number per 1000 population,Federation of BiH,8.7
+2013,Number per 1000 population,Federation of BiH,8.9
+2014,Number per 1000 population,Federation of BiH,8.7
+2015,Number per 1000 population,Federation of BiH,9.8
+2016,Number per 1000 population,Federation of BiH,9.6
+2017,Number per 1000 population,Federation of BiH,9.9
+2018,Number per 1000 population,Federation of BiH,9.8
+2019,Number per 1000 population,Federation of BiH,10.1
+1996,Number per 1000 population,Republika Srpska,8.9
+1997,Number per 1000 population,Republika Srpska,9.6
+1998,Number per 1000 population,Republika Srpska,10.1
+1999,Number per 1000 population,Republika Srpska,10.2
+2000,Number per 1000 population,Republika Srpska,10.8
+2001,Number per 1000 population,Republika Srpska,10.8
+2002,Number per 1000 population,Republika Srpska,10.9
+2003,Number per 1000 population,Republika Srpska,10.9
+2004,Number per 1000 population,Republika Srpska,11.0
+2005,Number per 1000 population,Republika Srpska,11.6
+2006,Number per 1000 population,Republika Srpska,11.2
+2007,Number per 1000 population,Republika Srpska,12.0
+2008,Number per 1000 population,Republika Srpska,11.4
+2009,Number per 1000 population,Republika Srpska,11.7
+2010,Number per 1000 population,Republika Srpska,11.5
+2011,Number per 1000 population,Republika Srpska,11.6
+2012,Number per 1000 population,Republika Srpska,11.8
+2013,Number per 1000 population,Republika Srpska,11.9
+2014,Number per 1000 population,Republika Srpska,12.3
+2015,Number per 1000 population,Republika Srpska,13.0
+2016,Number per 1000 population,Republika Srpska,12.1
+2017,Number per 1000 population,Republika Srpska,12.7
+2018,Number per 1000 population,Republika Srpska,12.9
+2019,Number per 1000 population,Republika Srpska,13.2
+2004,Number per 1000 population,Brčko District of BiH,10.5
+2005,Number per 1000 population,Brčko District of BiH,11.0
+2006,Number per 1000 population,Brčko District of BiH,9.8
+2007,Number per 1000 population,Brčko District of BiH,10.8
+2008,Number per 1000 population,Brčko District of BiH,11.8
+2009,Number per 1000 population,Brčko District of BiH,12.1
+2010,Number per 1000 population,Brčko District of BiH,12.0
+2011,Number per 1000 population,Brčko District of BiH,12.6
+2012,Number per 1000 population,Brčko District of BiH,12.2
+2013,Number per 1000 population,Brčko District of BiH,11.2
+2014,Number per 1000 population,Brčko District of BiH,12.0
+2015,Number per 1000 population,Brčko District of BiH,13.4
+2016,Number per 1000 population,Brčko District of BiH,11.9
+2017,Number per 1000 population,Brčko District of BiH,13.2
+2018,Number per 1000 population,Brčko District of BiH,12.4
+2019,Number per 1000 population,Brčko District of BiH,13.6

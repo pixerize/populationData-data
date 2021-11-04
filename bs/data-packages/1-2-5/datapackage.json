@@ -16,17 +16,24 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "AGE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "constraints": {
+              "enum": [
+                "13 - 14",
+                "15 - 19",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
                 "Federacija BiH",
+                "BiH",
                 "Republika Srpska",
                 "Brčko distrikt BiH",
                 ""
@@ -35,8 +42,13 @@
             "title": "Administrativna oblast"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

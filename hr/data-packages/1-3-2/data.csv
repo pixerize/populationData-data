@@ -1,85 +1,262 @@
-Year,UNIT_MEASURE,Tip odnosa zavisnosti,Spol,Administrativna oblast,Value
-1971,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,65.4
-1971,%,Ukupan omjer gospodarske potpore,M,BiH,67.9
-1971,%,Ukupan omjer gospodarske potpore,Ž,BiH,63.0
-1981,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,52.3
-1981,%,Ukupan omjer gospodarske potpore,M,BiH,53.0
-1981,%,Ukupan omjer gospodarske potpore,Ž,BiH,51.6
-1991,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,48.3
-1991,%,Ukupan omjer gospodarske potpore,M,BiH,46.8
-1991,%,Ukupan omjer gospodarske potpore,Ž,BiH,49.7
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,42.1
-2013,%,Ukupan omjer gospodarske potpore,M,BiH,39.2
-2013,%,Ukupan omjer gospodarske potpore,Ž,BiH,44.9
-1971,%,Omjer gospodarske potpore mladima,Oba spola,BiH,57.0
-1971,%,Omjer gospodarske potpore mladima,M,BiH,60.2
-1971,%,Omjer gospodarske potpore mladima,Ž,BiH,53.9
-1981,%,Omjer gospodarske potpore mladima,Oba spola,BiH,42.5
-1981,%,Omjer gospodarske potpore mladima,M,BiH,44.5
-1981,%,Omjer gospodarske potpore mladima,Ž,BiH,40.6
-1991,%,Omjer gospodarske potpore mladima,Oba spola,BiH,35.6
-1991,%,Omjer gospodarske potpore mladima,M,BiH,36.6
-1991,%,Omjer gospodarske potpore mladima,Ž,BiH,34.6
-2013,%,Omjer gospodarske potpore mladima,Oba spola,BiH,21.9
-2013,%,Omjer gospodarske potpore mladima,M,BiH,22.4
-2013,%,Omjer gospodarske potpore mladima,Ž,BiH,21.3
-1971,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,8.4
-1971,%,Omjer gospodarske potpore starijim osobama,M,BiH,7.7
-1971,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,9.1
-1981,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,9.8
-1981,%,Omjer gospodarske potpore starijim osobama,M,BiH,8.5
-1981,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,11.0
-1991,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,12.7
-1991,%,Omjer gospodarske potpore starijim osobama,M,BiH,10.1
-1991,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,15.2
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,20.2
-2013,%,Omjer gospodarske potpore starijim osobama,M,BiH,16.8
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,23.6
-1971,%,Omjer starijih i mladih,Oba spola,BiH,14.8
-1971,%,Omjer starijih i mladih,M,BiH,12.8
-1971,%,Omjer starijih i mladih,Ž,BiH,16.9
-1981,%,Omjer starijih i mladih,Oba spola,BiH,23.1
-1981,%,Omjer starijih i mladih,M,BiH,19.2
-1981,%,Omjer starijih i mladih,Ž,BiH,27.2
-1991,%,Omjer starijih i mladih,Oba spola,BiH,35.6
-1991,%,Omjer starijih i mladih,M,BiH,27.7
-1991,%,Omjer starijih i mladih,Ž,BiH,43.8
-2013,%,Omjer starijih i mladih,Oba spola,BiH,92.3
-2013,%,Omjer starijih i mladih,M,BiH,75.0
-2013,%,Omjer starijih i mladih,Ž,BiH,110.6
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Federacija BiH,40.8
-2013,%,Ukupan omjer gospodarske potpore,M,Federacija BiH,38.4
-2013,%,Ukupan omjer gospodarske potpore,Ž,Federacija BiH,43.1
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Federacija BiH,22.6
-2013,%,Omjer gospodarske potpore mladima,M,Federacija BiH,23.3
-2013,%,Omjer gospodarske potpore mladima,Ž,Federacija BiH,22.0
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Federacija BiH,18.1
-2013,%,Omjer gospodarske potpore starijim osobama,M,Federacija BiH,15.1
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Federacija BiH,21.1
-2013,%,Omjer starijih i mladih,Oba spola,Federacija BiH,80.1
-2013,%,Omjer starijih i mladih,M,Federacija BiH,65.0
-2013,%,Omjer starijih i mladih,Ž,Federacija BiH,96.1
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Republika Srpska,44.4
-2013,%,Ukupan omjer gospodarske potpore,M,Republika Srpska,40.6
-2013,%,Ukupan omjer gospodarske potpore,Ž,Republika Srpska,48.2
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Republika Srpska,20.4
-2013,%,Omjer gospodarske potpore mladima,M,Republika Srpska,20.8
-2013,%,Omjer gospodarske potpore mladima,Ž,Republika Srpska,20.1
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Republika Srpska,24.0
-2013,%,Omjer gospodarske potpore starijim osobama,M,Republika Srpska,19.8
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Republika Srpska,28.2
-2013,%,Omjer starijih i mladih,Oba spola,Republika Srpska,117.4
-2013,%,Omjer starijih i mladih,M,Republika Srpska,95.6
-2013,%,Omjer starijih i mladih,Ž,Republika Srpska,140.3
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Brčko distrikt BiH,43.3
-2013,%,Ukupan omjer gospodarske potpore,M,Brčko distrikt BiH,40.6
-2013,%,Ukupan omjer gospodarske potpore,Ž,Brčko distrikt BiH,46.0
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Brčko distrikt BiH,22.4
-2013,%,Omjer gospodarske potpore mladima,M,Brčko distrikt BiH,23.3
-2013,%,Omjer gospodarske potpore mladima,Ž,Brčko distrikt BiH,21.6
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Brčko distrikt BiH,20.8
-2013,%,Omjer gospodarske potpore starijim osobama,M,Brčko distrikt BiH,17.3
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Brčko distrikt BiH,24.4
-2013,%,Omjer starijih i mladih,Oba spola,Brčko distrikt BiH,92.8
-2013,%,Omjer starijih i mladih,M,Brčko distrikt BiH,74.5
-2013,%,Omjer starijih i mladih,Ž,Brčko distrikt BiH,112.7
+Year,Spol,Administrativna oblast,UNIT_MEASURE,Value
+1996,Oba spola,BiH,Broj,653
+1997,Oba spola,BiH,Broj,601
+1998,Oba spola,BiH,Broj,494
+1999,Oba spola,BiH,Broj,431
+2000,Oba spola,BiH,Broj,383
+2001,Oba spola,BiH,Broj,287
+2002,Oba spola,BiH,Broj,334
+2003,Oba spola,BiH,Broj,268
+2004,Oba spola,BiH,Broj,253
+2005,Oba spola,BiH,Broj,233
+2006,Oba spola,BiH,Broj,255
+2007,Oba spola,BiH,Broj,231
+2008,Oba spola,BiH,Broj,235
+2009,Oba spola,BiH,Broj,224
+2010,Oba spola,BiH,Broj,216
+2011,Oba spola,BiH,Broj,184
+2012,Oba spola,BiH,Broj,177
+2013,Oba spola,BiH,Broj,181
+2014,Oba spola,BiH,Broj,156
+2015,Oba spola,BiH,Broj,182
+2016,Oba spola,BiH,Broj,178
+2017,Oba spola,BiH,Broj,196
+2018,Oba spola,BiH,Broj,183
+2019,Oba spola,BiH,Broj,190
+1996,M,BiH,Broj,360
+1997,M,BiH,Broj,369
+1998,M,BiH,Broj,302
+1999,M,BiH,Broj,242
+2000,M,BiH,Broj,220
+2001,M,BiH,Broj,159
+2002,M,BiH,Broj,191
+2003,M,BiH,Broj,154
+2004,M,BiH,Broj,151
+2005,M,BiH,Broj,133
+2006,M,BiH,Broj,158
+2007,M,BiH,Broj,132
+2008,M,BiH,Broj,131
+2009,M,BiH,Broj,116
+2010,M,BiH,Broj,125
+2011,M,BiH,Broj,111
+2012,M,BiH,Broj,111
+2013,M,BiH,Broj,109
+2014,M,BiH,Broj,74
+2015,M,BiH,Broj,94
+2016,M,BiH,Broj,111
+2017,M,BiH,Broj,105
+2018,M,BiH,Broj,91
+2019,M,BiH,Broj,102
+1996,Ž,BiH,Broj,293
+1997,Ž,BiH,Broj,232
+1998,Ž,BiH,Broj,192
+1999,Ž,BiH,Broj,189
+2000,Ž,BiH,Broj,163
+2001,Ž,BiH,Broj,128
+2002,Ž,BiH,Broj,143
+2003,Ž,BiH,Broj,114
+2004,Ž,BiH,Broj,102
+2005,Ž,BiH,Broj,100
+2006,Ž,BiH,Broj,97
+2007,Ž,BiH,Broj,99
+2008,Ž,BiH,Broj,104
+2009,Ž,BiH,Broj,108
+2010,Ž,BiH,Broj,91
+2011,Ž,BiH,Broj,73
+2012,Ž,BiH,Broj,66
+2013,Ž,BiH,Broj,72
+2014,Ž,BiH,Broj,82
+2015,Ž,BiH,Broj,88
+2016,Ž,BiH,Broj,67
+2017,Ž,BiH,Broj,91
+2018,Ž,BiH,Broj,92
+2019,Ž,BiH,Broj,88
+1997,Oba spola,Federacija BiH,Broj,445
+1998,Oba spola,Federacija BiH,Broj,382
+1999,Oba spola,Federacija BiH,Broj,312
+2000,Oba spola,Federacija BiH,Broj,280
+2001,Oba spola,Federacija BiH,Broj,214
+2002,Oba spola,Federacija BiH,Broj,245
+2003,Oba spola,Federacija BiH,Broj,202
+2004,Oba spola,Federacija BiH,Broj,190
+2005,Oba spola,Federacija BiH,Broj,194
+2006,Oba spola,Federacija BiH,Broj,205
+2007,Oba spola,Federacija BiH,Broj,193
+2008,Oba spola,Federacija BiH,Broj,194
+2009,Oba spola,Federacija BiH,Broj,173
+2010,Oba spola,Federacija BiH,Broj,172
+2011,Oba spola,Federacija BiH,Broj,141
+2012,Oba spola,Federacija BiH,Broj,139
+2013,Oba spola,Federacija BiH,Broj,148
+2014,Oba spola,Federacija BiH,Broj,127
+2015,Oba spola,Federacija BiH,Broj,154
+2016,Oba spola,Federacija BiH,Broj,147
+2017,Oba spola,Federacija BiH,Broj,162
+2018,Oba spola,Federacija BiH,Broj,158
+2019,Oba spola,Federacija BiH,Broj,167
+1997,M,Federacija BiH,Broj,276
+1998,M,Federacija BiH,Broj,235
+1999,M,Federacija BiH,Broj,174
+2000,M,Federacija BiH,Broj,163
+2001,M,Federacija BiH,Broj,118
+2002,M,Federacija BiH,Broj,138
+2003,M,Federacija BiH,Broj,122
+2004,M,Federacija BiH,Broj,107
+2005,M,Federacija BiH,Broj,113
+2006,M,Federacija BiH,Broj,127
+2007,M,Federacija BiH,Broj,114
+2008,M,Federacija BiH,Broj,110
+2009,M,Federacija BiH,Broj,87
+2010,M,Federacija BiH,Broj,105
+2011,M,Federacija BiH,Broj,85
+2012,M,Federacija BiH,Broj,85
+2013,M,Federacija BiH,Broj,88
+2014,M,Federacija BiH,Broj,63
+2015,M,Federacija BiH,Broj,84
+2016,M,Federacija BiH,Broj,87
+2017,M,Federacija BiH,Broj,87
+2018,M,Federacija BiH,Broj,81
+2019,M,Federacija BiH,Broj,89
+1997,Ž,Federacija BiH,Broj,169
+1998,Ž,Federacija BiH,Broj,147
+1999,Ž,Federacija BiH,Broj,138
+2000,Ž,Federacija BiH,Broj,117
+2001,Ž,Federacija BiH,Broj,96
+2002,Ž,Federacija BiH,Broj,107
+2003,Ž,Federacija BiH,Broj,80
+2004,Ž,Federacija BiH,Broj,83
+2005,Ž,Federacija BiH,Broj,81
+2006,Ž,Federacija BiH,Broj,78
+2007,Ž,Federacija BiH,Broj,79
+2008,Ž,Federacija BiH,Broj,84
+2009,Ž,Federacija BiH,Broj,86
+2010,Ž,Federacija BiH,Broj,67
+2011,Ž,Federacija BiH,Broj,56
+2012,Ž,Federacija BiH,Broj,54
+2013,Ž,Federacija BiH,Broj,60
+2014,Ž,Federacija BiH,Broj,64
+2015,Ž,Federacija BiH,Broj,70
+2016,Ž,Federacija BiH,Broj,60
+2017,Ž,Federacija BiH,Broj,75
+2018,Ž,Federacija BiH,Broj,77
+2019,Ž,Federacija BiH,Broj,78
+1996,Oba spola,Republika Srpska,Broj,179
+1997,Oba spola,Republika Srpska,Broj,156
+1998,Oba spola,Republika Srpska,Broj,112
+1999,Oba spola,Republika Srpska,Broj,119
+2000,Oba spola,Republika Srpska,Broj,103
+2001,Oba spola,Republika Srpska,Broj,73
+2002,Oba spola,Republika Srpska,Broj,89
+2003,Oba spola,Republika Srpska,Broj,64
+2004,Oba spola,Republika Srpska,Broj,61
+2005,Oba spola,Republika Srpska,Broj,37
+2006,Oba spola,Republika Srpska,Broj,50
+2007,Oba spola,Republika Srpska,Broj,38
+2008,Oba spola,Republika Srpska,Broj,40
+2009,Oba spola,Republika Srpska,Broj,51
+2010,Oba spola,Republika Srpska,Broj,44
+2011,Oba spola,Republika Srpska,Broj,43
+2012,Oba spola,Republika Srpska,Broj,37
+2013,Oba spola,Republika Srpska,Broj,33
+2014,Oba spola,Republika Srpska,Broj,29
+2015,Oba spola,Republika Srpska,Broj,26
+2016,Oba spola,Republika Srpska,Broj,23
+2017,Oba spola,Republika Srpska,Broj,26
+2018,Oba spola,Republika Srpska,Broj,17
+2019,Oba spola,Republika Srpska,Broj,15
+1996,M,Republika Srpska,Broj,99
+1997,M,Republika Srpska,Broj,93
+1998,M,Republika Srpska,Broj,67
+1999,M,Republika Srpska,Broj,68
+2000,M,Republika Srpska,Broj,57
+2001,M,Republika Srpska,Broj,41
+2002,M,Republika Srpska,Broj,53
+2003,M,Republika Srpska,Broj,32
+2004,M,Republika Srpska,Broj,43
+2005,M,Republika Srpska,Broj,20
+2006,M,Republika Srpska,Broj,31
+2007,M,Republika Srpska,Broj,18
+2008,M,Republika Srpska,Broj,20
+2009,M,Republika Srpska,Broj,29
+2010,M,Republika Srpska,Broj,20
+2011,M,Republika Srpska,Broj,26
+2012,M,Republika Srpska,Broj,25
+2013,M,Republika Srpska,Broj,21
+2014,M,Republika Srpska,Broj,11
+2015,M,Republika Srpska,Broj,9
+2016,M,Republika Srpska,Broj,17
+2017,M,Republika Srpska,Broj,13
+2018,M,Republika Srpska,Broj,7
+2019,M,Republika Srpska,Broj,7
+1996,Ž,Republika Srpska,Broj,80
+1997,Ž,Republika Srpska,Broj,63
+1998,Ž,Republika Srpska,Broj,45
+1999,Ž,Republika Srpska,Broj,51
+2000,Ž,Republika Srpska,Broj,46
+2001,Ž,Republika Srpska,Broj,32
+2002,Ž,Republika Srpska,Broj,36
+2003,Ž,Republika Srpska,Broj,32
+2004,Ž,Republika Srpska,Broj,18
+2005,Ž,Republika Srpska,Broj,17
+2006,Ž,Republika Srpska,Broj,19
+2007,Ž,Republika Srpska,Broj,20
+2008,Ž,Republika Srpska,Broj,20
+2009,Ž,Republika Srpska,Broj,22
+2010,Ž,Republika Srpska,Broj,24
+2011,Ž,Republika Srpska,Broj,17
+2012,Ž,Republika Srpska,Broj,12
+2013,Ž,Republika Srpska,Broj,12
+2014,Ž,Republika Srpska,Broj,18
+2015,Ž,Republika Srpska,Broj,17
+2016,Ž,Republika Srpska,Broj,6
+2017,Ž,Republika Srpska,Broj,13
+2018,Ž,Republika Srpska,Broj,10
+2019,Ž,Republika Srpska,Broj,8
+2004,Oba spola,Brčko distrikt BiH,Broj,0
+2005,Oba spola,Brčko distrikt BiH,Broj,0
+2006,Oba spola,Brčko distrikt BiH,Broj,0
+2007,Oba spola,Brčko distrikt BiH,Broj,0
+2008,Oba spola,Brčko distrikt BiH,Broj,0
+2009,Oba spola,Brčko distrikt BiH,Broj,0
+2010,Oba spola,Brčko distrikt BiH,Broj,0
+2011,Oba spola,Brčko distrikt BiH,Broj,0
+2012,Oba spola,Brčko distrikt BiH,Broj,0
+2013,Oba spola,Brčko distrikt BiH,Broj,0
+2014,Oba spola,Brčko distrikt BiH,Broj,0
+2015,Oba spola,Brčko distrikt BiH,Broj,0
+2016,Oba spola,Brčko distrikt BiH,Broj,0
+2017,Oba spola,Brčko distrikt BiH,Broj,0
+2018,Oba spola,Brčko distrikt BiH,Broj,0
+2019,Oba spola,Brčko distrikt BiH,Broj,0
+2004,M,Brčko distrikt BiH,Broj,0
+2005,M,Brčko distrikt BiH,Broj,0
+2006,M,Brčko distrikt BiH,Broj,0
+2007,M,Brčko distrikt BiH,Broj,0
+2008,M,Brčko distrikt BiH,Broj,0
+2009,M,Brčko distrikt BiH,Broj,0
+2010,M,Brčko distrikt BiH,Broj,0
+2011,M,Brčko distrikt BiH,Broj,0
+2012,M,Brčko distrikt BiH,Broj,0
+2013,M,Brčko distrikt BiH,Broj,0
+2014,M,Brčko distrikt BiH,Broj,0
+2015,M,Brčko distrikt BiH,Broj,0
+2016,M,Brčko distrikt BiH,Broj,0
+2017,M,Brčko distrikt BiH,Broj,0
+2018,M,Brčko distrikt BiH,Broj,0
+2019,M,Brčko distrikt BiH,Broj,0
+2004,Ž,Brčko distrikt BiH,Broj,0
+2005,Ž,Brčko distrikt BiH,Broj,0
+2006,Ž,Brčko distrikt BiH,Broj,0
+2007,Ž,Brčko distrikt BiH,Broj,0
+2008,Ž,Brčko distrikt BiH,Broj,0
+2009,Ž,Brčko distrikt BiH,Broj,0
+2010,Ž,Brčko distrikt BiH,Broj,0
+2011,Ž,Brčko distrikt BiH,Broj,0
+2012,Ž,Brčko distrikt BiH,Broj,0
+2013,Ž,Brčko distrikt BiH,Broj,0
+2014,Ž,Brčko distrikt BiH,Broj,0
+2015,Ž,Brčko distrikt BiH,Broj,0
+2016,Ž,Brčko distrikt BiH,Broj,0
+2017,Ž,Brčko distrikt BiH,Broj,0
+2018,Ž,Brčko distrikt BiH,Broj,0
+2019,Ž,Brčko distrikt BiH,Broj,0

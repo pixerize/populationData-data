@@ -16,9 +16,16 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "SEX",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "ADMIN_AREA",
@@ -33,6 +40,11 @@
               ]
             },
             "title": "Administrativna oblast"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",

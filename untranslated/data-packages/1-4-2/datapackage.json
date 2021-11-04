@@ -19,11 +19,26 @@
             "type": "string"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "BiH",
+                "FBIH",
+                "RS",
+                "BD",
                 ""
               ]
             }

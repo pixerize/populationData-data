@@ -25,33 +25,6 @@
             "title": "Administrative area"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
-                "Total support ratio",
-                "Young-age support ratio"
-              ]
-            },
-            "title": "Type of dependency ratio"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

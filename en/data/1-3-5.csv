@@ -1,85 +1,233 @@
-Year,UNIT_MEASURE,Type of dependency ratio,Sex,Administrative area,Value
-1971,%,Total support ratio,Both sexes,BiH,65.4
-1971,%,Total support ratio,M,BiH,67.9
-1971,%,Total support ratio,F,BiH,63.0
-1981,%,Total support ratio,Both sexes,BiH,52.3
-1981,%,Total support ratio,M,BiH,53.0
-1981,%,Total support ratio,F,BiH,51.6
-1991,%,Total support ratio,Both sexes,BiH,48.3
-1991,%,Total support ratio,M,BiH,46.8
-1991,%,Total support ratio,F,BiH,49.7
-2013,%,Total support ratio,Both sexes,BiH,42.1
-2013,%,Total support ratio,M,BiH,39.2
-2013,%,Total support ratio,F,BiH,44.9
-1971,%,Young-age support ratio,Both sexes,BiH,57.0
-1971,%,Young-age support ratio,M,BiH,60.2
-1971,%,Young-age support ratio,F,BiH,53.9
-1981,%,Young-age support ratio,Both sexes,BiH,42.5
-1981,%,Young-age support ratio,M,BiH,44.5
-1981,%,Young-age support ratio,F,BiH,40.6
-1991,%,Young-age support ratio,Both sexes,BiH,35.6
-1991,%,Young-age support ratio,M,BiH,36.6
-1991,%,Young-age support ratio,F,BiH,34.6
-2013,%,Young-age support ratio,Both sexes,BiH,21.9
-2013,%,Young-age support ratio,M,BiH,22.4
-2013,%,Young-age support ratio,F,BiH,21.3
-1971,%,Old-age support ratio,Both sexes,BiH,8.4
-1971,%,Old-age support ratio,M,BiH,7.7
-1971,%,Old-age support ratio,F,BiH,9.1
-1981,%,Old-age support ratio,Both sexes,BiH,9.8
-1981,%,Old-age support ratio,M,BiH,8.5
-1981,%,Old-age support ratio,F,BiH,11.0
-1991,%,Old-age support ratio,Both sexes,BiH,12.7
-1991,%,Old-age support ratio,M,BiH,10.1
-1991,%,Old-age support ratio,F,BiH,15.2
-2013,%,Old-age support ratio,Both sexes,BiH,20.2
-2013,%,Old-age support ratio,M,BiH,16.8
-2013,%,Old-age support ratio,F,BiH,23.6
-1971,%,Older persons to youth ratio,Both sexes,BiH,14.8
-1971,%,Older persons to youth ratio,M,BiH,12.8
-1971,%,Older persons to youth ratio,F,BiH,16.9
-1981,%,Older persons to youth ratio,Both sexes,BiH,23.1
-1981,%,Older persons to youth ratio,M,BiH,19.2
-1981,%,Older persons to youth ratio,F,BiH,27.2
-1991,%,Older persons to youth ratio,Both sexes,BiH,35.6
-1991,%,Older persons to youth ratio,M,BiH,27.7
-1991,%,Older persons to youth ratio,F,BiH,43.8
-2013,%,Older persons to youth ratio,Both sexes,BiH,92.3
-2013,%,Older persons to youth ratio,M,BiH,75.0
-2013,%,Older persons to youth ratio,F,BiH,110.6
-2013,%,Total support ratio,Both sexes,Federation of BiH,40.8
-2013,%,Total support ratio,M,Federation of BiH,38.4
-2013,%,Total support ratio,F,Federation of BiH,43.1
-2013,%,Young-age support ratio,Both sexes,Federation of BiH,22.6
-2013,%,Young-age support ratio,M,Federation of BiH,23.3
-2013,%,Young-age support ratio,F,Federation of BiH,22.0
-2013,%,Old-age support ratio,Both sexes,Federation of BiH,18.1
-2013,%,Old-age support ratio,M,Federation of BiH,15.1
-2013,%,Old-age support ratio,F,Federation of BiH,21.1
-2013,%,Older persons to youth ratio,Both sexes,Federation of BiH,80.1
-2013,%,Older persons to youth ratio,M,Federation of BiH,65.0
-2013,%,Older persons to youth ratio,F,Federation of BiH,96.1
-2013,%,Total support ratio,Both sexes,Republika Srpska,44.4
-2013,%,Total support ratio,M,Republika Srpska,40.6
-2013,%,Total support ratio,F,Republika Srpska,48.2
-2013,%,Young-age support ratio,Both sexes,Republika Srpska,20.4
-2013,%,Young-age support ratio,M,Republika Srpska,20.8
-2013,%,Young-age support ratio,F,Republika Srpska,20.1
-2013,%,Old-age support ratio,Both sexes,Republika Srpska,24.0
-2013,%,Old-age support ratio,M,Republika Srpska,19.8
-2013,%,Old-age support ratio,F,Republika Srpska,28.2
-2013,%,Older persons to youth ratio,Both sexes,Republika Srpska,117.4
-2013,%,Older persons to youth ratio,M,Republika Srpska,95.6
-2013,%,Older persons to youth ratio,F,Republika Srpska,140.3
-2013,%,Total support ratio,Both sexes,Brčko District of BiH,43.3
-2013,%,Total support ratio,M,Brčko District of BiH,40.6
-2013,%,Total support ratio,F,Brčko District of BiH,46.0
-2013,%,Young-age support ratio,Both sexes,Brčko District of BiH,22.4
-2013,%,Young-age support ratio,M,Brčko District of BiH,23.3
-2013,%,Young-age support ratio,F,Brčko District of BiH,21.6
-2013,%,Old-age support ratio,Both sexes,Brčko District of BiH,20.8
-2013,%,Old-age support ratio,M,Brčko District of BiH,17.3
-2013,%,Old-age support ratio,F,Brčko District of BiH,24.4
-2013,%,Older persons to youth ratio,Both sexes,Brčko District of BiH,92.8
-2013,%,Older persons to youth ratio,M,Brčko District of BiH,74.5
-2013,%,Older persons to youth ratio,F,Brčko District of BiH,112.7
+Year,UNIT_MEASURE,Sex,Administrative area,Value
+2001,Number,M,BiH,98.0
+2002,Number,M,BiH,77.0
+2003,Number,M,BiH,91.0
+2004,Number,M,BiH,94.0
+2005,Number,M,BiH,85.0
+2006,Number,M,BiH,83.0
+2007,Number,M,BiH,98.0
+2008,Number,M,BiH,102.0
+2009,Number,M,BiH,80.0
+2010,Number,M,BiH,83.0
+2011,Number,M,BiH,57.0
+2012,Number,M,BiH,64.0
+2013,Number,M,BiH,45.0
+2014,Number,M,BiH,45.0
+2015,Number,M,BiH,56.0
+2016,Number,M,BiH,54.0
+2017,Number,M,BiH,51.0
+2018,Number,M,BiH,49.0
+2019,Number,M,BiH,40.0
+2001,Number,F,BiH,95.0
+2002,Number,F,BiH,61.0
+2003,Number,F,BiH,59.0
+2004,Number,F,BiH,74.0
+2005,Number,F,BiH,62.0
+2006,Number,F,BiH,54.0
+2007,Number,F,BiH,76.0
+2008,Number,F,BiH,69.0
+2009,Number,F,BiH,56.0
+2010,Number,F,BiH,60.0
+2011,Number,F,BiH,61.0
+2012,Number,F,BiH,56.0
+2013,Number,F,BiH,57.0
+2014,Number,F,BiH,32.0
+2015,Number,F,BiH,58.0
+2016,Number,F,BiH,56.0
+2017,Number,F,BiH,52.0
+2018,Number,F,BiH,39.0
+2019,Number,F,BiH,42.0
+1996,Number,Both sexes,BiH,271.0
+1997,Number,Both sexes,BiH,240.0
+1998,Number,Both sexes,BiH,202.0
+1999,Number,Both sexes,BiH,224.0
+2000,Number,Both sexes,BiH,159.0
+2001,Number,Both sexes,BiH,193.0
+2002,Number,Both sexes,BiH,138.0
+2003,Number,Both sexes,BiH,150.0
+2004,Number,Both sexes,BiH,168.0
+2005,Number,Both sexes,BiH,147.0
+2006,Number,Both sexes,BiH,137.0
+2007,Number,Both sexes,BiH,174.0
+2008,Number,Both sexes,BiH,171.0
+2009,Number,Both sexes,BiH,136.0
+2010,Number,Both sexes,BiH,143.0
+2011,Number,Both sexes,BiH,118.0
+2012,Number,Both sexes,BiH,120.0
+2013,Number,Both sexes,BiH,102.0
+2014,Number,Both sexes,BiH,77.0
+2015,Number,Both sexes,BiH,114.0
+2016,Number,Both sexes,BiH,110.0
+2017,Number,Both sexes,BiH,103.0
+2018,Number,Both sexes,BiH,88.0
+2019,Number,Both sexes,BiH,82.0
+1997,Number,M,Federation of BiH,98.0
+1998,Number,M,Federation of BiH,76.0
+1999,Number,M,Federation of BiH,88.0
+2000,Number,M,Federation of BiH,59.0
+2001,Number,M,Federation of BiH,60.0
+2002,Number,M,Federation of BiH,60.0
+2003,Number,M,Federation of BiH,72.0
+2004,Number,M,Federation of BiH,70.0
+2005,Number,M,Federation of BiH,69.0
+2006,Number,M,Federation of BiH,62.0
+2007,Number,M,Federation of BiH,73.0
+2008,Number,M,Federation of BiH,79.0
+2009,Number,M,Federation of BiH,52.0
+2010,Number,M,Federation of BiH,55.0
+2011,Number,M,Federation of BiH,39.0
+2012,Number,M,Federation of BiH,36.0
+2013,Number,M,Federation of BiH,27.0
+2014,Number,M,Federation of BiH,32.0
+2015,Number,M,Federation of BiH,48.0
+2016,Number,M,Federation of BiH,54.0
+2017,Number,M,Federation of BiH,41.0
+2018,Number,M,Federation of BiH,37.0
+2019,Number,M,Federation of BiH,36.0
+1997,Number,F,Federation of BiH,69.0
+1998,Number,F,Federation of BiH,70.0
+1999,Number,F,Federation of BiH,66.0
+2000,Number,F,Federation of BiH,48.0
+2001,Number,F,Federation of BiH,56.0
+2002,Number,F,Federation of BiH,38.0
+2003,Number,F,Federation of BiH,37.0
+2004,Number,F,Federation of BiH,53.0
+2005,Number,F,Federation of BiH,41.0
+2006,Number,F,Federation of BiH,43.0
+2007,Number,F,Federation of BiH,57.0
+2008,Number,F,Federation of BiH,50.0
+2009,Number,F,Federation of BiH,38.0
+2010,Number,F,Federation of BiH,30.0
+2011,Number,F,Federation of BiH,37.0
+2012,Number,F,Federation of BiH,32.0
+2013,Number,F,Federation of BiH,33.0
+2014,Number,F,Federation of BiH,21.0
+2015,Number,F,Federation of BiH,49.0
+2016,Number,F,Federation of BiH,41.0
+2017,Number,F,Federation of BiH,43.0
+2018,Number,F,Federation of BiH,31.0
+2019,Number,F,Federation of BiH,33.0
+1997,Number,Both sexes,Federation of BiH,167.0
+1998,Number,Both sexes,Federation of BiH,146.0
+1999,Number,Both sexes,Federation of BiH,154.0
+2000,Number,Both sexes,Federation of BiH,107.0
+2001,Number,Both sexes,Federation of BiH,116.0
+2002,Number,Both sexes,Federation of BiH,98.0
+2003,Number,Both sexes,Federation of BiH,109.0
+2004,Number,Both sexes,Federation of BiH,123.0
+2005,Number,Both sexes,Federation of BiH,110.0
+2006,Number,Both sexes,Federation of BiH,105.0
+2007,Number,Both sexes,Federation of BiH,130.0
+2008,Number,Both sexes,Federation of BiH,129.0
+2009,Number,Both sexes,Federation of BiH,90.0
+2010,Number,Both sexes,Federation of BiH,85.0
+2011,Number,Both sexes,Federation of BiH,76.0
+2012,Number,Both sexes,Federation of BiH,68.0
+2013,Number,Both sexes,Federation of BiH,60.0
+2014,Number,Both sexes,Federation of BiH,53.0
+2015,Number,Both sexes,Federation of BiH,97.0
+2016,Number,Both sexes,Federation of BiH,95.0
+2017,Number,Both sexes,Federation of BiH,84.0
+2018,Number,Both sexes,Federation of BiH,68.0
+2019,Number,Both sexes,Federation of BiH,69.0
+1997,Number,M,Republika Srpska,38.0
+1998,Number,M,Republika Srpska,19.0
+1999,Number,M,Republika Srpska,39.0
+2000,Number,M,Republika Srpska,27.0
+2001,Number,M,Republika Srpska,38.0
+2002,Number,M,Republika Srpska,17.0
+2003,Number,M,Republika Srpska,17.0
+2004,Number,M,Republika Srpska,19.0
+2005,Number,M,Republika Srpska,20.0
+2006,Number,M,Republika Srpska,20.0
+2007,Number,M,Republika Srpska,23.0
+2008,Number,M,Republika Srpska,20.0
+2009,Number,M,Republika Srpska,21.0
+2010,Number,M,Republika Srpska,23.0
+2011,Number,M,Republika Srpska,12.0
+2012,Number,M,Republika Srpska,24.0
+2013,Number,M,Republika Srpska,17.0
+2014,Number,M,Republika Srpska,13.0
+2015,Number,M,Republika Srpska,8.0
+2016,Number,M,Republika Srpska,5.0
+2017,Number,M,Republika Srpska,10.0
+2018,Number,M,Republika Srpska,11.0
+2019,Number,M,Republika Srpska,4.0
+1997,Number,F,Republika Srpska,39.0
+1998,Number,F,Republika Srpska,37.0
+1999,Number,F,Republika Srpska,31.0
+2000,Number,F,Republika Srpska,25.0
+2001,Number,F,Republika Srpska,39.0
+2002,Number,F,Republika Srpska,23.0
+2003,Number,F,Republika Srpska,20.0
+2004,Number,F,Republika Srpska,16.0
+2005,Number,F,Republika Srpska,20.0
+2006,Number,F,Republika Srpska,7.0
+2007,Number,F,Republika Srpska,16.0
+2008,Number,F,Republika Srpska,14.0
+2009,Number,F,Republika Srpska,11.0
+2010,Number,F,Republika Srpska,18.0
+2011,Number,F,Republika Srpska,17.0
+2012,Number,F,Republika Srpska,14.0
+2013,Number,F,Republika Srpska,20.0
+2014,Number,F,Republika Srpska,9.0
+2015,Number,F,Republika Srpska,9.0
+2016,Number,F,Republika Srpska,10.0
+2017,Number,F,Republika Srpska,7.0
+2018,Number,F,Republika Srpska,7.0
+2019,Number,F,Republika Srpska,9.0
+1997,Number,Both sexes,Republika Srpska,77.0
+1998,Number,Both sexes,Republika Srpska,56.0
+1999,Number,Both sexes,Republika Srpska,70.0
+2000,Number,Both sexes,Republika Srpska,52.0
+2001,Number,Both sexes,Republika Srpska,77.0
+2002,Number,Both sexes,Republika Srpska,40.0
+2003,Number,Both sexes,Republika Srpska,37.0
+2004,Number,Both sexes,Republika Srpska,35.0
+2005,Number,Both sexes,Republika Srpska,40.0
+2006,Number,Both sexes,Republika Srpska,27.0
+2007,Number,Both sexes,Republika Srpska,39.0
+2008,Number,Both sexes,Republika Srpska,34.0
+2009,Number,Both sexes,Republika Srpska,32.0
+2010,Number,Both sexes,Republika Srpska,41.0
+2011,Number,Both sexes,Republika Srpska,29.0
+2012,Number,Both sexes,Republika Srpska,38.0
+2013,Number,Both sexes,Republika Srpska,37.0
+2014,Number,Both sexes,Republika Srpska,22.0
+2015,Number,Both sexes,Republika Srpska,17.0
+2016,Number,Both sexes,Republika Srpska,15.0
+2017,Number,Both sexes,Republika Srpska,17.0
+2018,Number,Both sexes,Republika Srpska,18.0
+2019,Number,Both sexes,Republika Srpska,13.0
+2004,Number,M,Brčko District of BiH,4.0
+2006,Number,M,Brčko District of BiH,1.0
+2007,Number,M,Brčko District of BiH,1.0
+2008,Number,M,Brčko District of BiH,3.0
+2009,Number,M,Brčko District of BiH,6.0
+2010,Number,M,Brčko District of BiH,4.0
+2011,Number,M,Brčko District of BiH,5.0
+2012,Number,M,Brčko District of BiH,4.0
+2013,Number,M,Brčko District of BiH,1.0
+2014,Number,M,Brčko District of BiH,1.0
+2004,Number,F,Brčko District of BiH,6.0
+2005,Number,F,Brčko District of BiH,11.0
+2006,Number,F,Brčko District of BiH,4.0
+2007,Number,F,Brčko District of BiH,3.0
+2008,Number,F,Brčko District of BiH,5.0
+2009,Number,F,Brčko District of BiH,6.0
+2010,Number,F,Brčko District of BiH,11.0
+2011,Number,F,Brčko District of BiH,6.0
+2012,Number,F,Brčko District of BiH,9.0
+2013,Number,F,Brčko District of BiH,3.0
+2014,Number,F,Brčko District of BiH,1.0
+2004,Number,Both sexes,Brčko District of BiH,10.0
+2005,Number,Both sexes,Brčko District of BiH,11.0
+2006,Number,Both sexes,Brčko District of BiH,5.0
+2007,Number,Both sexes,Brčko District of BiH,4.0
+2008,Number,Both sexes,Brčko District of BiH,8.0
+2009,Number,Both sexes,Brčko District of BiH,12.0
+2010,Number,Both sexes,Brčko District of BiH,15.0
+2011,Number,Both sexes,Brčko District of BiH,11.0
+2012,Number,Both sexes,Brčko District of BiH,13.0
+2013,Number,Both sexes,Brčko District of BiH,4.0
+2014,Number,Both sexes,Brčko District of BiH,2.0

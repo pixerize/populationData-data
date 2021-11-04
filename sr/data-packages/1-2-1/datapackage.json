@@ -21,19 +21,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
@@ -48,21 +35,8 @@
             "title": "Административно подручје"
           },
           {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Живорођени",
-                "Смртни случајеви",
-                "Природно кретање",
-                ""
-              ]
-            },
-            "title": "Витална статистика"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

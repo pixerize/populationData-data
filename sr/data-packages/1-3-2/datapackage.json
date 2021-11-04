@@ -16,25 +16,6 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупан омјер економске подршке",
-                "Омјер економске подршке младима",
-                "Омјер економске подршке старијим лицима",
-                "Омјер старијих и младих",
-                ""
-              ]
-            },
-            "title": "Тип односа зависности"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -62,8 +43,13 @@
             "title": "Административно подручје"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

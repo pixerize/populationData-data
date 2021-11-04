@@ -11,23 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Age"
+            "title": "Administrative area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
