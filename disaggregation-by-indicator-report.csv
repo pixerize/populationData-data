@@ -113,4 +113,4 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-3,"SEX, UNIT_MEASURE, AGE",3
 #7-2-1,"ADMIN_AREA, UNIT_MEASURE",2
 #7-2-2,"SEX, ADMIN_AREA, UNIT_MEASURE",3
-#8-1-1,"ADMIN_AREA, UNIT_MEASURE, AGE",3
+#8-1-1,"UNIT_MEASURE, AGE",2
