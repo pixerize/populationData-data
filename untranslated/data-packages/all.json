@@ -701,19 +701,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                "BiH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
