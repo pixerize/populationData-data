@@ -4555,9 +4555,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
                 ""
               ]
             },
