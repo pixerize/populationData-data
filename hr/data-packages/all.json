@@ -3611,20 +3611,6 @@
             "title": "Spol"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {

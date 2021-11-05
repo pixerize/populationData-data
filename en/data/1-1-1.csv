@@ -1,624 +1,169 @@
-Year,UNIT_MEASURE,Sex,Administrative area,Vital statistics,Value
-1996,Number,Both sexes,BiH,Live births,46594
-1997,Number,Both sexes,BiH,Live births,48397
-1998,Number,Both sexes,BiH,Live births,45007
-1999,Number,Both sexes,BiH,Live births,42464
-2000,Number,Both sexes,BiH,Live births,39563
-2001,Number,Both sexes,BiH,Live births,37717
-2002,Number,Both sexes,BiH,Live births,35587
-2003,Number,Both sexes,BiH,Live births,35234
-2004,Number,Both sexes,BiH,Live births,35151
-2005,Number,Both sexes,BiH,Live births,34627
-2006,Number,Both sexes,BiH,Live births,34033
-2007,Number,Both sexes,BiH,Live births,33835
-2008,Number,Both sexes,BiH,Live births,34176
-2009,Number,Both sexes,BiH,Live births,34550
-2010,Number,Both sexes,BiH,Live births,33528
-2011,Number,Both sexes,BiH,Live births,31811
-2012,Number,Both sexes,BiH,Live births,32547
-2013,Number,Both sexes,BiH,Live births,30684
-2014,Number,Both sexes,BiH,Live births,30268
-2015,Number,Both sexes,BiH,Live births,29770
-2016,Number,Both sexes,BiH,Live births,30183
-2017,Number,Both sexes,BiH,Live births,30200
-2018,Number,Both sexes,BiH,Live births,29467
-2019,Number,Both sexes,BiH,Live births,28360
-1996,Number,M,BiH,Live births,24398
-1997,Number,M,BiH,Live births,25297
-1998,Number,M,BiH,Live births,23425
-1999,Number,M,BiH,Live births,21636
-2000,Number,M,BiH,Live births,20407
-2001,Number,M,BiH,Live births,19400
-2002,Number,M,BiH,Live births,18297
-2003,Number,M,BiH,Live births,18330
-2004,Number,M,BiH,Live births,18133
-2005,Number,M,BiH,Live births,17797
-2006,Number,M,BiH,Live births,17547
-2007,Number,M,BiH,Live births,17534
-2008,Number,M,BiH,Live births,17585
-2009,Number,M,BiH,Live births,18001
-2010,Number,M,BiH,Live births,17277
-2011,Number,M,BiH,Live births,16531
-2012,Number,M,BiH,Live births,16790
-2013,Number,M,BiH,Live births,15835
-2014,Number,M,BiH,Live births,15597
-2015,Number,M,BiH,Live births,15308
-2016,Number,M,BiH,Live births,15716
-2017,Number,M,BiH,Live births,15674
-2018,Number,M,BiH,Live births,15268
-2019,Number,M,BiH,Live births,14806
-1996,Number,F,BiH,Live births,22196
-1997,Number,F,BiH,Live births,23100
-1998,Number,F,BiH,Live births,21582
-1999,Number,F,BiH,Live births,20828
-2000,Number,F,BiH,Live births,19156
-2001,Number,F,BiH,Live births,18317
-2002,Number,F,BiH,Live births,17290
-2003,Number,F,BiH,Live births,16904
-2004,Number,F,BiH,Live births,17018
-2005,Number,F,BiH,Live births,16830
-2006,Number,F,BiH,Live births,16486
-2007,Number,F,BiH,Live births,16301
-2008,Number,F,BiH,Live births,16591
-2009,Number,F,BiH,Live births,16549
-2010,Number,F,BiH,Live births,16251
-2011,Number,F,BiH,Live births,15280
-2012,Number,F,BiH,Live births,15757
-2013,Number,F,BiH,Live births,14849
-2014,Number,F,BiH,Live births,14671
-2015,Number,F,BiH,Live births,14462
-2016,Number,F,BiH,Live births,14467
-2017,Number,F,BiH,Live births,14526
-2018,Number,F,BiH,Live births,14199
-2019,Number,F,BiH,Live births,13554
-1996,Number,Both sexes,BiH,Deaths,25152
-1997,Number,Both sexes,BiH,Deaths,27875
-1998,Number,Both sexes,BiH,Deaths,28679
-1999,Number,Both sexes,BiH,Deaths,28637
-2000,Number,Both sexes,BiH,Deaths,30482
-2001,Number,Both sexes,BiH,Deaths,30325
-2002,Number,Both sexes,BiH,Deaths,30155
-2003,Number,Both sexes,BiH,Deaths,31757
-2004,Number,Both sexes,BiH,Deaths,32616
-2005,Number,Both sexes,BiH,Deaths,34402
-2006,Number,Both sexes,BiH,Deaths,33221
-2007,Number,Both sexes,BiH,Deaths,35044
-2008,Number,Both sexes,BiH,Deaths,34026
-2009,Number,Both sexes,BiH,Deaths,34904
-2010,Number,Both sexes,BiH,Deaths,35118
-2011,Number,Both sexes,BiH,Deaths,35028
-2012,Number,Both sexes,BiH,Deaths,35817
-2013,Number,Both sexes,BiH,Deaths,35662
-2014,Number,Both sexes,BiH,Deaths,35980
-2015,Number,Both sexes,BiH,Deaths,38150
-2016,Number,Both sexes,BiH,Deaths,36571
-2017,Number,Both sexes,BiH,Deaths,37979
-2018,Number,Both sexes,BiH,Deaths,37744
-2019,Number,Both sexes,BiH,Deaths,38829
-1996,Number,M,BiH,Deaths,13952
-1997,Number,M,BiH,Deaths,15184
-1998,Number,M,BiH,Deaths,15303
-1999,Number,M,BiH,Deaths,15161
-2000,Number,M,BiH,Deaths,16058
-2001,Number,M,BiH,Deaths,16202
-2002,Number,M,BiH,Deaths,15647
-2003,Number,M,BiH,Deaths,16590
-2004,Number,M,BiH,Deaths,16780
-2005,Number,M,BiH,Deaths,18018
-2006,Number,M,BiH,Deaths,17308
-2007,Number,M,BiH,Deaths,18154
-2008,Number,M,BiH,Deaths,17687
-2009,Number,M,BiH,Deaths,17884
-2010,Number,M,BiH,Deaths,17900
-2011,Number,M,BiH,Deaths,17965
-2012,Number,M,BiH,Deaths,18436
-2013,Number,M,BiH,Deaths,18217
-2014,Number,M,BiH,Deaths,18360
-2015,Number,M,BiH,Deaths,19219
-2016,Number,M,BiH,Deaths,18542
-2017,Number,M,BiH,Deaths,19186
-2018,Number,M,BiH,Deaths,19007
-2019,Number,M,BiH,Deaths,19042
-1996,Number,F,BiH,Deaths,11200
-1997,Number,F,BiH,Deaths,12691
-1998,Number,F,BiH,Deaths,13376
-1999,Number,F,BiH,Deaths,13476
-2000,Number,F,BiH,Deaths,14424
-2001,Number,F,BiH,Deaths,14123
-2002,Number,F,BiH,Deaths,14508
-2003,Number,F,BiH,Deaths,15167
-2004,Number,F,BiH,Deaths,15836
-2005,Number,F,BiH,Deaths,16384
-2006,Number,F,BiH,Deaths,15913
-2007,Number,F,BiH,Deaths,16890
-2008,Number,F,BiH,Deaths,16339
-2009,Number,F,BiH,Deaths,17020
-2010,Number,F,BiH,Deaths,17218
-2011,Number,F,BiH,Deaths,17063
-2012,Number,F,BiH,Deaths,17381
-2013,Number,F,BiH,Deaths,17445
-2014,Number,F,BiH,Deaths,17620
-2015,Number,F,BiH,Deaths,18931
-2016,Number,F,BiH,Deaths,18029
-2017,Number,F,BiH,Deaths,18793
-2018,Number,F,BiH,Deaths,18737
-2019,Number,F,BiH,Deaths,19787
-1996,Number,Both sexes,BiH,Natural change,21442
-1997,Number,Both sexes,BiH,Natural change,20522
-1998,Number,Both sexes,BiH,Natural change,16328
-1999,Number,Both sexes,BiH,Natural change,13827
-2000,Number,Both sexes,BiH,Natural change,9081
-2001,Number,Both sexes,BiH,Natural change,7392
-2002,Number,Both sexes,BiH,Natural change,5432
-2003,Number,Both sexes,BiH,Natural change,3477
-2004,Number,Both sexes,BiH,Natural change,2535
-2005,Number,Both sexes,BiH,Natural change,225
-2006,Number,Both sexes,BiH,Natural change,812
-2007,Number,Both sexes,BiH,Natural change,-1209
-2008,Number,Both sexes,BiH,Natural change,150
-2009,Number,Both sexes,BiH,Natural change,-354
-2010,Number,Both sexes,BiH,Natural change,-1590
-2011,Number,Both sexes,BiH,Natural change,-3217
-2012,Number,Both sexes,BiH,Natural change,-3270
-2013,Number,Both sexes,BiH,Natural change,-4978
-2014,Number,Both sexes,BiH,Natural change,-5712
-2015,Number,Both sexes,BiH,Natural change,-8380
-2016,Number,Both sexes,BiH,Natural change,-6388
-2017,Number,Both sexes,BiH,Natural change,-7779
-2018,Number,Both sexes,BiH,Natural change,-8277
-2019,Number,Both sexes,BiH,Natural change,-10469
-1997,Number,Both sexes,Federation of BiH,Live births,34304
-1998,Number,Both sexes,Federation of BiH,Live births,31480
-1999,Number,Both sexes,Federation of BiH,Live births,27964
-2000,Number,Both sexes,Federation of BiH,Live births,25372
-2001,Number,Both sexes,Federation of BiH,Live births,24018
-2002,Number,Both sexes,Federation of BiH,Live births,23251
-2003,Number,Both sexes,Federation of BiH,Live births,23168
-2004,Number,Both sexes,Federation of BiH,Live births,22250
-2005,Number,Both sexes,Federation of BiH,Live births,21934
-2006,Number,Both sexes,Federation of BiH,Live births,21602
-2007,Number,Both sexes,Federation of BiH,Live births,21715
-2008,Number,Both sexes,Federation of BiH,Live births,22920
-2009,Number,Both sexes,Federation of BiH,Live births,22913
-2010,Number,Both sexes,Federation of BiH,Live births,22382
-2011,Number,Both sexes,Federation of BiH,Live births,21228
-2012,Number,Both sexes,Federation of BiH,Live births,21472
-2013,Number,Both sexes,Federation of BiH,Live births,20145
-2014,Number,Both sexes,Federation of BiH,Live births,19880
-2015,Number,Both sexes,Federation of BiH,Live births,19358
-2016,Number,Both sexes,Federation of BiH,Live births,19655
-2017,Number,Both sexes,Federation of BiH,Live births,19824
-2018,Number,Both sexes,Federation of BiH,Live births,18899
-2019,Number,Both sexes,Federation of BiH,Live births,18019
-1997,Number,M,Federation of BiH,Live births,17961
-1998,Number,M,Federation of BiH,Live births,16344
-1999,Number,M,Federation of BiH,Live births,14242
-2000,Number,M,Federation of BiH,Live births,13088
-2001,Number,M,Federation of BiH,Live births,12347
-2002,Number,M,Federation of BiH,Live births,11932
-2003,Number,M,Federation of BiH,Live births,12083
-2004,Number,M,Federation of BiH,Live births,11476
-2005,Number,M,Federation of BiH,Live births,11287
-2006,Number,M,Federation of BiH,Live births,11207
-2007,Number,M,Federation of BiH,Live births,11293
-2008,Number,M,Federation of BiH,Live births,11730
-2009,Number,M,Federation of BiH,Live births,11876
-2010,Number,M,Federation of BiH,Live births,11561
-2011,Number,M,Federation of BiH,Live births,11014
-2012,Number,M,Federation of BiH,Live births,11154
-2013,Number,M,Federation of BiH,Live births,10391
-2014,Number,M,Federation of BiH,Live births,10185
-2015,Number,M,Federation of BiH,Live births,9884
-2016,Number,M,Federation of BiH,Live births,10214
-2017,Number,M,Federation of BiH,Live births,10247
-2018,Number,M,Federation of BiH,Live births,9742
-2019,Number,M,Federation of BiH,Live births,9342
-1997,Number,F,Federation of BiH,Live births,16343
-1998,Number,F,Federation of BiH,Live births,15136
-1999,Number,F,Federation of BiH,Live births,13722
-2000,Number,F,Federation of BiH,Live births,12284
-2001,Number,F,Federation of BiH,Live births,11671
-2002,Number,F,Federation of BiH,Live births,11319
-2003,Number,F,Federation of BiH,Live births,11085
-2004,Number,F,Federation of BiH,Live births,10774
-2005,Number,F,Federation of BiH,Live births,10647
-2006,Number,F,Federation of BiH,Live births,10395
-2007,Number,F,Federation of BiH,Live births,10422
-2008,Number,F,Federation of BiH,Live births,11190
-2009,Number,F,Federation of BiH,Live births,11037
-2010,Number,F,Federation of BiH,Live births,10821
-2011,Number,F,Federation of BiH,Live births,10214
-2012,Number,F,Federation of BiH,Live births,10318
-2013,Number,F,Federation of BiH,Live births,9754
-2014,Number,F,Federation of BiH,Live births,9695
-2015,Number,F,Federation of BiH,Live births,9474
-2016,Number,F,Federation of BiH,Live births,9441
-2017,Number,F,Federation of BiH,Live births,9577
-2018,Number,F,Federation of BiH,Live births,9157
-2019,Number,F,Federation of BiH,Live births,8677
-1997,Number,Both sexes,Federation of BiH,Deaths,14703
-1998,Number,Both sexes,Federation of BiH,Deaths,15311
-1999,Number,Both sexes,Federation of BiH,Deaths,15516
-2000,Number,Both sexes,Federation of BiH,Deaths,16985
-2001,Number,Both sexes,Federation of BiH,Deaths,16756
-2002,Number,Both sexes,Federation of BiH,Deaths,16988
-2003,Number,Both sexes,Federation of BiH,Deaths,18049
-2004,Number,Both sexes,Federation of BiH,Deaths,18122
-2005,Number,Both sexes,Federation of BiH,Deaths,19099
-2006,Number,Both sexes,Federation of BiH,Deaths,18497
-2007,Number,Both sexes,Federation of BiH,Deaths,19280
-2008,Number,Both sexes,Federation of BiH,Deaths,19306
-2009,Number,Both sexes,Federation of BiH,Deaths,19829
-2010,Number,Both sexes,Federation of BiH,Deaths,20256
-2011,Number,Both sexes,Federation of BiH,Deaths,19979
-2012,Number,Both sexes,Federation of BiH,Deaths,20621
-2013,Number,Both sexes,Federation of BiH,Deaths,20269
-2014,Number,Both sexes,Federation of BiH,Deaths,20030
-2015,Number,Both sexes,Federation of BiH,Deaths,21474
-2016,Number,Both sexes,Federation of BiH,Deaths,21105
-2017,Number,Both sexes,Federation of BiH,Deaths,21689
-2018,Number,Both sexes,Federation of BiH,Deaths,21442
-2019,Number,Both sexes,Federation of BiH,Deaths,22024
-1997,Number,M,Federation of BiH,Deaths,7908
-1998,Number,M,Federation of BiH,Deaths,8216
-1999,Number,M,Federation of BiH,Deaths,8194
-2000,Number,M,Federation of BiH,Deaths,8917
-2001,Number,M,Federation of BiH,Deaths,8830
-2002,Number,M,Federation of BiH,Deaths,8757
-2003,Number,M,Federation of BiH,Deaths,9344
-2004,Number,M,Federation of BiH,Deaths,9258
-2005,Number,M,Federation of BiH,Deaths,9934
-2006,Number,M,Federation of BiH,Deaths,9538
-2007,Number,M,Federation of BiH,Deaths,9921
-2008,Number,M,Federation of BiH,Deaths,9982
-2009,Number,M,Federation of BiH,Deaths,10077
-2010,Number,M,Federation of BiH,Deaths,10220
-2011,Number,M,Federation of BiH,Deaths,10234
-2012,Number,M,Federation of BiH,Deaths,10599
-2013,Number,M,Federation of BiH,Deaths,10250
-2014,Number,M,Federation of BiH,Deaths,10184
-2015,Number,M,Federation of BiH,Deaths,10722
-2016,Number,M,Federation of BiH,Deaths,10538
-2017,Number,M,Federation of BiH,Deaths,10979
-2018,Number,M,Federation of BiH,Deaths,10756
-2019,Number,M,Federation of BiH,Deaths,11140
-1997,Number,F,Federation of BiH,Deaths,6795
-1998,Number,F,Federation of BiH,Deaths,7095
-1999,Number,F,Federation of BiH,Deaths,7322
-2000,Number,F,Federation of BiH,Deaths,8068
-2001,Number,F,Federation of BiH,Deaths,7926
-2002,Number,F,Federation of BiH,Deaths,8231
-2003,Number,F,Federation of BiH,Deaths,8705
-2004,Number,F,Federation of BiH,Deaths,8864
-2005,Number,F,Federation of BiH,Deaths,9165
-2006,Number,F,Federation of BiH,Deaths,8959
-2007,Number,F,Federation of BiH,Deaths,9359
-2008,Number,F,Federation of BiH,Deaths,9324
-2009,Number,F,Federation of BiH,Deaths,9752
-2010,Number,F,Federation of BiH,Deaths,10036
-2011,Number,F,Federation of BiH,Deaths,9745
-2012,Number,F,Federation of BiH,Deaths,10022
-2013,Number,F,Federation of BiH,Deaths,10019
-2014,Number,F,Federation of BiH,Deaths,9846
-2015,Number,F,Federation of BiH,Deaths,10752
-2016,Number,F,Federation of BiH,Deaths,10567
-2017,Number,F,Federation of BiH,Deaths,10710
-2018,Number,F,Federation of BiH,Deaths,10686
-2019,Number,F,Federation of BiH,Deaths,10884
-1997,Number,Both sexes,Federation of BiH,Natural change,19601
-1998,Number,Both sexes,Federation of BiH,Natural change,16169
-1999,Number,Both sexes,Federation of BiH,Natural change,12448
-2000,Number,Both sexes,Federation of BiH,Natural change,8387
-2001,Number,Both sexes,Federation of BiH,Natural change,7262
-2002,Number,Both sexes,Federation of BiH,Natural change,6263
-2003,Number,Both sexes,Federation of BiH,Natural change,5119
-2004,Number,Both sexes,Federation of BiH,Natural change,4128
-2005,Number,Both sexes,Federation of BiH,Natural change,2835
-2006,Number,Both sexes,Federation of BiH,Natural change,3105
-2007,Number,Both sexes,Federation of BiH,Natural change,2435
-2008,Number,Both sexes,Federation of BiH,Natural change,3614
-2009,Number,Both sexes,Federation of BiH,Natural change,3084
-2010,Number,Both sexes,Federation of BiH,Natural change,2126
-2011,Number,Both sexes,Federation of BiH,Natural change,1249
-2012,Number,Both sexes,Federation of BiH,Natural change,851
-2013,Number,Both sexes,Federation of BiH,Natural change,-124
-2014,Number,Both sexes,Federation of BiH,Natural change,-150
-2015,Number,Both sexes,Federation of BiH,Natural change,-2116
-2016,Number,Both sexes,Federation of BiH,Natural change,-1450
-2017,Number,Both sexes,Federation of BiH,Natural change,-1865
-2018,Number,Both sexes,Federation of BiH,Natural change,-2543
-2019,Number,Both sexes,Federation of BiH,Natural change,-4005
-1996,Number,Both sexes,Republika Srpska,Live births,12263
-1997,Number,Both sexes,Republika Srpska,Live births,13757
-1998,Number,Both sexes,Republika Srpska,Live births,13527
-1999,Number,Both sexes,Republika Srpska,Live births,14500
-2000,Number,Both sexes,Republika Srpska,Live births,14191
-2001,Number,Both sexes,Republika Srpska,Live births,13699
-2002,Number,Both sexes,Republika Srpska,Live births,12336
-2003,Number,Both sexes,Republika Srpska,Live births,10537
-2004,Number,Both sexes,Republika Srpska,Live births,10628
-2005,Number,Both sexes,Republika Srpska,Live births,10322
-2006,Number,Both sexes,Republika Srpska,Live births,10524
-2007,Number,Both sexes,Republika Srpska,Live births,10110
-2008,Number,Both sexes,Republika Srpska,Live births,10198
-2009,Number,Both sexes,Republika Srpska,Live births,10603
-2010,Number,Both sexes,Republika Srpska,Live births,10147
-2011,Number,Both sexes,Republika Srpska,Live births,9561
-2012,Number,Both sexes,Republika Srpska,Live births,9978
-2013,Number,Both sexes,Republika Srpska,Live births,9510
-2014,Number,Both sexes,Republika Srpska,Live births,9335
-2015,Number,Both sexes,Republika Srpska,Live births,9357
-2016,Number,Both sexes,Republika Srpska,Live births,9452
-2017,Number,Both sexes,Republika Srpska,Live births,9339
-2018,Number,Both sexes,Republika Srpska,Live births,9568
-2019,Number,Both sexes,Republika Srpska,Live births,9274
-1996,Number,M,Republika Srpska,Live births,6368
-1997,Number,M,Republika Srpska,Live births,7176
-1998,Number,M,Republika Srpska,Live births,7081
-1999,Number,M,Republika Srpska,Live births,7394
-2000,Number,M,Republika Srpska,Live births,7319
-2001,Number,M,Republika Srpska,Live births,7053
-2002,Number,M,Republika Srpska,Live births,6365
-2003,Number,M,Republika Srpska,Live births,5450
-2004,Number,M,Republika Srpska,Live births,5515
-2005,Number,M,Republika Srpska,Live births,5302
-2006,Number,M,Republika Srpska,Live births,5351
-2007,Number,M,Republika Srpska,Live births,5203
-2008,Number,M,Republika Srpska,Live births,5262
-2009,Number,M,Republika Srpska,Live births,5577
-2010,Number,M,Republika Srpska,Live births,5184
-2011,Number,M,Republika Srpska,Live births,5008
-2012,Number,M,Republika Srpska,Live births,5089
-2013,Number,M,Republika Srpska,Live births,4907
-2014,Number,M,Republika Srpska,Live births,4846
-2015,Number,M,Republika Srpska,Live births,4842
-2016,Number,M,Republika Srpska,Live births,4931
-2017,Number,M,Republika Srpska,Live births,4886
-2018,Number,M,Republika Srpska,Live births,5001
-2019,Number,M,Republika Srpska,Live births,4907
-1996,Number,F,Republika Srpska,Live births,5895
-1997,Number,F,Republika Srpska,Live births,6581
-1998,Number,F,Republika Srpska,Live births,6446
-1999,Number,F,Republika Srpska,Live births,7106
-2000,Number,F,Republika Srpska,Live births,6872
-2001,Number,F,Republika Srpska,Live births,6646
-2002,Number,F,Republika Srpska,Live births,5971
-2003,Number,F,Republika Srpska,Live births,5087
-2004,Number,F,Republika Srpska,Live births,5113
-2005,Number,F,Republika Srpska,Live births,5020
-2006,Number,F,Republika Srpska,Live births,5173
-2007,Number,F,Republika Srpska,Live births,4907
-2008,Number,F,Republika Srpska,Live births,4936
-2009,Number,F,Republika Srpska,Live births,5026
-2010,Number,F,Republika Srpska,Live births,4963
-2011,Number,F,Republika Srpska,Live births,4553
-2012,Number,F,Republika Srpska,Live births,4889
-2013,Number,F,Republika Srpska,Live births,4603
-2014,Number,F,Republika Srpska,Live births,4489
-2015,Number,F,Republika Srpska,Live births,4515
-2016,Number,F,Republika Srpska,Live births,4521
-2017,Number,F,Republika Srpska,Live births,4453
-2018,Number,F,Republika Srpska,Live births,4567
-2019,Number,F,Republika Srpska,Live births,4367
-1996,Number,Both sexes,Republika Srpska,Deaths,10931
-1997,Number,Both sexes,Republika Srpska,Deaths,11755
-1998,Number,Both sexes,Republika Srpska,Deaths,12123
-1999,Number,Both sexes,Republika Srpska,Deaths,12152
-2000,Number,Both sexes,Republika Srpska,Deaths,12960
-2001,Number,Both sexes,Republika Srpska,Deaths,12932
-2002,Number,Both sexes,Republika Srpska,Deaths,12980
-2003,Number,Both sexes,Republika Srpska,Deaths,12988
-2004,Number,Both sexes,Republika Srpska,Deaths,13082
-2005,Number,Both sexes,Republika Srpska,Deaths,13802
-2006,Number,Both sexes,Republika Srpska,Deaths,13232
-2007,Number,Both sexes,Republika Srpska,Deaths,14146
-2008,Number,Both sexes,Republika Srpska,Deaths,13501
-2009,Number,Both sexes,Republika Srpska,Deaths,13775
-2010,Number,Both sexes,Republika Srpska,Deaths,13517
-2011,Number,Both sexes,Republika Srpska,Deaths,13658
-2012,Number,Both sexes,Republika Srpska,Deaths,13796
-2013,Number,Both sexes,Republika Srpska,Deaths,13978
-2014,Number,Both sexes,Republika Srpska,Deaths,14409
-2015,Number,Both sexes,Republika Srpska,Deaths,15059
-2016,Number,Both sexes,Republika Srpska,Deaths,13970
-2017,Number,Both sexes,Republika Srpska,Deaths,14663
-2018,Number,Both sexes,Republika Srpska,Deaths,14763
-2019,Number,Both sexes,Republika Srpska,Deaths,15081
-1996,Number,M,Republika Srpska,Deaths,6056
-1997,Number,M,Republika Srpska,Deaths,6495
-1998,Number,M,Republika Srpska,Deaths,6418
-1999,Number,M,Republika Srpska,Deaths,6462
-2000,Number,M,Republika Srpska,Deaths,6861
-2001,Number,M,Republika Srpska,Deaths,7026
-2002,Number,M,Republika Srpska,Deaths,6791
-2003,Number,M,Republika Srpska,Deaths,6804
-2004,Number,M,Republika Srpska,Deaths,6735
-2005,Number,M,Republika Srpska,Deaths,7239
-2006,Number,M,Republika Srpska,Deaths,6904
-2007,Number,M,Republika Srpska,Deaths,7302
-2008,Number,M,Republika Srpska,Deaths,7058
-2009,Number,M,Republika Srpska,Deaths,7099
-2010,Number,M,Republika Srpska,Deaths,6935
-2011,Number,M,Republika Srpska,Deaths,7001
-2012,Number,M,Republika Srpska,Deaths,7064
-2013,Number,M,Republika Srpska,Deaths,7237
-2014,Number,M,Republika Srpska,Deaths,7386
-2015,Number,M,Republika Srpska,Deaths,7640
-2016,Number,M,Republika Srpska,Deaths,7198
-2017,Number,M,Republika Srpska,Deaths,7363
-2018,Number,M,Republika Srpska,Deaths,7449
-2019,Number,M,Republika Srpska,Deaths,7753
-1996,Number,F,Republika Srpska,Deaths,4875
-1997,Number,F,Republika Srpska,Deaths,5260
-1998,Number,F,Republika Srpska,Deaths,5705
-1999,Number,F,Republika Srpska,Deaths,5690
-2000,Number,F,Republika Srpska,Deaths,6099
-2001,Number,F,Republika Srpska,Deaths,5906
-2002,Number,F,Republika Srpska,Deaths,6189
-2003,Number,F,Republika Srpska,Deaths,6184
-2004,Number,F,Republika Srpska,Deaths,6347
-2005,Number,F,Republika Srpska,Deaths,6563
-2006,Number,F,Republika Srpska,Deaths,6328
-2007,Number,F,Republika Srpska,Deaths,6844
-2008,Number,F,Republika Srpska,Deaths,6443
-2009,Number,F,Republika Srpska,Deaths,6676
-2010,Number,F,Republika Srpska,Deaths,6582
-2011,Number,F,Republika Srpska,Deaths,6657
-2012,Number,F,Republika Srpska,Deaths,6732
-2013,Number,F,Republika Srpska,Deaths,6741
-2014,Number,F,Republika Srpska,Deaths,7023
-2015,Number,F,Republika Srpska,Deaths,7419
-2016,Number,F,Republika Srpska,Deaths,6772
-2017,Number,F,Republika Srpska,Deaths,7300
-2018,Number,F,Republika Srpska,Deaths,7314
-2019,Number,F,Republika Srpska,Deaths,7328
-1996,Number,Both sexes,Republika Srpska,Natural change,1332
-1997,Number,Both sexes,Republika Srpska,Natural change,2002
-1998,Number,Both sexes,Republika Srpska,Natural change,1404
-1999,Number,Both sexes,Republika Srpska,Natural change,2348
-2000,Number,Both sexes,Republika Srpska,Natural change,1231
-2001,Number,Both sexes,Republika Srpska,Natural change,767
-2002,Number,Both sexes,Republika Srpska,Natural change,-644
-2003,Number,Both sexes,Republika Srpska,Natural change,-2451
-2004,Number,Both sexes,Republika Srpska,Natural change,-2454
-2005,Number,Both sexes,Republika Srpska,Natural change,-3480
-2006,Number,Both sexes,Republika Srpska,Natural change,-2708
-2007,Number,Both sexes,Republika Srpska,Natural change,-4036
-2008,Number,Both sexes,Republika Srpska,Natural change,-3303
-2009,Number,Both sexes,Republika Srpska,Natural change,-3172
-2010,Number,Both sexes,Republika Srpska,Natural change,-3370
-2011,Number,Both sexes,Republika Srpska,Natural change,-4097
-2012,Number,Both sexes,Republika Srpska,Natural change,-3818
-2013,Number,Both sexes,Republika Srpska,Natural change,-4468
-2014,Number,Both sexes,Republika Srpska,Natural change,-5074
-2015,Number,Both sexes,Republika Srpska,Natural change,-5702
-2016,Number,Both sexes,Republika Srpska,Natural change,-4518
-2017,Number,Both sexes,Republika Srpska,Natural change,-5324
-2018,Number,Both sexes,Republika Srpska,Natural change,-5195
-2019,Number,Both sexes,Republika Srpska,Natural change,-5807
-2002,Number,Both sexes,Brčko District of BiH,Live births,898
-2003,Number,Both sexes,Brčko District of BiH,Live births,987
-2004,Number,Both sexes,Brčko District of BiH,Live births,984
-2005,Number,Both sexes,Brčko District of BiH,Live births,977
-2006,Number,Both sexes,Brčko District of BiH,Live births,912
-2007,Number,Both sexes,Brčko District of BiH,Live births,976
-2008,Number,Both sexes,Brčko District of BiH,Live births,905
-2009,Number,Both sexes,Brčko District of BiH,Live births,933
-2010,Number,Both sexes,Brčko District of BiH,Live births,916
-2011,Number,Both sexes,Brčko District of BiH,Live births,905
-2012,Number,Both sexes,Brčko District of BiH,Live births,964
-2013,Number,Both sexes,Brčko District of BiH,Live births,896
-2014,Number,Both sexes,Brčko District of BiH,Live births,919
-2015,Number,Both sexes,Brčko District of BiH,Live births,932
-2016,Number,Both sexes,Brčko District of BiH,Live births,878
-2017,Number,Both sexes,Brčko District of BiH,Live births,898
-2018,Number,Both sexes,Brčko District of BiH,Live births,861
-2019,Number,Both sexes,Brčko District of BiH,Live births,899
-2002,Number,M,Brčko District of BiH,Live births,507
-2003,Number,M,Brčko District of BiH,Live births,501
-2004,Number,M,Brčko District of BiH,Live births,469
-2005,Number,M,Brčko District of BiH,Live births,506
-2006,Number,M,Brčko District of BiH,Live births,480
-2007,Number,M,Brčko District of BiH,Live births,504
-2008,Number,M,Brčko District of BiH,Live births,511
-2009,Number,M,Brčko District of BiH,Live births,496
-2010,Number,M,Brčko District of BiH,Live births,488
-2011,Number,M,Brčko District of BiH,Live births,448
-2012,Number,M,Brčko District of BiH,Live births,481
-2013,Number,M,Brčko District of BiH,Live births,476
-2014,Number,M,Brčko District of BiH,Live births,499
-2015,Number,M,Brčko District of BiH,Live births,514
-2016,Number,M,Brčko District of BiH,Live births,472
-2017,Number,M,Brčko District of BiH,Live births,472
-2018,Number,M,Brčko District of BiH,Live births,448
-2019,Number,M,Brčko District of BiH,Live births,456
-2002,Number,F,Brčko District of BiH,Live births,391
-2003,Number,F,Brčko District of BiH,Live births,486
-2004,Number,F,Brčko District of BiH,Live births,515
-2005,Number,F,Brčko District of BiH,Live births,471
-2006,Number,F,Brčko District of BiH,Live births,432
-2007,Number,F,Brčko District of BiH,Live births,472
-2008,Number,F,Brčko District of BiH,Live births,394
-2009,Number,F,Brčko District of BiH,Live births,437
-2010,Number,F,Brčko District of BiH,Live births,428
-2011,Number,F,Brčko District of BiH,Live births,457
-2012,Number,F,Brčko District of BiH,Live births,483
-2013,Number,F,Brčko District of BiH,Live births,420
-2014,Number,F,Brčko District of BiH,Live births,420
-2015,Number,F,Brčko District of BiH,Live births,418
-2016,Number,F,Brčko District of BiH,Live births,406
-2017,Number,F,Brčko District of BiH,Live births,426
-2018,Number,F,Brčko District of BiH,Live births,413
-2019,Number,F,Brčko District of BiH,Live births,443
-2002,Number,Both sexes,Brčko District of BiH,Deaths,676
-2003,Number,Both sexes,Brčko District of BiH,Deaths,771
-2004,Number,Both sexes,Brčko District of BiH,Deaths,791
-2005,Number,Both sexes,Brčko District of BiH,Deaths,830
-2006,Number,Both sexes,Brčko District of BiH,Deaths,742
-2007,Number,Both sexes,Brčko District of BiH,Deaths,818
-2008,Number,Both sexes,Brčko District of BiH,Deaths,890
-2009,Number,Both sexes,Brčko District of BiH,Deaths,912
-2010,Number,Both sexes,Brčko District of BiH,Deaths,906
-2011,Number,Both sexes,Brčko District of BiH,Deaths,954
-2012,Number,Both sexes,Brčko District of BiH,Deaths,923
-2013,Number,Both sexes,Brčko District of BiH,Deaths,936
-2014,Number,Both sexes,Brčko District of BiH,Deaths,1000
-2015,Number,Both sexes,Brčko District of BiH,Deaths,1114
-2016,Number,Both sexes,Brčko District of BiH,Deaths,990
-2017,Number,Both sexes,Brčko District of BiH,Deaths,1101
-2018,Number,Both sexes,Brčko District of BiH,Deaths,1032
-2019,Number,Both sexes,Brčko District of BiH,Deaths,1132
-2002,Number,M,Brčko District of BiH,Deaths,386
-2003,Number,M,Brčko District of BiH,Deaths,425
-2004,Number,M,Brčko District of BiH,Deaths,407
-2005,Number,M,Brčko District of BiH,Deaths,429
-2006,Number,M,Brčko District of BiH,Deaths,399
-2007,Number,M,Brčko District of BiH,Deaths,427
-2008,Number,M,Brčko District of BiH,Deaths,464
-2009,Number,M,Brčko District of BiH,Deaths,483
-2010,Number,M,Brčko District of BiH,Deaths,493
-2011,Number,M,Brčko District of BiH,Deaths,480
-2012,Number,M,Brčko District of BiH,Deaths,508
-2013,Number,M,Brčko District of BiH,Deaths,474
-2014,Number,M,Brčko District of BiH,Deaths,515
-2015,Number,M,Brčko District of BiH,Deaths,557
-2016,Number,M,Brčko District of BiH,Deaths,508
-2017,Number,M,Brčko District of BiH,Deaths,553
-2018,Number,M,Brčko District of BiH,Deaths,515
-2019,Number,M,Brčko District of BiH,Deaths,565
-2002,Number,F,Brčko District of BiH,Deaths,290
-2003,Number,F,Brčko District of BiH,Deaths,346
-2004,Number,F,Brčko District of BiH,Deaths,384
-2005,Number,F,Brčko District of BiH,Deaths,401
-2006,Number,F,Brčko District of BiH,Deaths,343
-2007,Number,F,Brčko District of BiH,Deaths,391
-2008,Number,F,Brčko District of BiH,Deaths,426
-2009,Number,F,Brčko District of BiH,Deaths,429
-2010,Number,F,Brčko District of BiH,Deaths,413
-2011,Number,F,Brčko District of BiH,Deaths,474
-2012,Number,F,Brčko District of BiH,Deaths,415
-2013,Number,F,Brčko District of BiH,Deaths,462
-2014,Number,F,Brčko District of BiH,Deaths,485
-2015,Number,F,Brčko District of BiH,Deaths,557
-2016,Number,F,Brčko District of BiH,Deaths,482
-2017,Number,F,Brčko District of BiH,Deaths,548
-2018,Number,F,Brčko District of BiH,Deaths,517
-2019,Number,F,Brčko District of BiH,Deaths,567
-2002,Number,Both sexes,Brčko District of BiH,Natural change,222
-2003,Number,Both sexes,Brčko District of BiH,Natural change,216
-2004,Number,Both sexes,Brčko District of BiH,Natural change,193
-2005,Number,Both sexes,Brčko District of BiH,Natural change,147
-2006,Number,Both sexes,Brčko District of BiH,Natural change,170
-2007,Number,Both sexes,Brčko District of BiH,Natural change,158
-2008,Number,Both sexes,Brčko District of BiH,Natural change,15
-2009,Number,Both sexes,Brčko District of BiH,Natural change,21
-2010,Number,Both sexes,Brčko District of BiH,Natural change,10
-2011,Number,Both sexes,Brčko District of BiH,Natural change,-49
-2012,Number,Both sexes,Brčko District of BiH,Natural change,41
-2013,Number,Both sexes,Brčko District of BiH,Natural change,-40
-2014,Number,Both sexes,Brčko District of BiH,Natural change,-81
-2015,Number,Both sexes,Brčko District of BiH,Natural change,-182
-2016,Number,Both sexes,Brčko District of BiH,Natural change,-112
-2017,Number,Both sexes,Brčko District of BiH,Natural change,-203
-2018,Number,Both sexes,Brčko District of BiH,Natural change,-171
-2019,Number,Both sexes,Brčko District of BiH,Natural change,-233
+Year,UNIT_MEASURE,Sex,Vital statistics,Value
+1996,Number,Both sexes,Live births,46594
+1997,Number,Both sexes,Live births,48397
+1998,Number,Both sexes,Live births,45007
+1999,Number,Both sexes,Live births,42464
+2000,Number,Both sexes,Live births,39563
+2001,Number,Both sexes,Live births,37717
+2002,Number,Both sexes,Live births,35587
+2003,Number,Both sexes,Live births,35234
+2004,Number,Both sexes,Live births,35151
+2005,Number,Both sexes,Live births,34627
+2006,Number,Both sexes,Live births,34033
+2007,Number,Both sexes,Live births,33835
+2008,Number,Both sexes,Live births,34176
+2009,Number,Both sexes,Live births,34550
+2010,Number,Both sexes,Live births,33528
+2011,Number,Both sexes,Live births,31811
+2012,Number,Both sexes,Live births,32547
+2013,Number,Both sexes,Live births,30684
+2014,Number,Both sexes,Live births,30268
+2015,Number,Both sexes,Live births,29770
+2016,Number,Both sexes,Live births,30183
+2017,Number,Both sexes,Live births,30200
+2018,Number,Both sexes,Live births,29467
+2019,Number,Both sexes,Live births,28360
+1996,Number,M,Live births,24398
+1997,Number,M,Live births,25297
+1998,Number,M,Live births,23425
+1999,Number,M,Live births,21636
+2000,Number,M,Live births,20407
+2001,Number,M,Live births,19400
+2002,Number,M,Live births,18297
+2003,Number,M,Live births,18330
+2004,Number,M,Live births,18133
+2005,Number,M,Live births,17797
+2006,Number,M,Live births,17547
+2007,Number,M,Live births,17534
+2008,Number,M,Live births,17585
+2009,Number,M,Live births,18001
+2010,Number,M,Live births,17277
+2011,Number,M,Live births,16531
+2012,Number,M,Live births,16790
+2013,Number,M,Live births,15835
+2014,Number,M,Live births,15597
+2015,Number,M,Live births,15308
+2016,Number,M,Live births,15716
+2017,Number,M,Live births,15674
+2018,Number,M,Live births,15268
+2019,Number,M,Live births,14806
+1996,Number,F,Live births,22196
+1997,Number,F,Live births,23100
+1998,Number,F,Live births,21582
+1999,Number,F,Live births,20828
+2000,Number,F,Live births,19156
+2001,Number,F,Live births,18317
+2002,Number,F,Live births,17290
+2003,Number,F,Live births,16904
+2004,Number,F,Live births,17018
+2005,Number,F,Live births,16830
+2006,Number,F,Live births,16486
+2007,Number,F,Live births,16301
+2008,Number,F,Live births,16591
+2009,Number,F,Live births,16549
+2010,Number,F,Live births,16251
+2011,Number,F,Live births,15280
+2012,Number,F,Live births,15757
+2013,Number,F,Live births,14849
+2014,Number,F,Live births,14671
+2015,Number,F,Live births,14462
+2016,Number,F,Live births,14467
+2017,Number,F,Live births,14526
+2018,Number,F,Live births,14199
+2019,Number,F,Live births,13554
+1996,Number,Both sexes,Deaths,25152
+1997,Number,Both sexes,Deaths,27875
+1998,Number,Both sexes,Deaths,28679
+1999,Number,Both sexes,Deaths,28637
+2000,Number,Both sexes,Deaths,30482
+2001,Number,Both sexes,Deaths,30325
+2002,Number,Both sexes,Deaths,30155
+2003,Number,Both sexes,Deaths,31757
+2004,Number,Both sexes,Deaths,32616
+2005,Number,Both sexes,Deaths,34402
+2006,Number,Both sexes,Deaths,33221
+2007,Number,Both sexes,Deaths,35044
+2008,Number,Both sexes,Deaths,34026
+2009,Number,Both sexes,Deaths,34904
+2010,Number,Both sexes,Deaths,35118
+2011,Number,Both sexes,Deaths,35028
+2012,Number,Both sexes,Deaths,35817
+2013,Number,Both sexes,Deaths,35662
+2014,Number,Both sexes,Deaths,35980
+2015,Number,Both sexes,Deaths,38150
+2016,Number,Both sexes,Deaths,36571
+2017,Number,Both sexes,Deaths,37979
+2018,Number,Both sexes,Deaths,37744
+2019,Number,Both sexes,Deaths,38829
+1996,Number,M,Deaths,13952
+1997,Number,M,Deaths,15184
+1998,Number,M,Deaths,15303
+1999,Number,M,Deaths,15161
+2000,Number,M,Deaths,16058
+2001,Number,M,Deaths,16202
+2002,Number,M,Deaths,15647
+2003,Number,M,Deaths,16590
+2004,Number,M,Deaths,16780
+2005,Number,M,Deaths,18018
+2006,Number,M,Deaths,17308
+2007,Number,M,Deaths,18154
+2008,Number,M,Deaths,17687
+2009,Number,M,Deaths,17884
+2010,Number,M,Deaths,17900
+2011,Number,M,Deaths,17965
+2012,Number,M,Deaths,18436
+2013,Number,M,Deaths,18217
+2014,Number,M,Deaths,18360
+2015,Number,M,Deaths,19219
+2016,Number,M,Deaths,18542
+2017,Number,M,Deaths,19186
+2018,Number,M,Deaths,19007
+2019,Number,M,Deaths,19042
+1996,Number,F,Deaths,11200
+1997,Number,F,Deaths,12691
+1998,Number,F,Deaths,13376
+1999,Number,F,Deaths,13476
+2000,Number,F,Deaths,14424
+2001,Number,F,Deaths,14123
+2002,Number,F,Deaths,14508
+2003,Number,F,Deaths,15167
+2004,Number,F,Deaths,15836
+2005,Number,F,Deaths,16384
+2006,Number,F,Deaths,15913
+2007,Number,F,Deaths,16890
+2008,Number,F,Deaths,16339
+2009,Number,F,Deaths,17020
+2010,Number,F,Deaths,17218
+2011,Number,F,Deaths,17063
+2012,Number,F,Deaths,17381
+2013,Number,F,Deaths,17445
+2014,Number,F,Deaths,17620
+2015,Number,F,Deaths,18931
+2016,Number,F,Deaths,18029
+2017,Number,F,Deaths,18793
+2018,Number,F,Deaths,18737
+2019,Number,F,Deaths,19787
+1996,Number,Both sexes,Natural change,21442
+1997,Number,Both sexes,Natural change,20522
+1998,Number,Both sexes,Natural change,16328
+1999,Number,Both sexes,Natural change,13827
+2000,Number,Both sexes,Natural change,9081
+2001,Number,Both sexes,Natural change,7392
+2002,Number,Both sexes,Natural change,5432
+2003,Number,Both sexes,Natural change,3477
+2004,Number,Both sexes,Natural change,2535
+2005,Number,Both sexes,Natural change,225
+2006,Number,Both sexes,Natural change,812
+2007,Number,Both sexes,Natural change,-1209
+2008,Number,Both sexes,Natural change,150
+2009,Number,Both sexes,Natural change,-354
+2010,Number,Both sexes,Natural change,-1590
+2011,Number,Both sexes,Natural change,-3217
+2012,Number,Both sexes,Natural change,-3270
+2013,Number,Both sexes,Natural change,-4978
+2014,Number,Both sexes,Natural change,-5712
+2015,Number,Both sexes,Natural change,-8380
+2016,Number,Both sexes,Natural change,-6388
+2017,Number,Both sexes,Natural change,-7779
+2018,Number,Both sexes,Natural change,-8277
+2019,Number,Both sexes,Natural change,-10469
