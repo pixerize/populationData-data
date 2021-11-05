@@ -4550,17 +4550,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
@@ -5924,17 +5913,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
           },
           {
             "name": "Value",
