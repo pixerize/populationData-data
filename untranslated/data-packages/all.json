@@ -5404,16 +5404,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
