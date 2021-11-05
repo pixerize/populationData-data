@@ -1826,14 +1826,7 @@
             "constraints": {
               "enum": [
                 "",
-                "2 members",
-                "3 members",
-                "4 members",
-                "5 members",
-                "6 members",
-                "7 members",
-                "8+ members",
-                "1 member"
+                "Sarajevo"
               ]
             },
             "title": "Municipality"
@@ -1844,7 +1837,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Number"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
             "title": "Household size"
@@ -1856,7 +1856,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

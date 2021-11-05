@@ -1830,14 +1830,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 član",
-                "2 člana",
-                "3 člana",
-                "4 člana",
-                "5 članova",
-                "6 članova",
-                "7 članova",
-                "8+ članova",
+                "Sarajevo",
                 ""
               ]
             },
@@ -1848,7 +1841,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Broj",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
                 ""
               ]
             },
@@ -1861,7 +1861,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
