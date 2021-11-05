@@ -1,3 +1,4 @@
 From,To
 Općina,Spol
 Spol,AGE
+AGE,type_of_disability

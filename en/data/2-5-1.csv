@@ -1,43 +1,43 @@
 Year,Municipality,Sex,AGE,UNIT_MEASURE,type_of_disability,Value
-2013,_T,0-14,Number,4525.0,,
-2013,_T,15-19,Number,2886.0,,
-2013,_T,20-29,Number,6398.0,,
-2013,_T,30-49,Number,40196.0,,
-2013,_T,50-59,Number,57495.0,,
-2013,_T,60-64,Number,34559.0,,
-2013,_T,65+,Number,147999.0,,
-2013,_T,0-14,% of total,1.538812071,,
-2013,_T,15-19,% of total,0.981439036,,
-2013,_T,20-29,% of total,2.175761244,,
-2013,_T,30-49,% of total,13.66941216,,
-2013,_T,50-59,% of total,19.5522652,,
-2013,_T,60-64,% of total,11.7524434,,
-2013,_T,65+,% of total,50.3298669,,
-2013,M,0-14,Number,2606.0,,
-2013,M,15-19,Number,1641.0,,
-2013,M,20-29,Number,3821.0,,
-2013,M,30-49,Number,25762.0,,
-2013,M,50-59,Number,30653.0,,
-2013,M,60-64,Number,16157.0,,
-2013,M,65+,Number,52335.0,,
-2013,M,0-14,% of total,1.959766873,,
-2013,M,15-19,% of total,1.234066554,,
-2013,M,20-29,% of total,2.873472457,,
-2013,M,30-49,% of total,19.37356646,,
-2013,M,50-59,% of total,23.05170145,,
-2013,M,60-64,% of total,12.15040421,,
-2013,M,65+,% of total,39.357022,,
-2013,F,0-14,Number,1919.0,,
-2013,F,15-19,Number,1245.0,,
-2013,F,20-29,Number,2577.0,,
-2013,F,30-49,Number,14434.0,,
-2013,F,50-59,Number,26842.0,,
-2013,F,60-64,Number,18402.0,,
-2013,F,65+,Number,95664.0,,
-2013,F,0-14,% of total,1.191311312,,
-2013,F,15-19,% of total,0.772893477,,
-2013,F,20-29,% of total,1.599796378,,
-2013,F,30-49,% of total,8.960597953,,
-2013,F,50-59,% of total,16.66345921,,
-2013,F,60-64,% of total,11.42392431,,
-2013,F,65+,% of total,59.38801736,,
+2013,Sarajevo,Both sexes,0-14,Number,Disability,4525.0
+2013,Sarajevo,Both sexes,15-19,Number,Disability,2886.0
+2013,Sarajevo,Both sexes,20-29,Number,Disability,6398.0
+2013,Sarajevo,Both sexes,30-49,Number,Disability,40196.0
+2013,Sarajevo,Both sexes,50-59,Number,Disability,57495.0
+2013,Sarajevo,Both sexes,60-64,Number,Disability,34559.0
+2013,Sarajevo,Both sexes,65+,Number,Disability,147999.0
+2013,Sarajevo,Both sexes,0-14,% of total,Disability,1.538812071
+2013,Sarajevo,Both sexes,15-19,% of total,Disability,0.981439036
+2013,Sarajevo,Both sexes,20-29,% of total,Disability,2.175761244
+2013,Sarajevo,Both sexes,30-49,% of total,Disability,13.66941216
+2013,Sarajevo,Both sexes,50-59,% of total,Disability,19.5522652
+2013,Sarajevo,Both sexes,60-64,% of total,Disability,11.7524434
+2013,Sarajevo,Both sexes,65+,% of total,Disability,50.3298669
+2013,Sarajevo,M,0-14,Number,Disability,2606.0
+2013,Sarajevo,M,15-19,Number,Disability,1641.0
+2013,Sarajevo,M,20-29,Number,Disability,3821.0
+2013,Sarajevo,M,30-49,Number,Disability,25762.0
+2013,Sarajevo,M,50-59,Number,Disability,30653.0
+2013,Sarajevo,M,60-64,Number,Disability,16157.0
+2013,Sarajevo,M,65+,Number,Disability,52335.0
+2013,Sarajevo,M,0-14,% of total,Disability,1.959766873
+2013,Sarajevo,M,15-19,% of total,Disability,1.234066554
+2013,Sarajevo,M,20-29,% of total,Disability,2.873472457
+2013,Sarajevo,M,30-49,% of total,Disability,19.37356646
+2013,Sarajevo,M,50-59,% of total,Disability,23.05170145
+2013,Sarajevo,M,60-64,% of total,Disability,12.15040421
+2013,Sarajevo,M,65+,% of total,Disability,39.357022
+2013,Sarajevo,F,0-14,Number,Disability,1919.0
+2013,Sarajevo,F,15-19,Number,Disability,1245.0
+2013,Sarajevo,F,20-29,Number,Disability,2577.0
+2013,Sarajevo,F,30-49,Number,Disability,14434.0
+2013,Sarajevo,F,50-59,Number,Disability,26842.0
+2013,Sarajevo,F,60-64,Number,Disability,18402.0
+2013,Sarajevo,F,65+,Number,Disability,95664.0
+2013,Sarajevo,F,0-14,% of total,Disability,1.191311312
+2013,Sarajevo,F,15-19,% of total,Disability,0.772893477
+2013,Sarajevo,F,20-29,% of total,Disability,1.599796378
+2013,Sarajevo,F,30-49,% of total,Disability,8.960597953
+2013,Sarajevo,F,50-59,% of total,Disability,16.66345921
+2013,Sarajevo,F,60-64,% of total,Disability,11.42392431
+2013,Sarajevo,F,65+,% of total,Disability,59.38801736

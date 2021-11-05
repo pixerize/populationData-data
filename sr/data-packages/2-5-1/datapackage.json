@@ -20,9 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             },
@@ -30,6 +28,19 @@
           },
           {
             "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -43,18 +54,6 @@
                 ""
               ]
             },
-            "title": "Пол"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                "% од укупно",
-                ""
-              ]
-            },
             "title": "Старосна доб"
           },
           {
@@ -64,9 +63,10 @@
           },
           {
             "name": "type_of_disability",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 ""
               ]
             },

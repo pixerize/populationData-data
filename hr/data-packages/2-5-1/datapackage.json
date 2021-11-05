@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,9 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             },
@@ -30,6 +28,19 @@
           },
           {
             "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -43,18 +54,6 @@
                 ""
               ]
             },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Broj",
-                "% od ukupno",
-                ""
-              ]
-            },
             "title": "Starosna dob"
           },
           {
@@ -64,9 +63,10 @@
           },
           {
             "name": "type_of_disability",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 ""
               ]
             },

@@ -3539,6 +3539,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "_T",
                 "M",
                 "F",
@@ -3547,7 +3557,7 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3563,25 +3573,15 @@
             }
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                "_%",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
             "name": "type_of_disability",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 ""
               ]
             }

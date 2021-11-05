@@ -1,3 +1,4 @@
 From,To
 Municipality,Sex
 Sex,AGE
+AGE,type_of_disability
