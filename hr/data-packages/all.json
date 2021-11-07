@@ -141,8 +141,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
                 ""
               ]
             },
@@ -535,7 +533,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
                 "Federacija BiH",
                 ""
               ]
@@ -636,8 +633,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
                 ""
               ]
             },
@@ -2035,8 +2030,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
                 ""
               ]
             },
@@ -2248,8 +2241,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
                 ""
               ]
             },
@@ -5362,7 +5353,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Republika Srpska",
                 "Federacija BiH",
                 ""
               ]

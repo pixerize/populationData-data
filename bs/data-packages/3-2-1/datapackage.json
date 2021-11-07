@@ -26,8 +26,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "Republika Srpska",
-                "Federacija BiH",
                 ""
               ]
             },

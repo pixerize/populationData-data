@@ -130,8 +130,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
                 ""
               ]
             }
@@ -502,7 +500,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
                 "FBIH",
                 ""
               ]
@@ -594,8 +591,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
                 ""
               ]
             }
@@ -1874,8 +1869,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
                 ""
               ]
             }
@@ -2066,8 +2059,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "RS",
-                "FBIH",
                 ""
               ]
             }
@@ -4914,7 +4905,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "RS",
                 "FBIH",
                 ""
               ]

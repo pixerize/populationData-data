@@ -16,9 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "BiH"
               ]
             },
             "title": "Administrative area"
