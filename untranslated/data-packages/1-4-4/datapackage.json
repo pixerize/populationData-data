@@ -31,9 +31,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
                 ""
               ]
             }
