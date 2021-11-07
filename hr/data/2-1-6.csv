@@ -1,85 +1,49 @@
-Year,UNIT_MEASURE,Tip odnosa zavisnosti,Spol,Administrativna oblast,Value
-1971,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,65.4
-1971,%,Ukupan omjer gospodarske potpore,M,BiH,67.9
-1971,%,Ukupan omjer gospodarske potpore,Ž,BiH,63.0
-1981,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,52.3
-1981,%,Ukupan omjer gospodarske potpore,M,BiH,53.0
-1981,%,Ukupan omjer gospodarske potpore,Ž,BiH,51.6
-1991,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,48.3
-1991,%,Ukupan omjer gospodarske potpore,M,BiH,46.8
-1991,%,Ukupan omjer gospodarske potpore,Ž,BiH,49.7
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,BiH,42.1
-2013,%,Ukupan omjer gospodarske potpore,M,BiH,39.2
-2013,%,Ukupan omjer gospodarske potpore,Ž,BiH,44.9
-1971,%,Omjer gospodarske potpore mladima,Oba spola,BiH,57.0
-1971,%,Omjer gospodarske potpore mladima,M,BiH,60.2
-1971,%,Omjer gospodarske potpore mladima,Ž,BiH,53.9
-1981,%,Omjer gospodarske potpore mladima,Oba spola,BiH,42.5
-1981,%,Omjer gospodarske potpore mladima,M,BiH,44.5
-1981,%,Omjer gospodarske potpore mladima,Ž,BiH,40.6
-1991,%,Omjer gospodarske potpore mladima,Oba spola,BiH,35.6
-1991,%,Omjer gospodarske potpore mladima,M,BiH,36.6
-1991,%,Omjer gospodarske potpore mladima,Ž,BiH,34.6
-2013,%,Omjer gospodarske potpore mladima,Oba spola,BiH,21.9
-2013,%,Omjer gospodarske potpore mladima,M,BiH,22.4
-2013,%,Omjer gospodarske potpore mladima,Ž,BiH,21.3
-1971,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,8.4
-1971,%,Omjer gospodarske potpore starijim osobama,M,BiH,7.7
-1971,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,9.1
-1981,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,9.8
-1981,%,Omjer gospodarske potpore starijim osobama,M,BiH,8.5
-1981,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,11.0
-1991,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,12.7
-1991,%,Omjer gospodarske potpore starijim osobama,M,BiH,10.1
-1991,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,15.2
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,BiH,20.2
-2013,%,Omjer gospodarske potpore starijim osobama,M,BiH,16.8
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,BiH,23.6
-1971,%,Omjer starijih i mladih,Oba spola,BiH,14.8
-1971,%,Omjer starijih i mladih,M,BiH,12.8
-1971,%,Omjer starijih i mladih,Ž,BiH,16.9
-1981,%,Omjer starijih i mladih,Oba spola,BiH,23.1
-1981,%,Omjer starijih i mladih,M,BiH,19.2
-1981,%,Omjer starijih i mladih,Ž,BiH,27.2
-1991,%,Omjer starijih i mladih,Oba spola,BiH,35.6
-1991,%,Omjer starijih i mladih,M,BiH,27.7
-1991,%,Omjer starijih i mladih,Ž,BiH,43.8
-2013,%,Omjer starijih i mladih,Oba spola,BiH,92.3
-2013,%,Omjer starijih i mladih,M,BiH,75.0
-2013,%,Omjer starijih i mladih,Ž,BiH,110.6
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Federacija BiH,40.8
-2013,%,Ukupan omjer gospodarske potpore,M,Federacija BiH,38.4
-2013,%,Ukupan omjer gospodarske potpore,Ž,Federacija BiH,43.1
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Federacija BiH,22.6
-2013,%,Omjer gospodarske potpore mladima,M,Federacija BiH,23.3
-2013,%,Omjer gospodarske potpore mladima,Ž,Federacija BiH,22.0
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Federacija BiH,18.1
-2013,%,Omjer gospodarske potpore starijim osobama,M,Federacija BiH,15.1
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Federacija BiH,21.1
-2013,%,Omjer starijih i mladih,Oba spola,Federacija BiH,80.1
-2013,%,Omjer starijih i mladih,M,Federacija BiH,65.0
-2013,%,Omjer starijih i mladih,Ž,Federacija BiH,96.1
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Republika Srpska,44.4
-2013,%,Ukupan omjer gospodarske potpore,M,Republika Srpska,40.6
-2013,%,Ukupan omjer gospodarske potpore,Ž,Republika Srpska,48.2
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Republika Srpska,20.4
-2013,%,Omjer gospodarske potpore mladima,M,Republika Srpska,20.8
-2013,%,Omjer gospodarske potpore mladima,Ž,Republika Srpska,20.1
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Republika Srpska,24.0
-2013,%,Omjer gospodarske potpore starijim osobama,M,Republika Srpska,19.8
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Republika Srpska,28.2
-2013,%,Omjer starijih i mladih,Oba spola,Republika Srpska,117.4
-2013,%,Omjer starijih i mladih,M,Republika Srpska,95.6
-2013,%,Omjer starijih i mladih,Ž,Republika Srpska,140.3
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,Brčko distrikt BiH,43.3
-2013,%,Ukupan omjer gospodarske potpore,M,Brčko distrikt BiH,40.6
-2013,%,Ukupan omjer gospodarske potpore,Ž,Brčko distrikt BiH,46.0
-2013,%,Omjer gospodarske potpore mladima,Oba spola,Brčko distrikt BiH,22.4
-2013,%,Omjer gospodarske potpore mladima,M,Brčko distrikt BiH,23.3
-2013,%,Omjer gospodarske potpore mladima,Ž,Brčko distrikt BiH,21.6
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,Brčko distrikt BiH,20.8
-2013,%,Omjer gospodarske potpore starijim osobama,M,Brčko distrikt BiH,17.3
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,Brčko distrikt BiH,24.4
-2013,%,Omjer starijih i mladih,Oba spola,Brčko distrikt BiH,92.8
-2013,%,Omjer starijih i mladih,M,Brčko distrikt BiH,74.5
-2013,%,Omjer starijih i mladih,Ž,Brčko distrikt BiH,112.7
+Year,UNIT_MEASURE,Tip odnosa zavisnosti,Spol,Value
+1971,%,Ukupan omjer gospodarske potpore,Oba spola,65.4
+1971,%,Ukupan omjer gospodarske potpore,M,67.9
+1971,%,Ukupan omjer gospodarske potpore,Ž,63.0
+1981,%,Ukupan omjer gospodarske potpore,Oba spola,52.3
+1981,%,Ukupan omjer gospodarske potpore,M,53.0
+1981,%,Ukupan omjer gospodarske potpore,Ž,51.6
+1991,%,Ukupan omjer gospodarske potpore,Oba spola,48.3
+1991,%,Ukupan omjer gospodarske potpore,M,46.8
+1991,%,Ukupan omjer gospodarske potpore,Ž,49.7
+2013,%,Ukupan omjer gospodarske potpore,Oba spola,42.1
+2013,%,Ukupan omjer gospodarske potpore,M,39.2
+2013,%,Ukupan omjer gospodarske potpore,Ž,44.9
+1971,%,Omjer gospodarske potpore mladima,Oba spola,57.0
+1971,%,Omjer gospodarske potpore mladima,M,60.2
+1971,%,Omjer gospodarske potpore mladima,Ž,53.9
+1981,%,Omjer gospodarske potpore mladima,Oba spola,42.5
+1981,%,Omjer gospodarske potpore mladima,M,44.5
+1981,%,Omjer gospodarske potpore mladima,Ž,40.6
+1991,%,Omjer gospodarske potpore mladima,Oba spola,35.6
+1991,%,Omjer gospodarske potpore mladima,M,36.6
+1991,%,Omjer gospodarske potpore mladima,Ž,34.6
+2013,%,Omjer gospodarske potpore mladima,Oba spola,21.9
+2013,%,Omjer gospodarske potpore mladima,M,22.4
+2013,%,Omjer gospodarske potpore mladima,Ž,21.3
+1971,%,Omjer gospodarske potpore starijim osobama,Oba spola,8.4
+1971,%,Omjer gospodarske potpore starijim osobama,M,7.7
+1971,%,Omjer gospodarske potpore starijim osobama,Ž,9.1
+1981,%,Omjer gospodarske potpore starijim osobama,Oba spola,9.8
+1981,%,Omjer gospodarske potpore starijim osobama,M,8.5
+1981,%,Omjer gospodarske potpore starijim osobama,Ž,11.0
+1991,%,Omjer gospodarske potpore starijim osobama,Oba spola,12.7
+1991,%,Omjer gospodarske potpore starijim osobama,M,10.1
+1991,%,Omjer gospodarske potpore starijim osobama,Ž,15.2
+2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,20.2
+2013,%,Omjer gospodarske potpore starijim osobama,M,16.8
+2013,%,Omjer gospodarske potpore starijim osobama,Ž,23.6
+1971,%,Omjer starijih i mladih,Oba spola,14.8
+1971,%,Omjer starijih i mladih,M,12.8
+1971,%,Omjer starijih i mladih,Ž,16.9
+1981,%,Omjer starijih i mladih,Oba spola,23.1
+1981,%,Omjer starijih i mladih,M,19.2
+1981,%,Omjer starijih i mladih,Ž,27.2
+1991,%,Omjer starijih i mladih,Oba spola,35.6
+1991,%,Omjer starijih i mladih,M,27.7
+1991,%,Omjer starijih i mladih,Ž,43.8
+2013,%,Omjer starijih i mladih,Oba spola,92.3
+2013,%,Omjer starijih i mladih,M,75.0
+2013,%,Omjer starijih i mladih,Ž,110.6
