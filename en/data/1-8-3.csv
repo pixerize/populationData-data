@@ -1,89 +1,24 @@
-Year,UNIT_MEASURE,Administrative area,Value
-1997,Number,BiH,1835
-1998,Number,BiH,1964
-1999,Number,BiH,1995
-2000,Number,BiH,1929
-2001,Number,BiH,2126
-2002,Number,BiH,2272
-2003,Number,BiH,1918
-2004,Number,BiH,1523
-2005,Number,BiH,1763
-2006,Number,BiH,1659
-2007,Number,BiH,1826
-2008,Number,BiH,1369
-2009,Number,BiH,1402
-2010,Number,BiH,1676
-2011,Number,BiH,2309
-2012,Number,BiH,2294
-2013,Number,BiH,2609
-2014,Number,BiH,2686
-2015,Number,BiH,2963
-2016,Number,BiH,2773
-2017,Number,BiH,3022
-2018,Number,BiH,3091
-2019,Number,BiH,2790
-1996,Number,Federation of BiH,378
-1997,Number,Federation of BiH,1098
-1998,Number,Federation of BiH,1163
-1999,Number,Federation of BiH,1201
-2000,Number,Federation of BiH,1180
-2001,Number,Federation of BiH,1286
-2002,Number,Federation of BiH,1424
-2003,Number,Federation of BiH,1174
-2004,Number,Federation of BiH,857
-2005,Number,Federation of BiH,966
-2006,Number,Federation of BiH,933
-2007,Number,Federation of BiH,1031
-2008,Number,Federation of BiH,938
-2009,Number,Federation of BiH,805
-2010,Number,Federation of BiH,994
-2011,Number,Federation of BiH,1221
-2012,Number,Federation of BiH,1176
-2013,Number,Federation of BiH,1364
-2014,Number,Federation of BiH,1321
-2015,Number,Federation of BiH,1502
-2016,Number,Federation of BiH,1445
-2017,Number,Federation of BiH,1725
-2018,Number,Federation of BiH,1823
-2019,Number,Federation of BiH,1673
-1997,Number,Republika Srpska,655
-1998,Number,Republika Srpska,734
-1999,Number,Republika Srpska,738
-2000,Number,Republika Srpska,708
-2001,Number,Republika Srpska,830
-2002,Number,Republika Srpska,848
-2003,Number,Republika Srpska,744
-2004,Number,Republika Srpska,637
-2005,Number,Republika Srpska,721
-2006,Number,Republika Srpska,526
-2007,Number,Republika Srpska,596
-2008,Number,Republika Srpska,317
-2009,Number,Republika Srpska,455
-2010,Number,Republika Srpska,517
-2011,Number,Republika Srpska,886
-2012,Number,Republika Srpska,878
-2013,Number,Republika Srpska,1052
-2014,Number,Republika Srpska,1106
-2015,Number,Republika Srpska,1143
-2016,Number,Republika Srpska,1025
-2017,Number,Republika Srpska,985
-2018,Number,Republika Srpska,963
-2019,Number,Republika Srpska,920
-2002,Number,Brčko District of BiH,58
-2003,Number,Brčko District of BiH,80
-2004,Number,Brčko District of BiH,96
-2005,Number,Brčko District of BiH,85
-2006,Number,Brčko District of BiH,91
-2007,Number,Brčko District of BiH,94
-2008,Number,Brčko District of BiH,82
-2009,Number,Brčko District of BiH,139
-2010,Number,Brčko District of BiH,154
-2011,Number,Brčko District of BiH,199
-2012,Number,Brčko District of BiH,236
-2013,Number,Brčko District of BiH,191
-2014,Number,Brčko District of BiH,251
-2015,Number,Brčko District of BiH,311
-2016,Number,Brčko District of BiH,289
-2017,Number,Brčko District of BiH,295
-2018,Number,Brčko District of BiH,298
-2019,Number,Brčko District of BiH,187
+Year,UNIT_MEASURE,Value
+1997,Number,1835
+1998,Number,1964
+1999,Number,1995
+2000,Number,1929
+2001,Number,2126
+2002,Number,2272
+2003,Number,1918
+2004,Number,1523
+2005,Number,1763
+2006,Number,1659
+2007,Number,1826
+2008,Number,1369
+2009,Number,1402
+2010,Number,1676
+2011,Number,2309
+2012,Number,2294
+2013,Number,2609
+2014,Number,2686
+2015,Number,2963
+2016,Number,2773
+2017,Number,3022
+2018,Number,3091
+2019,Number,2790
