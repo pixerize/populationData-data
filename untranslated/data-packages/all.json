@@ -2270,9 +2270,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
                 ""
               ]
             }
@@ -2656,9 +2653,6 @@
             "constraints": {
               "enum": [
                 "BiH",
-                "FBIH",
-                "RS",
-                "BD",
                 ""
               ]
             }
