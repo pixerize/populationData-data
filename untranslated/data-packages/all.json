@@ -3628,19 +3628,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
