@@ -1,169 +1,47 @@
-Year,AGE,Administrativna oblast,UNIT_MEASURE,Value
-1997,13 - 14,Federacija BiH,Broj,11
-1997,15 - 19,Federacija BiH,Broj,3128
-1997,13 - 14,BiH,Broj,11
-1997,15 - 19,BiH,Broj,3128
-1998,13 - 14,Federacija BiH,Broj,2
-1998,15 - 19,Federacija BiH,Broj,2395
-1998,13 - 14,Republika Srpska,Broj,0
-1998,15 - 19,Republika Srpska,Broj,796
-1998,13 - 14,BiH,Broj,2
-1998,15 - 19,BiH,Broj,3191
-1999,13 - 14,Federacija BiH,Broj,0
-1999,15 - 19,Federacija BiH,Broj,2073
-1999,13 - 14,Republika Srpska,Broj,1
-1999,15 - 19,Republika Srpska,Broj,907
-1999,13 - 14,BiH,Broj,1
-1999,15 - 19,BiH,Broj,2980
-2000,13 - 14,Federacija BiH,Broj,3
-2000,15 - 19,Federacija BiH,Broj,1806
-2000,13 - 14,Republika Srpska,Broj,1
-2000,15 - 19,Republika Srpska,Broj,722
-2000,13 - 14,BiH,Broj,4
-2000,15 - 19,BiH,Broj,2528
-2001,13 - 14,Federacija BiH,Broj,13
-2001,15 - 19,Federacija BiH,Broj,1679
-2001,13 - 14,Republika Srpska,Broj,2
-2001,15 - 19,Republika Srpska,Broj,938
-2001,13 - 14,BiH,Broj,15
-2001,15 - 19,BiH,Broj,2617
-2002,13 - 14,Federacija BiH,Broj,10
-2002,15 - 19,Federacija BiH,Broj,1561
-2002,13 - 14,Republika Srpska,Broj,4
-2002,15 - 19,Republika Srpska,Broj,787
-2002,13 - 14,BiH,Broj,14
-2002,15 - 19,BiH,Broj,2348
-2003,13 - 14,Federacija BiH,Broj,9
-2003,15 - 19,Federacija BiH,Broj,1457
-2003,13 - 14,Republika Srpska,Broj,0
-2003,15 - 19,Republika Srpska,Broj,688
-2003,13 - 14,BiH,Broj,9
-2003,15 - 19,BiH,Broj,2145
-2004,13 - 14,Federacija BiH,Broj,7
-2004,15 - 19,Federacija BiH,Broj,1396
-2004,13 - 14,Republika Srpska,Broj,4
-2004,15 - 19,Republika Srpska,Broj,697
-2004,13 - 14,Brčko distrikt BiH,Broj,1
-2004,15 - 19,Brčko distrikt BiH,Broj,43
-2004,13 - 14,BiH,Broj,12
-2004,15 - 19,BiH,Broj,2136
-2005,13 - 14,Federacija BiH,Broj,2
-2005,15 - 19,Federacija BiH,Broj,1296
-2005,13 - 14,Republika Srpska,Broj,3
-2005,15 - 19,Republika Srpska,Broj,659
-2005,13 - 14,Brčko distrikt BiH,Broj,1
-2005,15 - 19,Brčko distrikt BiH,Broj,52
-2005,13 - 14,BiH,Broj,6
-2005,15 - 19,BiH,Broj,2007
-2006,13 - 14,Federacija BiH,Broj,4
-2006,15 - 19,Federacija BiH,Broj,1399
-2006,13 - 14,Republika Srpska,Broj,3
-2006,15 - 19,Republika Srpska,Broj,586
-2006,13 - 14,Brčko distrikt BiH,Broj,1
-2006,15 - 19,Brčko distrikt BiH,Broj,57
-2006,13 - 14,BiH,Broj,8
-2006,15 - 19,BiH,Broj,2042
-2007,13 - 14,Federacija BiH,Broj,2
-2007,15 - 19,Federacija BiH,Broj,1357
-2007,13 - 14,Republika Srpska,Broj,3
-2007,15 - 19,Republika Srpska,Broj,557
-2007,13 - 14,Brčko distrikt BiH,Broj,2
-2007,15 - 19,Brčko distrikt BiH,Broj,57
-2007,13 - 14,BiH,Broj,7
-2007,15 - 19,BiH,Broj,1971
-2008,13 - 14,Federacija BiH,Broj,2
-2008,15 - 19,Federacija BiH,Broj,1507
-2008,13 - 14,Republika Srpska,Broj,4
-2008,15 - 19,Republika Srpska,Broj,536
-2008,13 - 14,Brčko distrikt BiH,Broj,7
-2008,15 - 19,Brčko distrikt BiH,Broj,53
-2008,13 - 14,BiH,Broj,13
-2008,15 - 19,BiH,Broj,2096
-2009,13 - 14,Federacija BiH,Broj,4
-2009,15 - 19,Federacija BiH,Broj,1411
-2009,13 - 14,Republika Srpska,Broj,3
-2009,15 - 19,Republika Srpska,Broj,499
-2009,13 - 14,Brčko distrikt BiH,Broj,5
-2009,15 - 19,Brčko distrikt BiH,Broj,58
-2009,13 - 14,BiH,Broj,12
-2009,15 - 19,BiH,Broj,1968
-2010,13 - 14,Federacija BiH,Broj,5
-2010,15 - 19,Federacija BiH,Broj,1285
-2010,13 - 14,Republika Srpska,Broj,0
-2010,15 - 19,Republika Srpska,Broj,436
-2010,13 - 14,Brčko distrikt BiH,Broj,3
-2010,15 - 19,Brčko distrikt BiH,Broj,64
-2010,13 - 14,BiH,Broj,8
-2010,15 - 19,BiH,Broj,1785
-2011,13 - 14,Federacija BiH,Broj,5
-2011,15 - 19,Federacija BiH,Broj,1136
-2011,13 - 14,Republika Srpska,Broj,0
-2011,15 - 19,Republika Srpska,Broj,407
-2011,13 - 14,Brčko distrikt BiH,Broj,4
-2011,15 - 19,Brčko distrikt BiH,Broj,71
-2011,13 - 14,BiH,Broj,9
-2011,15 - 19,BiH,Broj,1614
-2012,13 - 14,Federacija BiH,Broj,2
-2012,15 - 19,Federacija BiH,Broj,1040
-2012,13 - 14,Republika Srpska,Broj,1
-2012,15 - 19,Republika Srpska,Broj,452
-2012,13 - 14,Brčko distrikt BiH,Broj,2
-2012,15 - 19,Brčko distrikt BiH,Broj,54
-2012,13 - 14,BiH,Broj,5
-2012,15 - 19,BiH,Broj,1546
-2013,13 - 14,Federacija BiH,Broj,4
-2013,15 - 19,Federacija BiH,Broj,950
-2013,13 - 14,Republika Srpska,Broj,0
-2013,15 - 19,Republika Srpska,Broj,376
-2013,13 - 14,Brčko distrikt BiH,Broj,1
-2013,15 - 19,Brčko distrikt BiH,Broj,56
-2013,13 - 14,BiH,Broj,5
-2013,15 - 19,BiH,Broj,1382
-2014,13 - 14,Federacija BiH,Broj,3
-2014,15 - 19,Federacija BiH,Broj,932
-2014,13 - 14,Republika Srpska,Broj,0
-2014,15 - 19,Republika Srpska,Broj,362
-2014,13 - 14,Brčko distrikt BiH,Broj,1
-2014,15 - 19,Brčko distrikt BiH,Broj,48
-2014,13 - 14,BiH,Broj,4
-2014,15 - 19,BiH,Broj,1342
-2015,13 - 14,Federacija BiH,Broj,3
-2015,15 - 19,Federacija BiH,Broj,948
-2015,13 - 14,Republika Srpska,Broj,1
-2015,15 - 19,Republika Srpska,Broj,311
-2015,13 - 14,Brčko distrikt BiH,Broj,1
-2015,15 - 19,Brčko distrikt BiH,Broj,55
-2015,13 - 14,BiH,Broj,5
-2015,15 - 19,BiH,Broj,1314
-2016,13 - 14,Federacija BiH,Broj,3
-2016,15 - 19,Federacija BiH,Broj,906
-2016,13 - 14,Republika Srpska,Broj,1
-2016,15 - 19,Republika Srpska,Broj,337
-2016,13 - 14,Brčko distrikt BiH,Broj,0
-2016,15 - 19,Brčko distrikt BiH,Broj,45
-2016,13 - 14,BiH,Broj,4
-2016,15 - 19,BiH,Broj,1288
-2017,13 - 14,Federacija BiH,Broj,6
-2017,15 - 19,Federacija BiH,Broj,734
-2017,13 - 14,Republika Srpska,Broj,0
-2017,15 - 19,Republika Srpska,Broj,280
-2017,13 - 14,Brčko distrikt BiH,Broj,4
-2017,15 - 19,Brčko distrikt BiH,Broj,50
-2017,13 - 14,BiH,Broj,10
-2017,15 - 19,BiH,Broj,1064
-2018,13 - 14,Federacija BiH,Broj,4
-2018,15 - 19,Federacija BiH,Broj,643
-2018,13 - 14,Republika Srpska,Broj,1
-2018,15 - 19,Republika Srpska,Broj,219
-2018,13 - 14,Brčko distrikt BiH,Broj,0
-2018,15 - 19,Brčko distrikt BiH,Broj,35
-2018,13 - 14,BiH,Broj,5
-2018,15 - 19,BiH,Broj,897
-2019,13 - 14,Federacija BiH,Broj,1
-2019,15 - 19,Federacija BiH,Broj,580
-2019,13 - 14,Republika Srpska,Broj,1
-2019,15 - 19,Republika Srpska,Broj,223
-2019,13 - 14,Brčko distrikt BiH,Broj,2
-2019,15 - 19,Brčko distrikt BiH,Broj,42
-2019,13 - 14,BiH,Broj,4
-2019,15 - 19,BiH,Broj,845
+Year,AGE,UNIT_MEASURE,Value
+1997,13 - 14,Broj,11
+1997,15 - 19,Broj,3128
+1998,13 - 14,Broj,2
+1998,15 - 19,Broj,3191
+1999,13 - 14,Broj,1
+1999,15 - 19,Broj,2980
+2000,13 - 14,Broj,4
+2000,15 - 19,Broj,2528
+2001,13 - 14,Broj,15
+2001,15 - 19,Broj,2617
+2002,13 - 14,Broj,14
+2002,15 - 19,Broj,2348
+2003,13 - 14,Broj,9
+2003,15 - 19,Broj,2145
+2004,13 - 14,Broj,12
+2004,15 - 19,Broj,2136
+2005,13 - 14,Broj,6
+2005,15 - 19,Broj,2007
+2006,13 - 14,Broj,8
+2006,15 - 19,Broj,2042
+2007,13 - 14,Broj,7
+2007,15 - 19,Broj,1971
+2008,13 - 14,Broj,13
+2008,15 - 19,Broj,2096
+2009,13 - 14,Broj,12
+2009,15 - 19,Broj,1968
+2010,13 - 14,Broj,8
+2010,15 - 19,Broj,1785
+2011,13 - 14,Broj,9
+2011,15 - 19,Broj,1614
+2012,13 - 14,Broj,5
+2012,15 - 19,Broj,1546
+2013,13 - 14,Broj,5
+2013,15 - 19,Broj,1382
+2014,13 - 14,Broj,4
+2014,15 - 19,Broj,1342
+2015,13 - 14,Broj,5
+2015,15 - 19,Broj,1314
+2016,13 - 14,Broj,4
+2016,15 - 19,Broj,1288
+2017,13 - 14,Broj,10
+2017,15 - 19,Broj,1064
+2018,13 - 14,Broj,5
+2018,15 - 19,Broj,897
+2019,13 - 14,Broj,4
+2019,15 - 19,Broj,845
