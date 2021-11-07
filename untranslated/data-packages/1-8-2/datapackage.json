@@ -15,19 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
