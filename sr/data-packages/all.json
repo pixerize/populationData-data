@@ -2186,17 +2186,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
@@ -5600,20 +5589,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Година"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
           },
           {
             "name": "UNIT_MEASURE",

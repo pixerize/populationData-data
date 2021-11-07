@@ -1,91 +1,25 @@
-Year,Administrativna oblast,UNIT_MEASURE,Value
-1996,BiH,Broj,21107
-1997,BiH,Broj,23220
-1998,BiH,Broj,22398
-1999,BiH,Broj,22472
-2000,BiH,Broj,21897
-2001,BiH,Broj,20302
-2002,BiH,Broj,20122
-2003,BiH,Broj,20733
-2004,BiH,Broj,22252
-2005,BiH,Broj,21698
-2006,BiH,Broj,21501
-2007,BiH,Broj,23494
-2008,BiH,Broj,22151
-2009,BiH,Broj,20633
-2010,BiH,Broj,19541
-2011,BiH,Broj,19156
-2012,BiH,Broj,18235
-2013,BiH,Broj,17623
-2014,BiH,Broj,18643
-2015,BiH,Broj,19686
-2016,BiH,Broj,19265
-2017,BiH,Broj,19969
-2018,BiH,Broj,19911
-2019,BiH,Broj,18952
-1996,Federacija BiH,Broj,14692
-1997,Federacija BiH,Broj,16061
-1998,Federacija BiH,Broj,14921
-1999,Federacija BiH,Broj,14285
-2000,Federacija BiH,Broj,13894
-2001,Federacija BiH,Broj,12758
-2002,Federacija BiH,Broj,12889
-2003,Federacija BiH,Broj,13102
-2004,Federacija BiH,Broj,13695
-2005,Federacija BiH,Broj,13620
-2006,Federacija BiH,Broj,13012
-2007,Federacija BiH,Broj,14808
-2008,Federacija BiH,Broj,14909
-2009,Federacija BiH,Broj,13670
-2010,Federacija BiH,Broj,12988
-2011,Federacija BiH,Broj,12589
-2012,Federacija BiH,Broj,12060
-2013,Federacija BiH,Broj,11381
-2014,Federacija BiH,Broj,11982
-2015,Federacija BiH,Broj,12972
-2016,Federacija BiH,Broj,12790
-2017,Federacija BiH,Broj,12994
-2018,Federacija BiH,Broj,13061
-2019,Federacija BiH,Broj,12266
-1996,Republika Srpska,Broj,6227
-1997,Republika Srpska,Broj,6889
-1998,Republika Srpska,Broj,7186
-1999,Republika Srpska,Broj,7893
-2000,Republika Srpska,Broj,7642
-2001,Republika Srpska,Broj,7179
-2002,Republika Srpska,Broj,7233
-2003,Republika Srpska,Broj,6769
-2004,Republika Srpska,Broj,7143
-2005,Republika Srpska,Broj,6810
-2006,Republika Srpska,Broj,6860
-2007,Republika Srpska,Broj,7093
-2008,Republika Srpska,Broj,6401
-2009,Republika Srpska,Broj,6131
-2010,Republika Srpska,Broj,5767
-2011,Republika Srpska,Broj,5802
-2012,Republika Srpska,Broj,5326
-2013,Republika Srpska,Broj,5467
-2014,Republika Srpska,Broj,5823
-2015,Republika Srpska,Broj,5895
-2016,Republika Srpska,Broj,5563
-2017,Republika Srpska,Broj,5954
-2018,Republika Srpska,Broj,5966
-2019,Republika Srpska,Broj,5822
-2002,Brčko distrikt BiH,Broj,644
-2003,Brčko distrikt BiH,Broj,655
-2004,Brčko distrikt BiH,Broj,782
-2005,Brčko distrikt BiH,Broj,669
-2006,Brčko distrikt BiH,Broj,673
-2007,Brčko distrikt BiH,Broj,712
-2008,Brčko distrikt BiH,Broj,680
-2009,Brčko distrikt BiH,Broj,670
-2010,Brčko distrikt BiH,Broj,618
-2011,Brčko distrikt BiH,Broj,613
-2012,Brčko distrikt BiH,Broj,703
-2013,Brčko distrikt BiH,Broj,622
-2014,Brčko distrikt BiH,Broj,663
-2015,Brčko distrikt BiH,Broj,670
-2016,Brčko distrikt BiH,Broj,653
-2017,Brčko distrikt BiH,Broj,718
-2018,Brčko distrikt BiH,Broj,632
-2019,Brčko distrikt BiH,Broj,599
+Year,UNIT_MEASURE,Value
+1996,Broj,21107
+1997,Broj,23220
+1998,Broj,22398
+1999,Broj,22472
+2000,Broj,21897
+2001,Broj,20302
+2002,Broj,20122
+2003,Broj,20733
+2004,Broj,22252
+2005,Broj,21698
+2006,Broj,21501
+2007,Broj,23494
+2008,Broj,22151
+2009,Broj,20633
+2010,Broj,19541
+2011,Broj,19156
+2012,Broj,18235
+2013,Broj,17623
+2014,Broj,18643
+2015,Broj,19686
+2016,Broj,19265
+2017,Broj,19969
+2018,Broj,19911
+2019,Broj,18952
