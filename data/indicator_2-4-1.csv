@@ -1,1 +1,4 @@
-Year,Municipality,UNIT_MEASURE,SEX,AGE,Value
+Year,UNIT_MEASURE,Municipality,Literacy,SEX,Value
+2021,NUMBER,Sarajevo,pismenost,_T,23212
+2021,NUMBER,Sarajevo,pismenost,M,232
+2021,NUMBER,Sarajevo,pismenost,F,2312
