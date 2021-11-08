@@ -242,7 +242,6 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Totalać",
                 "0-4",
                 "0-4ać",
                 "5-9",
@@ -1208,26 +1207,24 @@
             "title": "Година"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                ""
+              ]
+            },
+            "title": "Oпштина"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -3209,26 +3206,46 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                ""
+              ]
+            },
+            "title": "Oпштина"
+          },
+          {
+            "name": "ethnicity_nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacionalnost",
+                ""
+              ]
+            },
+            "title": "ethnicity_nationality"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
+                "_M",
                 ""
               ]
             },
             "title": "Пол"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

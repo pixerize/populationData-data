@@ -221,7 +221,6 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Totalać",
                 "0-4",
                 "0-4ać",
                 "5-9",
@@ -1122,24 +1121,22 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2963,24 +2960,42 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "ethnicity_nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacionalnost",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_M",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

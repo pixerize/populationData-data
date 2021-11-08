@@ -39,7 +39,6 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Totalać",
                 "0-4",
                 "0-4ać",
                 "5-9",

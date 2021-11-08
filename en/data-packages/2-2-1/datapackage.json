@@ -11,14 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Sarajevo"
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "_M"
               ]
             },
             "title": "Sex"
@@ -30,13 +39,24 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "ethnicity_nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nacionalnost"
+              ]
+            },
+            "title": "ethnicity_nationality"
           }
         ]
       }
