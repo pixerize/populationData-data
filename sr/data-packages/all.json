@@ -4262,6 +4262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -4271,7 +4272,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4426,6 +4427,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -4435,7 +4437,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4566,6 +4568,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -4575,7 +4578,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

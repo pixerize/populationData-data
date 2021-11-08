@@ -4254,7 +4254,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -4266,7 +4267,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -4418,7 +4419,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -4430,7 +4432,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -4558,7 +4560,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -4570,7 +4573,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
