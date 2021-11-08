@@ -1929,7 +1929,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "activity1"
               ]
             },
             "title": "AGRICULTURAL_ACTIVITY"
@@ -1939,7 +1940,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Sarajevo"
               ]
             },
             "title": "Municipality"
@@ -1950,23 +1952,13 @@
             "title": "Unit of measure"
           },
           {
-            "name": "Unnamed: 4",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

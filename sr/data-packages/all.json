@@ -1926,14 +1926,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
                 ""
               ]
             },
@@ -1944,29 +1950,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "activity1",
                 ""
               ]
             },
             "title": "AGRICULTURAL_ACTIVITY"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

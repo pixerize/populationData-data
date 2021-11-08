@@ -43,6 +43,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"SEX, UNIT_MEASURE, Municipality, Religion",4
 #2-2-3,"SEX, UNIT_MEASURE, Municipality, Mother_tongue",4
 #2-3-1,"UNIT_MEASURE, Municipality, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",3
+#2-3-2,"UNIT_MEASURE, Municipality, AGRICULTURAL_ACTIVITY",3
 #2-5-1,"SEX, UNIT_MEASURE, AGE, Municipality, type_of_disability",5
 #3-1-1,"SEX, UNIT_MEASURE, CAUSE_OF_DEATH",3
 #3-1-2,"UNIT_MEASURE, CAUSE_OF_DEATH",2

@@ -7,19 +7,25 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
                 ""
               ]
             },
@@ -30,29 +36,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "activity1",
                 ""
               ]
             },
             "title": "AGRICULTURAL_ACTIVITY"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

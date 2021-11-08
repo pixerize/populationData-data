@@ -12,6 +12,10 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
@@ -19,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
                 ""
               ]
             }
@@ -28,26 +33,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "activity1",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

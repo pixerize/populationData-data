@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2021],"UNIT_MEASURE":["Number"],"Municipality":["Sarajevo"],"AGRICULTURAL_ACTIVITY":["activity1"],"Value":[1233]},"edges":{"From":["Municipality"],"To":["AGRICULTURAL_ACTIVITY"]}}
