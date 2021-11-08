@@ -21,39 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "Tip svojine",
                 ""
               ]
             },
-            "title": "Spol"
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nepotpuno osnovno obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje i prva godina fakulteta",
-                "Napredne škole /fakultet /akademija /univerzitet",
-                "Nepoznato",
-                "Bez obrazovanja",
-                "Specijalizacija nakon završene srednje škole",
-                ""
-              ]
-            },
-            "title": "Nivo obrazovanja"
+            "title": "Ownership"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

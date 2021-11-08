@@ -19,19 +19,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta skole",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

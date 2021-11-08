@@ -31,21 +31,8 @@
             }
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

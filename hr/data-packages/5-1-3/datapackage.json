@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -25,6 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -33,23 +34,8 @@
             "title": "Spol"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

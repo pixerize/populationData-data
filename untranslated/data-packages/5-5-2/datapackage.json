@@ -19,19 +19,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta obrazovanja",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

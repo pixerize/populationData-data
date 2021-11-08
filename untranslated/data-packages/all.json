@@ -167,19 +167,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta obrazovanja",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -495,37 +494,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "Tip svojine",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -576,24 +556,18 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "M",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -723,6 +697,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -731,7 +706,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -836,24 +811,18 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -956,19 +925,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta obrazovanja",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1284,6 +1252,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -1292,7 +1261,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1343,19 +1312,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta skole",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1497,30 +1465,6 @@
             }
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_ALL",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -1600,24 +1544,18 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1646,6 +1584,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -1654,7 +1593,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2034,6 +1973,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -2042,7 +1982,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2135,6 +2075,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -2142,22 +2083,8 @@
             }
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2182,19 +2109,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta obrazovanja",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2281,24 +2207,18 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_social_security",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Tip socijalne usluge",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2335,21 +2255,8 @@
             }
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "enrolment_in_pre_school",
-                "enrolment_in_primary_school_education",
-                "enrolment_in_high_school_education",
-                "enrolment_in_higher_education",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2763,24 +2670,18 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta institucije",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -3163,6 +3064,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -3171,7 +3073,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -3565,6 +3467,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -3573,7 +3476,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4385,24 +4288,8 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4427,19 +4314,18 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Vrsta skole",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -5055,6 +4941,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -5063,7 +4950,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

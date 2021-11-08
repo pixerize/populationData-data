@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -34,22 +34,8 @@
             "title": "Spol"
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Predškolski odgoj i obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje /sveučilište",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovne ustanove"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

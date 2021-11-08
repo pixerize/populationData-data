@@ -23,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
                 ""
@@ -31,7 +32,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

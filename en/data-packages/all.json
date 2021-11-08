@@ -173,16 +173,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta obrazovanja"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_education"
           },
           {
             "name": "UNIT_MEASURE",
@@ -191,7 +190,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -511,35 +510,15 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "No education",
-                "Post-secondary school specialisation",
-                "Primary school",
-                "Secondary school",
-                "Unknown"
+                "Tip svojine"
               ]
             },
-            "title": "Educational level"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "title": "Ownership"
           },
           {
             "name": "UNIT_MEASURE",
@@ -548,7 +527,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -600,21 +579,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "M"
               ]
             },
-            "title": "Age"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -623,7 +596,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -764,7 +737,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -776,7 +750,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -884,21 +858,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Vrsta korisnika"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_user"
           },
           {
             "name": "UNIT_MEASURE",
@@ -907,7 +875,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1017,16 +985,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta obrazovanja"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_education"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1035,7 +1002,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1376,7 +1343,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -1388,7 +1356,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1440,16 +1408,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta skole"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_school"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1458,7 +1425,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1598,31 +1565,6 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                "All"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1723,21 +1665,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Vrsta korisnika"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_user"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1746,7 +1682,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1775,7 +1711,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -1787,7 +1724,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2201,7 +2138,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -2213,7 +2151,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2307,28 +2245,14 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -2340,7 +2264,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2363,16 +2287,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta obrazovanja"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_education"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2381,7 +2304,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2473,21 +2396,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Type_of_social_security",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Tip socijalne usluge"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_social_security"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2496,7 +2413,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2519,20 +2436,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "High school",
-                "Higher school/University",
-                "Pre-school",
-                "Primary school"
-              ]
-            },
-            "title": "Type of educational institution"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -2552,7 +2455,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2992,21 +2895,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Vrsta institucije"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_institution"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3015,7 +2912,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -3423,7 +3320,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -3435,7 +3333,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -3865,7 +3763,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -3877,7 +3776,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -4771,30 +4670,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -4817,16 +4699,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta skole"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_school"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4835,7 +4716,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -5512,7 +5393,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -5524,7 +5406,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

@@ -11,21 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Vrsta korisnika"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_user"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,7 +28,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

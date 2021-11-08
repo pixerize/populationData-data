@@ -1,9 +1,4 @@
-Year,UNIT_MEASURE,Sex,AGE,Value
-2016,% of total,M,25-34,16.4
-2016,% of total,F,25-34,16.8
-2016,% of total,M,35-44,9.7
-2016,% of total,F,35-45,8.8
-2016,% of total,M,45-54,6.2
-2016,% of total,F,45-54,5.6
-2016,% of total,M,55-64,3.0
-2016,% of total,F,55-64,2.2
+Year,UNIT_MEASURE,Sex,Value
+2021,Number,Both sexes,3423432
+2021,Number,M,3423432
+2021,Number,F,3423432

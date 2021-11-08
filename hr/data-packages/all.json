@@ -183,20 +183,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -521,39 +520,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "Tip svojine",
                 ""
               ]
             },
-            "title": "Spol"
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nepotpuno osnovno obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje i prva godina fakulteta",
-                "Napredne škole /fakultet /akademija /sveučilište",
-                "Nepoznato",
-                "Bez obrazovanja",
-                "Specijalizacija nakon završene srednje škole",
-                ""
-              ]
-            },
-            "title": "Razina obrazovanja"
+            "title": "Ownership"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -610,25 +589,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "M",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -754,7 +727,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -772,6 +745,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -781,7 +755,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -894,25 +868,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_user"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1027,20 +995,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1366,7 +1333,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1384,6 +1351,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1393,7 +1361,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1450,20 +1418,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta skole",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_school"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1594,7 +1561,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1619,31 +1586,6 @@
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Svi",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -1733,25 +1675,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_user"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1765,7 +1701,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1783,6 +1719,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1792,7 +1729,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2191,7 +2128,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -2209,6 +2146,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2218,7 +2156,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2303,7 +2241,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -2321,6 +2259,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2329,23 +2268,8 @@
             "title": "Spol"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2373,20 +2297,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2483,25 +2406,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_social_security",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Tip socijalne usluge",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_social_security"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2515,7 +2432,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -2542,22 +2459,8 @@
             "title": "Spol"
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Predškolski odgoj i obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje /sveučilište",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovne ustanove"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -3002,25 +2905,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta institucije",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_institution"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -3413,7 +3310,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -3431,6 +3328,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3440,7 +3338,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -3855,7 +3753,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -3873,6 +3771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3882,7 +3781,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -4781,25 +4680,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -4827,20 +4709,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta skole",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_school"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -5502,7 +5383,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -5520,6 +5401,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5529,7 +5411,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

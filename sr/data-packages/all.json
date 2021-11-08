@@ -183,20 +183,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -521,39 +520,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
+                "Tip svojine",
                 ""
               ]
             },
-            "title": "Пол"
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Непотпуно основно образовање",
-                "Основна школа",
-                "Средња школа",
-                "Високо образовање и прва година факултета",
-                "Напредне школе /факултет /академија /универзитет",
-                "Непознато",
-                "Без образовања",
-                "Специјализација након завршене средње школе",
-                ""
-              ]
-            },
-            "title": "Ниво образовања"
+            "title": "Ownership"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -610,25 +589,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "M",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -772,6 +745,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -781,7 +755,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -894,25 +868,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Type_of_user"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -1027,20 +995,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -1384,6 +1351,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -1393,7 +1361,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -1450,20 +1418,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta skole",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_school"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -1621,31 +1588,6 @@
             "title": "Пол"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Сви",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Вриједност"
@@ -1733,25 +1675,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta korisnika",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Type_of_user"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -1783,6 +1719,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -1792,7 +1729,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2209,6 +2146,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -2218,7 +2156,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2321,6 +2259,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -2329,23 +2268,8 @@
             "title": "Пол"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2373,20 +2297,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2483,25 +2406,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_social_security",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Tip socijalne usluge",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Type_of_social_security"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2542,22 +2459,8 @@
             "title": "Пол"
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Предшколски одгој и образовање",
-                "Основна школа",
-                "Средња школа",
-                "Високо образовање /универзитет",
-                ""
-              ]
-            },
-            "title": "Врста образовне установе"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -3002,25 +2905,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta institucije",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Type_of_institution"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -3431,6 +3328,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -3440,7 +3338,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -3873,6 +3771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -3882,7 +3781,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4781,25 +4680,8 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4827,20 +4709,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta skole",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_school"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -5520,6 +5401,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -5529,7 +5411,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -1,8 +1,2 @@
-Year,UNIT_MEASURE,AGE,Value
-2013,% of total,15+,47.2
-2013,% of total,18-24,56.8
-2013,% of total,25-34,56.4
-2013,% of total,35-44,46.8
-2013,% of total,45-54,47.5
-2013,% of total,55-64,44.2
-2013,% of total,65+,44.2
+Year,UNIT_MEASURE,Sex,Value
+2013,Number,M,7

@@ -11,35 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "Ownership",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "No education",
-                "Post-secondary school specialisation",
-                "Primary school",
-                "Secondary school",
-                "Unknown"
+                "Tip svojine"
               ]
             },
-            "title": "Educational level"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "title": "Ownership"
           },
           {
             "name": "UNIT_MEASURE",
@@ -48,7 +28,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

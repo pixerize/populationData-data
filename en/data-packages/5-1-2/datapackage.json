@@ -11,20 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "High school",
-                "Higher school/University",
-                "Pre-school",
-                "Primary school"
-              ]
-            },
-            "title": "Type of educational institution"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -44,7 +30,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

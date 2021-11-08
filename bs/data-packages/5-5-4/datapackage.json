@@ -21,20 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

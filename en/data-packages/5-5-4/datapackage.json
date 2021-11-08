@@ -11,16 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Vrsta obrazovanja"
               ]
             },
-            "title": "Sex"
+            "title": "Type_of_education"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,7 +28,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

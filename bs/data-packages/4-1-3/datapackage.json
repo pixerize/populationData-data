@@ -21,25 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "Vrsta institucije",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_institution"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
