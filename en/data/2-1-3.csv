@@ -434,9 +434,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,0-4,Berkovići,93.0
 2013,Number,M,0-4,Berkovići,45.0
 2013,Number,F,0-4,Berkovići,48.0
-2013,Number,Both sexes,0-4ać,2652,
-2013,Number,M,0-4ać,1361,
-2013,Number,F,0-4ać,1291,
+2013,Number,Both sexes,0-4,2652,
+2013,Number,M,0-4,1361,
+2013,Number,F,0-4,1291,
 2013,Number,Both sexes,0-4,Bijeljina,5080.0
 2013,Number,M,0-4,Bijeljina,2637.0
 2013,Number,F,0-4,Bijeljina,2443.0
@@ -856,9 +856,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,5-9,Berkovići,130.0
 2013,Number,M,5-9,Berkovići,73.0
 2013,Number,F,5-9,Berkovići,57.0
-2013,Number,Both sexes,5-9ać,2806,
-2013,Number,M,5-9ać,1416,
-2013,Number,F,5-9ać,1390,
+2013,Number,Both sexes,5-9,2806,
+2013,Number,M,5-9,1416,
+2013,Number,F,5-9,1390,
 2013,Number,Both sexes,5-9,Bijeljina,5136.0
 2013,Number,M,5-9,Bijeljina,2659.0
 2013,Number,F,5-9,Bijeljina,2477.0
@@ -1282,9 +1282,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,10-14,Berkovići,147.0
 2013,Number,M,10-14,Berkovići,75.0
 2013,Number,F,10-14,Berkovići,72.0
-2013,Number,Both sexes,10-14ać,3393,
-2013,Number,M,10-14ać,1663,
-2013,Number,F,10-14ać,1730,
+2013,Number,Both sexes,10-14,3393,
+2013,Number,M,10-14,1663,
+2013,Number,F,10-14,1730,
 2013,Number,Both sexes,10-14,Bijeljina,5678.0
 2013,Number,M,10-14,Bijeljina,2876.0
 2013,Number,F,10-14,Bijeljina,2802.0
@@ -1708,9 +1708,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,15-19,Berkovići,104.0
 2013,Number,M,15-19,Berkovići,52.0
 2013,Number,F,15-19,Berkovići,52.0
-2013,Number,Both sexes,15-19ać,4434,
-2013,Number,M,15-19ać,2303,
-2013,Number,F,15-19ać,2131,
+2013,Number,Both sexes,15-19,4434,
+2013,Number,M,15-19,2303,
+2013,Number,F,15-19,2131,
 2013,Number,Both sexes,15-19,Bijeljina,6427.0
 2013,Number,M,15-19,Bijeljina,3361.0
 2013,Number,F,15-19,Bijeljina,3066.0
@@ -2134,9 +2134,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,20-24,Berkovići,95.0
 2013,Number,M,20-24,Berkovići,44.0
 2013,Number,F,20-24,Berkovići,51.0
-2013,Number,Both sexes,20-24ać,3937,
-2013,Number,M,20-24ać,1992,
-2013,Number,F,20-24ać,1945,
+2013,Number,Both sexes,20-24,3937,
+2013,Number,M,20-24,1992,
+2013,Number,F,20-24,1945,
 2013,Number,Both sexes,20-24,Bijeljina,6177.0
 2013,Number,M,20-24,Bijeljina,3160.0
 2013,Number,F,20-24,Bijeljina,3017.0
@@ -2560,9 +2560,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,25-29,Berkovići,102.0
 2013,Number,M,25-29,Berkovići,55.0
 2013,Number,F,25-29,Berkovići,47.0
-2013,Number,Both sexes,25-29ać,4061,
-2013,Number,M,25-29ać,2071,
-2013,Number,F,25-29ać,1990,
+2013,Number,Both sexes,25-29,4061,
+2013,Number,M,25-29,2071,
+2013,Number,F,25-29,1990,
 2013,Number,Both sexes,25-29,Bijeljina,7304.0
 2013,Number,M,25-29,Bijeljina,3608.0
 2013,Number,F,25-29,Bijeljina,3696.0
@@ -2986,9 +2986,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,30-24,Berkovići,105.0
 2013,Number,M,30-24,Berkovići,47.0
 2013,Number,F,30-24,Berkovići,58.0
-2013,Number,Both sexes,30-24ać,3814,
-2013,Number,M,30-24ać,1877,
-2013,Number,F,30-24ać,1937,
+2013,Number,Both sexes,30-24,3814,
+2013,Number,M,30-24,1877,
+2013,Number,F,30-24,1937,
 2013,Number,Both sexes,30-24,Bijeljina,7573.0
 2013,Number,M,30-24,Bijeljina,3855.0
 2013,Number,F,30-24,Bijeljina,3718.0
@@ -3412,9 +3412,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,35-39,Berkovići,134.0
 2013,Number,M,35-39,Berkovići,67.0
 2013,Number,F,35-39,Berkovići,67.0
-2013,Number,Both sexes,35-39ać,4080,
-2013,Number,M,35-39ać,1991,
-2013,Number,F,35-39ać,2089,
+2013,Number,Both sexes,35-39,4080,
+2013,Number,M,35-39,1991,
+2013,Number,F,35-39,2089,
 2013,Number,Both sexes,35-39,Bijeljina,7494.0
 2013,Number,M,35-39,Bijeljina,3766.0
 2013,Number,F,35-39,Bijeljina,3728.0
@@ -3838,9 +3838,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,40-44,Berkovići,150.0
 2013,Number,M,40-44,Berkovići,97.0
 2013,Number,F,40-44,Berkovići,53.0
-2013,Number,Both sexes,40-44ać,4198,
-2013,Number,M,40-44ać,1946,
-2013,Number,F,40-44ać,2252,
+2013,Number,Both sexes,40-44,4198,
+2013,Number,M,40-44,1946,
+2013,Number,F,40-44,2252,
 2013,Number,Both sexes,40-44,Bijeljina,7064.0
 2013,Number,M,40-44,Bijeljina,3526.0
 2013,Number,F,40-44,Bijeljina,3538.0
@@ -4264,9 +4264,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,45-49,Berkovići,143.0
 2013,Number,M,45-49,Berkovići,79.0
 2013,Number,F,45-49,Berkovići,64.0
-2013,Number,Both sexes,45-49ać,4543,
-2013,Number,M,45-49ać,2182,
-2013,Number,F,45-49ać,2361,
+2013,Number,Both sexes,45-49,4543,
+2013,Number,M,45-49,2182,
+2013,Number,F,45-49,2361,
 2013,Number,Both sexes,45-49,Bijeljina,7793.0
 2013,Number,M,45-49,Bijeljina,3867.0
 2013,Number,F,45-49,Bijeljina,3926.0
@@ -4690,9 +4690,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,50-54,Berkovići,120.0
 2013,Number,M,50-54,Berkovići,73.0
 2013,Number,F,50-54,Berkovići,47.0
-2013,Number,Both sexes,50-54ać,4429,
-2013,Number,M,50-54ać,2151,
-2013,Number,F,50-54ać,2278,
+2013,Number,Both sexes,50-54,4429,
+2013,Number,M,50-54,2151,
+2013,Number,F,50-54,2278,
 2013,Number,Both sexes,50-54,Bijeljina,8383.0
 2013,Number,M,50-54,Bijeljina,4193.0
 2013,Number,F,50-54,Bijeljina,4190.0
@@ -5116,9 +5116,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,55-59,Berkovići,123.0
 2013,Number,M,55-59,Berkovići,56.0
 2013,Number,F,55-59,Berkovići,67.0
-2013,Number,Both sexes,55-59ać,3766,
-2013,Number,M,55-59ać,1800,
-2013,Number,F,55-59ać,1966,
+2013,Number,Both sexes,55-59,3766,
+2013,Number,M,55-59,1800,
+2013,Number,F,55-59,1966,
 2013,Number,Both sexes,55-59,Bijeljina,8270.0
 2013,Number,M,55-59,Bijeljina,4039.0
 2013,Number,F,55-59,Bijeljina,4231.0
@@ -5542,9 +5542,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,60-64,Berkovići,148.0
 2013,Number,M,60-64,Berkovići,78.0
 2013,Number,F,60-64,Berkovići,70.0
-2013,Number,Both sexes,60-64ać,3027,
-2013,Number,M,60-64ać,1404,
-2013,Number,F,60-64ać,1623,
+2013,Number,Both sexes,60-64,3027,
+2013,Number,M,60-64,1404,
+2013,Number,F,60-64,1623,
 2013,Number,Both sexes,60-64,Bijeljina,8084.0
 2013,Number,M,60-64,Bijeljina,3873.0
 2013,Number,F,60-64,Bijeljina,4211.0
@@ -5968,9 +5968,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,65-69,Berkovići,124.0
 2013,Number,M,65-69,Berkovići,53.0
 2013,Number,F,65-69,Berkovići,71.0
-2013,Number,Both sexes,65-69ać,2228,
-2013,Number,M,65-69ać,996,
-2013,Number,F,65-69ać,1232,
+2013,Number,Both sexes,65-69,2228,
+2013,Number,M,65-69,996,
+2013,Number,F,65-69,1232,
 2013,Number,Both sexes,65-69,Bijeljina,5323.0
 2013,Number,M,65-69,Bijeljina,2475.0
 2013,Number,F,65-69,Bijeljina,2848.0
@@ -6394,9 +6394,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,70-74,Berkovići,142.0
 2013,Number,M,70-74,Berkovići,54.0
 2013,Number,F,70-74,Berkovići,88.0
-2013,Number,Both sexes,70-74ać,2168,
-2013,Number,M,70-74ać,913,
-2013,Number,F,70-74ać,1255,
+2013,Number,Both sexes,70-74,2168,
+2013,Number,M,70-74,913,
+2013,Number,F,70-74,1255,
 2013,Number,Both sexes,70-74,Bijeljina,4756.0
 2013,Number,M,70-74,Bijeljina,2060.0
 2013,Number,F,70-74,Bijeljina,2696.0
@@ -6820,9 +6820,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,75-79,Berkovići,130.0
 2013,Number,M,75-79,Berkovići,57.0
 2013,Number,F,75-79,Berkovići,73.0
-2013,Number,Both sexes,75-79ać,1673,
-2013,Number,M,75-79ać,644,
-2013,Number,F,75-79ać,1029,
+2013,Number,Both sexes,75-79,1673,
+2013,Number,M,75-79,644,
+2013,Number,F,75-79,1029,
 2013,Number,Both sexes,75-79,Bijeljina,4256.0
 2013,Number,M,75-79,Bijeljina,1803.0
 2013,Number,F,75-79,Bijeljina,2453.0
@@ -7246,9 +7246,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,80-84,Berkovići,78.0
 2013,Number,M,80-84,Berkovići,36.0
 2013,Number,F,80-84,Berkovići,42.0
-2013,Number,Both sexes,80-84ać,752,
-2013,Number,M,80-84ać,257,
-2013,Number,F,80-84ać,495,
+2013,Number,Both sexes,80-84,752,
+2013,Number,M,80-84,257,
+2013,Number,F,80-84,495,
 2013,Number,Both sexes,80-84,Bijeljina,2113.0
 2013,Number,M,80-84,Bijeljina,803.0
 2013,Number,F,80-84,Bijeljina,1310.0
@@ -7672,9 +7672,9 @@ Year,UNIT_MEASURE,Sex,AGE,Municipality,Value
 2013,Number,Both sexes,85+,Berkovići,46.0
 2013,Number,M,85+,Berkovići,18.0
 2013,Number,F,85+,Berkovići,28.0
-2013,Number,Both sexes,85+ać,300,
-2013,Number,M,85+ać,74,
-2013,Number,F,85+ać,226,
+2013,Number,Both sexes,85+,300,
+2013,Number,M,85+,74,
+2013,Number,F,85+,226,
 2013,Number,Both sexes,85+,Bijeljina,804.0
 2013,Number,M,85+,Bijeljina,266.0
 2013,Number,F,85+,Bijeljina,538.0
