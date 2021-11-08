@@ -99,9 +99,9 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-3,"SEX, UNIT_MEASURE",2
 #5-5-4,"UNIT_MEASURE, Type_of_education",2
 #5-6-1,"SEX, UNIT_MEASURE",2
-#5-6-2,"SEX, UNIT_MEASURE",2
+#5-6-2,"UNIT_MEASURE, Type_of_education",2
 #5-6-3,"SEX, UNIT_MEASURE",2
-#5-6-4,"SEX, UNIT_MEASURE",2
+#5-6-4,"UNIT_MEASURE, Type_of_education",2
 #5-7-1,"SEX, UNIT_MEASURE, AGE",3
 #5-7-2,"SEX, UNIT_MEASURE",2
 #5-7-3,"SEX, UNIT_MEASURE",2

@@ -1142,6 +1142,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -1151,7 +1152,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -3976,20 +3977,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4163,20 +4163,19 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
+                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Type_of_education"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -4828,6 +4827,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
                 "M",
                 "Ж",
                 ""
@@ -4837,7 +4837,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

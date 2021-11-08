@@ -12,10 +12,10 @@ Ownership,Ownership,Ownership,Ownership,Ownership,1,1
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religion,Religion,Religion,1,1
-SEX,Sex,Spol,Пол,Spol,56,4
+SEX,Sex,Spol,Пол,Spol,54,4
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 type_of_disability,type_of_disability,type_of_disability,type_of_disability,type_of_disability,1,1
-Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,3,1
+Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,5,1
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,1,1
 Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,1
 Type_of_social_security,Type_of_social_security,Type_of_social_security,Type_of_social_security,Type_of_social_security,1,1
