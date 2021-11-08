@@ -1350,6 +1350,10 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
@@ -1357,35 +1361,36 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pismenost",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },

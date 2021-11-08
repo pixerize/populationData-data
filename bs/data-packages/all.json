@@ -1461,18 +1461,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Općina"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1480,28 +1470,43 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                ""
+              ]
+            },
+            "title": "Općina"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pismenost",
+                ""
+              ]
+            },
+            "title": "Literacy"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

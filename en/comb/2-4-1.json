@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2021,2021,2021],"UNIT_MEASURE":["Number","Number","Number"],"Municipality":["Sarajevo","Sarajevo","Sarajevo"],"Literacy":["pismenost","pismenost","pismenost"],"Sex":["Both sexes","M","F"],"Value":[23212,232,2312]},"edges":{"From":["Municipality","Literacy"],"To":["Literacy","Sex"]}}

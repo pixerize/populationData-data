@@ -11,21 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Literacy",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "pismenost"
               ]
             },
-            "title": "Age"
+            "title": "Literacy"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Sarajevo"
               ]
             },
             "title": "Municipality"
@@ -35,7 +37,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -47,12 +52,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
