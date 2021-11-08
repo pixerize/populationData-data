@@ -11,17 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "BiH"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

@@ -1,9 +1,3 @@
-Year,UNIT_MEASURE,Administrative area,Value
-2006,% of total,BiH,23.3
-2006,% of total,Federation of BiH,23.3
-2006,% of total,Republika Srpska,23.3
-2006,% of total,Brčko District of BiH,21.3
-2011,% of total,BiH,9.0
-2011,% of total,Federation of BiH,9.9
-2011,% of total,Republika Srpska,6.7
-2011,% of total,Brčko District of BiH,13.1
+Year,UNIT_MEASURE,Value
+2006,% of total,23.3
+2011,% of total,9.0

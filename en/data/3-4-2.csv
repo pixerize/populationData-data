@@ -1,20 +1,12 @@
-Year,UNIT_MEASURE,Administrative area,Value
-2008,Number,Federation of BiH,189.5
-2009,Number,Federation of BiH,190.0
-2010,Number,Federation of BiH,157.8
-2010,Number,Republika Srpska,204.9
-2011,Number,Federation of BiH,217.3
-2011,Number,Republika Srpska,218.3
-2012,Number,Federation of BiH,232.3
-2012,Number,Republika Srpska,226.9
-2013,Number,Federation of BiH,235.1
-2013,Number,Republika Srpska,251.7
-2014,Number,Federation of BiH,240.7
-2014,Number,Republika Srpska,237.9
-2015,Number,Federation of BiH,249.3
-2015,Number,Republika Srpska,263.7
-2016,Number,Federation of BiH,254.2
-2016,Number,Republika Srpska,272.1
-2017,Number,Federation of BiH,258.6
-2017,Number,Republika Srpska,290.1
-2018,Number,Federation of BiH,279.6
+Year,UNIT_MEASURE,Value
+2008,Number,189.5
+2009,Number,190.0
+2010,Number,157.8
+2011,Number,217.3
+2012,Number,232.3
+2013,Number,235.1
+2014,Number,240.7
+2015,Number,249.3
+2016,Number,254.2
+2017,Number,258.6
+2018,Number,279.6

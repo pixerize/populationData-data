@@ -1,63 +1,63 @@
-Year,UNIT_MEASURE,Spol,Administrativna oblast,Value
-2001,Broj,M,BiH,98.0
-2002,Broj,M,BiH,77.0
-2003,Broj,M,BiH,91.0
-2004,Broj,M,BiH,94.0
-2005,Broj,M,BiH,85.0
-2006,Broj,M,BiH,83.0
-2007,Broj,M,BiH,98.0
-2008,Broj,M,BiH,102.0
-2009,Broj,M,BiH,80.0
-2010,Broj,M,BiH,83.0
-2011,Broj,M,BiH,57.0
-2012,Broj,M,BiH,64.0
-2013,Broj,M,BiH,45.0
-2014,Broj,M,BiH,45.0
-2015,Broj,M,BiH,56.0
-2016,Broj,M,BiH,54.0
-2017,Broj,M,BiH,51.0
-2018,Broj,M,BiH,49.0
-2019,Broj,M,BiH,40.0
-2001,Broj,Ž,BiH,95.0
-2002,Broj,Ž,BiH,61.0
-2003,Broj,Ž,BiH,59.0
-2004,Broj,Ž,BiH,74.0
-2005,Broj,Ž,BiH,62.0
-2006,Broj,Ž,BiH,54.0
-2007,Broj,Ž,BiH,76.0
-2008,Broj,Ž,BiH,69.0
-2009,Broj,Ž,BiH,56.0
-2010,Broj,Ž,BiH,60.0
-2011,Broj,Ž,BiH,61.0
-2012,Broj,Ž,BiH,56.0
-2013,Broj,Ž,BiH,57.0
-2014,Broj,Ž,BiH,32.0
-2015,Broj,Ž,BiH,58.0
-2016,Broj,Ž,BiH,56.0
-2017,Broj,Ž,BiH,52.0
-2018,Broj,Ž,BiH,39.0
-2019,Broj,Ž,BiH,42.0
-1996,Broj,Oba spola,BiH,271.0
-1997,Broj,Oba spola,BiH,240.0
-1998,Broj,Oba spola,BiH,202.0
-1999,Broj,Oba spola,BiH,224.0
-2000,Broj,Oba spola,BiH,159.0
-2001,Broj,Oba spola,BiH,193.0
-2002,Broj,Oba spola,BiH,138.0
-2003,Broj,Oba spola,BiH,150.0
-2004,Broj,Oba spola,BiH,168.0
-2005,Broj,Oba spola,BiH,147.0
-2006,Broj,Oba spola,BiH,137.0
-2007,Broj,Oba spola,BiH,174.0
-2008,Broj,Oba spola,BiH,171.0
-2009,Broj,Oba spola,BiH,136.0
-2010,Broj,Oba spola,BiH,143.0
-2011,Broj,Oba spola,BiH,118.0
-2012,Broj,Oba spola,BiH,120.0
-2013,Broj,Oba spola,BiH,102.0
-2014,Broj,Oba spola,BiH,77.0
-2015,Broj,Oba spola,BiH,114.0
-2016,Broj,Oba spola,BiH,110.0
-2017,Broj,Oba spola,BiH,103.0
-2018,Broj,Oba spola,BiH,88.0
-2019,Broj,Oba spola,BiH,82.0
+Year,UNIT_MEASURE,Spol,Value
+2001,Broj,M,98.0
+2002,Broj,M,77.0
+2003,Broj,M,91.0
+2004,Broj,M,94.0
+2005,Broj,M,85.0
+2006,Broj,M,83.0
+2007,Broj,M,98.0
+2008,Broj,M,102.0
+2009,Broj,M,80.0
+2010,Broj,M,83.0
+2011,Broj,M,57.0
+2012,Broj,M,64.0
+2013,Broj,M,45.0
+2014,Broj,M,45.0
+2015,Broj,M,56.0
+2016,Broj,M,54.0
+2017,Broj,M,51.0
+2018,Broj,M,49.0
+2019,Broj,M,40.0
+2001,Broj,Ž,95.0
+2002,Broj,Ž,61.0
+2003,Broj,Ž,59.0
+2004,Broj,Ž,74.0
+2005,Broj,Ž,62.0
+2006,Broj,Ž,54.0
+2007,Broj,Ž,76.0
+2008,Broj,Ž,69.0
+2009,Broj,Ž,56.0
+2010,Broj,Ž,60.0
+2011,Broj,Ž,61.0
+2012,Broj,Ž,56.0
+2013,Broj,Ž,57.0
+2014,Broj,Ž,32.0
+2015,Broj,Ž,58.0
+2016,Broj,Ž,56.0
+2017,Broj,Ž,52.0
+2018,Broj,Ž,39.0
+2019,Broj,Ž,42.0
+1996,Broj,Oba spola,271.0
+1997,Broj,Oba spola,240.0
+1998,Broj,Oba spola,202.0
+1999,Broj,Oba spola,224.0
+2000,Broj,Oba spola,159.0
+2001,Broj,Oba spola,193.0
+2002,Broj,Oba spola,138.0
+2003,Broj,Oba spola,150.0
+2004,Broj,Oba spola,168.0
+2005,Broj,Oba spola,147.0
+2006,Broj,Oba spola,137.0
+2007,Broj,Oba spola,174.0
+2008,Broj,Oba spola,171.0
+2009,Broj,Oba spola,136.0
+2010,Broj,Oba spola,143.0
+2011,Broj,Oba spola,118.0
+2012,Broj,Oba spola,120.0
+2013,Broj,Oba spola,102.0
+2014,Broj,Oba spola,77.0
+2015,Broj,Oba spola,114.0
+2016,Broj,Oba spola,110.0
+2017,Broj,Oba spola,103.0
+2018,Broj,Oba spola,88.0
+2019,Broj,Oba spola,82.0

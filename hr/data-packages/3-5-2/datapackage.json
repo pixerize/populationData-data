@@ -21,21 +21,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

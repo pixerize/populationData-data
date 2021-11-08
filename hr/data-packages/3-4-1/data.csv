@@ -1,23 +1,12 @@
-Year,UNIT_MEASURE,Administrativna oblast,Value
-2008,Broj,BiH,4105.0
-2008,Broj,Federacija BiH,4105.0
-2009,Broj,BiH,3806.0
-2009,Broj,Federacija BiH,3806.0
-2010,Broj,BiH,3080.0
-2010,Broj,Federacija BiH,3080.0
-2011,Broj,BiH,4598.0
-2011,Broj,Federacija BiH,4598.0
-2012,Broj,BiH,4823.0
-2012,Broj,Federacija BiH,4823.0
-2013,Broj,BiH,4597.0
-2013,Broj,Federacija BiH,4597.0
-2014,Broj,BiH,4730.0
-2014,Broj,Federacija BiH,4730.0
-2015,Broj,BiH,4788.0
-2015,Broj,Federacija BiH,4788.0
-2016,Broj,BiH,4909.0
-2016,Broj,Federacija BiH,4909.0
-2017,Broj,BiH,5038.0
-2017,Broj,Federacija BiH,5038.0
-2018,Broj,BiH,4910.0
-2018,Broj,Federacija BiH,4910.0
+Year,UNIT_MEASURE,Value
+2008,Broj,4105.0
+2009,Broj,3806.0
+2010,Broj,3080.0
+2011,Broj,4598.0
+2012,Broj,4823.0
+2013,Broj,4597.0
+2014,Broj,4730.0
+2015,Broj,4788.0
+2016,Broj,4909.0
+2017,Broj,5038.0
+2018,Broj,4910.0

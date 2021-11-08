@@ -1,41 +1,11 @@
-Year,Spol,UNIT_MEASURE,Administrativna oblast,Value
-2004,Oba spola,% od ukupno,BiH,18.3
-2007,Oba spola,% od ukupno,BiH,18.2
-2011,Oba spola,% od ukupno,BiH,17.9
-2015,Oba spola,% od ukupno,BiH,16.9
-2007,M,% od ukupno,BiH,18.3
-2011,M,% od ukupno,BiH,18.0
-2015,M,% od ukupno,BiH,17.1
-2007,Ž,% od ukupno,BiH,18.1
-2011,Ž,% od ukupno,BiH,17.7
-2015,Ž,% od ukupno,BiH,16.7
-2004,Oba spola,% od ukupno,Federacija BiH,18.8
-2007,Oba spola,% od ukupno,Federacija BiH,17.0
-2011,Oba spola,% od ukupno,Federacija BiH,17.1
-2015,Oba spola,% od ukupno,Federacija BiH,17.1
-2007,M,% od ukupno,Federacija BiH,17.1
-2011,M,% od ukupno,Federacija BiH,17.5
-2015,M,% od ukupno,Federacija BiH,18.8
-2007,Ž,% od ukupno,Federacija BiH,16.9
-2011,Ž,% od ukupno,Federacija BiH,16.7
-2015,Ž,% od ukupno,Federacija BiH,15.9
-2004,Oba spola,% od ukupno,Republika Srpska,17.8
-2007,Oba spola,% od ukupno,Republika Srpska,20.1
-2011,Oba spola,% od ukupno,Republika Srpska,19.5
-2015,Oba spola,% od ukupno,Republika Srpska,16.4
-2007,M,% od ukupno,Republika Srpska,20.2
-2011,M,% od ukupno,Republika Srpska,19.1
-2015,M,% od ukupno,Republika Srpska,14.5
-2007,Ž,% od ukupno,Republika Srpska,20.1
-2011,Ž,% od ukupno,Republika Srpska,19.8
-2015,Ž,% od ukupno,Republika Srpska,17.6
-2004,Oba spola,% od ukupno,Brčko distrikt BiH,9.5
-2007,Oba spola,% od ukupno,Brčko distrikt BiH,25.8
-2011,Oba spola,% od ukupno,Brčko distrikt BiH,14.7
-2015,Oba spola,% od ukupno,Brčko distrikt BiH,17.6
-2007,M,% od ukupno,Brčko distrikt BiH,23.4
-2011,M,% od ukupno,Brčko distrikt BiH,14.1
-2015,M,% od ukupno,Brčko distrikt BiH,15.3
-2007,Ž,% od ukupno,Brčko distrikt BiH,28.2
-2011,Ž,% od ukupno,Brčko distrikt BiH,15.3
-2015,Ž,% od ukupno,Brčko distrikt BiH,19.0
+Year,Spol,UNIT_MEASURE,Value
+2004,Oba spola,% od ukupno,18.3
+2007,Oba spola,% od ukupno,18.2
+2011,Oba spola,% od ukupno,17.9
+2015,Oba spola,% od ukupno,16.9
+2007,M,% od ukupno,18.3
+2011,M,% od ukupno,18.0
+2015,M,% od ukupno,17.1
+2007,Ž,% od ukupno,18.1
+2011,Ž,% od ukupno,17.7
+2015,Ž,% od ukupno,16.7

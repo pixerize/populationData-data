@@ -1,32 +1,8 @@
-Year,UNIT_MEASURE,Metoda,Administrativna oblast,Value
-2000,% od ukupno,Savremene metode,Federacija BiH,15.7
-2000,% od ukupno,Savremene metode,Republika Srpska,15.7
-2006,% od ukupno,Savremene metode,BiH,11.2
-2006,% od ukupno,Savremene metode,Federacija BiH,12.1
-2006,% od ukupno,Savremene metode,Republika Srpska,9.4
-2006,% od ukupno,Savremene metode,Brčko distrikt BiH,12.7
-2011,% od ukupno,Savremene metode,BiH,12.0
-2011,% od ukupno,Savremene metode,Federacija BiH,10.0
-2011,% od ukupno,Savremene metode,Republika Srpska,16.8
-2011,% od ukupno,Savremene metode,Brčko distrikt BiH,14.5
-2000,% od ukupno,Sve metode,BiH,48.0
-2000,% od ukupno,Sve metode,Federacija BiH,48.7
-2000,% od ukupno,Sve metode,Republika Srpska,45.1
-2006,% od ukupno,Sve metode,BiH,35.7
-2006,% od ukupno,Sve metode,Federacija BiH,33.6
-2006,% od ukupno,Sve metode,Republika Srpska,40.7
-2006,% od ukupno,Sve metode,Brčko distrikt BiH,23.1
-2011,% od ukupno,Sve metode,BiH,45.8
-2011,% od ukupno,Sve metode,Federacija BiH,43.1
-2011,% od ukupno,Sve metode,Republika Srpska,53.7
-2011,% od ukupno,Sve metode,Brčko distrikt BiH,24.7
-2000,% od ukupno,Tradicionalne metode,Federacija BiH,32.9
-2000,% od ukupno,Tradicionalne metode,Republika Srpska,29.4
-2006,% od ukupno,Tradicionalne metode,BiH,24.5
-2006,% od ukupno,Tradicionalne metode,Federacija BiH,21.5
-2006,% od ukupno,Tradicionalne metode,Republika Srpska,31.2
-2006,% od ukupno,Tradicionalne metode,Brčko distrikt BiH,10.4
-2011,% od ukupno,Tradicionalne metode,BiH,34.0
-2011,% od ukupno,Tradicionalne metode,Federacija BiH,33.1
-2011,% od ukupno,Tradicionalne metode,Republika Srpska,36.9
-2011,% od ukupno,Tradicionalne metode,Brčko distrikt BiH,10.2
+Year,UNIT_MEASURE,Metoda,Value
+2006,% od ukupno,Savremene metode,11.2
+2011,% od ukupno,Savremene metode,12.0
+2000,% od ukupno,Sve metode,48.0
+2006,% od ukupno,Sve metode,35.7
+2011,% od ukupno,Sve metode,45.8
+2006,% od ukupno,Tradicionalne metode,24.5
+2011,% od ukupno,Tradicionalne metode,34.0

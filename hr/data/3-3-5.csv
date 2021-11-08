@@ -1,37 +1,18 @@
-Year,UNIT_MEASURE,Administrativna oblast,Value
-1997,Broj,Republika Srpska,0.42
-1998,Broj,Republika Srpska,1.59
-1999,Broj,Republika Srpska,0.5
-2001,Broj,Republika Srpska,0.42
-2002,Broj,Republika Srpska,0.33
-2003,Broj,Federacija BiH,0.34
-2003,Broj,Republika Srpska,0.34
-2004,Broj,Federacija BiH,0.43
-2004,Broj,Republika Srpska,0.08
-2005,Broj,Federacija BiH,0.47
-2006,Broj,Federacija BiH,0.52
-2006,Broj,Republika Srpska,0.35
-2007,Broj,Federacija BiH,0.17
-2007,Broj,Republika Srpska,0.07
-2008,Broj,Federacija BiH,0.3
-2009,Broj,Federacija BiH,0.17
-2009,Broj,Republika Srpska,0.28
-2010,Broj,Federacija BiH,0.13
-2010,Broj,Republika Srpska,0.28
-2011,Broj,Federacija BiH,0.86
-2011,Broj,Republika Srpska,0.35
-2012,Broj,Federacija BiH,0.73
-2012,Broj,Republika Srpska,0.56
-2013,Broj,Federacija BiH,0.68
-2013,Broj,Republika Srpska,0.56
-2014,Broj,Federacija BiH,0.64
-2014,Broj,Republika Srpska,0.14
-2015,Broj,Federacija BiH,0.43
-2015,Broj,Republika Srpska,0.17
-2016,Broj,Federacija BiH,0.73
-2016,Broj,Republika Srpska,0.6
-2017,Broj,Federacija BiH,0.32
-2017,Broj,Republika Srpska,0.43
-2018,Broj,Federacija BiH,0.87
-2018,Broj,Republika Srpska,0.44
-2019,Broj,Federacija BiH,0.96
+Year,UNIT_MEASURE,Value
+2003,Broj,0.34
+2004,Broj,0.43
+2005,Broj,0.47
+2006,Broj,0.52
+2007,Broj,0.17
+2008,Broj,0.3
+2009,Broj,0.17
+2010,Broj,0.13
+2011,Broj,0.86
+2012,Broj,0.73
+2013,Broj,0.68
+2014,Broj,0.64
+2015,Broj,0.43
+2016,Broj,0.73
+2017,Broj,0.32
+2018,Broj,0.87
+2019,Broj,0.96

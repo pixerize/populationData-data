@@ -38,19 +38,6 @@
             "title": "Старосна доб"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

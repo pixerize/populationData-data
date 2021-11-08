@@ -29,16 +29,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
@@ -123,16 +113,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -241,24 +221,43 @@
             "constraints": {
               "enum": [
                 "Total",
+                "Totalać",
                 "0-4",
+                "0-4ać",
                 "5-9",
+                "5-9ać",
                 "10-14",
+                "10-14ać",
                 "15-19",
+                "15-19ać",
                 "20-24",
+                "20-24ać",
                 "25-29",
+                "25-29ać",
                 "30-24",
+                "30-24ać",
                 "35-39",
+                "35-39ać",
                 "40-44",
+                "40-44ać",
                 "45-49",
+                "45-49ać",
                 "50-54",
+                "50-54ać",
                 "55-59",
+                "55-59ać",
                 "60-64",
+                "60-64ać",
                 "65-69",
+                "65-69ać",
                 "70-74",
+                "70-74ać",
                 "75-79",
+                "75-79ać",
                 "80-84",
+                "80-84ać",
                 "85+",
+                "85+ać",
                 ""
               ]
             }
@@ -271,7 +270,9 @@
                 "Banja Luka",
                 "Banovići",
                 "Berkovići",
-                "Bihać",
+                "56261",
+                "27041",
+                "29220",
                 "Bijeljina",
                 "Bileća",
                 "Bosanska Krupa",
@@ -410,13 +411,67 @@
                 "Zvornik",
                 "Žepče",
                 "Živinice",
+                "2652",
+                "1361",
+                "1291",
+                "2806",
+                "1416",
+                "1390",
+                "3393",
+                "1663",
+                "1730",
+                "4434",
+                "2303",
+                "2131",
+                "3937",
+                "1992",
+                "1945",
+                "4061",
+                "2071",
+                "1990",
+                "3814",
+                "1877",
+                "1937",
+                "4080",
+                "1991",
+                "2089",
+                "4198",
+                "1946",
+                "2252",
+                "4543",
+                "2182",
+                "2361",
+                "4429",
+                "2151",
+                "2278",
+                "3766",
+                "1800",
+                "1966",
+                "3027",
+                "1404",
+                "1623",
+                "2228",
+                "996",
+                "1232",
+                "2168",
+                "913",
+                "1255",
+                "1673",
+                "644",
+                "1029",
+                "752",
+                "257",
+                "495",
+                "300",
+                "74",
+                "226",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -496,16 +551,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -548,18 +593,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -584,16 +617,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -632,19 +655,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -843,18 +853,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -879,19 +877,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -920,16 +905,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -954,19 +929,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1032,20 +994,8 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1370,19 +1320,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -1444,19 +1381,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1536,19 +1460,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1708,18 +1619,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -1862,16 +1761,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2054,16 +1943,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -2180,19 +2059,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2222,16 +2088,6 @@
                 "_T",
                 "M",
                 "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
                 ""
               ]
             }
@@ -2365,16 +2221,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2399,19 +2245,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2451,18 +2284,6 @@
                 "45-54",
                 "55-64",
                 "65+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
                 ""
               ]
             }
@@ -2602,16 +2423,6 @@
                 "M",
                 "F",
                 "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
                 ""
               ]
             }
@@ -2812,17 +2623,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2847,19 +2647,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2979,18 +2766,6 @@
                 "45-54",
                 "55-64",
                 "65+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
                 ""
               ]
             }
@@ -3280,18 +3055,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -3318,16 +3081,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -3352,17 +3105,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RS",
-                "FBIH",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3714,18 +3456,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -3958,16 +3688,6 @@
               "enum": [
                 "M",
                 "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
                 ""
               ]
             }
@@ -4297,16 +4017,6 @@
             }
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -4439,16 +4149,6 @@
             "type": "integer"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
@@ -4516,17 +4216,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -4588,18 +4277,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4675,18 +4352,6 @@
                 "45-54",
                 "55-64",
                 "65+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
                 ""
               ]
             }
@@ -4862,19 +4527,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -4901,16 +4553,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -4935,18 +4577,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RS",
-                "FBIH",
-                "BD",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -5116,16 +4746,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -5146,16 +4766,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            }
           },
           {
             "name": "UNIT_MEASURE",
@@ -5329,19 +4939,6 @@
                 "modern_methods",
                 "all_methods",
                 "traditional_methods",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                "RS",
-                "BiH",
-                "BD",
                 ""
               ]
             }

@@ -1,63 +1,63 @@
-Year,UNIT_MEASURE,Sex,Administrative area,Value
-2001,Number,M,BiH,98.0
-2002,Number,M,BiH,77.0
-2003,Number,M,BiH,91.0
-2004,Number,M,BiH,94.0
-2005,Number,M,BiH,85.0
-2006,Number,M,BiH,83.0
-2007,Number,M,BiH,98.0
-2008,Number,M,BiH,102.0
-2009,Number,M,BiH,80.0
-2010,Number,M,BiH,83.0
-2011,Number,M,BiH,57.0
-2012,Number,M,BiH,64.0
-2013,Number,M,BiH,45.0
-2014,Number,M,BiH,45.0
-2015,Number,M,BiH,56.0
-2016,Number,M,BiH,54.0
-2017,Number,M,BiH,51.0
-2018,Number,M,BiH,49.0
-2019,Number,M,BiH,40.0
-2001,Number,F,BiH,95.0
-2002,Number,F,BiH,61.0
-2003,Number,F,BiH,59.0
-2004,Number,F,BiH,74.0
-2005,Number,F,BiH,62.0
-2006,Number,F,BiH,54.0
-2007,Number,F,BiH,76.0
-2008,Number,F,BiH,69.0
-2009,Number,F,BiH,56.0
-2010,Number,F,BiH,60.0
-2011,Number,F,BiH,61.0
-2012,Number,F,BiH,56.0
-2013,Number,F,BiH,57.0
-2014,Number,F,BiH,32.0
-2015,Number,F,BiH,58.0
-2016,Number,F,BiH,56.0
-2017,Number,F,BiH,52.0
-2018,Number,F,BiH,39.0
-2019,Number,F,BiH,42.0
-1996,Number,Both sexes,BiH,271.0
-1997,Number,Both sexes,BiH,240.0
-1998,Number,Both sexes,BiH,202.0
-1999,Number,Both sexes,BiH,224.0
-2000,Number,Both sexes,BiH,159.0
-2001,Number,Both sexes,BiH,193.0
-2002,Number,Both sexes,BiH,138.0
-2003,Number,Both sexes,BiH,150.0
-2004,Number,Both sexes,BiH,168.0
-2005,Number,Both sexes,BiH,147.0
-2006,Number,Both sexes,BiH,137.0
-2007,Number,Both sexes,BiH,174.0
-2008,Number,Both sexes,BiH,171.0
-2009,Number,Both sexes,BiH,136.0
-2010,Number,Both sexes,BiH,143.0
-2011,Number,Both sexes,BiH,118.0
-2012,Number,Both sexes,BiH,120.0
-2013,Number,Both sexes,BiH,102.0
-2014,Number,Both sexes,BiH,77.0
-2015,Number,Both sexes,BiH,114.0
-2016,Number,Both sexes,BiH,110.0
-2017,Number,Both sexes,BiH,103.0
-2018,Number,Both sexes,BiH,88.0
-2019,Number,Both sexes,BiH,82.0
+Year,UNIT_MEASURE,Sex,Value
+2001,Number,M,98.0
+2002,Number,M,77.0
+2003,Number,M,91.0
+2004,Number,M,94.0
+2005,Number,M,85.0
+2006,Number,M,83.0
+2007,Number,M,98.0
+2008,Number,M,102.0
+2009,Number,M,80.0
+2010,Number,M,83.0
+2011,Number,M,57.0
+2012,Number,M,64.0
+2013,Number,M,45.0
+2014,Number,M,45.0
+2015,Number,M,56.0
+2016,Number,M,54.0
+2017,Number,M,51.0
+2018,Number,M,49.0
+2019,Number,M,40.0
+2001,Number,F,95.0
+2002,Number,F,61.0
+2003,Number,F,59.0
+2004,Number,F,74.0
+2005,Number,F,62.0
+2006,Number,F,54.0
+2007,Number,F,76.0
+2008,Number,F,69.0
+2009,Number,F,56.0
+2010,Number,F,60.0
+2011,Number,F,61.0
+2012,Number,F,56.0
+2013,Number,F,57.0
+2014,Number,F,32.0
+2015,Number,F,58.0
+2016,Number,F,56.0
+2017,Number,F,52.0
+2018,Number,F,39.0
+2019,Number,F,42.0
+1996,Number,Both sexes,271.0
+1997,Number,Both sexes,240.0
+1998,Number,Both sexes,202.0
+1999,Number,Both sexes,224.0
+2000,Number,Both sexes,159.0
+2001,Number,Both sexes,193.0
+2002,Number,Both sexes,138.0
+2003,Number,Both sexes,150.0
+2004,Number,Both sexes,168.0
+2005,Number,Both sexes,147.0
+2006,Number,Both sexes,137.0
+2007,Number,Both sexes,174.0
+2008,Number,Both sexes,171.0
+2009,Number,Both sexes,136.0
+2010,Number,Both sexes,143.0
+2011,Number,Both sexes,118.0
+2012,Number,Both sexes,120.0
+2013,Number,Both sexes,102.0
+2014,Number,Both sexes,77.0
+2015,Number,Both sexes,114.0
+2016,Number,Both sexes,110.0
+2017,Number,Both sexes,103.0
+2018,Number,Both sexes,88.0
+2019,Number,Both sexes,82.0

@@ -1,47 +1,19 @@
-Year,UNIT_MEASURE,Administrativna oblast,Value
-2002,Broj,BiH,3.0
-2002,Broj,Federacija BiH,3.0
-2003,Broj,BiH,3.0
-2003,Broj,Federacija BiH,3.0
-2004,Broj,BiH,3.0
-2004,Broj,Federacija BiH,3.0
-2005,Broj,BiH,7.0
-2005,Broj,Federacija BiH,4.0
-2005,Broj,Republika Srpska,3.0
-2006,Broj,BiH,3.0
-2006,Broj,Federacija BiH,3.0
-2007,Broj,BiH,4.0
-2007,Broj,Federacija BiH,4.0
-2008,Broj,BiH,4.0
-2008,Broj,Federacija BiH,4.0
-2009,Broj,BiH,2.0
-2009,Broj,Federacija BiH,2.0
-2010,Broj,BiH,6.0
-2010,Broj,Federacija BiH,3.0
-2010,Broj,Republika Srpska,3.0
-2011,Broj,BiH,7.0
-2011,Broj,Federacija BiH,5.0
-2011,Broj,Republika Srpska,2.0
-2012,Broj,BiH,4.0
-2012,Broj,Federacija BiH,3.0
-2012,Broj,Republika Srpska,1.0
-2013,Broj,BiH,7.0
-2013,Broj,Federacija BiH,4.0
-2013,Broj,Republika Srpska,3.0
-2014,Broj,BiH,8.0
-2014,Broj,Federacija BiH,6.0
-2014,Broj,Republika Srpska,2.0
-2015,Broj,BiH,6.0
-2015,Broj,Federacija BiH,4.0
-2015,Broj,Republika Srpska,2.0
-2016,Broj,BiH,7.0
-2016,Broj,Federacija BiH,4.0
-2016,Broj,Republika Srpska,3.0
-2017,Broj,BiH,3.0
-2017,Broj,Federacija BiH,1.0
-2017,Broj,Republika Srpska,2.0
-2018,Broj,BiH,12.0
-2018,Broj,Federacija BiH,7.0
-2018,Broj,Republika Srpska,5.0
-2019,Broj,BiH,4.0
-2019,Broj,Federacija BiH,4.0
+Year,UNIT_MEASURE,Value
+2002,Broj,3.0
+2003,Broj,3.0
+2004,Broj,3.0
+2005,Broj,7.0
+2006,Broj,3.0
+2007,Broj,4.0
+2008,Broj,4.0
+2009,Broj,2.0
+2010,Broj,6.0
+2011,Broj,7.0
+2012,Broj,4.0
+2013,Broj,7.0
+2014,Broj,8.0
+2015,Broj,6.0
+2016,Broj,7.0
+2017,Broj,3.0
+2018,Broj,12.0
+2019,Broj,4.0

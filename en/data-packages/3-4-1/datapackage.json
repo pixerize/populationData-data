@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "BiH",
-                "Federation of BiH"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

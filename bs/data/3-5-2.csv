@@ -1,35 +1,14 @@
-Year,UNIT_MEASURE,Administrativna oblast,Value
-1999,Broj,Republika Srpska,457.0
-2000,Broj,Republika Srpska,393.0
-2001,Broj,Republika Srpska,382.0
-2002,Broj,Republika Srpska,334.0
-2003,Broj,Republika Srpska,325.0
-2004,Broj,Republika Srpska,307.0
-2005,Broj,Republika Srpska,263.0
-2006,Broj,Republika Srpska,278.0
-2007,Broj,Federacija BiH,351.0
-2007,Broj,Republika Srpska,313.0
-2008,Broj,Federacija BiH,348.0
-2008,Broj,Republika Srpska,310.0
-2009,Broj,Federacija BiH,361.0
-2009,Broj,Republika Srpska,306.0
-2010,Broj,Federacija BiH,368.0
-2010,Broj,Republika Srpska,305.0
-2011,Broj,Federacija BiH,368.0
-2011,Broj,Republika Srpska,308.0
-2012,Broj,Federacija BiH,366.0
-2012,Broj,Republika Srpska,319.0
-2013,Broj,Federacija BiH,350.0
-2013,Broj,Republika Srpska,320.0
-2014,Broj,Federacija BiH,358.0
-2014,Broj,Republika Srpska,326.0
-2015,Broj,Federacija BiH,357.0
-2015,Broj,Republika Srpska,400.0
-2016,Broj,Federacija BiH,377.0
-2016,Broj,Republika Srpska,400.0
-2017,Broj,Federacija BiH,373.0
-2017,Broj,Republika Srpska,395.0
-2018,Broj,Federacija BiH,362.0
-2018,Broj,Republika Srpska,420.0
-2019,Broj,Federacija BiH,359.0
-2018,Broj,Brčko distrikt BiH,365.24
+Year,UNIT_MEASURE,Value
+2007,Broj,351
+2008,Broj,348
+2009,Broj,361
+2010,Broj,368
+2011,Broj,368
+2012,Broj,366
+2013,Broj,350
+2014,Broj,358
+2015,Broj,357
+2016,Broj,377
+2017,Broj,373
+2018,Broj,362
+2019,Broj,359

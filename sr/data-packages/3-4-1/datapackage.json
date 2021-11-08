@@ -21,18 +21,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

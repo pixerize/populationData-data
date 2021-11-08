@@ -29,17 +29,6 @@
             "title": "Spol"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"

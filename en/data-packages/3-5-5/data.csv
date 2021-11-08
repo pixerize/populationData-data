@@ -1,56 +1,22 @@
-Year,UNIT_MEASURE,Administrative area,Value
-1999,Number,BiH,352
-1999,Number,Republika Srpska,352
-2000,Number,BiH,341
-2000,Number,Republika Srpska,341
-2001,Number,BiH,324
-2001,Number,Republika Srpska,324
-2002,Number,BiH,313
-2002,Number,Republika Srpska,313
-2003,Number,BiH,328
-2003,Number,Republika Srpska,328
-2004,Number,BiH,359
-2004,Number,Republika Srpska,359
-2005,Number,BiH,399
-2005,Number,Republika Srpska,399
-2006,Number,BiH,467
-2006,Number,Republika Srpska,467
-2007,Number,BiH,1037
-2007,Number,Federation of BiH,500
-2007,Number,Republika Srpska,537
-2008,Number,BiH,1083
-2008,Number,Federation of BiH,500
-2008,Number,Republika Srpska,583
-2009,Number,BiH,1156
-2009,Number,Federation of BiH,527
-2009,Number,Republika Srpska,629
-2010,Number,BiH,1209
-2010,Number,Federation of BiH,554
-2010,Number,Republika Srpska,655
-2011,Number,BiH,1179
-2011,Number,Federation of BiH,516
-2011,Number,Republika Srpska,663
-2012,Number,BiH,1274
-2012,Number,Federation of BiH,593
-2012,Number,Republika Srpska,681
-2013,Number,BiH,1350
-2013,Number,Federation of BiH,665
-2013,Number,Republika Srpska,685
-2014,Number,BiH,1356
-2014,Number,Federation of BiH,671
-2014,Number,Republika Srpska,685
-2015,Number,BiH,1355
-2015,Number,Federation of BiH,673
-2015,Number,Republika Srpska,682
-2016,Number,BiH,1377
-2016,Number,Federation of BiH,676
-2016,Number,Republika Srpska,701
-2017,Number,BiH,1404
-2017,Number,Federation of BiH,735
-2017,Number,Republika Srpska,669
-2018,Number,BiH,1498
-2018,Number,Federation of BiH,798
-2018,Number,Republika Srpska,670
-2019,Number,BiH,873
-2019,Number,Federation of BiH,873
-2018,Number,Brčko District of BiH,30
+Year,UNIT_MEASURE,Value
+1999,Number,352
+2000,Number,341
+2001,Number,324
+2002,Number,313
+2003,Number,328
+2004,Number,359
+2005,Number,399
+2006,Number,467
+2007,Number,1037
+2008,Number,1083
+2009,Number,1156
+2010,Number,1209
+2011,Number,1179
+2012,Number,1274
+2013,Number,1350
+2014,Number,1356
+2015,Number,1355
+2016,Number,1377
+2017,Number,1404
+2018,Number,1498
+2019,Number,873
