@@ -11,6 +11,17 @@
       "schema": {
         "fields": [
           {
+            "name": "Ethnicity_nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nacionalnost"
+              ]
+            },
+            "title": "Ethnicity_nationality"
+          },
+          {
             "name": "Municipality",
             "type": "string",
             "constraints": {
@@ -46,17 +57,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "ethnicity_nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Nacionalnost"
-              ]
-            },
-            "title": "ethnicity_nationality"
           }
         ]
       }

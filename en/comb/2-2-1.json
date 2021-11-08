@@ -1,1 +1,1 @@
-{"data":{"Year":[2021],"UNIT_MEASURE":["Number"],"Municipality":["Sarajevo"],"ethnicity_nationality":["Nacionalnost"],"Sex":["_M"],"Value":[3422]},"edges":{"From":["Municipality","ethnicity_nationality"],"To":["ethnicity_nationality","Sex"]}}
+{"data":{"Year":[2021],"UNIT_MEASURE":["Number"],"Municipality":["Sarajevo"],"Ethnicity_nationality":["Nacionalnost"],"Sex":["_M"],"Value":[3422]},"edges":{"From":["Municipality","Ethnicity_nationality"],"To":["Ethnicity_nationality","Sex"]}}

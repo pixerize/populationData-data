@@ -2050,7 +2050,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2059,26 +2059,46 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                ""
+              ]
+            },
+            "title": "Općina"
+          },
+          {
+            "name": "Mother_tongue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternji jezik",
+                ""
+              ]
+            },
+            "title": "Mother_tongue"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "_M",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -3222,7 +3242,7 @@
             "title": "Općina"
           },
           {
-            "name": "ethnicity_nationality",
+            "name": "Ethnicity_nationality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3230,7 +3250,7 @@
                 ""
               ]
             },
-            "title": "ethnicity_nationality"
+            "title": "Ethnicity_nationality"
           },
           {
             "name": "SEX",
@@ -4279,7 +4299,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -4288,26 +4308,46 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                ""
+              ]
+            },
+            "title": "Općina"
+          },
+          {
+            "name": "Religion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vjeroispovjest",
+                ""
+              ]
+            },
+            "title": "Religion"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "_M",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

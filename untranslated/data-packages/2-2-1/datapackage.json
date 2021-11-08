@@ -29,7 +29,7 @@
             }
           },
           {
-            "name": "ethnicity_nationality",
+            "name": "Ethnicity_nationality",
             "type": "string",
             "constraints": {
               "enum": [

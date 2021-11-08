@@ -32,7 +32,7 @@
             "title": "Oпштина"
           },
           {
-            "name": "ethnicity_nationality",
+            "name": "Ethnicity_nationality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "ethnicity_nationality"
+            "title": "Ethnicity_nationality"
           },
           {
             "name": "SEX",

@@ -1898,24 +1898,42 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Mother_tongue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternji jezik",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_M",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2974,7 +2992,7 @@
             }
           },
           {
-            "name": "ethnicity_nationality",
+            "name": "Ethnicity_nationality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3941,24 +3959,42 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "Sarajevo",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Religion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vjeroispovjest",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_M",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

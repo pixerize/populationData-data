@@ -1,1 +1,1 @@
-{"data":{"Year":[2021],"UNIT_MEASURE":["Broj"],"Op\u0107ina":["Sarajevo"],"ethnicity_nationality":["Nacionalnost"],"Spol":["_M"],"Value":[3422]},"edges":{"From":["Op\u0107ina","ethnicity_nationality"],"To":["ethnicity_nationality","Spol"]}}
+{"data":{"Year":[2021],"UNIT_MEASURE":["Broj"],"Op\u0107ina":["Sarajevo"],"Ethnicity_nationality":["Nacionalnost"],"Spol":["_M"],"Value":[3422]},"edges":{"From":["Op\u0107ina","Ethnicity_nationality"],"To":["Ethnicity_nationality","Spol"]}}
