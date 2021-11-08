@@ -1,1 +1,7 @@
-Year,Municipality,UNIT_MEASURE,SEX,EDUCATION,Value
+Year,UNIT_MEASURE,Municipality,Educational_attainment,SEX,Value
+2021,NUMBER,Sarajevo,zavrsena skola,_T,23212
+2021,NUMBER,Mostar,zavrsena skola,_T,232125
+2021,NUMBER,Sarajevo,zavrsena skola,M,232
+2021,NUMBER,Mostar,zavrsena skola,M,232555
+2021,NUMBER,Sarajevo,zavrsena skola,F,2312
+2021,NUMBER,Mostar,zavrsena skola,F,23125
