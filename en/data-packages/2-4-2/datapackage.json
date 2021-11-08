@@ -11,21 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "Educational_attainment",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "zavrsena skola"
               ]
             },
-            "title": "Educational level"
+            "title": "Educational_attainment"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Mostar",
+                "Sarajevo"
               ]
             },
             "title": "Municipality"
@@ -35,7 +38,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -47,12 +53,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

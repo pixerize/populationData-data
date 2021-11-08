@@ -12,6 +12,10 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
@@ -19,35 +23,37 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sarajevo",
+                "Mostar",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Educational_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zavrsena skola",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

@@ -12,18 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Općina"
           },
           {
             "name": "UNIT_MEASURE",
@@ -31,28 +21,44 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "Municipality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sarajevo",
+                "Mostar",
+                ""
+              ]
+            },
+            "title": "Općina"
+          },
+          {
+            "name": "Educational_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zavrsena skola",
+                ""
+              ]
+            },
+            "title": "Educational_attainment"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Razina obrazovanja"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

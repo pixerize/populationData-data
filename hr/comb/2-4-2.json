@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2021,2021,2021,2021,2021,2021],"UNIT_MEASURE":["Broj","Broj","Broj","Broj","Broj","Broj"],"Op\u0107ina":["Sarajevo","Mostar","Sarajevo","Mostar","Sarajevo","Mostar"],"Educational_attainment":["zavrsena skola","zavrsena skola","zavrsena skola","zavrsena skola","zavrsena skola","zavrsena skola"],"Spol":["Oba spola","Oba spola","M","M","\u017d","\u017d"],"Value":[23212,232125,232,232555,2312,23125]},"edges":{"From":["Op\u0107ina","Educational_attainment"],"To":["Educational_attainment","Spol"]}}
