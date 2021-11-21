@@ -42,7 +42,7 @@
           }
         ]
       },
-      "title": "Nepismeno stanovništvo u dobi iznad 10 godina, prema starosnoj grupi i spolu"
+      "title": "Childcare workers in preschool institutions by sex"
     },
     {
       "path": "2-3-2/data.csv",
@@ -93,7 +93,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-2-title"
+      "title": "Households by city/municipality and agricultural activity"
     },
     {
       "path": "1-8-2/data.csv",
@@ -122,7 +122,7 @@
           }
         ]
       },
-      "title": "Stopa sklapanja braka"
+      "title": "Population estimates by age groups and sex"
     },
     {
       "path": "5-7-1/data.csv",
@@ -178,7 +178,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-1-title"
+      "title": "Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex"
     },
     {
       "path": "3-3-2/data.csv",
@@ -249,7 +249,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-2-title"
+      "title": "Infant (up to 12 months of age) mortality by sex"
     },
     {
       "path": "6-1-2/data.csv",
@@ -278,7 +278,7 @@
           }
         ]
       },
-      "title": "Bruto domaći proizvod – po glavi stanovništva"
+      "title": "Gross Domestic Product (GDP) - Per capita"
     },
     {
       "path": "3-1-5/data.csv",
@@ -318,7 +318,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-5-title"
+      "title": "Stillbirth rate"
     },
     {
       "path": "3-2-3/data.csv",
@@ -347,7 +347,7 @@
           }
         ]
       },
-      "title": "Rak dojke"
+      "title": "Cervical cancer incidence per 100,000 female population"
     },
     {
       "path": "1-8-3/data.csv",
@@ -376,7 +376,7 @@
           }
         ]
       },
-      "title": "Razvod braka"
+      "title": "Population estimates by city/municipality, age groups and sex"
     },
     {
       "path": "1-3-1/data.csv",
@@ -405,7 +405,7 @@
           }
         ]
       },
-      "title": "Omjer zavisnosti prema spolu"
+      "title": "Crude death rate"
     },
     {
       "path": "1-6-4/data.csv",
@@ -434,7 +434,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-4-title"
+      "title": "Divorce rateMortalitetMortalitetMortalitetMortalitetMortalitet"
     },
     {
       "path": "5-2-3/data.csv",
@@ -476,7 +476,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-3-title"
+      "title": "Teachers in primary schools by sex"
     },
     {
       "path": "2-1-4/data.csv",
@@ -551,7 +551,7 @@
           }
         ]
       },
-      "title": "Projicirana vitalna statistika, prema spolu"
+      "title": "Population pyramid"
     },
     {
       "path": "1-7-5/data.csv",
@@ -593,7 +593,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-5-title"
+      "title": "Projected crude birth rate"
     },
     {
       "path": "1-4-5/data.csv",
@@ -634,7 +634,7 @@
           }
         ]
       },
-      "title": "Porođaj majki u tinejdžerskoj dobi, prema starosnoj grupi"
+      "title": "Average age at the time of divorce by sex"
     },
     {
       "path": "1-7-3/data.csv",
@@ -690,7 +690,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-3-title"
+      "title": "Projected dependency ratios by sex"
     },
     {
       "path": "1-3-6/data.csv",
@@ -730,7 +730,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-6-title"
+      "title": "Stillbirth rate"
     },
     {
       "path": "5-3-5/data.csv",
@@ -772,7 +772,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-5-title"
+      "title": "Teachers in high schools by sex"
     },
     {
       "path": "2-2-3/data.csv",
@@ -834,7 +834,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-3-title"
+      "title": "Population by city/municipality, mother tongue and sex"
     },
     {
       "path": "1-7-2/data.csv",
@@ -920,7 +920,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-2-title"
+      "title": "Projected population by age groups and sex"
     },
     {
       "path": "2-4-1/data.csv",
@@ -984,7 +984,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-4-1-title"
+      "title": "Population over 10 years of age by city/municipality, literacy and sex"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1013,7 +1013,7 @@
           }
         ]
       },
-      "title": "Bolnički kreveti na 100.000 stanovnika"
+      "title": "Beds in hospitals per 100,000 population"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1042,7 +1042,7 @@
           }
         ]
       },
-      "title": "Carski rez"
+      "title": "Caesarean sections"
     },
     {
       "path": "1-6-3/data.csv",
@@ -1071,7 +1071,7 @@
           }
         ]
       },
-      "title": "Smrtnost dojenčadi (do navršene prve godine života)"
+      "title": "Divorces"
     },
     {
       "path": "1-3-5/data.csv",
@@ -1113,7 +1113,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-5-title"
+      "title": "Stillbirths by sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1155,7 +1155,7 @@
           }
         ]
       },
-      "title": "Ukupna stopa fertiliteta"
+      "title": "Average age of population by sex"
     },
     {
       "path": "1-7-8/data.csv",
@@ -1240,7 +1240,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-8-title"
+      "title": "Projected population pyramid"
     },
     {
       "path": "5-2-2/data.csv",
@@ -1282,7 +1282,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-2-title"
+      "title": "Children who completed primary school by sex"
     },
     {
       "path": "4-1-5/data.csv",
@@ -1311,7 +1311,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-5-title"
+      "title": "Child allowance beneficiaries"
     },
     {
       "path": "5-3-2/data.csv",
@@ -1351,7 +1351,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-2-title"
+      "title": "Children at the beginning of school year by type of school"
     },
     {
       "path": "6-1-3/data.csv",
@@ -1380,7 +1380,7 @@
           }
         ]
       },
-      "title": "Rast realnog BDP-a"
+      "title": "Real Gross Domestic Product (GDP) growth"
     },
     {
       "path": "3-3-5/data.csv",
@@ -1464,7 +1464,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-4-title"
+      "title": "Projected vital statistics by sex"
     },
     {
       "path": "5-5-4/data.csv",
@@ -1504,7 +1504,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-4-title"
+      "title": "Students graduated in master and special studies by type of education"
     },
     {
       "path": "1-1-1/data.csv",
@@ -1559,7 +1559,7 @@
           }
         ]
       },
-      "title": "Stanovništvo prema dobi i spolu"
+      "title": "Vitalna statistika prema spolu (živorođeni, umrli i prirodni priraštaj)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1588,7 +1588,7 @@
           }
         ]
       },
-      "title": "Bruto domaći proizvod - ukupno (u milionima)"
+      "title": "Gross Domestic Product (GDP) - Total (millions)"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1646,7 +1646,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-1-title"
+      "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
     },
     {
       "path": "3-1-4/data.csv",
@@ -1686,7 +1686,7 @@
           }
         ]
       },
-      "title": "Stopa mrtvorođenih"
+      "title": "Stillbirths by sex"
     },
     {
       "path": "5-6-4/data.csv",
@@ -1726,7 +1726,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-4-title"
+      "title": "Students graduated in doctoral studies by type of education"
     },
     {
       "path": "3-6-2/data.csv",
@@ -1755,7 +1755,7 @@
           }
         ]
       },
-      "title": "Neostvarena potreba za planiranjem porodice"
+      "title": "Unmet need for family planning"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1797,7 +1797,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-1-title"
+      "title": "Children at the beginning of school year by sex"
     },
     {
       "path": "2-1-5/data.csv",
@@ -1837,7 +1837,7 @@
           }
         ]
       },
-      "title": "Projicirana sirova stopa nataliteta"
+      "title": "Female population by city/municipality and total number of live births"
     },
     {
       "path": "2-1-3/data.csv",
@@ -2060,7 +2060,7 @@
           }
         ]
       },
-      "title": "Projicirane stope zavisnosti, prema spolu"
+      "title": "Population by municipality, age groups and sex"
     },
     {
       "path": "3-3-1/data.csv",
@@ -2089,7 +2089,7 @@
           }
         ]
       },
-      "title": "Incidenca sifilisa"
+      "title": "Incidence of syphilis"
     },
     {
       "path": "5-7-2/data.csv",
@@ -2130,7 +2130,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-2-title"
+      "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2159,7 +2159,7 @@
           }
         ]
       },
-      "title": "Carski rez na 1.000 živorođenih"
+      "title": "Caesarean sections per 1,000 live births"
     },
     {
       "path": "1-4-1/data.csv",
@@ -2188,7 +2188,7 @@
           }
         ]
       },
-      "title": "Sirova stopa nataliteta"
+      "title": "Average age of mothers at first birth"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2363,7 +2363,7 @@
           }
         ]
       },
-      "title": "Projicirano stanovništvo, prema dobi i spolu"
+      "title": "Population by age and sex"
     },
     {
       "path": "5-7-3/data.csv",
@@ -2404,7 +2404,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-3-title"
+      "title": "Population over 10 years of age by city/municipality, literacy and sex"
     },
     {
       "path": "2-3-1/data.csv",
@@ -2462,7 +2462,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-1-title"
+      "title": "Households by city/municipality and number of members"
     },
     {
       "path": "5-4-1/data.csv",
@@ -2504,7 +2504,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-1-title"
+      "title": "Enrolled in undergraduate studies by sex"
     },
     {
       "path": "3-1-3/data.csv",
@@ -2546,7 +2546,7 @@
           }
         ]
       },
-      "title": "Mrtvorođeni"
+      "title": "Deaths by cause of death and sex"
     },
     {
       "path": "5-5-2/data.csv",
@@ -2586,7 +2586,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-2-title"
+      "title": "Enrolled in master and specialist studies by type of education"
     },
     {
       "path": "7-1-2/data.csv",
@@ -2644,7 +2644,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-2-title"
+      "title": "Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)"
     },
     {
       "path": "4-1-1/data.csv",
@@ -2684,7 +2684,7 @@
           }
         ]
       },
-      "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kada)"
+      "title": "Social protection beneficiaries by type of beneficiary"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2746,7 +2746,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-title"
+      "title": "Population by city/municipality, religion and sex"
     },
     {
       "path": "3-6-1/data.csv",
@@ -2788,7 +2788,7 @@
           }
         ]
       },
-      "title": "Stopa prevalencije kontracepcije"
+      "title": "Contraceptive prevalence rate"
     },
     {
       "path": "1-2-2/data.csv",
@@ -2817,7 +2817,7 @@
           }
         ]
       },
-      "title": "Stopa prirodnog rasta"
+      "title": "Stopa ukupnog fertiliteta"
     },
     {
       "path": "3-5-3/data.csv",
@@ -2846,7 +2846,7 @@
           }
         ]
       },
-      "title": "Doktori medicine u javnim ustanovama"
+      "title": "Medical doctors employed in health care institutions"
     },
     {
       "path": "5-5-3/data.csv",
@@ -2888,7 +2888,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-3-title"
+      "title": "Students graduated in master and special studies by sex"
     },
     {
       "path": "2-1-2/data.csv",
@@ -2974,7 +2974,7 @@
           }
         ]
       },
-      "title": "Projicirano stanovništvo, prema starosnoj grupi i spolu"
+      "title": "Population by age groups and sex"
     },
     {
       "path": "5-6-1/data.csv",
@@ -3016,7 +3016,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-1-title"
+      "title": "Enrolled in doctoral studies by sex"
     },
     {
       "path": "3-5-7/data.csv",
@@ -3045,7 +3045,7 @@
           }
         ]
       },
-      "title": "Babice"
+      "title": "Midwives employed in health care institutions"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3116,7 +3116,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-2-title"
+      "title": "Population living in relative poverty by sex"
     },
     {
       "path": "3-2-1/data.csv",
@@ -3145,7 +3145,7 @@
           }
         ]
       },
-      "title": "Rak grlića materice"
+      "title": "Cervical cancer incidence"
     },
     {
       "path": "5-6-3/data.csv",
@@ -3187,7 +3187,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-3-title"
+      "title": "Students graduated in doctoral studies by sex"
     },
     {
       "path": "1-8-1/data.csv",
@@ -3216,7 +3216,7 @@
           }
         ]
       },
-      "title": "Brak"
+      "title": "Population estimates by age and sex"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3278,7 +3278,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-1-title"
+      "title": "Population by city/municipality, ethnicity/nationality and sex"
     },
     {
       "path": "7-1-3/data.csv",
@@ -3336,7 +3336,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-3-title"
+      "title": "Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -3376,7 +3376,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-2-title"
+      "title": "Social protection beneficiaries by sex"
     },
     {
       "path": "3-6-4/data.csv",
@@ -3405,7 +3405,7 @@
           }
         ]
       },
-      "title": "Porođaj u prisustvu stručne osobe"
+      "title": "Skilled attendant at delivery"
     },
     {
       "path": "1-3-3/data.csv",
@@ -3447,7 +3447,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-3-title"
+      "title": "Infant (up to 12 months of age) mortality rate"
     },
     {
       "path": "8-1-1/data.csv",
@@ -3493,7 +3493,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-1-1-title"
+      "title": "Violence against women after the age of 15 (all types)"
     },
     {
       "path": "7-2-1/data.csv",
@@ -3522,7 +3522,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-1-title"
+      "title": "Households living in relative poverty"
     },
     {
       "path": "1-4-3/data.csv",
@@ -3564,7 +3564,7 @@
           }
         ]
       },
-      "title": "Stopa fertiliteta prema dobi"
+      "title": "Average age at death by sex"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3593,7 +3593,7 @@
           }
         ]
       },
-      "title": "Bolnički kreveti"
+      "title": "Beds in hospitals"
     },
     {
       "path": "1-4-4/data.csv",
@@ -3634,7 +3634,7 @@
           }
         ]
       },
-      "title": "Odnos spolova pri rođenju"
+      "title": "Average age at first marriage by sex"
     },
     {
       "path": "5-1-3/data.csv",
@@ -3676,7 +3676,7 @@
           }
         ]
       },
-      "title": "Stanovništvo u dobi od 25-64 godine upisano u neformalno obrazovanje odraslih, prema starosnoj dobi i spolu"
+      "title": "Children in nurseries by sex"
     },
     {
       "path": "3-1-2/data.csv",
@@ -3736,7 +3736,7 @@
           }
         ]
       },
-      "title": "Projicirana na 100.000 stanovnika"
+      "title": "Infant (up to 12 months of age) mortality rate"
     },
     {
       "path": "3-7-1/data.csv",
@@ -3795,7 +3795,7 @@
           }
         ]
       },
-      "title": "Osobe s invaliditetom prema starosnoj grupi i spolu"
+      "title": "Other"
     },
     {
       "path": "2-4-2/data.csv",
@@ -3860,7 +3860,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-4-2-title"
+      "title": "Population over 15 years of age by city/municipality, educational attainment and sex"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3889,7 +3889,7 @@
           }
         ]
       },
-      "title": "Rak grlića materice na 100.000 pripadnica ženske populacije"
+      "title": "Breast cancer incidence"
     },
     {
       "path": "1-7-7/data.csv",
@@ -3931,7 +3931,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-7-title"
+      "title": "Projected average age of population"
     },
     {
       "path": "1-6-2/data.csv",
@@ -3960,7 +3960,7 @@
           }
         ]
       },
-      "title": "Smrtnost dojenčadi (do navršene prve godine života), prema spolu"
+      "title": "Marriage rate"
     },
     {
       "path": "3-6-3/data.csv",
@@ -3989,7 +3989,7 @@
           }
         ]
       },
-      "title": "Zadovoljena potražnja za planiranjem porodice"
+      "title": "Satisfied demand for family planning"
     },
     {
       "path": "5-7-4/data.csv",
@@ -4030,7 +4030,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-4-title"
+      "title": "Population over 15 years of age by city/municipality, educational attainment and sex"
     },
     {
       "path": "1-2-3/data.csv",
@@ -4078,7 +4078,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-3-title"
+      "title": "Age-specific fertility rate"
     },
     {
       "path": "5-3-4/data.csv",
@@ -4118,7 +4118,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-4-title"
+      "title": "Children who completed high school by type of school"
     },
     {
       "path": "2-5-1/data.csv",
@@ -4199,7 +4199,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-5-1-title"
+      "title": "Population by city/municipality, type of disability and sex"
     },
     {
       "path": "3-1-1/data.csv",
@@ -4273,7 +4273,7 @@
           }
         ]
       },
-      "title": "Smrt prema uzroku smrti i spolu"
+      "title": "Infant (up to 12 months of age) mortality by sex"
     },
     {
       "path": "3-5-6/data.csv",
@@ -4302,7 +4302,7 @@
           }
         ]
       },
-      "title": "Broj stanovnika na jednog doktora opće medicine"
+      "title": "Family medicine doctors employed in health care institutions per 100,000 population"
     },
     {
       "path": "1-2-1/data.csv",
@@ -4331,7 +4331,7 @@
           }
         ]
       },
-      "title": "Vitalna statistika prema spolu"
+      "title": "Stopa nataliteta"
     },
     {
       "path": "5-1-2/data.csv",
@@ -4373,7 +4373,7 @@
           }
         ]
       },
-      "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
+      "title": "Children in preschool institutions by sex"
     },
     {
       "path": "3-3-3/data.csv",
@@ -4443,7 +4443,7 @@
           }
         ]
       },
-      "title": "Prosječna dob majki pri prvom porođaju"
+      "title": "Life expectancy at birth by sex"
     },
     {
       "path": "5-6-2/data.csv",
@@ -4483,7 +4483,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-2-title"
+      "title": "Enrolled in doctoral studies by type of education"
     },
     {
       "path": "2-1-6/data.csv",
@@ -4539,7 +4539,7 @@
           }
         ]
       },
-      "title": "Projicirana sirova stopa mortaliteta"
+      "title": "Dependency ratios by sex"
     },
     {
       "path": "5-3-3/data.csv",
@@ -4581,7 +4581,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-3-title"
+      "title": "Children who completed high school by sex"
     },
     {
       "path": "5-4-2/data.csv",
@@ -4623,7 +4623,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-2-title"
+      "title": "Graduated students by sex"
     },
     {
       "path": "1-2-5/data.csv",
@@ -4664,7 +4664,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-5-title"
+      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "1-6-1/data.csv",
@@ -4693,7 +4693,7 @@
           }
         ]
       },
-      "title": "Sirova stopa smrtnosti"
+      "title": "Marriages"
     },
     {
       "path": "3-5-4/data.csv",
@@ -4722,7 +4722,7 @@
           }
         ]
       },
-      "title": "Doktori medicine u javnim ustanovama na 100.000 stanovnika"
+      "title": "Medical doctors employed in health care institutions per 100,000 population"
     },
     {
       "path": "3-5-5/data.csv",
@@ -4751,7 +4751,7 @@
           }
         ]
       },
-      "title": "Doktori opće medicine"
+      "title": "Family medicine doctors employed in health care institutions"
     },
     {
       "path": "1-7-6/data.csv",
@@ -4793,7 +4793,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-6-title"
+      "title": "Projected crude death rate"
     },
     {
       "path": "3-2-4/data.csv",
@@ -4822,7 +4822,7 @@
           }
         ]
       },
-      "title": "Rak dojke na 100.000 pripadnica ženske populacije"
+      "title": "Breast cancer incidence per 100,000 female population"
     },
     {
       "path": "1-7-1/data.csv",
@@ -4996,7 +4996,7 @@
           }
         ]
       },
-      "title": "Očekivana dužina života pri rođenju, prema spolu"
+      "title": "Projected population by age and sex"
     },
     {
       "path": "1-3-4/data.csv",
@@ -5070,7 +5070,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-4-title"
+      "title": "Deaths by cause of death and sex"
     },
     {
       "path": "5-4-3/data.csv",
@@ -5110,7 +5110,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-3-title"
+      "title": "Graduated students by type of education"
     },
     {
       "path": "5-3-1/data.csv",
@@ -5152,7 +5152,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-1-title"
+      "title": "Children at the beginning of school year by sex"
     },
     {
       "path": "5-5-1/data.csv",
@@ -5194,7 +5194,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-1-title"
+      "title": "Enrolled in master and specialist studies by sex"
     },
     {
       "path": "5-1-1/data.csv",
@@ -5234,7 +5234,7 @@
           }
         ]
       },
-      "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutom nivou obrazovanja i spolu"
+      "title": "Preschool institutions by ownership"
     },
     {
       "path": "4-1-3/data.csv",
@@ -5274,7 +5274,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-3-title"
+      "title": "Social protection beneficiaries by type of institution"
     },
     {
       "path": "4-2-1/data.csv",
@@ -5314,7 +5314,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-1-title"
+      "title": "Social protection institutions by type"
     },
     {
       "path": "1-1-2/data.csv",
@@ -5343,7 +5343,7 @@
           }
         ]
       },
-      "title": "Stanovništvo po entitetima, prema dobi i spolu"
+      "title": "Stopa prirodnog rasta"
     },
     {
       "path": "1-2-4/data.csv",
@@ -5372,7 +5372,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-4-title"
+      "title": "Sex ratio at birth"
     },
     {
       "path": "4-1-4/data.csv",
@@ -5412,7 +5412,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-4-title"
+      "title": "Social protection services by type of beneficiary"
     }
   ]
 }
