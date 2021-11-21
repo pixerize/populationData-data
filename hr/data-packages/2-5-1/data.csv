@@ -1,4 +1,4 @@
-Year,Općina,Spol,AGE,UNIT_MEASURE,type_of_disability,Value
+Year,Općina,Spol,Starosna dob,UNIT_MEASURE,type_of_disability,Value
 2013,Sarajevo,Oba spola,0-14,Broj,Disability,4525.0
 2013,Sarajevo,Oba spola,15-19,Broj,Disability,2886.0
 2013,Sarajevo,Oba spola,20-29,Broj,Disability,6398.0

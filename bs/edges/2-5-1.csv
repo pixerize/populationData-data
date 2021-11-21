@@ -1,4 +1,4 @@
 From,To
 Općina,Spol
-Spol,AGE
-AGE,type_of_disability
+Spol,Starosna dob
+Starosna dob,type_of_disability
