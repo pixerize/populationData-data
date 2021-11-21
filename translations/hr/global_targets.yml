@@ -1,23 +1,33 @@
-1-1-title: Popis stanovništva
-1-2-title: Vitalna statistika
-1-3-title: Omjeri ovisnosti
-1-4-title: Fertilitet
-1-5-title: Prosječna dob
-1-6-title: Mortalitet
-1-7-title: Očekivano trajanje života
-1-8-title: Brak i razvod braka
-1-9-title: Kućanstva
-2-1-title: Projiciranje stanovništva
-3-1-title: Smrtnost i uzroci smrti
-3-2-title: Rak
-3-3-title: Spolno prenosive bolesti
-3-7-title: Planiranje obitelji
+1-1-title: Prirodno kretanje stanovništva
+1-2-title: Fertilitet
+1-3-title: Mortalitet
+1-4-title: Prosječna dob stanovništva
+1-5-title: Očekivano trajanje života
+1-6-title: Zaključeni i razvedeni brakovi
+1-7-title: Projiciranje stanovništva 2019-2070
+1-8-title: Procjene broja stanovnika
+2-1-title: Demografski podaci
+2-2-title: Etnička/nacionalna pripadnost, vjeroispovijest i maternji jezik
+2-3-title: Kućanstva i obitelji
+2-4-title: Obrazovne karakteristike
+2-5-title: Invaliditet
+3-1-title: Smrtnost i uzroci smrtnosti
+3-2-title: Karcinomi
+3-3-title: Seksualno prenosive bolesti
 3-4-title: Carski rez
-3-5-title: Kapaciteti usluga zdravstvene zaštite
+3-5-title: Kapaciteti zdravstvenog sektora
 3-6-title: Planiranje obitelji
-3-7-title: Osobe s invaliditetom 
-4-1-title: Podaci o nasilju
-5-1-title: Obrazovanje
-6-1-title: Bruto domaći proizvod
-6-2-title: Relativno siromaštvo
-6-3-title: Radna snaga
+3-7-title: Ostalo
+4-1-title: Korisnici socijalne skrbi
+4-2-title: Ustanove socijalne skrbi
+5-1-title: Predškolsko obrazovanje
+5-2-title: Osnovnoškolsko obrazovanje
+5-3-title: Srednjoškolsko obrazovanje
+5-4-title: Visokoškolsko obrazovanje (1. ciklus)
+5-5-title: Visokoškolsko obrazovanje (2. ciklus)
+5-6-title: Visokoškolsko obrazovanje (3. ciklus)
+5-7-title: Ostalo
+6-1-title: Bruto društveni proizvod (BDP)
+7-1-title: Radna snaga
+7-2-title: Životni standard
+8-1-title: Nasilje nad ženama
