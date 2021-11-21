@@ -1,4 +1,4 @@
 From,To
 Općina,Spol
-Spol,Godine
-Godine,type_of_disability
+Spol,AGE
+AGE,type_of_disability
