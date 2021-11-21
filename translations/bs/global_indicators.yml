@@ -1,76 +1,119 @@
-1-1-1-title: Stanovništvo prema dobi i spolu
-1-1-2-title: Stanovništvo po entitetima, prema dobi i spolu
-1-1-3-title: Stanovništvo prema starosnoj grupi i spolu
-1-1-4-title: Stanovništvo po entitetima, prema starosnoj grupi i spolu
-1-1-5-title: Stanovništvo po općini, starosnoj grupi i spolu
-1-1-6-title: Piramida stanovništva prema starosnoj grupi i spolu
-1-2-1-title: Vitalna statistika prema spolu
-1-2-2-title: Stopa prirodnog rasta 
-1-3-1-title: Omjer zavisnosti prema spolu
-1-4-1-title: Sirova stopa nataliteta 
-1-4-2-title: Ukupna stopa fertiliteta 
-1-4-3-title: Stopa fertiliteta prema dobi
-1-4-4-title: Odnos spolova pri rođenju 
-1-4-5-title: Porođaj majki u tinejdžerskoj dobi, prema starosnoj grupi 
-1-5-1-title: Prosječna dob majki pri prvom porođaju
-1-5-2-title: Prosječna dob stanovništva, prema spolu
-1-5-3-title: Prosječna dob smrti, prema spolu  
-1-5-4-title: Prosječna dob prilikom sklapanja prvog braka, prema spolu
-1-6-1-title: Sirova stopa smrtnosti
-1-6-2-title: Smrtnost dojenčadi (do navršene prve godine života), prema spolu
-1-6-3-title: Smrtnost dojenčadi (do navršene prve godine života)
-1-7-1-title: Očekivana dužina života pri rođenju, prema spolu 
-1-8-1-title: Brak
-1-8-2-title: Stopa sklapanja braka
-1-8-3-title: Razvod braka
-1-8-4-title: Stopa razvoda braka (na 1.000 brakova)
-1-9-1-title: Domaćinstva
-2-1-1-title: Projicirano stanovništvo, prema dobi i spolu
-2-1-2-title: Projicirano stanovništvo, prema starosnoj grupi i spolu
-2-1-3-title: Projicirane stope zavisnosti, prema spolu
-2-1-4-title: Projicirana vitalna statistika, prema spolu
-2-1-5-title: Projicirana sirova stopa nataliteta
-2-1-6-title: Projicirana sirova stopa mortaliteta
-2-1-7-title: Projicirana prosječna dob stanovništva
-2-1-8-title: Projicirana piramida stanovništva
-3-1-1-title: Smrt prema uzroku smrti i spolu
-3-1-2-title: Projicirana na 100.000 stanovnika 
-3-1-3-title: Mrtvorođeni
-3-1-4-title: Stopa mrtvorođenih
-3-2-1-title: Rak grlića materice
-3-2-2-title: Rak grlića materice na 100.000 pripadnica ženske populacije
-3-2-3-title: Rak dojke
-3-2-4-title: Rak dojke na 100.000 pripadnica ženske populacije
-3-3-1-title: Incidenca sifilisa
-3-3-2-title: Incidenca gonoreje
-3-3-3-title: Incidenca AIDS-a
-3-3-4-title: Incidenca HIV-a
-3-3-5-title: Incidenca HIV-a na 100.000 stanovnika
-3-4-1-title: Carski rez
-3-4-2-title: Carski rez na 1.000 živorođenih
-3-5-1-title: Bolnički kreveti
-3-5-2-title: Bolnički kreveti na 100.000 stanovnika
-3-5-3-title: Doktori medicine u javnim ustanovama
-3-5-4-title: Doktori medicine u javnim ustanovama na 100.000 stanovnika
-3-5-5-title: Doktori opće medicine
-3-5-6-title: Broj stanovnika na jednog doktora opće medicine
-3-5-7-title: Babice
-3-6-1-title: Stopa prevalencije kontracepcije
-3-6-2-title: Neostvarena potreba za planiranjem porodice
-3-6-3-title: Zadovoljena potražnja za planiranjem porodice
-3-6-4-title: Porođaj u prisustvu stručne osobe
-3-7-1-title: Osobe s invaliditetom prema starosnoj grupi i spolu
-4-1-1-title: Nasilje nad ženama nakon navršenih 15 godina života (bilo kada)
-5-1-1-title: Stanovništvo u dobi iznad 15 godina, prema dostignutom nivou obrazovanja i spolu
-5-1-2-title: Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove
-5-1-3-title: Stanovništvo u dobi od 25-64 godine upisano u neformalno obrazovanje odraslih, prema starosnoj dobi i spolu
-5-1-4-title: Nepismeno stanovništvo u dobi iznad 10 godina, prema starosnoj grupi i spolu
-5-1-5-title: Stanovništvo u dobi od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema spolu
-6-1-1-title: Bruto domaći proizvod - ukupno (u milionima) 
-6-1-2-title: Bruto domaći proizvod – po glavi stanovništva
-6-1-3-title: Rast realnog BDP-a
-6-2-1-title: Domaćinstva koja žive u relativnom siromaštvu 
-6-2-2-title: Stanovništvo koje živi u relativnom siromaštvu, prema spolu
-6-3-1-title: Stopa učešća radne snage (postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu (15-64), prema starosnoj grupi i spolu)
-6-3-2-title: Omjer zaposlenosti i broja stanovnika (postotak zaposlenog stanovništva u radno sposobnom stanovništvu (15-64), prema starosnoj grupi i spolu)
-6-3-3-title: Stopa nezaposlenosti (postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi), prema starosnoj grupi i spolu)
+1-1-1-title: Vitalna statistika prema spolu (živorođeni, umrli i prirodni priraštaj)
+1-1-2-title: Stopa prirodnog rasta
+1-2-1-title: Stopa nataliteta
+1-2-2-title: Stopa ukupnog fertiliteta
+1-2-3-title: Age-specific fertility rate
+1-2-4-title: Sex ratio at birth
+1-2-5-title: Births by teenage mothers by age group
+1-3-1-title: Crude death rate
+1-3-2-title: Infant (up to 12 months of age) mortality by sex
+1-3-3-title: Infant (up to 12 months of age) mortality rate
+1-3-4-title: Deaths by cause of death and sex
+1-3-5-title: Stillbirths by sex
+1-3-6-title: Stillbirth rate
+1-4-1-title: Average age of mothers at first birth
+1-4-2-title: Average age of population by sex
+1-4-3-title: Average age at death by sex
+1-4-4-title: Average age at first marriage by sex
+1-4-5-title: Average age at the time of divorce by sex
+1-5-1-title: Life expectancy at birth by sex
+1-6-1-title: Marriages
+1-6-2-title: Marriage rate
+1-6-3-title: Divorces
+1-6-4-title: Divorce rateMortalitetMortalitetMortalitetMortalitetMortalitet
+1-7-1-title: Projected population by age and sex
+1-7-2-title: Projected population by age groups and sex
+1-7-3-title: Projected dependency ratios by sex
+1-7-4-title: Projected vital statistics by sex
+1-7-5-title: Projected crude birth rate
+1-7-6-title: Projected crude death rate
+1-7-7-title: Projected average age of population
+1-7-8-title: Projected population pyramid
+1-8-1-title: Population estimates by age and sex
+1-8-2-title: Population estimates by age groups and sex
+1-8-3-title: Population estimates by city/municipality, age groups and sex
+1-9-1-title: Households 
+2-1-1-title: Population by age and sex
+2-1-2-title: Population by age groups and sex
+2-1-3-title: Population by municipality, age groups and sex
+2-1-4-title: Population pyramid
+2-1-5-title: Female population by city/municipality and total number of live births
+2-1-6-title: Dependency ratios by sex
+2-2-1-title: Population by city/municipality, ethnicity/nationality and sex
+2-2-2-title: Population by city/municipality, religion and sex
+2-2-3-title: Population by city/municipality, mother tongue and sex
+2-3-1-title: Households by city/municipality and number of members
+2-3-2-title: Households by city/municipality and agricultural activity
+2-4-1-title: Population over 10 years of age by city/municipality, literacy and sex
+2-4-2-title: Population over 15 years of age by city/municipality, educational attainment and sex
+2-5-1-title: Population by city/municipality, type of disability and sex
+3-1-1-title: Infant (up to 12 months of age) mortality by sex
+3-1-2-title: Infant (up to 12 months of age) mortality rate
+3-1-3-title: Deaths by cause of death and sex
+3-1-4-title: Stillbirths by sex
+3-1-5-title: Stillbirth rate
+3-2-1-title: Cervical cancer incidence
+3-2-2-title: Breast cancer incidence
+3-2-3-title: Cervical cancer incidence per 100,000 female population
+3-2-4-title: Breast cancer incidence per 100,000 female population
+3-3-1-title: Incidence of syphilis
+3-3-2-title: Incidence of gonorrhoea
+3-3-3-title: Incidence of AIDS
+3-3-4-title: Incidence of HIV
+3-3-5-title: Incidence of HIV per 100,000 population
+3-4-1-title: Caesarean sections
+3-4-2-title: Caesarean sections per 1,000 live births
+3-5-1-title: Beds in hospitals
+3-5-2-title: Beds in hospitals per 100,000 population
+3-5-3-title: Medical doctors employed in health care institutions
+3-5-4-title: Medical doctors employed in health care institutions per 100,000 population
+3-5-5-title: Family medicine doctors employed in health care institutions
+3-5-6-title: Family medicine doctors employed in health care institutions per 100,000 population
+3-5-7-title: Midwives employed in health care institutions
+3-6-1-title: Contraceptive prevalence rate
+3-6-2-title: Unmet need for family planning
+3-6-3-title: Satisfied demand for family planning
+3-6-4-title: Skilled attendant at delivery
+3-7-1-title: Other
+4-1-1-title: Social protection beneficiaries by type of beneficiary
+4-1-2-title: Social protection beneficiaries by sex
+4-1-3-title: Social protection beneficiaries by type of institution
+4-1-4-title: Social protection services by type of beneficiary
+4-1-5-title: Child allowance beneficiaries
+4-2-1-title: Social protection institutions by type
+5-1-1-title: Preschool institutions by ownership
+5-1-2-title: Children in preschool institutions by sex
+5-1-3-title: Children in nurseries by sex
+5-1-4-title: Childcare workers in preschool institutions by sex
+5-2-1-title: Children at the beginning of school year by sex
+5-2-2-title: Children who completed primary school by sex
+5-2-3-title: Teachers in primary schools by sex
+5-3-1-title: Children at the beginning of school year by sex
+5-3-2-title: Children at the beginning of school year by type of school
+5-3-3-title: Children who completed high school by sex 
+5-3-4-title: Children who completed high school by type of school
+5-3-5-title: Teachers in high schools by sex
+5-4-1-title: Enrolled in undergraduate studies by sex
+5-4-2-title: Graduated students by sex
+5-4-3-title: Graduated students by type of education
+5-5-1-title: Enrolled in master and specialist studies by sex
+5-5-2-title: Enrolled in master and specialist studies by type of education
+5-5-3-title: Students graduated in master and special studies by sex
+5-5-4-title: Students graduated in master and special studies by type of education
+5-6-1-title: Enrolled in doctoral studies by sex
+5-6-2-title: Enrolled in doctoral studies by type of education
+5-6-3-title: Students graduated in doctoral studies by sex
+5-6-4-title: Students graduated in doctoral studies by type of education
+5-7-1-title: Population 25-64 years of age enrolled in non-formal, adult education by age groups and sex
+5-7-2-title: Population 15-24 years of age not in employment, education or training (NEET) by sex
+5-7-3-title: Population over 10 years of age by city/municipality, literacy and sex
+5-7-4-title: Population over 15 years of age by city/municipality, educational attainment and sex
+6-1-1-title: Gross Domestic Product (GDP) - Total (millions)
+6-1-2-title: Gross Domestic Product (GDP) - Per capita
+6-1-3-title: Real Gross Domestic Product (GDP) growth
+7-1-1-title: Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)
+7-1-2-title: Employment-to-population ratio (Percentage of employed population in working age population (15-64) by age group and sex)
+7-1-3-title: Unemployment rate (Percentage of unemployed population in active population (labour force) by age group and sex)
+7-2-1-title: Households living in relative poverty
+7-2-2-title: Population living in relative poverty by sex
+8-1-1-title: Violence against women after the age of 15 (all types)
