@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2016,Number,M,Deaths,18542
 2017,Number,M,Deaths,19186
 2018,Number,M,Deaths,19007
-2019,Number,M,Deaths,19042
+2019,Number,M,Deaths,19787
 1996,Number,F,Deaths,11200
 1997,Number,F,Deaths,12691
 1998,Number,F,Deaths,13376
@@ -142,7 +142,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2016,Number,F,Deaths,18029
 2017,Number,F,Deaths,18793
 2018,Number,F,Deaths,18737
-2019,Number,F,Deaths,19787
+2019,Number,F,Deaths,19042
 1996,Number,Both sexes,Natural change,21442
 1997,Number,Both sexes,Natural change,20522
 1998,Number,Both sexes,Natural change,16328
