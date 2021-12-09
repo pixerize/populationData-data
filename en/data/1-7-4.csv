@@ -1,100 +1,100 @@
 Year,Sex,Vital statistics,UNIT_MEASURE,Value
-2020,Both sexes,Live births,Number,29511.0
-2020,Both sexes,Deaths,Number,37517.0
-2020,Both sexes,Natural change,Number,-8006.0
-2025,Both sexes,Live births,Number,26090.0
-2025,Both sexes,Deaths,Number,39013.0
-2025,Both sexes,Natural change,Number,-12924.0
-2030,Both sexes,Live births,Number,22815.0
-2030,Both sexes,Deaths,Number,40539.0
-2030,Both sexes,Natural change,Number,-17724.0
-2035,Both sexes,Live births,Number,20041.0
-2035,Both sexes,Deaths,Number,42144.0
-2035,Both sexes,Natural change,Number,-22103.0
-2040,Both sexes,Live births,Number,18095.0
-2040,Both sexes,Deaths,Number,43514.0
-2040,Both sexes,Natural change,Number,-25419.0
-2045,Both sexes,Live births,Number,16461.0
-2045,Both sexes,Deaths,Number,44097.0
-2045,Both sexes,Natural change,Number,-27635.0
-2050,Both sexes,Live births,Number,14955.0
-2050,Both sexes,Deaths,Number,43537.0
-2050,Both sexes,Natural change,Number,-28582.0
-2055,Both sexes,Live births,Number,13510.0
-2055,Both sexes,Deaths,Number,42130.0
-2055,Both sexes,Natural change,Number,-28620.0
-2060,Both sexes,Live births,Number,12120.0
-2060,Both sexes,Deaths,Number,40129.0
-2060,Both sexes,Natural change,Number,-28009.0
-2065,Both sexes,Live births,Number,10861.0
-2065,Both sexes,Deaths,Number,37783.0
-2065,Both sexes,Natural change,Number,-26921.0
-2070,Both sexes,Live births,Number,9813.0
-2070,Both sexes,Deaths,Number,35279.0
-2070,Both sexes,Natural change,Number,-25466.0
-2020,M,Live births,Number,15198.1
-2020,M,Deaths,Number,19067.38
-2020,M,Natural change,Number,-3869.28
-2025,M,Live births,Number,13436.14
-2025,M,Deaths,Number,19749.42
-2025,M,Natural change,Number,-6313.28
-2030,M,Live births,Number,11749.71
-2030,M,Deaths,Number,20415.9
-2030,M,Natural change,Number,-8666.19
-2035,M,Live births,Number,10321.36
-2035,M,Deaths,Number,21109.52
-2035,M,Natural change,Number,-10788.16
-2040,M,Live births,Number,9318.9
-2040,M,Deaths,Number,21636.31
-2040,M,Natural change,Number,-12317.42
-2045,M,Live births,Number,8477.6
-2045,M,Deaths,Number,21687.35
-2045,M,Natural change,Number,-13209.75
-2050,M,Live births,Number,7701.99
-2050,M,Deaths,Number,21195.41
-2050,M,Natural change,Number,-13493.42
-2055,M,Live births,Number,6957.74
-2055,M,Deaths,Number,20338.32
-2055,M,Natural change,Number,-13380.59
-2060,M,Live births,Number,6241.95
-2060,M,Deaths,Number,19207.75
-2060,M,Natural change,Number,-12965.8
-2065,M,Live births,Number,5593.5
-2065,M,Deaths,Number,17838.31
-2065,M,Natural change,Number,-12244.81
-2070,M,Live births,Number,5053.93
-2070,M,Deaths,Number,16375.72
-2070,M,Natural change,Number,-11321.79
-2020,F,Live births,Number,14312.78
-2020,F,Deaths,Number,18449.39
-2020,F,Natural change,Number,-4136.61
-2025,F,Live births,Number,12653.45
-2025,F,Deaths,Number,19263.68
-2025,F,Natural change,Number,-6610.23
-2030,F,Live births,Number,11065.26
-2030,F,Deaths,Number,20122.9
-2030,F,Natural change,Number,-9057.64
-2035,F,Live births,Number,9720.12
-2035,F,Deaths,Number,21034.49
-2035,F,Natural change,Number,-11314.37
-2040,F,Live births,Number,8776.05
-2040,F,Deaths,Number,21877.98
-2040,F,Natural change,Number,-13101.93
-2045,F,Live births,Number,7983.76
-2045,F,Deaths,Number,22409.28
-2045,F,Natural change,Number,-14425.52
-2050,F,Live births,Number,7253.33
-2050,F,Deaths,Number,22341.66
-2050,F,Natural change,Number,-15088.33
-2055,F,Live births,Number,6552.43
-2055,F,Deaths,Number,21791.64
-2055,F,Natural change,Number,-15239.21
-2060,F,Live births,Number,5878.35
-2060,F,Deaths,Number,20921.08
-2060,F,Natural change,Number,-15042.73
-2065,F,Live births,Number,5267.66
-2065,F,Deaths,Number,19944.35
-2065,F,Natural change,Number,-14676.69
-2070,F,Live births,Number,4759.53
-2070,F,Deaths,Number,18903.51
-2070,F,Natural change,Number,-14143.98
+2020,Both sexes,Live births,Number,29511
+2020,Both sexes,Deaths,Number,37517
+2020,Both sexes,Natural change,Number,-8006
+2025,Both sexes,Live births,Number,26090
+2025,Both sexes,Deaths,Number,39013
+2025,Both sexes,Natural change,Number,-12924
+2030,Both sexes,Live births,Number,22815
+2030,Both sexes,Deaths,Number,40539
+2030,Both sexes,Natural change,Number,-17724
+2035,Both sexes,Live births,Number,20041
+2035,Both sexes,Deaths,Number,42144
+2035,Both sexes,Natural change,Number,-22103
+2040,Both sexes,Live births,Number,18095
+2040,Both sexes,Deaths,Number,43514
+2040,Both sexes,Natural change,Number,-25419
+2045,Both sexes,Live births,Number,16461
+2045,Both sexes,Deaths,Number,44097
+2045,Both sexes,Natural change,Number,-27635
+2050,Both sexes,Live births,Number,14955
+2050,Both sexes,Deaths,Number,43537
+2050,Both sexes,Natural change,Number,-28582
+2055,Both sexes,Live births,Number,13510
+2055,Both sexes,Deaths,Number,42130
+2055,Both sexes,Natural change,Number,-28620
+2060,Both sexes,Live births,Number,12120
+2060,Both sexes,Deaths,Number,40129
+2060,Both sexes,Natural change,Number,-28009
+2065,Both sexes,Live births,Number,10861
+2065,Both sexes,Deaths,Number,37783
+2065,Both sexes,Natural change,Number,-26921
+2070,Both sexes,Live births,Number,9813
+2070,Both sexes,Deaths,Number,35279
+2070,Both sexes,Natural change,Number,-25466
+2020,M,Live births,Number,15198
+2020,M,Deaths,Number,19067
+2020,M,Natural change,Number,-3869
+2025,M,Live births,Number,13436
+2025,M,Deaths,Number,19749
+2025,M,Natural change,Number,-6313
+2030,M,Live births,Number,11750
+2030,M,Deaths,Number,20416
+2030,M,Natural change,Number,-8666
+2035,M,Live births,Number,10321
+2035,M,Deaths,Number,21110
+2035,M,Natural change,Number,-10788
+2040,M,Live births,Number,9319
+2040,M,Deaths,Number,21636
+2040,M,Natural change,Number,-12317
+2045,M,Live births,Number,84778
+2045,M,Deaths,Number,21687
+2045,M,Natural change,Number,-13210
+2050,M,Live births,Number,7702
+2050,M,Deaths,Number,21195
+2050,M,Natural change,Number,-13493
+2055,M,Live births,Number,6958
+2055,M,Deaths,Number,20338
+2055,M,Natural change,Number,-13181
+2060,M,Live births,Number,6242
+2060,M,Deaths,Number,19208
+2060,M,Natural change,Number,-12966
+2065,M,Live births,Number,5593
+2065,M,Deaths,Number,17838
+2065,M,Natural change,Number,-12245
+2070,M,Live births,Number,5054
+2070,M,Deaths,Number,16376
+2070,M,Natural change,Number,-11322
+2020,F,Live births,Number,14313
+2020,F,Deaths,Number,18449
+2020,F,Natural change,Number,-4137
+2025,F,Live births,Number,12653
+2025,F,Deaths,Number,19264
+2025,F,Natural change,Number,-6610
+2030,F,Live births,Number,11065
+2030,F,Deaths,Number,20123
+2030,F,Natural change,Number,-9058
+2035,F,Live births,Number,9720
+2035,F,Deaths,Number,21034
+2035,F,Natural change,Number,-11314
+2040,F,Live births,Number,8776
+2040,F,Deaths,Number,21878
+2040,F,Natural change,Number,-13102
+2045,F,Live births,Number,7984
+2045,F,Deaths,Number,22409
+2045,F,Natural change,Number,-14426
+2050,F,Live births,Number,7253
+2050,F,Deaths,Number,22342
+2050,F,Natural change,Number,-15088
+2055,F,Live births,Number,6552
+2055,F,Deaths,Number,21792
+2055,F,Natural change,Number,-15239
+2060,F,Live births,Number,5878
+2060,F,Deaths,Number,20921
+2060,F,Natural change,Number,-15043
+2065,F,Live births,Number,5268
+2065,F,Deaths,Number,19944
+2065,F,Natural change,Number,-14677
+2070,F,Live births,Number,4760
+2070,F,Deaths,Number,18904
+2070,F,Natural change,Number,-14144
