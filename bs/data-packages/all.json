@@ -1351,7 +1351,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -2726,7 +2726,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
                 "M",
                 "Ž",
                 ""

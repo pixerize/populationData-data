@@ -1346,7 +1346,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2718,8 +2718,7 @@
               "enum": [
                 "",
                 "F",
-                "M",
-                "Both sexes"
+                "M"
               ]
             },
             "title": "Sex"

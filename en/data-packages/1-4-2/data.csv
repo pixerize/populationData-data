@@ -1,16 +1,7 @@
 Year,UNIT_MEASURE,Sex,Value
-2004,Age,Both sexes,37.8
-2007,Age,Both sexes,38.3
-2011,Age,Both sexes,39.7
-2013,Age,Both sexes,39.5
-2015,Age,Both sexes,41.9
-2004,Age,M,36.8
-2007,Age,M,37.2
-2011,Age,M,38.6
+1981,Age,M,28.7
+1991,Age,M,33.0
 2013,Age,M,38.2
-2015,Age,M,40.5
-2004,Age,F,38.7
-2007,Age,F,39.4
-2011,Age,F,40.8
+1981,Age,F,30.5
+1991,Age,F,35.0
 2013,Age,F,40.7
-2015,Age,F,43.3
