@@ -491,17 +491,6 @@
             "title": "Година"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            },
-            "title": "Oпштина"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -535,17 +524,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
-          },
-          {
-            "name": "type_of_disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disability",
-                ""
-              ]
-            },
-            "title": "type_of_disability"
           },
           {
             "name": "Value",

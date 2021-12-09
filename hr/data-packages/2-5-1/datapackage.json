@@ -16,17 +16,6 @@
             "title": "Godina"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            },
-            "title": "Općina"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -60,17 +49,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
-          },
-          {
-            "name": "type_of_disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disability",
-                ""
-              ]
-            },
-            "title": "type_of_disability"
           },
           {
             "name": "Value",

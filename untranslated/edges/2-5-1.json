@@ -1,1 +1,1 @@
-{"From":["Municipality","SEX","AGE"],"To":["SEX","AGE","type_of_disability"]}
+{"From":["SEX"],"To":["AGE"]}

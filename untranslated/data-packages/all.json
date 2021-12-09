@@ -459,16 +459,6 @@
             "type": "integer"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -499,16 +489,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "type_of_disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disability",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

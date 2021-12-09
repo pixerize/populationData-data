@@ -28,17 +28,6 @@
             "title": "Age"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -65,17 +54,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "type_of_disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Disability"
-              ]
-            },
-            "title": "type_of_disability"
           }
         ]
       }

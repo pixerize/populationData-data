@@ -1,43 +1,43 @@
-Year,Općina,Spol,Starosna dob,UNIT_MEASURE,type_of_disability,Value
-2013,Sarajevo,Oba spola,0-14,Broj,Disability,4525.0
-2013,Sarajevo,Oba spola,15-19,Broj,Disability,2886.0
-2013,Sarajevo,Oba spola,20-29,Broj,Disability,6398.0
-2013,Sarajevo,Oba spola,30-49,Broj,Disability,40196.0
-2013,Sarajevo,Oba spola,50-59,Broj,Disability,57495.0
-2013,Sarajevo,Oba spola,60-64,Broj,Disability,34559.0
-2013,Sarajevo,Oba spola,65+,Broj,Disability,147999.0
-2013,Sarajevo,Oba spola,0-14,% od ukupno,Disability,1.538812071
-2013,Sarajevo,Oba spola,15-19,% od ukupno,Disability,0.981439036
-2013,Sarajevo,Oba spola,20-29,% od ukupno,Disability,2.175761244
-2013,Sarajevo,Oba spola,30-49,% od ukupno,Disability,13.66941216
-2013,Sarajevo,Oba spola,50-59,% od ukupno,Disability,19.5522652
-2013,Sarajevo,Oba spola,60-64,% od ukupno,Disability,11.7524434
-2013,Sarajevo,Oba spola,65+,% od ukupno,Disability,50.3298669
-2013,Sarajevo,M,0-14,Broj,Disability,2606.0
-2013,Sarajevo,M,15-19,Broj,Disability,1641.0
-2013,Sarajevo,M,20-29,Broj,Disability,3821.0
-2013,Sarajevo,M,30-49,Broj,Disability,25762.0
-2013,Sarajevo,M,50-59,Broj,Disability,30653.0
-2013,Sarajevo,M,60-64,Broj,Disability,16157.0
-2013,Sarajevo,M,65+,Broj,Disability,52335.0
-2013,Sarajevo,M,0-14,% od ukupno,Disability,1.959766873
-2013,Sarajevo,M,15-19,% od ukupno,Disability,1.234066554
-2013,Sarajevo,M,20-29,% od ukupno,Disability,2.873472457
-2013,Sarajevo,M,30-49,% od ukupno,Disability,19.37356646
-2013,Sarajevo,M,50-59,% od ukupno,Disability,23.05170145
-2013,Sarajevo,M,60-64,% od ukupno,Disability,12.15040421
-2013,Sarajevo,M,65+,% od ukupno,Disability,39.357022
-2013,Sarajevo,Ž,0-14,Broj,Disability,1919.0
-2013,Sarajevo,Ž,15-19,Broj,Disability,1245.0
-2013,Sarajevo,Ž,20-29,Broj,Disability,2577.0
-2013,Sarajevo,Ž,30-49,Broj,Disability,14434.0
-2013,Sarajevo,Ž,50-59,Broj,Disability,26842.0
-2013,Sarajevo,Ž,60-64,Broj,Disability,18402.0
-2013,Sarajevo,Ž,65+,Broj,Disability,95664.0
-2013,Sarajevo,Ž,0-14,% od ukupno,Disability,1.191311312
-2013,Sarajevo,Ž,15-19,% od ukupno,Disability,0.772893477
-2013,Sarajevo,Ž,20-29,% od ukupno,Disability,1.599796378
-2013,Sarajevo,Ž,30-49,% od ukupno,Disability,8.960597953
-2013,Sarajevo,Ž,50-59,% od ukupno,Disability,16.66345921
-2013,Sarajevo,Ž,60-64,% od ukupno,Disability,11.42392431
-2013,Sarajevo,Ž,65+,% od ukupno,Disability,59.38801736
+Year,Spol,Starosna dob,UNIT_MEASURE,Value
+2013,Oba spola,0-14,Broj,4525.0
+2013,Oba spola,15-19,Broj,2886.0
+2013,Oba spola,20-29,Broj,6398.0
+2013,Oba spola,30-49,Broj,40196.0
+2013,Oba spola,50-59,Broj,57495.0
+2013,Oba spola,60-64,Broj,34559.0
+2013,Oba spola,65+,Broj,147999.0
+2013,Oba spola,0-14,% od ukupno,1.538812071
+2013,Oba spola,15-19,% od ukupno,0.981439036
+2013,Oba spola,20-29,% od ukupno,2.175761244
+2013,Oba spola,30-49,% od ukupno,13.66941216
+2013,Oba spola,50-59,% od ukupno,19.5522652
+2013,Oba spola,60-64,% od ukupno,11.7524434
+2013,Oba spola,65+,% od ukupno,50.3298669
+2013,M,0-14,Broj,2606.0
+2013,M,15-19,Broj,1641.0
+2013,M,20-29,Broj,3821.0
+2013,M,30-49,Broj,25762.0
+2013,M,50-59,Broj,30653.0
+2013,M,60-64,Broj,16157.0
+2013,M,65+,Broj,52335.0
+2013,M,0-14,% od ukupno,1.959766873
+2013,M,15-19,% od ukupno,1.234066554
+2013,M,20-29,% od ukupno,2.873472457
+2013,M,30-49,% od ukupno,19.37356646
+2013,M,50-59,% od ukupno,23.05170145
+2013,M,60-64,% od ukupno,12.15040421
+2013,M,65+,% od ukupno,39.357022
+2013,Ž,0-14,Broj,1919.0
+2013,Ž,15-19,Broj,1245.0
+2013,Ž,20-29,Broj,2577.0
+2013,Ž,30-49,Broj,14434.0
+2013,Ž,50-59,Broj,26842.0
+2013,Ž,60-64,Broj,18402.0
+2013,Ž,65+,Broj,95664.0
+2013,Ž,0-14,% od ukupno,1.191311312
+2013,Ž,15-19,% od ukupno,0.772893477
+2013,Ž,20-29,% od ukupno,1.599796378
+2013,Ž,30-49,% od ukupno,8.960597953
+2013,Ž,50-59,% od ukupno,16.66345921
+2013,Ž,60-64,% od ukupno,11.42392431
+2013,Ž,65+,% od ukupno,59.38801736
