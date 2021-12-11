@@ -4148,42 +4148,50 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Municipality",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "Оба пола",
+                "M",
+                "Ж",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
           },
           {
             "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternji jezik",
+                "Bosnian ",
+                "Serbian",
+                "Croatian",
+                "Serbo_Croatian",
+                "Romani",
+                "Albanian",
+                "Bosnian_Croatian_Serbian",
+                "Turkish",
+                "Croato_Serbian",
+                "Bosniak",
+                "Ukranian",
+                "Bosnian_Serbian_Croatian",
+                "Bosnian_Croatian",
+                "Bosnian_Herzegovinian",
+                "German",
+                "Other",
+                "Unknown",
+                "Serbo_Croatian ",
                 ""
               ]
             },
             "title": "Mother_tongue"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
-                ""
-              ]
-            },
-            "title": "Пол"
           },
           {
             "name": "Value",

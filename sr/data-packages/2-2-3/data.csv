@@ -1,2 +1,52 @@
-Year,UNIT_MEASURE,Oпштина,Mother_tongue,Пол,Value
-2021,Број,Sarajevo,Maternji jezik,_M,3422
+Year,Пол,UNIT_MEASURE,Mother_tongue,Value
+2013,Оба пола,Број,Bosnian ,1866585
+2013,Оба пола,Број,Serbian,1086027
+2013,Оба пола,Број,Croatian,515481
+2013,Оба пола,Број,Serbo_Croatian,27299
+2013,Оба пола,Број,Romani,5766
+2013,Оба пола,Број,Albanian,2420
+2013,Оба пола,Број,Bosnian_Croatian_Serbian,1897
+2013,Оба пола,Број,Turkish,1233
+2013,Оба пола,Број,Croato_Serbian,1195
+2013,Оба пола,Број,Bosniak,1167
+2013,Оба пола,Број,Ukranian,1081
+2013,Оба пола,Број,Bosnian_Serbian_Croatian,890
+2013,Оба пола,Број,Bosnian_Croatian,714
+2013,Оба пола,Број,Bosnian_Herzegovinian,636
+2013,Оба пола,Број,German,632
+2013,Оба пола,Број,Other,10649
+2013,Оба пола,Број,Unknown,7487
+2013,M,Број,Bosnian ,913558
+2013,M,Број,Serbian,533583
+2013,M,Број,Croatian,255603
+2013,M,Број,Serbo_Croatian ,12030
+2013,M,Број,Romani,3043
+2013,M,Број,Albanian,1469
+2013,M,Број,Bosnian_Croatian_Serbian,811
+2013,M,Број,Turkish,817
+2013,M,Број,Croato_Serbian,513
+2013,M,Број,Bosniak,598
+2013,M,Број,Ukranian,513
+2013,M,Број,Bosnian_Serbian_Croatian,372
+2013,M,Број,Bosnian_Croatian,305
+2013,M,Број,Bosnian_Herzegovinian,314
+2013,M,Број,German,278
+2013,M,Број,Other,4828
+2013,M,Број,Unknown,3635
+2013,Ж,Број,Bosnian ,953027
+2013,Ж,Број,Serbian,552444
+2013,Ж,Број,Croatian,259878
+2013,Ж,Број,Serbo_Croatian ,15269
+2013,Ж,Број,Romani,2723
+2013,Ж,Број,Albanian,951
+2013,Ж,Број,Bosnian_Croatian_Serbian,1086
+2013,Ж,Број,Turkish,416
+2013,Ж,Број,Croato_Serbian,682
+2013,Ж,Број,Bosniak,569
+2013,Ж,Број,Ukranian,568
+2013,Ж,Број,Bosnian_Serbian_Croatian,518
+2013,Ж,Број,Bosnian_Croatian,409
+2013,Ж,Број,Bosnian_Herzegovinian,322
+2013,Ж,Број,German,354
+2013,Ж,Број,Other,5821
+2013,Ж,Број,Unknown,3852

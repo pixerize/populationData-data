@@ -4148,21 +4148,27 @@
             "constraints": {
               "enum": [
                 "",
-                "Maternji jezik"
+                "Albanian",
+                "Bosniak",
+                "Bosnian ",
+                "Bosnian_Croatian",
+                "Bosnian_Croatian_Serbian",
+                "Bosnian_Herzegovinian",
+                "Bosnian_Serbian_Croatian",
+                "Croatian",
+                "Croato_Serbian",
+                "German",
+                "Other",
+                "Romani",
+                "Serbian",
+                "Serbo_Croatian",
+                "Serbo_Croatian ",
+                "Turkish",
+                "Ukranian",
+                "Unknown"
               ]
             },
             "title": "Mother_tongue"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
           },
           {
             "name": "SEX",
@@ -4170,7 +4176,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_M"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"

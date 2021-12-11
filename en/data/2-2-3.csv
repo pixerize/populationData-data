@@ -1,2 +1,52 @@
-Year,UNIT_MEASURE,Municipality,Mother_tongue,Sex,Value
-2021,Number,Sarajevo,Maternji jezik,_M,3422
+Year,Sex,UNIT_MEASURE,Mother_tongue,Value
+2013,Both sexes,Number,Bosnian ,1866585
+2013,Both sexes,Number,Serbian,1086027
+2013,Both sexes,Number,Croatian,515481
+2013,Both sexes,Number,Serbo_Croatian,27299
+2013,Both sexes,Number,Romani,5766
+2013,Both sexes,Number,Albanian,2420
+2013,Both sexes,Number,Bosnian_Croatian_Serbian,1897
+2013,Both sexes,Number,Turkish,1233
+2013,Both sexes,Number,Croato_Serbian,1195
+2013,Both sexes,Number,Bosniak,1167
+2013,Both sexes,Number,Ukranian,1081
+2013,Both sexes,Number,Bosnian_Serbian_Croatian,890
+2013,Both sexes,Number,Bosnian_Croatian,714
+2013,Both sexes,Number,Bosnian_Herzegovinian,636
+2013,Both sexes,Number,German,632
+2013,Both sexes,Number,Other,10649
+2013,Both sexes,Number,Unknown,7487
+2013,M,Number,Bosnian ,913558
+2013,M,Number,Serbian,533583
+2013,M,Number,Croatian,255603
+2013,M,Number,Serbo_Croatian ,12030
+2013,M,Number,Romani,3043
+2013,M,Number,Albanian,1469
+2013,M,Number,Bosnian_Croatian_Serbian,811
+2013,M,Number,Turkish,817
+2013,M,Number,Croato_Serbian,513
+2013,M,Number,Bosniak,598
+2013,M,Number,Ukranian,513
+2013,M,Number,Bosnian_Serbian_Croatian,372
+2013,M,Number,Bosnian_Croatian,305
+2013,M,Number,Bosnian_Herzegovinian,314
+2013,M,Number,German,278
+2013,M,Number,Other,4828
+2013,M,Number,Unknown,3635
+2013,F,Number,Bosnian ,953027
+2013,F,Number,Serbian,552444
+2013,F,Number,Croatian,259878
+2013,F,Number,Serbo_Croatian ,15269
+2013,F,Number,Romani,2723
+2013,F,Number,Albanian,951
+2013,F,Number,Bosnian_Croatian_Serbian,1086
+2013,F,Number,Turkish,416
+2013,F,Number,Croato_Serbian,682
+2013,F,Number,Bosniak,569
+2013,F,Number,Ukranian,568
+2013,F,Number,Bosnian_Serbian_Croatian,518
+2013,F,Number,Bosnian_Croatian,409
+2013,F,Number,Bosnian_Herzegovinian,322
+2013,F,Number,German,354
+2013,F,Number,Other,5821
+2013,F,Number,Unknown,3852

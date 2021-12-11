@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,42 +16,50 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Municipality",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "Oba spola",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Općina"
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternji jezik",
+                "Bosnian ",
+                "Serbian",
+                "Croatian",
+                "Serbo_Croatian",
+                "Romani",
+                "Albanian",
+                "Bosnian_Croatian_Serbian",
+                "Turkish",
+                "Croato_Serbian",
+                "Bosniak",
+                "Ukranian",
+                "Bosnian_Serbian_Croatian",
+                "Bosnian_Croatian",
+                "Bosnian_Herzegovinian",
+                "German",
+                "Other",
+                "Unknown",
+                "Serbo_Croatian ",
                 ""
               ]
             },
             "title": "Mother_tongue"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Value",

@@ -8,14 +8,14 @@ Ethnicity_national_affiliation,Ethnicity/national affiliation,Ethnicity_national
 Literacy,Literacy,Literacy,Literacy,Literacy,1,1
 LIVE_BORN_CHILDREN,Live-born children,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,1,11
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
-Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,1
-Municipality,Municipality,Općina,Oпштина,Općina,5,143
+Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,18
+Municipality,Municipality,Općina,Oпштина,Općina,4,143
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
 Ownership,Ownership,Ownership,Ownership,Ownership,1,1
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religion,Religion,Religion,1,20
-SEX,Sex,Spol,Пол,Spol,56,4
+SEX,Sex,Spol,Пол,Spol,56,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,5,1
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,1,1

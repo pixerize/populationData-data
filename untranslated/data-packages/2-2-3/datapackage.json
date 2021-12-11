@@ -15,35 +15,44 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Municipality",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternji jezik",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
+                "Bosnian ",
+                "Serbian",
+                "Croatian",
+                "Serbo_Croatian",
+                "Romani",
+                "Albanian",
+                "Bosnian_Croatian_Serbian",
+                "Turkish",
+                "Croato_Serbian",
+                "Bosniak",
+                "Ukranian",
+                "Bosnian_Serbian_Croatian",
+                "Bosnian_Croatian",
+                "Bosnian_Herzegovinian",
+                "German",
+                "Other",
+                "Unknown",
+                "Serbo_Croatian ",
                 ""
               ]
             }
