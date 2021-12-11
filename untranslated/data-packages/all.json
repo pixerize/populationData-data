@@ -4385,31 +4385,6 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                "Mostar",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Educational_attainment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "zavrsena skola",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4417,6 +4392,26 @@
                 "_T",
                 "M",
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Highest_education_atainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No_education",
+                "Incomplete_primary_education",
+                "Primary_school",
+                "Secondary_school",
+                "Post-secondary_school_specialization",
+                "High_school_and_first_grade_of_faculty",
+                "Advanced_schools_faculty_academy_university",
                 ""
               ]
             }

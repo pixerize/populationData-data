@@ -1,7 +1,22 @@
-Year,UNIT_MEASURE,Općina,Educational_attainment,Spol,Value
-2021,Broj,Sarajevo,zavrsena skola,Oba spola,23212
-2021,Broj,Mostar,zavrsena skola,Oba spola,232125
-2021,Broj,Sarajevo,zavrsena skola,M,232
-2021,Broj,Mostar,zavrsena skola,M,232555
-2021,Broj,Sarajevo,zavrsena skola,Ž,2312
-2021,Broj,Mostar,zavrsena skola,Ž,23125
+Year,Spol,UNIT_MEASURE,Highest_education_atainment,Value
+2013,Oba spola,Broj,No_education,146078
+2013,Oba spola,Broj,Incomplete_primary_education,274036
+2013,Oba spola,Broj,Primary_school,640726
+2013,Oba spola,Broj,Secondary_school,1525161
+2013,Oba spola,Broj,Post-secondary_school_specialization,21613
+2013,Oba spola,Broj,High_school_and_first_grade_of_faculty,94204
+2013,Oba spola,Broj,Advanced_schools_faculty_academy_university,285622
+2013,M,Broj,No_education,24021
+2013,M,Broj,Incomplete_primary_education,83216
+2013,M,Broj,Primary_school,274258
+2013,M,Broj,Secondary_school,864823
+2013,M,Broj,Post-secondary_school_specialization,17877
+2013,M,Broj,High_school_and_first_grade_of_faculty,51556
+2013,M,Broj,Advanced_schools_faculty_academy_university,137543
+2013,Ž,Broj,No_education,122057
+2013,Ž,Broj,Incomplete_primary_education,190820
+2013,Ž,Broj,Primary_school,366468
+2013,Ž,Broj,Secondary_school,660338
+2013,Ž,Broj,Post-secondary_school_specialization,3736
+2013,Ž,Broj,High_school_and_first_grade_of_faculty,42648
+2013,Ž,Broj,Advanced_schools_faculty_academy_university,148079

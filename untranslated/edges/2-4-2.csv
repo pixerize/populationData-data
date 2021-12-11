@@ -1,3 +1,2 @@
 From,To
-Municipality,Educational_attainment
-Educational_attainment,SEX
+SEX,Highest_education_atainment

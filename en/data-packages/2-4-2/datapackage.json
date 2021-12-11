@@ -11,27 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Educational_attainment",
+            "name": "Highest_education_atainment",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "zavrsena skola"
+                "Advanced_schools_faculty_academy_university",
+                "High_school_and_first_grade_of_faculty",
+                "Incomplete_primary_education",
+                "No_education",
+                "Post-secondary_school_specialization",
+                "Primary_school",
+                "Secondary_school"
               ]
             },
-            "title": "Educational_attainment"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Mostar",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
+            "title": "Highest_education_atainment"
           },
           {
             "name": "SEX",

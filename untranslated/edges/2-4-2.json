@@ -1,1 +1,1 @@
-{"From":["Municipality","Educational_attainment"],"To":["Educational_attainment","SEX"]}
+{"From":["SEX"],"To":["Highest_education_atainment"]}
