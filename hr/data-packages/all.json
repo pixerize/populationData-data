@@ -2426,7 +2426,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2440,22 +2440,12 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            },
-            "title": "Općina"
-          },
-          {
             "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "activity1",
+                "Performing_agricultural_activity",
+                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
                 ""
               ]
             },

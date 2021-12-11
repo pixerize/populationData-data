@@ -2240,21 +2240,12 @@
             "type": "string"
           },
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            }
-          },
-          {
             "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "activity1",
+                "Performing_agricultural_activity",
+                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
                 ""
               ]
             }
