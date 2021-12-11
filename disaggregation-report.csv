@@ -6,7 +6,7 @@ CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa 
 Educational_attainment,Educational_attainment,Educational_attainment,Educational_attainment,Educational_attainment,1,1
 Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,1,1
 Literacy,Literacy,Literacy,Literacy,Literacy,1,1
-LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,1,11
+LIVE_BORN_CHILDREN,Live-born children,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,1,11
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,1
 Municipality,Municipality,Općina,Oпштина,Općina,7,143
