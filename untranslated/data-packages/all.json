@@ -3063,35 +3063,46 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Municipality",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Religion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vjeroispovjest",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
+                "Islam",
+                "Orthodox",
+                "Catholic",
+                "Muslim",
+                "Roman_Catholic",
+                "Serbian",
+                "jehovah_s_witnesses",
+                "Greek_Catholic",
+                "Protestant",
+                "Romani",
+                "Christian",
+                "Bosniak",
+                "Croat",
+                "Adventist",
+                "Bosnian",
+                "Agnostic",
+                "Atheist",
+                "Others",
+                "Undeclared",
+                "Unknown",
                 ""
               ]
             }

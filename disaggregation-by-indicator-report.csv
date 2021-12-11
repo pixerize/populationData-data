@@ -40,7 +40,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-5,"UNIT_MEASURE, LIVE_BORN_CHILDREN",2
 #2-1-6,"UNIT_MEASURE, SEX, TYPE_OF_DEPENDENCY_RATIO",3
 #2-2-1,"UNIT_MEASURE, SEX, Ethnicity_national_affiliation",3
-#2-2-2,"UNIT_MEASURE, SEX, Municipality, Religion",4
+#2-2-2,"UNIT_MEASURE, SEX, Religion",3
 #2-2-3,"UNIT_MEASURE, SEX, Municipality, Mother_tongue",4
 #2-3-1,"UNIT_MEASURE, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",2
 #2-3-2,"UNIT_MEASURE, Municipality, AGRICULTURAL_ACTIVITY",3

@@ -1,2 +1,61 @@
-Year,UNIT_MEASURE,Oпштина,Religion,Пол,Value
-2021,Број,Sarajevo,Vjeroispovjest,_M,3422
+Year,Пол,UNIT_MEASURE,Religion,Value
+2013,Оба пола,Број,Islam,1790454
+2013,Оба пола,Број,Orthodox,1085760
+2013,Оба пола,Број,Catholic,536333
+2013,Оба пола,Број,Muslim,22068
+2013,Оба пола,Број,Roman_Catholic,6799
+2013,Оба пола,Број,Serbian,3898
+2013,Оба пола,Број,jehovah_s_witnesses,1171
+2013,Оба пола,Број,Greek_Catholic,982
+2013,Оба пола,Број,Protestant,655
+2013,Оба пола,Број,Romani,612
+2013,Оба пола,Број,Christian,567
+2013,Оба пола,Број,Bosniak,411
+2013,Оба пола,Број,Croat,275
+2013,Оба пола,Број,Adventist,193
+2013,Оба пола,Број,Bosnian,154
+2013,Оба пола,Број,Agnostic,10816
+2013,Оба пола,Број,Atheist,27853
+2013,Оба пола,Број,Others,2870
+2013,Оба пола,Број,Undeclared,32700
+2013,Оба пола,Број,Unknown,6588
+2013,M,Број,Islam,878336
+2013,M,Број,Orthodox,532426
+2013,M,Број,Catholic,262423
+2013,M,Број,Muslim,11259
+2013,M,Број,Roman_Catholic,3426
+2013,M,Број,Serbian,1812
+2013,M,Број,jehovah_s_witnesses,437
+2013,M,Број,Greek_Catholic,499
+2013,M,Број,Protestant,312
+2013,M,Број,Romani,334
+2013,M,Број,Christian,296
+2013,M,Број,Bosniak,207
+2013,M,Број,Croat,125
+2013,M,Број,Adventist,80
+2013,M,Број,Bosnian,88
+2013,M,Број,Agnostic,5142
+2013,M,Број,Atheist,15119
+2013,M,Број,Others,1604
+2013,M,Број,Undeclared,15086
+2013,M,Број,Unknown,3259
+2013,Ж,Број,Islam,912118
+2013,Ж,Број,Orthodox,553334
+2013,Ж,Број,Catholic,273910
+2013,Ж,Број,Muslim,10809
+2013,Ж,Број,Roman_Catholic,3373
+2013,Ж,Број,Serbian,2086
+2013,Ж,Број,jehovah_s_witnesses,734
+2013,Ж,Број,Greek_Catholic,483
+2013,Ж,Број,Protestant,343
+2013,Ж,Број,Romani,278
+2013,Ж,Број,Christian,271
+2013,Ж,Број,Bosniak,204
+2013,Ж,Број,Croat,150
+2013,Ж,Број,Adventist,113
+2013,Ж,Број,Bosnian,66
+2013,Ж,Број,Agnostic,5674
+2013,Ж,Број,Atheist,12734
+2013,Ж,Број,Others,1266
+2013,Ж,Број,Undeclared,17614
+2013,Ж,Број,Unknown,3329

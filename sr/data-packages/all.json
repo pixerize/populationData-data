@@ -3343,42 +3343,52 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Municipality",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "Оба пола",
+                "M",
+                "Ж",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
           },
           {
             "name": "Religion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vjeroispovjest",
+                "Islam",
+                "Orthodox",
+                "Catholic",
+                "Muslim",
+                "Roman_Catholic",
+                "Serbian",
+                "jehovah_s_witnesses",
+                "Greek_Catholic",
+                "Protestant",
+                "Romani",
+                "Christian",
+                "Bosniak",
+                "Croat",
+                "Adventist",
+                "Bosnian",
+                "Agnostic",
+                "Atheist",
+                "Others",
+                "Undeclared",
+                "Unknown",
                 ""
               ]
             },
             "title": "Religion"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
-                ""
-              ]
-            },
-            "title": "Пол"
           },
           {
             "name": "Value",

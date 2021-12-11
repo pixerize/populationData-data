@@ -3338,23 +3338,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
-          },
-          {
             "name": "Religion",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Vjeroispovjest"
+                "Adventist",
+                "Agnostic",
+                "Atheist",
+                "Bosniak",
+                "Bosnian",
+                "Catholic",
+                "Christian",
+                "Croat",
+                "Greek_Catholic",
+                "Islam",
+                "Muslim",
+                "Orthodox",
+                "Others",
+                "Protestant",
+                "Roman_Catholic",
+                "Romani",
+                "Serbian",
+                "Undeclared",
+                "Unknown",
+                "jehovah_s_witnesses"
               ]
             },
             "title": "Religion"
@@ -3365,7 +3373,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_M"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"

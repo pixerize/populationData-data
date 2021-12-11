@@ -1,2 +1,61 @@
-Year,UNIT_MEASURE,Municipality,Religion,Sex,Value
-2021,Number,Sarajevo,Vjeroispovjest,_M,3422
+Year,Sex,UNIT_MEASURE,Religion,Value
+2013,Both sexes,Number,Islam,1790454
+2013,Both sexes,Number,Orthodox,1085760
+2013,Both sexes,Number,Catholic,536333
+2013,Both sexes,Number,Muslim,22068
+2013,Both sexes,Number,Roman_Catholic,6799
+2013,Both sexes,Number,Serbian,3898
+2013,Both sexes,Number,jehovah_s_witnesses,1171
+2013,Both sexes,Number,Greek_Catholic,982
+2013,Both sexes,Number,Protestant,655
+2013,Both sexes,Number,Romani,612
+2013,Both sexes,Number,Christian,567
+2013,Both sexes,Number,Bosniak,411
+2013,Both sexes,Number,Croat,275
+2013,Both sexes,Number,Adventist,193
+2013,Both sexes,Number,Bosnian,154
+2013,Both sexes,Number,Agnostic,10816
+2013,Both sexes,Number,Atheist,27853
+2013,Both sexes,Number,Others,2870
+2013,Both sexes,Number,Undeclared,32700
+2013,Both sexes,Number,Unknown,6588
+2013,M,Number,Islam,878336
+2013,M,Number,Orthodox,532426
+2013,M,Number,Catholic,262423
+2013,M,Number,Muslim,11259
+2013,M,Number,Roman_Catholic,3426
+2013,M,Number,Serbian,1812
+2013,M,Number,jehovah_s_witnesses,437
+2013,M,Number,Greek_Catholic,499
+2013,M,Number,Protestant,312
+2013,M,Number,Romani,334
+2013,M,Number,Christian,296
+2013,M,Number,Bosniak,207
+2013,M,Number,Croat,125
+2013,M,Number,Adventist,80
+2013,M,Number,Bosnian,88
+2013,M,Number,Agnostic,5142
+2013,M,Number,Atheist,15119
+2013,M,Number,Others,1604
+2013,M,Number,Undeclared,15086
+2013,M,Number,Unknown,3259
+2013,F,Number,Islam,912118
+2013,F,Number,Orthodox,553334
+2013,F,Number,Catholic,273910
+2013,F,Number,Muslim,10809
+2013,F,Number,Roman_Catholic,3373
+2013,F,Number,Serbian,2086
+2013,F,Number,jehovah_s_witnesses,734
+2013,F,Number,Greek_Catholic,483
+2013,F,Number,Protestant,343
+2013,F,Number,Romani,278
+2013,F,Number,Christian,271
+2013,F,Number,Bosniak,204
+2013,F,Number,Croat,150
+2013,F,Number,Adventist,113
+2013,F,Number,Bosnian,66
+2013,F,Number,Agnostic,5674
+2013,F,Number,Atheist,12734
+2013,F,Number,Others,1266
+2013,F,Number,Undeclared,17614
+2013,F,Number,Unknown,3329
