@@ -11,15 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Municipality",
+            "name": "LIVE_BORN_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Sarajevo"
+                "1",
+                "10_and_more",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "Did not give birth"
               ]
             },
-            "title": "Municipality"
+            "title": "LIVE_BORN_CHILDREN"
           },
           {
             "name": "UNIT_MEASURE",

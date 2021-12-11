@@ -1,2 +1,12 @@
-Year,UNIT_MEASURE,Municipality,Value
-2023,Number,Sarajevo,5
+Year,UNIT_MEASURE,LIVE_BORN_CHILDREN,Value
+2013,Number,Did not give birth,313281
+2013,Number,1,12565
+2013,Number,2,8854
+2013,Number,3,2994
+2013,Number,4,966
+2013,Number,5,387
+2013,Number,6,168
+2013,Number,7,95
+2013,Number,8,56
+2013,Number,9,30
+2013,Number,10_and_more,26
