@@ -4,12 +4,12 @@ AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_A
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,22
 Educational_attainment,Educational_attainment,Educational_attainment,Educational_attainment,Educational_attainment,1,1
-Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,Ethnicity_nationality,1,1
+Ethnicity_national_affiliation,Ethnicity_national_affiliation,Ethnicity_national_affiliation,Ethnicity_national_affiliation,Ethnicity_national_affiliation,1,18
 Literacy,Literacy,Literacy,Literacy,Literacy,1,1
 LIVE_BORN_CHILDREN,Live-born children,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,1,11
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,1
-Municipality,Municipality,Općina,Oпштина,Općina,7,143
+Municipality,Municipality,Općina,Oпштина,Općina,6,143
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
 Ownership,Ownership,Ownership,Ownership,Ownership,1,1
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35

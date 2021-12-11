@@ -16,42 +16,50 @@
             "title": "Година"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
-            "name": "Municipality",
+            "name": "Ethnicity_national_affiliation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "Bosniak",
+                "Serb",
+                "Croat ",
+                "Bosnian",
+                "Romani",
+                "Muslim",
+                "Bosnian_and_Herzegovinian",
+                "Albanian",
+                "Yugoslav",
+                "Ukrainian",
+                "Montenegrin",
+                "Turk",
+                "Slovenian",
+                "Orthodox",
+                "Macedonian ",
+                "Others",
+                "Undeclared",
+                "Unknown",
                 ""
               ]
             },
-            "title": "Oпштина"
-          },
-          {
-            "name": "Ethnicity_nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nacionalnost",
-                ""
-              ]
-            },
-            "title": "Ethnicity_nationality"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
-                ""
-              ]
-            },
-            "title": "Пол"
+            "title": "Ethnicity_national_affiliation"
           },
           {
             "name": "Value",

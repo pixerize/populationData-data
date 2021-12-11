@@ -3956,35 +3956,44 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ethnicity_nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nacionalnost",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_M",
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Ethnicity_national_affiliation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosniak",
+                "Serb",
+                "Croat ",
+                "Bosnian",
+                "Romani",
+                "Muslim",
+                "Bosnian_and_Herzegovinian",
+                "Albanian",
+                "Yugoslav",
+                "Ukrainian",
+                "Montenegrin",
+                "Turk",
+                "Slovenian",
+                "Orthodox",
+                "Macedonian ",
+                "Others",
+                "Undeclared",
+                "Unknown",
                 ""
               ]
             }

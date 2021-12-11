@@ -4319,7 +4319,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4328,42 +4328,50 @@
             "title": "Godina"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Municipality",
+            "name": "Ethnicity_national_affiliation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sarajevo",
+                "Bosniak",
+                "Serb",
+                "Croat ",
+                "Bosnian",
+                "Romani",
+                "Muslim",
+                "Bosnian_and_Herzegovinian",
+                "Albanian",
+                "Yugoslav",
+                "Ukrainian",
+                "Montenegrin",
+                "Turk",
+                "Slovenian",
+                "Orthodox",
+                "Macedonian ",
+                "Others",
+                "Undeclared",
+                "Unknown",
                 ""
               ]
             },
-            "title": "Općina"
-          },
-          {
-            "name": "Ethnicity_nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nacionalnost",
-                ""
-              ]
-            },
-            "title": "Ethnicity_nationality"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_M",
-                ""
-              ]
-            },
-            "title": "Spol"
+            "title": "Ethnicity_national_affiliation"
           },
           {
             "name": "Value",

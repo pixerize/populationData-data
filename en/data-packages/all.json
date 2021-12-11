@@ -4323,26 +4323,32 @@
       "schema": {
         "fields": [
           {
-            "name": "Ethnicity_nationality",
+            "name": "Ethnicity_national_affiliation",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Nacionalnost"
+                "Albanian",
+                "Bosniak",
+                "Bosnian",
+                "Bosnian_and_Herzegovinian",
+                "Croat ",
+                "Macedonian ",
+                "Montenegrin",
+                "Muslim",
+                "Orthodox",
+                "Others",
+                "Romani",
+                "Serb",
+                "Slovenian",
+                "Turk",
+                "Ukrainian",
+                "Undeclared",
+                "Unknown",
+                "Yugoslav"
               ]
             },
-            "title": "Ethnicity_nationality"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
+            "title": "Ethnicity_national_affiliation"
           },
           {
             "name": "SEX",
@@ -4350,7 +4356,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_M"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"

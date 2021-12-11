@@ -1,1 +1,1 @@
-{"From":["Municipality","Ethnicity_nationality"],"To":["Ethnicity_nationality","SEX"]}
+{"From":["SEX"],"To":["Ethnicity_national_affiliation"]}

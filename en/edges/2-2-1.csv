@@ -1,3 +1,2 @@
 From,To
-Municipality,Ethnicity_nationality
-Ethnicity_nationality,Sex
+Sex,Ethnicity_national_affiliation
