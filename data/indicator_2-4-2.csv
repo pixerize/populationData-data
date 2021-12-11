@@ -1,7 +1,22 @@
-Year,UNIT_MEASURE,Municipality,Educational_attainment,SEX,Value
-2021,NUMBER,Sarajevo,zavrsena skola,_T,23212
-2021,NUMBER,Mostar,zavrsena skola,_T,232125
-2021,NUMBER,Sarajevo,zavrsena skola,M,232
-2021,NUMBER,Mostar,zavrsena skola,M,232555
-2021,NUMBER,Sarajevo,zavrsena skola,F,2312
-2021,NUMBER,Mostar,zavrsena skola,F,23125
+Year,SEX,UNIT_MEASURE,Highest_education_atainment,Value
+2013,_T,NUMBER,No_education,146078
+2013,_T,NUMBER,Incomplete_primary_education,274036
+2013,_T,NUMBER,Primary_school,640726
+2013,_T,NUMBER,Secondary_school,1525161
+2013,_T,NUMBER,Post-secondary_school_specialization,21613
+2013,_T,NUMBER,High_school_and_first_grade_of_faculty,94204
+2013,_T,NUMBER,Advanced_schools_faculty_academy_university,285622
+2013,M,NUMBER,No_education,24021
+2013,M,NUMBER,Incomplete_primary_education,83216
+2013,M,NUMBER,Primary_school,274258
+2013,M,NUMBER,Secondary_school,864823
+2013,M,NUMBER,Post-secondary_school_specialization,17877
+2013,M,NUMBER,High_school_and_first_grade_of_faculty,51556
+2013,M,NUMBER,Advanced_schools_faculty_academy_university,137543
+2013,F,NUMBER,No_education,122057
+2013,F,NUMBER,Incomplete_primary_education,190820
+2013,F,NUMBER,Primary_school,366468
+2013,F,NUMBER,Secondary_school,660338
+2013,F,NUMBER,Post-secondary_school_specialization,3736
+2013,F,NUMBER,High_school_and_first_grade_of_faculty,42648
+2013,F,NUMBER,Advanced_schools_faculty_academy_university,148079
