@@ -244,3 +244,5 @@ NO_PER_1000_LIVE_BIRTHS: Number per 1000 live births
 no_per_1000_marriages: Number per 1000 marriages
 census_pyramid: Census
 projection_pyramid: Year of projection
+LIVE_BORN_CHILDREN: Live-born children
+did_not_give_birth: Did not give birth
