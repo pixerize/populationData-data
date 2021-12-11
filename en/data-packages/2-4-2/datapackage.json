@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Advanced_schools_faculty_academy_university",
-                "High_school_and_first_grade_of_faculty",
-                "Incomplete_primary_education",
-                "No_education",
-                "Post-secondary_school_specialization",
-                "Primary_school",
-                "Secondary_school"
+                "Advanced schools/faculty/academy/university",
+                "High school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialization",
+                "Primary school",
+                "Secondary school"
               ]
             },
-            "title": "Highest_education_atainment"
+            "title": "Highest education atainment"
           },
           {
             "name": "SEX",

@@ -2435,11 +2435,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Performing_agricultural_activity",
-                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market"
+                "Performing agricultural activity",
+                "Performing agricultural activity and selling agricultural products in the market"
               ]
             },
-            "title": "AGRICULTURAL_ACTIVITY"
+            "title": "Agricultural activity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4158,7 +4158,7 @@
                 "Unknown"
               ]
             },
-            "title": "Mother_tongue"
+            "title": "Mother tongue"
           },
           {
             "name": "SEX",
@@ -4797,16 +4797,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Advanced_schools_faculty_academy_university",
-                "High_school_and_first_grade_of_faculty",
-                "Incomplete_primary_education",
-                "No_education",
-                "Post-secondary_school_specialization",
-                "Primary_school",
-                "Secondary_school"
+                "Advanced schools/faculty/academy/university",
+                "High school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialization",
+                "Primary school",
+                "Secondary school"
               ]
             },
-            "title": "Highest_education_atainment"
+            "title": "Highest education atainment"
           },
           {
             "name": "SEX",

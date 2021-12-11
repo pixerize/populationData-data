@@ -1,14 +1,14 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 AGE,Age,Starosna dob,Старосна доб,Starosna dob,15,177
-AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,1,2
+AGRICULTURAL_ACTIVITY,Agricultural activity,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,1,2
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,22
 Ethnicity_national_affiliation,Ethnicity/national affiliation,Ethnicity_national_affiliation,Ethnicity_national_affiliation,Ethnicity_national_affiliation,1,18
-Highest_education_atainment,Highest_education_atainment,Highest_education_atainment,Highest_education_atainment,Highest_education_atainment,1,7
+Highest_education_atainment,Highest education atainment,Highest_education_atainment,Highest_education_atainment,Highest_education_atainment,1,7
 Literacy,Literacy,Literacy,Literacy,Literacy,1,2
 LIVE_BORN_CHILDREN,Live-born children,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,LIVE_BORN_CHILDREN,1,11
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
-Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,18
+Mother_tongue,Mother tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,18
 Municipality,Municipality,Općina,Oпштина,Općina,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
 Ownership,Ownership,Ownership,Ownership,Ownership,1,1

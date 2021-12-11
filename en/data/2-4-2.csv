@@ -1,22 +1,22 @@
-Year,Sex,UNIT_MEASURE,Highest_education_atainment,Value
-2013,Both sexes,Number,No_education,146078
-2013,Both sexes,Number,Incomplete_primary_education,274036
-2013,Both sexes,Number,Primary_school,640726
-2013,Both sexes,Number,Secondary_school,1525161
-2013,Both sexes,Number,Post-secondary_school_specialization,21613
-2013,Both sexes,Number,High_school_and_first_grade_of_faculty,94204
-2013,Both sexes,Number,Advanced_schools_faculty_academy_university,285622
-2013,M,Number,No_education,24021
-2013,M,Number,Incomplete_primary_education,83216
-2013,M,Number,Primary_school,274258
-2013,M,Number,Secondary_school,864823
-2013,M,Number,Post-secondary_school_specialization,17877
-2013,M,Number,High_school_and_first_grade_of_faculty,51556
-2013,M,Number,Advanced_schools_faculty_academy_university,137543
-2013,F,Number,No_education,122057
-2013,F,Number,Incomplete_primary_education,190820
-2013,F,Number,Primary_school,366468
-2013,F,Number,Secondary_school,660338
-2013,F,Number,Post-secondary_school_specialization,3736
-2013,F,Number,High_school_and_first_grade_of_faculty,42648
-2013,F,Number,Advanced_schools_faculty_academy_university,148079
+Year,Sex,UNIT_MEASURE,Highest education atainment,Value
+2013,Both sexes,Number,No education,146078
+2013,Both sexes,Number,Incomplete primary education,274036
+2013,Both sexes,Number,Primary school,640726
+2013,Both sexes,Number,Secondary school,1525161
+2013,Both sexes,Number,Post-secondary school specialization,21613
+2013,Both sexes,Number,High school and first grade of faculty,94204
+2013,Both sexes,Number,Advanced schools/faculty/academy/university,285622
+2013,M,Number,No education,24021
+2013,M,Number,Incomplete primary education,83216
+2013,M,Number,Primary school,274258
+2013,M,Number,Secondary school,864823
+2013,M,Number,Post-secondary school specialization,17877
+2013,M,Number,High school and first grade of faculty,51556
+2013,M,Number,Advanced schools/faculty/academy/university,137543
+2013,F,Number,No education,122057
+2013,F,Number,Incomplete primary education,190820
+2013,F,Number,Primary school,366468
+2013,F,Number,Secondary school,660338
+2013,F,Number,Post-secondary school specialization,3736
+2013,F,Number,High school and first grade of faculty,42648
+2013,F,Number,Advanced schools/faculty/academy/university,148079
