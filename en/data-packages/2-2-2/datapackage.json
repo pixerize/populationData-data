@@ -24,18 +24,18 @@
                 "Catholic",
                 "Christian",
                 "Croat",
-                "Greek_Catholic",
+                "Greek Catholic",
                 "Islam",
                 "Muslim",
                 "Orthodox",
                 "Others",
                 "Protestant",
-                "Roman_Catholic",
+                "Roman Catholic",
                 "Romani",
                 "Serbian",
-                "Undeclared",
+                "Undaclared",
                 "Unknown",
-                "jehovah_s_witnesses"
+                "Jehovah's Witnesses"
               ]
             },
             "title": "Religion"

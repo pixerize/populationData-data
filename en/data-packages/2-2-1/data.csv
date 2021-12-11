@@ -15,7 +15,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,Both sexes,Number,Orthodox,826
 2013,Both sexes,Number,Macedonian ,738
 2013,Both sexes,Number,Others,10267
-2013,Both sexes,Number,Undeclared,27055
+2013,Both sexes,Number,Undaclared,27055
 2013,Both sexes,Number,Unknown,6460
 2013,M,Number,Bosniak,867492
 2013,M,Number,Serb,534030
@@ -33,7 +33,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,M,Number,Orthodox,376
 2013,M,Number,Macedonian ,351
 2013,M,Number,Others,5171
-2013,M,Number,Undeclared,11503
+2013,M,Number,Undaclared,11503
 2013,M,Number,Unknown,3162
 2013,F,Number,Bosniak,902100
 2013,F,Number,Serb,552703
@@ -51,5 +51,5 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,F,Number,Orthodox,450
 2013,F,Number,Macedonian ,387
 2013,F,Number,Others,5096
-2013,F,Number,Undeclared,15552
+2013,F,Number,Undaclared,15552
 2013,F,Number,Unknown,3298
