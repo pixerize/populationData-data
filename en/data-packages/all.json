@@ -4331,7 +4331,7 @@
                 "Albanian",
                 "Bosniak",
                 "Bosnian",
-                "Bosnian_and_Herzegovinian",
+                "Bosnian and Herzegovinian",
                 "Croat ",
                 "Macedonian ",
                 "Montenegrin",
@@ -4348,7 +4348,7 @@
                 "Yugoslav"
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Ethnicity/national affiliation"
           },
           {
             "name": "SEX",
