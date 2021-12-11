@@ -16,21 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "pismenost"
+                "Illiterate",
+                "Literate "
               ]
             },
             "title": "Literacy"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Sarajevo"
-              ]
-            },
-            "title": "Municipality"
           },
           {
             "name": "SEX",

@@ -16,33 +16,6 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            },
-            "title": "Oпштина"
-          },
-          {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pismenost",
-                ""
-              ]
-            },
-            "title": "Literacy"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -54,6 +27,23 @@
               ]
             },
             "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literate ",
+                "Illiterate",
+                ""
+              ]
+            },
+            "title": "Literacy"
           },
           {
             "name": "Value",

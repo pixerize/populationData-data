@@ -1,4 +1,7 @@
-Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
-2021,Number,Sarajevo,pismenost,Both sexes,23212
-2021,Number,Sarajevo,pismenost,M,232
-2021,Number,Sarajevo,pismenost,F,2312
+Year,Sex,UNIT_MEASURE,Literacy,Value
+2013,Both sexes,Number,Literate ,30920321
+2013,M,Number,Literate ,1539710
+2013,F,Number,Literate ,1550611
+2013,Both sexes,Number,Illiterate,89794
+2013,M,Number,Illiterate,12237
+2013,F,Number,Illiterate,77557

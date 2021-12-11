@@ -1,4 +1,7 @@
-Year,UNIT_MEASURE,Općina,Literacy,Spol,Value
-2021,Broj,Sarajevo,pismenost,Oba spola,23212
-2021,Broj,Sarajevo,pismenost,M,232
-2021,Broj,Sarajevo,pismenost,Ž,2312
+Year,Spol,UNIT_MEASURE,Literacy,Value
+2013,Oba spola,Broj,Literate ,30920321
+2013,M,Broj,Literate ,1539710
+2013,Ž,Broj,Literate ,1550611
+2013,Oba spola,Broj,Illiterate,89794
+2013,M,Broj,Illiterate,12237
+2013,Ž,Broj,Illiterate,77557

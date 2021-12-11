@@ -15,30 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pismenost",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -46,6 +22,21 @@
                 "_T",
                 "M",
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literate ",
+                "Illiterate",
                 ""
               ]
             }

@@ -4406,33 +4406,6 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Municipality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sarajevo",
-                ""
-              ]
-            },
-            "title": "Općina"
-          },
-          {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pismenost",
-                ""
-              ]
-            },
-            "title": "Literacy"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4444,6 +4417,23 @@
               ]
             },
             "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literate ",
+                "Illiterate",
+                ""
+              ]
+            },
+            "title": "Literacy"
           },
           {
             "name": "Value",
