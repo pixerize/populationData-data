@@ -1,9 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,30,1
-art_schools,art_schools,art_schools,art_schools,art_schools,30,1
-gymnasium,gymnasium,gymnasium,gymnasium,gymnasium,30,1
-high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,30,1
-religion_schools,religion_schools,religion_schools,religion_schools,religion_schools,30,1
-technical_schools,technical_schools,technical_schools,technical_schools,technical_schools,30,1
-vocational_schools,vocational_schools,vocational_schools,vocational_schools,vocational_schools,30,1
-Vrsta skole,Vrsta skole,Vrsta skole,Vrsta skole,Vrsta skole,1,1
+_T,_T,_T,_T,_T,60,2
+art_schools,art_schools,art_schools,art_schools,art_schools,60,2
+gymnasium,gymnasium,gymnasium,gymnasium,gymnasium,60,2
+high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,high_schools_for_children_with_special_needs,60,2
+religion_schools,religion_schools,religion_schools,religion_schools,religion_schools,60,2
+technical_schools,technical_schools,technical_schools,technical_schools,technical_schools,60,2
+vocational_schools,vocational_schools,vocational_schools,vocational_schools,vocational_schools,60,2

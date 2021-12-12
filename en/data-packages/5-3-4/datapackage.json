@@ -11,12 +11,31 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Vrsta skole"
+                "_T",
+                "art_schools",
+                "gymnasium",
+                "high_schools_for_children_with_special_needs",
+                "religion_schools",
+                "technical_schools",
+                "vocational_schools"
               ]
             },
             "title": "Type_of_school"
@@ -35,6 +54,26 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "school_year_end",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2010/2011",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020"
+              ]
+            },
+            "title": "school_year_end"
           }
         ]
       }
