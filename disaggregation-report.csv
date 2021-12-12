@@ -15,6 +15,7 @@ PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religion,Religion,Religion,1,20
 school_year,school_year,school_year,school_year,school_year,4,10
+school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,1,10
 SEX,Sex,Spol,Пол,Spol,57,5
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,5,1
