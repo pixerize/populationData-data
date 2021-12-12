@@ -274,6 +274,7 @@ deaths: Smrt
 natural_increase: Prirodni priraštaj
 mean_age: Srednja dob
 number_birth_rate: Broj na 1.000 stanovnika
+crude_death_rate_1000: Broj na 1.000 stanovnika
 infant_(up_to_12_months_of_age)_mortality_rate: Stopa smrtnosti dojenčadi (do navršene prve godine života
 VITAL_STATISTICS: Vitalna statistika
 UNIT_MEASUREMENT: Mjerna jedinica

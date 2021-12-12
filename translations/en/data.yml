@@ -232,6 +232,7 @@ live_births: Live births
 deaths: Deaths
 natural_increase: Natural increase
 number_birth_rate: Number per 1000 population
+crude_death_rate_1000: Number per 1000 population
 infant_(up_to_12_months_of_age)_mortality_rate: Infant (up to 12 months of age) mortality rate
 VITAL_STATISTICS: Vital statistics
 UNIT_MEASUREMENT: Unit of measurement
