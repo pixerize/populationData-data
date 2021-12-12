@@ -2386,6 +2386,35 @@
       "title": "Корисници социјалне заштите према врсти корисника"
     },
     {
+      "path": "3-5-8/data.csv",
+      "name": "3-5-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-8-title"
+    },
+    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -3380,6 +3409,35 @@
         ]
       },
       "title": "Пројекције становништва према старосним групама и полу"
+    },
+    {
+      "path": "3-5-9/data.csv",
+      "name": "3-5-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-9-title"
     },
     {
       "path": "3-4-2/data.csv",
