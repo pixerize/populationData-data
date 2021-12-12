@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -21,19 +21,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

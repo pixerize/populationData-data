@@ -1,5 +1,5 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,15,177
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,14,176
 AGRICULTURAL_ACTIVITY,Agricultural activity,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,AGRICULTURAL_ACTIVITY,1,2
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,22
@@ -17,10 +17,9 @@ Religion,Religion,Religion,Religion,Religion,1,20
 school_year,school_year,school_year,school_year,school_year,4,10
 school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,5,10
 school_year_end,school_year_end,school_year_end,school_year_end,school_year_end,3,10
-SEX,Sex,Spol,Пол,Spol,61,5
+SEX,Sex,Spol,Пол,Spol,51,5
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
-Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,5,1
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,7
 Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,3
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,118,28
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,103,28

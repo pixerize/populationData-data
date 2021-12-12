@@ -114,7 +114,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -123,19 +123,18 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -763,12 +762,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -781,9 +780,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -791,7 +787,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -1441,7 +1437,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -1450,19 +1446,18 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -1659,7 +1654,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -1672,8 +1667,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -1681,7 +1674,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -1799,7 +1792,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -1808,19 +1801,18 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -1863,12 +1855,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -1881,9 +1873,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -1891,7 +1880,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -2962,7 +2951,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -2975,31 +2964,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -3687,12 +3659,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -3705,9 +3677,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -3715,7 +3684,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -4089,7 +4058,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -4098,19 +4067,18 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -4268,12 +4236,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -4286,9 +4254,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -4296,7 +4261,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -4315,7 +4280,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -4328,8 +4293,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -4337,7 +4300,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -4905,12 +4868,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -4923,9 +4886,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -4933,7 +4893,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -5014,7 +4974,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -5027,8 +4987,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -5036,7 +4994,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -5284,12 +5242,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -5302,9 +5260,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -5312,7 +5267,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -5479,7 +5434,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -5488,19 +5443,18 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

@@ -114,7 +114,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -123,19 +123,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -768,7 +767,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -781,9 +780,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -791,7 +787,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -1441,7 +1437,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -1450,19 +1446,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -1659,7 +1654,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -1672,8 +1667,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -1681,7 +1674,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -1799,7 +1792,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -1808,19 +1801,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -1868,7 +1860,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -1881,9 +1873,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -1891,7 +1880,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -2962,7 +2951,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -2975,31 +2964,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
                 ""
               ]
             },
             "title": "Пол"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25-34",
-                "35-44",
-                "35-45",
-                "45-54",
-                "55-64",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -3692,7 +3664,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -3705,9 +3677,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -3715,7 +3684,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -4089,7 +4058,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -4098,19 +4067,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -4273,7 +4241,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -4286,9 +4254,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -4296,7 +4261,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -4315,7 +4280,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -4328,8 +4293,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -4337,7 +4300,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -4910,7 +4873,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -4923,9 +4886,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -4933,7 +4893,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -5014,7 +4974,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -5027,8 +4987,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -5036,7 +4994,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -5289,7 +5247,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -5302,9 +5260,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -5312,7 +5267,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -5479,7 +5434,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -5488,19 +5443,18 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_education",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta obrazovanja",
                 ""
               ]
             },
-            "title": "Type_of_education"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
