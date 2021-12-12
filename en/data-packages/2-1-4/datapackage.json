@@ -41,7 +41,7 @@
                 "85-89",
                 "90-94",
                 "95-99",
-                "Unknown"
+                "unknown"
               ]
             },
             "title": "PYRAMID_AGE"
@@ -61,7 +61,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

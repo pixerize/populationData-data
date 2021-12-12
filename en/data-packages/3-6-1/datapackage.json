@@ -16,17 +16,17 @@
             "constraints": {
               "enum": [
                 "",
-                "All methods",
-                "Modern methods",
-                "Traditional methods"
+                "all_methods",
+                "modern_methods",
+                "traditional_methods"
               ]
             },
-            "title": "Method"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

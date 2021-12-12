@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Performing agricultural activity",
-                "Performing agricultural activity and selling agricultural products in the market"
+                "Performing_agricultural_activity",
+                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market"
               ]
             },
-            "title": "Agricultural activity"
+            "title": "AGRICULTURAL_ACTIVITY"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

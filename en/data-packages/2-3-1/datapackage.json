@@ -16,22 +16,22 @@
             "constraints": {
               "enum": [
                 "",
-                "2 members",
-                "3 members",
-                "4 members",
-                "5 members",
-                "6 members",
-                "7 members",
-                "8+ members",
-                "1 member"
+                "2_members",
+                "3_members",
+                "4_members",
+                "5_members",
+                "6_members",
+                "7_members",
+                "8+_members",
+                "single_household"
               ]
             },
-            "title": "Household size"
+            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

@@ -29,18 +29,18 @@
             "constraints": {
               "enum": [
                 "",
-                "Old-age support ratio",
-                "Older persons to youth ratio",
-                "Total support ratio",
-                "Young-age support ratio"
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                "total_support_ratio",
+                "young_age_support_ratio"
               ]
             },
-            "title": "Type of dependency ratio"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

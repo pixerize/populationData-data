@@ -1,11 +1,11 @@
-Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
+Year,Sex,UNIT_MEASURE,Ethnicity_national_affiliation,Value
 2013,Both sexes,Number,Bosniak,1769592
 2013,Both sexes,Number,Serb,1086733
 2013,Both sexes,Number,Croat ,544780
 2013,Both sexes,Number,Bosnian,37110
 2013,Both sexes,Number,Romani,12583
 2013,Both sexes,Number,Muslim,12121
-2013,Both sexes,Number,Bosnian and Herzegovinian,11406
+2013,Both sexes,Number,Bosnian_and_Herzegovinian,11406
 2013,Both sexes,Number,Albanian,2659
 2013,Both sexes,Number,Yugoslav,2570
 2013,Both sexes,Number,Ukrainian,2331
@@ -15,7 +15,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,Both sexes,Number,Orthodox,826
 2013,Both sexes,Number,Macedonian ,738
 2013,Both sexes,Number,Others,10267
-2013,Both sexes,Number,Undaclared,27055
+2013,Both sexes,Number,Undeclared,27055
 2013,Both sexes,Number,Unknown,6460
 2013,M,Number,Bosniak,867492
 2013,M,Number,Serb,534030
@@ -23,7 +23,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,M,Number,Bosnian,18135
 2013,M,Number,Romani,6511
 2013,M,Number,Muslim,5888
-2013,M,Number,Bosnian and Herzegovinian,5663
+2013,M,Number,Bosnian_and_Herzegovinian,5663
 2013,M,Number,Albanian,1646
 2013,M,Number,Yugoslav,1350
 2013,M,Number,Ukrainian,1146
@@ -33,7 +33,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,M,Number,Orthodox,376
 2013,M,Number,Macedonian ,351
 2013,M,Number,Others,5171
-2013,M,Number,Undaclared,11503
+2013,M,Number,Undeclared,11503
 2013,M,Number,Unknown,3162
 2013,F,Number,Bosniak,902100
 2013,F,Number,Serb,552703
@@ -41,7 +41,7 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,F,Number,Bosnian,18975
 2013,F,Number,Romani,6072
 2013,F,Number,Muslim,6233
-2013,F,Number,Bosnian and Herzegovinian,5743
+2013,F,Number,Bosnian_and_Herzegovinian,5743
 2013,F,Number,Albanian,1013
 2013,F,Number,Yugoslav,1220
 2013,F,Number,Ukrainian,1185
@@ -51,5 +51,5 @@ Year,Sex,UNIT_MEASURE,Ethnicity/national affiliation,Value
 2013,F,Number,Orthodox,450
 2013,F,Number,Macedonian ,387
 2013,F,Number,Others,5096
-2013,F,Number,Undaclared,15552
+2013,F,Number,Undeclared,15552
 2013,F,Number,Unknown,3298

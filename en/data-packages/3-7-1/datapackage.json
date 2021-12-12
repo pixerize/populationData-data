@@ -25,7 +25,7 @@
                 "65+"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "SEX",
@@ -43,7 +43,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

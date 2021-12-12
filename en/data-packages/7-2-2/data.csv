@@ -1,11 +1,11 @@
 Year,Sex,UNIT_MEASURE,Value
-2004,Both sexes,% of total,18.3
-2007,Both sexes,% of total,18.2
-2011,Both sexes,% of total,17.9
-2015,Both sexes,% of total,16.9
-2007,M,% of total,18.3
-2011,M,% of total,18.0
-2015,M,% of total,17.1
-2007,F,% of total,18.1
-2011,F,% of total,17.7
-2015,F,% of total,16.7
+2004,Both sexes,_%,18.3
+2007,Both sexes,_%,18.2
+2011,Both sexes,_%,17.9
+2015,Both sexes,_%,16.9
+2007,M,_%,18.3
+2011,M,_%,18.0
+2015,M,_%,17.1
+2007,F,_%,18.1
+2011,F,_%,17.7
+2015,F,_%,16.7

@@ -1,33 +1,33 @@
 Year,UNIT_MEASURE,Value
-1965,Number of boys to 100 girls,107.61
-1970,Number of boys to 100 girls,107.0
-1975,Number of boys to 100 girls,106.91
-1980,Number of boys to 100 girls,106.81
-1988,Number of boys to 100 girls,107.9
-1989,Number of boys to 100 girls,105.4
-1990,Number of boys to 100 girls,106.56
-1991,Number of boys to 100 girls,105.61
-1996,Number of boys to 100 girls,109.92
-1997,Number of boys to 100 girls,109.51
-1998,Number of boys to 100 girls,108.54
-1999,Number of boys to 100 girls,103.88
-2000,Number of boys to 100 girls,106.53
-2001,Number of boys to 100 girls,105.91
-2002,Number of boys to 100 girls,105.82
-2003,Number of boys to 100 girls,108.44
-2004,Number of boys to 100 girls,106.55
-2005,Number of boys to 100 girls,105.75
-2006,Number of boys to 100 girls,106.44
-2007,Number of boys to 100 girls,107.56
-2008,Number of boys to 100 girls,105.99
-2009,Number of boys to 100 girls,108.77
-2010,Number of boys to 100 girls,106.31
-2011,Number of boys to 100 girls,108.19
-2012,Number of boys to 100 girls,106.56
-2013,Number of boys to 100 girls,106.64
-2014,Number of boys to 100 girls,106.31
-2015,Number of boys to 100 girls,105.85
-2016,Number of boys to 100 girls,108.63
-2017,Number of boys to 100 girls,107.9
-2018,Number of boys to 100 girls,107.53
-2019,Number of boys to 100 girls,109.24
+1965,boys_to_girls,107.61
+1970,boys_to_girls,107.0
+1975,boys_to_girls,106.91
+1980,boys_to_girls,106.81
+1988,boys_to_girls,107.9
+1989,boys_to_girls,105.4
+1990,boys_to_girls,106.56
+1991,boys_to_girls,105.61
+1996,boys_to_girls,109.92
+1997,boys_to_girls,109.51
+1998,boys_to_girls,108.54
+1999,boys_to_girls,103.88
+2000,boys_to_girls,106.53
+2001,boys_to_girls,105.91
+2002,boys_to_girls,105.82
+2003,boys_to_girls,108.44
+2004,boys_to_girls,106.55
+2005,boys_to_girls,105.75
+2006,boys_to_girls,106.44
+2007,boys_to_girls,107.56
+2008,boys_to_girls,105.99
+2009,boys_to_girls,108.77
+2010,boys_to_girls,106.31
+2011,boys_to_girls,108.19
+2012,boys_to_girls,106.56
+2013,boys_to_girls,106.64
+2014,boys_to_girls,106.31
+2015,boys_to_girls,105.85
+2016,boys_to_girls,108.63
+2017,boys_to_girls,107.9
+2018,boys_to_girls,107.53
+2019,boys_to_girls,109.24

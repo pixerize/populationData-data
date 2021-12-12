@@ -1,28 +1,28 @@
 Year,UNIT_MEASURE,Value
-1989,Number per 1000 population,15.5
-1990,Number per 1000 population,15.4
-1991,Number per 1000 population,14.9
-1996,Number per 1000 population,12.8
-1997,Number per 1000 population,12.9
-1998,Number per 1000 population,12.3
-1999,Number per 1000 population,11.4
-2000,Number per 1000 population,10.5
-2001,Number per 1000 population,9.9
-2002,Number per 1000 population,9.3
-2003,Number per 1000 population,9.2
-2004,Number per 1000 population,9.1
-2005,Number per 1000 population,9.0
-2006,Number per 1000 population,8.9
-2007,Number per 1000 population,8.8
-2008,Number per 1000 population,8.9
-2009,Number per 1000 population,9.0
-2010,Number per 1000 population,8.7
-2011,Number per 1000 population,8.3
-2012,Number per 1000 population,8.5
-2013,Number per 1000 population,8.7
-2014,Number per 1000 population,8.6
-2015,Number per 1000 population,8.5
-2016,Number per 1000 population,8.6
-2017,Number per 1000 population,8.6
-2018,Number per 1000 population,8.4
-2019,Number per 1000 population,8.1
+1989,number_birth_rate,15.5
+1990,number_birth_rate,15.4
+1991,number_birth_rate,14.9
+1996,number_birth_rate,12.8
+1997,number_birth_rate,12.9
+1998,number_birth_rate,12.3
+1999,number_birth_rate,11.4
+2000,number_birth_rate,10.5
+2001,number_birth_rate,9.9
+2002,number_birth_rate,9.3
+2003,number_birth_rate,9.2
+2004,number_birth_rate,9.1
+2005,number_birth_rate,9.0
+2006,number_birth_rate,8.9
+2007,number_birth_rate,8.8
+2008,number_birth_rate,8.9
+2009,number_birth_rate,9.0
+2010,number_birth_rate,8.7
+2011,number_birth_rate,8.3
+2012,number_birth_rate,8.5
+2013,number_birth_rate,8.7
+2014,number_birth_rate,8.6
+2015,number_birth_rate,8.5
+2016,number_birth_rate,8.6
+2017,number_birth_rate,8.6
+2018,number_birth_rate,8.4
+2019,number_birth_rate,8.1

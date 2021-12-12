@@ -17,7 +17,7 @@
               "enum": [
                 "",
                 "1",
-                "10 and more",
+                "10_and_more",
                 "2",
                 "3",
                 "4",
@@ -26,15 +26,15 @@
                 "7",
                 "8",
                 "9",
-                "Did not give birth"
+                "did_not_give_birth"
               ]
             },
-            "title": "Live-born children"
+            "title": "LIVE_BORN_CHILDREN"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
