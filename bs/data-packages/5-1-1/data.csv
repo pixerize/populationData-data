@@ -1,2 +1,32 @@
-Year,UNIT_MEASURE,Ownership,Value
-2013,Broj,Tip svojine,47
+Year,UNIT_MEASURE,school_year,"number_of_preschool_institutions_by_property
+",Value
+2013,Broj,2011/2012,Ukupno,227
+2013,Broj,2012/2013,Ukupno,246
+2013,Broj,2013/2014,Ukupno,261
+2013,Broj,2014/2015,Ukupno,292
+2013,Broj,2015/2016,Ukupno,320
+2013,Broj,2016/2017,Ukupno,335
+2013,Broj,2017/2018,Ukupno,335
+2013,Broj,2018/2019,Ukupno,362
+2013,Broj,2019/2020,Ukupno,390
+2013,Broj,2020/2021,Ukupno,399
+2013,Broj,2011/2012,public ,176
+2013,Broj,2012/2013,public ,180
+2013,Broj,2013/2014,public ,180
+2013,Broj,2014/2015,public ,181
+2013,Broj,2015/2016,public ,192
+2013,Broj,2016/2017,public ,198
+2013,Broj,2017/2018,public ,200
+2013,Broj,2018/2019,public ,205
+2013,Broj,2019/2020,public ,209
+2013,Broj,2020/2021,public ,215
+2013,Broj,2011/2012,private,51
+2013,Broj,2012/2013,private,66
+2013,Broj,2013/2014,private,81
+2013,Broj,2014/2015,private,111
+2013,Broj,2015/2016,private,128
+2013,Broj,2016/2017,private,137
+2013,Broj,2017/2018,private,135
+2013,Broj,2018/2019,private,157
+2013,Broj,2019/2020,private,181
+2013,Broj,2020/2021,private,184

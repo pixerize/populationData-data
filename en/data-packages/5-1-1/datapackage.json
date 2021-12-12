@@ -11,17 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Ownership",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Tip svojine"
-              ]
-            },
-            "title": "Ownership"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -35,6 +24,39 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "number_of_preschool_institutions_by_property\n",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "private",
+                "public ",
+                "Total"
+              ]
+            },
+            "title": "number_of_preschool_institutions_by_property\n"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021"
+              ]
+            },
+            "title": "school_year"
           }
         ]
       }
