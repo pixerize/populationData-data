@@ -2779,7 +2779,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -2788,19 +2788,8 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_social_security",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tip socijalne usluge",
-                ""
-              ]
-            },
-            "title": "Type_of_social_security"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -3295,7 +3284,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -3305,7 +3294,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

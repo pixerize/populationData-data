@@ -2555,25 +2555,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Type_of_social_security",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tip socijalne usluge",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -3024,7 +3014,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3032,7 +3022,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },

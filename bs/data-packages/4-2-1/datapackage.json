@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -21,19 +21,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_social_security",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tip socijalne usluge",
-                ""
-              ]
-            },
-            "title": "Type_of_social_security"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
