@@ -451,7 +451,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Vrsta korisnika"
+                "_T",
+                "adult_beneficiaries",
+                "minor_beneficiaries"
               ]
             },
             "title": "Type_of_user"
@@ -579,10 +581,27 @@
             "constraints": {
               "enum": [
                 "",
-                "M"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "homes_for_children_and_youth_without_parental_care",
+                "social_welfare_institutions_for_adults",
+                "social_welfare_institutions_for_adults_with_disabilities"
+              ]
+            },
+            "title": "Type_of_institution"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2356,12 +2375,27 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Vrsta korisnika"
+                "_T",
+                "adult_beneficiaries",
+                "minor_beneficiaries"
               ]
             },
             "title": "Type_of_user"
@@ -5398,12 +5432,29 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Vrsta institucije"
+                "_T",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "homes_for_children_and_youth_without_parental_care",
+                "social_welfare_institutions_for_adults",
+                "social_welfare_institutions_for_adults_with_disabilities"
               ]
             },
             "title": "Type_of_institution"

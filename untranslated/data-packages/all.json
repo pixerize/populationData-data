@@ -431,7 +431,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta korisnika",
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
                 ""
               ]
             }
@@ -543,11 +545,27 @@
             "type": "string"
           },
           {
+            "name": "Type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "homes_for_children_and_youth_without_parental_care",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "social_welfare_institutions_for_adults_with_disabilities",
+                "social_welfare_institutions_for_adults",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
+                "F",
                 ""
               ]
             }
@@ -2181,7 +2199,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta korisnika",
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -4962,7 +4994,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta institucije",
+                "_T",
+                "homes_for_children_and_youth_without_parental_care",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "social_welfare_institutions_for_adults_with_disabilities",
+                "social_welfare_institutions_for_adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }

@@ -1,2 +1,55 @@
-Year,UNIT_MEASURE,Type_of_user,Value
-2013,Број,Vrsta korisnika,47
+Year,UNIT_MEASURE,Type_of_user,Пол,Value
+2015,Број,_T,Оба пола,561284
+2015,Број,_T,M,280867
+2015,Број,_T,Ж,280417
+2015,Број,minor_beneficiaries,Оба пола,143552
+2015,Број,minor_beneficiaries,M,74753
+2015,Број,minor_beneficiaries,Ж,68799
+2015,Број,adult_beneficiaries,Оба пола,417732
+2015,Број,adult_beneficiaries,M,206114
+2015,Број,adult_beneficiaries,Ж,211618
+2016,Број,_T,Оба пола,542736
+2016,Број,_T,M,268561
+2016,Број,_T,Ж,274175
+2016,Број,minor_beneficiaries,Оба пола,133504
+2016,Број,minor_beneficiaries,M,70405
+2016,Број,minor_beneficiaries,Ж,63099
+2016,Број,adult_beneficiaries,Оба пола,409232
+2016,Број,adult_beneficiaries,M,198156
+2016,Број,adult_beneficiaries,Ж,211076
+2017,Број,_T,Оба пола,541572
+2017,Број,_T,M,280855
+2017,Број,_T,Ж,260717
+2017,Број,minor_beneficiaries,Оба пола,127682
+2017,Број,minor_beneficiaries,M,67353
+2017,Број,minor_beneficiaries,Ж,60329
+2017,Број,adult_beneficiaries,Оба пола,413890
+2017,Број,adult_beneficiaries,M,213502
+2017,Број,adult_beneficiaries,Ж,200388
+2018,Број,_T,Оба пола,549546
+2018,Број,_T,M,283301
+2018,Број,_T,Ж,266245
+2018,Број,minor_beneficiaries,Оба пола,129673
+2018,Број,minor_beneficiaries,M,69291
+2018,Број,minor_beneficiaries,Ж,60382
+2018,Број,adult_beneficiaries,Оба пола,419873
+2018,Број,adult_beneficiaries,M,214010
+2018,Број,adult_beneficiaries,Ж,205863
+2019,Број,_T,Оба пола,540302
+2019,Број,_T,M,279848
+2019,Број,_T,Ж,260454
+2019,Број,minor_beneficiaries,Оба пола,126324
+2019,Број,minor_beneficiaries,M,67023
+2019,Број,minor_beneficiaries,Ж,59301
+2019,Број,adult_beneficiaries,Оба пола,413978
+2019,Број,adult_beneficiaries,M,212825
+2019,Број,adult_beneficiaries,Ж,201153
+2020,Број,_T,Оба пола,546605
+2020,Број,_T,M,279742
+2020,Број,_T,Ж,266863
+2020,Број,minor_beneficiaries,Оба пола,119875
+2020,Број,minor_beneficiaries,M,64126
+2020,Број,minor_beneficiaries,Ж,55749
+2020,Број,adult_beneficiaries,Оба пола,426730
+2020,Број,adult_beneficiaries,M,215616
+2020,Број,adult_beneficiaries,Ж,211114

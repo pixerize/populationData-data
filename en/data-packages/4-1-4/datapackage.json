@@ -16,7 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Vrsta korisnika"
+                "_T",
+                "adult_beneficiaries",
+                "minor_beneficiaries"
               ]
             },
             "title": "Type_of_user"

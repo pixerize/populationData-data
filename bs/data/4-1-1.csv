@@ -1,2 +1,55 @@
-Year,UNIT_MEASURE,Type_of_user,Value
-2013,Broj,Vrsta korisnika,47
+Year,UNIT_MEASURE,Type_of_user,Spol,Value
+2015,Broj,_T,Oba spola,561284
+2015,Broj,_T,M,280867
+2015,Broj,_T,Ž,280417
+2015,Broj,minor_beneficiaries,Oba spola,143552
+2015,Broj,minor_beneficiaries,M,74753
+2015,Broj,minor_beneficiaries,Ž,68799
+2015,Broj,adult_beneficiaries,Oba spola,417732
+2015,Broj,adult_beneficiaries,M,206114
+2015,Broj,adult_beneficiaries,Ž,211618
+2016,Broj,_T,Oba spola,542736
+2016,Broj,_T,M,268561
+2016,Broj,_T,Ž,274175
+2016,Broj,minor_beneficiaries,Oba spola,133504
+2016,Broj,minor_beneficiaries,M,70405
+2016,Broj,minor_beneficiaries,Ž,63099
+2016,Broj,adult_beneficiaries,Oba spola,409232
+2016,Broj,adult_beneficiaries,M,198156
+2016,Broj,adult_beneficiaries,Ž,211076
+2017,Broj,_T,Oba spola,541572
+2017,Broj,_T,M,280855
+2017,Broj,_T,Ž,260717
+2017,Broj,minor_beneficiaries,Oba spola,127682
+2017,Broj,minor_beneficiaries,M,67353
+2017,Broj,minor_beneficiaries,Ž,60329
+2017,Broj,adult_beneficiaries,Oba spola,413890
+2017,Broj,adult_beneficiaries,M,213502
+2017,Broj,adult_beneficiaries,Ž,200388
+2018,Broj,_T,Oba spola,549546
+2018,Broj,_T,M,283301
+2018,Broj,_T,Ž,266245
+2018,Broj,minor_beneficiaries,Oba spola,129673
+2018,Broj,minor_beneficiaries,M,69291
+2018,Broj,minor_beneficiaries,Ž,60382
+2018,Broj,adult_beneficiaries,Oba spola,419873
+2018,Broj,adult_beneficiaries,M,214010
+2018,Broj,adult_beneficiaries,Ž,205863
+2019,Broj,_T,Oba spola,540302
+2019,Broj,_T,M,279848
+2019,Broj,_T,Ž,260454
+2019,Broj,minor_beneficiaries,Oba spola,126324
+2019,Broj,minor_beneficiaries,M,67023
+2019,Broj,minor_beneficiaries,Ž,59301
+2019,Broj,adult_beneficiaries,Oba spola,413978
+2019,Broj,adult_beneficiaries,M,212825
+2019,Broj,adult_beneficiaries,Ž,201153
+2020,Broj,_T,Oba spola,546605
+2020,Broj,_T,M,279742
+2020,Broj,_T,Ž,266863
+2020,Broj,minor_beneficiaries,Oba spola,119875
+2020,Broj,minor_beneficiaries,M,64126
+2020,Broj,minor_beneficiaries,Ž,55749
+2020,Broj,adult_beneficiaries,Oba spola,426730
+2020,Broj,adult_beneficiaries,M,215616
+2020,Broj,adult_beneficiaries,Ž,211114

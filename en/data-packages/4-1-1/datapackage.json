@@ -11,12 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Vrsta korisnika"
+                "_T",
+                "adult_beneficiaries",
+                "minor_beneficiaries"
               ]
             },
             "title": "Type_of_user"

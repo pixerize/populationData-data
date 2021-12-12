@@ -23,7 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta korisnika",
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
                 ""
               ]
             }

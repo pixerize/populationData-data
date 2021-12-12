@@ -1,2 +1,55 @@
-Year,UNIT_MEASURE,Type_of_user,Value
-2013,Number,Vrsta korisnika,47
+Year,UNIT_MEASURE,Type_of_user,Sex,Value
+2015,Number,_T,Both sexes,561284
+2015,Number,_T,M,280867
+2015,Number,_T,F,280417
+2015,Number,minor_beneficiaries,Both sexes,143552
+2015,Number,minor_beneficiaries,M,74753
+2015,Number,minor_beneficiaries,F,68799
+2015,Number,adult_beneficiaries,Both sexes,417732
+2015,Number,adult_beneficiaries,M,206114
+2015,Number,adult_beneficiaries,F,211618
+2016,Number,_T,Both sexes,542736
+2016,Number,_T,M,268561
+2016,Number,_T,F,274175
+2016,Number,minor_beneficiaries,Both sexes,133504
+2016,Number,minor_beneficiaries,M,70405
+2016,Number,minor_beneficiaries,F,63099
+2016,Number,adult_beneficiaries,Both sexes,409232
+2016,Number,adult_beneficiaries,M,198156
+2016,Number,adult_beneficiaries,F,211076
+2017,Number,_T,Both sexes,541572
+2017,Number,_T,M,280855
+2017,Number,_T,F,260717
+2017,Number,minor_beneficiaries,Both sexes,127682
+2017,Number,minor_beneficiaries,M,67353
+2017,Number,minor_beneficiaries,F,60329
+2017,Number,adult_beneficiaries,Both sexes,413890
+2017,Number,adult_beneficiaries,M,213502
+2017,Number,adult_beneficiaries,F,200388
+2018,Number,_T,Both sexes,549546
+2018,Number,_T,M,283301
+2018,Number,_T,F,266245
+2018,Number,minor_beneficiaries,Both sexes,129673
+2018,Number,minor_beneficiaries,M,69291
+2018,Number,minor_beneficiaries,F,60382
+2018,Number,adult_beneficiaries,Both sexes,419873
+2018,Number,adult_beneficiaries,M,214010
+2018,Number,adult_beneficiaries,F,205863
+2019,Number,_T,Both sexes,540302
+2019,Number,_T,M,279848
+2019,Number,_T,F,260454
+2019,Number,minor_beneficiaries,Both sexes,126324
+2019,Number,minor_beneficiaries,M,67023
+2019,Number,minor_beneficiaries,F,59301
+2019,Number,adult_beneficiaries,Both sexes,413978
+2019,Number,adult_beneficiaries,M,212825
+2019,Number,adult_beneficiaries,F,201153
+2020,Number,_T,Both sexes,546605
+2020,Number,_T,M,279742
+2020,Number,_T,F,266863
+2020,Number,minor_beneficiaries,Both sexes,119875
+2020,Number,minor_beneficiaries,M,64126
+2020,Number,minor_beneficiaries,F,55749
+2020,Number,adult_beneficiaries,Both sexes,426730
+2020,Number,adult_beneficiaries,M,215616
+2020,Number,adult_beneficiaries,F,211114

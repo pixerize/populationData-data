@@ -25,11 +25,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta korisnika",
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
                 ""
               ]
             },
             "title": "Type_of_user"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "Value",

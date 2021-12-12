@@ -17,11 +17,11 @@ Religion,Religion,Religion,Religion,Religion,1,20
 school_year,school_year,school_year,school_year,school_year,4,10
 school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,school_year_beginning,5,10
 school_year_end,school_year_end,school_year_end,school_year_end,school_year_end,3,10
-SEX,Sex,Spol,Пол,Spol,59,5
+SEX,Sex,Spol,Пол,Spol,61,5
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_education,Type_of_education,Type_of_education,Type_of_education,Type_of_education,5,1
-Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,1,1
+Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,7
 Type_of_social_security,Type_of_social_security,Type_of_social_security,Type_of_social_security,Type_of_social_security,1,1
-Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,1
+Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,3
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,120,28
