@@ -46,7 +46,7 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "public ",
+                "public",
                 "private",
                 ""
               ]

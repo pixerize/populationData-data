@@ -2526,7 +2526,7 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "public ",
+                "public",
                 "private",
                 ""
               ]

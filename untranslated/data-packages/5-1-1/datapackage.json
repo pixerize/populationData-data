@@ -43,7 +43,7 @@
             "constraints": {
               "enum": [
                 "_T",
-                "public ",
+                "public",
                 "private",
                 ""
               ]
