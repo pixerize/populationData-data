@@ -4786,6 +4786,25 @@
             "type": "string"
           },
           {
+            "name": "school_year_end",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010/2011",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4922,11 +4941,48 @@
             "type": "string"
           },
           {
+            "name": "school_year_beginning",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vrsta skole",
+                "_T",
+                "gymnasium",
+                "technical_schools",
+                "art_schools",
+                "religion_schools",
+                "vocational_schools",
+                "high_schools_for_children_with_special_needs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }

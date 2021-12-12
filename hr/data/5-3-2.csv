@@ -1,2 +1,211 @@
-Year,UNIT_MEASURE,Type_of_school,Value
-2021,Broj,Vrsta skole,3423432
+Year,UNIT_MEASURE,school_year_beginning,Type_of_school,Spol,Value
+2013,Broj,2011/2012,_T,Oba spola,163284
+2013,Broj,2012/2013,_T,Oba spola,166662
+2013,Broj,2013/2014,_T,Oba spola,156350
+2013,Broj,2014/2015,_T,Oba spola,143881
+2013,Broj,2015/2016,_T,Oba spola,133228
+2013,Broj,2016/2017,_T,Oba spola,126824
+2013,Broj,2017/2018,_T,Oba spola,124148
+2013,Broj,2018/2019,_T,Oba spola,117475
+2013,Broj,2019/2020,_T,Oba spola,112796
+2013,Broj,2020/2021,_T,Oba spola,110404
+2013,Broj,2011/2012,gymnasium,Oba spola,41081
+2013,Broj,2012/2013,gymnasium,Oba spola,42225
+2013,Broj,2013/2014,gymnasium,Oba spola,40065
+2013,Broj,2014/2015,gymnasium,Oba spola,37132
+2013,Broj,2015/2016,gymnasium,Oba spola,33321
+2013,Broj,2016/2017,gymnasium,Oba spola,30615
+2013,Broj,2017/2018,gymnasium,Oba spola,29591
+2013,Broj,2018/2019,gymnasium,Oba spola,26731
+2013,Broj,2019/2020,gymnasium,Oba spola,24817
+2013,Broj,2020/2021,gymnasium,Oba spola,23867
+2013,Broj,2011/2012,technical_schools,Oba spola,83704
+2013,Broj,2012/2013,technical_schools,Oba spola,86539
+2013,Broj,2013/2014,technical_schools,Oba spola,82743
+2013,Broj,2014/2015,technical_schools,Oba spola,77388
+2013,Broj,2015/2016,technical_schools,Oba spola,72109
+2013,Broj,2016/2017,technical_schools,Oba spola,68743
+2013,Broj,2017/2018,technical_schools,Oba spola,67895
+2013,Broj,2018/2019,technical_schools,Oba spola,64706
+2013,Broj,2019/2020,technical_schools,Oba spola,62846
+2013,Broj,2020/2021,technical_schools,Oba spola,61811
+2013,Broj,2011/2012,art_schools,Oba spola,1514
+2013,Broj,2012/2013,art_schools,Oba spola,1520
+2013,Broj,2013/2014,art_schools,Oba spola,1445
+2013,Broj,2014/2015,art_schools,Oba spola,1291
+2013,Broj,2015/2016,art_schools,Oba spola,1216
+2013,Broj,2016/2017,art_schools,Oba spola,1203
+2013,Broj,2017/2018,art_schools,Oba spola,1154
+2013,Broj,2018/2019,art_schools,Oba spola,1166
+2013,Broj,2019/2020,art_schools,Oba spola,1139
+2013,Broj,2020/2021,art_schools,Oba spola,1151
+2013,Broj,2011/2012,religion_schools,Oba spola,2095
+2013,Broj,2012/2013,religion_schools,Oba spola,2266
+2013,Broj,2013/2014,religion_schools,Oba spola,2258
+2013,Broj,2014/2015,religion_schools,Oba spola,2222
+2013,Broj,2015/2016,religion_schools,Oba spola,2189
+2013,Broj,2016/2017,religion_schools,Oba spola,2227
+2013,Broj,2017/2018,religion_schools,Oba spola,2309
+2013,Broj,2018/2019,religion_schools,Oba spola,2245
+2013,Broj,2019/2020,religion_schools,Oba spola,2197
+2013,Broj,2020/2021,religion_schools,Oba spola,2196
+2013,Broj,2011/2012,vocational_schools,Oba spola,34479
+2013,Broj,2012/2013,vocational_schools,Oba spola,33672
+2013,Broj,2013/2014,vocational_schools,Oba spola,29414
+2013,Broj,2014/2015,vocational_schools,Oba spola,25463
+2013,Broj,2015/2016,vocational_schools,Oba spola,23995
+2013,Broj,2016/2017,vocational_schools,Oba spola,23642
+2013,Broj,2017/2018,vocational_schools,Oba spola,22819
+2013,Broj,2018/2019,vocational_schools,Oba spola,22280
+2013,Broj,2019/2020,vocational_schools,Oba spola,21481
+2013,Broj,2020/2021,vocational_schools,Oba spola,21054
+2013,Broj,2011/2012,high_schools_for_children_with_special_needs,Oba spola,411
+2013,Broj,2012/2013,high_schools_for_children_with_special_needs,Oba spola,440
+2013,Broj,2013/2014,high_schools_for_children_with_special_needs,Oba spola,425
+2013,Broj,2014/2015,high_schools_for_children_with_special_needs,Oba spola,385
+2013,Broj,2015/2016,high_schools_for_children_with_special_needs,Oba spola,398
+2013,Broj,2016/2017,high_schools_for_children_with_special_needs,Oba spola,394
+2013,Broj,2017/2018,high_schools_for_children_with_special_needs,Oba spola,380
+2013,Broj,2018/2019,high_schools_for_children_with_special_needs,Oba spola,347
+2013,Broj,2019/2020,high_schools_for_children_with_special_needs,Oba spola,316
+2013,Broj,2020/2021,high_schools_for_children_with_special_needs,Oba spola,325
+2013,Broj,2011/2012,_T,M,82745
+2013,Broj,2012/2013,_T,M,84420
+2013,Broj,2013/2014,_T,M,78882
+2013,Broj,2014/2015,_T,M,72095
+2013,Broj,2015/2016,_T,M,66708
+2013,Broj,2016/2017,_T,M,63232
+2013,Broj,2017/2018,_T,M,61934
+2013,Broj,2018/2019,_T,M,58821
+2013,Broj,2019/2020,_T,M,56328
+2013,Broj,2020/2021,_T,M,55068
+2013,Broj,2011/2012,gymnasium,M,15329
+2013,Broj,2012/2013,gymnasium,M,15779
+2013,Broj,2013/2014,gymnasium,M,14829
+2013,Broj,2014/2015,gymnasium,M,13802
+2013,Broj,2015/2016,gymnasium,M,12424
+2013,Broj,2016/2017,gymnasium,M,11379
+2013,Broj,2017/2018,gymnasium,M,10929
+2013,Broj,2018/2019,gymnasium,M,9694
+2013,Broj,2019/2020,gymnasium,M,8899
+2013,Broj,2020/2021,gymnasium,M,8451
+2013,Broj,2011/2012,technical_schools,M,41624
+2013,Broj,2012/2013,technical_schools,M,43010
+2013,Broj,2013/2014,technical_schools,M,41216
+2013,Broj,2014/2015,technical_schools,M,38340
+2013,Broj,2015/2016,technical_schools,M,35563
+2013,Broj,2016/2017,technical_schools,M,33308
+2013,Broj,2017/2018,technical_schools,M,32926
+2013,Broj,2018/2019,technical_schools,M,31248
+2013,Broj,2019/2020,technical_schools,M,30030
+2013,Broj,2020/2021,technical_schools,M,29382
+2013,Broj,2011/2012,art_schools,M,657
+2013,Broj,2012/2013,art_schools,M,645
+2013,Broj,2013/2014,art_schools,M,581
+2013,Broj,2014/2015,art_schools,M,512
+2013,Broj,2015/2016,art_schools,M,471
+2013,Broj,2016/2017,art_schools,M,454
+2013,Broj,2017/2018,art_schools,M,432
+2013,Broj,2018/2019,art_schools,M,447
+2013,Broj,2019/2020,art_schools,M,403
+2013,Broj,2020/2021,art_schools,M,411
+2013,Broj,2011/2012,religion_schools,M,1089
+2013,Broj,2012/2013,religion_schools,M,1138
+2013,Broj,2013/2014,religion_schools,M,1149
+2013,Broj,2014/2015,religion_schools,M,1106
+2013,Broj,2015/2016,religion_schools,M,1070
+2013,Broj,2016/2017,religion_schools,M,1099
+2013,Broj,2017/2018,religion_schools,M,1121
+2013,Broj,2018/2019,religion_schools,M,1075
+2013,Broj,2019/2020,religion_schools,M,1053
+2013,Broj,2020/2021,religion_schools,M,1027
+2013,Broj,2011/2012,vocational_schools,M,23787
+2013,Broj,2012/2013,vocational_schools,M,23567
+2013,Broj,2013/2014,vocational_schools,M,20832
+2013,Broj,2014/2015,vocational_schools,M,18088
+2013,Broj,2015/2016,vocational_schools,M,16937
+2013,Broj,2016/2017,vocational_schools,M,16746
+2013,Broj,2017/2018,vocational_schools,M,16292
+2013,Broj,2018/2019,vocational_schools,M,16137
+2013,Broj,2019/2020,vocational_schools,M,15739
+2013,Broj,2020/2021,vocational_schools,M,15588
+2013,Broj,2011/2012,high_schools_for_children_with_special_needs,M,259
+2013,Broj,2012/2013,high_schools_for_children_with_special_needs,M,281
+2013,Broj,2013/2014,high_schools_for_children_with_special_needs,M,275
+2013,Broj,2014/2015,high_schools_for_children_with_special_needs,M,247
+2013,Broj,2015/2016,high_schools_for_children_with_special_needs,M,243
+2013,Broj,2016/2017,high_schools_for_children_with_special_needs,M,246
+2013,Broj,2017/2018,high_schools_for_children_with_special_needs,M,234
+2013,Broj,2018/2019,high_schools_for_children_with_special_needs,M,220
+2013,Broj,2019/2020,high_schools_for_children_with_special_needs,M,204
+2013,Broj,2020/2021,high_schools_for_children_with_special_needs,M,209
+2013,Broj,2011/2012,_T,Ž,80539
+2013,Broj,2012/2013,_T,Ž,82242
+2013,Broj,2013/2014,_T,Ž,77468
+2013,Broj,2014/2015,_T,Ž,71786
+2013,Broj,2015/2016,_T,Ž,66520
+2013,Broj,2016/2017,_T,Ž,63592
+2013,Broj,2017/2018,_T,Ž,62214
+2013,Broj,2018/2019,_T,Ž,58654
+2013,Broj,2019/2020,_T,Ž,56468
+2013,Broj,2020/2021,_T,Ž,55336
+2013,Broj,2011/2012,gymnasium,Ž,25752
+2013,Broj,2012/2013,gymnasium,Ž,26446
+2013,Broj,2013/2014,gymnasium,Ž,25236
+2013,Broj,2014/2015,gymnasium,Ž,23330
+2013,Broj,2015/2016,gymnasium,Ž,20897
+2013,Broj,2016/2017,gymnasium,Ž,19236
+2013,Broj,2017/2018,gymnasium,Ž,18662
+2013,Broj,2018/2019,gymnasium,Ž,17037
+2013,Broj,2019/2020,gymnasium,Ž,15918
+2013,Broj,2020/2021,gymnasium,Ž,15416
+2013,Broj,2011/2012,technical_schools,Ž,42080
+2013,Broj,2012/2013,technical_schools,Ž,43529
+2013,Broj,2013/2014,technical_schools,Ž,41527
+2013,Broj,2014/2015,technical_schools,Ž,39048
+2013,Broj,2015/2016,technical_schools,Ž,36546
+2013,Broj,2016/2017,technical_schools,Ž,35435
+2013,Broj,2017/2018,technical_schools,Ž,34969
+2013,Broj,2018/2019,technical_schools,Ž,33458
+2013,Broj,2019/2020,technical_schools,Ž,32816
+2013,Broj,2020/2021,technical_schools,Ž,32429
+2013,Broj,2011/2012,art_schools,Ž,857
+2013,Broj,2012/2013,art_schools,Ž,875
+2013,Broj,2013/2014,art_schools,Ž,864
+2013,Broj,2014/2015,art_schools,Ž,779
+2013,Broj,2015/2016,art_schools,Ž,745
+2013,Broj,2016/2017,art_schools,Ž,749
+2013,Broj,2017/2018,art_schools,Ž,722
+2013,Broj,2018/2019,art_schools,Ž,719
+2013,Broj,2019/2020,art_schools,Ž,736
+2013,Broj,2020/2021,art_schools,Ž,740
+2013,Broj,2011/2012,religion_schools,Ž,1006
+2013,Broj,2012/2013,religion_schools,Ž,1128
+2013,Broj,2013/2014,religion_schools,Ž,1109
+2013,Broj,2014/2015,religion_schools,Ž,1116
+2013,Broj,2015/2016,religion_schools,Ž,1119
+2013,Broj,2016/2017,religion_schools,Ž,1128
+2013,Broj,2017/2018,religion_schools,Ž,1188
+2013,Broj,2018/2019,religion_schools,Ž,1170
+2013,Broj,2019/2020,religion_schools,Ž,1144
+2013,Broj,2020/2021,religion_schools,Ž,1169
+2013,Broj,2011/2012,vocational_schools,Ž,10692
+2013,Broj,2012/2013,vocational_schools,Ž,10105
+2013,Broj,2013/2014,vocational_schools,Ž,8582
+2013,Broj,2014/2015,vocational_schools,Ž,7375
+2013,Broj,2015/2016,vocational_schools,Ž,7058
+2013,Broj,2016/2017,vocational_schools,Ž,6896
+2013,Broj,2017/2018,vocational_schools,Ž,6527
+2013,Broj,2018/2019,vocational_schools,Ž,6143
+2013,Broj,2019/2020,vocational_schools,Ž,5742
+2013,Broj,2020/2021,vocational_schools,Ž,5466
+2013,Broj,2011/2012,high_schools_for_children_with_special_needs,Ž,152
+2013,Broj,2012/2013,high_schools_for_children_with_special_needs,Ž,159
+2013,Broj,2013/2014,high_schools_for_children_with_special_needs,Ž,150
+2013,Broj,2014/2015,high_schools_for_children_with_special_needs,Ž,138
+2013,Broj,2015/2016,high_schools_for_children_with_special_needs,Ž,155
+2013,Broj,2016/2017,high_schools_for_children_with_special_needs,Ž,148
+2013,Broj,2017/2018,high_schools_for_children_with_special_needs,Ž,146
+2013,Broj,2018/2019,high_schools_for_children_with_special_needs,Ž,127
+2013,Broj,2019/2020,high_schools_for_children_with_special_needs,Ž,112
+2013,Broj,2020/2021,high_schools_for_children_with_special_needs,Ž,116

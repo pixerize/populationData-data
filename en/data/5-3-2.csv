@@ -1,2 +1,211 @@
-Year,UNIT_MEASURE,Type_of_school,Value
-2021,Number,Vrsta skole,3423432
+Year,UNIT_MEASURE,school_year_beginning,Type_of_school,Sex,Value
+2013,Number,2011/2012,_T,Both sexes,163284
+2013,Number,2012/2013,_T,Both sexes,166662
+2013,Number,2013/2014,_T,Both sexes,156350
+2013,Number,2014/2015,_T,Both sexes,143881
+2013,Number,2015/2016,_T,Both sexes,133228
+2013,Number,2016/2017,_T,Both sexes,126824
+2013,Number,2017/2018,_T,Both sexes,124148
+2013,Number,2018/2019,_T,Both sexes,117475
+2013,Number,2019/2020,_T,Both sexes,112796
+2013,Number,2020/2021,_T,Both sexes,110404
+2013,Number,2011/2012,gymnasium,Both sexes,41081
+2013,Number,2012/2013,gymnasium,Both sexes,42225
+2013,Number,2013/2014,gymnasium,Both sexes,40065
+2013,Number,2014/2015,gymnasium,Both sexes,37132
+2013,Number,2015/2016,gymnasium,Both sexes,33321
+2013,Number,2016/2017,gymnasium,Both sexes,30615
+2013,Number,2017/2018,gymnasium,Both sexes,29591
+2013,Number,2018/2019,gymnasium,Both sexes,26731
+2013,Number,2019/2020,gymnasium,Both sexes,24817
+2013,Number,2020/2021,gymnasium,Both sexes,23867
+2013,Number,2011/2012,technical_schools,Both sexes,83704
+2013,Number,2012/2013,technical_schools,Both sexes,86539
+2013,Number,2013/2014,technical_schools,Both sexes,82743
+2013,Number,2014/2015,technical_schools,Both sexes,77388
+2013,Number,2015/2016,technical_schools,Both sexes,72109
+2013,Number,2016/2017,technical_schools,Both sexes,68743
+2013,Number,2017/2018,technical_schools,Both sexes,67895
+2013,Number,2018/2019,technical_schools,Both sexes,64706
+2013,Number,2019/2020,technical_schools,Both sexes,62846
+2013,Number,2020/2021,technical_schools,Both sexes,61811
+2013,Number,2011/2012,art_schools,Both sexes,1514
+2013,Number,2012/2013,art_schools,Both sexes,1520
+2013,Number,2013/2014,art_schools,Both sexes,1445
+2013,Number,2014/2015,art_schools,Both sexes,1291
+2013,Number,2015/2016,art_schools,Both sexes,1216
+2013,Number,2016/2017,art_schools,Both sexes,1203
+2013,Number,2017/2018,art_schools,Both sexes,1154
+2013,Number,2018/2019,art_schools,Both sexes,1166
+2013,Number,2019/2020,art_schools,Both sexes,1139
+2013,Number,2020/2021,art_schools,Both sexes,1151
+2013,Number,2011/2012,religion_schools,Both sexes,2095
+2013,Number,2012/2013,religion_schools,Both sexes,2266
+2013,Number,2013/2014,religion_schools,Both sexes,2258
+2013,Number,2014/2015,religion_schools,Both sexes,2222
+2013,Number,2015/2016,religion_schools,Both sexes,2189
+2013,Number,2016/2017,religion_schools,Both sexes,2227
+2013,Number,2017/2018,religion_schools,Both sexes,2309
+2013,Number,2018/2019,religion_schools,Both sexes,2245
+2013,Number,2019/2020,religion_schools,Both sexes,2197
+2013,Number,2020/2021,religion_schools,Both sexes,2196
+2013,Number,2011/2012,vocational_schools,Both sexes,34479
+2013,Number,2012/2013,vocational_schools,Both sexes,33672
+2013,Number,2013/2014,vocational_schools,Both sexes,29414
+2013,Number,2014/2015,vocational_schools,Both sexes,25463
+2013,Number,2015/2016,vocational_schools,Both sexes,23995
+2013,Number,2016/2017,vocational_schools,Both sexes,23642
+2013,Number,2017/2018,vocational_schools,Both sexes,22819
+2013,Number,2018/2019,vocational_schools,Both sexes,22280
+2013,Number,2019/2020,vocational_schools,Both sexes,21481
+2013,Number,2020/2021,vocational_schools,Both sexes,21054
+2013,Number,2011/2012,high_schools_for_children_with_special_needs,Both sexes,411
+2013,Number,2012/2013,high_schools_for_children_with_special_needs,Both sexes,440
+2013,Number,2013/2014,high_schools_for_children_with_special_needs,Both sexes,425
+2013,Number,2014/2015,high_schools_for_children_with_special_needs,Both sexes,385
+2013,Number,2015/2016,high_schools_for_children_with_special_needs,Both sexes,398
+2013,Number,2016/2017,high_schools_for_children_with_special_needs,Both sexes,394
+2013,Number,2017/2018,high_schools_for_children_with_special_needs,Both sexes,380
+2013,Number,2018/2019,high_schools_for_children_with_special_needs,Both sexes,347
+2013,Number,2019/2020,high_schools_for_children_with_special_needs,Both sexes,316
+2013,Number,2020/2021,high_schools_for_children_with_special_needs,Both sexes,325
+2013,Number,2011/2012,_T,M,82745
+2013,Number,2012/2013,_T,M,84420
+2013,Number,2013/2014,_T,M,78882
+2013,Number,2014/2015,_T,M,72095
+2013,Number,2015/2016,_T,M,66708
+2013,Number,2016/2017,_T,M,63232
+2013,Number,2017/2018,_T,M,61934
+2013,Number,2018/2019,_T,M,58821
+2013,Number,2019/2020,_T,M,56328
+2013,Number,2020/2021,_T,M,55068
+2013,Number,2011/2012,gymnasium,M,15329
+2013,Number,2012/2013,gymnasium,M,15779
+2013,Number,2013/2014,gymnasium,M,14829
+2013,Number,2014/2015,gymnasium,M,13802
+2013,Number,2015/2016,gymnasium,M,12424
+2013,Number,2016/2017,gymnasium,M,11379
+2013,Number,2017/2018,gymnasium,M,10929
+2013,Number,2018/2019,gymnasium,M,9694
+2013,Number,2019/2020,gymnasium,M,8899
+2013,Number,2020/2021,gymnasium,M,8451
+2013,Number,2011/2012,technical_schools,M,41624
+2013,Number,2012/2013,technical_schools,M,43010
+2013,Number,2013/2014,technical_schools,M,41216
+2013,Number,2014/2015,technical_schools,M,38340
+2013,Number,2015/2016,technical_schools,M,35563
+2013,Number,2016/2017,technical_schools,M,33308
+2013,Number,2017/2018,technical_schools,M,32926
+2013,Number,2018/2019,technical_schools,M,31248
+2013,Number,2019/2020,technical_schools,M,30030
+2013,Number,2020/2021,technical_schools,M,29382
+2013,Number,2011/2012,art_schools,M,657
+2013,Number,2012/2013,art_schools,M,645
+2013,Number,2013/2014,art_schools,M,581
+2013,Number,2014/2015,art_schools,M,512
+2013,Number,2015/2016,art_schools,M,471
+2013,Number,2016/2017,art_schools,M,454
+2013,Number,2017/2018,art_schools,M,432
+2013,Number,2018/2019,art_schools,M,447
+2013,Number,2019/2020,art_schools,M,403
+2013,Number,2020/2021,art_schools,M,411
+2013,Number,2011/2012,religion_schools,M,1089
+2013,Number,2012/2013,religion_schools,M,1138
+2013,Number,2013/2014,religion_schools,M,1149
+2013,Number,2014/2015,religion_schools,M,1106
+2013,Number,2015/2016,religion_schools,M,1070
+2013,Number,2016/2017,religion_schools,M,1099
+2013,Number,2017/2018,religion_schools,M,1121
+2013,Number,2018/2019,religion_schools,M,1075
+2013,Number,2019/2020,religion_schools,M,1053
+2013,Number,2020/2021,religion_schools,M,1027
+2013,Number,2011/2012,vocational_schools,M,23787
+2013,Number,2012/2013,vocational_schools,M,23567
+2013,Number,2013/2014,vocational_schools,M,20832
+2013,Number,2014/2015,vocational_schools,M,18088
+2013,Number,2015/2016,vocational_schools,M,16937
+2013,Number,2016/2017,vocational_schools,M,16746
+2013,Number,2017/2018,vocational_schools,M,16292
+2013,Number,2018/2019,vocational_schools,M,16137
+2013,Number,2019/2020,vocational_schools,M,15739
+2013,Number,2020/2021,vocational_schools,M,15588
+2013,Number,2011/2012,high_schools_for_children_with_special_needs,M,259
+2013,Number,2012/2013,high_schools_for_children_with_special_needs,M,281
+2013,Number,2013/2014,high_schools_for_children_with_special_needs,M,275
+2013,Number,2014/2015,high_schools_for_children_with_special_needs,M,247
+2013,Number,2015/2016,high_schools_for_children_with_special_needs,M,243
+2013,Number,2016/2017,high_schools_for_children_with_special_needs,M,246
+2013,Number,2017/2018,high_schools_for_children_with_special_needs,M,234
+2013,Number,2018/2019,high_schools_for_children_with_special_needs,M,220
+2013,Number,2019/2020,high_schools_for_children_with_special_needs,M,204
+2013,Number,2020/2021,high_schools_for_children_with_special_needs,M,209
+2013,Number,2011/2012,_T,F,80539
+2013,Number,2012/2013,_T,F,82242
+2013,Number,2013/2014,_T,F,77468
+2013,Number,2014/2015,_T,F,71786
+2013,Number,2015/2016,_T,F,66520
+2013,Number,2016/2017,_T,F,63592
+2013,Number,2017/2018,_T,F,62214
+2013,Number,2018/2019,_T,F,58654
+2013,Number,2019/2020,_T,F,56468
+2013,Number,2020/2021,_T,F,55336
+2013,Number,2011/2012,gymnasium,F,25752
+2013,Number,2012/2013,gymnasium,F,26446
+2013,Number,2013/2014,gymnasium,F,25236
+2013,Number,2014/2015,gymnasium,F,23330
+2013,Number,2015/2016,gymnasium,F,20897
+2013,Number,2016/2017,gymnasium,F,19236
+2013,Number,2017/2018,gymnasium,F,18662
+2013,Number,2018/2019,gymnasium,F,17037
+2013,Number,2019/2020,gymnasium,F,15918
+2013,Number,2020/2021,gymnasium,F,15416
+2013,Number,2011/2012,technical_schools,F,42080
+2013,Number,2012/2013,technical_schools,F,43529
+2013,Number,2013/2014,technical_schools,F,41527
+2013,Number,2014/2015,technical_schools,F,39048
+2013,Number,2015/2016,technical_schools,F,36546
+2013,Number,2016/2017,technical_schools,F,35435
+2013,Number,2017/2018,technical_schools,F,34969
+2013,Number,2018/2019,technical_schools,F,33458
+2013,Number,2019/2020,technical_schools,F,32816
+2013,Number,2020/2021,technical_schools,F,32429
+2013,Number,2011/2012,art_schools,F,857
+2013,Number,2012/2013,art_schools,F,875
+2013,Number,2013/2014,art_schools,F,864
+2013,Number,2014/2015,art_schools,F,779
+2013,Number,2015/2016,art_schools,F,745
+2013,Number,2016/2017,art_schools,F,749
+2013,Number,2017/2018,art_schools,F,722
+2013,Number,2018/2019,art_schools,F,719
+2013,Number,2019/2020,art_schools,F,736
+2013,Number,2020/2021,art_schools,F,740
+2013,Number,2011/2012,religion_schools,F,1006
+2013,Number,2012/2013,religion_schools,F,1128
+2013,Number,2013/2014,religion_schools,F,1109
+2013,Number,2014/2015,religion_schools,F,1116
+2013,Number,2015/2016,religion_schools,F,1119
+2013,Number,2016/2017,religion_schools,F,1128
+2013,Number,2017/2018,religion_schools,F,1188
+2013,Number,2018/2019,religion_schools,F,1170
+2013,Number,2019/2020,religion_schools,F,1144
+2013,Number,2020/2021,religion_schools,F,1169
+2013,Number,2011/2012,vocational_schools,F,10692
+2013,Number,2012/2013,vocational_schools,F,10105
+2013,Number,2013/2014,vocational_schools,F,8582
+2013,Number,2014/2015,vocational_schools,F,7375
+2013,Number,2015/2016,vocational_schools,F,7058
+2013,Number,2016/2017,vocational_schools,F,6896
+2013,Number,2017/2018,vocational_schools,F,6527
+2013,Number,2018/2019,vocational_schools,F,6143
+2013,Number,2019/2020,vocational_schools,F,5742
+2013,Number,2020/2021,vocational_schools,F,5466
+2013,Number,2011/2012,high_schools_for_children_with_special_needs,F,152
+2013,Number,2012/2013,high_schools_for_children_with_special_needs,F,159
+2013,Number,2013/2014,high_schools_for_children_with_special_needs,F,150
+2013,Number,2014/2015,high_schools_for_children_with_special_needs,F,138
+2013,Number,2015/2016,high_schools_for_children_with_special_needs,F,155
+2013,Number,2016/2017,high_schools_for_children_with_special_needs,F,148
+2013,Number,2017/2018,high_schools_for_children_with_special_needs,F,146
+2013,Number,2018/2019,high_schools_for_children_with_special_needs,F,127
+2013,Number,2019/2020,high_schools_for_children_with_special_needs,F,112
+2013,Number,2020/2021,high_schools_for_children_with_special_needs,F,116
