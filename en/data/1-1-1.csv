@@ -1,169 +1,169 @@
-Year,UNIT_MEASURE,Sex,BIRTHS,Value
-1996,Number,Both sexes,LIVE_BIRTH,46594
-1997,Number,Both sexes,LIVE_BIRTH,48397
-1998,Number,Both sexes,LIVE_BIRTH,45007
-1999,Number,Both sexes,LIVE_BIRTH,42464
-2000,Number,Both sexes,LIVE_BIRTH,39563
-2001,Number,Both sexes,LIVE_BIRTH,37717
-2002,Number,Both sexes,LIVE_BIRTH,35587
-2003,Number,Both sexes,LIVE_BIRTH,35234
-2004,Number,Both sexes,LIVE_BIRTH,35151
-2005,Number,Both sexes,LIVE_BIRTH,34627
-2006,Number,Both sexes,LIVE_BIRTH,34033
-2007,Number,Both sexes,LIVE_BIRTH,33835
-2008,Number,Both sexes,LIVE_BIRTH,34176
-2009,Number,Both sexes,LIVE_BIRTH,34550
-2010,Number,Both sexes,LIVE_BIRTH,33528
-2011,Number,Both sexes,LIVE_BIRTH,31811
-2012,Number,Both sexes,LIVE_BIRTH,32547
-2013,Number,Both sexes,LIVE_BIRTH,30684
-2014,Number,Both sexes,LIVE_BIRTH,30268
-2015,Number,Both sexes,LIVE_BIRTH,29770
-2016,Number,Both sexes,LIVE_BIRTH,30183
-2017,Number,Both sexes,LIVE_BIRTH,30200
-2018,Number,Both sexes,LIVE_BIRTH,29467
-2019,Number,Both sexes,LIVE_BIRTH,28360
-1996,Number,M,LIVE_BIRTH,24398
-1997,Number,M,LIVE_BIRTH,25297
-1998,Number,M,LIVE_BIRTH,23425
-1999,Number,M,LIVE_BIRTH,21636
-2000,Number,M,LIVE_BIRTH,20407
-2001,Number,M,LIVE_BIRTH,19400
-2002,Number,M,LIVE_BIRTH,18297
-2003,Number,M,LIVE_BIRTH,18330
-2004,Number,M,LIVE_BIRTH,18133
-2005,Number,M,LIVE_BIRTH,17797
-2006,Number,M,LIVE_BIRTH,17547
-2007,Number,M,LIVE_BIRTH,17534
-2008,Number,M,LIVE_BIRTH,17585
-2009,Number,M,LIVE_BIRTH,18001
-2010,Number,M,LIVE_BIRTH,17277
-2011,Number,M,LIVE_BIRTH,16531
-2012,Number,M,LIVE_BIRTH,16790
-2013,Number,M,LIVE_BIRTH,15835
-2014,Number,M,LIVE_BIRTH,15597
-2015,Number,M,LIVE_BIRTH,15308
-2016,Number,M,LIVE_BIRTH,15716
-2017,Number,M,LIVE_BIRTH,15674
-2018,Number,M,LIVE_BIRTH,15268
-2019,Number,M,LIVE_BIRTH,14806
-1996,Number,F,LIVE_BIRTH,22196
-1997,Number,F,LIVE_BIRTH,23100
-1998,Number,F,LIVE_BIRTH,21582
-1999,Number,F,LIVE_BIRTH,20828
-2000,Number,F,LIVE_BIRTH,19156
-2001,Number,F,LIVE_BIRTH,18317
-2002,Number,F,LIVE_BIRTH,17290
-2003,Number,F,LIVE_BIRTH,16904
-2004,Number,F,LIVE_BIRTH,17018
-2005,Number,F,LIVE_BIRTH,16830
-2006,Number,F,LIVE_BIRTH,16486
-2007,Number,F,LIVE_BIRTH,16301
-2008,Number,F,LIVE_BIRTH,16591
-2009,Number,F,LIVE_BIRTH,16549
-2010,Number,F,LIVE_BIRTH,16251
-2011,Number,F,LIVE_BIRTH,15280
-2012,Number,F,LIVE_BIRTH,15757
-2013,Number,F,LIVE_BIRTH,14849
-2014,Number,F,LIVE_BIRTH,14671
-2015,Number,F,LIVE_BIRTH,14462
-2016,Number,F,LIVE_BIRTH,14467
-2017,Number,F,LIVE_BIRTH,14526
-2018,Number,F,LIVE_BIRTH,14199
-2019,Number,F,LIVE_BIRTH,13554
-1996,Number,Both sexes,DEATHS,25152
-1997,Number,Both sexes,DEATHS,27875
-1998,Number,Both sexes,DEATHS,28679
-1999,Number,Both sexes,DEATHS,28637
-2000,Number,Both sexes,DEATHS,30482
-2001,Number,Both sexes,DEATHS,30325
-2002,Number,Both sexes,DEATHS,30155
-2003,Number,Both sexes,DEATHS,31757
-2004,Number,Both sexes,DEATHS,32616
-2005,Number,Both sexes,DEATHS,34402
-2006,Number,Both sexes,DEATHS,33221
-2007,Number,Both sexes,DEATHS,35044
-2008,Number,Both sexes,DEATHS,34026
-2009,Number,Both sexes,DEATHS,34904
-2010,Number,Both sexes,DEATHS,35118
-2011,Number,Both sexes,DEATHS,35028
-2012,Number,Both sexes,DEATHS,35817
-2013,Number,Both sexes,DEATHS,35662
-2014,Number,Both sexes,DEATHS,35980
-2015,Number,Both sexes,DEATHS,38150
-2016,Number,Both sexes,DEATHS,36571
-2017,Number,Both sexes,DEATHS,37979
-2018,Number,Both sexes,DEATHS,37744
-2019,Number,Both sexes,DEATHS,38829
-1996,Number,M,DEATHS,13952
-1997,Number,M,DEATHS,15184
-1998,Number,M,DEATHS,15303
-1999,Number,M,DEATHS,15161
-2000,Number,M,DEATHS,16058
-2001,Number,M,DEATHS,16202
-2002,Number,M,DEATHS,15647
-2003,Number,M,DEATHS,16590
-2004,Number,M,DEATHS,16780
-2005,Number,M,DEATHS,18018
-2006,Number,M,DEATHS,17308
-2007,Number,M,DEATHS,18154
-2008,Number,M,DEATHS,17687
-2009,Number,M,DEATHS,17884
-2010,Number,M,DEATHS,17900
-2011,Number,M,DEATHS,17965
-2012,Number,M,DEATHS,18436
-2013,Number,M,DEATHS,18217
-2014,Number,M,DEATHS,18360
-2015,Number,M,DEATHS,19219
-2016,Number,M,DEATHS,18542
-2017,Number,M,DEATHS,19186
-2018,Number,M,DEATHS,19007
-2019,Number,M,DEATHS,19787
-1996,Number,F,DEATHS,11200
-1997,Number,F,DEATHS,12691
-1998,Number,F,DEATHS,13376
-1999,Number,F,DEATHS,13476
-2000,Number,F,DEATHS,14424
-2001,Number,F,DEATHS,14123
-2002,Number,F,DEATHS,14508
-2003,Number,F,DEATHS,15167
-2004,Number,F,DEATHS,15836
-2005,Number,F,DEATHS,16384
-2006,Number,F,DEATHS,15913
-2007,Number,F,DEATHS,16890
-2008,Number,F,DEATHS,16339
-2009,Number,F,DEATHS,17020
-2010,Number,F,DEATHS,17218
-2011,Number,F,DEATHS,17063
-2012,Number,F,DEATHS,17381
-2013,Number,F,DEATHS,17445
-2014,Number,F,DEATHS,17620
-2015,Number,F,DEATHS,18931
-2016,Number,F,DEATHS,18029
-2017,Number,F,DEATHS,18793
-2018,Number,F,DEATHS,18737
-2019,Number,F,DEATHS,19042
-1996,Number,Both sexes,NATURAL_CHANGE,21442
-1997,Number,Both sexes,NATURAL_CHANGE,20522
-1998,Number,Both sexes,NATURAL_CHANGE,16328
-1999,Number,Both sexes,NATURAL_CHANGE,13827
-2000,Number,Both sexes,NATURAL_CHANGE,9081
-2001,Number,Both sexes,NATURAL_CHANGE,7392
-2002,Number,Both sexes,NATURAL_CHANGE,5432
-2003,Number,Both sexes,NATURAL_CHANGE,3477
-2004,Number,Both sexes,NATURAL_CHANGE,2535
-2005,Number,Both sexes,NATURAL_CHANGE,225
-2006,Number,Both sexes,NATURAL_CHANGE,812
-2007,Number,Both sexes,NATURAL_CHANGE,-1209
-2008,Number,Both sexes,NATURAL_CHANGE,150
-2009,Number,Both sexes,NATURAL_CHANGE,-354
-2010,Number,Both sexes,NATURAL_CHANGE,-1590
-2011,Number,Both sexes,NATURAL_CHANGE,-3217
-2012,Number,Both sexes,NATURAL_CHANGE,-3270
-2013,Number,Both sexes,NATURAL_CHANGE,-4978
-2014,Number,Both sexes,NATURAL_CHANGE,-5712
-2015,Number,Both sexes,NATURAL_CHANGE,-8380
-2016,Number,Both sexes,NATURAL_CHANGE,-6388
-2017,Number,Both sexes,NATURAL_CHANGE,-7779
-2018,Number,Both sexes,NATURAL_CHANGE,-8277
-2019,Number,Both sexes,NATURAL_CHANGE,-10469
+Year,UNIT_MEASURE,Sex,Vital statistics,Value
+1996,Number,Both sexes,Live births,46594
+1997,Number,Both sexes,Live births,48397
+1998,Number,Both sexes,Live births,45007
+1999,Number,Both sexes,Live births,42464
+2000,Number,Both sexes,Live births,39563
+2001,Number,Both sexes,Live births,37717
+2002,Number,Both sexes,Live births,35587
+2003,Number,Both sexes,Live births,35234
+2004,Number,Both sexes,Live births,35151
+2005,Number,Both sexes,Live births,34627
+2006,Number,Both sexes,Live births,34033
+2007,Number,Both sexes,Live births,33835
+2008,Number,Both sexes,Live births,34176
+2009,Number,Both sexes,Live births,34550
+2010,Number,Both sexes,Live births,33528
+2011,Number,Both sexes,Live births,31811
+2012,Number,Both sexes,Live births,32547
+2013,Number,Both sexes,Live births,30684
+2014,Number,Both sexes,Live births,30268
+2015,Number,Both sexes,Live births,29770
+2016,Number,Both sexes,Live births,30183
+2017,Number,Both sexes,Live births,30200
+2018,Number,Both sexes,Live births,29467
+2019,Number,Both sexes,Live births,28360
+1996,Number,M,Live births,24398
+1997,Number,M,Live births,25297
+1998,Number,M,Live births,23425
+1999,Number,M,Live births,21636
+2000,Number,M,Live births,20407
+2001,Number,M,Live births,19400
+2002,Number,M,Live births,18297
+2003,Number,M,Live births,18330
+2004,Number,M,Live births,18133
+2005,Number,M,Live births,17797
+2006,Number,M,Live births,17547
+2007,Number,M,Live births,17534
+2008,Number,M,Live births,17585
+2009,Number,M,Live births,18001
+2010,Number,M,Live births,17277
+2011,Number,M,Live births,16531
+2012,Number,M,Live births,16790
+2013,Number,M,Live births,15835
+2014,Number,M,Live births,15597
+2015,Number,M,Live births,15308
+2016,Number,M,Live births,15716
+2017,Number,M,Live births,15674
+2018,Number,M,Live births,15268
+2019,Number,M,Live births,14806
+1996,Number,F,Live births,22196
+1997,Number,F,Live births,23100
+1998,Number,F,Live births,21582
+1999,Number,F,Live births,20828
+2000,Number,F,Live births,19156
+2001,Number,F,Live births,18317
+2002,Number,F,Live births,17290
+2003,Number,F,Live births,16904
+2004,Number,F,Live births,17018
+2005,Number,F,Live births,16830
+2006,Number,F,Live births,16486
+2007,Number,F,Live births,16301
+2008,Number,F,Live births,16591
+2009,Number,F,Live births,16549
+2010,Number,F,Live births,16251
+2011,Number,F,Live births,15280
+2012,Number,F,Live births,15757
+2013,Number,F,Live births,14849
+2014,Number,F,Live births,14671
+2015,Number,F,Live births,14462
+2016,Number,F,Live births,14467
+2017,Number,F,Live births,14526
+2018,Number,F,Live births,14199
+2019,Number,F,Live births,13554
+1996,Number,Both sexes,Deaths,25152
+1997,Number,Both sexes,Deaths,27875
+1998,Number,Both sexes,Deaths,28679
+1999,Number,Both sexes,Deaths,28637
+2000,Number,Both sexes,Deaths,30482
+2001,Number,Both sexes,Deaths,30325
+2002,Number,Both sexes,Deaths,30155
+2003,Number,Both sexes,Deaths,31757
+2004,Number,Both sexes,Deaths,32616
+2005,Number,Both sexes,Deaths,34402
+2006,Number,Both sexes,Deaths,33221
+2007,Number,Both sexes,Deaths,35044
+2008,Number,Both sexes,Deaths,34026
+2009,Number,Both sexes,Deaths,34904
+2010,Number,Both sexes,Deaths,35118
+2011,Number,Both sexes,Deaths,35028
+2012,Number,Both sexes,Deaths,35817
+2013,Number,Both sexes,Deaths,35662
+2014,Number,Both sexes,Deaths,35980
+2015,Number,Both sexes,Deaths,38150
+2016,Number,Both sexes,Deaths,36571
+2017,Number,Both sexes,Deaths,37979
+2018,Number,Both sexes,Deaths,37744
+2019,Number,Both sexes,Deaths,38829
+1996,Number,M,Deaths,13952
+1997,Number,M,Deaths,15184
+1998,Number,M,Deaths,15303
+1999,Number,M,Deaths,15161
+2000,Number,M,Deaths,16058
+2001,Number,M,Deaths,16202
+2002,Number,M,Deaths,15647
+2003,Number,M,Deaths,16590
+2004,Number,M,Deaths,16780
+2005,Number,M,Deaths,18018
+2006,Number,M,Deaths,17308
+2007,Number,M,Deaths,18154
+2008,Number,M,Deaths,17687
+2009,Number,M,Deaths,17884
+2010,Number,M,Deaths,17900
+2011,Number,M,Deaths,17965
+2012,Number,M,Deaths,18436
+2013,Number,M,Deaths,18217
+2014,Number,M,Deaths,18360
+2015,Number,M,Deaths,19219
+2016,Number,M,Deaths,18542
+2017,Number,M,Deaths,19186
+2018,Number,M,Deaths,19007
+2019,Number,M,Deaths,19787
+1996,Number,F,Deaths,11200
+1997,Number,F,Deaths,12691
+1998,Number,F,Deaths,13376
+1999,Number,F,Deaths,13476
+2000,Number,F,Deaths,14424
+2001,Number,F,Deaths,14123
+2002,Number,F,Deaths,14508
+2003,Number,F,Deaths,15167
+2004,Number,F,Deaths,15836
+2005,Number,F,Deaths,16384
+2006,Number,F,Deaths,15913
+2007,Number,F,Deaths,16890
+2008,Number,F,Deaths,16339
+2009,Number,F,Deaths,17020
+2010,Number,F,Deaths,17218
+2011,Number,F,Deaths,17063
+2012,Number,F,Deaths,17381
+2013,Number,F,Deaths,17445
+2014,Number,F,Deaths,17620
+2015,Number,F,Deaths,18931
+2016,Number,F,Deaths,18029
+2017,Number,F,Deaths,18793
+2018,Number,F,Deaths,18737
+2019,Number,F,Deaths,19042
+1996,Number,Both sexes,Natural change,21442
+1997,Number,Both sexes,Natural change,20522
+1998,Number,Both sexes,Natural change,16328
+1999,Number,Both sexes,Natural change,13827
+2000,Number,Both sexes,Natural change,9081
+2001,Number,Both sexes,Natural change,7392
+2002,Number,Both sexes,Natural change,5432
+2003,Number,Both sexes,Natural change,3477
+2004,Number,Both sexes,Natural change,2535
+2005,Number,Both sexes,Natural change,225
+2006,Number,Both sexes,Natural change,812
+2007,Number,Both sexes,Natural change,-1209
+2008,Number,Both sexes,Natural change,150
+2009,Number,Both sexes,Natural change,-354
+2010,Number,Both sexes,Natural change,-1590
+2011,Number,Both sexes,Natural change,-3217
+2012,Number,Both sexes,Natural change,-3270
+2013,Number,Both sexes,Natural change,-4978
+2014,Number,Both sexes,Natural change,-5712
+2015,Number,Both sexes,Natural change,-8380
+2016,Number,Both sexes,Natural change,-6388
+2017,Number,Both sexes,Natural change,-7779
+2018,Number,Both sexes,Natural change,-8277
+2019,Number,Both sexes,Natural change,-10469

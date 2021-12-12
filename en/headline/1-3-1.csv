@@ -1,46 +1,46 @@
 Year,Value,UNIT_MEASURE
-1971,6.6,number_birth_rate
-1972,7.0,number_birth_rate
-1973,6.4,number_birth_rate
-1974,6.0,number_birth_rate
-1975,6.4,number_birth_rate
-1976,6.2,number_birth_rate
-1977,6.1,number_birth_rate
-1978,6.3,number_birth_rate
-1979,6.1,number_birth_rate
-1980,6.4,number_birth_rate
-1981,6.3,number_birth_rate
-1982,6.4,number_birth_rate
-1983,7.2,number_birth_rate
-1984,6.9,number_birth_rate
-1985,6.9,number_birth_rate
-1986,6.9,number_birth_rate
-1987,6.9,number_birth_rate
-1988,6.9,number_birth_rate
-1989,7.0,number_birth_rate
-1990,6.7,number_birth_rate
-1991,7.2,number_birth_rate
-1996,6.9,number_birth_rate
-1997,7.5,number_birth_rate
-1998,7.9,number_birth_rate
-1999,7.7,number_birth_rate
-2000,8.1,number_birth_rate
-2001,8.0,number_birth_rate
-2002,7.9,number_birth_rate
-2003,8.3,number_birth_rate
-2004,8.5,number_birth_rate
-2005,9.0,number_birth_rate
-2006,8.6,number_birth_rate
-2007,9.1,number_birth_rate
-2008,8.9,number_birth_rate
-2009,9.1,number_birth_rate
-2010,9.1,number_birth_rate
-2011,9.1,number_birth_rate
-2012,9.3,number_birth_rate
-2013,10.1,number_birth_rate
-2014,10.2,number_birth_rate
-2015,10.8,number_birth_rate
-2016,10.4,number_birth_rate
-2017,10.8,number_birth_rate
-2018,10.8,number_birth_rate
-2019,11.1,number_birth_rate
+1971,6.6,Number per 1000 population
+1972,7.0,Number per 1000 population
+1973,6.4,Number per 1000 population
+1974,6.0,Number per 1000 population
+1975,6.4,Number per 1000 population
+1976,6.2,Number per 1000 population
+1977,6.1,Number per 1000 population
+1978,6.3,Number per 1000 population
+1979,6.1,Number per 1000 population
+1980,6.4,Number per 1000 population
+1981,6.3,Number per 1000 population
+1982,6.4,Number per 1000 population
+1983,7.2,Number per 1000 population
+1984,6.9,Number per 1000 population
+1985,6.9,Number per 1000 population
+1986,6.9,Number per 1000 population
+1987,6.9,Number per 1000 population
+1988,6.9,Number per 1000 population
+1989,7.0,Number per 1000 population
+1990,6.7,Number per 1000 population
+1991,7.2,Number per 1000 population
+1996,6.9,Number per 1000 population
+1997,7.5,Number per 1000 population
+1998,7.9,Number per 1000 population
+1999,7.7,Number per 1000 population
+2000,8.1,Number per 1000 population
+2001,8.0,Number per 1000 population
+2002,7.9,Number per 1000 population
+2003,8.3,Number per 1000 population
+2004,8.5,Number per 1000 population
+2005,9.0,Number per 1000 population
+2006,8.6,Number per 1000 population
+2007,9.1,Number per 1000 population
+2008,8.9,Number per 1000 population
+2009,9.1,Number per 1000 population
+2010,9.1,Number per 1000 population
+2011,9.1,Number per 1000 population
+2012,9.3,Number per 1000 population
+2013,10.1,Number per 1000 population
+2014,10.2,Number per 1000 population
+2015,10.8,Number per 1000 population
+2016,10.4,Number per 1000 population
+2017,10.8,Number per 1000 population
+2018,10.8,Number per 1000 population
+2019,11.1,Number per 1000 population

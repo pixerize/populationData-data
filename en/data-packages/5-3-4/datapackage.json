@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -29,13 +29,13 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "art_schools",
-                "gymnasium",
-                "high_schools_for_children_with_special_needs",
-                "religion_schools",
-                "technical_schools",
-                "vocational_schools"
+                "Total",
+                "Art schools",
+                "Gymnasium",
+                "High schools for children with special needs",
+                "Religion schools",
+                "Technical schools",
+                "Vocational schools"
               ]
             },
             "title": "Type_of_school"
@@ -43,7 +43,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -73,7 +73,7 @@
                 "2019/2020"
               ]
             },
-            "title": "school_year_end"
+            "title": "End of the school year"
           }
         ]
       }

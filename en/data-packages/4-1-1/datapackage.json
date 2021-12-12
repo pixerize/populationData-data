@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -29,9 +29,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries",
-                "minor_beneficiaries"
+                "Total",
+                "Adult beneficiaries",
+                "Minor beneficiaries"
               ]
             },
             "title": "Type_of_user"
@@ -39,7 +39,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

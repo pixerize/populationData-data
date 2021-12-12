@@ -16,35 +16,35 @@
             "constraints": {
               "enum": [
                 "",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "diseases_of_the_blood",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_eye",
-                "diseases_of_the_genitourinary",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_nervous",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_skin",
-                "endocrine_metabolic_and_nutritional",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "infectious_and_parasitic",
-                "injuries_poisoning_and_consequences",
-                "mental_and_behavioural_disorders",
-                "neoplasms",
-                "pregnancy_childbirth_and_the",
-                "symptoms_signs_and_abnormal",
-                "unknown"
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(I00-I99) Diseases of the circulatory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(G00-G99) Diseases of the nervous system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(V01-Y98) External causes of mortality",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "(F00-F99) Mental and behavioural disorders",
+                "(C00-C97,D00-D48) Neoplasms",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "Unknown"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

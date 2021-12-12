@@ -1,76 +1,76 @@
 Year,Sex,UNIT_MEASURE,Value
-1971,Both sexes,NO_PER_1000_LIVE_BIRTHS,22.0
-1981,Both sexes,NO_PER_1000_LIVE_BIRTHS,17.2
-1991,Both sexes,NO_PER_1000_LIVE_BIRTHS,14.9
-1996,Both sexes,NO_PER_1000_LIVE_BIRTHS,14.0
-1997,Both sexes,NO_PER_1000_LIVE_BIRTHS,12.4
-1998,Both sexes,NO_PER_1000_LIVE_BIRTHS,11.0
-1999,Both sexes,NO_PER_1000_LIVE_BIRTHS,10.1
-2000,Both sexes,NO_PER_1000_LIVE_BIRTHS,9.7
-2001,Both sexes,NO_PER_1000_LIVE_BIRTHS,7.6
-2002,Both sexes,NO_PER_1000_LIVE_BIRTHS,9.4
-2003,Both sexes,NO_PER_1000_LIVE_BIRTHS,7.6
-2004,Both sexes,NO_PER_1000_LIVE_BIRTHS,7.2
-2005,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.7
-2006,Both sexes,NO_PER_1000_LIVE_BIRTHS,7.5
-2007,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.8
-2008,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.9
-2009,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.5
-2010,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.4
-2011,Both sexes,NO_PER_1000_LIVE_BIRTHS,5.8
-2012,Both sexes,NO_PER_1000_LIVE_BIRTHS,5.4
-2013,Both sexes,NO_PER_1000_LIVE_BIRTHS,5.9
-2014,Both sexes,NO_PER_1000_LIVE_BIRTHS,5.2
-2015,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.1
-2016,Both sexes,NO_PER_1000_LIVE_BIRTHS,5.9
-2017,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.5
-2018,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.2
-2019,Both sexes,NO_PER_1000_LIVE_BIRTHS,6.7
-1996,M,NO_PER_1000_LIVE_BIRTHS,14.8
-1997,M,NO_PER_1000_LIVE_BIRTHS,14.6
-1998,M,NO_PER_1000_LIVE_BIRTHS,12.9
-1999,M,NO_PER_1000_LIVE_BIRTHS,11.2
-2000,M,NO_PER_1000_LIVE_BIRTHS,10.8
-2001,M,NO_PER_1000_LIVE_BIRTHS,8.2
-2002,M,NO_PER_1000_LIVE_BIRTHS,10.4
-2003,M,NO_PER_1000_LIVE_BIRTHS,8.4
-2004,M,NO_PER_1000_LIVE_BIRTHS,8.3
-2005,M,NO_PER_1000_LIVE_BIRTHS,7.5
-2006,M,NO_PER_1000_LIVE_BIRTHS,9.0
-2007,M,NO_PER_1000_LIVE_BIRTHS,7.5
-2008,M,NO_PER_1000_LIVE_BIRTHS,7.4
-2009,M,NO_PER_1000_LIVE_BIRTHS,6.4
-2010,M,NO_PER_1000_LIVE_BIRTHS,7.2
-2011,M,NO_PER_1000_LIVE_BIRTHS,6.7
-2012,M,NO_PER_1000_LIVE_BIRTHS,6.6
-2013,M,NO_PER_1000_LIVE_BIRTHS,6.9
-2014,M,NO_PER_1000_LIVE_BIRTHS,4.7
-2015,M,NO_PER_1000_LIVE_BIRTHS,6.1
-2016,M,NO_PER_1000_LIVE_BIRTHS,7.1
-2017,M,NO_PER_1000_LIVE_BIRTHS,6.7
-2018,M,NO_PER_1000_LIVE_BIRTHS,6.0
-2019,M,NO_PER_1000_LIVE_BIRTHS,6.9
-1996,F,NO_PER_1000_LIVE_BIRTHS,13.2
-1997,F,NO_PER_1000_LIVE_BIRTHS,10.0
-1998,F,NO_PER_1000_LIVE_BIRTHS,8.9
-1999,F,NO_PER_1000_LIVE_BIRTHS,9.1
-2000,F,NO_PER_1000_LIVE_BIRTHS,8.5
-2001,F,NO_PER_1000_LIVE_BIRTHS,7.0
-2002,F,NO_PER_1000_LIVE_BIRTHS,8.3
-2003,F,NO_PER_1000_LIVE_BIRTHS,6.7
-2004,F,NO_PER_1000_LIVE_BIRTHS,6.0
-2005,F,NO_PER_1000_LIVE_BIRTHS,5.9
-2006,F,NO_PER_1000_LIVE_BIRTHS,5.9
-2007,F,NO_PER_1000_LIVE_BIRTHS,6.1
-2008,F,NO_PER_1000_LIVE_BIRTHS,6.3
-2009,F,NO_PER_1000_LIVE_BIRTHS,6.5
-2010,F,NO_PER_1000_LIVE_BIRTHS,5.6
-2011,F,NO_PER_1000_LIVE_BIRTHS,4.8
-2012,F,NO_PER_1000_LIVE_BIRTHS,4.2
-2013,F,NO_PER_1000_LIVE_BIRTHS,4.8
-2014,F,NO_PER_1000_LIVE_BIRTHS,5.6
-2015,F,NO_PER_1000_LIVE_BIRTHS,6.1
-2016,F,NO_PER_1000_LIVE_BIRTHS,4.6
-2017,F,NO_PER_1000_LIVE_BIRTHS,6.3
-2018,F,NO_PER_1000_LIVE_BIRTHS,6.5
-2019,F,NO_PER_1000_LIVE_BIRTHS,6.5
+1971,Both sexes,Number per 1000 live births,22.0
+1981,Both sexes,Number per 1000 live births,17.2
+1991,Both sexes,Number per 1000 live births,14.9
+1996,Both sexes,Number per 1000 live births,14.0
+1997,Both sexes,Number per 1000 live births,12.4
+1998,Both sexes,Number per 1000 live births,11.0
+1999,Both sexes,Number per 1000 live births,10.1
+2000,Both sexes,Number per 1000 live births,9.7
+2001,Both sexes,Number per 1000 live births,7.6
+2002,Both sexes,Number per 1000 live births,9.4
+2003,Both sexes,Number per 1000 live births,7.6
+2004,Both sexes,Number per 1000 live births,7.2
+2005,Both sexes,Number per 1000 live births,6.7
+2006,Both sexes,Number per 1000 live births,7.5
+2007,Both sexes,Number per 1000 live births,6.8
+2008,Both sexes,Number per 1000 live births,6.9
+2009,Both sexes,Number per 1000 live births,6.5
+2010,Both sexes,Number per 1000 live births,6.4
+2011,Both sexes,Number per 1000 live births,5.8
+2012,Both sexes,Number per 1000 live births,5.4
+2013,Both sexes,Number per 1000 live births,5.9
+2014,Both sexes,Number per 1000 live births,5.2
+2015,Both sexes,Number per 1000 live births,6.1
+2016,Both sexes,Number per 1000 live births,5.9
+2017,Both sexes,Number per 1000 live births,6.5
+2018,Both sexes,Number per 1000 live births,6.2
+2019,Both sexes,Number per 1000 live births,6.7
+1996,M,Number per 1000 live births,14.8
+1997,M,Number per 1000 live births,14.6
+1998,M,Number per 1000 live births,12.9
+1999,M,Number per 1000 live births,11.2
+2000,M,Number per 1000 live births,10.8
+2001,M,Number per 1000 live births,8.2
+2002,M,Number per 1000 live births,10.4
+2003,M,Number per 1000 live births,8.4
+2004,M,Number per 1000 live births,8.3
+2005,M,Number per 1000 live births,7.5
+2006,M,Number per 1000 live births,9.0
+2007,M,Number per 1000 live births,7.5
+2008,M,Number per 1000 live births,7.4
+2009,M,Number per 1000 live births,6.4
+2010,M,Number per 1000 live births,7.2
+2011,M,Number per 1000 live births,6.7
+2012,M,Number per 1000 live births,6.6
+2013,M,Number per 1000 live births,6.9
+2014,M,Number per 1000 live births,4.7
+2015,M,Number per 1000 live births,6.1
+2016,M,Number per 1000 live births,7.1
+2017,M,Number per 1000 live births,6.7
+2018,M,Number per 1000 live births,6.0
+2019,M,Number per 1000 live births,6.9
+1996,F,Number per 1000 live births,13.2
+1997,F,Number per 1000 live births,10.0
+1998,F,Number per 1000 live births,8.9
+1999,F,Number per 1000 live births,9.1
+2000,F,Number per 1000 live births,8.5
+2001,F,Number per 1000 live births,7.0
+2002,F,Number per 1000 live births,8.3
+2003,F,Number per 1000 live births,6.7
+2004,F,Number per 1000 live births,6.0
+2005,F,Number per 1000 live births,5.9
+2006,F,Number per 1000 live births,5.9
+2007,F,Number per 1000 live births,6.1
+2008,F,Number per 1000 live births,6.3
+2009,F,Number per 1000 live births,6.5
+2010,F,Number per 1000 live births,5.6
+2011,F,Number per 1000 live births,4.8
+2012,F,Number per 1000 live births,4.2
+2013,F,Number per 1000 live births,4.8
+2014,F,Number per 1000 live births,5.6
+2015,F,Number per 1000 live births,6.1
+2016,F,Number per 1000 live births,4.6
+2017,F,Number per 1000 live births,6.3
+2018,F,Number per 1000 live births,6.5
+2019,F,Number per 1000 live births,6.5

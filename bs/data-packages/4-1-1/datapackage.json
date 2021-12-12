@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "_T",
                 "M",
                 "Ž",
                 ""

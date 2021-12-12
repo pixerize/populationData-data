@@ -15,7 +15,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -44,7 +44,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -78,7 +78,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -86,7 +86,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -125,7 +125,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -161,12 +161,12 @@
                 "15 - 19"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -195,7 +195,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -248,7 +248,7 @@
                 "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "Municipality",
@@ -410,7 +410,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -418,7 +418,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -450,9 +450,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries",
-                "minor_beneficiaries"
+                "Total",
+                "Adult beneficiaries",
+                "Minor beneficiaries"
               ]
             },
             "title": "Type_of_user"
@@ -460,7 +460,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -501,7 +501,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -511,7 +511,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -519,7 +519,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -548,7 +548,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -582,7 +582,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -593,11 +593,11 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "homes_for_children_and_youth_without_parental_care",
-                "social_welfare_institutions_for_adults",
-                "social_welfare_institutions_for_adults_with_disabilities"
+                "Total",
+                "Social protection institutions for children, youth and adults with mental and physical disabilities",
+                "Homes for children and youth without parental care",
+                "Social welfare institutions for adults",
+                "Social welfare institutions for adults with disabilities"
               ]
             },
             "title": "Type_of_institution"
@@ -605,7 +605,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -638,7 +638,7 @@
               "enum": [
                 "",
                 "1",
-                "10_and_more",
+                "10 and more",
                 "2",
                 "3",
                 "4",
@@ -647,15 +647,15 @@
                 "7",
                 "8",
                 "9",
-                "did_not_give_birth"
+                "Did not give birth"
               ]
             },
-            "title": "LIVE_BORN_CHILDREN"
+            "title": "Live-born children"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -689,7 +689,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -697,7 +697,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -731,7 +731,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -739,7 +739,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -778,7 +778,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -807,7 +807,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -836,7 +836,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -865,7 +865,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -897,35 +897,35 @@
             "constraints": {
               "enum": [
                 "",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "diseases_of_the_blood",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_eye",
-                "diseases_of_the_genitourinary",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_nervous",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_skin",
-                "endocrine_metabolic_and_nutritional",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "infectious_and_parasitic",
-                "injuries_poisoning_and_consequences",
-                "mental_and_behavioural_disorders",
-                "neoplasms",
-                "pregnancy_childbirth_and_the",
-                "symptoms_signs_and_abnormal",
-                "unknown"
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(I00-I99) Diseases of the circulatory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(G00-G99) Diseases of the nervous system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(V01-Y98) External causes of mortality",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "(F00-F99) Mental and behavioural disorders",
+                "(C00-C97,D00-D48) Neoplasms",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "Unknown"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1081,7 +1081,7 @@
                 "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1091,7 +1091,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1099,7 +1099,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1128,7 +1128,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1157,7 +1157,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1186,7 +1186,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1220,7 +1220,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1231,18 +1231,18 @@
             "constraints": {
               "enum": [
                 "",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
-                "total_support_ratio",
-                "young_age_support_ratio"
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1274,7 +1274,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1282,7 +1282,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1367,7 +1367,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1401,7 +1401,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1409,7 +1409,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1448,7 +1448,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1480,31 +1480,31 @@
             "constraints": {
               "enum": [
                 "",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "diseases_of_the_blood",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_eye",
-                "diseases_of_the_genitourinary",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_nervous",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_skin",
-                "endocrine_metabolic_and_nutritional",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "infectious_and_parasitic",
-                "injuries_poisoning_and_consequences",
-                "mental_and_behavioural_disorders",
-                "neoplasms",
-                "pregnancy_childbirth_and_the",
-                "symptoms_signs_and_abnormal",
-                "total",
-                "unknown"
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(I00-I99) Diseases of the circulatory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(G00-G99) Diseases of the nervous system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(V01-Y98) External causes of mortality",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "(F00-F99) Mental and behavioural disorders",
+                "(C00-C97,D00-D48) Neoplasms",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "Total",
+                "Unknown"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "SEX",
@@ -1514,7 +1514,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1522,7 +1522,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1556,7 +1556,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1564,7 +1564,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1594,7 +1594,7 @@
                 "2019/2020"
               ]
             },
-            "title": "school_year_end"
+            "title": "End of the school year"
           }
         ]
       },
@@ -1616,17 +1616,17 @@
             "constraints": {
               "enum": [
                 "",
-                "all_methods",
-                "modern_methods",
-                "traditional_methods"
+                "All methods",
+                "Modern methods",
+                "Traditional methods"
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Method"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1665,7 +1665,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1694,7 +1694,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1723,7 +1723,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1764,7 +1764,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1803,7 +1803,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1832,7 +1832,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1871,7 +1871,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1911,7 +1911,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1921,7 +1921,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1929,7 +1929,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1958,7 +1958,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1987,7 +1987,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2044,7 +2044,7 @@
                 "85-89",
                 "90-94",
                 "95-99",
-                "unknown"
+                "Unknown"
               ]
             },
             "title": "PYRAMID_AGE"
@@ -2064,7 +2064,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2093,7 +2093,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2122,7 +2122,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2151,7 +2151,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2185,7 +2185,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2193,7 +2193,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2247,7 +2247,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2258,13 +2258,13 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "art_schools",
-                "gymnasium",
-                "high_schools_for_children_with_special_needs",
-                "religion_schools",
-                "technical_schools",
-                "vocational_schools"
+                "Total",
+                "Art schools",
+                "Gymnasium",
+                "High schools for children with special needs",
+                "Religion schools",
+                "Technical schools",
+                "Vocational schools"
               ]
             },
             "title": "Type_of_school"
@@ -2272,7 +2272,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2302,7 +2302,7 @@
                 "2019/2020"
               ]
             },
-            "title": "school_year_end"
+            "title": "End of the school year"
           }
         ]
       },
@@ -2324,22 +2324,22 @@
             "constraints": {
               "enum": [
                 "",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
-                "single_household"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2373,7 +2373,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2384,9 +2384,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries",
-                "minor_beneficiaries"
+                "Total",
+                "Adult beneficiaries",
+                "Minor beneficiaries"
               ]
             },
             "title": "Type_of_user"
@@ -2394,7 +2394,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2423,7 +2423,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2452,7 +2452,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2486,7 +2486,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2494,7 +2494,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2528,7 +2528,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2536,7 +2536,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2568,16 +2568,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Performing_agricultural_activity",
-                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market"
+                "Performing agricultural activity",
+                "Performing agricultural activity and selling agricultural products in the market"
               ]
             },
-            "title": "AGRICULTURAL_ACTIVITY"
+            "title": "Agricultural activity"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2606,7 +2606,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2644,12 +2644,12 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "private",
-                "public"
+                "Total",
+                "Private",
+                "Public"
               ]
             },
-            "title": "type_of_institution"
+            "title": "Type of institution"
           }
         ]
       },
@@ -2668,7 +2668,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2700,31 +2700,31 @@
             "constraints": {
               "enum": [
                 "",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "diseases_of_the_blood",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_eye",
-                "diseases_of_the_genitourinary",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_nervous",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_skin",
-                "endocrine_metabolic_and_nutritional",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "infectious_and_parasitic",
-                "injuries_poisoning_and_consequences",
-                "mental_and_behavioural_disorders",
-                "neoplasms",
-                "pregnancy_childbirth_and_the",
-                "symptoms_signs_and_abnormal",
-                "total",
-                "unknown"
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(I00-I99) Diseases of the circulatory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(G00-G99) Diseases of the nervous system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(V01-Y98) External causes of mortality",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "(F00-F99) Mental and behavioural disorders",
+                "(C00-C97,D00-D48) Neoplasms",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "Total",
+                "Unknown"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "SEX",
@@ -2734,7 +2734,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2742,7 +2742,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2771,7 +2771,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2811,7 +2811,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -2821,7 +2821,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2829,7 +2829,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2870,7 +2870,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2902,12 +2902,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live births",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vital statistics"
           },
           {
             "name": "SEX",
@@ -2917,7 +2917,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2925,7 +2925,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2964,7 +2964,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2993,7 +2993,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3022,7 +3022,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3056,7 +3056,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3064,7 +3064,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3094,7 +3094,7 @@
                 "2020/2021"
               ]
             },
-            "title": "school_year_beginning"
+            "title": "Begininng of the school year"
           }
         ]
       },
@@ -3118,7 +3118,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3126,7 +3126,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3178,12 +3178,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live births",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vital statistics"
           },
           {
             "name": "SEX",
@@ -3193,7 +3193,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3201,7 +3201,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3230,7 +3230,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3259,7 +3259,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3300,12 +3300,12 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3373,7 +3373,7 @@
                 "95-99"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -3383,7 +3383,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3391,7 +3391,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3420,7 +3420,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3449,7 +3449,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3492,12 +3492,12 @@
                 "50+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3537,18 +3537,18 @@
                 "Catholic",
                 "Christian",
                 "Croat",
-                "Greek_Catholic",
+                "Greek Catholic",
                 "Islam",
                 "Muslim",
                 "Orthodox",
                 "Others",
                 "Protestant",
-                "Roman_Catholic",
+                "Roman Catholic",
                 "Romani",
                 "Serbian",
-                "Undeclared",
+                "Undaclared",
                 "Unknown",
-                "jehovah_s_witnesses"
+                "Jehovah's Witnesses"
               ]
             },
             "title": "Religion"
@@ -3561,7 +3561,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3569,7 +3569,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3601,7 +3601,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3609,7 +3609,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3638,7 +3638,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3677,7 +3677,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3711,7 +3711,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3719,7 +3719,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3748,7 +3748,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3777,7 +3777,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3818,7 +3818,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -3828,7 +3828,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3836,7 +3836,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3865,7 +3865,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3894,7 +3894,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3928,7 +3928,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3939,18 +3939,18 @@
             "constraints": {
               "enum": [
                 "",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
-                "total_support_ratio",
-                "young_age_support_ratio"
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3984,7 +3984,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3992,7 +3992,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4024,7 +4024,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4032,7 +4032,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4071,7 +4071,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4100,7 +4100,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4129,7 +4129,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4197,7 +4197,7 @@
                 "Unknown"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -4207,7 +4207,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4215,7 +4215,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4254,7 +4254,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4293,7 +4293,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4345,7 +4345,7 @@
                 "Unknown"
               ]
             },
-            "title": "Mother_tongue"
+            "title": "Mother tongue"
           },
           {
             "name": "SEX",
@@ -4355,7 +4355,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4363,7 +4363,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4404,7 +4404,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4444,7 +4444,7 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -4454,7 +4454,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4462,7 +4462,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4491,7 +4491,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4526,7 +4526,7 @@
                 "Albanian",
                 "Bosniak",
                 "Bosnian",
-                "Bosnian_and_Herzegovinian",
+                "Bosnian and Herzegovinian",
                 "Croat ",
                 "Macedonian ",
                 "Montenegrin",
@@ -4538,12 +4538,12 @@
                 "Slovenian",
                 "Turk",
                 "Ukrainian",
-                "Undeclared",
+                "Undaclared",
                 "Unknown",
                 "Yugoslav"
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Ethnicity/national affiliation"
           },
           {
             "name": "SEX",
@@ -4553,7 +4553,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4561,7 +4561,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4607,7 +4607,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4615,7 +4615,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4644,7 +4644,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4678,7 +4678,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4686,7 +4686,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4716,7 +4716,7 @@
                 "2020/2021"
               ]
             },
-            "title": "school_year_beginning"
+            "title": "Begininng of the school year"
           }
         ]
       },
@@ -4735,7 +4735,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4764,7 +4764,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4793,7 +4793,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4827,7 +4827,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4835,7 +4835,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4874,7 +4874,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4908,7 +4908,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4916,7 +4916,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4946,7 +4946,7 @@
                 "2020/2021"
               ]
             },
-            "title": "school_year_beginning"
+            "title": "Begininng of the school year"
           }
         ]
       },
@@ -4975,7 +4975,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5007,16 +5007,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Advanced_schools_faculty_academy_university",
-                "High_school_and_first_grade_of_faculty",
-                "Incomplete_primary_education",
-                "No_education",
-                "Post-secondary_school_specialization",
-                "Primary_school",
-                "Secondary_school"
+                "Advanced schools/faculty/academy/university",
+                "High school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialization",
+                "Primary school",
+                "Secondary school"
               ]
             },
-            "title": "Highest_education_atainment"
+            "title": "Highest education atainment"
           },
           {
             "name": "SEX",
@@ -5026,7 +5026,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5034,7 +5034,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5191,7 +5191,7 @@
                 "Unknown"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -5201,7 +5201,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5209,7 +5209,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5248,7 +5248,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5282,7 +5282,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5290,7 +5290,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5320,7 +5320,7 @@
                 "2019/2020"
               ]
             },
-            "title": "school_year_end"
+            "title": "End of the school year"
           }
         ]
       },
@@ -5339,7 +5339,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5373,7 +5373,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5384,11 +5384,11 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "homes_for_children_and_youth_without_parental_care",
-                "social_welfare_institutions_for_adults",
-                "social_welfare_institutions_for_adults_with_disabilities"
+                "Total",
+                "Social protection institutions for children, youth and adults with mental and physical disabilities",
+                "Homes for children and youth without parental care",
+                "Social welfare institutions for adults",
+                "Social welfare institutions for adults with disabilities"
               ]
             },
             "title": "Type_of_institution"
@@ -5396,7 +5396,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5435,7 +5435,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5469,7 +5469,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5480,13 +5480,13 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "art_schools",
-                "gymnasium",
-                "high_schools_for_children_with_special_needs",
-                "religion_schools",
-                "technical_schools",
-                "vocational_schools"
+                "Total",
+                "Art schools",
+                "Gymnasium",
+                "High schools for children with special needs",
+                "Religion schools",
+                "Technical schools",
+                "Vocational schools"
               ]
             },
             "title": "Type_of_school"
@@ -5494,7 +5494,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5524,7 +5524,7 @@
                 "2020/2021"
               ]
             },
-            "title": "school_year_beginning"
+            "title": "Begininng of the school year"
           }
         ]
       },
@@ -5548,7 +5548,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5556,7 +5556,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5586,7 +5586,7 @@
                 "2020/2021"
               ]
             },
-            "title": "school_year_beginning"
+            "title": "Begininng of the school year"
           }
         ]
       },
@@ -5605,7 +5605,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5634,7 +5634,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5668,7 +5668,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5676,7 +5676,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

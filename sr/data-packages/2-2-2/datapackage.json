@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
                 "Ж",
                 ""

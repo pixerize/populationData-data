@@ -25,12 +25,12 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

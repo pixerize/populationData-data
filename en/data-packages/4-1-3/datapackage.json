@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -29,11 +29,11 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "homes_for_children_and_youth_without_parental_care",
-                "social_welfare_institutions_for_adults",
-                "social_welfare_institutions_for_adults_with_disabilities"
+                "Total",
+                "Social protection institutions for children, youth and adults with mental and physical disabilities",
+                "Homes for children and youth without parental care",
+                "Social welfare institutions for adults",
+                "Social welfare institutions for adults with disabilities"
               ]
             },
             "title": "Type_of_institution"
@@ -41,7 +41,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -19,7 +19,7 @@
                 "Albanian",
                 "Bosniak",
                 "Bosnian",
-                "Bosnian_and_Herzegovinian",
+                "Bosnian and Herzegovinian",
                 "Croat ",
                 "Macedonian ",
                 "Montenegrin",
@@ -31,12 +31,12 @@
                 "Slovenian",
                 "Turk",
                 "Ukrainian",
-                "Undeclared",
+                "Undaclared",
                 "Unknown",
                 "Yugoslav"
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Ethnicity/national affiliation"
           },
           {
             "name": "SEX",
@@ -46,7 +46,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -54,7 +54,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

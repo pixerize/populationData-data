@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,4,2
-adult_beneficiaries,adult_beneficiaries,adult_beneficiaries,adult_beneficiaries,adult_beneficiaries,4,2
-minor_beneficiaries,minor_beneficiaries,minor_beneficiaries,minor_beneficiaries,minor_beneficiaries,4,2
+_T,Total,_T,_T,_T,4,2
+adult_beneficiaries,Adult beneficiaries,adult_beneficiaries,adult_beneficiaries,adult_beneficiaries,4,2
+minor_beneficiaries,Minor beneficiaries,minor_beneficiaries,minor_beneficiaries,minor_beneficiaries,4,2

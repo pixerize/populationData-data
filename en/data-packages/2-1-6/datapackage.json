@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -29,18 +29,18 @@
             "constraints": {
               "enum": [
                 "",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
-                "total_support_ratio",
-                "young_age_support_ratio"
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

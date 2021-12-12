@@ -1,19 +1,19 @@
 Year,UNIT_MEASURE,Type_of_user,Value
-2015,Number,_T,417858
-2015,Number,minor_beneficiaries,80736
-2015,Number,adult_beneficiaries,337122
-2016,Number,_T,426629
-2016,Number,minor_beneficiaries,79126
-2016,Number,adult_beneficiaries,347503
-2017,Number,_T,423030
-2017,Number,minor_beneficiaries,74690
-2017,Number,adult_beneficiaries,348340
-2018,Number,_T,440250
-2018,Number,minor_beneficiaries,66576
-2018,Number,adult_beneficiaries,373674
-2019,Number,_T,404084
-2019,Number,minor_beneficiaries,55438
-2019,Number,adult_beneficiaries,348646
-2020,Number,_T,375866
-2020,Number,minor_beneficiaries,54792
-2020,Number,adult_beneficiaries,321074
+2015,Number,Total,417858
+2015,Number,Minor beneficiaries,80736
+2015,Number,Adult beneficiaries,337122
+2016,Number,Total,426629
+2016,Number,Minor beneficiaries,79126
+2016,Number,Adult beneficiaries,347503
+2017,Number,Total,423030
+2017,Number,Minor beneficiaries,74690
+2017,Number,Adult beneficiaries,348340
+2018,Number,Total,440250
+2018,Number,Minor beneficiaries,66576
+2018,Number,Adult beneficiaries,373674
+2019,Number,Total,404084
+2019,Number,Minor beneficiaries,55438
+2019,Number,Adult beneficiaries,348646
+2020,Number,Total,375866
+2020,Number,Minor beneficiaries,54792
+2020,Number,Adult beneficiaries,321074

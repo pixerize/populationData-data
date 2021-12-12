@@ -1,91 +1,91 @@
 Year,UNIT_MEASURE,Type_of_institution,Sex,Value
-2015,Number,_T,Both sexes,7871
-2015,Number,_T,M,3645
-2015,Number,_T,F,4226
-2015,Number,homes_for_children_and_youth_without_parental_care,Both sexes,997
-2015,Number,homes_for_children_and_youth_without_parental_care,M,527
-2015,Number,homes_for_children_and_youth_without_parental_care,F,470
-2015,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,1742
-2015,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1041
-2015,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,701
-2015,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,282
-2015,Number,social_welfare_institutions_for_adults_with_disabilities,M,201
-2015,Number,social_welfare_institutions_for_adults_with_disabilities,F,81
-2015,Number,social_welfare_institutions_for_adults,Both sexes,4850
-2015,Number,social_welfare_institutions_for_adults,M,1876
-2015,Number,social_welfare_institutions_for_adults,F,2974
-2016,Number,_T,Both sexes,9249
-2016,Number,_T,M,4455
-2016,Number,_T,F,4794
-2016,Number,homes_for_children_and_youth_without_parental_care,Both sexes,970
-2016,Number,homes_for_children_and_youth_without_parental_care,M,487
-2016,Number,homes_for_children_and_youth_without_parental_care,F,483
-2016,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,2742
-2016,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1668
-2016,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,1074
-2016,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,213
-2016,Number,social_welfare_institutions_for_adults_with_disabilities,M,141
-2016,Number,social_welfare_institutions_for_adults_with_disabilities,F,72
-2016,Number,social_welfare_institutions_for_adults,Both sexes,5324
-2016,Number,social_welfare_institutions_for_adults,M,2159
-2016,Number,social_welfare_institutions_for_adults,F,3165
-2017,Number,_T,Both sexes,9800
-2017,Number,_T,M,4489
-2017,Number,_T,F,5311
-2017,Number,homes_for_children_and_youth_without_parental_care,Both sexes,1070
-2017,Number,homes_for_children_and_youth_without_parental_care,M,538
-2017,Number,homes_for_children_and_youth_without_parental_care,F,532
-2017,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,2748
-2017,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1643
-2017,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,1105
-2017,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,204
-2017,Number,social_welfare_institutions_for_adults_with_disabilities,M,121
-2017,Number,social_welfare_institutions_for_adults_with_disabilities,F,83
-2017,Number,social_welfare_institutions_for_adults,Both sexes,5778
-2017,Number,social_welfare_institutions_for_adults,M,2187
-2017,Number,social_welfare_institutions_for_adults,F,3591
-2018,Number,_T,Both sexes,10232
-2018,Number,_T,M,4710
-2018,Number,_T,F,5522
-2018,Number,homes_for_children_and_youth_without_parental_care,Both sexes,965
-2018,Number,homes_for_children_and_youth_without_parental_care,M,476
-2018,Number,homes_for_children_and_youth_without_parental_care,F,489
-2018,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,2776
-2018,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1682
-2018,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,1094
-2018,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,207
-2018,Number,social_welfare_institutions_for_adults_with_disabilities,M,116
-2018,Number,social_welfare_institutions_for_adults_with_disabilities,F,91
-2018,Number,social_welfare_institutions_for_adults,Both sexes,6284
-2018,Number,social_welfare_institutions_for_adults,M,2436
-2018,Number,social_welfare_institutions_for_adults,F,3848
-2019,Number,_T,Both sexes,11443
-2019,Number,_T,M,4968
-2019,Number,_T,F,6475
-2019,Number,homes_for_children_and_youth_without_parental_care,Both sexes,1121
-2019,Number,homes_for_children_and_youth_without_parental_care,M,607
-2019,Number,homes_for_children_and_youth_without_parental_care,F,514
-2019,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,2586
-2019,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1538
-2019,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,1048
-2019,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,283
-2019,Number,social_welfare_institutions_for_adults_with_disabilities,M,168
-2019,Number,social_welfare_institutions_for_adults_with_disabilities,F,115
-2019,Number,social_welfare_institutions_for_adults,Both sexes,7453
-2019,Number,social_welfare_institutions_for_adults,M,2655
-2019,Number,social_welfare_institutions_for_adults,F,4798
-2020,Number,_T,Both sexes,10902
-2020,Number,_T,M,4687
-2020,Number,_T,F,6215
-2020,Number,homes_for_children_and_youth_without_parental_care,Both sexes,1103
-2020,Number,homes_for_children_and_youth_without_parental_care,M,590
-2020,Number,homes_for_children_and_youth_without_parental_care,F,513
-2020,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,Both sexes,2434
-2020,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,M,1448
-2020,Number,adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,F,986
-2020,Number,social_welfare_institutions_for_adults_with_disabilities,Both sexes,282
-2020,Number,social_welfare_institutions_for_adults_with_disabilities,M,182
-2020,Number,social_welfare_institutions_for_adults_with_disabilities,F,100
-2020,Number,social_welfare_institutions_for_adults,Both sexes,7083
-2020,Number,social_welfare_institutions_for_adults,M,2467
-2020,Number,social_welfare_institutions_for_adults,F,4616
+2015,Number,Total,Both sexes,7871
+2015,Number,Total,M,3645
+2015,Number,Total,F,4226
+2015,Number,Homes for children and youth without parental care,Both sexes,997
+2015,Number,Homes for children and youth without parental care,M,527
+2015,Number,Homes for children and youth without parental care,F,470
+2015,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,1742
+2015,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1041
+2015,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,701
+2015,Number,Social welfare institutions for adults with disabilities,Both sexes,282
+2015,Number,Social welfare institutions for adults with disabilities,M,201
+2015,Number,Social welfare institutions for adults with disabilities,F,81
+2015,Number,Social welfare institutions for adults,Both sexes,4850
+2015,Number,Social welfare institutions for adults,M,1876
+2015,Number,Social welfare institutions for adults,F,2974
+2016,Number,Total,Both sexes,9249
+2016,Number,Total,M,4455
+2016,Number,Total,F,4794
+2016,Number,Homes for children and youth without parental care,Both sexes,970
+2016,Number,Homes for children and youth without parental care,M,487
+2016,Number,Homes for children and youth without parental care,F,483
+2016,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,2742
+2016,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1668
+2016,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,1074
+2016,Number,Social welfare institutions for adults with disabilities,Both sexes,213
+2016,Number,Social welfare institutions for adults with disabilities,M,141
+2016,Number,Social welfare institutions for adults with disabilities,F,72
+2016,Number,Social welfare institutions for adults,Both sexes,5324
+2016,Number,Social welfare institutions for adults,M,2159
+2016,Number,Social welfare institutions for adults,F,3165
+2017,Number,Total,Both sexes,9800
+2017,Number,Total,M,4489
+2017,Number,Total,F,5311
+2017,Number,Homes for children and youth without parental care,Both sexes,1070
+2017,Number,Homes for children and youth without parental care,M,538
+2017,Number,Homes for children and youth without parental care,F,532
+2017,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,2748
+2017,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1643
+2017,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,1105
+2017,Number,Social welfare institutions for adults with disabilities,Both sexes,204
+2017,Number,Social welfare institutions for adults with disabilities,M,121
+2017,Number,Social welfare institutions for adults with disabilities,F,83
+2017,Number,Social welfare institutions for adults,Both sexes,5778
+2017,Number,Social welfare institutions for adults,M,2187
+2017,Number,Social welfare institutions for adults,F,3591
+2018,Number,Total,Both sexes,10232
+2018,Number,Total,M,4710
+2018,Number,Total,F,5522
+2018,Number,Homes for children and youth without parental care,Both sexes,965
+2018,Number,Homes for children and youth without parental care,M,476
+2018,Number,Homes for children and youth without parental care,F,489
+2018,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,2776
+2018,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1682
+2018,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,1094
+2018,Number,Social welfare institutions for adults with disabilities,Both sexes,207
+2018,Number,Social welfare institutions for adults with disabilities,M,116
+2018,Number,Social welfare institutions for adults with disabilities,F,91
+2018,Number,Social welfare institutions for adults,Both sexes,6284
+2018,Number,Social welfare institutions for adults,M,2436
+2018,Number,Social welfare institutions for adults,F,3848
+2019,Number,Total,Both sexes,11443
+2019,Number,Total,M,4968
+2019,Number,Total,F,6475
+2019,Number,Homes for children and youth without parental care,Both sexes,1121
+2019,Number,Homes for children and youth without parental care,M,607
+2019,Number,Homes for children and youth without parental care,F,514
+2019,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,2586
+2019,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1538
+2019,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,1048
+2019,Number,Social welfare institutions for adults with disabilities,Both sexes,283
+2019,Number,Social welfare institutions for adults with disabilities,M,168
+2019,Number,Social welfare institutions for adults with disabilities,F,115
+2019,Number,Social welfare institutions for adults,Both sexes,7453
+2019,Number,Social welfare institutions for adults,M,2655
+2019,Number,Social welfare institutions for adults,F,4798
+2020,Number,Total,Both sexes,10902
+2020,Number,Total,M,4687
+2020,Number,Total,F,6215
+2020,Number,Homes for children and youth without parental care,Both sexes,1103
+2020,Number,Homes for children and youth without parental care,M,590
+2020,Number,Homes for children and youth without parental care,F,513
+2020,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",Both sexes,2434
+2020,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",M,1448
+2020,Number,"Social protection institutions for children, youth and adults with mental and physical disabilities",F,986
+2020,Number,Social welfare institutions for adults with disabilities,Both sexes,282
+2020,Number,Social welfare institutions for adults with disabilities,M,182
+2020,Number,Social welfare institutions for adults with disabilities,F,100
+2020,Number,Social welfare institutions for adults,Both sexes,7083
+2020,Number,Social welfare institutions for adults,M,2467
+2020,Number,Social welfare institutions for adults,F,4616
