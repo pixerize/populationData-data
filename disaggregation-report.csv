@@ -14,7 +14,7 @@ NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,В�
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,36
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religion,Religion,Religion,1,20
-school_year,school_year,school_year,school_year,school_year,4,10
+school_year,School year,school_year,school_year,school_year,4,10
 school_year_beginning,Begininng of the school year,school_year_beginning,school_year_beginning,school_year_beginning,5,10
 school_year_end,End of the school year,school_year_end,school_year_end,school_year_end,3,10
 SEX,Sex,Spol,Пол,Spol,50,3
