@@ -2144,7 +2144,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2156,6 +2156,26 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            },
+            "title": "school_year"
           },
           {
             "name": "SEX",
@@ -2172,7 +2192,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -2501,17 +2521,17 @@
             "title": "school_year"
           },
           {
-            "name": "number_of_preschool_institutions_by_property\n",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "public ",
                 "private",
                 ""
               ]
             },
-            "title": "number_of_preschool_institutions_by_property\n"
+            "title": "Spol"
           },
           {
             "name": "Value",
@@ -2982,7 +3002,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2994,6 +3014,26 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            },
+            "title": "school_year"
           },
           {
             "name": "SEX",

@@ -1,15 +1,14 @@
-Year,UNIT_MEASURE,school_year,"number_of_preschool_institutions_by_property
-",Value
-2013,Number,2011/2012,Total,227
-2013,Number,2012/2013,Total,246
-2013,Number,2013/2014,Total,261
-2013,Number,2014/2015,Total,292
-2013,Number,2015/2016,Total,320
-2013,Number,2016/2017,Total,335
-2013,Number,2017/2018,Total,335
-2013,Number,2018/2019,Total,362
-2013,Number,2019/2020,Total,390
-2013,Number,2020/2021,Total,399
+Year,UNIT_MEASURE,school_year,Sex,Value
+2013,Number,2011/2012,Both sexes,227
+2013,Number,2012/2013,Both sexes,246
+2013,Number,2013/2014,Both sexes,261
+2013,Number,2014/2015,Both sexes,292
+2013,Number,2015/2016,Both sexes,320
+2013,Number,2016/2017,Both sexes,335
+2013,Number,2017/2018,Both sexes,335
+2013,Number,2018/2019,Both sexes,362
+2013,Number,2019/2020,Both sexes,390
+2013,Number,2020/2021,Both sexes,399
 2013,Number,2011/2012,public ,176
 2013,Number,2012/2013,public ,180
 2013,Number,2013/2014,public ,180

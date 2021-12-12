@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes",
+                "private",
+                "public "
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -24,19 +37,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "number_of_preschool_institutions_by_property\n",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "private",
-                "public ",
-                "Total"
-              ]
-            },
-            "title": "number_of_preschool_institutions_by_property\n"
           },
           {
             "name": "school_year",

@@ -1985,6 +1985,25 @@
             "type": "string"
           },
           {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1998,7 +2017,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -2296,11 +2315,11 @@
             }
           },
           {
-            "name": "number_of_preschool_institutions_by_property\n",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "_T",
                 "public ",
                 "private",
                 ""
@@ -2744,6 +2763,25 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",

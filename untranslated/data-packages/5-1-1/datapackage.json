@@ -38,11 +38,11 @@
             }
           },
           {
-            "name": "number_of_preschool_institutions_by_property\n",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "_T",
                 "public ",
                 "private",
                 ""

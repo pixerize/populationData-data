@@ -41,17 +41,17 @@
             "title": "school_year"
           },
           {
-            "name": "number_of_preschool_institutions_by_property\n",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "public ",
                 "private",
                 ""
               ]
             },
-            "title": "number_of_preschool_institutions_by_property\n"
+            "title": "Пол"
           },
           {
             "name": "Value",
