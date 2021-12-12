@@ -1,10 +1,10 @@
 Year,UNIT_MEASURE,school_year,Sex,Value
-2013,Number,2011/2012,Both sexes,"1,238"
-2013,Number,2012/2013,Both sexes,"1,301"
-2013,Number,2013/2014,Both sexes,"1,388"
-2013,Number,2014/2015,Both sexes,"1,515"
-2013,Number,2015/2016,Both sexes,"1,667"
-2013,Number,2016/2017,Both sexes,"1,793"
+2013,Number,2011/2012,Both sexes,1238
+2013,Number,2012/2013,Both sexes,1301
+2013,Number,2013/2014,Both sexes,1388
+2013,Number,2014/2015,Both sexes,1515
+2013,Number,2015/2016,Both sexes,1667
+2013,Number,2016/2017,Both sexes,1793
 2013,Number,2017/2018,Both sexes,1898
 2013,Number,2018/2019,Both sexes,2131
 2013,Number,2019/2020,Both sexes,2384
