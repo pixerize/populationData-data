@@ -11,7 +11,7 @@ MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Mother_tongue,Mother tongue,Mother_tongue,Mother_tongue,Mother_tongue,1,18
 Municipality,Municipality,Općina,Oпштина,Općina,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
-PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
+PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,36
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religion,Religion,Religion,1,20
 school_year,school_year,school_year,school_year,school_year,4,10
@@ -22,4 +22,4 @@ TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип �
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,7
 Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,3
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,100,26
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,100,28
