@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "AGE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "13 - 14",
-                "15 - 19",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,7 +22,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

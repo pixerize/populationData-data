@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "AGE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "13 - 14",
-                "15 - 19",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,7 +22,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
