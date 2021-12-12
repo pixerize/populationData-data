@@ -300,3 +300,22 @@ Secondary_school: Secondary school
 Post-secondary_school_specialization: Post-secondary school specialization
 High_school_and_first_grade_of_faculty: High school and first grade of faculty
 Advanced_schools_faculty_academy_university: Advanced schools/faculty/academy/university
+private: Private
+public: Public
+gymnasium: Gymnasium
+technical_schools: Technical schools
+art_schools: Art schools
+religion_schools: Religion schools
+vocational_schools: Vocational schools
+high_schools_for_children_with_special_needs: High schools for children with special needs
+school_year_end: End of the school year
+school_year_beginning: Begininng of the school year 
+minor_beneficiaries: Minor beneficiaries
+adult_beneficiaries: Adult beneficiaries
+homes_for_children_and_youth_without_parental_care: Homes for children and youth without parental care
+adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities: Social protection institutions for children, youth and adults with mental and physical disabilities:
+social_welfare_institutions_for_adults_with_disabilities: Social welfare institutions for adults with disabilities
+social_welfare_institutions_for_adults: Social welfare institutions for adults
+type_of_institution: Type of institution
+_T: Total
+total: Total
