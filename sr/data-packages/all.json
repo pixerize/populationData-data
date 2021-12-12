@@ -533,7 +533,7 @@
           }
         ]
       },
-      "title": "Становништво са потешкоћама према граду/општини, врсти потешкоће и полу"
+      "title": "Становништво са потешкоћама према полу"
     },
     {
       "path": "1-8-3/data.csv",
@@ -547,7 +547,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -557,7 +557,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -1986,7 +1986,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -1996,7 +1996,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
@@ -3855,7 +3855,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
@@ -3865,7 +3865,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

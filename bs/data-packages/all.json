@@ -533,7 +533,7 @@
           }
         ]
       },
-      "title": "Stanovništvo sa poteškoćama prema gradu/općini, vrsti poteškoće i spolu"
+      "title": "Stanovništvo sa poteškoćama prema spolu"
     },
     {
       "path": "1-8-3/data.csv",
@@ -547,7 +547,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -557,7 +557,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -1986,7 +1986,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -1996,7 +1996,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -3855,7 +3855,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
           },
           {
@@ -3865,7 +3865,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
