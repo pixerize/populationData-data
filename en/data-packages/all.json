@@ -2604,19 +2604,6 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes",
-                "private",
-                "public"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -2650,6 +2637,19 @@
               ]
             },
             "title": "school_year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_T",
+                "private",
+                "public"
+              ]
+            },
+            "title": "type_of_institution"
           }
         ]
       },

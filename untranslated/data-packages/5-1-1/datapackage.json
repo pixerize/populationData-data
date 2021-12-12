@@ -38,7 +38,7 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [

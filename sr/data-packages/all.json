@@ -2634,17 +2634,17 @@
             "title": "school_year"
           },
           {
-            "name": "SEX",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "public",
                 "private",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",

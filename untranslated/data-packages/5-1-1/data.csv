@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,school_year,SEX,Value
+Year,UNIT_MEASURE,school_year,type_of_institution,Value
 2013,NUMBER,2011/2012,_T,227
 2013,NUMBER,2012/2013,_T,246
 2013,NUMBER,2013/2014,_T,261
