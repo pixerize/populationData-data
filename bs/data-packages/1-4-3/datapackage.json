@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "Ž",
+                "_T",
                 ""
               ]
             },

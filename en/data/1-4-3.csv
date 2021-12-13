@@ -1,26 +1,4 @@
 Year,Sex,UNIT_MEASURE,Value
-1998,Both sexes,Age,66.1
-1999,Both sexes,Age,66.6
-2000,Both sexes,Age,66.8
-2001,Both sexes,Age,67.2
-2002,Both sexes,Age,67.8
-2003,Both sexes,Age,68.4
-2004,Both sexes,Age,68.9
-2005,Both sexes,Age,69.3
-2006,Both sexes,Age,69.4
-2007,Both sexes,Age,69.6
-2008,Both sexes,Age,70.2
-2009,Both sexes,Age,70.8
-2010,Both sexes,Age,71.6
-2011,Both sexes,Age,72.1
-2012,Both sexes,Age,72.5
-2013,Both sexes,Age,72.7
-2014,Both sexes,Age,73.0
-2015,Both sexes,Age,73.4
-2016,Both sexes,Age,73.4
-2017,Both sexes,Age,73.9
-2018,Both sexes,Age,74.1
-2019,Both sexes,Age,74.1
 1961,M,Age,31.6
 1971,M,Age,48.0
 1998,M,Age,63.3
@@ -69,3 +47,25 @@ Year,Sex,UNIT_MEASURE,Value
 2017,F,Age,76.5
 2018,F,Age,76.8
 2019,F,Age,76.9
+1998,Both sexes,Age,66.1
+1999,Both sexes,Age,66.6
+2000,Both sexes,Age,66.8
+2001,Both sexes,Age,67.2
+2002,Both sexes,Age,67.8
+2003,Both sexes,Age,68.4
+2004,Both sexes,Age,68.9
+2005,Both sexes,Age,69.3
+2006,Both sexes,Age,69.4
+2007,Both sexes,Age,69.6
+2008,Both sexes,Age,70.2
+2009,Both sexes,Age,70.8
+2010,Both sexes,Age,71.6
+2011,Both sexes,Age,72.1
+2012,Both sexes,Age,72.5
+2013,Both sexes,Age,72.7
+2014,Both sexes,Age,73.0
+2015,Both sexes,Age,73.4
+2016,Both sexes,Age,73.4
+2017,Both sexes,Age,73.9
+2018,Both sexes,Age,74.1
+2019,Both sexes,Age,74.1

@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
+                "_T",
                 ""
               ]
             }
