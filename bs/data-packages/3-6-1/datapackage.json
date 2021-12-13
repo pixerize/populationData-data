@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Savremene metode",
                 "Sve metode",
                 "Tradicionalne metode",
+                "Savremene metode",
                 ""
               ]
             },

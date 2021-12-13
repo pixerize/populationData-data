@@ -23,9 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
                 "all_methods",
                 "traditional_methods",
+                "modern_methods",
                 ""
               ]
             }

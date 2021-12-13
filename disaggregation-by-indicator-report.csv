@@ -86,9 +86,9 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-2,"UNIT_MEASURE, SEX, school_year_end",3
 #5-2-3,"UNIT_MEASURE, SEX, school_year_beginning",3
 #5-3-1,"UNIT_MEASURE, SEX, school_year_beginning",3
-#5-3-2,"UNIT_MEASURE, SEX, Type_of_school, school_year_beginning",4
+#5-3-2,"UNIT_MEASURE, SEX, school_year_beginning, Type_of_school",4
 #5-3-3,"UNIT_MEASURE, SEX, school_year_end",3
-#5-3-4,"UNIT_MEASURE, SEX, school_year_end, Type_of_school",4
+#5-3-4,"UNIT_MEASURE, SEX, Type_of_school, school_year_end",4
 #5-3-5,"UNIT_MEASURE, SEX, school_year_beginning",3
 #6-1-1,UNIT_MEASURE,1
 #6-1-2,UNIT_MEASURE,1
