@@ -833,7 +833,7 @@
           }
         ]
       },
-      "title": "Broj specijalista porodične medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite na 100-000 stanovnika"
+      "title": "Broj doktora opšte medicine uposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
     },
     {
       "path": "3-6-4/data.csv",
@@ -2207,7 +2207,7 @@
           }
         ]
       },
-      "title": "Broj specijalista porodične medicine uposlenih u ustanovama za pružanje zdravstvene zaštite"
+      "title": "Broj doktora opšte medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite"
     },
     {
       "path": "3-1-5/data.csv",
@@ -3691,7 +3691,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-9-title"
+      "title": "Broj doktora specijalista medicine uposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
     },
     {
       "path": "5-3-1/data.csv",
@@ -3811,7 +3811,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-8-title"
+      "title": "Broj doktora specijalista zaposlenih u ustanovama za pružanje zdravstvene zaštite"
     },
     {
       "path": "6-1-3/data.csv",
