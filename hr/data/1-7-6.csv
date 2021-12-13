@@ -1,34 +1,12 @@
-Year,Spol,UNIT_MEASURE,Value
-2020,Oba spola,Broj na 1.000 stanovnika,10.9
-2025,Oba spola,Broj na 1.000 stanovnika,11.9
-2030,Oba spola,Broj na 1.000 stanovnika,13.0
-2035,Oba spola,Broj na 1.000 stanovnika,14.4
-2040,Oba spola,Broj na 1.000 stanovnika,15.9
-2045,Oba spola,Broj na 1.000 stanovnika,17.4
-2050,Oba spola,Broj na 1.000 stanovnika,18.6
-2055,Oba spola,Broj na 1.000 stanovnika,19.7
-2060,Oba spola,Broj na 1.000 stanovnika,20.5
-2065,Oba spola,Broj na 1.000 stanovnika,21.3
-2070,Oba spola,Broj na 1.000 stanovnika,22.0
-2020,M,Broj na 1.000 stanovnika,11.4
-2025,M,Broj na 1.000 stanovnika,12.5
-2030,M,Broj na 1.000 stanovnika,13.8
-2035,M,Broj na 1.000 stanovnika,15.3
-2040,M,Broj na 1.000 stanovnika,16.9
-2045,M,Broj na 1.000 stanovnika,18.5
-2050,M,Broj na 1.000 stanovnika,19.8
-2055,M,Broj na 1.000 stanovnika,20.9
-2060,M,Broj na 1.000 stanovnika,21.9
-2065,M,Broj na 1.000 stanovnika,22.6
-2070,M,Broj na 1.000 stanovnika,23.1
-2020,Ž,Broj na 1.000 stanovnika,10.52
-2025,Ž,Broj na 1.000 stanovnika,11.42
-2030,Ž,Broj na 1.000 stanovnika,12.48
-2035,Ž,Broj na 1.000 stanovnika,13.75
-2040,Ž,Broj na 1.000 stanovnika,15.19
-2045,Ž,Broj na 1.000 stanovnika,16.66
-2050,Ž,Broj na 1.000 stanovnika,17.9
-2055,Ž,Broj na 1.000 stanovnika,18.93
-2060,Ž,Broj na 1.000 stanovnika,19.79
-2065,Ž,Broj na 1.000 stanovnika,20.64
-2070,Ž,Broj na 1.000 stanovnika,21.5
+Year,UNIT_MEASURE,Value
+2020,Broj na 1.000 stanovnika,10.9
+2025,Broj na 1.000 stanovnika,11.9
+2030,Broj na 1.000 stanovnika,13.0
+2035,Broj na 1.000 stanovnika,14.4
+2040,Broj na 1.000 stanovnika,15.9
+2045,Broj na 1.000 stanovnika,17.4
+2050,Broj na 1.000 stanovnika,18.6
+2055,Broj na 1.000 stanovnika,19.7
+2060,Broj na 1.000 stanovnika,20.5
+2065,Broj na 1.000 stanovnika,21.3
+2070,Broj na 1.000 stanovnika,22.0
