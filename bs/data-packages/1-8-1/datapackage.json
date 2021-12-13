@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -21,8 +21,20 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Value",
+            "name": "AGE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "1",
+                "2",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
