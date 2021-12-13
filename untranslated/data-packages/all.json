@@ -1057,9 +1057,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
-                "_T",
                 ""
               ]
             }
@@ -1320,18 +1320,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
           },
           {
             "name": "UNIT_MEASURE",

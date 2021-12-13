@@ -1152,9 +1152,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "Ž",
-                "_T",
                 ""
               ]
             },
@@ -1442,19 +1442,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Godina"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "UNIT_MEASURE",

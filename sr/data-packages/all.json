@@ -1152,9 +1152,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "Ж",
-                "_T",
                 ""
               ]
             },
@@ -1442,19 +1442,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Година"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
           },
           {
             "name": "UNIT_MEASURE",
