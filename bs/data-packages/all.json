@@ -1387,7 +1387,7 @@
           }
         ]
       },
-      "title": "Omjer zaposlenosti i broja stanovnika (postotak zaposlenog stanovništva u radno sposobnom stanovništvu (15-64) prema dobnoj skupini i spolu)"
+      "title": "Omjer zaposlenosti i broja stanovnika - postotak zaposlenog stanovništva u radno sposobnom stanovništvu prema dobnoj skupini i spolu"
     },
     {
       "path": "5-6-2/data.csv",
@@ -2136,7 +2136,7 @@
           }
         ]
       },
-      "title": "Stopa nezaposlenosti (postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi) prema dobnoj skupini i spolu)"
+      "title": "Stopa nezaposlenosti - postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi) prema dobnoj skupini i spolu"
     },
     {
       "path": "3-6-1/data.csv",
@@ -2695,7 +2695,7 @@
           }
         ]
       },
-      "title": "Stopa učešća radne snage (postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu (15-64) dobnoj skupini i spolu)"
+      "title": "Stopa učešća radne snage - postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu prema dobnoj skupini i spolu"
     },
     {
       "path": "4-1-2/data.csv",
