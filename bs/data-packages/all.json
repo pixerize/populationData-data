@@ -28,8 +28,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -78,8 +78,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -170,8 +170,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -285,8 +285,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -373,8 +373,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -465,8 +465,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -587,8 +587,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1153,8 +1153,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1257,8 +1257,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1357,8 +1357,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1541,8 +1541,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -1830,8 +1830,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2064,8 +2064,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2106,8 +2106,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2270,8 +2270,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2426,8 +2426,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2481,8 +2481,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2518,8 +2518,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2588,8 +2588,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2665,8 +2665,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2738,8 +2738,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2775,8 +2775,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -2908,8 +2908,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3020,8 +3020,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3193,8 +3193,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "F",
                 ""
               ]
             },
@@ -3264,8 +3264,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3389,8 +3389,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3519,8 +3519,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3639,8 +3639,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3730,8 +3730,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3854,8 +3854,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3989,8 +3989,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4060,8 +4060,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4242,8 +4242,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "F",
                 ""
               ]
             },
@@ -4507,8 +4507,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4776,8 +4776,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4813,8 +4813,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4897,8 +4897,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4956,8 +4956,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -4998,8 +4998,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -5111,8 +5111,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 "_T",
                 ""
               ]
@@ -5216,8 +5216,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 "_T",
                 ""
               ]
@@ -5317,8 +5317,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -5425,8 +5425,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -5462,8 +5462,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -5541,8 +5541,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -5578,8 +5578,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "Musko",
-                "Zensko",
+                "M",
+                "Ž",
                 ""
               ]
             },
