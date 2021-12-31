@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "Ž",
+                "Musko",
+                "Zensko",
                 ""
               ]
             },
