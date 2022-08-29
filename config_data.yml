@@ -12,6 +12,7 @@ languages:
   - bs
   - sr
   - hr
+  - test
 
 # Destination directory
 # ---------------------
