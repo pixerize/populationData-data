@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "school_year_end",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010/2011",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                ""
+              ]
+            },
+            "title": "school_year_end"
+          },
+          {
+            "name": "Type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "gymnasium",
+                "technical_schools",
+                "art_schools",
+                "religion_schools",
+                "vocational_schools",
+                "high_schools_for_children_with_special_needs",
+                ""
+              ]
+            },
+            "title": "Type_of_school"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-4",
+  "title": "Број ученика који су завршили средњу школу према врсти школе"
+}

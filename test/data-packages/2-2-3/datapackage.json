@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Mother_tongue",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnian ",
+                "Serbian",
+                "Croatian",
+                "Serbo_Croatian",
+                "Romani",
+                "Albanian",
+                "Bosnian_Croatian_Serbian",
+                "Turkish",
+                "Croato_Serbian",
+                "Bosniak",
+                "Ukranian",
+                "Bosnian_Serbian_Croatian",
+                "Bosnian_Croatian",
+                "Bosnian_Herzegovinian",
+                "German",
+                "Other",
+                "Unknown",
+                "Serbo_Croatian ",
+                ""
+              ]
+            },
+            "title": "Mother_tongue"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-3",
+  "title": "Становништво према граду/општини, матерњем језику и полу"
+}

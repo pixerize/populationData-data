@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Religion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Islam",
+                "Orthodox",
+                "Catholic",
+                "Muslim",
+                "Roman_Catholic",
+                "Serbian",
+                "jehovah_s_witnesses",
+                "Greek_Catholic",
+                "Protestant",
+                "Romani",
+                "Christian",
+                "Bosniak",
+                "Croat",
+                "Adventist",
+                "Bosnian",
+                "Agnostic",
+                "Atheist",
+                "Others",
+                "Undeclared",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Religion"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2",
+  "title": "Становништво према граду/општини, вјероисповијести и полу"
+}

@@ -1,0 +1,211 @@
+Year,UNIT_MEASURE,school_year_beginning,Type_of_school,Пол,Value
+2013,Број,2011/2012,_T,Оба пола,163284
+2013,Број,2012/2013,_T,Оба пола,166662
+2013,Број,2013/2014,_T,Оба пола,156350
+2013,Број,2014/2015,_T,Оба пола,143881
+2013,Број,2015/2016,_T,Оба пола,133228
+2013,Број,2016/2017,_T,Оба пола,126824
+2013,Број,2017/2018,_T,Оба пола,124148
+2013,Број,2018/2019,_T,Оба пола,117475
+2013,Број,2019/2020,_T,Оба пола,112796
+2013,Број,2020/2021,_T,Оба пола,110404
+2013,Број,2011/2012,gymnasium,Оба пола,41081
+2013,Број,2012/2013,gymnasium,Оба пола,42225
+2013,Број,2013/2014,gymnasium,Оба пола,40065
+2013,Број,2014/2015,gymnasium,Оба пола,37132
+2013,Број,2015/2016,gymnasium,Оба пола,33321
+2013,Број,2016/2017,gymnasium,Оба пола,30615
+2013,Број,2017/2018,gymnasium,Оба пола,29591
+2013,Број,2018/2019,gymnasium,Оба пола,26731
+2013,Број,2019/2020,gymnasium,Оба пола,24817
+2013,Број,2020/2021,gymnasium,Оба пола,23867
+2013,Број,2011/2012,technical_schools,Оба пола,83704
+2013,Број,2012/2013,technical_schools,Оба пола,86539
+2013,Број,2013/2014,technical_schools,Оба пола,82743
+2013,Број,2014/2015,technical_schools,Оба пола,77388
+2013,Број,2015/2016,technical_schools,Оба пола,72109
+2013,Број,2016/2017,technical_schools,Оба пола,68743
+2013,Број,2017/2018,technical_schools,Оба пола,67895
+2013,Број,2018/2019,technical_schools,Оба пола,64706
+2013,Број,2019/2020,technical_schools,Оба пола,62846
+2013,Број,2020/2021,technical_schools,Оба пола,61811
+2013,Број,2011/2012,art_schools,Оба пола,1514
+2013,Број,2012/2013,art_schools,Оба пола,1520
+2013,Број,2013/2014,art_schools,Оба пола,1445
+2013,Број,2014/2015,art_schools,Оба пола,1291
+2013,Број,2015/2016,art_schools,Оба пола,1216
+2013,Број,2016/2017,art_schools,Оба пола,1203
+2013,Број,2017/2018,art_schools,Оба пола,1154
+2013,Број,2018/2019,art_schools,Оба пола,1166
+2013,Број,2019/2020,art_schools,Оба пола,1139
+2013,Број,2020/2021,art_schools,Оба пола,1151
+2013,Број,2011/2012,religion_schools,Оба пола,2095
+2013,Број,2012/2013,religion_schools,Оба пола,2266
+2013,Број,2013/2014,religion_schools,Оба пола,2258
+2013,Број,2014/2015,religion_schools,Оба пола,2222
+2013,Број,2015/2016,religion_schools,Оба пола,2189
+2013,Број,2016/2017,religion_schools,Оба пола,2227
+2013,Број,2017/2018,religion_schools,Оба пола,2309
+2013,Број,2018/2019,religion_schools,Оба пола,2245
+2013,Број,2019/2020,religion_schools,Оба пола,2197
+2013,Број,2020/2021,religion_schools,Оба пола,2196
+2013,Број,2011/2012,vocational_schools,Оба пола,34479
+2013,Број,2012/2013,vocational_schools,Оба пола,33672
+2013,Број,2013/2014,vocational_schools,Оба пола,29414
+2013,Број,2014/2015,vocational_schools,Оба пола,25463
+2013,Број,2015/2016,vocational_schools,Оба пола,23995
+2013,Број,2016/2017,vocational_schools,Оба пола,23642
+2013,Број,2017/2018,vocational_schools,Оба пола,22819
+2013,Број,2018/2019,vocational_schools,Оба пола,22280
+2013,Број,2019/2020,vocational_schools,Оба пола,21481
+2013,Број,2020/2021,vocational_schools,Оба пола,21054
+2013,Број,2011/2012,high_schools_for_children_with_special_needs,Оба пола,411
+2013,Број,2012/2013,high_schools_for_children_with_special_needs,Оба пола,440
+2013,Број,2013/2014,high_schools_for_children_with_special_needs,Оба пола,425
+2013,Број,2014/2015,high_schools_for_children_with_special_needs,Оба пола,385
+2013,Број,2015/2016,high_schools_for_children_with_special_needs,Оба пола,398
+2013,Број,2016/2017,high_schools_for_children_with_special_needs,Оба пола,394
+2013,Број,2017/2018,high_schools_for_children_with_special_needs,Оба пола,380
+2013,Број,2018/2019,high_schools_for_children_with_special_needs,Оба пола,347
+2013,Број,2019/2020,high_schools_for_children_with_special_needs,Оба пола,316
+2013,Број,2020/2021,high_schools_for_children_with_special_needs,Оба пола,325
+2013,Број,2011/2012,_T,M,82745
+2013,Број,2012/2013,_T,M,84420
+2013,Број,2013/2014,_T,M,78882
+2013,Број,2014/2015,_T,M,72095
+2013,Број,2015/2016,_T,M,66708
+2013,Број,2016/2017,_T,M,63232
+2013,Број,2017/2018,_T,M,61934
+2013,Број,2018/2019,_T,M,58821
+2013,Број,2019/2020,_T,M,56328
+2013,Број,2020/2021,_T,M,55068
+2013,Број,2011/2012,gymnasium,M,15329
+2013,Број,2012/2013,gymnasium,M,15779
+2013,Број,2013/2014,gymnasium,M,14829
+2013,Број,2014/2015,gymnasium,M,13802
+2013,Број,2015/2016,gymnasium,M,12424
+2013,Број,2016/2017,gymnasium,M,11379
+2013,Број,2017/2018,gymnasium,M,10929
+2013,Број,2018/2019,gymnasium,M,9694
+2013,Број,2019/2020,gymnasium,M,8899
+2013,Број,2020/2021,gymnasium,M,8451
+2013,Број,2011/2012,technical_schools,M,41624
+2013,Број,2012/2013,technical_schools,M,43010
+2013,Број,2013/2014,technical_schools,M,41216
+2013,Број,2014/2015,technical_schools,M,38340
+2013,Број,2015/2016,technical_schools,M,35563
+2013,Број,2016/2017,technical_schools,M,33308
+2013,Број,2017/2018,technical_schools,M,32926
+2013,Број,2018/2019,technical_schools,M,31248
+2013,Број,2019/2020,technical_schools,M,30030
+2013,Број,2020/2021,technical_schools,M,29382
+2013,Број,2011/2012,art_schools,M,657
+2013,Број,2012/2013,art_schools,M,645
+2013,Број,2013/2014,art_schools,M,581
+2013,Број,2014/2015,art_schools,M,512
+2013,Број,2015/2016,art_schools,M,471
+2013,Број,2016/2017,art_schools,M,454
+2013,Број,2017/2018,art_schools,M,432
+2013,Број,2018/2019,art_schools,M,447
+2013,Број,2019/2020,art_schools,M,403
+2013,Број,2020/2021,art_schools,M,411
+2013,Број,2011/2012,religion_schools,M,1089
+2013,Број,2012/2013,religion_schools,M,1138
+2013,Број,2013/2014,religion_schools,M,1149
+2013,Број,2014/2015,religion_schools,M,1106
+2013,Број,2015/2016,religion_schools,M,1070
+2013,Број,2016/2017,religion_schools,M,1099
+2013,Број,2017/2018,religion_schools,M,1121
+2013,Број,2018/2019,religion_schools,M,1075
+2013,Број,2019/2020,religion_schools,M,1053
+2013,Број,2020/2021,religion_schools,M,1027
+2013,Број,2011/2012,vocational_schools,M,23787
+2013,Број,2012/2013,vocational_schools,M,23567
+2013,Број,2013/2014,vocational_schools,M,20832
+2013,Број,2014/2015,vocational_schools,M,18088
+2013,Број,2015/2016,vocational_schools,M,16937
+2013,Број,2016/2017,vocational_schools,M,16746
+2013,Број,2017/2018,vocational_schools,M,16292
+2013,Број,2018/2019,vocational_schools,M,16137
+2013,Број,2019/2020,vocational_schools,M,15739
+2013,Број,2020/2021,vocational_schools,M,15588
+2013,Број,2011/2012,high_schools_for_children_with_special_needs,M,259
+2013,Број,2012/2013,high_schools_for_children_with_special_needs,M,281
+2013,Број,2013/2014,high_schools_for_children_with_special_needs,M,275
+2013,Број,2014/2015,high_schools_for_children_with_special_needs,M,247
+2013,Број,2015/2016,high_schools_for_children_with_special_needs,M,243
+2013,Број,2016/2017,high_schools_for_children_with_special_needs,M,246
+2013,Број,2017/2018,high_schools_for_children_with_special_needs,M,234
+2013,Број,2018/2019,high_schools_for_children_with_special_needs,M,220
+2013,Број,2019/2020,high_schools_for_children_with_special_needs,M,204
+2013,Број,2020/2021,high_schools_for_children_with_special_needs,M,209
+2013,Број,2011/2012,_T,Ж,80539
+2013,Број,2012/2013,_T,Ж,82242
+2013,Број,2013/2014,_T,Ж,77468
+2013,Број,2014/2015,_T,Ж,71786
+2013,Број,2015/2016,_T,Ж,66520
+2013,Број,2016/2017,_T,Ж,63592
+2013,Број,2017/2018,_T,Ж,62214
+2013,Број,2018/2019,_T,Ж,58654
+2013,Број,2019/2020,_T,Ж,56468
+2013,Број,2020/2021,_T,Ж,55336
+2013,Број,2011/2012,gymnasium,Ж,25752
+2013,Број,2012/2013,gymnasium,Ж,26446
+2013,Број,2013/2014,gymnasium,Ж,25236
+2013,Број,2014/2015,gymnasium,Ж,23330
+2013,Број,2015/2016,gymnasium,Ж,20897
+2013,Број,2016/2017,gymnasium,Ж,19236
+2013,Број,2017/2018,gymnasium,Ж,18662
+2013,Број,2018/2019,gymnasium,Ж,17037
+2013,Број,2019/2020,gymnasium,Ж,15918
+2013,Број,2020/2021,gymnasium,Ж,15416
+2013,Број,2011/2012,technical_schools,Ж,42080
+2013,Број,2012/2013,technical_schools,Ж,43529
+2013,Број,2013/2014,technical_schools,Ж,41527
+2013,Број,2014/2015,technical_schools,Ж,39048
+2013,Број,2015/2016,technical_schools,Ж,36546
+2013,Број,2016/2017,technical_schools,Ж,35435
+2013,Број,2017/2018,technical_schools,Ж,34969
+2013,Број,2018/2019,technical_schools,Ж,33458
+2013,Број,2019/2020,technical_schools,Ж,32816
+2013,Број,2020/2021,technical_schools,Ж,32429
+2013,Број,2011/2012,art_schools,Ж,857
+2013,Број,2012/2013,art_schools,Ж,875
+2013,Број,2013/2014,art_schools,Ж,864
+2013,Број,2014/2015,art_schools,Ж,779
+2013,Број,2015/2016,art_schools,Ж,745
+2013,Број,2016/2017,art_schools,Ж,749
+2013,Број,2017/2018,art_schools,Ж,722
+2013,Број,2018/2019,art_schools,Ж,719
+2013,Број,2019/2020,art_schools,Ж,736
+2013,Број,2020/2021,art_schools,Ж,740
+2013,Број,2011/2012,religion_schools,Ж,1006
+2013,Број,2012/2013,religion_schools,Ж,1128
+2013,Број,2013/2014,religion_schools,Ж,1109
+2013,Број,2014/2015,religion_schools,Ж,1116
+2013,Број,2015/2016,religion_schools,Ж,1119
+2013,Број,2016/2017,religion_schools,Ж,1128
+2013,Број,2017/2018,religion_schools,Ж,1188
+2013,Број,2018/2019,religion_schools,Ж,1170
+2013,Број,2019/2020,religion_schools,Ж,1144
+2013,Број,2020/2021,religion_schools,Ж,1169
+2013,Број,2011/2012,vocational_schools,Ж,10692
+2013,Број,2012/2013,vocational_schools,Ж,10105
+2013,Број,2013/2014,vocational_schools,Ж,8582
+2013,Број,2014/2015,vocational_schools,Ж,7375
+2013,Број,2015/2016,vocational_schools,Ж,7058
+2013,Број,2016/2017,vocational_schools,Ж,6896
+2013,Број,2017/2018,vocational_schools,Ж,6527
+2013,Број,2018/2019,vocational_schools,Ж,6143
+2013,Број,2019/2020,vocational_schools,Ж,5742
+2013,Број,2020/2021,vocational_schools,Ж,5466
+2013,Број,2011/2012,high_schools_for_children_with_special_needs,Ж,152
+2013,Број,2012/2013,high_schools_for_children_with_special_needs,Ж,159
+2013,Број,2013/2014,high_schools_for_children_with_special_needs,Ж,150
+2013,Број,2014/2015,high_schools_for_children_with_special_needs,Ж,138
+2013,Број,2015/2016,high_schools_for_children_with_special_needs,Ж,155
+2013,Број,2016/2017,high_schools_for_children_with_special_needs,Ж,148
+2013,Број,2017/2018,high_schools_for_children_with_special_needs,Ж,146
+2013,Број,2018/2019,high_schools_for_children_with_special_needs,Ж,127
+2013,Број,2019/2020,high_schools_for_children_with_special_needs,Ж,112
+2013,Број,2020/2021,high_schools_for_children_with_special_needs,Ж,116

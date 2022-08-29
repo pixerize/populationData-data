@@ -1,0 +1,48 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Type_of_user",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
+                ""
+              ]
+            },
+            "title": "Type_of_user"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-4",
+  "title": "Облици и услуге социјалне заштите према врсти корисника"
+}

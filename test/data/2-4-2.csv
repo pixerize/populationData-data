@@ -1,0 +1,22 @@
+Year,Пол,UNIT_MEASURE,Highest_education_atainment,Value
+2013,Оба пола,Број,No_education,146078
+2013,Оба пола,Број,Incomplete_primary_education,274036
+2013,Оба пола,Број,Primary_school,640726
+2013,Оба пола,Број,Secondary_school,1525161
+2013,Оба пола,Број,Post-secondary_school_specialization,21613
+2013,Оба пола,Број,High_school_and_first_grade_of_faculty,94204
+2013,Оба пола,Број,Advanced_schools_faculty_academy_university,285622
+2013,M,Број,No_education,24021
+2013,M,Број,Incomplete_primary_education,83216
+2013,M,Број,Primary_school,274258
+2013,M,Број,Secondary_school,864823
+2013,M,Број,Post-secondary_school_specialization,17877
+2013,M,Број,High_school_and_first_grade_of_faculty,51556
+2013,M,Број,Advanced_schools_faculty_academy_university,137543
+2013,Ж,Број,No_education,122057
+2013,Ж,Број,Incomplete_primary_education,190820
+2013,Ж,Број,Primary_school,366468
+2013,Ж,Број,Secondary_school,660338
+2013,Ж,Број,Post-secondary_school_specialization,3736
+2013,Ж,Број,High_school_and_first_grade_of_faculty,42648
+2013,Ж,Број,Advanced_schools_faculty_academy_university,148079
